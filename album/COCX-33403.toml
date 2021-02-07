@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MASTERPIECE 02"
+artist = "三浦あずさ（たかはし智秋）、如月千早（今井麻美）、菊地真（平田宏美）"
+date = 2005-11-02
+type = "normal"
+catalog = "COCX-33403"
+
+[[discs]]
+catalog = "COCX-33403"
+
+[[discs.tracks]]
+title = "9:02pm (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (ACM VERSION)"
+
+[[discs.tracks]]
+title = "9:02pm"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "蒼い鳥"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "9:02pm (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (ACM VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク「9:02pm～あずさ・千早・真～」"
+type = "drama"

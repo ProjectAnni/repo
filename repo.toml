@@ -1,0 +1,10 @@
+[repo]
+name = "Yesterday17's Metadata Repo"
+maintainers = ["Yesterday17 <mmf@mmf.moe>"]
+edition = "1"
+
+[repo.cover]
+enable = false
+
+[repo.lyric]
+enable = false

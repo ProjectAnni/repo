@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MASTERPIECE 01"
+artist = "天海春香（中村繪里子）、萩原雪歩（落合祐里香）、秋月律子（若林直美）"
+date = 2005-09-28
+type = "normal"
+catalog = "COCX-33355"
+
+[[discs]]
+catalog = "COCX-33355"
+
+[[discs.tracks]]
+title = "魔法をかけて！(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (HYR VERSION)"
+
+[[discs.tracks]]
+title = "太陽のジェラシー"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "First Stage"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "魔法をかけて！"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (HYR VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク「魔法をかけて！～春香・雪歩・律子～」"
+type = "drama"
