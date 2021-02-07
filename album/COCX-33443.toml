@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MASTERPIECE 03"
+artist = "水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2005-11-30
+type = "normal"
+catalog = "COCX-33443"
+
+[[discs]]
+catalog = "COCX-33443"
+
+[[discs.tracks]]
+title = "ポジティブ！ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (IYAM VERSION)"
+
+[[discs.tracks]]
+title = "Here we go!!"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ごはん"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "ポジティブ！"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ポジティブ！(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (IYAM VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク「ポジティブ！～伊織・やよい・亜美/真美～」"
+type = "drama"
