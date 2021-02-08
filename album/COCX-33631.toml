@@ -1,0 +1,59 @@
+[album]
+title = "THE IDOLM@STER MASTERPIECE 05"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2006-05-31
+type = "normal"
+catalog = "COCX-33631"
+
+[[discs]]
+catalog = "COCX-33631"
+
+[[discs.tracks]]
+title = "蒼い鳥（M@STER VERSION）"
+artist = "如月千早（今井麻美）、三浦あずさ（たかはし智秋）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "First Stage（M@STER VERSION）"
+artist = "萩原雪歩（落合祐里香）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Here we go!!（M@STER VERSION）"
+artist = "水瀬伊織（釘宮理恵）、天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "蒼い鳥（M@STER VERSION）オリジナル・カラオケ"
+artist = "如月千早（今井麻美）、三浦あずさ（たかはし智秋）、秋月律子（若林直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "First Stage（M@STER VERSION）オリジナル・カラオケ"
+artist = "萩原雪歩（落合祐里香）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Here we go!!（M@STER VERSION）オリジナル・カラオケ"
+artist = "水瀬伊織（釘宮理恵）、天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER BGM「debut」MAIN BGM～MORNING～THINKING～APPEAL"
+type = "absolute"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER BGM「memories」ENERGY～BRIGHT～TOWN～TENDER～PAINFUL"
+type = "absolute"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER BGM「glory」SENTAKU2～MATCHING～TV～.MORNING0～NIGHT"
+type = "absolute"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER BGM「encore」ED_MORNING～DARK～SPEED～ED_SIPPAI～ED_SEIKOU～ED_DAISEIKO"
+type = "absolute"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER（M@STER VERSION -REMIX-）"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"
