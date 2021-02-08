@@ -1,0 +1,59 @@
+[album]
+title = "THE IDOLM@STER Christmas for you!"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、菊地真（平田宏美）、星井美希（長谷川明子）"
+date = 2007-12-19
+type = "normal"
+catalog = "COCX-34727"
+
+[[discs]]
+catalog = "COCX-34727"
+
+[[discs.tracks]]
+title = "サンタが町にやってくる"
+
+[[discs.tracks]]
+title = "SCENE 01"
+type = "drama"
+
+[[discs.tracks]]
+title = "サンタクロースはどこのひと"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "SCENE 02"
+type = "drama"
+
+[[discs.tracks]]
+title = "DING DONG"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "SCENE 03"
+type = "drama"
+
+[[discs.tracks]]
+title = "雪に願いを"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "SCENE 04"
+type = "drama"
+
+[[discs.tracks]]
+title = "星の降る街"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "SCENE 05"
+type = "drama"
+
+[[discs.tracks]]
+title = "PEARL-WHITE EVE"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "SCENE 06"
+type = "drama"
+
+[[discs.tracks]]
+title = "メリー"
