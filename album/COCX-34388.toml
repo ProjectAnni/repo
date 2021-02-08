@@ -1,0 +1,67 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 02"
+artist = "高槻やよい（仁後真耶子）"
+date = 2007-07-18
+type = "normal"
+catalog = "COCX-34388"
+
+[[discs]]
+catalog = "COCX-34388"
+
+[[discs.tracks]]
+title = "キラメキラリ"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ふたりのもじぴったん"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "リルラ リルハ"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "GO MY WAY!!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "私はアイドル♥（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "高槻やよい（仁後真耶子）、天海春香（中村繪里子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク06"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク07"
+type = "drama"
+
+[[discs.tracks]]
+title = "キラメキラリ（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク08"
+type = "drama"
