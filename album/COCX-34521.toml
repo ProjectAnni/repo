@@ -1,0 +1,72 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST FINALE"
+artist = "音無小鳥（滝田樹里）"
+date = 2007-10-24
+type = "normal"
+catalog = "COCX-34521"
+
+[[discs]]
+catalog = "COCX-34521"
+
+[[discs.tracks]]
+title = "団結"
+artist = "IM@S ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子））"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "空"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "音無小鳥（滝田樹里）、天海春香（中村繪里子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "やさしさに包まれたなら"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "音無小鳥（滝田樹里）、天海春香（中村繪里子）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ID:[OL]"
+artist = "音無小鳥 featuring T（音無小鳥（滝田樹里）、軽口哲也（細井治）、高木順一朗（徳丸完））"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "音無小鳥（滝田樹里）、天海春香（中村繪里子）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+artist = "IM@S ALLSTARS+（天海春香（中村繪里子）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）、音無小鳥（滝田樹里））"
+
+[[discs.tracks]]
+title = "トーク06"
+artist = "音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "空（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク07"
+type = "drama"
+
+[[discs.tracks]]
+title = "社長訓示"
+artist = "天海春香（中村繪里子）、高木順一朗（徳丸完）、軽口哲也（細井治）"
+type = "drama"

@@ -1,0 +1,70 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 08"
+artist = "水瀬伊織（釘宮理恵）"
+date = 2007-09-05
+type = "normal"
+catalog = "COCX-34394"
+
+[[discs]]
+catalog = "COCX-34394"
+
+[[discs.tracks]]
+title = "フタリの記憶"
+
+[[discs.tracks]]
+title = "トーク01"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ガーネット"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドゥ・ユー・リメンバー・ミー"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+type = "drama"
+
+[[discs.tracks]]
+title = "私はアイドル♥ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+type = "drama"
+
+[[discs.tracks]]
+title = "GO MY WAY!! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク05"
+type = "drama"
+
+[[discs.tracks]]
+title = "Here we go!! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク06"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク07"
+type = "drama"
+
+[[discs.tracks]]
+title = "フタリの記憶（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク08"
+type = "drama"

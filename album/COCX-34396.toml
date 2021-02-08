@@ -1,0 +1,68 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 10"
+artist = "秋月律子（若林直美）"
+date = 2007-09-19
+type = "normal"
+catalog = "COCX-34396"
+
+[[discs]]
+catalog = "COCX-34396"
+
+[[discs.tracks]]
+title = "いっぱいいっぱい"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "東京は夜の七時～the night is still young～"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "1/6の夢旅人2002"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "My Best Friend（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "秋月律子（若林直美）、萩原雪歩（落合祐里香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "思い出をありがとう（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "秋月律子（若林直美）、萩原雪歩（落合祐里香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "魔法をかけて！(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク06"
+artist = "秋月律子（若林直美）、萩原雪歩（落合祐里香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク07"
+
+[[discs.tracks]]
+title = "いっぱいいっぱい（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク08"
+type = "drama"

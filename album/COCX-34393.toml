@@ -1,0 +1,55 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 07"
+artist = "三浦あずさ（たかはし智秋）"
+date = 2007-09-05
+type = "normal"
+catalog = "COCX-34393"
+
+[[discs]]
+catalog = "COCX-34393"
+
+[[discs.tracks]]
+title = "隣に・・・"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "You're My Only Shining Star"
+
+[[discs.tracks]]
+title = "Kiss Me Good-Bye"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "まっすぐ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "思い出をありがとう (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "9:02pm (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "隣に・・・（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク05"
+type = "drama"
