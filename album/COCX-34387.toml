@@ -1,0 +1,55 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 01"
+artist = "天海春香（中村繪里子）"
+date = 2007-07-18
+type = "normal"
+catalog = "COCX-34387"
+
+[[discs]]
+catalog = "COCX-34387"
+
+[[discs.tracks]]
+title = "I Want"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "大スキ！"
+
+[[discs.tracks]]
+title = "悲しみよこんにちは"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "GO MY WAY!!（M@STER VERSION)"
+
+[[discs.tracks]]
+title = "神さまのbirthday"
+
+[[discs.tracks]]
+title = "太陽のジェラシー（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "I Want（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク05"
+type = "drama"
