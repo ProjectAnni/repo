@@ -1,0 +1,68 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 06"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2007-08-22
+type = "normal"
+catalog = "COCX-34392"
+
+[[discs]]
+catalog = "COCX-34392"
+
+[[discs.tracks]]
+title = "スタ→トスタ→"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラムのラブソング"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "笑顔のゲンキ"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "私はアイドル♥（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "My Best Friend（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、如月千早（今井麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ポジティブ！（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク06"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、如月千早（今井麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク07"
+type = "drama"
+
+[[discs.tracks]]
+title = "スタ→トスタ→（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク08"
+type = "drama"

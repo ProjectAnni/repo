@@ -1,0 +1,60 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 05"
+artist = "如月千早（今井麻美）"
+date = 2007-08-22
+type = "normal"
+catalog = "COCX-34391"
+
+[[discs]]
+catalog = "COCX-34391"
+
+[[discs.tracks]]
+title = "目が逢う瞬間"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "鳥の詩"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "まっくら森の歌"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "蒼い鳥（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "神さまのBirthday"
+
+[[discs.tracks]]
+title = "relations（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク05"
+type = "drama"
+
+[[discs.tracks]]
+title = "目が逢う瞬間（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク06"
+type = "drama"
