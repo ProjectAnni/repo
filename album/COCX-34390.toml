@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 04"
+artist = "菊地真（平田宏美）"
+date = 2007-08-01
+type = "normal"
+catalog = "COCX-34390"
+
+[[discs]]
+catalog = "COCX-34390"
+
+[[discs.tracks]]
+title = "迷走Mind"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "仮面舞踏会"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "Swallowtail Butterfly ～あいのうた～"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "菊地真（平田宏美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "まっすぐ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "菊地真（平田宏美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "思い出をありがとう (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "菊地真（平田宏美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トーク06"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク07"
+type = "drama"
+
+[[discs.tracks]]
+title = "迷走Mind（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク08"
+type = "drama"
