@@ -1,0 +1,54 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 03"
+artist = "星井美希（長谷川明子）"
+date = 2007-08-01
+type = "normal"
+catalog = "COCX-34389"
+
+[[discs]]
+catalog = "COCX-34389"
+
+[[discs.tracks]]
+title = "ふるふるフューチャー☆"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "涙のハリケーン"
+
+[[discs.tracks]]
+title = "すいみん不足"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "星井美希（長谷川明子）、菊地真（平田宏美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "relations (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "私はアイドル♥"
+
+[[discs.tracks]]
+title = "神さまのBirthday"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "i"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "ふるふるフューチャー☆（オリジナル・カラオケ）"
+
+[[discs.tracks]]
+title = "トーク05"
+type = "drama"
