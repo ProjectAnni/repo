@@ -1,0 +1,27 @@
+[album]
+title = "THE IDOLM@STER MASTERWORK 00"
+artist = "星井美希（長谷川明子）、天海春香（中村繪里子）、如月千早（今井麻美）"
+date = 2006-12-20
+type = "normal"
+catalog = "COZX-239"
+
+[[discs]]
+catalog = "COZX-239"
+
+[[discs.tracks]]
+title = "私はアイドル♥"
+
+[[discs.tracks]]
+title = "神さまのBirthday"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER"
+artist = "IM@S ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子））"
+
+[[discs.tracks]]
+title = "私はアイドル♥ オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "神さまのBirthday オリジナル・カラオケ"
+type = "instrumental"

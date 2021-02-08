@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MASTERWORK 02"
+artist = "星井美希（長谷川明子）、如月千早（今井麻美）、秋月律子（若林直美）、萩原雪歩（落合祐里香）、双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2007-02-28
+type = "normal"
+catalog = "COCX-34165"
+
+[[discs]]
+catalog = "COCX-34165"
+
+[[discs.tracks]]
+title = "relations（M@STER VERSION）"
+artist = "星井美希（長谷川明子）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "MY BEST FRIEND（M@STER VERSION）"
+artist = "秋月律子（若林直美）、萩原雪歩（落合祐里香）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "魔法をかけて（M@STER VERSION）"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ポジティブ！（M@STER VERSION）"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "relations（M@STER VERSION）オリジナル・カラオケ"
+artist = "星井美希（長谷川明子）、如月千早（今井麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "MY BEST FRIEND（M@STER VERSION）オリジナル・カラオケ"
+artist = "秋月律子（若林直美）、萩原雪歩（落合祐里香）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

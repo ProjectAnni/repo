@@ -1,0 +1,43 @@
+[album]
+title = "THE IDOLM@STER MASTERWORK 01"
+artist = "天海春香（中村繪里子）、水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+date = 2007-01-31
+type = "normal"
+catalog = "COCX-34119"
+
+[[discs]]
+catalog = "COCX-34119"
+
+[[discs.tracks]]
+title = "GO MY WAY!!（M@STER VERSION）"
+artist = "天海春香（中村繪里子）、水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "思い出をありがとう（M@STER VERSION）"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー（M@STER VERSION）"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Here we go!!（M@STER VERSION）"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯（M@STER VERSION）"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "GO MY WAY!!（M@STER VERSION）オリジナル・カラオケ"
+artist = "天海春香（中村繪里子）、水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "思い出をありがとう（M@STER VERSION）オリジナル・カラオケ"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"
