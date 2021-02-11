@@ -1,0 +1,30 @@
+[album]
+title = "キミのとなりで"
+artist = "鬼頭明里"
+date = 2020-10-28
+type = "normal"
+catalog = "PCCG-01940"
+
+[[discs]]
+catalog = "PCCG-01940"
+
+[[discs.tracks]]
+title = "キミのとなりで"
+
+[[discs.tracks]]
+title = "Dive to World"
+
+[[discs.tracks]]
+title = "トウメイナユメ"
+
+[[discs.tracks]]
+title = "キミのとなりで (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dive to World (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トウメイナユメ (Instrumental)"
+type = "instrumental"

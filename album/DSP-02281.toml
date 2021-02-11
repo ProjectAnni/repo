@@ -1,0 +1,17 @@
+[album]
+title = "「君に会えた日」ソロver. 楽曲CD"
+artist = "安達（鬼頭明里）、しまむら（伊藤美来）"
+date = 2021-01-06
+type = "normal"
+catalog = "DSP-02281"
+
+[[discs]]
+catalog = "DSP-02281"
+
+[[discs.tracks]]
+title = "君に会えた日 -安達（CV:鬼頭明里）ソロ ver.-"
+artist = "安達（鬼頭明里）"
+
+[[discs.tracks]]
+title = "君に会えた日 -しまむら（CV:伊藤美来）ソロ ver.-"
+artist = "しまむら（伊藤美来）"

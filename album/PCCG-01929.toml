@@ -1,0 +1,30 @@
+[album]
+title = "君に会えた日"
+artist = "安達（鬼頭明里）、しまむら（伊藤美来）"
+date = 2020-10-28
+type = "normal"
+catalog = "PCCG-01929"
+
+[[discs]]
+catalog = "PCCG-01929"
+
+[[discs.tracks]]
+title = "君に会えた日"
+
+[[discs.tracks]]
+title = "メリーゴーランド"
+
+[[discs.tracks]]
+title = "君に会えた日 -TV size ver.-"
+
+[[discs.tracks]]
+title = "メリーゴーランド -Glocken Ver.-"
+type = "absolute"
+
+[[discs.tracks]]
+title = "君に会えた日 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メリーゴーランド -instrumental-"
+type = "instrumental"
