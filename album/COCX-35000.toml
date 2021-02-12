@@ -1,0 +1,53 @@
+[album]
+title = "THE IDOLM@STER MASTER LIVE 04 my song"
+artist = "水瀬伊織（釘宮理恵）、菊地真（平田宏美）、三浦あずさ（たかはし智秋）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、秋月律子（若林直美）、音無小鳥（滝田樹里）"
+date = 2008-06-18
+type = "normal"
+catalog = "COCX-35000"
+
+[[discs]]
+catalog = "COCX-35000"
+
+[[discs.tracks]]
+title = "開演のあいさつ"
+artist = "音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "my song（M@STER VERSION）"
+artist = "水瀬伊織（釘宮理恵）、菊地真（平田宏美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "inferno"
+artist = "如月千早（今井麻美）、萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "ENCORE"
+
+[[discs.tracks]]
+title = "relations（REM@STER-B）"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "9:02pm（REM@STER-B）"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！（REM@STER-B）"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Here we go!!（REM@STER-B）"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "思い出をありがとう（REM@STER-B）"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "my song（M@STER VERSION）オリジナル・カラオケ"
+artist = "水瀬伊織（釘宮理恵）、菊地真（平田宏美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

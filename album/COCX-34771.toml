@@ -1,0 +1,54 @@
+[album]
+title = "THE IDOLM@STER MASTER LIVE 03 Do-Dai"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、双海亜美（下田麻美）、双海真美（下田麻美）、菊地真（平田宏美）、音無小鳥（滝田樹里）"
+date = 2008-05-14
+type = "normal"
+catalog = "COCX-34771"
+
+[[discs]]
+catalog = "COCX-34771"
+
+[[discs.tracks]]
+title = "開演のあいさつ"
+artist = "音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Do-Dai（M@STER VERSION）"
+artist = "高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Yes♪"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ENCORE"
+
+[[discs.tracks]]
+title = "My Best Friend（REM@STER-A）"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー（REM@STER-A）"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "私はアイドル♥（REM@STER-A）"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "蒼い鳥（REM@STER-A）"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "おはよう!!朝ご飯（REM@STER-B）"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Do-Dai（M@STER VERSION）オリジナル・カラオケ"
+artist = "高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

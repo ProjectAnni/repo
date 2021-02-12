@@ -1,0 +1,54 @@
+[album]
+title = "THE IDOLM@STER MASTER LIVE 01 REM@STER-A"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、双海真美（下田麻美）、音無小鳥（滝田樹里）"
+date = 2008-03-05
+type = "normal"
+catalog = "COCX-34769"
+
+[[discs]]
+catalog = "COCX-34769"
+
+[[discs.tracks]]
+title = "開演のあいさつ"
+artist = "音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "GO MY WAY!!（REM@STER-A）"
+artist = "星井美希（長谷川明子）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ポジティブ！（REM@STER-A）"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "relations（REM@STER-A）"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "魔法をかけて！（REM@STER-A）"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "おはよう!!朝ご飯（REM@STER-A）"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Here we go!!（REM@STER-A）"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "9:02pm（REM@STER-A）"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "思い出をありがとう（REM@STER-A）"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "いっしょ"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

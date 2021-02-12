@@ -1,0 +1,59 @@
+[album]
+title = "THE IDOLM@STER Vacation for you!"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、萩原雪歩（落合祐里香）、秋月律子（若林直美）"
+date = 2008-07-23
+type = "normal"
+catalog = "COCX-35002"
+
+[[discs]]
+catalog = "COCX-35002"
+
+[[discs.tracks]]
+title = "VACATION"
+
+[[discs.tracks]]
+title = "SCENE01"
+type = "drama"
+
+[[discs.tracks]]
+title = "カナリア諸島にて"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "SCENE02"
+type = "drama"
+
+[[discs.tracks]]
+title = "Sunny Day Sunday"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "SCENE03"
+type = "drama"
+
+[[discs.tracks]]
+title = "愛より青い海"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "SCENE04"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏空グラフィティ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "SCENE05"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏影"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "SCENE06"
+type = "drama"
+
+[[discs.tracks]]
+title = "サニー"

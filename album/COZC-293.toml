@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER MASTER LIVE 00 shiny smile"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、秋月律子（若林直美）、星井美希（長谷川明子）、双海亜美（下田麻美）、双海真美（下田麻美）、音無小鳥（滝田樹里）"
+date = 2008-02-13
+type = "normal"
+catalog = "COZC-293"
+
+[[discs]]
+catalog = "COZC-293"
+
+[[discs.tracks]]
+title = "shiny smile (M@STER VERSION)"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "バレンタイン"
+artist = "星井美希（長谷川明子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (k VERSION)"
+artist = "音無小鳥（滝田樹里）"
+
+[[discs.tracks]]
+title = "shiny smile (M@STER VERSION) オリジナル・カラオケ"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、秋月律子（若林直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バレンタイン オリジナル・カラオケ"
+artist = "星井美希（長谷川明子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "instrumental"
