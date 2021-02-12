@@ -1,0 +1,21 @@
+[album]
+title = "SPARK-AGAIN"
+artist = "Aimer"
+date = 2020-09-09
+type = "normal"
+catalog = "SECL-2605"
+
+[[discs]]
+catalog = "SECL-2605"
+
+[[discs.tracks]]
+title = "SPARK-AGAIN"
+
+[[discs.tracks]]
+title = "悲しみの向こう側"
+
+[[discs.tracks]]
+title = "Ash flame"
+
+[[discs.tracks]]
+title = "Work it out"

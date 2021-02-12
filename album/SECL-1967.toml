@@ -1,0 +1,18 @@
+[album]
+title = "蝶々結び"
+artist = "Aimer"
+date = 2016-08-17
+type = "normal"
+catalog = "SECL-1967"
+
+[[discs]]
+catalog = "SECL-1967"
+
+[[discs.tracks]]
+title = "蝶々結び"
+
+[[discs.tracks]]
+title = "夏草に君を想う"
+
+[[discs.tracks]]
+title = "セプテンバーさん"

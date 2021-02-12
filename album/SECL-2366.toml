@@ -1,0 +1,24 @@
+[album]
+title = "I beg you／花びらたちのマーチ／Sailing"
+artist = "Aimer"
+date = 2019-01-09
+type = "normal"
+catalog = "SECL-2366"
+
+[[discs]]
+catalog = "SECL-2366"
+
+[[discs.tracks]]
+title = "I beg you"
+
+[[discs.tracks]]
+title = "花びらたちのマーチ"
+
+[[discs.tracks]]
+title = "Sailing"
+
+[[discs.tracks]]
+title = "Mine -Mellow Yellow ver.-"
+
+[[discs.tracks]]
+title = "ポラリス (haruka nakamura ursa remix)"

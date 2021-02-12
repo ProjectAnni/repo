@@ -1,0 +1,39 @@
+[album]
+title = "Sun Dance"
+artist = "Aimer"
+date = 2019-04-10
+type = "normal"
+catalog = "SECL-2420"
+
+[[discs]]
+catalog = "SECL-2420"
+
+[[discs.tracks]]
+title = "soleil"
+
+[[discs.tracks]]
+title = "ONE"
+
+[[discs.tracks]]
+title = "We Two"
+
+[[discs.tracks]]
+title = "3min"
+
+[[discs.tracks]]
+title = "コイワズライ"
+
+[[discs.tracks]]
+title = "花びらたちのマーチ"
+
+[[discs.tracks]]
+title = "思い出は奇麗で"
+
+[[discs.tracks]]
+title = "Monochrome Syndrome"
+
+[[discs.tracks]]
+title = "SUN DANCE"
+
+[[discs.tracks]]
+title = "One -epilogue-"

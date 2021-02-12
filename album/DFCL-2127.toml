@@ -1,0 +1,24 @@
+[album]
+title = "Brave Shine"
+artist = "Aimer"
+date = 2015-06-03
+type = "normal"
+catalog = "DFCL-2127"
+
+[[discs]]
+catalog = "DFCL-2127"
+
+[[discs.tracks]]
+title = "Brave Shine"
+
+[[discs.tracks]]
+title = "Ophelia"
+
+[[discs.tracks]]
+title = "君を待つ -acoustic ver.-"
+
+[[discs.tracks]]
+title = 'AM03:00 -Live "Midnight Sun" ver.-'
+
+[[discs.tracks]]
+title = '7月の翼 -Live "Midnight Sun" ver.-'

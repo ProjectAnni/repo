@@ -1,0 +1,21 @@
+[album]
+title = "Ref:rain／眩いばかり"
+artist = "Aimer"
+date = 2018-02-21
+type = "normal"
+catalog = "SECL-2252"
+
+[[discs]]
+catalog = "SECL-2252"
+
+[[discs.tracks]]
+title = "Ref:rain"
+
+[[discs.tracks]]
+title = "眩いばかり"
+
+[[discs.tracks]]
+title = "After Rain –Scarlet ver.-"
+
+[[discs.tracks]]
+title = "Raining"

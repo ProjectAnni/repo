@@ -1,0 +1,39 @@
+[album]
+title = "Penny Rain"
+artist = "Aimer"
+date = 2019-04-10
+type = "normal"
+catalog = "SECL-2421"
+
+[[discs]]
+catalog = "SECL-2421"
+
+[[discs.tracks]]
+title = "pluie"
+
+[[discs.tracks]]
+title = "I beg you"
+
+[[discs.tracks]]
+title = "Black Bird"
+
+[[discs.tracks]]
+title = "Sailing"
+
+[[discs.tracks]]
+title = "眩いばかり"
+
+[[discs.tracks]]
+title = "Stand By You"
+
+[[discs.tracks]]
+title = "Ref:rain"
+
+[[discs.tracks]]
+title = "i-mage ＜in/AR＞"
+
+[[discs.tracks]]
+title = "花の唄"
+
+[[discs.tracks]]
+title = "April Showers"

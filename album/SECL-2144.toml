@@ -1,0 +1,51 @@
+[album]
+title = 'BEST SELECTION "noir"'
+artist = "Aimer"
+date = 2017-05-03
+type = "normal"
+catalog = "SECL-2144"
+
+[[discs]]
+catalog = "SECL-2144"
+
+[[discs.tracks]]
+title = "StarRingChild"
+
+[[discs.tracks]]
+title = "Brave Shine"
+
+[[discs.tracks]]
+title = "insane dream"
+
+[[discs.tracks]]
+title = "Stars in the rain"
+
+[[discs.tracks]]
+title = "眠りの森"
+
+[[discs.tracks]]
+title = "LAST STARDUST"
+
+[[discs.tracks]]
+title = "凍えそうな季節から -extended ver.-"
+
+[[discs.tracks]]
+title = "誰か、海を。"
+
+[[discs.tracks]]
+title = "ninelie"
+
+[[discs.tracks]]
+title = "holLow wORlD"
+
+[[discs.tracks]]
+title = "us"
+
+[[discs.tracks]]
+title = "s-AVE"
+
+[[discs.tracks]]
+title = "RE:I AM"
+
+[[discs.tracks]]
+title = "zero"

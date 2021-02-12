@@ -1,0 +1,50 @@
+[album]
+title = "daydream"
+artist = "Aimer"
+date = 2016-09-21
+type = "normal"
+catalog = "SECL-1983"
+
+[[discs]]
+catalog = "SECL-1983"
+
+[[discs.tracks]]
+title = "insane dream"
+
+[[discs.tracks]]
+title = "ninelie with chelly(EGOIST)"
+artist = "Aimer、Chelly(EGOIST)"
+
+[[discs.tracks]]
+title = "twoface"
+
+[[discs.tracks]]
+title = "Higher Ground"
+
+[[discs.tracks]]
+title = "for ロンリー with 阿部真央"
+artist = "Aimer、阿部真央"
+
+[[discs.tracks]]
+title = "蝶々結び"
+
+[[discs.tracks]]
+title = "カタオモイ"
+
+[[discs.tracks]]
+title = "Hƶ(ヘルツ)"
+
+[[discs.tracks]]
+title = "声色"
+
+[[discs.tracks]]
+title = "closer"
+
+[[discs.tracks]]
+title = "Falling Alone"
+
+[[discs.tracks]]
+title = "us"
+
+[[discs.tracks]]
+title = "Stars in the rain"

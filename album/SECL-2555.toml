@@ -1,0 +1,21 @@
+[album]
+title = "春はゆく／marie"
+artist = "Aimer"
+date = 2020-03-25
+type = "normal"
+catalog = "SECL-2555"
+
+[[discs]]
+catalog = "SECL-2555"
+
+[[discs.tracks]]
+title = "春はゆく"
+
+[[discs.tracks]]
+title = "marie"
+
+[[discs.tracks]]
+title = "Run Riot"
+
+[[discs.tracks]]
+title = "花の唄 end of spring ver."

@@ -1,0 +1,21 @@
+[album]
+title = "ONE／花の唄／六等星の夜 Magic Blue ver."
+artist = "Aimer"
+date = 2017-10-11
+type = "normal"
+catalog = "SECL-2209"
+
+[[discs]]
+catalog = "SECL-2209"
+
+[[discs.tracks]]
+title = "ONE"
+
+[[discs.tracks]]
+title = "花の唄"
+
+[[discs.tracks]]
+title = "六等星の夜 Magic Blue ver."
+
+[[discs.tracks]]
+title = "糸"

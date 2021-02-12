@@ -1,0 +1,29 @@
+[album]
+title = "茜さす／everlasting snow"
+artist = "Aimer"
+date = 2016-11-16
+type = "normal"
+catalog = "SECL-2067"
+
+[[discs]]
+catalog = "SECL-2067"
+
+[[discs.tracks]]
+title = "茜さす"
+
+[[discs.tracks]]
+title = "everlasting snow"
+
+[[discs.tracks]]
+title = "カタオモイ (5th Anniversary Live ver.)"
+
+[[discs.tracks]]
+title = "茜さす (TV size)"
+
+[[discs.tracks]]
+title = "茜さす (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "everlasting snow (instrumental)"
+type = "instrumental"

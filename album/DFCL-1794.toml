@@ -1,0 +1,18 @@
+[album]
+title = "六等星の夜／悲しみはオーロラに／TWINKLE TWINKLE LITTLE STAR"
+artist = "Aimer"
+date = 2011-09-07
+type = "normal"
+catalog = "DFCL-1794"
+
+[[discs]]
+catalog = "DFCL-1794"
+
+[[discs.tracks]]
+title = "六等星の夜"
+
+[[discs.tracks]]
+title = "悲しみはオーロラに"
+
+[[discs.tracks]]
+title = "TWINKLE TWINKLE LITTLE STAR"

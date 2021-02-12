@@ -1,0 +1,34 @@
+[album]
+title = "broKen NIGHT／holLow wORlD"
+artist = "Aimer"
+date = 2014-12-17
+type = "normal"
+catalog = "DFCL-2100"
+
+[[discs]]
+catalog = "DFCL-2100"
+
+[[discs.tracks]]
+title = "broKen NIGHT"
+
+[[discs.tracks]]
+title = "holLow wORlD"
+
+[[discs.tracks]]
+title = "Open The Doors"
+
+[[discs.tracks]]
+title = "my sweetest one"
+
+[[discs.tracks]]
+title = "broKen NIGHT（Fate/hollow ataraxia edit）"
+
+[[discs.tracks]]
+title = "holLow wORlD（Fate/hollow ataraxia edit）"
+
+[[discs.tracks]]
+title = "Open The Doors（Fate/hollow ataraxia edit）"
+
+[[discs.tracks]]
+title = "broKen NIGHT (instrumental)"
+type = "instrumental"

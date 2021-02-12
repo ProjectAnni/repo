@@ -1,0 +1,24 @@
+[album]
+title = "Torches"
+artist = "Aimer"
+date = 2019-08-14
+type = "normal"
+catalog = "SECL-2480"
+
+[[discs]]
+catalog = "SECL-2480"
+
+[[discs.tracks]]
+title = "Torches"
+
+[[discs.tracks]]
+title = "Blind to you"
+
+[[discs.tracks]]
+title = "Daisy"
+
+[[discs.tracks]]
+title = 'Black Bird (Aimer "soleilet pluie" Asia Tour in Shanghai)'
+
+[[discs.tracks]]
+title = 'I beg you (Aimer "soleil et pluie" Asia Tour in Shanghai)'

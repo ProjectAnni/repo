@@ -1,0 +1,57 @@
+[album]
+title = "Bitter & Sweet"
+artist = "Aimer"
+date = 2012-12-12
+type = "normal"
+catalog = "DFCL-1960"
+
+[[discs]]
+catalog = "DFCL-1960"
+
+[[discs.tracks]]
+title = "リフレインが叫んでる"
+
+[[discs.tracks]]
+title = "L-O-V-E"
+
+[[discs.tracks]]
+title = "Poker Face"
+
+[[discs.tracks]]
+title = "三日月"
+
+[[discs.tracks]]
+title = "Viva La Vida"
+
+[[discs.tracks]]
+title = "また君に恋してる"
+
+[[discs.tracks]]
+title = "強く儚い者たち"
+
+[[discs.tracks]]
+title = "Calendar Girl"
+
+[[discs.tracks]]
+title = "今宵の月のように"
+
+[[discs.tracks]]
+title = "Baby Love"
+
+[[discs.tracks]]
+title = "Crazy In Love"
+
+[[discs.tracks]]
+title = "Precious"
+
+[[discs.tracks]]
+title = "Breaking Up Is Hard To Do"
+
+[[discs.tracks]]
+title = "I WILL ALWAYS LOVE YOU"
+
+[[discs.tracks]]
+title = "CHANGE THE WORLD"
+
+[[discs.tracks]]
+title = "ORION"

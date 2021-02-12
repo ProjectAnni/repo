@@ -1,0 +1,18 @@
+[album]
+title = "insane dream／us"
+artist = "Aimer"
+date = 2016-07-06
+type = "normal"
+catalog = "SECL-1934"
+
+[[discs]]
+catalog = "SECL-1934"
+
+[[discs.tracks]]
+title = "insane dream"
+
+[[discs.tracks]]
+title = "us"
+
+[[discs.tracks]]
+title = "tone"

@@ -1,0 +1,24 @@
+[album]
+title = "Black Bird／Tiny Dancers／思い出は奇麗で"
+artist = "Aimer"
+date = 2018-09-05
+type = "normal"
+catalog = "SECL-2330"
+
+[[discs]]
+catalog = "SECL-2330"
+
+[[discs.tracks]]
+title = "Black Bird"
+
+[[discs.tracks]]
+title = "Tiny Dancers"
+
+[[discs.tracks]]
+title = "思い出は奇麗で"
+
+[[discs.tracks]]
+title = "今日から思い出 Evergreen ver."
+
+[[discs.tracks]]
+title = "Black Bird (Movie ver.)"

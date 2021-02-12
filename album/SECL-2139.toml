@@ -1,0 +1,51 @@
+[album]
+title = 'BEST SELECTION "blanc"'
+artist = "Aimer"
+date = 2017-05-03
+type = "normal"
+catalog = "SECL-2139"
+
+[[discs]]
+catalog = "SECL-2139"
+
+[[discs.tracks]]
+title = "六等星の夜"
+
+[[discs.tracks]]
+title = "蝶々結び"
+
+[[discs.tracks]]
+title = "あなたに出会わなければ～夏雪冬花～"
+
+[[discs.tracks]]
+title = "ポラリス"
+
+[[discs.tracks]]
+title = "Re:pray"
+
+[[discs.tracks]]
+title = "星屑ビーナス"
+
+[[discs.tracks]]
+title = "broKen NIGHT"
+
+[[discs.tracks]]
+title = "カタオモイ"
+
+[[discs.tracks]]
+title = "君を待つ"
+
+[[discs.tracks]]
+title = "茜さす"
+
+[[discs.tracks]]
+title = "雪の降る街"
+
+[[discs.tracks]]
+title = "everlasting snow"
+
+[[discs.tracks]]
+title = "March of Time"
+
+[[discs.tracks]]
+title = "歌鳥風月"
