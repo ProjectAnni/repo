@@ -1,0 +1,75 @@
+[album]
+title = "Geheime Musikbuch : 秘密の音楽帖 ～Atelier Ryza 2 Special Arrange CD～"
+artist = "Various Artists"
+date = 2020-12-02
+type = "absolute"
+catalog = "KCS-8055"
+
+[[discs]]
+catalog = "KCS-8055"
+
+[[discs.tracks]]
+title = "Faraway"
+artist = "市川愛"
+type = "normal"
+
+[[discs.tracks]]
+title = "新たなる冒険の拠点 (Guitar Orchestration Ver. by Dani)"
+artist = "裏谷玲央"
+
+[[discs.tracks]]
+title = "今日も晴れです! (Lofi Chillhop Ver. by 阿部隆大)"
+artist = "松村佑樹"
+
+[[discs.tracks]]
+title = "石畳にはずむステップ (Inverted Future Bass Ver.by Dani)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "自由への夢 (Analogue Mix Ver. by 阿部隆大)"
+artist = "裏谷玲央"
+
+[[discs.tracks]]
+title = "王都の賑わい (Pop Ver. by 柳川和樹)"
+artist = "松村佑樹"
+
+[[discs.tracks]]
+title = "いにしえの鐘の音 (Dramatic Ver. by 樋口秀樹　Chorus:葉月ゆら)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "海風を背に受けて (Piano Solo Ver. by 古川 亮)"
+artist = "松村佑樹"
+
+[[discs.tracks]]
+title = "少し高い空の下 (Morning Ver. by 柳川和樹)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "木々の距離ほど近く (Full Orchestra Ver. by 古川 亮)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "淡い夕日 (Lyric Piano Ver. by 樋口秀樹)"
+artist = "裏谷玲央"
+
+[[discs.tracks]]
+title = "石畳にはずむステップ (Another Ver.)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "知への探求心～from透明な栞～ (Another Ver.)"
+artist = "裏谷玲央"
+
+[[discs.tracks]]
+title = "よし、じゃあ始めるよ (Another Ver.)"
+artist = "松村佑樹"
+
+[[discs.tracks]]
+title = "ハンドサイン (Another Ver.)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "Memories"
+artist = "SAK"
+type = "normal"
