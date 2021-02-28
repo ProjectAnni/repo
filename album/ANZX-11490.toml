@@ -1,0 +1,41 @@
+[album]
+title = "冴えない彼女の育てかた 第5巻 特典CD"
+artist = "百石元"
+date = 2015-07-01
+type = "absolute"
+catalog = "ANZX-11490"
+
+[[discs]]
+catalog = "ANZX-11490"
+
+[[discs.tracks]]
+title = "Heart To Heart"
+artist = "波島出海（赤崎千夏）"
+type = "normal"
+
+[[discs.tracks]]
+title = "素直な良い子"
+
+[[discs.tracks]]
+title = "やる気に満ちあふれて"
+
+[[discs.tracks]]
+title = "それダメじゃん！"
+
+[[discs.tracks]]
+title = "目が点"
+
+[[discs.tracks]]
+title = "恋心 (Piano Solo Ver.)"
+
+[[discs.tracks]]
+title = "小悪魔"
+
+[[discs.tracks]]
+title = "プロデューサー"
+
+[[discs.tracks]]
+title = "アクシデント"
+
+[[discs.tracks]]
+title = "サブテーマ (Slow Version)"

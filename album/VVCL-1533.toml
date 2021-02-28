@@ -1,0 +1,36 @@
+[album]
+title = "glory days"
+artist = "春奈るな"
+date = 2019-12-03
+type = "normal"
+catalog = "VVCL-1533"
+
+[[discs]]
+catalog = "VVCL-1533"
+
+[[discs.tracks]]
+title = "glory days"
+
+[[discs.tracks]]
+title = "君色シグナル"
+
+[[discs.tracks]]
+title = "ステラブリーズ"
+
+[[discs.tracks]]
+title = "カラフル。"
+
+[[discs.tracks]]
+title = "桜色ダイアリー"
+
+[[discs.tracks]]
+title = "glory days -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "カラフル。-Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "桜色ダイアリー -Instrumental-"
+type = "instrumental"

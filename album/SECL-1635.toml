@@ -1,0 +1,21 @@
+[album]
+title = "君色シグナル"
+artist = "春奈るな"
+date = 2015-01-28
+type = "normal"
+catalog = "SECL-1635"
+
+[[discs]]
+catalog = "SECL-1635"
+
+[[discs.tracks]]
+title = "君色シグナル"
+
+[[discs.tracks]]
+title = "トキメキ MY HEART"
+
+[[discs.tracks]]
+title = "青春プリンセス"
+
+[[discs.tracks]]
+title = "君色シグナル-TV size ver.-"

@@ -1,0 +1,21 @@
+[album]
+title = "ステラブリーズ"
+artist = "春奈るな"
+date = 2017-05-03
+type = "normal"
+catalog = "VVCL-1017"
+
+[[discs]]
+catalog = "VVCL-1017"
+
+[[discs.tracks]]
+title = "ステラブリーズ"
+
+[[discs.tracks]]
+title = "恋するポンパドール"
+
+[[discs.tracks]]
+title = "アイコトバ"
+
+[[discs.tracks]]
+title = "ステラブリーズ (TV Size)"

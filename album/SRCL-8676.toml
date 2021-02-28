@@ -1,0 +1,25 @@
+[album]
+title = "カラフル。"
+artist = "沢井美空"
+date = 2015-01-28
+type = "normal"
+catalog = "SRCL-8676"
+
+[[discs]]
+catalog = "SRCL-8676"
+
+[[discs.tracks]]
+title = "カラフル。"
+
+[[discs.tracks]]
+title = "dim"
+
+[[discs.tracks]]
+title = "サヨナラの手前"
+
+[[discs.tracks]]
+title = "カラフル。（AnimeVer.）"
+
+[[discs.tracks]]
+title = "カラフル。（Instrumental）"
+type = "instrumental"

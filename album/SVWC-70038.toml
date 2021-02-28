@@ -1,0 +1,24 @@
+[album]
+title = "冴えない彼女の育てかた キャラクターイメージソング 霞ヶ丘詩羽"
+artist = "霞ヶ丘詩羽（茅野愛衣）"
+date = 2014-12-03
+type = "normal"
+catalog = "SVWC-70038"
+
+[[discs]]
+catalog = "SVWC-70038"
+
+[[discs.tracks]]
+title = "饒舌スキャンダラス"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON (Utaha Solo Ver.)"
+
+[[discs.tracks]]
+title = "饒舌スキャンダラス (Off Vocal Ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Message from Utaha"
+artist = "澤村・スペンサー・英梨々（大西沙織）、霞ヶ丘詩羽（茅野愛衣）、加藤恵（安野希世乃）"
+type = "drama"

@@ -1,0 +1,38 @@
+[album]
+title = "冴えない彼女の育てかた 第2巻 特典CD"
+artist = "百石元"
+date = 2015-04-01
+type = "absolute"
+catalog = "ANZX-11484"
+
+[[discs]]
+catalog = "ANZX-11484"
+
+[[discs.tracks]]
+title = "勇気の神様"
+artist = "澤村・スペンサー・英梨々（大西沙織）"
+type = "normal"
+
+[[discs.tracks]]
+title = "上品で快活な"
+
+[[discs.tracks]]
+title = "ドジっ娘"
+
+[[discs.tracks]]
+title = "キレてプンスカ！"
+
+[[discs.tracks]]
+title = "猪突猛進"
+
+[[discs.tracks]]
+title = "辛さ"
+
+[[discs.tracks]]
+title = "モジモジ"
+
+[[discs.tracks]]
+title = "一生懸命"
+
+[[discs.tracks]]
+title = "愛情"

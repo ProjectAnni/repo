@@ -1,0 +1,19 @@
+[album]
+title = "冴えない彼女の育てかた 第7巻 特典CD"
+artist = "氷堂美智留（矢作紗友里）"
+date = 2015-09-02
+type = "normal"
+catalog = "ANZX-11494"
+
+[[discs]]
+catalog = "ANZX-11494"
+
+[[discs.tracks]]
+title = "Cherish you"
+
+[[discs.tracks]]
+title = "空色デイズ"
+
+[[discs.tracks]]
+title = "Cherish you (Off Vocal Ver.)"
+type = "instrumental"

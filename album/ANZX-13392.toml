@@ -1,0 +1,29 @@
+[album]
+title = "冴えない彼女の育てかた♭ 第6巻 特典CD"
+artist = "百石元"
+date = 2018-01-31
+type = "absolute"
+catalog = "ANZX-13392"
+
+[[discs]]
+catalog = "ANZX-13392"
+
+[[discs.tracks]]
+title = "季節を抱きしめて"
+artist = "加藤恵（安野希世乃）"
+type = "normal"
+
+[[discs.tracks]]
+title = "惹かれていく気持ち"
+
+[[discs.tracks]]
+title = "新しい朝"
+
+[[discs.tracks]]
+title = "心の距離"
+
+[[discs.tracks]]
+title = "裏切りの自覚"
+
+[[discs.tracks]]
+title = "再スタート"
