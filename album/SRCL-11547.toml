@@ -1,0 +1,32 @@
+[album]
+title = "風は吹いてるか？【完全生産限定盤】"
+artist = "22/7"
+date = 2020-09-30
+type = "normal"
+catalog = "SRCL-11547"
+
+[[discs]]
+catalog = "SRCL-11547"
+
+[[discs.tracks]]
+title = "風は吹いてるか？"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない"
+
+[[discs.tracks]]
+title = "半チャーハン"
+artist = "晴れた日のベンチ"
+
+[[discs.tracks]]
+title = "風は吹いてるか？ -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "半チャーハン -off vocal ver.-"
+artist = "晴れた日のベンチ"
+type = "instrumental"

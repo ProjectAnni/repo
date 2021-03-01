@@ -1,0 +1,30 @@
+[album]
+title = "僕が持ってるものなら【完全生産限定盤】"
+artist = "22/7"
+date = 2021-02-24
+type = "normal"
+catalog = "SRCL-11690"
+
+[[discs]]
+catalog = "SRCL-11690"
+
+[[discs.tracks]]
+title = "僕が持ってるものなら"
+
+[[discs.tracks]]
+title = "タチツテトパワー"
+
+[[discs.tracks]]
+title = "好きと言ったのは嘘だ"
+
+[[discs.tracks]]
+title = "僕が持ってるものなら -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "タチツテトパワー -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "好きと言ったのは嘘だ -off vocal ver.-"
+type = "instrumental"

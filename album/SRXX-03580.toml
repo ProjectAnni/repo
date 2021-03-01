@@ -1,0 +1,27 @@
+[album]
+title = "風は吹いてるか？ (Special Edition)"
+artist = "22/7"
+date = 2020-09-30
+type = "normal"
+catalog = "SRXX-03580"
+
+[[discs]]
+catalog = "SRXX-03580"
+
+[[discs.tracks]]
+title = "風は吹いてるか？"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない"
+
+[[discs.tracks]]
+title = "半チャーハン"
+artist = "晴れた日のベンチ"
+
+[[discs.tracks]]
+title = "タトゥー・ラブ"
+artist = "蛍光灯再生計画"
+
+[[discs.tracks]]
+title = "ソフトクリーム落としちゃった"
+artist = "気の抜けたサイダー"

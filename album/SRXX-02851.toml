@@ -1,0 +1,24 @@
+[album]
+title = "理解者 (Special Edition)"
+artist = "22/7"
+date = 2018-08-22
+type = "normal"
+catalog = "SRXX-02851"
+
+[[discs]]
+catalog = "SRXX-02851"
+
+[[discs.tracks]]
+title = "理解者"
+
+[[discs.tracks]]
+title = "絶望の花"
+
+[[discs.tracks]]
+title = "韋駄天娘"
+
+[[discs.tracks]]
+title = "不確かな青春"
+
+[[discs.tracks]]
+title = "未来があるから"

@@ -1,0 +1,24 @@
+[album]
+title = "シャンプーの匂いがした (Special Edition)"
+artist = "22/7"
+date = 2018-04-11
+type = "normal"
+catalog = "SRXX-02666"
+
+[[discs]]
+catalog = "SRXX-02666"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした"
+
+[[discs.tracks]]
+title = "人格崩壊"
+
+[[discs.tracks]]
+title = "やさしい記憶"
+
+[[discs.tracks]]
+title = "叫ぶしかない青春"
+
+[[discs.tracks]]
+title = "循環バス"

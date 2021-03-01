@@ -1,0 +1,27 @@
+[album]
+title = "22⁄7 Character song CD: One of them／生きることに楽になりたい"
+artist = "滝川みう（西條和）、藤間桜（天城サリー）"
+date = 2020-05-27
+type = "normal"
+catalog = "ANZX-15224"
+
+[[discs]]
+catalog = "ANZX-15224"
+
+[[discs.tracks]]
+title = "One of them"
+artist = "滝川みう（西條和）"
+
+[[discs.tracks]]
+title = "生きることに楽になりたい"
+artist = "藤間桜（天城サリー）"
+
+[[discs.tracks]]
+title = "One of them -off vocal ver.-"
+artist = "滝川みう（西條和）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "生きることに楽になりたい -off vocal ver.-"
+artist = "藤間桜（天城サリー）"
+type = "instrumental"

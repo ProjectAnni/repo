@@ -1,0 +1,27 @@
+[album]
+title = "22⁄7 Character song CD: 人生はワルツ／感情無用論"
+artist = "戸田ジュン（海乃るり）、丸山あかね（白沢かなえ）"
+date = 2020-07-15
+type = "normal"
+catalog = "ANZX-15228"
+
+[[discs]]
+catalog = "ANZX-15228"
+
+[[discs.tracks]]
+title = "人生はワルツ"
+artist = "戸田ジュン（海乃るり）"
+
+[[discs.tracks]]
+title = "感情無用論"
+artist = "丸山あかね（白沢かなえ）"
+
+[[discs.tracks]]
+title = "人生はワルツ -off vocal ver.-"
+artist = "戸田ジュン（海乃るり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "感情無用論 -off vocal ver.-"
+artist = "丸山あかね（白沢かなえ）"
+type = "instrumental"

@@ -1,0 +1,18 @@
+[album]
+title = "22⁄7 Character song CD: Moonlight"
+artist = "立川絢香（宮瀬玲奈）"
+date = 2020-08-19
+type = "normal"
+catalog = "ANZX-15230"
+
+[[discs]]
+catalog = "ANZX-15230"
+
+[[discs.tracks]]
+title = "Moonlight"
+artist = "立川絢香（宮瀬玲奈）"
+
+[[discs.tracks]]
+title = "Moonlight -off vocal ver.-"
+artist = "立川絢香（宮瀬玲奈）"
+type = "instrumental"

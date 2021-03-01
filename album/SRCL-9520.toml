@@ -1,0 +1,30 @@
+[album]
+title = "僕は存在していなかった"
+artist = "22/7"
+date = 2017-09-20
+type = "normal"
+catalog = "SRCL-9520"
+
+[[discs]]
+catalog = "SRCL-9520"
+
+[[discs.tracks]]
+title = "僕は存在していなかった"
+
+[[discs.tracks]]
+title = "地下鉄抵抗主義"
+
+[[discs.tracks]]
+title = "11人が集まった理由"
+
+[[discs.tracks]]
+title = "僕は存在していなかった -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "地下鉄抵抗主義 -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "11人が集まった理由 -off vocal ver.-"
+type = "instrumental"

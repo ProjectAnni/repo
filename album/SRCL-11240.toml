@@ -1,0 +1,30 @@
+[album]
+title = "何もしてあげられない【初回仕様限定盤 Type-A】"
+artist = "22/7"
+date = 2019-08-21
+type = "normal"
+catalog = "SRCL-11240"
+
+[[discs]]
+catalog = "SRCL-11240"
+
+[[discs.tracks]]
+title = "何もしてあげられない"
+
+[[discs.tracks]]
+title = "君はMoon"
+
+[[discs.tracks]]
+title = "とんぼの気持ち"
+
+[[discs.tracks]]
+title = "何もしてあげられない -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君はMoon -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "とんぼの気持ち -off vocal ver.-"
+type = "instrumental"

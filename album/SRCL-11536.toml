@@ -1,0 +1,32 @@
+[album]
+title = "風は吹いてるか？【初回仕様限定盤】"
+artist = "22/7"
+date = 2020-09-30
+type = "normal"
+catalog = "SRCL-11536"
+
+[[discs]]
+catalog = "SRCL-11536"
+
+[[discs.tracks]]
+title = "風は吹いてるか？"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない"
+
+[[discs.tracks]]
+title = "タトゥー・ラブ"
+artist = "蛍光灯再生計画"
+
+[[discs.tracks]]
+title = "風は吹いてるか？ -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "タトゥー・ラブ -off vocal ver.-"
+artist = "蛍光灯再生計画"
+type = "instrumental"

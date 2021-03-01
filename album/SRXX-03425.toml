@@ -1,0 +1,24 @@
+[album]
+title = "ムズイ (Special Edition)"
+artist = "22/7"
+date = 2020-02-26
+type = "normal"
+catalog = "SRXX-03425"
+
+[[discs]]
+catalog = "SRXX-03425"
+
+[[discs.tracks]]
+title = "ムズイ"
+
+[[discs.tracks]]
+title = "空のエメラルド"
+
+[[discs.tracks]]
+title = "僕らの環境"
+
+[[discs.tracks]]
+title = "足を洗え！"
+
+[[discs.tracks]]
+title = "願いの眼差し"

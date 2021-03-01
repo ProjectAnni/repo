@@ -1,0 +1,32 @@
+[album]
+title = "風は吹いてるか？"
+artist = "22/7"
+date = 2020-09-30
+type = "normal"
+catalog = "SRCL-11538"
+
+[[discs]]
+catalog = "SRCL-11538"
+
+[[discs.tracks]]
+title = "風は吹いてるか？"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない"
+
+[[discs.tracks]]
+title = "ソフトクリーム落としちゃった"
+artist = "気の抜けたサイダー"
+
+[[discs.tracks]]
+title = "風は吹いてるか？ -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ポニーテールは振り向かせない -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ソフトクリーム落としちゃった -off vocal ver.-"
+artist = "気の抜けたサイダー"
+type = "instrumental"

@@ -1,0 +1,27 @@
+[album]
+title = "22⁄7 Character song CD: 夢の船／優等生じゃつまらない"
+artist = "河野都（倉岡水巴）、佐藤麗華（帆風千春）"
+date = 2020-06-17
+type = "normal"
+catalog = "ANZX-15226"
+
+[[discs]]
+catalog = "ANZX-15226"
+
+[[discs.tracks]]
+title = "夢の船"
+artist = "河野都（倉岡水巴）"
+
+[[discs.tracks]]
+title = "優等生じゃつまらない"
+artist = "佐藤麗華（帆風千春）"
+
+[[discs.tracks]]
+title = "夢の船 -off vocal ver.-"
+artist = "河野都（倉岡水巴）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "優等生じゃつまらない -off vocal ver.-"
+artist = "佐藤麗華（帆風千春）"
+type = "instrumental"

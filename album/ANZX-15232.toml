@@ -1,0 +1,27 @@
+[album]
+title = "22⁄7 Character song CD: 孤独は嫌いじゃない／神様に指を差された僕たち"
+artist = "斎藤ニコル（河瀬詩）、柊つぼみ（武田愛奈）"
+date = 2020-09-16
+type = "normal"
+catalog = "ANZX-15232"
+
+[[discs]]
+catalog = "ANZX-15232"
+
+[[discs.tracks]]
+title = "孤独は嫌いじゃない"
+artist = "斎藤ニコル（河瀬詩）"
+
+[[discs.tracks]]
+title = "神様に指を差された僕たち"
+artist = "柊つぼみ（武田愛奈）"
+
+[[discs.tracks]]
+title = "孤独は嫌いじゃない -off vocal ver.-"
+artist = "斎藤ニコル（河瀬詩）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "神様に指を差された僕たち -off vocal ver.-"
+artist = "柊つぼみ（武田愛奈）"
+type = "instrumental"

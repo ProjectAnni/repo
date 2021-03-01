@@ -1,0 +1,24 @@
+[album]
+title = "僕が持ってるものなら (Special Edition)"
+artist = "22/7"
+date = 2021-02-24
+type = "normal"
+catalog = "SRXX-03853"
+
+[[discs]]
+catalog = "SRXX-03853"
+
+[[discs.tracks]]
+title = "僕が持ってるものなら"
+
+[[discs.tracks]]
+title = "タチツテトパワー"
+
+[[discs.tracks]]
+title = "好きと言ったのは嘘だ"
+
+[[discs.tracks]]
+title = "雷鳴のDelay (紅組)"
+
+[[discs.tracks]]
+title = "キウイの主張 (白組)"

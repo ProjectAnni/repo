@@ -1,0 +1,30 @@
+[album]
+title = "シャンプーの匂いがした【初回仕様限定盤 Type-A】"
+artist = "22/7"
+date = 2018-04-11
+type = "normal"
+catalog = "SRCL-9713"
+
+[[discs]]
+catalog = "SRCL-9713"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした"
+
+[[discs.tracks]]
+title = "人格崩壊"
+
+[[discs.tracks]]
+title = "やさしい記憶"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "人格崩壊 -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "やさしい記憶 -off vocal ver.-"
+type = "instrumental"

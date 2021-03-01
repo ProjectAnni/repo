@@ -1,0 +1,30 @@
+[album]
+title = "何もしてあげられない"
+artist = "22/7"
+date = 2019-08-21
+type = "normal"
+catalog = "SRCL-11244"
+
+[[discs]]
+catalog = "SRCL-11244"
+
+[[discs.tracks]]
+title = "何もしてあげられない"
+
+[[discs.tracks]]
+title = "君はMoon"
+
+[[discs.tracks]]
+title = "Rain of lies"
+
+[[discs.tracks]]
+title = "何もしてあげられない -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君はMoon -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rain of lies -off vocal ver.-"
+type = "instrumental"

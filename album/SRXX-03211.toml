@@ -1,0 +1,24 @@
+[album]
+title = "何もしてあげられない (Special Edition)"
+artist = "22/7"
+date = 2019-08-21
+type = "normal"
+catalog = "SRXX-03211"
+
+[[discs]]
+catalog = "SRXX-03211"
+
+[[discs.tracks]]
+title = "何もしてあげられない"
+
+[[discs.tracks]]
+title = "君はMoon"
+
+[[discs.tracks]]
+title = "とんぼの気持ち"
+
+[[discs.tracks]]
+title = "ロマンスの積み木"
+
+[[discs.tracks]]
+title = "Rain of lies"

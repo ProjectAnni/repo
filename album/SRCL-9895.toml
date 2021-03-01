@@ -1,0 +1,30 @@
+[album]
+title = "理解者"
+artist = "22/7"
+date = 2018-08-22
+type = "normal"
+catalog = "SRCL-9895"
+
+[[discs]]
+catalog = "SRCL-9895"
+
+[[discs.tracks]]
+title = "理解者"
+
+[[discs.tracks]]
+title = "絶望の花"
+
+[[discs.tracks]]
+title = "未来があるから"
+
+[[discs.tracks]]
+title = "理解者 -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "絶望の花 -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "未来があるから -off vocal ver.-"
+type = "instrumental"
