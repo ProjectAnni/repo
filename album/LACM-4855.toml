@@ -1,0 +1,25 @@
+[album]
+title = "「花咲くいろは」キャラクターソング　鶴来民子"
+artist = "鶴来民子（小見川千明）"
+date = 2011-09-07
+type = "normal"
+catalog = "LACM-4855"
+
+[[discs]]
+catalog = "LACM-4855"
+
+[[discs.tracks]]
+title = "ナミダで咲く花"
+
+[[discs.tracks]]
+title = "ハッチ"
+
+[[discs.tracks]]
+title = "ナミダで咲く花 (off vocal)"
+artist = "rino"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハッチ (off vocal)"
+artist = "佐々木淳"
+type = "instrumental"

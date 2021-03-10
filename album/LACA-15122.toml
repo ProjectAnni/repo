@@ -1,0 +1,49 @@
+[album]
+title = "アニメ『花咲くいろは』イメージソング集「湯乃鷺リレイションズ」"
+date = 2011-06-08
+type = "normal"
+catalog = "LACA-15122"
+artist = "Snow*, nano.RIPE, CooRie, marble, Rey, アツミサオリ, しほり, 結城アイラ, yozuca*, 伊藤真澄"
+
+[[discs]]
+catalog = "LACA-15122"
+
+[[discs.tracks]]
+title = "空に近い場所"
+artist = "Snow*"
+
+[[discs.tracks]]
+title = "ハッチ"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "水性メロディ"
+artist = "CooRie"
+
+[[discs.tracks]]
+title = "fluffy"
+artist = "marble"
+
+[[discs.tracks]]
+title = "春の向こう"
+artist = "Rey"
+
+[[discs.tracks]]
+title = "催眠術"
+artist = "アツミサオリ"
+
+[[discs.tracks]]
+title = "想樹―そうじゅ―"
+artist = "しほり"
+
+[[discs.tracks]]
+title = "妄想STAY"
+artist = "結城アイラ"
+
+[[discs.tracks]]
+title = "ハルウララ〜♪"
+artist = "yozuca*"
+
+[[discs.tracks]]
+title = "柔らかな時間の中で"
+artist = "伊藤真澄"

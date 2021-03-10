@@ -1,0 +1,23 @@
+[album]
+title = "Hazy"
+artist = "スフィア"
+date = 2011-05-11
+type = "normal"
+catalog = "LASM-34095"
+
+[[discs]]
+catalog = "LASM-34095"
+
+[[discs.tracks]]
+title = "Hazy"
+
+[[discs.tracks]]
+title = "Neo Eden"
+
+[[discs.tracks]]
+title = "Hazy (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Neo Eden (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,19 @@
+[album]
+title = "細胞キオク"
+artist = "nano.RIPE"
+date = 2011-06-29
+type = "normal"
+catalog = "LACM-4820"
+
+[[discs]]
+catalog = "LACM-4820"
+
+[[discs.tracks]]
+title = "細胞キオク"
+
+[[discs.tracks]]
+title = "月影とブランコ"
+
+[[discs.tracks]]
+title = "リップシンク"
+

@@ -1,0 +1,25 @@
+[album]
+title = "「花咲くいろは」キャラクターソング　和倉結名"
+artist = "和倉結名（戸松遥）"
+date = 2011-11-23
+type = "normal"
+catalog = "LACM-4857"
+
+[[discs]]
+catalog = "LACM-4857"
+
+[[discs.tracks]]
+title = "heartfelt"
+
+[[discs.tracks]]
+title = "fluffy"
+
+[[discs.tracks]]
+title = "heartfelt (Off Vocal)"
+artist = "菊池達也"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "fluffy (Off Vocal)"
+artist = "micco"
+type = "instrumental"

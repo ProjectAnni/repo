@@ -1,0 +1,25 @@
+[album]
+title = "「花咲くいろは」キャラクターソング　松前緒花"
+artist = "松前緒花（伊藤かな恵）"
+date = 2011-09-07
+type = "normal"
+catalog = "LACM-4854"
+
+[[discs]]
+catalog = "LACM-4854"
+
+[[discs.tracks]]
+title = "セミスイート"
+
+[[discs.tracks]]
+title = "空に近い場所"
+
+[[discs.tracks]]
+title = "セミスイート (Off Vocal)"
+artist = "河原嶺旭"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "空に近い場所 (Off Vocal)"
+artist = "shilo"
+type = "instrumental"

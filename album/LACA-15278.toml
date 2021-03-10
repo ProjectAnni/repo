@@ -1,0 +1,69 @@
+[album]
+title = "TVアニメ『花咲くいろは 』湯乃鷺ベストソングス"
+artist = "花咲くいろは"
+date = 2013-03-20
+type = "normal"
+catalog = "LACA-15278"
+
+[[discs]]
+catalog = "LACA-15278"
+
+[[discs.tracks]]
+title = "ハナノイロ"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "面影ワープ"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "Hazy"
+artist = "スフィア"
+
+[[discs.tracks]]
+title = "夢路"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "セミスイート"
+artist = "松前緒花（伊藤かな恵）"
+
+[[discs.tracks]]
+title = "ナミダで咲く花"
+artist = "鶴来民子（小見川千明）"
+
+[[discs.tracks]]
+title = "ダイヤモンド"
+artist = "押水菜子（豊崎愛生）"
+
+[[discs.tracks]]
+title = "heartfelt"
+artist = "和倉結名（戸松遥）"
+
+[[discs.tracks]]
+title = "春の向こう"
+artist = "Rey"
+
+[[discs.tracks]]
+title = "催眠術"
+artist = "アツミサオリ"
+
+[[discs.tracks]]
+title = "想樹-そうじゅ-"
+artist = "しほり"
+
+[[discs.tracks]]
+title = "妄想STAY"
+artist = "結城アイラ"
+
+[[discs.tracks]]
+title = "ハルウララ〜♪"
+artist = "yozuca*"
+
+[[discs.tracks]]
+title = "柔らかな時間の中で"
+artist = "伊藤真澄"
+
+[[discs.tracks]]
+title = "はなさくいろは"
+artist = "クラムボン"

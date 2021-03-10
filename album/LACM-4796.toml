@@ -1,0 +1,21 @@
+[album]
+title = "ハナノイロ"
+artist = "nano.RIPE"
+date = 2011-04-20
+type = "normal"
+catalog = "LACM-4796"
+
+[[discs]]
+catalog = "LACM-4796"
+
+[[discs.tracks]]
+title = "ハナノイロ"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "バーチャルボーイ"
+artist = "nano.RIPE"
+
+[[discs.tracks]]
+title = "花残り月"
+artist = "nano.RIPE"

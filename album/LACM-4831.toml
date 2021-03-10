@@ -1,0 +1,19 @@
+[album]
+title = "面影ワープ"
+artist = "nano.RIPE"
+date = 2011-08-03
+type = "normal"
+catalog = "LACM-4831"
+
+[[discs]]
+catalog = "LACM-4831"
+
+[[discs.tracks]]
+title = "面影ワープ"
+
+[[discs.tracks]]
+title = "15秒"
+
+[[discs.tracks]]
+title = "空の少年"
+

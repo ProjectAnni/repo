@@ -1,0 +1,25 @@
+[album]
+title = "「花咲くいろは」キャラクターソング　押水菜子"
+artist = "押水菜子（豊崎愛生）"
+date = 2011-11-23
+type = "normal"
+catalog = "LACM-4856"
+
+[[discs]]
+catalog = "LACM-4856"
+
+[[discs.tracks]]
+title = "ダイヤモンド"
+
+[[discs.tracks]]
+title = "水性メロディー"
+
+[[discs.tracks]]
+title = "ダイヤモンド(Off Vocal)"
+artist = "アツミサオリ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "水性メロディー(Off Vocal)"
+artist = "rino"
+type = "instrumental"
