@@ -1,0 +1,23 @@
+[album]
+title = "灰色のサーガ"
+artist = "ChouCho"
+date = 2020-10-28
+type = "normal"
+catalog = "LACM-24046"
+
+[[discs]]
+catalog = "LACM-24046"
+
+[[discs.tracks]]
+title = "灰色のサーガ"
+
+[[discs.tracks]]
+title = "hide and seek"
+
+[[discs.tracks]]
+title = "灰色のサーガ (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "hide and seek (off vocal)"
+type = "instrumental"
