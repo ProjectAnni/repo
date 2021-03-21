@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SE@SONAL WINTER"
+artist = "シャイニーカラーズ"
+date = 2018-12-19
+type = "normal"
+catalog = "LACM-14820"
+
+[[discs]]
+catalog = "LACM-14820"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES"
+
+[[discs.tracks]]
+title = "Let's get a chance"
