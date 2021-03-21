@@ -1,0 +1,40 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-"
+artist = "Team.Stella"
+date = 2021-01-20
+type = "normal"
+catalog = "LACA-15861"
+
+[[discs]]
+catalog = "LACA-15861"
+
+[[discs.tracks]]
+title = "プラニスフィア ～planisphere～"
+
+[[discs.tracks]]
+title = "ありったけの輝きで"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "星をめざして"
+artist = "芹沢あさひ"
+
+[[discs.tracks]]
+title = "夢見鳥"
+artist = "樋口円香"
+
+[[discs.tracks]]
+title = "アポイント・シグナル"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "チョコデート・サンデー"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "Sweet Memories"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "ハナマルバッジ"
+artist = "小宮果穂"
