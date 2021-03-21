@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SWEET♡STEP"
+artist = "シャイニーカラーズ"
+date = 2020-02-12
+type = "normal"
+catalog = "LACM-14965"
+
+[[discs]]
+catalog = "LACM-14965"
+
+[[discs.tracks]]
+title = "SWEET♡STEP"
+
+[[discs.tracks]]
+title = "Multicolored Sky -19 colors-"

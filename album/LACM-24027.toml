@@ -1,0 +1,32 @@
+[album]
+title = "なんどでも笑おう [シャイニーカラーズ盤]"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2020-09-30
+type = "normal"
+catalog = "LACM-24027"
+
+[[discs]]
+catalog = "LACM-24027"
+
+[[discs.tracks]]
+title = "なんどでも笑おう"
+
+[[discs.tracks]]
+title = "なんどでも笑おう (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なんどでも笑おう シャイニーカラーズVer."
+artist = "シャイニーカラーズ"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 櫻木真乃Ver."
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 風野灯織Ver."
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 八宮めぐるVer."
+artist = "八宮めぐる"

@@ -1,0 +1,17 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS デビ太郎 VS ジャスティスV"
+artist = "大崎甜花（前川涼子）、小宮果穂（河野ひより）"
+date = 2020-07-29
+type = "normal"
+catalog = "LACZ-10033"
+
+[[discs]]
+catalog = "LACZ-10033"
+
+[[discs.tracks]]
+title = "デビ太郎のうた"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "絶対正義 EVERY DAY"
+artist = "小宮果穂（河野ひより）"

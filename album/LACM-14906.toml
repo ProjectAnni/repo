@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS FUTURITY SMILE"
+artist = "シャイニーカラーズ"
+date = 2019-12-18
+type = "normal"
+catalog = "LACM-14906"
+
+[[discs]]
+catalog = "LACM-14906"
+
+[[discs.tracks]]
+title = "FUTURITY SMILE"
+
+[[discs.tracks]]
+title = "Spread the Wings!! -19 colors-"
