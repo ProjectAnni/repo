@@ -1,0 +1,12 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 03"
+artist = "アンティーカ"
+date = 2021-06-09
+type = "normal"
+catalog = "LACM-24113"
+
+[[discs]]
+catalog = "LACM-24113"
+
+[[discs.tracks]]
+title = ""
