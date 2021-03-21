@@ -1,0 +1,73 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -SUMMER PARTY 2019-"
+artist = "シャイニーカラーズ"
+date = 2019-08-18
+type = "normal"
+catalog = "LACZ-10025"
+
+[[discs]]
+catalog = "LACZ-10025"
+
+[[discs.tracks]]
+title = "虹になれ（櫻木真乃Ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "虹になれ（風野灯織Ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "虹になれ（八宮めぐるVer.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（月岡恋鐘Ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（田中摩美々Ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（白瀬咲耶Ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（三峰結華Ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（幽谷霧子Ver.）"
+artist = "幽谷霧子"
+
+[[discs.tracks]]
+title = "太陽キッス（小宮果穂Ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "太陽キッス（園田智代子Ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "太陽キッス（西城樹里Ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "太陽キッス（杜野凛世Ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "太陽キッス（有栖川夏葉Ver.）"
+artist = "有栖川夏葉"
+
+[[discs.tracks]]
+title = "ハピリリ（大崎甘奈Ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "ハピリリ（大崎甜花Ver.）"
+artist = "大崎甜花"
+
+[[discs.tracks]]
+title = "ハピリリ（桑山千雪Ver.）"
+artist = "桑山千雪"

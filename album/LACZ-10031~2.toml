@@ -1,0 +1,88 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -2ndLIVE STEP INTO THE SUNSET SKY-"
+artist = "シャイニーカラーズ"
+date = 2020-07-29
+type = "normal"
+catalog = "LACZ-10031~2"
+
+[[discs]]
+catalog = "LACZ-10031"
+
+[[discs.tracks]]
+title = "トライアングル（櫻木真乃Ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "トライアングル（風野灯織Ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "トライアングル（八宮めぐるVer.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（月岡恋鐘Ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（田中摩美々Ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（白瀬咲耶Ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（三峰結華Ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（幽谷霧子Ver.）"
+artist = "幽谷霧子"
+
+[[discs]]
+catalog = "LACZ-10032"
+
+[[discs.tracks]]
+title = "よりみちサンセット（小宮果穂Ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "よりみちサンセット（園田智代子Ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "よりみちサンセット（西城樹里Ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "よりみちサンセット（杜野凛世Ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "よりみちサンセット（有栖川夏葉Ver.）"
+artist = "有栖川夏葉"
+
+[[discs.tracks]]
+title = "Love Addiction（大崎甘奈Ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "Love Addiction（大崎甜花Ver.）"
+artist = "大崎甜花"
+
+[[discs.tracks]]
+title = "Love Addiction（桑山千雪Ver.）"
+artist = "桑山千雪"
+
+[[discs.tracks]]
+title = "Transcending The World（芹沢あさひVer.）"
+artist = "芹沢あさひ"
+
+[[discs.tracks]]
+title = "Transcending The World（黛冬優子Ver.）"
+artist = "黛冬優子"
+
+[[discs.tracks]]
+title = "Transcending The World（和泉愛依Ver.）"
+artist = "和泉愛依"

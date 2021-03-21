@@ -1,0 +1,73 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -1stLIVE FLY TO THE SHINY SKY-"
+artist = "シャイニーカラーズ"
+date = 2019-03-09
+type = "normal"
+catalog = "LACZ-10018"
+
+[[discs]]
+catalog = "LACZ-10018"
+
+[[discs.tracks]]
+title = "ヒカリのdestination（櫻木真乃Ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "ヒカリのdestination（風野灯織Ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "ヒカリのdestination（八宮めぐるVer.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（月岡恋鐘Ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（田中摩美々Ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（白瀬咲耶Ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（三峰結華Ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（幽谷霧子Ver.）"
+artist = "幽谷霧子"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（小宮果穂Ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（園田智代子Ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（西城樹里Ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（杜野凛世Ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（有栖川夏葉Ver.）"
+artist = "有栖川夏葉"
+
+[[discs.tracks]]
+title = "アルストロメリア（大崎甘奈Ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "アルストロメリア（大崎甜花Ver.）"
+artist = "大崎甜花 "
+
+[[discs.tracks]]
+title = "アルストロメリア（桑山千雪Ver.）"
+artist = "桑山千雪"

@@ -1,0 +1,76 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -MUSIC DAWN-"
+artist = "シャイニーカラーズ"
+date = 2020-10-31
+type = "normal"
+catalog = "LACZ-10042~3"
+
+[[discs]]
+catalog = "LACZ-10042"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（櫻木真乃ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（風野灯織ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（八宮めぐるver.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（月岡恋鐘ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（田中摩美々ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（白瀬咲耶ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（三峰結華ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（幽谷霧子ver.）"
+artist = "幽谷霧子"
+
+[[discs]]
+catalog = "LACZ-10043"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（小宮果穂ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（園田智代子ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（西城樹里ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（杜野凛世ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（有栖川夏葉ver.）"
+artist = "有栖川夏葉"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（大崎甘奈ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（大崎甜花ver.）"
+artist = "大崎甜花"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES（桑山千雪ver.）"
+artist = "桑山千雪"

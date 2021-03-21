@@ -1,0 +1,88 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -SPRING PARTY 2020-"
+artist = "シャイニーカラーズ"
+date = 2020-03-21
+type = "normal"
+catalog = "LACZ-10027~8"
+
+[[discs]]
+catalog = "LACZ-10027"
+
+[[discs.tracks]]
+title = "We can go now!（櫻木真乃Ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "We can go now!（風野灯織Ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "We can go now!（八宮めぐるVer.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（月岡恋鐘Ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（田中摩美々Ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（白瀬咲耶Ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（三峰結華Ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（幽谷霧子Ver.）"
+artist = "幽谷霧子"
+
+[[discs]]
+catalog = "LACZ-10028"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（小宮果穂Ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（園田智代子Ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（西城樹里Ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（杜野凛世Ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（有栖川夏葉Ver.）"
+artist = "有栖川夏葉"
+
+[[discs.tracks]]
+title = "Bloomy!（大崎甘奈Ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "Bloomy!（大崎甜花Ver.）"
+artist = "大崎甜花"
+
+[[discs.tracks]]
+title = "Bloomy!（桑山千雪Ver.）"
+artist = "桑山千雪"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser（芹沢あさひVer.）"
+artist = "芹沢あさひ"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser（黛冬優子Ver.）"
+artist = "黛冬優子"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser（和泉愛依Ver.）"
+artist = "和泉愛依"
