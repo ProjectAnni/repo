@@ -1,0 +1,44 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna-"
+artist = "Team.Luna"
+date = 2021-02-17
+type = "normal"
+catalog = "LACA-15862"
+
+[[discs]]
+catalog = "LACA-15862"
+
+[[discs.tracks]]
+title = "リフレクトサイン"
+
+[[discs.tracks]]
+title = "誰ソ彼アイデンティティー"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "わたしの主人公はわたしだから！"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "また明日"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "常咲の庭"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "プラスチック・アンブレラ"
+artist = "三峰結華（成海瑠奈）"
+
+[[discs.tracks]]
+title = "Going my way"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "雪・月・風・花"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "スローモーション"
+artist = "風野灯織（近藤玲奈）"

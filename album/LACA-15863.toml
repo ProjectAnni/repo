@@ -1,0 +1,44 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Sol-"
+artist = "Team.Sol"
+date = 2021-03-10
+type = "normal"
+catalog = "LACA-15863"
+
+[[discs]]
+catalog = "LACA-15863"
+
+[[discs.tracks]]
+title = "千夜アリア"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "Damascus Cocktail"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs.tracks]]
+title = "Darling you!"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "あおぞらサイダー"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "SOS"
+artist = "黛冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "過純性ブリーチ"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "HAREBARE!!"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "statice"
+artist = "浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "SOLAR WAY"
