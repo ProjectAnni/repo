@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS GR@DATE WING 04"
+artist = "放課後クライマックスガールズ"
+date = 2020-11-18
+type = "normal"
+catalog = "LACM-14985"
+
+[[discs]]
+catalog = "LACM-14985"
+
+[[discs.tracks]]
+title = "五ツ座流星群"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前"
+
+[[discs.tracks]]
+title = "シャイノグラフィ（放課後クライマックスガールズVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「欠けたることも」"
+artist = "小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ）"
+type = "drama"

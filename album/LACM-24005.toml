@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS GR@DATE WING 07"
+artist = "ノクチル"
+date = 2020-09-16
+type = "normal"
+catalog = "LACM-24005"
+
+[[discs]]
+catalog = "LACM-24005"
+
+[[discs.tracks]]
+title = "いつだって僕らは"
+
+[[discs.tracks]]
+title = "あの花のように"
+
+[[discs.tracks]]
+title = "シャイノグラフィ（ノクチルVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「方・游」"
+artist = "浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保）"
+type = "drama"

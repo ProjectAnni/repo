@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS GR@DATE WING 02"
+artist = "イルミネーションスターズ"
+date = 2020-10-07
+type = "normal"
+catalog = "LACM-14983"
+
+[[discs]]
+catalog = "LACM-14983"
+
+[[discs.tracks]]
+title = "Twinkle way"
+
+[[discs.tracks]]
+title = "Happy Funny Lucky"
+
+[[discs.tracks]]
+title = "シャイノグラフィ（イルミネーションスターズVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「ようこそ、283カフェへ」"
+artist = "櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優）"
+type = "drama"

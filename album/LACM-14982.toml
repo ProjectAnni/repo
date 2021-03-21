@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS GR@DATE WING 01"
+artist = "シャイニーカラーズ"
+date = 2020-04-08
+type = "normal"
+catalog = "LACM-14982"
+
+[[discs]]
+catalog = "LACM-14982"
+
+[[discs.tracks]]
+title = "シャイノグラフィ"
+
+[[discs.tracks]]
+title = "Dye the sky."
