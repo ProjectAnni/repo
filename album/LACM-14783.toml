@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 03 バベルシティ・グレイス"
+artist = "アンティーカ"
+date = 2018-08-01
+type = "normal"
+catalog = "LACM-14783"
+
+[[discs]]
+catalog = "LACM-14783"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE"
+
+[[discs.tracks]]
+title = "Spread the Wings!! (アンティーカ Ver.)"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「アンティーカより愛を込めて」"
+artist = "月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（成海瑠奈）、幽谷霧子（結名美月）"
+type = "drama"

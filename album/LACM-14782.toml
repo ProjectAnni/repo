@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 02 ヒカリのdestination"
+artist = "イルミネーションスターズ"
+date = 2018-07-04
+type = "normal"
+catalog = "LACM-14782"
+
+[[discs]]
+catalog = "LACM-14782"
+
+[[discs.tracks]]
+title = "ヒカリのdestination"
+
+[[discs.tracks]]
+title = "虹になれ"
+
+[[discs.tracks]]
+title = "Spread the Wings!! (イルミネーションスターズ Ver.)"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「イルミネーションスターズ・イン・ストア」"
+artist = "櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優）"
+type = "drama"

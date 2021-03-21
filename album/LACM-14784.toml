@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school"
+artist = "放課後クライマックスガールズ"
+date = 2018-09-05
+type = "normal"
+catalog = "LACM-14784"
+
+[[discs]]
+catalog = "LACM-14784"
+
+[[discs.tracks]]
+title = "夢咲きAfter school"
+
+[[discs.tracks]]
+title = "太陽キッス"
+
+[[discs.tracks]]
+title = "Spread the Wings!! (放課後クライマックスガールズ Ver.)"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「果穂のワクワク観察日記」"
+artist = "小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ）"
+type = "drama"

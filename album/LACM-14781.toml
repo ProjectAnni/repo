@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 01 Spread the Wings!!"
+artist = "シャイニーカラーズ"
+date = 2018-06-06
+type = "normal"
+catalog = "LACM-14781"
+
+[[discs]]
+catalog = "LACM-14781"
+
+[[discs.tracks]]
+title = "Spread the Wings!!"
+
+[[discs.tracks]]
+title = "Multicolored Sky"

@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING 05 アルストロメリア"
+artist = "アルストロメリア"
+date = 2018-10-03
+type = "normal"
+catalog = "LACM-14785"
+
+[[discs]]
+catalog = "LACM-14785"
+
+[[discs.tracks]]
+title = "アルストロメリア"
+
+[[discs.tracks]]
+title = "ハピリリ"
+
+[[discs.tracks]]
+title = "Spread the Wings!! (アルストロメリア Ver.)"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「かぜっぴきパニック！」"
+artist = "大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子）"
+type = "drama"
