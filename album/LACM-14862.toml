@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS FR@GMENT WING 02"
+artist = "イルミネーションスターズ"
+date = 2019-05-08
+type = "normal"
+catalog = "LACM-14862"
+
+[[discs]]
+catalog = "LACM-14862"
+
+[[discs.tracks]]
+title = "We can go now!"
+
+[[discs.tracks]]
+title = "トライアングル"
+
+[[discs.tracks]]
+title = "Ambitious Eve（イルミネーションスターズ Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「輝く笑顔に向かって」"
+artist = "櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優）"
+type = "drama"

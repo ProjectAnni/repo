@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04"
+artist = "放課後クライマックスガールズ"
+date = 2019-07-10
+type = "normal"
+catalog = "LACM-14864"
+
+[[discs]]
+catalog = "LACM-14864"
+
+[[discs.tracks]]
+title = "ビーチブレイバー"
+
+[[discs.tracks]]
+title = "よりみちサンセット"
+
+[[discs.tracks]]
+title = "Ambitious Eve（放課後クライマックスガールズ Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「放課後テーマパーク」"
+artist = "小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ）"
+type = "drama"

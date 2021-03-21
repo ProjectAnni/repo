@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS FR@GMENT WING 01"
+artist = "シャイニーカラーズ"
+date = 2019-04-10
+type = "normal"
+catalog = "LACM-14861"
+
+[[discs]]
+catalog = "LACM-14861"
+
+[[discs.tracks]]
+title = "Ambitious Eve"
+
+[[discs.tracks]]
+title = "いつか Shiny Days"
