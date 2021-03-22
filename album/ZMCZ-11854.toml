@@ -1,0 +1,22 @@
+[album]
+title = "The Girls Are Alright!"
+artist = "saya"
+date = 2018-02-21
+type = "normal"
+catalog = "ZMCZ-11854"
+
+[[discs]]
+catalog = "ZMCZ-11854"
+
+[[discs.tracks]]
+title = "The Girls Are Alright!"
+
+[[discs.tracks]]
+title = "ハルカトオク"
+
+[[discs.tracks]]
+title = "宇宙を見上げて"
+
+[[discs.tracks]]
+title = "The Girls Are Alright!(instrumental)"
+type = "instrumental"

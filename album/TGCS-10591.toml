@@ -1,0 +1,41 @@
+[album]
+title = "宇宙よりも遠い場所 スペシャルソングCD"
+artist = "玉木マリ（水瀬いのり）、小淵沢報瀬（花澤香菜）、三宅日向（井口裕香）、白石結月（早見沙織）"
+date = 2018-03-28
+type = "normal"
+catalog = "TGCS-10591"
+
+[[discs]]
+catalog = "TGCS-10591"
+
+[[discs.tracks]]
+title = "ここから、ここから -玉木マリソロver.-"
+artist = "玉木マリ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "ここから、ここから -小淵沢報瀬ソロver.-"
+artist = "小淵沢報瀬（花澤香菜）"
+
+[[discs.tracks]]
+title = "ここから、ここから -三宅日向ソロver.-"
+artist = "三宅日向（井口裕香）"
+
+[[discs.tracks]]
+title = "ここから、ここから -白石結月ソロver.-"
+artist = "白石結月（早見沙織）"
+
+[[discs.tracks]]
+title = "One Step -玉木マリソロver.-"
+artist = "玉木マリ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "One Step -小淵沢報瀬ソロver.-"
+artist = "小淵沢報瀬（花澤香菜）"
+
+[[discs.tracks]]
+title = "One Step -三宅日向ソロver.-"
+artist = "三宅日向（井口裕香）"
+
+[[discs.tracks]]
+title = "One Step -白石結月ソロver.-"
+artist = "白石結月（早見沙織）"

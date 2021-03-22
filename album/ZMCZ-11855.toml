@@ -1,0 +1,23 @@
+[album]
+title = "ここから、ここから"
+artist = "玉木マリ（水瀬いのり）、小淵沢報瀬（花澤香菜）、三宅日向（井口裕香）、白石結月（早見沙織）"
+date = 2018-02-21
+type = "normal"
+catalog = "ZMCZ-11855"
+
+[[discs]]
+catalog = "ZMCZ-11855"
+
+[[discs.tracks]]
+title = "ここから、ここから"
+
+[[discs.tracks]]
+title = "One Step"
+
+[[discs.tracks]]
+title = "ここから、ここから (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "One Step (Instrumental)"
+type = "instrumental"
