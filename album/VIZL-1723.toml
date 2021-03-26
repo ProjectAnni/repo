@@ -1,0 +1,57 @@
+[album]
+title = "START the MAGIC HOUR"
+artist = "ラピスリライツ・スターズ"
+date = 2020-02-05
+type = "normal"
+catalog = "VIZL-1723"
+
+[[discs]]
+catalog = "VIZL-1723"
+
+[[discs.tracks]]
+title = "Your Lights"
+artist = "LiGHTs"
+
+[[discs.tracks]]
+title = "ポラリス"
+artist = "LiGHTs"
+
+[[discs.tracks]]
+title = "Are Many Chance!!!"
+artist = "Sadistic★Candy"
+
+[[discs.tracks]]
+title = "VIVIらぷ"
+artist = "Sadistic★Candy"
+
+[[discs.tracks]]
+title = "いのち短し、繚乱乙女"
+artist = "この花は乙女"
+
+[[discs.tracks]]
+title = "私の初恋をこの花に捧ぐ"
+artist = "この花は乙女"
+
+[[discs.tracks]]
+title = "シャノワール"
+artist = "シュガーポケッツ"
+
+[[discs.tracks]]
+title = "knockin' on baby"
+artist = "シュガーポケッツ"
+
+[[discs.tracks]]
+title = "禁忌の寓話"
+artist = "IV KLORE"
+
+[[discs.tracks]]
+title = "Butterfly"
+artist = "IV KLORE"
+
+[[discs.tracks]]
+title = "Trinity"
+artist = "supernova"
+
+[[discs.tracks]]
+title = "RISE"
+artist = "supernova"

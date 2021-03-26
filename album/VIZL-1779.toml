@@ -1,0 +1,25 @@
+[album]
+title = "私たちのSTARTRAIL"
+artist = "ラピスリライツ・スターズ"
+date = 2020-07-08
+type = "normal"
+catalog = "VIZL-1779"
+
+[[discs]]
+catalog = "VIZL-1779"
+
+[[discs.tracks]]
+title = "私たちのSTARTRAIL"
+
+[[discs.tracks]]
+title = "プラネタリウム"
+artist = "LiGHTs"
+
+[[discs.tracks]]
+title = "私たちのSTARTRAIL -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プラネタリウム -OFF VOCAL-"
+artist = "LiGHTs"
+type = "instrumental"
