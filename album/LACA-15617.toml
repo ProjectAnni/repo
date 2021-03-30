@@ -1,0 +1,27 @@
+[album]
+title = "RefRain"
+artist = "上田麗奈"
+date = 2016-12-21
+type = "normal"
+catalog = "LACA-15617"
+
+[[discs]]
+catalog = "LACA-15617"
+
+[[discs.tracks]]
+title = "マニエールに夢を"
+
+[[discs.tracks]]
+title = "ワタシ*ドリ"
+
+[[discs.tracks]]
+title = "海の駅"
+
+[[discs.tracks]]
+title = "毒の手"
+
+[[discs.tracks]]
+title = "車庫の少女"
+
+[[discs.tracks]]
+title = "あなたの好きなメロディ"

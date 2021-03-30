@@ -1,0 +1,18 @@
+[album]
+title = "リテラチュア"
+artist = "上田麗奈"
+date = 2020-10-21
+type = "normal"
+catalog = "LACM-24028"
+
+[[discs]]
+catalog = "LACM-24028"
+
+[[discs.tracks]]
+title = "リテラチュア"
+
+[[discs.tracks]]
+title = "花の雨"
+
+[[discs.tracks]]
+title = "たより"

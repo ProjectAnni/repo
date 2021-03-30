@@ -1,0 +1,42 @@
+[album]
+title = "Empathy"
+artist = "上田麗奈"
+date = 2020-03-18
+type = "normal"
+catalog = "LACA-15809"
+
+[[discs]]
+catalog = "LACA-15809"
+
+[[discs.tracks]]
+title = "アイオライト"
+
+[[discs.tracks]]
+title = "あまい夢"
+
+[[discs.tracks]]
+title = "Falling"
+
+[[discs.tracks]]
+title = "ティーカップ"
+
+[[discs.tracks]]
+title = "いつか、また。"
+
+[[discs.tracks]]
+title = "きみどり"
+
+[[discs.tracks]]
+title = "Another"
+
+[[discs.tracks]]
+title = "aquarium"
+
+[[discs.tracks]]
+title = "旋律の糸"
+
+[[discs.tracks]]
+title = "Campanula"
+
+[[discs.tracks]]
+title = "Walk on your side"
