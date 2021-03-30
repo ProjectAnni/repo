@@ -10,6 +10,7 @@ catalog = "VICL-65454"
 
 [[discs.tracks]]
 title = "SKY FULL of MAGIC"
+type = "absolute"
 
 [[discs.tracks]]
 title = "700,000,000,000,000,000,000,000の空で"
