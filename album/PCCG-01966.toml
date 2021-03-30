@@ -1,0 +1,29 @@
+[album]
+title = "みなみかぜ／サマーデイズ"
+artist = "中野家の五つ子（中野一花（花澤香菜）、中野二乃（竹達彩奈）、中野三玖（伊藤美来）、中野四葉（佐倉綾音）、中野五月（水瀬いのり））"
+date = 2021-03-24
+type = "normal"
+catalog = "PCCG-01966"
+
+[[discs]]
+catalog = "PCCG-01966"
+
+[[discs.tracks]]
+title = "みなみかぜ"
+
+[[discs.tracks]]
+title = "サマーデイズ"
+
+[[discs.tracks]]
+title = "みなみかぜ (Gameサイズ)"
+
+[[discs.tracks]]
+title = "サマーデイズ (Gameサイズ)"
+
+[[discs.tracks]]
+title = "みなみかぜ (インストゥルメンタル)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サマーデイズ (インストゥルメンタル)"
+type = "instrumental"

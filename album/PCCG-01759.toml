@@ -1,0 +1,54 @@
+[album]
+title = "TVアニメ「五等分の花嫁」キャラクターソング・ミニアルバム"
+artist = "中野家の五つ子"
+date = 2019-03-06
+type = "normal"
+catalog = "PCCG-01759"
+
+[[discs]]
+catalog = "PCCG-01759"
+
+[[discs.tracks]]
+title = "Hello, dear my dream ～一秒後には～"
+artist = "中野一花（花澤香菜）"
+
+[[discs.tracks]]
+title = "アイツとキミ～二度とない運命～"
+artist = "中野二乃（竹達彩奈）"
+
+[[discs.tracks]]
+title = "Lovely music ～三週間前までは白かった～"
+artist = "中野三玖（伊藤美来）"
+
+[[discs.tracks]]
+title = "ハートのカタチ～四つ葉のClover～"
+artist = "中野四葉（佐倉綾音）"
+
+[[discs.tracks]]
+title = "素直にOpen heart ～五つ数えて～"
+artist = "中野五月（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Hello, dear my dream ～一秒後には～(インストゥルメンタル)"
+artist = "中野一花（花澤香菜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アイツとキミ～二度とない運命～(インストゥルメンタル)"
+artist = "中野二乃（竹達彩奈）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lovely music ～三週間前までは白かった～(インストゥルメンタル)"
+artist = "中野三玖（伊藤美来）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハートのカタチ～四つ葉のClover～(インストゥルメンタル)"
+artist = "中野四葉（佐倉綾音）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "素直にOpen heart ～五つ数えて～(インストゥルメンタル)"
+artist = "中野五月（水瀬いのり）"
+type = "instrumental"

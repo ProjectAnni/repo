@@ -1,0 +1,21 @@
+[album]
+title = "Sign／Candy Flavor"
+artist = "内田彩"
+date = 2019-03-06
+type = "normal"
+catalog = "COZC-1514"
+
+[[discs]]
+catalog = "COZC-1514"
+
+[[discs.tracks]]
+title = "Sign"
+
+[[discs.tracks]]
+title = "Candy Flavor"
+
+[[discs.tracks]]
+title = "Sign (Instrumental)"
+
+[[discs.tracks]]
+title = "Candy Flavor (Instrumental)"

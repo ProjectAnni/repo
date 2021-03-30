@@ -1,0 +1,54 @@
+[album]
+title = "「五等分の花嫁∬」キャラクターソング・ミニアルバム"
+artist = "中野家の五つ子"
+date = 2021-03-03
+type = "normal"
+catalog = "PCCG-01965"
+
+[[discs]]
+catalog = "PCCG-01965"
+
+[[discs.tracks]]
+title = "きづいてよ ～One Love～"
+artist = "中野一花（花澤香菜）"
+
+[[discs.tracks]]
+title = "好きよ ～Two Hearts～"
+artist = "中野二乃（竹達彩奈）"
+
+[[discs.tracks]]
+title = "君が好き ～Three Feelings～"
+artist = "中野三玖（伊藤美来）"
+
+[[discs.tracks]]
+title = "内緒の恋 ～Love Four U～"
+artist = "中野四葉（佐倉綾音）"
+
+[[discs.tracks]]
+title = "トクベツなひと ～Lesson Five～"
+artist = "中野五月（水瀬いのり）"
+
+[[discs.tracks]]
+title = "きづいてよ ～One Love～ (インストゥルメンタル)"
+artist = "中野一花（花澤香菜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "好きよ ～Two Hearts～ (インストゥルメンタル)"
+artist = "中野二乃（竹達彩奈）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君が好き ～Three Feelings～ (インストゥルメンタル)"
+artist = "中野三玖（伊藤美来）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "内緒の恋 ～Love Four U～ (インストゥルメンタル)"
+artist = "中野四葉（佐倉綾音）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トクベツなひと ～Lesson Five～ (インストゥルメンタル)"
+artist = "中野五月（水瀬いのり）"
+type = "instrumental"

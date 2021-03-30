@@ -1,0 +1,26 @@
+[album]
+title = "五等分の気持ち"
+artist = "中野家の五つ子（中野一花（花澤香菜）、中野二乃（竹達彩奈）、中野三玖（伊藤美来）、中野四葉（佐倉綾音）、中野五月（水瀬いのり））"
+date = 2019-01-30
+type = "normal"
+catalog = "PCCG-01751"
+
+[[discs]]
+catalog = "PCCG-01751"
+
+[[discs.tracks]]
+title = "五等分の気持ち"
+
+[[discs.tracks]]
+title = "ごぶんのいち"
+
+[[discs.tracks]]
+title = "五等分の気持ち（TV EDIT）"
+
+[[discs.tracks]]
+title = "五等分の気持ち インストゥルメンタル"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ごぶんのいち インストゥルメンタル"
+type = "instrumental"

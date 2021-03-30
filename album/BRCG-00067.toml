@@ -1,0 +1,38 @@
+[album]
+title = "五等分の花嫁～可愛さMax Re-mix～"
+artist = "中野家の五つ子（中野一花（花澤香菜）、中野二乃（竹達彩奈）、中野三玖（伊藤美来）、中野四葉（佐倉綾音）、中野五月（水瀬いのり））"
+date = 2019-08-09
+type = "normal"
+catalog = "BRCG-00067"
+
+[[discs]]
+catalog = "BRCG-00067"
+
+[[discs.tracks]]
+title = "五等分の気持ち（PandaBoY Opening Voice Edit）"
+
+[[discs.tracks]]
+title = "アイツとキミ～二度とない運命～ (colate Round & Beat Edit)"
+artist = "中野二乃（竹達彩奈）"
+
+[[discs.tracks]]
+title = "素直にOpen heart ～五つ数えて～（PandaBoY Drum'n'Bass Edit）"
+artist = "中野五月（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Lovely music ～三週間前までは白かった～（PandaBoY Girly Pop Edit）"
+artist = "中野三玖（伊藤美来）"
+
+[[discs.tracks]]
+title = "Hello, dear my dream ～一秒後には～（PandaBoY Jazzin' House Edit）"
+artist = "中野一花（花澤香菜）"
+
+[[discs.tracks]]
+title = "ハートのカタチ～四つ葉のClover～(colate Slow Dance Edit）"
+artist = "中野四葉（佐倉綾音）"
+
+[[discs.tracks]]
+title = "ごぶんのいち（PandaBoY Tropical House Edit）"
+
+[[discs.tracks]]
+title = "五等分の気持ち（PandaBoY Five Flowers Dance Edit）"
