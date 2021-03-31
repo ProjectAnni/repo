@@ -1,0 +1,23 @@
+[album]
+title = "whiz"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2016-02-10
+type = "normal"
+catalog = "SVWC-70133"
+
+[[discs]]
+catalog = "SVWC-70133"
+
+[[discs.tracks]]
+title = "whiz"
+
+[[discs.tracks]]
+title = "Baby My Step"
+
+[[discs.tracks]]
+title = "whiz Insturmental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Baby My Step Insturmental"
+type = "instrumental"

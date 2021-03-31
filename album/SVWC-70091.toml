@@ -1,0 +1,23 @@
+[album]
+title = "コバルト"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2015-08-19
+type = "normal"
+catalog = "SVWC-70091"
+
+[[discs]]
+catalog = "SVWC-70091"
+
+[[discs.tracks]]
+title = "コバルト"
+
+[[discs.tracks]]
+title = "ホントだよ"
+
+[[discs.tracks]]
+title = "コバルト～Instrumental～"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ホントだよ～Instrumental～"
+type = "instrumental"

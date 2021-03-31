@@ -1,0 +1,23 @@
+[album]
+title = "Truth."
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2018-06-06
+type = "normal"
+catalog = "VVCL-1247"
+
+[[discs]]
+catalog = "VVCL-1247"
+
+[[discs.tracks]]
+title = "Truth."
+
+[[discs.tracks]]
+title = "CODING"
+
+[[discs.tracks]]
+title = "Truth. -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "CODING -Instrumental-"
+type = "instrumental"

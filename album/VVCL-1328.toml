@@ -1,0 +1,23 @@
+[album]
+title = "azure"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2018-11-14
+type = "normal"
+catalog = "VVCL-1328"
+
+[[discs]]
+catalog = "VVCL-1328"
+
+[[discs.tracks]]
+title = "azure"
+
+[[discs.tracks]]
+title = "Make Me Happy?"
+
+[[discs.tracks]]
+title = "azure -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Make Me Happy? -Instrumental-"
+type = "instrumental"

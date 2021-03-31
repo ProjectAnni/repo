@@ -1,0 +1,23 @@
+[album]
+title = "adrenaline!!!"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2017-05-24
+type = "normal"
+catalog = "VVCL-1048"
+
+[[discs]]
+catalog = "VVCL-1048"
+
+[[discs.tracks]]
+title = "adrenaline!!!"
+
+[[discs.tracks]]
+title = "かかわり"
+
+[[discs.tracks]]
+title = "adrenaline!!! -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "かかわり -Instrumental-"
+type = "instrumental"

@@ -1,0 +1,30 @@
+[album]
+title = 'TrySail First Live Tour "The Age of Discovery"'
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2017-06-28
+type = "normal"
+catalog = "VVXL-7"
+
+[[discs]]
+catalog = "VVXL-7"
+
+[[discs.tracks]]
+title = "Sail Out"
+
+[[discs.tracks]]
+title = "パーリー☆パーティ"
+
+[[discs.tracks]]
+title = "whiz"
+
+[[discs.tracks]]
+title = "ホントだよ"
+
+[[discs.tracks]]
+title = "sewing dream"
+
+[[discs.tracks]]
+title = "コバルト"
+
+[[discs.tracks]]
+title = "Youthful Dreamer"

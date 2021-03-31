@@ -1,0 +1,45 @@
+[album]
+title = "TryAgain"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2019-02-27
+type = "normal"
+catalog = "VVCL-1420"
+
+[[discs]]
+catalog = "VVCL-1420"
+
+[[discs.tracks]]
+title = "TryAgain"
+
+[[discs.tracks]]
+title = "WANTED GIRL"
+
+[[discs.tracks]]
+title = "Truth."
+
+[[discs.tracks]]
+title = "Believe"
+
+[[discs.tracks]]
+title = "Take a step forward"
+
+[[discs.tracks]]
+title = "未来キュレーション"
+
+[[discs.tracks]]
+title = "CODING"
+
+[[discs.tracks]]
+title = "Sunset カンフー"
+
+[[discs.tracks]]
+title = "散歩道"
+
+[[discs.tracks]]
+title = "Make Me Happy?"
+
+[[discs.tracks]]
+title = "またね、"
+
+[[discs.tracks]]
+title = "azure"

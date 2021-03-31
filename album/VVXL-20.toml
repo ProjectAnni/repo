@@ -1,0 +1,51 @@
+[album]
+title = 'TrySail Second Live Tour "The Travels of TrySail"'
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2018-09-26
+type = "normal"
+catalog = "VVXL-20"
+
+[[discs]]
+catalog = "VVXL-20"
+
+[[discs.tracks]]
+title = "TAILWIND"
+
+[[discs.tracks]]
+title = "whiz"
+
+[[discs.tracks]]
+title = "バン!バン!!バンザイ!!!"
+
+[[discs.tracks]]
+title = "Journey"
+
+[[discs.tracks]]
+title = "ひかるカケラ（コーラス）"
+
+[[discs.tracks]]
+title = "Truth."
+
+[[discs.tracks]]
+title = "かかわり"
+
+[[discs.tracks]]
+title = "センパイ。"
+
+[[discs.tracks]]
+title = "Youthful Dreamer"
+
+[[discs.tracks]]
+title = "High Free Spirits"
+
+[[discs.tracks]]
+title = "コバルト"
+
+[[discs.tracks]]
+title = "adrenaline!!!"
+
+[[discs.tracks]]
+title = "WANTED GIRL"
+
+[[discs.tracks]]
+title = "ひかるカケラ"

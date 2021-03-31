@@ -1,0 +1,23 @@
+[album]
+title = "センパイ。"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2016-12-14
+type = "normal"
+catalog = "SVWC-70211"
+
+[[discs]]
+catalog = "SVWC-70211"
+
+[[discs.tracks]]
+title = "センパイ。"
+
+[[discs.tracks]]
+title = "BraveSail"
+
+[[discs.tracks]]
+title = "センパイ。 Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BraveSail Instrumental"
+type = "instrumental"

@@ -1,0 +1,23 @@
+[album]
+title = "Youthful Dreamer"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2015-05-13
+type = "normal"
+catalog = "SVWC-70068"
+
+[[discs]]
+catalog = "SVWC-70068"
+
+[[discs.tracks]]
+title = "Youthful Dreamer"
+
+[[discs.tracks]]
+title = "Sail Out"
+
+[[discs.tracks]]
+title = "Youthful Dreamer～Instrumental～"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sail Out～Instrumental～"
+type = "instrumental"
