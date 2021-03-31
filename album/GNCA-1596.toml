@@ -1,0 +1,45 @@
+[album]
+title = "Chapter Ⅰ"
+artist = "中島由貴"
+date = 2020-12-23
+type = "normal"
+catalog = "GNCA-1596"
+
+[[discs]]
+catalog = "GNCA-1596"
+
+[[discs.tracks]]
+title = "Happy Signal"
+
+[[discs.tracks]]
+title = "雨音ステップ"
+
+[[discs.tracks]]
+title = "Sunny Parade"
+
+[[discs.tracks]]
+title = "2cm"
+
+[[discs.tracks]]
+title = "白線と未知"
+
+[[discs.tracks]]
+title = "NaNDe?"
+
+[[discs.tracks]]
+title = "Unchain my heart"
+
+[[discs.tracks]]
+title = "－ツキノシラベー"
+
+[[discs.tracks]]
+title = "マーブル"
+
+[[discs.tracks]]
+title = "ココア"
+
+[[discs.tracks]]
+title = "HOME"
+
+[[discs.tracks]]
+title = "Chapter Ⅰ"
