@@ -1,0 +1,18 @@
+[album]
+title = "Null"
+artist = "ReoNa"
+date = 2019-08-28
+type = "normal"
+catalog = "VVCL-1485"
+
+[[discs]]
+catalog = "VVCL-1485"
+
+[[discs.tracks]]
+title = "怪物の詩"
+
+[[discs.tracks]]
+title = "Lotus"
+
+[[discs.tracks]]
+title = "決意の朝に"

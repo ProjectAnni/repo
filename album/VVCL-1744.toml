@@ -1,0 +1,45 @@
+[album]
+title = "unknown"
+artist = "ReoNa"
+date = 2020-10-07
+type = "normal"
+catalog = "VVCL-1744"
+
+[[discs]]
+catalog = "VVCL-1744"
+
+[[discs.tracks]]
+title = "unknown"
+
+[[discs.tracks]]
+title = "forget-me-not"
+
+[[discs.tracks]]
+title = "Untitled world"
+
+[[discs.tracks]]
+title = "怪物の詩"
+
+[[discs.tracks]]
+title = "Let it Die"
+
+[[discs.tracks]]
+title = "BIRTHDAY"
+
+[[discs.tracks]]
+title = "いかり"
+
+[[discs.tracks]]
+title = "心音"
+
+[[discs.tracks]]
+title = "絶望年表"
+
+[[discs.tracks]]
+title = "ANIMA"
+
+[[discs.tracks]]
+title = "Till the End"
+
+[[discs.tracks]]
+title = "SWEET HURT -plus unknown-"

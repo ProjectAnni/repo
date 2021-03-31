@@ -1,0 +1,22 @@
+[album]
+title = "ANIMA"
+artist = "ReoNa"
+date = 2020-07-22
+type = "normal"
+catalog = "VVCL-1680"
+
+[[discs]]
+catalog = "VVCL-1680"
+
+[[discs.tracks]]
+title = "ANIMA"
+
+[[discs.tracks]]
+title = "雨に唄えば"
+
+[[discs.tracks]]
+title = "ミミック"
+
+[[discs.tracks]]
+title = "ANIMA -Instrumental-"
+type = "instrumental"

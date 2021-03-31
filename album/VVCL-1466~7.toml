@@ -1,0 +1,27 @@
+[album]
+title = "Prologue"
+artist = "ReoNa"
+date = 2019-06-26
+type = "normal"
+catalog = "VVCL-1466~7"
+
+[[discs]]
+catalog = "VVCL-1466"
+
+[[discs.tracks]]
+title = "ALONE"
+
+[[discs.tracks]]
+title = "Dancer in the Discord"
+
+[[discs.tracks]]
+title = "葬送の儀"
+
+[[discs]]
+catalog = "VVCL-1467"
+
+[[discs.tracks]]
+title = "Rea(s)oN -Acoustic Live ver.-"
+
+[[discs.tracks]]
+title = "Disorder -Acoustic Live ver.-"

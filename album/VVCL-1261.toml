@@ -1,0 +1,30 @@
+[album]
+title = "ELZA"
+artist = "ReoNa"
+date = 2018-07-04
+type = "normal"
+catalog = "VVCL-1261"
+
+[[discs]]
+catalog = "VVCL-1261"
+
+[[discs.tracks]]
+title = "ピルグリム"
+
+[[discs.tracks]]
+title = "step, step"
+
+[[discs.tracks]]
+title = "Disorder"
+
+[[discs.tracks]]
+title = "Independence"
+
+[[discs.tracks]]
+title = "レプリカ"
+
+[[discs.tracks]]
+title = "ヒカリ"
+
+[[discs.tracks]]
+title = "Rea(s)oN"

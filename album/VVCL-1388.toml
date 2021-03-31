@@ -1,0 +1,22 @@
+[album]
+title = "forget-me-not"
+artist = "ReoNa"
+date = 2019-02-06
+type = "normal"
+catalog = "VVCL-1388"
+
+[[discs]]
+catalog = "VVCL-1388"
+
+[[discs.tracks]]
+title = "forget-me-not"
+
+[[discs.tracks]]
+title = "トウシンダイ"
+
+[[discs.tracks]]
+title = "虹の彼方に"
+
+[[discs.tracks]]
+title = "forget-me-not -Instrumental-"
+type = "instrumental"

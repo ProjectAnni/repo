@@ -1,0 +1,22 @@
+[album]
+title = "SWEET HURT"
+artist = "ReoNa"
+date = 2018-09-29
+type = "normal"
+catalog = "VVCL-1285"
+
+[[discs]]
+catalog = "VVCL-1285"
+
+[[discs.tracks]]
+title = "SWEET HURT"
+
+[[discs.tracks]]
+title = "おやすみの詩"
+
+[[discs.tracks]]
+title = "カナリア"
+
+[[discs.tracks]]
+title = "SWEET HURT -Instrumental-"
+type = "instrumental"
