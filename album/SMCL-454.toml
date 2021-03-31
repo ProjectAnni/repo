@@ -1,0 +1,19 @@
+[album]
+title = "明日は君と。"
+artist = "麻倉もも"
+date = 2016-11-02
+type = "normal"
+catalog = "SMCL-454"
+
+[[discs]]
+catalog = "SMCL-454"
+
+[[discs.tracks]]
+title = "明日は君と。"
+
+[[discs.tracks]]
+title = "花に赤い糸"
+
+[[discs.tracks]]
+title = "明日は君と。 (Instrumental)"
+type = "instrumental"

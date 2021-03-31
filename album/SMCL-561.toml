@@ -1,0 +1,48 @@
+[album]
+title = "Peachy!"
+artist = "麻倉もも"
+date = 2018-10-03
+type = "normal"
+catalog = "SMCL-561"
+
+[[discs]]
+catalog = "SMCL-561"
+
+[[discs.tracks]]
+title = "Good Job!"
+
+[[discs.tracks]]
+title = "明日は君と。"
+
+[[discs.tracks]]
+title = "Run for you"
+
+[[discs.tracks]]
+title = "トラベリータイム"
+
+[[discs.tracks]]
+title = "恋のプレリュード"
+
+[[discs.tracks]]
+title = "ずっと君のことが好きなんです。"
+
+[[discs.tracks]]
+title = "花に赤い糸"
+
+[[discs.tracks]]
+title = "パンプキン・ミート・パイ"
+
+[[discs.tracks]]
+title = "トクベツいちばん!!"
+
+[[discs.tracks]]
+title = "Fanfare!!"
+
+[[discs.tracks]]
+title = "No Distance"
+
+[[discs.tracks]]
+title = "星空を想えば"
+
+[[discs.tracks]]
+title = "カラフル"

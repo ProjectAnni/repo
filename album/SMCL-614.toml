@@ -1,0 +1,19 @@
+[album]
+title = "ユメシンデレラ"
+artist = "麻倉もも"
+date = 2019-09-04
+type = "normal"
+catalog = "SMCL-614"
+
+[[discs]]
+catalog = "SMCL-614"
+
+[[discs.tracks]]
+title = "ユメシンデレラ"
+
+[[discs.tracks]]
+title = "“さよなら”聞いて。"
+
+[[discs.tracks]]
+title = "ユメシンデレラ (Instrumental)"
+type = "instrumental"

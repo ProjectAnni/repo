@@ -1,0 +1,19 @@
+[album]
+title = "パンプキン・ミート・パイ"
+artist = "麻倉もも"
+date = 2018-08-22
+type = "normal"
+catalog = "SMCL-552"
+
+[[discs]]
+catalog = "SMCL-552"
+
+[[discs.tracks]]
+title = "パンプキン・ミート・パイ"
+
+[[discs.tracks]]
+title = "ハピネスピース"
+
+[[discs.tracks]]
+title = "パンプキン・ミート・パイ (Instrumental)"
+type = "instrumental"

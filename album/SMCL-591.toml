@@ -1,0 +1,19 @@
+[album]
+title = "365×LOVE"
+artist = "麻倉もも"
+date = 2019-02-13
+type = "normal"
+catalog = "SMCL-591"
+
+[[discs]]
+catalog = "SMCL-591"
+
+[[discs.tracks]]
+title = "365×LOVE"
+
+[[discs.tracks]]
+title = "さよなら観覧車"
+
+[[discs.tracks]]
+title = "365×LOVE (Instrumental)"
+type = "instrumental"

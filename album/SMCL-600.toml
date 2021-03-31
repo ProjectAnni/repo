@@ -1,0 +1,19 @@
+[album]
+title = "スマッシュ・ドロップ"
+artist = "麻倉もも"
+date = 2019-05-22
+type = "normal"
+catalog = "SMCL-600"
+
+[[discs]]
+catalog = "SMCL-600"
+
+[[discs.tracks]]
+title = "スマッシュ・ドロップ"
+
+[[discs.tracks]]
+title = "シュークリーム"
+
+[[discs.tracks]]
+title = "スマッシュ・ドロップ (Instrumental)"
+type = "instrumental"

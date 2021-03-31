@@ -1,0 +1,19 @@
+[album]
+title = "カラフル"
+artist = "麻倉もも"
+date = 2017-11-01
+type = "normal"
+catalog = "SMCL-515"
+
+[[discs]]
+catalog = "SMCL-515"
+
+[[discs.tracks]]
+title = "カラフル"
+
+[[discs.tracks]]
+title = "No Distance"
+
+[[discs.tracks]]
+title = "カラフル (Instrumental)"
+type = "instrumental"

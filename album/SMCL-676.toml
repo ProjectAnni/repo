@@ -1,0 +1,19 @@
+[album]
+title = "僕だけに見える星"
+artist = "麻倉もも"
+date = 2020-11-11
+type = "normal"
+catalog = "SMCL-676"
+
+[[discs]]
+catalog = "SMCL-676"
+
+[[discs.tracks]]
+title = "僕だけに見える星"
+
+[[discs.tracks]]
+title = "あしあと"
+
+[[discs.tracks]]
+title = "僕だけに見える星(Instrumental)"
+type = "instrumental"
