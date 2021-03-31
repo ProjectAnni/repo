@@ -1,0 +1,16 @@
+[album]
+title = "これからも五等分"
+artist = "中野家の五つ子（中野一花（花澤香菜）、中野二乃（竹達彩奈）、中野三玖（伊藤美来）、中野四葉（佐倉綾音）、中野五月（水瀬いのり））"
+date = 2020-03-04
+type = "normal"
+catalog = "PCCG-01884"
+
+[[discs]]
+catalog = "PCCG-01884"
+
+[[discs.tracks]]
+title = "これからも五等分"
+
+[[discs.tracks]]
+title = "これからも五等分（インストゥルメンタル）"
+type = "instrumental"
