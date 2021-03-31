@@ -1,0 +1,18 @@
+[album]
+title = "TRUST IN ETERNITY"
+artist = "水瀬いのり"
+date = 2018-10-17
+type = "normal"
+catalog = "KICM-1890"
+
+[[discs]]
+catalog = "KICM-1890"
+
+[[discs.tracks]]
+title = "TRUST IN ETERNITY"
+
+[[discs.tracks]]
+title = "ピュアフレーム"
+
+[[discs.tracks]]
+title = "茜色ノスタルジア"

@@ -1,0 +1,45 @@
+[album]
+title = "Catch the Rainbow!"
+artist = "水瀬いのり"
+date = 2019-04-10
+type = "normal"
+catalog = "KICS-93785"
+
+[[discs]]
+catalog = "KICS-93785"
+
+[[discs.tracks]]
+title = "Step Up!"
+
+[[discs.tracks]]
+title = "ココロはMerry-Go-Round"
+
+[[discs.tracks]]
+title = "Kitty Cat Adventure"
+
+[[discs.tracks]]
+title = "Wonder Caravan!"
+
+[[discs.tracks]]
+title = "今を僕らしく生きてくために"
+
+[[discs.tracks]]
+title = "約束のアステリズム"
+
+[[discs.tracks]]
+title = "Future Seeker"
+
+[[discs.tracks]]
+title = "brave climber"
+
+[[discs.tracks]]
+title = "TRUST IN ETERNITY"
+
+[[discs.tracks]]
+title = "水彩メモリー"
+
+[[discs.tracks]]
+title = "My Graffiti"
+
+[[discs.tracks]]
+title = "Catch the Rainbow!"

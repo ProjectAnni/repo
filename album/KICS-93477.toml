@@ -1,0 +1,45 @@
+[album]
+title = "Innocent flower"
+artist = "水瀬いのり"
+date = 2017-04-05
+type = "normal"
+catalog = "KICS-93477"
+
+[[discs]]
+catalog = "KICS-93477"
+
+[[discs.tracks]]
+title = "春空"
+
+[[discs.tracks]]
+title = "夢のつぼみ"
+
+[[discs.tracks]]
+title = "Lucky Clover"
+
+[[discs.tracks]]
+title = "コイセヨオトメ"
+
+[[discs.tracks]]
+title = "涙のあとは"
+
+[[discs.tracks]]
+title = "いつもずっと"
+
+[[discs.tracks]]
+title = "Starry Wish"
+
+[[discs.tracks]]
+title = "Will"
+
+[[discs.tracks]]
+title = "星屑のコントレイル"
+
+[[discs.tracks]]
+title = "旅の途中"
+
+[[discs.tracks]]
+title = "harmony ribbon"
+
+[[discs.tracks]]
+title = "Innocent flower"

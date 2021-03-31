@@ -1,0 +1,45 @@
+[album]
+title = "BLUE COMPASS"
+artist = "水瀬いのり"
+date = 2018-05-23
+type = "normal"
+catalog = "KICS-93710"
+
+[[discs]]
+catalog = "KICS-93710"
+
+[[discs.tracks]]
+title = "ハートノイロ"
+
+[[discs.tracks]]
+title = "Ready Steady Go!"
+
+[[discs.tracks]]
+title = "identity"
+
+[[discs.tracks]]
+title = "Shoo-Bee-Doo-Wap-Wap!"
+
+[[discs.tracks]]
+title = "シネマチックダイアリー"
+
+[[discs.tracks]]
+title = "アイマイモコ"
+
+[[discs.tracks]]
+title = "これからも。"
+
+[[discs.tracks]]
+title = "アルペジオ"
+
+[[discs.tracks]]
+title = "Million Futures"
+
+[[discs.tracks]]
+title = "三月と群青"
+
+[[discs.tracks]]
+title = "Sweet Melody"
+
+[[discs.tracks]]
+title = "BLUE COMPASS"

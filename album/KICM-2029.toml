@@ -1,0 +1,18 @@
+[album]
+title = "ココロソマリ"
+artist = "水瀬いのり"
+date = 2020-02-05
+type = "normal"
+catalog = "KICM-2029"
+
+[[discs]]
+catalog = "KICM-2029"
+
+[[discs.tracks]]
+title = "ココロソマリ"
+
+[[discs.tracks]]
+title = "僕らは今"
+
+[[discs.tracks]]
+title = "Well Wishing Word"

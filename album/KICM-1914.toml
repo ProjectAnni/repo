@@ -1,0 +1,18 @@
+[album]
+title = "Wonder Caravan!"
+artist = "水瀬いのり"
+date = 2019-01-23
+type = "normal"
+catalog = "KICM-1914"
+
+[[discs]]
+catalog = "KICM-1914"
+
+[[discs.tracks]]
+title = "Wonder Caravan!"
+
+[[discs.tracks]]
+title = "君色プロローグ"
+
+[[discs.tracks]]
+title = "Snow White"

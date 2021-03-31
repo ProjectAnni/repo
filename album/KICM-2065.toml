@@ -1,0 +1,18 @@
+[album]
+title = "Starlight Museum"
+artist = "水瀬いのり"
+date = 2020-12-02
+type = "normal"
+catalog = "KICM-2065"
+
+[[discs]]
+catalog = "KICM-2065"
+
+[[discs.tracks]]
+title = "Starlight Museum"
+
+[[discs.tracks]]
+title = "クリスタライズ"
+
+[[discs.tracks]]
+title = "思い出のカケラ"

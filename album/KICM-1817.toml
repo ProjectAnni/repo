@@ -1,0 +1,18 @@
+[album]
+title = "Ready Steady Go!"
+artist = "水瀬いのり"
+date = 2017-11-29
+type = "normal"
+catalog = "KICM-1817"
+
+[[discs]]
+catalog = "KICM-1817"
+
+[[discs.tracks]]
+title = "Ready Steady Go!"
+
+[[discs.tracks]]
+title = "Happy Birthday"
+
+[[discs.tracks]]
+title = "Winter Wonder Wader"

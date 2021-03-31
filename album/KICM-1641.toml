@@ -1,0 +1,18 @@
+[album]
+title = "夢のつぼみ"
+artist = "水瀬いのり"
+date = 2015-02-12
+type = "normal"
+catalog = "KICM-1641"
+
+[[discs]]
+catalog = "KICM-1641"
+
+[[discs.tracks]]
+title = "夢のつぼみ"
+
+[[discs.tracks]]
+title = "笑顔が似合う日"
+
+[[discs.tracks]]
+title = "あの日の空へ"

@@ -1,0 +1,18 @@
+[album]
+title = "Starry Wish"
+artist = "水瀬いのり"
+date = 2016-11-09
+type = "normal"
+catalog = "KICM-1726"
+
+[[discs]]
+catalog = "KICM-1726"
+
+[[discs.tracks]]
+title = "Starry Wish"
+
+[[discs.tracks]]
+title = "夏の約束"
+
+[[discs.tracks]]
+title = "MELODY FLAG"
