@@ -1,0 +1,19 @@
+[album]
+title = "パレイド"
+artist = "夏川椎菜"
+date = 2018-07-18
+type = "normal"
+catalog = "SMCL-549"
+
+[[discs]]
+catalog = "SMCL-549"
+
+[[discs.tracks]]
+title = "パレイド"
+
+[[discs.tracks]]
+title = "ラブリルブラ"
+
+[[discs.tracks]]
+title = "パレイド (Instrumental)"
+type = "instrumental"

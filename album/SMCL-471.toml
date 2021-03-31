@@ -1,0 +1,18 @@
+[album]
+title = "グレープフルーツムーン"
+artist = "夏川椎菜"
+date = 2017-04-05
+type = "normal"
+catalog = "SMCL-471"
+
+[[discs]]
+catalog = "SMCL-471"
+
+[[discs.tracks]]
+title = "グレープフルーツムーン"
+
+[[discs.tracks]]
+title = "Daisy Days"
+
+[[discs.tracks]]
+title = "gravity"

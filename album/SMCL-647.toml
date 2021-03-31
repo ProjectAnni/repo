@@ -1,0 +1,23 @@
+[album]
+title = "アンチテーゼ"
+artist = "夏川椎菜"
+date = 2020-09-09
+type = "normal"
+catalog = "SMCL-647"
+
+[[discs]]
+catalog = "SMCL-647"
+
+[[discs.tracks]]
+title = "アンチテーゼ"
+
+[[discs.tracks]]
+title = "RUNNY NOSE"
+
+[[discs.tracks]]
+title = "アンチテーゼ  (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "RUNNY NOSE (Instrumental)"
+type = "instrumental"

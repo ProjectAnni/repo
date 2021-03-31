@@ -1,0 +1,19 @@
+[album]
+title = "フワリ、コロリ、カラン、コロン"
+artist = "夏川椎菜"
+date = 2017-08-30
+type = "normal"
+catalog = "SMCL-501"
+
+[[discs]]
+catalog = "SMCL-501"
+
+[[discs.tracks]]
+title = "フワリ、コロリ、カラン、コロン"
+
+[[discs.tracks]]
+title = "ナイモノバカリ"
+
+[[discs.tracks]]
+title = "フワリ、コロリ、カラン、コロン (instrumental)"
+type = "instrumental"

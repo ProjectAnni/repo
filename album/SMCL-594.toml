@@ -1,0 +1,48 @@
+[album]
+title = "ログライン"
+artist = "夏川椎菜"
+date = 2019-04-17
+type = "normal"
+catalog = "SMCL-594"
+
+[[discs]]
+catalog = "SMCL-594"
+
+[[discs.tracks]]
+title = "パレイド"
+
+[[discs.tracks]]
+title = "ステテクレバー"
+
+[[discs.tracks]]
+title = "ナイモノバカリ"
+
+[[discs.tracks]]
+title = "イエローフラッグ"
+
+[[discs.tracks]]
+title = "gravity (Album Mix)"
+
+[[discs.tracks]]
+title = "キミトグライド"
+
+[[discs.tracks]]
+title = "フワリ、コロリ、カラン、コロン"
+
+[[discs.tracks]]
+title = "Daisy Days (Album Mix)"
+
+[[discs.tracks]]
+title = "チアミーチアユー"
+
+[[discs.tracks]]
+title = "シマエバイイ"
+
+[[discs.tracks]]
+title = "ラブリルブラ"
+
+[[discs.tracks]]
+title = "グレープフルーツムーン (Album Mix)"
+
+[[discs.tracks]]
+title = "ファーストプロット"

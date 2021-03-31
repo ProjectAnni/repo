@@ -1,0 +1,24 @@
+[album]
+title = "Ep01"
+artist = "夏川椎菜"
+date = 2019-09-25
+type = "normal"
+catalog = "SMCL-620"
+
+[[discs]]
+catalog = "SMCL-620"
+
+[[discs.tracks]]
+title = "ワルモノウィル"
+
+[[discs.tracks]]
+title = "グルグルオブラート"
+
+[[discs.tracks]]
+title = "HIRAETH"
+
+[[discs.tracks]]
+title = "キタイダイ"
+
+[[discs.tracks]]
+title = "ロジックルーパー"
