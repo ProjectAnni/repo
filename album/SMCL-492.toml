@@ -1,0 +1,19 @@
+[album]
+title = "irodori"
+artist = "雨宮天"
+date = 2017-07-26
+type = "normal"
+catalog = "SMCL-492"
+
+[[discs]]
+catalog = "SMCL-492"
+
+[[discs.tracks]]
+title = "irodori"
+
+[[discs.tracks]]
+title = "Fleeting Dream"
+
+[[discs.tracks]]
+title = "irodori (Instrumental)"
+type = "instrumental"

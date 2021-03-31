@@ -1,0 +1,19 @@
+[album]
+title = "Regeneration"
+artist = "雨宮天"
+date = 2019-11-06
+type = "normal"
+catalog = "SMCL-623"
+
+[[discs]]
+catalog = "SMCL-623"
+
+[[discs.tracks]]
+title = "Regeneration"
+
+[[discs.tracks]]
+title = "VESTIGE"
+
+[[discs.tracks]]
+title = "Regeneration (Instrumental)"
+type = "instrumental"

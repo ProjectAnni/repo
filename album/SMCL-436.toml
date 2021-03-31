@@ -1,0 +1,45 @@
+[album]
+title = "Various BLUE"
+artist = "雨宮天"
+date = 2016-09-07
+type = "normal"
+catalog = "SMCL-436"
+
+[[discs]]
+catalog = "SMCL-436"
+
+[[discs.tracks]]
+title = "Absolute Blue"
+
+[[discs.tracks]]
+title = "夢空"
+
+[[discs.tracks]]
+title = "Skyreach"
+
+[[discs.tracks]]
+title = "羽根輪舞"
+
+[[discs.tracks]]
+title = "Glitter"
+
+[[discs.tracks]]
+title = "ASH"
+
+[[discs.tracks]]
+title = "チョ・イ・ス"
+
+[[discs.tracks]]
+title = "月灯り"
+
+[[discs.tracks]]
+title = "Silent Sword"
+
+[[discs.tracks]]
+title = "Velvet Rays"
+
+[[discs.tracks]]
+title = "After the Tears"
+
+[[discs.tracks]]
+title = "RAINBOW"

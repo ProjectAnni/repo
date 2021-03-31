@@ -1,0 +1,19 @@
+[album]
+title = "Defiance"
+artist = "雨宮天"
+date = 2019-01-16
+type = "normal"
+catalog = "SMCL-577"
+
+[[discs]]
+catalog = "SMCL-577"
+
+[[discs.tracks]]
+title = "Defiance"
+
+[[discs.tracks]]
+title = "Song for"
+
+[[discs.tracks]]
+title = "Defiance (Instrumental)"
+type = "instrumental"

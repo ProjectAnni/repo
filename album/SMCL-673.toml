@@ -1,0 +1,49 @@
+[album]
+title = "Paint it, BLUE"
+artist = "雨宮天"
+date = 2020-09-02
+type = "normal"
+catalog = "SMCL-673"
+
+[[discs]]
+catalog = "SMCL-673"
+
+[[discs.tracks]]
+title = "Paint it, BLUE -overture-"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Fluegel"
+
+[[discs.tracks]]
+title = "Defiance"
+
+[[discs.tracks]]
+title = "Catharsis"
+
+[[discs.tracks]]
+title = "Queen no' cry"
+
+[[discs.tracks]]
+title = "VIPER"
+
+[[discs.tracks]]
+title = "火花"
+
+[[discs.tracks]]
+title = "Next Dimension"
+
+[[discs.tracks]]
+title = "PARADOX"
+
+[[discs.tracks]]
+title = "Song for"
+
+[[discs.tracks]]
+title = "蒼天のシンフォニア"
+
+[[discs.tracks]]
+title = "Regeneration"
+
+[[discs.tracks]]
+title = "雨の糸"

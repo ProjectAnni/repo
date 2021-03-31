@@ -1,0 +1,19 @@
+[album]
+title = "Velvet Rays"
+artist = "雨宮天"
+date = 2015-09-09
+type = "normal"
+catalog = "SMCL-386"
+
+[[discs]]
+catalog = "SMCL-386"
+
+[[discs.tracks]]
+title = "Velvet Rays"
+
+[[discs.tracks]]
+title = "Glitter"
+
+[[discs.tracks]]
+title = "Velvet Rays (Instrumental)"
+type = "instrumental"

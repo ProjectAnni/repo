@@ -1,0 +1,19 @@
+[album]
+title = "Skyreach"
+artist = "雨宮天"
+date = 2014-08-13
+type = "normal"
+catalog = "SMCL-346"
+
+[[discs]]
+catalog = "SMCL-346"
+
+[[discs.tracks]]
+title = "Skyreach"
+
+[[discs.tracks]]
+title = "夢空"
+
+[[discs.tracks]]
+title = "Skyreach (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,45 @@
+[album]
+title = "The Only BLUE"
+artist = "雨宮天"
+date = 2018-07-11
+type = "normal"
+catalog = "SMCL-546"
+
+[[discs]]
+catalog = "SMCL-546"
+
+[[discs.tracks]]
+title = "エデンの旅人"
+
+[[discs.tracks]]
+title = "Shu!Bi!Du!Ba!"
+
+[[discs.tracks]]
+title = "Marvelous scene"
+
+[[discs.tracks]]
+title = "Abyss"
+
+[[discs.tracks]]
+title = "irodori"
+
+[[discs.tracks]]
+title = "Lilas"
+
+[[discs.tracks]]
+title = "Breaking the dark"
+
+[[discs.tracks]]
+title = "Eternal"
+
+[[discs.tracks]]
+title = "GLORIA"
+
+[[discs.tracks]]
+title = "Fleeting Dream"
+
+[[discs.tracks]]
+title = "Trust Your Mind"
+
+[[discs.tracks]]
+title = "誓い"

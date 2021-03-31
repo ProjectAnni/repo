@@ -1,0 +1,19 @@
+[album]
+title = "月灯り"
+artist = "雨宮天"
+date = 2014-11-19
+type = "normal"
+catalog = "SMCL-359"
+
+[[discs]]
+catalog = "SMCL-359"
+
+[[discs.tracks]]
+title = "月灯り"
+
+[[discs.tracks]]
+title = "チョ・イ・ス"
+
+[[discs.tracks]]
+title = "月灯り (Instrumental)"
+type = "instrumental"

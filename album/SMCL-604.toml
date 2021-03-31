@@ -1,0 +1,19 @@
+[album]
+title = "VIPER"
+artist = "雨宮天"
+date = 2019-07-10
+type = "normal"
+catalog = "SMCL-604"
+
+[[discs]]
+catalog = "SMCL-604"
+
+[[discs.tracks]]
+title = "VIPER"
+
+[[discs.tracks]]
+title = "メリーゴーランド"
+
+[[discs.tracks]]
+title = "VIPER (Instrumental)"
+type = "instrumental"
