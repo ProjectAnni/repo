@@ -1,0 +1,27 @@
+[album]
+title = "むすんでひらいて"
+artist = "茅野愛衣"
+date = 2021-03-10
+type = "normal"
+catalog = "SVWC-70493"
+
+[[discs]]
+catalog = "SVWC-70493"
+
+[[discs.tracks]]
+title = "リメンバーミー"
+
+[[discs.tracks]]
+title = "君へ"
+
+[[discs.tracks]]
+title = "返事を書こう"
+
+[[discs.tracks]]
+title = "航路"
+
+[[discs.tracks]]
+title = "モノグラム"
+
+[[discs.tracks]]
+title = "リメンバーユー"
