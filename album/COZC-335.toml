@@ -1,0 +1,26 @@
+[album]
+title = "THE IDOLM@STER SP MASTER SPECIAL 961 オーバーマスター"
+artist = "星井美希（長谷川明子）、我那覇響（沼倉愛美）、四条貴音（原由実）"
+date = 2008-12-20
+type = "normal"
+catalog = "COZC-335"
+
+[[discs]]
+catalog = "COZC-335"
+
+[[discs.tracks]]
+title = "オーバーマスター（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "KisS"
+
+[[discs.tracks]]
+title = "聖なる夜に"
+
+[[discs.tracks]]
+title = "オーバーマスター（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "KisS オリジナル・カラオケ"
+type = "instrumental"

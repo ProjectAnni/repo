@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 03"
+artist = "如月千早（今井麻美）、我那覇響（沼倉愛美）"
+date = 2009-04-01
+type = "normal"
+catalog = "COCX-35478"
+
+[[discs]]
+catalog = "COCX-35478"
+
+[[discs.tracks]]
+title = "arcadia"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Next Life"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "Is This Love"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "遠い音楽"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "inferno"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "オーバーマスター (M@STER VERSION)"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "Do-Dai (REM@STER-B)"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "arcadia オリジナル・カラオケ"
+artist = "如月千早（今井麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Next Life オリジナル・カラオケ"
+artist = "我那覇響（沼倉愛美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

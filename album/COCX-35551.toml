@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 04"
+artist = "萩原雪歩（落合祐里香）、四条貴音（原由実）"
+date = 2009-05-13
+type = "normal"
+catalog = "COCX-35551"
+
+[[discs]]
+catalog = "COCX-35551"
+
+[[discs.tracks]]
+title = "ALRIGHT*"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "フラワーガール"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "風と雲と私"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "やさしい両手［Japanese ver.］"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "オーバーマスター (M@STER VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "Colorful Days (M@STER VERSION)"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "shiny smile (REM@STER-B)"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "ALRIGHT* オリジナル・カラオケ"
+artist = "萩原雪歩（落合祐里香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "フラワーガール オリジナル・カラオケ"
+artist = "四条貴音（原由実）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

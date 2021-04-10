@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 05"
+artist = "三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+date = 2009-07-01
+type = "normal"
+catalog = "COCX-35566"
+
+[[discs]]
+catalog = "COCX-35566"
+
+[[discs.tracks]]
+title = "Mythmaker"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "自転車"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ナツノハナ"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "近道したい"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "YES♪"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "いっしょ"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "shiny smile (REM@STER-A)"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "Mythmaker オリジナル・カラオケ"
+artist = "三浦あずさ（たかはし智秋）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "自転車 オリジナル・カラオケ"
+artist = "菊地真（平田宏美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

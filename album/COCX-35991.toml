@@ -1,0 +1,64 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL WINTER"
+artist = "三浦あずさ（たかはし智秋）、四条貴音（原由実）、如月千早（今井麻美）、星井美希（長谷川明子）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2009-12-26
+type = "normal"
+catalog = "COCX-35991"
+
+[[discs]]
+catalog = "COCX-35991"
+
+[[discs.tracks]]
+title = "Large Size Party"
+artist = "三浦あずさ（たかはし智秋）、四条貴音（原由実）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "あったかな雪"
+artist = "星井美希（長谷川明子）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "SCENE01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ワンダー☆ウィンター☆ヤッター！！"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "チキンライス"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "一時間遅れの僕の天使～Lately X'mas～"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "SCENE02"
+type = "drama"
+
+[[discs.tracks]]
+title = "素敵なホリデイ"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "遠い街から"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "WINTER COMES AROUND（冬の一日）"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "SCENE03"
+type = "drama"
+
+[[discs.tracks]]
+title = "キミはメロディ（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "プレゼント・トラック01　キミはメロディ（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プレゼント・トラック02　クリスマス専用当日オープニング"
+type = "drama"

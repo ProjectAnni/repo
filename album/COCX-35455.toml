@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 02"
+artist = "秋月律子（若林直美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+date = 2009-03-04
+type = "normal"
+catalog = "COCX-35455"
+
+[[discs]]
+catalog = "COCX-35455"
+
+[[discs.tracks]]
+title = "livE"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "黎明スターライン"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "Resolution"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "青空のナミダ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "shiny smile (M@STER VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "my song (REM@STER-A)"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "livE オリジナル・カラオケ"
+artist = "秋月律子（若林直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "黎明スターライン オリジナル・カラオケ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"

@@ -1,0 +1,74 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 06"
+artist = "星井美希（長谷川明子）、水瀬伊織（釘宮理恵）"
+date = 2009-08-05
+type = "normal"
+catalog = "COCX-35649"
+
+[[discs]]
+catalog = "COCX-35649"
+
+[[discs.tracks]]
+title = "ショッキングな彼"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "リゾラ"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラビットパニック"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "深紅"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "Do-Dai（REM@STER-A）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "my song（M@STER VERSION）"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "ショッキングな彼 オリジナル・カラオケ"
+artist = "星井美希（長谷川明子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リゾラ オリジナル・カラオケ"
+artist = "水瀬伊織（釘宮理恵）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック ＆ ？"
+artist = "星井美希（長谷川明子）、水瀬伊織（釘宮理恵）、我那覇響（沼倉愛美）、四条貴音（原由実）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Colorful Days (M@STER VERSON 12 Colors)"
+artist = "星井美希（長谷川明子）、我那覇響（沼倉愛美）、四条貴音（原由実）"

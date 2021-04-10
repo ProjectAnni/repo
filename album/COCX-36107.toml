@@ -1,0 +1,68 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL SPRING"
+artist = "天海春香（中村繪里子）、水瀬伊織（釘宮理恵）、我那覇響（沼倉愛美）、秋月律子（若林直美）、菊地真（平田宏美）、萩原雪歩（落合祐里香）"
+date = 2010-03-17
+type = "normal"
+catalog = "COCX-36107"
+
+[[discs]]
+catalog = "COCX-36107"
+
+[[discs.tracks]]
+title = "チェリー"
+
+[[discs.tracks]]
+title = "SCENE01"
+type = "drama"
+
+[[discs.tracks]]
+title = "春"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "色・ホワイトブレンド"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "明日、春が来たら"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "SCENE02"
+type = "drama"
+
+[[discs.tracks]]
+title = "はるのきおく"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "For フルーツバスケット"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "旅立ちの日に…"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "SCENE03"
+type = "drama"
+
+[[discs.tracks]]
+title = "またね（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "SCENE04"
+type = "drama"
+
+[[discs.tracks]]
+title = "笑って！"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "またね(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "笑って！オリジナル・カラオケ"
+artist = "天海春香（中村繪里子）"
+type = "instrumental"

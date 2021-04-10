@@ -1,0 +1,69 @@
+[album]
+title = "THE IDOLM@STER MASTER SPECIAL 01"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+date = 2009-02-04
+type = "normal"
+catalog = "COCX-35375"
+
+[[discs]]
+catalog = "COCX-35375"
+
+[[discs.tracks]]
+title = "乙女よ大志を抱け！！"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "ゲンキトリッパー"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "トーク01"
+type = "drama"
+
+[[discs.tracks]]
+title = "それが、愛でしょう"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "じゅもんをあげるよ"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "Do－Dai（M@STER VERSION）"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "私はアイドル♡（SINGLE VERSION）"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "i（REM@STER-A）"
+
+[[discs.tracks]]
+title = "トーク04"
+type = "drama"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "乙女よ大志を抱け！！オリジナル・カラオケ"
+artist = "天海春香（中村繪里子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ゲンキトリッパー オリジナル・カラオケ"
+artist = "高槻やよい（仁後真耶子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・トーク"
+type = "drama"
