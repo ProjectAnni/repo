@@ -1,0 +1,46 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 06"
+artist = "四条貴音（原由実）"
+date = 2010-12-01
+type = "normal"
+catalog = "COCX-36515"
+
+[[discs]]
+catalog = "COCX-36515"
+
+[[discs.tracks]]
+title = "風花"
+
+[[discs.tracks]]
+title = "月のワルツ"
+
+[[discs.tracks]]
+title = "THE 愛"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク01"
+artist = "四条貴音（原由実）、菊地真（平田宏美）、如月千早（今井麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "トーク03"
+type = "drama"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "四条貴音（原由実）、菊地真（平田宏美）、如月千早（今井麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "星のかけらを探しにいこうagain（Version Takane）"
+
+[[discs.tracks]]
+title = "風花（オリジナル・カラオケ）"
+type = "instrumental"

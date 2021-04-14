@@ -1,0 +1,47 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 09"
+artist = "高槻やよい（仁後真耶子）"
+date = 2010-12-29
+type = "normal"
+catalog = "COCX-36518"
+
+[[discs]]
+catalog = "COCX-36518"
+
+[[discs.tracks]]
+title = "トーク01 — 挨拶 —"
+type = "drama"
+
+[[discs.tracks]]
+title = "スマイル体操"
+
+[[discs.tracks]]
+title = "キラメキラリ"
+
+[[discs.tracks]]
+title = "スマイル体操（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "スウィートドーナッツ（Version Yayoi）"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "さんぽ"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"

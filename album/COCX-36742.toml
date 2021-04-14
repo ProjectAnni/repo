@@ -1,0 +1,44 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 04"
+artist = "秋月律子（若林直美）"
+date = 2011-06-22
+type = "normal"
+catalog = "COCX-36742"
+
+[[discs]]
+catalog = "COCX-36742"
+
+[[discs.tracks]]
+title = "トーク01"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）、四条貴音（原由実）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Best Friend（Version Ritsuko）"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）、四条貴音（原由実）"
+type = "drama"
+
+[[discs.tracks]]
+title = "LOVEオーダーメイド"
+
+[[discs.tracks]]
+title = "空色デイズ"
+
+[[discs.tracks]]
+title = "livE"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "秋月律子（若林直美）、三浦あずさ（たかはし智秋）、四条貴音（原由実）"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "LOVEオーダーメイド（オリジナル・カラオケ）"
+type = "instrumental"

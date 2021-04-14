@@ -1,0 +1,53 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 01"
+artist = "水瀬伊織（釘宮理恵）"
+date = 2011-05-25
+type = "normal"
+catalog = "COCX-36739"
+
+[[discs]]
+catalog = "COCX-36739"
+
+[[discs.tracks]]
+title = "トーク01 — 挨拶 —"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "バレンタイン・キッス"
+
+[[discs.tracks]]
+title = "リゾラ"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND"
+
+[[discs.tracks]]
+title = "トーク04 ED"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "あ〜よかった（Version Iori）"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）"

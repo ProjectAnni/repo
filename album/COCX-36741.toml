@@ -1,0 +1,54 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 03"
+artist = "三浦あずさ（たかはし智秋）"
+date = 2011-06-22
+type = "normal"
+catalog = "COCX-36741"
+
+[[discs]]
+catalog = "COCX-36741"
+
+[[discs.tracks]]
+title = "トーク01"
+artist = "三浦あずさ（たかはし智秋）、秋月律子（若林直美）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "三浦あずさ（たかはし智秋）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ウイスキーが、お好きでしょ"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "三浦あずさ（たかはし智秋）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Mythmaker"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "三浦あずさ（たかはし智秋）、秋月律子（若林直美）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラ♥ブ♥リ♥"
+
+[[discs.tracks]]
+title = "トーク05"
+artist = "三浦あずさ（たかはし智秋）、秋月律子（若林直美）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Best Friend（Version Azusa）"
+artist = "三浦あずさ（たかはし智秋）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ラ♥ブ♥リ♥（オリジナル・カラオケ）"
+type = "instrumental"

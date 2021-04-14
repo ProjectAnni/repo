@@ -1,0 +1,47 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 01"
+artist = "天海春香（中村繪里子）"
+date = 2010-11-03
+type = "normal"
+catalog = "COCX-36510"
+
+[[discs]]
+catalog = "COCX-36510"
+
+[[discs.tracks]]
+title = "トーク01 ―挨拶―"
+artist = "天海春香（中村繪里子）、我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "START!!"
+
+[[discs.tracks]]
+title = "太陽のジェラシー（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "トーク02"
+type = "drama"
+
+[[discs.tracks]]
+title = "世界でいちばん頑張ってる君に"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "天海春香（中村繪里子）、我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Tip Taps Tip（Version Haruka）"
+
+[[discs.tracks]]
+title = "トーク04"
+artist = "天海春香（中村繪里子）、我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "START!!（オリジナル・カラオケ）"
+type = "instrumental"

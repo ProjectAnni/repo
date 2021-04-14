@@ -1,0 +1,48 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 02"
+artist = "双海亜美（下田麻美）"
+date = 2011-05-25
+type = "normal"
+catalog = "COCX-36740"
+
+[[discs]]
+catalog = "COCX-36740"
+
+[[discs.tracks]]
+title = "YOU往MY進！"
+
+[[discs.tracks]]
+title = "トーク01 — 挨拶 —"
+type = "drama"
+
+[[discs.tracks]]
+title = "スキ"
+
+[[discs.tracks]]
+title = "トーク02"
+artist = "双海亜美（下田麻美）、水瀬伊織（釘宮理恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "あ〜よかった（Version Ami）"
+artist = "双海亜美（下田麻美）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "トーク03"
+artist = "双海亜美（下田麻美）、水瀬伊織（釘宮理恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "想い出がいっぱい"
+
+[[discs.tracks]]
+title = "トーク04 ED"
+artist = "双海亜美（下田麻美）、水瀬伊織（釘宮理恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "YOU往MY進！（オリジナル・カラオケ）"
+type = "instrumental"
