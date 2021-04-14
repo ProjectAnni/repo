@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 06"
+artist = "灼熱少女(バーニングガール)（田中琴葉（種田梨沙）、大神環（稲川英里）、高坂海美（上田麗奈）、所恵美（藤井ゆきよ）、宮尾美也（桐谷蝶々））"
+date = 2014-11-26
+type = "normal"
+catalog = "LACA-15436"
+
+[[discs]]
+catalog = "LACA-15436"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+
+[[discs.tracks]]
+title = "恋愛ロードランナー"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "BOUNCING♪ SMILE!"
+artist = "大神環（稲川英里）"
+
+[[discs.tracks]]
+title = "初恋バタフライ"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "フローズン・ワード"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "ホントウノワタシ"
+artist = "田中琴葉（種田梨沙）"
+
+[[discs.tracks]]
+title = "Welcome!!"

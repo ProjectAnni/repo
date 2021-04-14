@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 01"
+artist = "レジェンドデイズ（我那覇響（沼倉愛美）、秋月律子（若林直美）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、水瀬伊織（釘宮理恵））"
+date = 2014-07-30
+type = "normal"
+catalog = "LACA-15431"
+
+[[discs]]
+catalog = "LACA-15431"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！"
+
+[[discs.tracks]]
+title = "地球ミラーボウル"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "ストロベリー・キューピッド"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Liar's good bye"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "タイムマシンに飛び乗って！"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "smiley days"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Welcome!!"

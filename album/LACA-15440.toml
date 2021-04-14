@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 10"
+artist = "ARRIVE（篠宮可憐（近藤唯）、四条貴音（原由実）、島原エレナ（角元明日香）、百瀬莉緒（山口立花子）、ロコ（中村温姫））"
+date = 2015-03-25
+type = "normal"
+catalog = "LACA-15440"
+
+[[discs]]
+catalog = "LACA-15440"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+
+[[discs.tracks]]
+title = "ファンタジスタ・カーニバル"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "WHY?"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "STEREOPHONIC ISOTONIC"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "addicted"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "夕風のメロディー"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "Welcome!!"

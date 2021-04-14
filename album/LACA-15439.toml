@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 09"
+artist = "ミルキーウェイ（星井美希（長谷川明子）、高山紗代子（駒形友梨）、天空橋朋花（小岩井ことり）、永吉昴（斉藤佑圭）、二階堂千鶴（野村香菜子））"
+date = 2015-03-25
+type = "normal"
+catalog = "LACA-15439"
+
+[[discs]]
+catalog = "LACA-15439"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア"
+
+[[discs.tracks]]
+title = "FAKE SELF×TRUE SELF"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "恋の音色ライン"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "Day After “Yesterday”"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "鳥籠スクリプチュア"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "vivid color"
+artist = "高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "Welcome!!"

@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 05"
+artist = "リコッタ（天海春香（中村繪里子）、周防桃子（渡部恵子）、福田のり子（浜崎奈々）、松田亜利沙（村川梨衣）、横山奈緒（渡部優衣））"
+date = 2014-11-26
+type = "normal"
+catalog = "LACA-15435"
+
+[[discs]]
+catalog = "LACA-15435"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+
+[[discs.tracks]]
+title = "MY STYLE! OUR STYLE!!!!"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "Super Lover"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "求ム VS マイ・フューチャー"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "Up!10sion♪Pleeeeeeeeease!"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "キミがいて夢になる"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Welcome!!"

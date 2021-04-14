@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 07"
+artist = "BIRTH（菊地真（平田宏美）、萩原雪歩（浅倉杏美）、舞浜歩（戸田めぐみ）、三浦あずさ（たかはし智秋）、矢吹可奈（木戸衣吹））"
+date = 2015-01-28
+type = "normal"
+catalog = "LACA-15437"
+
+[[discs]]
+catalog = "LACA-15437"
+
+[[discs.tracks]]
+title = "Birth of Color"
+
+[[discs.tracks]]
+title = "WORLD WIDE DANCE!!!"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ユニゾン☆ビート"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "月のほとりで"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Impervious Resolution"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "おまじない"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "Welcome!!"

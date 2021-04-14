@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 04"
+artist = "エターナルハーモニー（如月千早（今井麻美）、エミリー・スチュアート（郁原ゆう）、ジュリア（愛美）、徳川まつり（諏訪彩花）、豊川風花（末柄里恵））"
+date = 2014-09-24
+type = "normal"
+catalog = "LACA-15434"
+
+[[discs]]
+catalog = "LACA-15434"
+
+[[discs.tracks]]
+title = "Eternal Harmony"
+
+[[discs.tracks]]
+title = "カーニヴァル・ジャパネスク"
+artist = "徳川まつり（諏訪彩花）"
+
+[[discs.tracks]]
+title = "プラリネ"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "bitter sweet"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "君だけの欠片"
+artist = "エミリー・スチュアート（郁原ゆう）"
+
+[[discs.tracks]]
+title = "Just be myself!!"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Welcome!!"

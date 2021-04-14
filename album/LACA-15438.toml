@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER HARMONY 08"
+artist = "ミックスナッツ（馬場このみ（高橋未奈美）、木下ひなた（田村奈央）、佐竹美奈子（大関英里）、中谷育（原嶋あかり）、双海真美（下田麻美））"
+date = 2015-01-28
+type = "normal"
+catalog = "LACA-15438"
+
+[[discs]]
+catalog = "LACA-15438"
+
+[[discs.tracks]]
+title = "ドリームトラベラー"
+
+[[discs.tracks]]
+title = "SUPER SIZE LOVE!!"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "アニマル☆ステイション！"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "りんごのマーチ"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "WOW! I NEED!! ～シンギングモンキー 歌唱拳～"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "水中キャンディ"
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "Welcome!!"
