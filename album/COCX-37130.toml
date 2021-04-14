@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER Jupiter"
+artist = "Jupiter（天ヶ瀬冬馬（寺島拓篤）、御手洗翔太（松岡禎丞）、伊集院北斗（神原大地））"
+date = 2011-11-23
+type = "normal"
+catalog = "COCX-37130"
+
+[[discs]]
+catalog = "COCX-37130"
+
+[[discs.tracks]]
+title = "Alice or Guilty(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "BANG×BANG"
+artist = "天ヶ瀬冬馬（寺島拓篤）"
+
+[[discs.tracks]]
+title = "On Sunday"
+artist = "御手洗翔太（松岡禎丞）"
+
+[[discs.tracks]]
+title = "結晶〜Crystal Dust〜"
+artist = "伊集院北斗（神原大地）"
+
+[[discs.tracks]]
+title = "恋をはじめよう(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Alice or Guilty(M@STER VERSION) off vocal"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "恋をはじめよう(M@STER VERSION) off vocal"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナストラック・ドラマ"
+type = "drama"

@@ -1,0 +1,36 @@
+[album]
+title = "THE IDOLM@STER 2「The world is all one !!」"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、秋月律子（若林直美）、我那覇響（沼倉愛美）、四条貴音（原由実））"
+date = 2011-02-09
+type = "normal"
+catalog = "COCC-16443"
+
+[[discs]]
+catalog = "COCC-16443"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）"
+artist = "天海春香（中村繪里子）、我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）"
+artist = "菊地真（平田宏美）、如月千早（今井麻美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）"
+artist = "萩原雪歩（CV浅倉杏美）、双海真美（下田麻美）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）"
+artist = "竜宮小町（水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美））、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）（オリジナル・カラオケ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "The world is all one !!（M@STER VERSION）765プロみんなで合唱VERSION"
+artist = "765プロみんな（天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、秋月律子（若林直美）、我那覇響（沼倉愛美）、四条貴音（原由実）、音無小鳥（滝田樹里））"
