@@ -1,0 +1,52 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm"
+artist = "Sunshine Rhythm（伊吹翼（Machico）、エミリー・スチュアート（郁原ゆう）、木下ひなた（田村奈央）、佐竹美奈子（大関英里）、島原エレナ（角元明日香）、中谷育（原嶋あかり）、福田のり子（浜崎奈々）、望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、矢吹可奈（木戸衣吹）、横山奈緒（渡部優衣）、ロコ（中村温姫））"
+date = 2016-12-07
+type = "normal"
+catalog = "LACA-15611"
+
+[[discs]]
+catalog = "LACA-15611"
+
+[[discs.tracks]]
+title = "ドラマ1「開演のご挨拶」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ランニング・ハイッ"
+artist = "キャンサー（エミリー・スチュアート（郁原ゆう）、木下ひなた（田村奈央）、横山奈緒（渡部優衣））"
+
+[[discs.tracks]]
+title = "ドラマ2「MC01～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ゲキテキ！ムテキ！恋したい！"
+artist = "レオ（島原エレナ（角元明日香）、中谷育（原嶋あかり）、ロコ（中村温姫））"
+
+[[discs.tracks]]
+title = "ドラマ3「MC02～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Bonnes! Bonnes!! Vacances!!!"
+artist = "リブラ（伊吹翼（Machico）、佐竹美奈子（大関英里）、福田のり子（浜崎奈々））"
+
+[[discs.tracks]]
+title = "ドラマ4「MC03～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "カプリコーン（望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、矢吹可奈（木戸衣吹））"
+
+[[discs.tracks]]
+title = "ドラマ5「MC04～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "サンリズム・オーケストラ♪"
+
+[[discs.tracks]]
+title = "ドラマ6「終演後～その頃舞台裏では」"
+type = "drama"

@@ -1,0 +1,52 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony"
+artist = "BlueMoon Harmony（北上麗花（平山笑美）、篠宮可憐（近藤唯）、ジュリア（愛美）、髙山紗代子（駒形友梨）、天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）、永吉昴（斉藤佑圭）、七尾百合子（伊藤美来）、二階堂千鶴（野村香菜子）、舞浜歩（戸田めぐみ）、真壁瑞希（阿部里果）、最上静香（田所あずさ））"
+date = 2017-01-11
+type = "normal"
+catalog = "LACA-15612"
+
+[[discs]]
+catalog = "LACA-15612"
+
+[[discs.tracks]]
+title = "ドラマ1「開演のご挨拶」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "サジタリアス（所恵美（藤井ゆきよ）、舞浜歩（戸田めぐみ）、真壁瑞希（阿部里果））"
+
+[[discs.tracks]]
+title = "ドラマ2「MC01～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "P.S I Love You"
+artist = "ピスケス（篠宮可憐（近藤唯）、天空橋朋花（小岩井ことり）、二階堂千鶴（野村香菜子））"
+
+[[discs.tracks]]
+title = "ドラマ3「MC02～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "プリムラ"
+artist = "ウィルゴ（永吉昴（斉藤佑圭）、七尾百合子（伊藤美来）、最上静香（田所あずさ））"
+
+[[discs.tracks]]
+title = "ドラマ4「MC03～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "待ちぼうけのLacrima"
+artist = "アクアリウス（北上麗花（平山笑美）、ジュリア（愛美）、高山紗代子（駒形友梨））"
+
+[[discs.tracks]]
+title = "ドラマ5「MC04～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "brave HARMONY"
+
+[[discs.tracks]]
+title = "ドラマ6「終演後～その頃舞台裏では」"
+type = "drama"

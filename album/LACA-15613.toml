@@ -1,0 +1,52 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody"
+artist = "Starlight Melody（春日未来（山崎はるか）、大神環（稲川英里）、北沢志保（雨宮天）、高坂海美（上田麗奈）、周防桃子（渡部恵子）、徳川まつり（諏訪彩花）、豊川風花（末柄里恵）、野々原茜（小笠原早紀）、箱崎星梨花（麻倉もも）、馬場このみ（高橋未奈美）、松田亜利沙（村川梨衣）、宮尾美也（桐谷蝶々））"
+date = 2017-02-15
+type = "normal"
+catalog = "LACA-15613"
+
+[[discs]]
+catalog = "LACA-15613"
+
+[[discs.tracks]]
+title = "ドラマ1「開演のご挨拶」"
+type = "drama"
+
+[[discs.tracks]]
+title = "リフレインキス"
+artist = "スコーピオ（北沢志保（雨宮天）、高坂海美（上田麗奈）、松田亜利沙（村川梨衣））"
+
+[[discs.tracks]]
+title = "ドラマ2「MC01～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Sweet Sweet Soul"
+artist = "アリエス（大神環（稲川英里）、野々原茜（小笠原早紀）、箱崎星梨花（麻倉もも））"
+
+[[discs.tracks]]
+title = "ドラマ3「MC02～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "メメント？モメント♪ルルルルル☆"
+artist = "タウラス（春日未来（山崎はるか）、徳川まつり（諏訪彩花）、宮尾美也（桐谷蝶々））"
+
+[[discs.tracks]]
+title = "ドラマ4「MC03～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "永遠の花"
+artist = "ジェミニ（周防桃子（渡部恵子）、豊川風花（末柄里恵）、馬場このみ（高橋未奈美））"
+
+[[discs.tracks]]
+title = "ドラマ5「MC04～その頃舞台裏では」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Starry Melody"
+
+[[discs.tracks]]
+title = "ドラマ6「終演後～その頃舞台裏では」"
+type = "drama"
