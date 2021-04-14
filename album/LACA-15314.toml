@@ -1,0 +1,60 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04"
+artist = "如月千早（今井麻美）、北沢志保（雨宮天）、田中琴葉（種田梨沙）、所恵美（藤井ゆきよ）"
+date = 2013-07-31
+type = "normal"
+catalog = "LACA-15314"
+
+[[discs]]
+catalog = "LACA-15314"
+
+[[discs.tracks]]
+title = "ドラマパート1 ｢765ライブシアター開幕・１時間前｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート2 ｢765ライブシアター開幕！｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "アフタースクールパーリータイム"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "ドラマパート3 ｢ステージパフォーマンス ～所恵美の場合～｣"
+artist = "所恵美（藤井ゆきよ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "朝焼けのクレッシェンド"
+artist = "田中琴葉（種田梨沙）"
+
+[[discs.tracks]]
+title = "ドラマパート4 ｢ステージパフォーマンス ～田中琴葉の場合～｣"
+artist = "田中琴葉（種田梨沙）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ライアー・ルージュ"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "ドラマパート5 ｢ステージパフォーマンス ～北沢志保の場合～｣"
+artist = "北沢志保（雨宮天）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Snow White"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "ドラマパート6 ｢ステージパフォーマンス ～如月千早の場合～｣"
+artist = "如月千早（今井麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+
+[[discs.tracks]]
+title = "ボーナスドラマ ｢楽屋トーク｣"
+type = "drama"

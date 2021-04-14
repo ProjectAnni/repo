@@ -1,0 +1,60 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09"
+artist = "秋月律子（若林直美）、木下ひなた（田村奈央）、佐竹美奈子（大関英里）、松田亜利沙（村川梨衣）"
+date = 2013-12-25
+type = "normal"
+catalog = "LACA-15319"
+
+[[discs]]
+catalog = "LACA-15319"
+
+[[discs.tracks]]
+title = "ドラマパート1「765ライブシアター開幕!～3日前」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート2「765ライブシアター開幕!」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Helloコンチェルト"
+
+[[discs.tracks]]
+title = "ドラマパート3「ステージパフォーマンス～佐竹美奈子の場合～」"
+artist = "佐竹美奈子（大関英里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "スマイルいちばん"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "ドラマパート4「ステージパフォーマンス～木下ひなたの場合～」"
+artist = "木下ひなた（田村奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "あのね、聞いてほしいことがあるんだ"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "ドラマパート5「ステージパフォーマンス～松田亜利沙の場合～」"
+artist = "松田亜利沙（村川梨衣）"
+type = "drama"
+
+[[discs.tracks]]
+title = "チョー↑元気Show☆アイドルch@ng!"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "ドラマパート6「ステージパフォーマンス～秋月律子の場合～」"
+artist = "秋月律子（若林直美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "GREEDY GIRL"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「打ち上げトーク IN 佐竹厨房」"
+type = "drama"

@@ -1,0 +1,60 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 11"
+artist = "菊地真（平田宏美）、双海真美（下田麻美）、島原エレナ（角元明日香）、舞浜歩（戸田めぐみ）"
+date = 2014-02-26
+type = "normal"
+catalog = "LACA-15321"
+
+[[discs]]
+catalog = "LACA-15321"
+
+[[discs.tracks]]
+title = "ドラマパート1 ｢765ライブシアター開幕～１週間前｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート2 ｢765ライブシアター開幕！｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "想いはCarnaval"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "ドラマパート3 ｢ステージパフォーマンス ～島原エレナの場合～｣"
+artist = "島原エレナ（角元明日香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Get My Shinin’"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "ドラマパート4 ｢ステージパフォーマンス ～舞浜 歩の場合～｣"
+artist = "舞浜歩（戸田めぐみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "FLY TO EVERYWHERE"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ドラマパート5 ｢ステージパフォーマンス ～菊地 真の場合～｣s"
+artist = "菊地真（平田宏美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "DETECTIVE HIGH! ～恋探偵物語～"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ドラマパート6 ｢ステージパフォーマンス ～双海真美の場合～｣"
+artist = "双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Fu-Wa-Du-Wa"
+
+[[discs.tracks]]
+title = "ボーナスドラマ ｢765ライブシアター閉幕｣"
+type = "drama"

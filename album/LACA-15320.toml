@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10"
+artist = "四条貴音（原由実）、高坂海美（上田麗奈）、徳川まつり（諏訪彩花）、宮尾美也（桐谷蝶々）"
+date = 2014-02-26
+type = "normal"
+catalog = "LACA-15320"
+
+[[discs]]
+catalog = "LACA-15320"
+
+[[discs.tracks]]
+title = "ドラマパート1 ｢とある事務員の好奇心｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート2 ｢まつり姫と愉快な仲間達によるわんだほーぱーてぃー開幕｣"
+artist = "徳川まつり（諏訪彩花）"
+type = "drama"
+
+[[discs.tracks]]
+title = "フェスタ・イルミネーション"
+artist = "徳川まつり（諏訪彩花）"
+
+[[discs.tracks]]
+title = "ドラマパート3「ステージパフォーマンス ～高坂海美の場合～」"
+artist = "高坂海美（上田麗奈）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ココロ☆エクササイズ"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "ドラマパート4 ｢ステージパフォーマンス ～宮尾美也の場合～｣"
+artist = "宮尾美也（桐谷蝶々）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ハッピ～ エフェクト！"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "ドラマパート5 ｢ステージパフォーマンス ～四条貴音の場合～｣"
+artist = "四条貴音（原由実）"
+type = "drama"
+
+[[discs.tracks]]
+title = "恋花"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "ドラマパート6 ｢ステージパフォーマンス ～徳川まつりの場合～｣"
+artist = "徳川まつり（諏訪彩花）"
+type = "drama"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「まつり姫と愉快な仲間達によるわんだほーぱーてぃー閉幕」"
+type = "drama"

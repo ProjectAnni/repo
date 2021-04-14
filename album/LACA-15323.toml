@@ -1,0 +1,64 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13"
+artist = "双海亜美（下田麻美）、永吉昴（斉藤佑圭）、野々原茜（小笠原早紀）、馬場このみ（高橋未奈美）"
+date = 2014-04-30
+type = "normal"
+catalog = "LACA-15323"
+
+[[discs]]
+catalog = "LACA-15323"
+
+[[discs.tracks]]
+title = "ドラマパート1 ｢765ライブシアター開幕～１週間前｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート2 ｢765ライブシアター開幕！｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "Heart♡・デイズ・Night☆"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "ドラマパート3 ｢ステージパフォーマンス ～野々原茜の場合～｣"
+artist = "野々原茜（小笠原早紀）"
+type = "drama"
+
+[[discs.tracks]]
+title = "微笑んだから、気づいたんだ。"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "ドラマパート4 ｢ステージパフォーマンス ～双海亜美の場合～｣"
+artist = "双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "dear..."
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "ドラマパート5 ｢ステージパフォーマンス ～馬場このみの場合～｣"
+artist = "馬場このみ（高橋未奈美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ビギナーズ☆ストライク"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "ドラマパート6 ｢ステージパフォーマンス ～永吉昴の場合～｣"
+artist = "永吉昴（斉藤佑圭）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+
+[[discs.tracks]]
+title = "ボーナスドラマ ｢765ライブシアター｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "Thank You!"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico）"

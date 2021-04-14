@@ -1,0 +1,65 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03"
+artist = "我那覇響（沼倉愛美）、春日未来（山崎はるか）、豊川風花（末柄里恵）、望月杏奈（夏川椎菜）、横山奈緒（渡部優衣）"
+date = 2013-06-26
+type = "normal"
+catalog = "LACA-15313"
+
+[[discs]]
+catalog = "LACA-15313"
+
+[[discs.tracks]]
+title = "ドラマパート1 ｢765ライブシアター開幕！｣"
+type = "drama"
+
+[[discs.tracks]]
+title = "素敵なキセキ"
+artist = "春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "ドラマパート2 ｢ステージパフォーマンス ～春日未来の場合～｣"
+artist = "春日未来（山崎はるか）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ハッピー☆ラッキー☆ジェットマシーン"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "ドラマパート3 ｢ステージパフォーマンス ～横山奈緒の場合～｣"
+artist = "横山奈緒（渡部優衣）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Happy Darling"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "ドラマパート4 ｢ステージパフォーマンス ～望月杏奈の場合～｣"
+artist = "望月杏奈（夏川椎菜）"
+type = "drama"
+
+[[discs.tracks]]
+title = "オレンジの空の下"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "ドラマパート5 ｢ステージパフォーマンス ～豊川風花の場合～｣"
+artist = "豊川風花（末柄里恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Rebellion"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "ドラマパート6 ｢ステージパフォーマンス ～我那覇響の場合～｣"
+artist = "我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER"
+
+[[discs.tracks]]
+title = "ボーナスドラマ ｢楽屋トーク｣"
+type = "drama"
