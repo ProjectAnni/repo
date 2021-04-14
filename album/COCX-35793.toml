@@ -1,0 +1,37 @@
+[album]
+title = "THE IDOLM@STER DREAM SYMPHONY 01"
+artist = "水谷絵理（花澤香菜）"
+date = 2009-10-14
+type = "normal"
+catalog = "COCX-35793"
+
+[[discs]]
+catalog = "COCX-35793"
+
+[[discs.tracks]]
+title = "プリコグ（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "クロスワード"
+
+[[discs.tracks]]
+title = "魔法をかけて！（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "思い出をありがとう（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "“HELLO!!”（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "プリコグ（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "クロスワード オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック・ドラマ"
+artist = "水谷絵理（花澤香菜）、日高愛（戸松遥）、秋月涼（三瓶由布子）"
+type = "drama"

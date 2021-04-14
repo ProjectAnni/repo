@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER DREAM SYMPHONY 00"
+artist = "日高愛（戸松遥）、水谷絵理（花澤香菜）、秋月涼（三瓶由布子）"
+date = 2009-09-09
+type = "normal"
+catalog = "COCC-16298"
+
+[[discs]]
+catalog = "COCC-16298"
+
+[[discs.tracks]]
+title = "“HELLO!!”（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "ハッピース"
+
+[[discs.tracks]]
+title = "“HELLO!!”（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハッピース オリジナル・カラオケ"
+type = "instrumental"
