@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 07"
+artist = "木下ひなた（田村奈央）、篠宮可憐（近藤唯）、所恵美（藤井ゆきよ）、中谷育（原嶋あかり）、松田亜利沙（村川梨衣）"
+date = 2018-03-07
+type = "normal"
+catalog = "LACA-15677"
+
+[[discs]]
+catalog = "LACA-15677"
+
+[[discs.tracks]]
+title = "Take！3. 2. 1. → S・P・A・C・E↑↑"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "ときどきシーソー"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "スノウレター"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "教えてlast note…"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "Hearty!!"
+artist = "所恵美（藤井ゆきよ）"

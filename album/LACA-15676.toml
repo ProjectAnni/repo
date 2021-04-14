@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 06"
+artist = "ジュリア（愛美）、二階堂千鶴（野村香菜子）、福田のり子（浜崎奈々）、舞浜歩（戸田めぐみ）、横山奈緒（渡部優衣）"
+date = 2018-02-07
+type = "normal"
+catalog = "LACA-15676"
+
+[[discs]]
+catalog = "LACA-15676"
+
+[[discs.tracks]]
+title = "WE ARE ONE!!"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "Home is a coming now!"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "Oli Oli DISCO"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "ムーンゴールド"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "スタートリップ"
+artist = "ジュリア（愛美）"

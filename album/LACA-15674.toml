@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04"
+artist = "高坂海美（上田麗奈）、野々原茜（小笠原早紀）、ロコ（中村温姫）、望月杏奈（夏川椎菜）、矢吹可奈（木戸衣吹）"
+date = 2017-12-06
+type = "normal"
+catalog = "LACA-15674"
+
+[[discs]]
+catalog = "LACA-15674"
+
+[[discs.tracks]]
+title = "AIKANE？"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "スポーツ！スポーツ！スポーツ！"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "ART NEEDS HEART BEATS"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "ENTER→PLEASURE"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "あめにうたおう♪"
+artist = "矢吹可奈（木戸衣吹）"

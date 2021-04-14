@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03"
+artist = "佐竹美奈子（大関英里）、高山紗代子（駒形友梨）、箱崎星梨花（麻倉もも）、馬場このみ（高橋未奈美）、最上静香（田所あずさ）"
+date = 2017-10-25
+type = "normal"
+catalog = "LACA-15673"
+
+[[discs]]
+catalog = "LACA-15673"
+
+[[discs.tracks]]
+title = "Come on a Tea Party!"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "満腹至極フルコォス"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "Only One Second"
+artist = "高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "To..."
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "SING MY SONG"
+artist = "最上静香（田所あずさ）"

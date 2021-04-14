@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02"
+artist = "伊吹翼（Machico）、北沢志保（雨宮天）、桜守歌織（香里有佐）、徳川まつり（諏訪彩花）、永吉昴（斉藤佑圭）"
+date = 2017-09-20
+type = "normal"
+catalog = "LACA-15672"
+
+[[discs]]
+catalog = "LACA-15672"
+
+[[discs.tracks]]
+title = "プリンセス・アラモード"
+artist = "徳川まつり（諏訪彩花）"
+
+[[discs.tracks]]
+title = "HOME RUN SONG♪"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "ロケットスター☆"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "CAT CROSSING"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "ハミングバード"
+artist = "桜守歌織（香里有佐）"
