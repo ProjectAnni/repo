@@ -1,0 +1,50 @@
+[album]
+title = "ラ レヴュー ド マチネ"
+artist = "Various Artists"
+date = 2018-08-22
+type = "normal"
+catalog = "PCCG-01706"
+
+[[discs]]
+catalog = "PCCG-01706"
+
+[[discs.tracks]]
+title = "世界を灰にするまで"
+artist = "星見純那（佐藤日向）、神楽ひかり（三森すずこ）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "The Star Knows"
+artist = "星見純那（佐藤日向）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "誇りと驕り"
+artist = "愛城華恋（小山百代）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "恋の魔球"
+artist = "露崎まひる（岩田陽葵）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "花咲か唄"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #3"
+artist = "神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #4"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #5"
+artist = "露崎まひる（岩田陽葵）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #6"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #7"
+artist = "スタァライト九九組"
+type = "instrumental"

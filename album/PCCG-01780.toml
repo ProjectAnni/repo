@@ -1,0 +1,28 @@
+[album]
+title = "蝶になってみませんか"
+artist = "凛明館女学校（巴珠緒（楠木ともり）、音無いちえ（和氣あず未）、夢大路文（倉知玲鳳）、秋風塁（紡木吏佐）、田中ゆゆ子（佐伯伊織））"
+date = 2019-05-22
+type = "normal"
+catalog = "PCCG-01780"
+
+[[discs]]
+catalog = "PCCG-01780"
+
+[[discs.tracks]]
+title = "蝶になってみませんか"
+
+[[discs.tracks]]
+title = "鬼紅忍絵巻 -おにくれないにんえまき-"
+artist = "夢大路文（倉知玲鳳）、秋風塁（紡木吏佐）"
+
+[[discs.tracks]]
+title = "ディスカバリー！（凛明館Ver.）"
+
+[[discs.tracks]]
+title = "蝶になってみませんか［Instrumental］"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "鬼紅忍絵巻 -おにくれないにんえまき-［Instrumental］"
+artist = "夢大路文（倉知玲鳳）、秋風塁（紡木吏佐）"
+type = "instrumental"

@@ -1,0 +1,55 @@
+[album]
+title = "再生讃美曲"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2020-09-09
+type = "normal"
+catalog = "PCCG-01914"
+
+[[discs]]
+catalog = "PCCG-01914"
+
+[[discs.tracks]]
+title = "再生讃美曲"
+
+[[discs.tracks]]
+title = "世界を灰にするまで(movie ver.)"
+artist = "星見純那（佐藤日向）、神楽ひかり（三森すずこ）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "誇りと驕り(movie ver.)"
+artist = "愛城華恋（小山百代）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "The Star Knows 〜Another〜"
+artist = "星見純那（佐藤日向）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "恋の魔球(7回裏)"
+artist = "露崎まひる（岩田陽葵）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "宵・花咲か唄"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "RE:CREATE（movie ver.）"
+artist = "神楽ひかり（三森すずこ）、大場なな（小泉萌香）"
+
+[[discs.tracks]]
+title = "星々の絆（movie ver.）"
+artist = "大場なな（小泉萌香）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "Star Diamond（movie ver.）"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+
+[[discs.tracks]]
+title = "スタァライト（movie ver.）"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "再生讃美曲（movie ver.）"
+
+[[discs.tracks]]
+title = "再生讃美曲（Instrumental）"
+type = "instrumental"

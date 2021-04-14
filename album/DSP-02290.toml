@@ -1,0 +1,12 @@
+[album]
+title = "「Polestar」真矢・クロディーヌ 歌い分けver.CD"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+date = 2021-03-24
+type = "normal"
+catalog = "DSP-02290"
+
+[[discs]]
+catalog = "DSP-02290"
+
+[[discs.tracks]]
+title = "Polestar -真矢・クロディーヌ ver.-"

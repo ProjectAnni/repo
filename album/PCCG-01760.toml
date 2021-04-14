@@ -1,0 +1,28 @@
+[album]
+title = "プラチナ・フォルテ"
+artist = "シークフェルト音楽学院（雪代晶（野本ほたる）、鳳ミチル（尾崎由香）、リュウ・メイファン（竹内夢）、鶴姫やちよ（工藤晴香）、夢大路栞（遠野ひかる））"
+date = 2019-02-27
+type = "normal"
+catalog = "PCCG-01760"
+
+[[discs]]
+catalog = "PCCG-01760"
+
+[[discs.tracks]]
+title = "プラチナ・フォルテ"
+
+[[discs.tracks]]
+title = "Rose Poems"
+artist = "雪代晶（野本ほたる）、夢大路栞（遠野ひかる）"
+
+[[discs.tracks]]
+title = "ディスカバリー！（シークフェルトVer.）"
+
+[[discs.tracks]]
+title = "プラチナ・フォルテ［Instrumental］"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rose Poems［Instrumental］"
+artist = "雪代晶（野本ほたる）、夢大路栞（遠野ひかる）"
+type = "instrumental"

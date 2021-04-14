@@ -1,0 +1,36 @@
+[album]
+title = "プリンシパル -Fancy You-"
+artist = "スタァライト九九組"
+date = 2017-09-22
+type = "normal"
+catalog = "BRCG-00053"
+
+[[discs]]
+catalog = "BRCG-00053"
+
+[[discs.tracks]]
+title = "Fancy You"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "GANG☆STAR"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "情熱の目覚めるとき"
+artist = "星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）"
+
+[[discs.tracks]]
+title = "Fancy You［Instrumental］"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "GANG☆STAR［Instrumental］"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "情熱の目覚めるとき［Instrumental］"
+artist = "星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）"
+type = "instrumental"

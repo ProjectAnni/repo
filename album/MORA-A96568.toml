@@ -1,0 +1,16 @@
+[album]
+title = "不死鳥のフランメ"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+date = 2021-02-17
+type = "normal"
+catalog = "MORA-A96568"
+
+[[discs]]
+catalog = "MORA-A96568"
+
+[[discs.tracks]]
+title = "不死鳥のフランメ"
+
+[[discs.tracks]]
+title = "不死鳥のフランメ -instrumental-"
+type = "instrumental"

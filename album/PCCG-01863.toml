@@ -1,0 +1,34 @@
+[album]
+title = "Star Parade"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2020-02-19
+type = "normal"
+catalog = "PCCG-01863"
+
+[[discs]]
+catalog = "PCCG-01863"
+
+[[discs.tracks]]
+title = "Star Parade"
+
+[[discs.tracks]]
+title = "純情アンクラシファイド"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+
+[[discs.tracks]]
+title = "Lessonナweek!!"
+artist = "星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "Star Parade［Instrumental］"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "純情アンクラシファイド［Instrumental］"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lessonナweek!!［Instrumental］"
+artist = "星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+type = "instrumental"

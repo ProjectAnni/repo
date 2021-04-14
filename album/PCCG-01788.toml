@@ -1,0 +1,26 @@
+[album]
+title = "Star Diamond"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2019-08-07
+type = "normal"
+catalog = "PCCG-01788"
+
+[[discs]]
+catalog = "PCCG-01788"
+
+[[discs.tracks]]
+title = "Star Diamond"
+
+[[discs.tracks]]
+title = "舞台少女体操"
+
+[[discs.tracks]]
+title = "舞台少女体操（Short Ver.）"
+
+[[discs.tracks]]
+title = "Star Diamond［Instrumental］"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "舞台少女体操［Instrumental］"
+type = "instrumental"

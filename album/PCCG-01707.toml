@@ -1,0 +1,49 @@
+[album]
+title = "ラ レヴュー ド ソワレ"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2018-10-17
+type = "normal"
+catalog = "PCCG-01707"
+
+[[discs]]
+catalog = "PCCG-01707"
+
+[[discs.tracks]]
+title = "RE:CREATE"
+artist = "神楽ひかり（三森すずこ）、大場なな（小泉萌香）"
+
+[[discs.tracks]]
+title = "星々の絆"
+artist = "大場なな（小泉萌香）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "-Star Divine- フィナーレ"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+
+[[discs.tracks]]
+title = "舞台少女心得 幕間"
+artist = "愛城華恋（小山百代）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、石動双葉（生田輝）、花柳香子（伊藤彩沙）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "スタァライト"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #8"
+artist = "愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #9"
+artist = "星見純那（佐藤日向）、大場なな（小泉萌香）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #10"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+
+[[discs.tracks]]
+title = "Fly Me to the Star #11"
+artist = "星見純那（佐藤日向）、露崎まひる（岩田陽葵）、石動双葉（生田輝）、花柳香子（伊藤彩沙）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "星摘みの歌"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"

@@ -1,0 +1,12 @@
+[album]
+title = "「Polestar」純那・なな 歌い分けver.CD"
+artist = "大場なな（小泉萌香）、星見純那（佐藤日向）"
+date = 2021-03-24
+type = "normal"
+catalog = "DSP-02291"
+
+[[discs]]
+catalog = "DSP-02291"
+
+[[discs.tracks]]
+title = "Polestar -純那・なな ver.-"

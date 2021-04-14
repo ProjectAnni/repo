@@ -1,0 +1,16 @@
+[album]
+title = "My friend ~Arrie~"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2018-10-24
+type = "normal"
+catalog = "TGCS-10947"
+
+[[discs]]
+catalog = "TGCS-10947"
+
+[[discs.tracks]]
+title = "My friend ~Arrie~"
+
+[[discs.tracks]]
+title = "My friend ~Arrie~(Instrumental)"
+type = "instrumental"

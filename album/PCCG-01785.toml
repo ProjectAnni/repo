@@ -1,0 +1,28 @@
+[album]
+title = "ショウタイム フロンティア！"
+artist = "フロンティア芸術学校（大月あるる（潘めぐみ）、叶美空（竹達彩奈）、野々宮ララフィン（富田美憂）、恵比寿つかさ（加藤英美里）、胡蝶静羽（佐々木未来））"
+date = 2019-06-26
+type = "normal"
+catalog = "PCCG-01785"
+
+[[discs]]
+catalog = "PCCG-01785"
+
+[[discs.tracks]]
+title = "ショウタイム フロンティア！"
+
+[[discs.tracks]]
+title = "キミも私もアリス"
+artist = "大月あるる（潘めぐみ）、叶美空（竹達彩奈）"
+
+[[discs.tracks]]
+title = "ディスカバリー！（フロンティアVer.）"
+
+[[discs.tracks]]
+title = "ショウタイム フロンティア！［Instrumental］"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミも私もアリス［Instrumental］"
+artist = "大月あるる（潘めぐみ）、叶美空（竹達彩奈）"
+type = "instrumental"

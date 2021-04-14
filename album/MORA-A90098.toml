@@ -1,0 +1,12 @@
+[album]
+title = "イニシャル"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、雪代晶（野本ほたる）、大月あるる（潘めぐみ）、巴珠緒（楠木ともり）"
+date = 2020-09-23
+type = "normal"
+catalog = "MORA-A90098"
+
+[[discs]]
+catalog = "MORA-A90098"
+
+[[discs.tracks]]
+title = "イニシャル"

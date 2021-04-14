@@ -1,0 +1,53 @@
+[album]
+title = "ラ レヴュー・オン・ボワット"
+artist = "Various Artists"
+date = 2019-08-09
+type = "absolute"
+catalog = "BRCG-00066"
+
+[[discs]]
+catalog = "BRCG-00066"
+
+[[discs.tracks]]
+title = "世界を灰にするまで［Instrumental］"
+artist = "石井健太郎"
+
+[[discs.tracks]]
+title = "The Star Knows［Instrumental］"
+artist = "中村康隆"
+
+[[discs.tracks]]
+title = "誇りと驕り［Instrumental］"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "恋の魔球［Instrumental］"
+artist = "小高光太郎、UiNA"
+
+[[discs.tracks]]
+title = "花咲か唄［Instrumental］"
+artist = "大川茂伸"
+
+[[discs.tracks]]
+title = "RE:CREATE［Instrumental］"
+artist = "三好啓太"
+
+[[discs.tracks]]
+title = "星々の絆［Instrumental］"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "-Star Divine-フィナーレ［Instrumental］"
+artist = "本多友紀(Arte Refact)"
+
+[[discs.tracks]]
+title = "舞台少女心得 -幕間-［Instrumental］"
+artist = "本多友紀(Arte Refact)"
+
+[[discs.tracks]]
+title = "スタァライト［Instrumental］"
+artist = "藤澤慶昌、加藤達也"
+
+[[discs.tracks]]
+title = "星々の絆［Chorus］"
+artist = "藤澤慶昌"
