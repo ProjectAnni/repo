@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER THE@TER CHALLENGE 03"
+artist = "野々原茜（小笠原早紀）、島原エレナ（角元明日香）、桜守歌織（香里有佐）、二階堂千鶴（野村香菜子）、北沢志保（雨宮天）"
+date = 2020-07-29
+type = "normal"
+catalog = "LACM-14949"
+
+[[discs]]
+catalog = "LACM-14949"
+
+[[discs.tracks]]
+title = "ドラマ『誰ソ彼ノ淵～プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "クルリウタ"
+
+[[discs.tracks]]
+title = "ドラマ『誰ソ彼ノ淵～島』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『誰ソ彼ノ淵～夢』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『誰ソ彼ノ淵～森』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『誰ソ彼ノ淵～エピローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"

@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER THE@TER CHALLENGE 01"
+artist = "箱崎星梨花（麻倉もも）、周防桃子（渡部恵子）、徳川まつり（諏訪彩花）、我那覇響（沼倉愛美）、永吉昴（斉藤佑圭）"
+date = 2019-10-30
+type = "normal"
+catalog = "LACM-14947"
+
+[[discs]]
+catalog = "LACM-14947"
+
+[[discs.tracks]]
+title = "ドラマ『おとぎの国の物語～プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Girl meets Wonder"
+
+[[discs.tracks]]
+title = "ドラマ『ガール・ミーツ・ウルフ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『ガール・ミーツ・トラベラー&フェアリー』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『ガール・ミーツ・ウィッチ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
+
+[[discs.tracks]]
+title = "ドラマ『おとぎの国の物語～エピローグ』"
+type = "drama"

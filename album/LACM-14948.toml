@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER THE@TER CHALLENGE 02"
+artist = "如月千早（今井麻美）、星井美希（長谷川明子）、エミリー スチュアート（郁原ゆう）、菊地真（平田宏美）、天海春香（中村繪里子）"
+date = 2019-11-27
+type = "normal"
+catalog = "LACM-14948"
+
+[[discs]]
+catalog = "LACM-14948"
+
+[[discs.tracks]]
+title = "ドラマ『End of the world～プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "World Changer"
+
+[[discs.tracks]]
+title = "ドラマ『End of the world～前編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『End of the world～後編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『End of the world～エピローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
