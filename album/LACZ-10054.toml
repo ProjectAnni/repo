@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 04"
+artist = "Various Artists"
+date = 2021-02-26
+type = "normal"
+catalog = "LACZ-10054"
+
+[[discs]]
+catalog = "LACZ-10054"
+
+[[discs.tracks]]
+title = "プライヴェイト・ロードショウ (playback, Weekday) (y0c1e Remix)"
+artist = "y0c1e"
+
+[[discs.tracks]]
+title = "ハッピー☆ラッキー☆ジェットマシーン (KAN TAKAHIKO Remix)"
+artist = "KAN TAKAHIKO"
+
+[[discs.tracks]]
+title = "素敵なキセキ (KAN TAKAHIKO Remix)"
+artist = "KAN TAKAHIKO"
+
+[[discs.tracks]]
+title = "Legend Girls!! (fu_mou Remix)"
+artist = "fu_mou"
+
+[[discs.tracks]]
+title = "Bigバルーン◎ (KO3 Remix)"
+artist = "KO3"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡ (DJ WILDPARTY Remix)"
+artist = "DJ WILDPARTY"
+
+[[discs.tracks]]
+title = "朝焼けのクレッシェンド (KAN TAKAHIKO Remix)"
+artist = "KAN TAKAHIKO"
+
+[[discs.tracks]]
+title = "ホップ♪ステップ♪レインボウ♪ (4sk Remix)"
+artist = "4sk"
+
+[[discs.tracks]]
+title = "スマイルいちばん (4sk Remix)"
+artist = "4sk"
+
+[[discs.tracks]]
+title = "微笑んだから、気づいたんだ (KAN TAKAHIKO Remix)"
+artist = "KAN TAKAHIKO"
+
+[[discs.tracks]]
+title = "カワラナイモノ (DJ WILDPARTY Remix)"
+artist = "DJ WILDPARTY"
+
+[[discs.tracks]]
+title = "Thank You! (y0c1e Remix)"
+artist = "y0c1e"

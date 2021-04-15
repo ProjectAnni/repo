@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 06"
+artist = "Various Artists"
+date = 2021-03-26
+type = "normal"
+catalog = "LACZ-10056"
+
+[[discs]]
+catalog = "LACZ-10056"
+
+[[discs.tracks]]
+title = "IMPRESSION→LOCOMOTION! (☆Taku Takahashi Remix)"
+artist = "☆Taku Takahashi"
+
+[[discs.tracks]]
+title = "グッデイ・サンシャイン! (ケンモチヒデフミ Remix)"
+artist = "ケンモチヒデフミ"
+
+[[discs.tracks]]
+title = "GREEDY GIRL (ケンモチヒデフミ Remix)"
+artist = "ケンモチヒデフミ"
+
+[[discs.tracks]]
+title = "マイペース☆マイウェイ (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "ちいさな恋の足音 (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "ココロがかえる場所 (ケンモチヒデフミ Remix)"
+artist = "ケンモチヒデフミ"
+
+[[discs.tracks]]
+title = "Get My Shinin' (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "ハートウォーミング (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "オリジナル声になって (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "あのね、聞いてほしいことがあるんだ (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "Snow White (DÉ DÉ MOUSE Remix)"
+artist = "DÉ DÉ MOUSE"
+
+[[discs.tracks]]
+title = "Thank You! (☆Taku Takahashi Remix)"
+artist = "☆Taku Takahashi"

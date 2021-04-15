@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 03"
+artist = "Various Artists"
+date = 2021-02-26
+type = "normal"
+catalog = "LACZ-10053"
+
+[[discs]]
+catalog = "LACZ-10053"
+
+[[discs.tracks]]
+title = "透明なプロローグ (Snail's House Remix)"
+artist = "Snail's House"
+
+[[discs.tracks]]
+title = "トキメキの音符になって (nyankobrq Remix)"
+artist = "nyankobrq"
+
+[[discs.tracks]]
+title = "嘆きのFRACTION (Nor Remix)"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Maria Trap (Tanchiky Remix)"
+artist = "Tanchiky"
+
+[[discs.tracks]]
+title = "ライアー・ルージュ (Getty Remix)"
+artist = "Getty"
+
+[[discs.tracks]]
+title = "Rebellion (Tanchiky Remix)"
+artist = "Tanchiky"
+
+[[discs.tracks]]
+title = "追憶のサンドグラス (sky_delta Remix)"
+artist = "sky_delta"
+
+[[discs.tracks]]
+title = "恋花 (Ujico* Remix)"
+artist = "Ujico*"
+
+[[discs.tracks]]
+title = "Be My Boy (nyankobrq Remix)"
+artist = "nyankobrq"
+
+[[discs.tracks]]
+title = "FLY TO EVERYWHERE (Getty Remix)"
+artist = "Getty"
+
+[[discs.tracks]]
+title = "フェスタ•イルミネーション (Getty REMIX)"
+artist = "Getty"
+
+[[discs.tracks]]
+title = "Thank You! (Snail's House Remix)"
+artist = "Snail's House"

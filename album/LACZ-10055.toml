@@ -1,0 +1,45 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 05"
+artist = "チバニャン"
+date = 2021-03-26
+type = "normal"
+catalog = "LACZ-10055"
+
+[[discs]]
+catalog = "LACZ-10055"
+
+[[discs.tracks]]
+title = "Thank You! (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "Fu-Wa-Du-Wa (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "ハッピ～ エフェクト! (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "恋のLesson初級編 (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "ビギナーズ☆ストライク (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "Helloコンチェルト (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "オレンジの空の下 (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "君想いBirthday (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "ハミングロード (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "想いはCarnaval (チバニャン Remix)"
+
+[[discs.tracks]]
+title = "微笑み日和 (チバニャン Remix)"

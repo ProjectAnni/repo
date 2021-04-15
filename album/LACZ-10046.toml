@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 01"
+artist = "TeddyLoid"
+date = 2021-01-23
+type = "normal"
+catalog = "LACZ-10046"
+
+[[discs]]
+catalog = "LACZ-10046"
+
+[[discs.tracks]]
+title = "Thank You! (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "流星群 (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "FIND YOUR WIND! (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "アフタースクールパーリータイム (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Blue Symphony (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Sentimental Venus (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Precious Grain (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "dear... (TeddyLoid Remix)"

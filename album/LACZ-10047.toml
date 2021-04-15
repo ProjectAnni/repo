@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix 02"
+artist = "Various Artists"
+date = 2021-01-23
+type = "normal"
+catalog = "LACZ-10047"
+
+[[discs]]
+catalog = "LACZ-10047"
+
+[[discs.tracks]]
+title = "Heart♡・デイズ・Night☆ (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "チョー⬆元気Show☆アイドルch@ng! (Giga Remix)"
+artist = "Giga"
+
+[[discs.tracks]]
+title = "恋心マスカレード (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "ココロ☆エクササイズ (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "Happy Darling (Giga Remix)"
+artist = "Giga"
+
+[[discs.tracks]]
+title = "キラメキ進行形(Giga Remix)"
+artist = "Giga"
+
+[[discs.tracks]]
+title = "デコレーション・ドリ～ミンッ♪ (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "DETECTIVE HIGH! ～恋探偵物語～ (Giga Remix)"
+artist = "Giga"
+
+[[discs.tracks]]
+title = "POKER POKER (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "Thank You! (Giga Remix)"
+artist = "Giga"
