@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 10 閃光☆HANABI団"
+artist = "閃光☆HANABI団（高山紗代子（駒形友梨）、高坂海美（上田麗奈）、福田のり子（浜崎奈々）、横山奈緒（渡部優衣）、佐竹美奈子（大関英里））"
+date = 2018-07-25
+type = "normal"
+catalog = "LACM-14640"
+
+[[discs]]
+catalog = "LACM-14640"
+
+[[discs.tracks]]
+title = "ドラマ『咲くは浮世の君花火』／『オープニング』"
+type = "drama"
+
+[[discs.tracks]]
+title = "咲くは浮世の君花火"
+
+[[discs.tracks]]
+title = "ドラマ『咲くは浮世の君花火』／『前半の部』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『咲くは浮世の君花火』／『後半の部』"
+type = "drama"
+
+[[discs.tracks]]
+title = "BORN ON DREAM! ～HANABI☆NIGHT～"
+
+[[discs.tracks]]
+title = "ドラマ『咲くは浮世の君花火』／『エンディング』"
+type = "drama"

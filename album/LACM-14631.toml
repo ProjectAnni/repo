@@ -1,0 +1,19 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!"
+artist = "765 MILLION ALLSTARS"
+date = 2017-07-26
+type = "normal"
+catalog = "LACM-14631"
+
+[[discs]]
+catalog = "LACM-14631"
+
+[[discs.tracks]]
+title = "Brand New Theater!"
+
+[[discs.tracks]]
+title = "Dreaming!"
+
+[[discs.tracks]]
+title = "インヴィンシブル・ジャスティス"
+artist = "マイティーセーラーズ（伊吹翼（Machico）、高坂海美（上田麗奈））"

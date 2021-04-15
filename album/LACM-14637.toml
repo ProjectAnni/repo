@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 07 トゥインクルリズム"
+artist = "トゥインクルリズム（中谷育（原嶋あかり）、七尾百合子（伊藤美来）、松田亜利沙（村川梨衣））"
+date = 2018-04-25
+type = "normal"
+catalog = "LACM-14637"
+
+[[discs]]
+catalog = "LACM-14637"
+
+[[discs.tracks]]
+title = "ドラマ『魔法少女トゥインクルリズム』／『アバン』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ZETTAI × BREAK!! トゥインクルリズム"
+
+[[discs.tracks]]
+title = "ドラマ『魔法少女トゥインクルリズム』／『第14話！ザギン襲来！ わたしたちのあらたな力！[Aパート]』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『魔法少女トゥインクルリズム』／『コマーシャル』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『魔法少女トゥインクルリズム』／『第14話！ザギン襲来！ わたしたちのあらたな力！[Bパート]』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Tomorrow Program"
+
+[[discs.tracks]]
+title = "ドラマ『魔法少女トゥインクルリズム』／『次回予告』"
+type = "drama"

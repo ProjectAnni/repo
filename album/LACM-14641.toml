@@ -1,0 +1,23 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!"
+artist = "765 MILLION ALLSTARS"
+date = 2018-08-29
+type = "normal"
+catalog = "LACM-14641"
+
+[[discs]]
+catalog = "LACM-14641"
+
+[[discs.tracks]]
+title = "UNION!!"
+
+[[discs.tracks]]
+title = "Welcome!!"
+
+[[discs.tracks]]
+title = "UNION!! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Welcome!! (Off Vocal)"
+type = "instrumental"

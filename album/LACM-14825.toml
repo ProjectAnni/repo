@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans"
+artist = "Jelly PoP Beans（ロコ（中村温姫）、舞浜歩（戸田めぐみ）、永吉昴（斉藤佑圭）、周防桃子（渡部恵子））"
+date = 2019-03-27
+type = "normal"
+catalog = "LACM-14825"
+
+[[discs]]
+catalog = "LACM-14825"
+
+[[discs.tracks]]
+title = "プロローグ"
+type = "drama"
+
+[[discs.tracks]]
+title = "月曜日のクリームソーダ"
+
+[[discs.tracks]]
+title = "ドラマ『BPF～テアトル・ミリオンにて』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『BPF～ミリオンダラー・シアターにて』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Between Past and Future.』"
+type = "drama"
+
+[[discs.tracks]]
+title = "I did+I will"
+
+[[discs.tracks]]
+title = "ドラマ『BPF～再びテアトル・ミリオンにて』"
+type = "drama"

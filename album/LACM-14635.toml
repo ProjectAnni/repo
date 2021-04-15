@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 05 夜想令嬢 -GRAC&E NOCTURNE-"
+artist = "夜想令嬢 -GRAC&E NOCTURNE-（天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）、二階堂千鶴（野村香菜子）、百瀬莉緒（山口立花子））"
+date = 2018-02-28
+type = "normal"
+catalog = "LACM-14635"
+
+[[discs]]
+catalog = "LACM-14635"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『Prelude』"
+type = "drama"
+
+[[discs.tracks]]
+title = "昏き星、遠い月"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『再会、強襲』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『大切なもの』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『誇り』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『ひかりさす』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Everlasting"
+
+[[discs.tracks]]
+title = "ドラマパート『昏き星、遠い月』／『Overture』"
+type = "drama"

@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky"
+artist = "Cleasky（島原エレナ（角元明日香）、宮尾美也（桐谷蝶々））"
+date = 2018-03-28
+type = "normal"
+catalog = "LACM-14636"
+
+[[discs]]
+catalog = "LACM-14636"
+
+[[discs.tracks]]
+title = "ドラマ『虹色letters』／『クランクイン! ～撮影前のひととき～』"
+type = "drama"
+
+[[discs.tracks]]
+title = "虹色letters"
+
+[[discs.tracks]]
+title = "ドラマ『虹色letters』／『転校生』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『虹色letters』／『空とレンズ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『虹色letters』／『焼きかけフィルム』"
+type = "drama"
+
+[[discs.tracks]]
+title = "想い出はクリアスカイ"
+
+[[discs.tracks]]
+title = "ドラマ『虹色letters』／『クランクアップ! ～撮影後のひととき～』"
+type = "drama"

@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 13 りるきゃん ～3 little candy～"
+artist = "りるきゃん ～3 little candy～（篠宮可憐（近藤唯）、野々原茜（小笠原早紀）、伊吹翼（Machico））"
+date = 2019-01-30
+type = "normal"
+catalog = "LACM-14823"
+
+[[discs]]
+catalog = "LACM-14823"
+
+[[discs.tracks]]
+title = "ドラマ『ハルマチ女子』／『プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ハルマチ女子"
+
+[[discs.tracks]]
+title = "ドラマ『ハルマチ女子』／『前編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "『りるきゃん』最新号 CM"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『ハルマチ女子』／『後編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "彼氏になってよ。"
+
+[[discs.tracks]]
+title = "ドラマ『ハルマチ女子』／『エピローグ』"
+type = "drama"

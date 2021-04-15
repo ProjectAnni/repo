@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 16 ピコピコプラネッツ"
+artist = "ピコピコプラネッツ（木下ひなた（田村奈央）、箱崎星梨花（麻倉もも）、大神環（稲川英里）、望月杏奈（夏川椎菜））"
+date = 2019-04-24
+type = "normal"
+catalog = "LACM-14826"
+
+[[discs]]
+catalog = "LACM-14826"
+
+[[discs.tracks]]
+title = "そうぐう！ちきゅうのおともだち！"
+type = "drama"
+
+[[discs.tracks]]
+title = "ピコピコIIKO! インベーダー"
+
+[[discs.tracks]]
+title = "わくわく！みんなででかけよう！"
+type = "drama"
+
+[[discs.tracks]]
+title = "びっくり！どせいのわっかは○✕△□！？"
+type = "drama"
+
+[[discs.tracks]]
+title = "かいけつ！ひみつのエネルギー"
+type = "drama"
+
+[[discs.tracks]]
+title = "たいへん！ビッグバン"
+type = "drama"
+
+[[discs.tracks]]
+title = "Get lol! Get lol! SONG"
+
+[[discs.tracks]]
+title = "ばいばい！また会う日まで"
+type = "drama"

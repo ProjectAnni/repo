@@ -1,0 +1,19 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 02 フェアリースターズ"
+artist = "フェアリースターズ（最上静香（田所あずさ）、白石紬（南早紀）、所恵美（藤井ゆきよ）、ジュリア（愛美）、北沢志保（雨宮天））"
+date = 2017-11-22
+type = "normal"
+catalog = "LACM-14632"
+
+[[discs]]
+catalog = "LACM-14632"
+
+[[discs.tracks]]
+title = "FairyTaleじゃいられない"
+
+[[discs.tracks]]
+title = "Brand New Theater!"
+
+[[discs.tracks]]
+title = "ドラマパート「Fairy Stars! -Other Side-」"
+type = "drama"

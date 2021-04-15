@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 14 Charlotte・Charlotte"
+artist = "Charlotte・Charlotte（徳川まつり（諏訪彩花）、エミリー スチュアート（郁原ゆう））"
+date = 2019-02-27
+type = "normal"
+catalog = "LACM-14824"
+
+[[discs]]
+catalog = "LACM-14824"
+
+[[discs.tracks]]
+title = "ドラマ『鏡の中のシャーロット』／『オープニング』"
+type = "drama"
+
+[[discs.tracks]]
+title = "だってあなたはプリンセス"
+
+[[discs.tracks]]
+title = "ドラマ『鏡の中のシャーロット』／『前編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『鏡の中のシャーロット』／『後編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ミラージュ・ミラー"
+
+[[discs.tracks]]
+title = "ドラマ『鏡の中のシャーロット』／『エンディング』"
+type = "drama"

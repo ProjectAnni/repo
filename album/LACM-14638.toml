@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape"
+artist = "EScape（真壁瑞希（阿部里果）、白石紬（南早紀）、北沢志保（雨宮天））"
+date = 2018-05-30
+type = "normal"
+catalog = "LACM-14638"
+
+[[discs]]
+catalog = "LACM-14638"
+
+[[discs.tracks]]
+title = "ドラマ『Melty Fantasia』／『Code:1』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Melty Fantasia』／『Code:2』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Melty Fantasia』／『Code:3』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Melty Fantasia"
+
+[[discs.tracks]]
+title = "ドラマ『Melty Fantasia』／『Code:4』"
+type = "drama"
+
+[[discs.tracks]]
+title = "I.D～EScape from Utopia～"

@@ -1,0 +1,19 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 03 エンジェルスターズ"
+artist = "エンジェルスターズ（伊吹翼（Machico）、北上麗花（平山笑美）、桜守歌織（香里有佐）、箱崎星梨花（麻倉もも）、望月杏奈（夏川椎菜））"
+date = 2017-12-27
+type = "normal"
+catalog = "LACM-14633"
+
+[[discs]]
+catalog = "LACM-14633"
+
+[[discs.tracks]]
+title = "Angelic Parade♪"
+
+[[discs.tracks]]
+title = "Brand New Theater!"
+
+[[discs.tracks]]
+title = "ドラマパート「Angel Stars! -Other Side-」"
+type = "drama"

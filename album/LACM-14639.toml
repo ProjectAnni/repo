@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury"
+artist = "4Luxury（桜守歌織（香里有佐）、豊川風花（末柄里恵）、北上麗花（平山笑美）、馬場このみ（高橋未奈美））"
+date = 2018-06-27
+type = "normal"
+catalog = "LACM-14639"
+
+[[discs]]
+catalog = "LACM-14639"
+
+[[discs.tracks]]
+title = "ドラマ『セレブレーション！』／『プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "花ざかりWeekend✿"
+
+[[discs.tracks]]
+title = "ドラマ『セレブレーション！』／『前編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『セレブレーション！』／『後編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "RED ZONE"
+
+[[discs.tracks]]
+title = "ドラマ『セレブレーション！』／『エピローグ』"
+type = "drama"

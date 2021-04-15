@@ -1,0 +1,43 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal"
+artist = "D/Zeal（ジュリア（愛美）、最上静香（田所あずさ））"
+date = 2018-12-26
+type = "normal"
+catalog = "LACM-14642"
+
+[[discs]]
+catalog = "LACM-14642"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Freezing』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Encounter』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Stranger』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Reminiscence』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Ignition』"
+type = "drama"
+
+[[discs.tracks]]
+title = "餞の鳥"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『New Song』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『天国の鳥』／『Interlude』"
+type = "drama"
