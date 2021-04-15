@@ -1,6 +1,6 @@
 [album]
 title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05"
-artist = "水瀬伊織（釘宮理恵）、エミリー・スチュアート（郁原ゆう）、百瀬莉緒（山口立花子）、真壁瑞希（阿部里果）"
+artist = "水瀬伊織（釘宮理恵）、エミリー スチュアート（郁原ゆう）、百瀬莉緒（山口立花子）、真壁瑞希（阿部里果）"
 date = 2013-08-28
 type = "normal"
 catalog = "LACA-15315"
@@ -18,11 +18,11 @@ type = "drama"
 
 [[discs.tracks]]
 title = "微笑み日和"
-artist = "エミリー・スチュアート（郁原ゆう）"
+artist = "エミリー スチュアート（郁原ゆう）"
 
 [[discs.tracks]]
-title = "ドラマパート3 ｢ステージパフォーマンス ～エミリー・スチュアートの場合～｣"
-artist = "エミリー・スチュアート（郁原ゆう）"
+title = "ドラマパート3 ｢ステージパフォーマンス ～エミリー スチュアートの場合～｣"
+artist = "エミリー スチュアート（郁原ゆう）"
 type = "drama"
 
 [[discs.tracks]]
