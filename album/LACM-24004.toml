@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ アライアンス・スターダスト"
+artist = "ZWEIGLANZ（玲音（茅原実里）、詩花（高橋李依））"
+date = 2020-12-02
+type = "normal"
+catalog = "LACM-24004"
+
+[[discs]]
+catalog = "LACM-24004"
+
+[[discs.tracks]]
+title = "ドラマ『幼き日々』"
+type = "drama"
+
+[[discs.tracks]]
+title = "アライアンス・スターダスト"
+
+[[discs.tracks]]
+title = "ドラマ『星たちの出会う時』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『マイネ・リーベ・シュヴェスター』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Shine My Way"
+
+[[discs.tracks]]
+title = "ドラマ『誰がために星は光る』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『アライアンス・スターダスト』"
+type = "drama"

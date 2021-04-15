@@ -1,0 +1,15 @@
+[album]
+title = 'THE IDOLM@STER MILLION LIVE! 1stLIVE HAPPY☆PERFORM@NCE!! Blu-ray "COMPLETE THE@TER" CD'
+artist = "765 MILLION ALLSTARS"
+date = 2014-12-24
+type = "normal"
+catalog = "LAPC-1073"
+
+[[discs]]
+catalog = "LAPC-1073"
+
+[[discs.tracks]]
+title = "Welcome!! ≪Day1≫"
+
+[[discs.tracks]]
+title = "Welcome!! ≪Day2≫"

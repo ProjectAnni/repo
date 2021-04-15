@@ -1,0 +1,33 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! STAR EQUINOX"
+artist = "一ノ瀬志希（藍原ことみ）、宮本フレデリカ（髙野麻美）、島原エレナ（角元明日香）、宮尾美也（桐谷蝶々）、最上静香（田所あずさ）、ジュリア（愛美）"
+date = 2021-03-17
+type = "normal"
+catalog = "LACM-24088"
+
+[[discs]]
+catalog = "LACM-24088"
+
+[[discs.tracks]]
+title = "クレイジークレイジー レイジー・レイジー×Cleasky バージョン"
+artist = "Cleasky（島原エレナ（角元明日香）、宮尾美也（桐谷蝶々））、レイジーレイジー（一ノ瀬志希（藍原ことみ）、宮本フレデリカ（髙野麻美））"
+
+[[discs.tracks]]
+title = "虹色letters レイジー・レイジー バージョン"
+artist = "レイジーレイジー（一ノ瀬志希（藍原ことみ）、宮本フレデリカ（髙野麻美））"
+
+[[discs.tracks]]
+title = "クレイジークレイジー Cleasky バージョン"
+artist = "Cleasky（島原エレナ（角元明日香）、宮尾美也（桐谷蝶々））"
+
+[[discs.tracks]]
+title = "虹色letters レイジー・レイジー×Cleasky バージョン"
+artist = "Cleasky（島原エレナ（角元明日香）、宮尾美也（桐谷蝶々））、レイジーレイジー（一ノ瀬志希（藍原ことみ）、宮本フレデリカ（髙野麻美））"
+
+[[discs.tracks]]
+title = "Jet to the Future 最上静香ソロバージョン"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "Jet to the Future ジュリアソロバージョン"
+artist = "ジュリア（愛美）"

@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! 2ndLIVE ENJOY H@RMONY!! LIVE Blu-ray \"COMPLETE THE@TER\" CD"
+artist = "765 MILLION ALLSTARS"
+date = 2015-12-16
+type = "normal"
+catalog = "LAPC-1074"
+
+[[discs]]
+catalog = "LAPC-1074"
+
+[[discs.tracks]]
+title = "Welcome!! DAY1"
+
+[[discs.tracks]]
+title = "Welcome!! DAY2"

@@ -1,0 +1,100 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION Vol.02"
+artist = "Various Artists"
+date = 2015-07-18
+type = "normal"
+catalog = "LZM-2130~1"
+
+[[discs]]
+catalog = "LZM-2130"
+
+[[discs.tracks]]
+title = "Thank You!"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "Sentimental Venus"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "ココロがかえる場所"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs]]
+catalog = "LZM-2131"
+
+[[discs.tracks]]
+title = "Thank You! -MR remix-"
+artist = "春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "Eternal Harmony"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "Birth of Color"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ドリームトラベラー"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Welcome!!"
+artist = "七尾百合子（伊藤美来）"
