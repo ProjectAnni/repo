@@ -1,0 +1,24 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER DREAMERS 01"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico）"
+date = 2015-09-30
+type = "normal"
+catalog = "LACM-14411"
+
+[[discs]]
+catalog = "LACM-14411"
+
+[[discs.tracks]]
+title = "Dreaming!"
+
+[[discs.tracks]]
+title = "Welcome!!"
+artist = "765 MILLIONSTARS!!"
+
+[[discs.tracks]]
+title = "Dreaming! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Welcome!! (Off Vocal)"
+artist = "765 MILLIONSTARS!!"

@@ -1,0 +1,44 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER DREAMERS 03"
+artist = "如月千早（今井麻美）、最上静香（田所あずさ）、周防桃子（渡部恵子）、真壁瑞希（阿部里果）、徳川まつり（諏訪彩花）、馬場このみ（高橋未奈美）、二階堂千鶴（野村香菜子）、萩原雪歩（浅倉杏美）、箱崎星梨花（麻倉もも）、宮尾美也（桐谷蝶々）"
+date = 2015-12-02
+type = "normal"
+catalog = "LACM-14413"
+
+[[discs]]
+catalog = "LACM-14413"
+
+[[discs.tracks]]
+title = "Overture"
+type = "drama"
+
+[[discs.tracks]]
+title = "Dreaming!"
+
+[[discs.tracks]]
+title = "765PRO LIVE THE@TER名古屋公演開演！"
+type = "drama"
+
+[[discs.tracks]]
+title = "アライブファクター"
+artist = "如月千早（今井麻美）、最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "Persona Voice"
+artist = "二階堂千鶴（野村香菜子）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "Cut. Cut. Cut."
+artist = "周防桃子（渡部恵子）、真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "Smiling Crescent"
+artist = "箱崎星梨花（麻倉もも）、宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "Decided"
+artist = "徳川まつり（諏訪彩花）、馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "765PRO LIVE THE@TER名古屋公演終演後"
+type = "drama"

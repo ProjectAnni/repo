@@ -1,0 +1,44 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER DREAMERS 04"
+artist = "秋月律子（若林直美）、篠宮可憐（近藤唯）、伊吹翼（Machico）、我那覇響（沼倉愛美）、エミリー スチュアート（郁原ゆう）、水瀬伊織（釘宮理恵）、高山紗代子（駒形友梨）、佐竹美奈子（大関英里）、天空橋朋花（小岩井ことり）、中谷育（原嶋あかり）"
+date = 2015-12-23
+type = "normal"
+catalog = "LACM-14414"
+
+[[discs]]
+catalog = "LACM-14414"
+
+[[discs.tracks]]
+title = "765PRO LIVE THE@TER福岡公演前日"
+type = "drama"
+
+[[discs.tracks]]
+title = "765PRO LIVE THE@TER福岡公演4時間前"
+type = "drama"
+
+[[discs.tracks]]
+title = "Dreaming!"
+
+[[discs.tracks]]
+title = "深層マーメイド"
+artist = "伊吹翼（Machico）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "HELLO, YOUR ANGEL♪"
+artist = "天空橋朋花（小岩井ことり）、中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "G♡F"
+artist = "秋月律子（若林直美）、篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "little trip around the world"
+artist = "エミリー スチュアート（郁原ゆう）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Melody in scape"
+artist = "佐竹美奈子（大関英里）、高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "765PRO LIVE THE@TER福岡公演終演後"
+type = "drama"
