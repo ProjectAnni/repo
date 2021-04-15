@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER THE@TER ACTIVITIES 02"
+artist = "ジュリア（愛美）、周防桃子（渡部恵子）、大神環（稲川英里）、木下ひなた（田村奈央）、福田のり子（浜崎奈々）"
+date = 2016-10-12
+type = "normal"
+catalog = "LACM-14532"
+
+[[discs]]
+catalog = "LACM-14532"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+
+[[discs.tracks]]
+title = "果てしなく仁義ない戦い 魅梨音闘争篇 第一章 流浪"
+type = "drama"
+
+[[discs.tracks]]
+title = "果てしなく仁義ない戦い 魅梨音闘争篇 第二章 因縁"
+type = "drama"
+
+[[discs.tracks]]
+title = "果てしなく仁義ない戦い 魅梨音闘争篇 第三章 極道"
+type = "drama"
+
+[[discs.tracks]]
+title = "果てしなく仁義ない戦い 魅梨音闘争篇 第四章 俠気"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"

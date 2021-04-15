@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER THE@TER ACTIVITIES 01"
+artist = "七尾百合子（伊藤美来）、天空橋朋花（小岩井ことり）、箱崎星梨花（麻倉もも）、松田亜利沙（村川梨衣）、ロコ（中村温姫）"
+date = 2016-09-07
+type = "normal"
+catalog = "LACM-14531"
+
+[[discs]]
+catalog = "LACM-14531"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+
+[[discs.tracks]]
+title = "リリィ・クエスト ～天空の子豚～ Ep.1 旅立ち"
+type = "drama"
+
+[[discs.tracks]]
+title = "リリィ・クエスト ～天空の子豚～ Ep.2 そして冒険へ"
+type = "drama"
+
+[[discs.tracks]]
+title = "リリィ・クエスト ～天空の子豚～ Ep.3 死闘"
+type = "drama"
+
+[[discs.tracks]]
+title = "リリィ・クエスト ～天空の子豚～ Ep.4 物語の続き"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"

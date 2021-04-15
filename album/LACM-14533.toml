@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER THE@TER ACTIVITIES 03"
+artist = "佐竹美奈子（大関英里）、篠宮可憐（近藤唯）、真壁瑞希（阿部里果）、北上麗花（平山笑美）、矢吹可奈（木戸衣吹）"
+date = 2016-11-09
+type = "normal"
+catalog = "LACM-14533"
+
+[[discs]]
+catalog = "LACM-14533"
+
+[[discs.tracks]]
+title = "赤い世界が消える頃"
+
+[[discs.tracks]]
+title = "魅裏怨 第一章 -うらない-"
+type = "drama"
+
+[[discs.tracks]]
+title = "魅裏怨 第二章 -いっしょ-"
+type = "drama"
+
+[[discs.tracks]]
+title = "魅裏怨 第三章 -がっしょう-"
+type = "drama"
+
+[[discs.tracks]]
+title = "魅裏怨 第四章 -ともだち-"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
