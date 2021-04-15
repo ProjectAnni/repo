@@ -1,0 +1,20 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!"
+artist = "765 MILLION ALLSTARS"
+date = 2019-07-24
+type = "normal"
+catalog = "LACM-14891"
+
+[[discs]]
+catalog = "LACM-14891"
+
+[[discs.tracks]]
+title = "Flyers!!!"
+
+[[discs.tracks]]
+title = "Justice OR Voice"
+artist = "ジェネシス×ネメシス（白石紬（南早紀）、桜守歌織（香里有佐）、ジュリア（愛美）、菊地真（平田宏美）、野々原茜（小笠原早紀））"
+
+[[discs.tracks]]
+title = "White Vows"
+artist = "豊川風花（末柄里恵）、馬場このみ（高橋未奈美）、百瀬莉緒（山口立花子）、桜守歌織（香里有佐）、二階堂千鶴（野村香菜子）"

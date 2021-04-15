@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 11 オペラセリア・煌輝座"
+artist = "オペラセリア・煌輝座（北沢志保（雨宮天）、桜守歌織（香里有佐）、徳川まつり（諏訪彩花）、田中琴葉（種田梨沙））"
+date = 2020-09-23
+type = "normal"
+catalog = "LACM-14901"
+
+[[discs]]
+catalog = "LACM-14901"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour　序幕 決意』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Parade d’amour"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour 一幕 秘密』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour 二幕 日々』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour 三幕 友』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour 四幕 願い』"
+type = "drama"
+
+[[discs.tracks]]
+title = "星宙のVoyage"
+
+[[discs.tracks]]
+title = "ドラマ『Parade d'amour 終幕 告白』"
+type = "drama"

@@ -1,0 +1,24 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map"
+artist = "765 MILLION ALLSTARS"
+date = 2020-08-26
+type = "normal"
+catalog = "LACM-14900"
+
+[[discs]]
+catalog = "LACM-14900"
+
+[[discs.tracks]]
+title = "Glow Map"
+
+[[discs.tracks]]
+title = "Do the IDOL!! ～断崖絶壁チュパカブラ～"
+artist = "天空橋朋花（小岩井ことり）、エミリー スチュアート（郁原ゆう）、七尾百合子（伊藤美来）、永吉昴（斉藤佑圭）、伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "MUSIC JOURNEY"
+artist = "桜守歌織（香里有佐）"
+
+[[discs.tracks]]
+title = "さかしまの言葉"
+artist = "白石紬（南早紀）"

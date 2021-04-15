@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 07 Jus-2-Mint"
+artist = "Jus-2-Mint（佐竹美奈子（大関英里）、横山奈緒（渡部優衣））"
+date = 2020-03-25
+type = "normal"
+catalog = "LACM-14897"
+
+[[discs]]
+catalog = "LACM-14897"
+
+[[discs.tracks]]
+title = "ドラマ『オープニングアクトの前に』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Super Duper"
+
+[[discs.tracks]]
+title = "ドラマ『back stage 01：華やかなる戦場』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『back stage 02：ランウェイで輝く星たち』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『back stage 03：ランウェイの先には』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Hang In There!"
+
+[[discs.tracks]]
+title = "ドラマ『もっと輝くために』"
+type = "drama"

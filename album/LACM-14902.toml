@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 12 ダイヤモンドダイバー◇"
+artist = "ダイヤモンドダイバー◇（高槻やよい（仁後真耶子）、天海春香（中村繪里子）、我那覇響（沼倉愛美））"
+date = 2020-10-28
+type = "normal"
+catalog = "LACM-14902"
+
+[[discs]]
+catalog = "LACM-14902"
+
+[[discs.tracks]]
+title = "オープニング『めんそーれ、美ら海！』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『第一話 海の中の小さな家』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Deep, Deep Blue"
+
+[[discs.tracks]]
+title = "ドラマ『第二話 チムドンドン』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『第三話 美ら海の夕暮れ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『第四話 土産物屋にて』"
+type = "drama"
+
+[[discs.tracks]]
+title = "エンディング『マタンメンソーレ！』"
+type = "drama"
+
+[[discs.tracks]]
+title = "VIVA☆アクアリズム"

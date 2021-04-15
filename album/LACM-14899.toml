@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 09 Fleuranges"
+artist = "Fleuranges（篠宮可憐（近藤唯）、箱崎星梨花（麻倉もも）、宮尾美也（桐谷蝶々）、木下ひなた（田村奈央））"
+date = 2020-12-23
+type = "normal"
+catalog = "LACM-14899"
+
+[[discs]]
+catalog = "LACM-14899"
+
+[[discs.tracks]]
+title = "ドラマ『Scene01:待ち時間は突然に』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Special Wonderful Smile"
+
+[[discs.tracks]]
+title = "ドラマ『Scene02:花よりパン』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Scene03:その花言葉は』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Scene04:曲がり角にて』"
+type = "drama"
+
+[[discs.tracks]]
+title = "旅立ちのコンパス"
+
+[[discs.tracks]]
+title = "ドラマ『Scene05:帰ってきたパリジェンヌたち』"
+type = "drama"

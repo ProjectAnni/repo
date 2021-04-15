@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!"
+artist = "TIntMe!（大神環（稲川英里）、中谷育（原嶋あかり）、周防桃子（渡部恵子））"
+date = 2021-01-27
+type = "normal"
+catalog = "LACM-14903"
+
+[[discs]]
+catalog = "LACM-14903"
+
+[[discs.tracks]]
+title = "プロローグ『In the makeup room』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Arrive You 〜それが運命でも〜"
+
+[[discs.tracks]]
+title = "ドラマ『レッスン1:Makeup Magic』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『レッスン2:Take courage!』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『レッスン3:With a radiant face』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ライラックにつつまれて"
+
+[[discs.tracks]]
+title = "エピローグ『Someday』"
+type = "drama"

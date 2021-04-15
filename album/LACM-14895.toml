@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 05 ARCANA"
+artist = "ARCANA（三浦あずさ（たかはし智秋）、如月千早（今井麻美）、四条貴音（原由実））"
+date = 2020-01-29
+type = "normal"
+catalog = "LACM-14895"
+
+[[discs]]
+catalog = "LACM-14895"
+
+[[discs.tracks]]
+title = "Fermata in Rapsodia"
+
+[[discs.tracks]]
+title = "ドラマ『プロローグ～トンネルを抜けると』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『円環のダイヤモンドダスト ～千早～』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『円環のダイヤモンドダスト ～あずさ～』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『円環のダイヤモンドダスト ～貴音～』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DEpArture from THe life"
+
+[[discs.tracks]]
+title = "ドラマ『エピローグ～十二時発、東京行』"
+type = "drama"

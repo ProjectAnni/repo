@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 14 TRICK&TREAT"
+artist = "TRICK&TREAT（北上麗花（平山笑美）、野々原茜（小笠原早紀））"
+date = 2021-02-24
+type = "normal"
+catalog = "LACM-14904"
+
+[[discs]]
+catalog = "LACM-14904"
+
+[[discs.tracks]]
+title = "オープニング『うぇるかむ・とぅ・ざ・はろうぃんぶらっくぱぁてぃ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Black★Party"
+
+[[discs.tracks]]
+title = "ドラマ『Trick01:うぇあ・いず・ぷっぷかぷりんきゃんでぃ?』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Trick02:とりっく・おあ・とりぃと?』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Trick03:みすてり・おぶ・ぶらっくはろうぃん』"
+type = "drama"
+
+[[discs.tracks]]
+title = "フシギトラベラー"
+
+[[discs.tracks]]
+title = "エンディング『ねばーえんでぃんぐはろうぃん』"
+type = "drama"

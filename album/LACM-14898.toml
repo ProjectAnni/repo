@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 08 miraclesonic★expassion"
+artist = "miraclesonic★expassion（舞浜歩（戸田めぐみ）、福田のり子（浜崎奈々）、島原エレナ（角元明日香）、高坂海美（上田麗奈））"
+date = 2020-11-25
+type = "normal"
+catalog = "LACM-14898"
+
+[[discs]]
+catalog = "LACM-14898"
+
+[[discs.tracks]]
+title = "ドラマ『Return at Miraclesonic★Prologue』"
+type = "drama"
+
+[[discs.tracks]]
+title = "絶対的Performer"
+
+[[discs.tracks]]
+title = "ドラマ『Return at Miraclesonic★1』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Return at Miraclesonic★2』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Return at Miraclesonic★3』"
+type = "drama"
+
+[[discs.tracks]]
+title = "My Evolution"
+
+[[discs.tracks]]
+title = "ドラマ『Return at Miraclesonic★Epilogue』"
+type = "drama"
