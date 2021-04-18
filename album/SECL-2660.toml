@@ -1,0 +1,52 @@
+[album]
+title = "Walpurgis"
+artist = "Aimer"
+date = 2021-04-14
+type = "normal"
+catalog = "SECL-2660"
+
+[[discs]]
+catalog = "SECL-2660"
+
+[[discs.tracks]]
+title = "Walpurgis -prologue-"
+
+[[discs.tracks]]
+title = "STAND-ALONE"
+
+[[discs.tracks]]
+title = "cold rain"
+
+[[discs.tracks]]
+title = "トリル"
+
+[[discs.tracks]]
+title = "地球儀"
+artist = "Aimer、Vaundy"
+
+[[discs.tracks]]
+title = "SPARK-AGAIN"
+
+[[discs.tracks]]
+title = "wonderland"
+
+[[discs.tracks]]
+title = "Torches"
+
+[[discs.tracks]]
+title = "marie"
+
+[[discs.tracks]]
+title = "ever after"
+
+[[discs.tracks]]
+title = "hollow-mas"
+
+[[discs.tracks]]
+title = "季路"
+
+[[discs.tracks]]
+title = "春はゆく"
+
+[[discs.tracks]]
+title = "Walpurgis"
