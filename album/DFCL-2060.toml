@@ -1,0 +1,29 @@
+[album]
+title = "StarRingChild EP"
+artist = "Aimer"
+date = 2014-05-21
+type = "normal"
+catalog = "DFCL-2060"
+
+[[discs]]
+catalog = "DFCL-2060"
+
+[[discs.tracks]]
+title = "StarRingChild"
+
+[[discs.tracks]]
+title = "Even Heaven"
+
+[[discs.tracks]]
+title = "Mine"
+
+[[discs.tracks]]
+title = "StarRingChild(Movie ver.)"
+
+[[discs.tracks]]
+title = "StarRingChild(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Even Heavem(instrumental)"
+type = "instrumental"

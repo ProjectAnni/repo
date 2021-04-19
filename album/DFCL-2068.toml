@@ -1,0 +1,48 @@
+[album]
+title = "Midnight Sun"
+artist = "Aimer"
+date = 2014-06-25
+type = "normal"
+catalog = "DFCL-2068"
+
+[[discs]]
+catalog = "DFCL-2068"
+
+[[discs.tracks]]
+title = "WHEN YOU WISH UPON A STAR -prologue-"
+
+[[discs.tracks]]
+title = "眠りの森"
+
+[[discs.tracks]]
+title = "7月の翼"
+
+[[discs.tracks]]
+title = "words"
+
+[[discs.tracks]]
+title = "Cold Sun"
+
+[[discs.tracks]]
+title = "AM03:00"
+
+[[discs.tracks]]
+title = "小さな星のメロディー"
+
+[[discs.tracks]]
+title = "VOICE"
+
+[[discs.tracks]]
+title = "RE:I AM"
+
+[[discs.tracks]]
+title = "StarRingChild"
+
+[[discs.tracks]]
+title = "星の消えた夜に (Re-echoed by Genki Rockets × give me wallets)"
+
+[[discs.tracks]]
+title = "Iris"
+
+[[discs.tracks]]
+title = "WHEN YOU WISH UPON A STAR"

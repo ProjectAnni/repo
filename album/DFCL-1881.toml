@@ -1,0 +1,18 @@
+[album]
+title = "雪の降る街／冬のダイヤモンド"
+artist = "Aimer"
+date = 2012-02-22
+type = "normal"
+catalog = "DFCL-1881"
+
+[[discs]]
+catalog = "DFCL-1881"
+
+[[discs.tracks]]
+title = "雪の降る街"
+
+[[discs.tracks]]
+title = "冬のダイヤモンド"
+
+[[discs.tracks]]
+title = "ORION"

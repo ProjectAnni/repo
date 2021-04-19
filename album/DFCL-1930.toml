@@ -1,0 +1,48 @@
+[album]
+title = "Sleepless Nights"
+artist = "Aimer"
+date = 2012-10-03
+type = "normal"
+catalog = "DFCL-1930"
+
+[[discs]]
+catalog = "DFCL-1930"
+
+[[discs.tracks]]
+title = "TWINKLE TWINKLE LITTLE STAR　-prologue-"
+
+[[discs.tracks]]
+title = "夜行列車～nothing to lose～"
+
+[[discs.tracks]]
+title = "あなたに出会わなければ～夏雪冬花～"
+
+[[discs.tracks]]
+title = "笑顔"
+
+[[discs.tracks]]
+title = "Re:pray"
+
+[[discs.tracks]]
+title = "悲しみはオーロラに（Restarred by Takagi Masakatsu）"
+
+[[discs.tracks]]
+title = "寂しくて眠れない夜は"
+
+[[discs.tracks]]
+title = "AM02:00"
+
+[[discs.tracks]]
+title = "星屑ビーナス"
+
+[[discs.tracks]]
+title = "雪の降る街"
+
+[[discs.tracks]]
+title = "冬のダイヤモンド（Re-echoed by Genki Rockets）"
+
+[[discs.tracks]]
+title = "六等星の夜"
+
+[[discs.tracks]]
+title = "TWINKLE TWINKLE LITTLE STAR"

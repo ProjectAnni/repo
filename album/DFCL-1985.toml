@@ -1,0 +1,24 @@
+[album]
+title = "RE:I AM EP"
+artist = "Aimer"
+date = 2013-03-20
+type = "normal"
+catalog = "DFCL-1985"
+
+[[discs]]
+catalog = "DFCL-1985"
+
+[[discs.tracks]]
+title = "RE:I AM"
+
+[[discs.tracks]]
+title = "星の消えた夜に"
+
+[[discs.tracks]]
+title = "今日から思い出"
+
+[[discs.tracks]]
+title = "RE:I AM(instrumental)"
+
+[[discs.tracks]]
+title = "星の消えた夜に(instrumental)"

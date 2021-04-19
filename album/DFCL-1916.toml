@@ -1,0 +1,18 @@
+[album]
+title = "あなたに出会わなければ～夏雪冬花～／星屑ビーナス"
+artist = "Aimer"
+date = 2012-08-15
+type = "normal"
+catalog = "DFCL-1916"
+
+[[discs]]
+catalog = "DFCL-1916"
+
+[[discs.tracks]]
+title = "あなたに出会わなければ～夏雪冬花～"
+
+[[discs.tracks]]
+title = "星屑ビーナス"
+
+[[discs.tracks]]
+title = "Breaking Up Is Hard To Do"

@@ -1,0 +1,34 @@
+[album]
+title = "誰か、海を。EP"
+artist = "Aimer"
+date = 2014-09-03
+type = "normal"
+catalog = "DFCL-2079"
+
+[[discs]]
+catalog = "DFCL-2079"
+
+[[discs.tracks]]
+title = "誰か、海を。"
+
+[[discs.tracks]]
+title = "白昼夢"
+
+[[discs.tracks]]
+title = "for ロンリー with 阿部真央"
+
+[[discs.tracks]]
+title = "眠りの森 (Kazuki Remix) with Yuuki Ozaki(from Galileo Galilei)"
+
+[[discs.tracks]]
+title = "Cold Sun (Ryo Nagano Remix) with 永野亮(APOGEE)"
+
+[[discs.tracks]]
+title = "誰か、海を。(TV size)"
+
+[[discs.tracks]]
+title = "白昼夢(TV edit)"
+
+[[discs.tracks]]
+title = "誰か、海を。(instrumental)"
+type = "instrumental"

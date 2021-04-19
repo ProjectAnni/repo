@@ -1,0 +1,18 @@
+[album]
+title = "Re:pray／寂しくて眠れない夜は"
+artist = "Aimer"
+date = 2011-12-14
+type = "normal"
+catalog = "DFCL-1821"
+
+[[discs]]
+catalog = "DFCL-1821"
+
+[[discs.tracks]]
+title = "Re:pray"
+
+[[discs.tracks]]
+title = "寂しくて眠れない夜は"
+
+[[discs.tracks]]
+title = "Poker Face"

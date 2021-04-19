@@ -1,0 +1,45 @@
+[album]
+title = "After Dark"
+artist = "Aimer"
+date = 2013-11-20
+type = "normal"
+catalog = "DFCL-2046"
+
+[[discs]]
+catalog = "DFCL-2046"
+
+[[discs.tracks]]
+title = "After Dark -prologue-"
+
+[[discs.tracks]]
+title = "ポラリス"
+
+[[discs.tracks]]
+title = "words"
+
+[[discs.tracks]]
+title = "AM02:00 (haruka nakamura La Nuit remix)"
+
+[[discs.tracks]]
+title = "After Rain"
+
+[[discs.tracks]]
+title = "Amazing Grace (Live in church ver.)"
+
+[[discs.tracks]]
+title = "あなたに出会わなければ～夏雪冬花～ (Live in church ver.)"
+
+[[discs.tracks]]
+title = "今日から思い出 (Live in church ver.)"
+
+[[discs.tracks]]
+title = "星屑ビーナス (Live in church ver.)"
+
+[[discs.tracks]]
+title = "寂しくて眠れない夜は (Live in church ver.)"
+
+[[discs.tracks]]
+title = "RE:I AM (Live in church ver.)"
+
+[[discs.tracks]]
+title = "六等星の夜 (from Live at anywhere)"

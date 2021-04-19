@@ -1,0 +1,48 @@
+[album]
+title = "DAWN"
+artist = "Aimer"
+date = 2015-07-29
+type = "normal"
+catalog = "DFCL-2150"
+
+[[discs]]
+catalog = "DFCL-2150"
+
+[[discs.tracks]]
+title = "MOON RIVER -prologue-"
+
+[[discs.tracks]]
+title = "Believe Be:leave"
+
+[[discs.tracks]]
+title = "君を待つ"
+
+[[discs.tracks]]
+title = "broKen NIGHT"
+
+[[discs.tracks]]
+title = "Noir! Noir!"
+
+[[discs.tracks]]
+title = "Re:far"
+
+[[discs.tracks]]
+title = "AM04:00"
+
+[[discs.tracks]]
+title = "誰か、海を。"
+
+[[discs.tracks]]
+title = "LAST STARDUST"
+
+[[discs.tracks]]
+title = "Brave Shine"
+
+[[discs.tracks]]
+title = "キズナ"
+
+[[discs.tracks]]
+title = "DAWN"
+
+[[discs.tracks]]
+title = "MOON RIVER"

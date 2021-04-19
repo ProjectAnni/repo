@@ -1,0 +1,24 @@
+[album]
+title = "花の唄／I beg you／春はゆく"
+artist = "Aimer"
+date = 2020-08-19
+type = "normal"
+catalog = "SECL-2610"
+
+[[discs]]
+catalog = "SECL-2610"
+
+[[discs.tracks]]
+title = "花の唄"
+
+[[discs.tracks]]
+title = "I beg you"
+
+[[discs.tracks]]
+title = "春はゆく"
+
+[[discs.tracks]]
+title = "花の唄 end of spring ver."
+
+[[discs.tracks]]
+title = "春はゆく the late spring ver."

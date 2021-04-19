@@ -1,0 +1,27 @@
+[album]
+title = "ninelie EP"
+artist = "Aimer"
+date = 2016-05-11
+type = "normal"
+catalog = "SECL-1882"
+
+[[discs]]
+catalog = "SECL-1882"
+
+[[discs.tracks]]
+title = "ninelie"
+artist = "Aimer、chelly（EGOIST）"
+
+[[discs.tracks]]
+title = "Through My Blood ＜AM＞"
+
+[[discs.tracks]]
+title = "スピカ"
+
+[[discs.tracks]]
+title = "ninelie (TV size)"
+artist = "Aimer、chelly（EGOIST）"
+
+[[discs.tracks]]
+title = "ninelie (instrumental)"
+type = "instrumental"
