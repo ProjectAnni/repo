@@ -1,0 +1,27 @@
+[album]
+title = "Mystère"
+artist = "山崎はるか"
+date = 2021-04-21
+type = "normal"
+catalog = "GNCA-1570"
+
+[[discs]]
+catalog = "GNCA-1570"
+
+[[discs.tracks]]
+title = "L'essence -メルシィモード-"
+
+[[discs.tracks]]
+title = "Doux poison -セシボンキブン-"
+
+[[discs.tracks]]
+title = "ⓅartyMaker!"
+
+[[discs.tracks]]
+title = "恋は特急電車"
+
+[[discs.tracks]]
+title = "3.6"
+
+[[discs.tracks]]
+title = "七色のありがとう"
