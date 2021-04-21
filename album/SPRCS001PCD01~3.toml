@@ -6,6 +6,7 @@ type = "normal"
 catalog = "SPRCS001PCD01~3"
 
 [[discs]]
+title = "蒼の彼方のフォーリズム MAXI SINGLE CD"
 catalog = "SPRCS001PCD01"
 artist = "川田まみ"
 
@@ -16,6 +17,7 @@ title = "crossing way"
 title = "rays of the sun"
 
 [[discs]]
+title = "蒼の彼方のフォーリズム SOUND TRACK CD"
 catalog = "SPRCS001PCD02"
 artist = "sprite"
 type = "absolute"
@@ -156,6 +158,7 @@ title = "Wings of Courage -空を超えて- (次回予告Ver.)"
 title = "Wings of Courage -空を超えて- (Piano Style Instrumental Ver.)"
 
 [[discs]]
+title = "蒼の彼方のフォーリズム DRAMA CD"
 catalog = "SPRCS001PCD03"
 type = "drama"
 artist = "福圓美里・浅倉杏美・山本希望・米澤円・若林直美・近藤孝行・水橋かおり・高森奈津美・儀武ゆう子・興津和幸・水島大宙・清水愛・生天目仁美"
