@@ -1,0 +1,23 @@
+[album]
+title = "Contrail～軌跡～"
+artist = "川田まみ"
+date = 2016-01-27
+type = "normal"
+catalog = "GNCV-0038"
+
+[[discs]]
+catalog = "GNCV-0038"
+
+[[discs.tracks]]
+title = "Contrail～軌跡～"
+
+[[discs.tracks]]
+title = "Halfway"
+
+[[discs.tracks]]
+title = "Contrail～軌跡～（instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Halfway（instrumental）"
+type = "instrumental"

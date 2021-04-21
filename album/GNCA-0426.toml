@@ -1,0 +1,23 @@
+[album]
+title = "a-gain"
+artist = "Ray"
+date = 2016-02-17
+type = "normal"
+catalog = "GNCA-0426"
+
+[[discs]]
+catalog = "GNCA-0426"
+
+[[discs.tracks]]
+title = "a-gain"
+
+[[discs.tracks]]
+title = "君といた空"
+
+[[discs.tracks]]
+title = "a-gain<instrumental>"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君といた空<instrumental>"
+type = "instrumental"
