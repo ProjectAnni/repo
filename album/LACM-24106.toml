@@ -1,0 +1,39 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 16 ≡君彩≡"
+artist = "≡君彩≡（所恵美（藤井ゆきよ）、松田亜利沙（村川梨衣）、矢吹可奈（木戸衣吹））"
+date = 2021-04-21
+type = "normal"
+catalog = "LACM-24106"
+
+[[discs]]
+catalog = "LACM-24106"
+
+[[discs.tracks]]
+title = "ReTale"
+
+[[discs.tracks]]
+title = "ドラマ『Stage01: Restart』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Stage02: Reunion』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Stage03: Reconnect』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Stage04: Realize』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Stage05: Relive』"
+type = "drama"
+
+[[discs.tracks]]
+title = "パンとフィルム"
+
+[[discs.tracks]]
+title = "ドラマ『Off Stage: Remember』"
+type = "drama"
