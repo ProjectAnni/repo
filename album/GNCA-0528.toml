@@ -1,0 +1,26 @@
+[album]
+title = "ゼンゼントモダチ"
+artist = "山崎はるか"
+date = 2018-05-23
+type = "normal"
+catalog = "GNCA-0528"
+
+[[discs]]
+catalog = "GNCA-0528"
+
+[[discs.tracks]]
+title = "ゼンゼントモダチ"
+
+[[discs.tracks]]
+title = "金曜日のBambi"
+
+[[discs.tracks]]
+title = "ゼンゼントモダチ＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "金曜日のBambi＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "選手宣誓ガール"

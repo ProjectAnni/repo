@@ -1,0 +1,45 @@
+[album]
+title = "C'est Parti!!"
+artist = "山崎はるか"
+date = 2019-08-28
+type = "normal"
+catalog = "GNCA-1557"
+
+[[discs]]
+catalog = "GNCA-1557"
+
+[[discs.tracks]]
+title = "パンピーナ!"
+
+[[discs.tracks]]
+title = "キセキ的☆スマイリュージョン"
+
+[[discs.tracks]]
+title = "Dark Sweet Nightmare"
+
+[[discs.tracks]]
+title = "ChuChuパフェ☆SP"
+
+[[discs.tracks]]
+title = "僕ら、駆け行く空へ（2019 HH Rebuild）"
+
+[[discs.tracks]]
+title = "Supersonic Mighty Dream"
+
+[[discs.tracks]]
+title = "Dragon Dance"
+
+[[discs.tracks]]
+title = "ゼンゼントモダチ"
+
+[[discs.tracks]]
+title = "ヒヤシンス"
+
+[[discs.tracks]]
+title = "金曜日のBambi"
+
+[[discs.tracks]]
+title = "キャラメル"
+
+[[discs.tracks]]
+title = "おいで Brand-new World!"

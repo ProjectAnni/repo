@@ -1,0 +1,23 @@
+[album]
+title = "たとえばそれは勇気の魔法"
+artist = "山崎はるか"
+date = 2021-02-03
+type = "normal"
+catalog = "GNCA-0614"
+
+[[discs]]
+catalog = "GNCA-0614"
+
+[[discs.tracks]]
+title = "たとえばそれは勇気の魔法"
+
+[[discs.tracks]]
+title = "凪"
+
+[[discs.tracks]]
+title = "たとえばそれは勇気の魔法＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "凪＜instrumental＞"
+type = "instrumental"
