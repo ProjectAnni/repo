@@ -1,0 +1,26 @@
+[album]
+title = "Plastic Smile"
+artist = "石原夏織"
+date = 2021-04-21
+type = "normal"
+catalog = "PCCG-01968"
+
+[[discs]]
+catalog = "PCCG-01968"
+
+[[discs.tracks]]
+title = "Plastic Smile"
+
+[[discs.tracks]]
+title = "キミに空とクローバー"
+
+[[discs.tracks]]
+title = "Plastic Smile TV size ver."
+
+[[discs.tracks]]
+title = "Plastic Smile Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミに空とクローバー Instrumental"
+type = "instrumental"
