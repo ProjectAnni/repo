@@ -9,4 +9,21 @@ catalog = "LACM-24112"
 catalog = "LACM-24112"
 
 [[discs.tracks]]
-title = ""
+title = "PRISISM"
+
+[[discs.tracks]]
+title = "スマイルシンフォニア"
+
+[[discs.tracks]]
+title = "Resonance⁺（イルミネーションスターズVer.）"
+
+[[discs.tracks]]
+title = "「Step＆Stop」"
+
+[[discs.tracks]]
+title = "PRISISM（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スマイルシンフォニア（Off Vocal）"
+type = "instrumental"
