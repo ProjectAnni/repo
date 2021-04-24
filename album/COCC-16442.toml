@@ -18,6 +18,7 @@ artist = "秋月律子（若林直美）"
 [[discs.tracks]]
 title = "トーク01"
 artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、秋月律子（若林直美）"
+type = "drama"
 
 [[discs.tracks]]
 title = "友情出演「チクタク」"
@@ -26,6 +27,7 @@ artist = "星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、�
 [[discs.tracks]]
 title = "トーク02"
 artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、秋月律子（若林直美）"
+type = "drama"
 
 [[discs.tracks]]
 title = "SMOKY THRILL（M@STER VERSION）（オリジナル・カラオケ）"
