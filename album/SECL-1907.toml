@@ -1,0 +1,22 @@
+[album]
+title = "Ripple Effect"
+artist = "春奈るな"
+date = 2016-05-25
+type = "normal"
+catalog = "SECL-1907"
+
+[[discs]]
+catalog = "SECL-1907"
+
+[[discs.tracks]]
+title = "Ripple Effect"
+
+[[discs.tracks]]
+title = "Dynamic Dreamers"
+
+[[discs.tracks]]
+title = "サイレントカラーズ"
+
+[[discs.tracks]]
+title = "Ripple Effect (Instrumental)"
+type = "instrumental"
