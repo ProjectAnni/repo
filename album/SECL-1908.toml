@@ -3,10 +3,10 @@ title = "Ripple Effect"
 artist = "春奈るな"
 date = 2016-05-25
 type = "normal"
-catalog = "SECL-1907"
+catalog = "SECL-1908"
 
 [[discs]]
-catalog = "SECL-1907"
+catalog = "SECL-1908"
 
 [[discs.tracks]]
 title = "Ripple Effect"
@@ -18,5 +18,4 @@ title = "Dynamic Dreamers"
 title = "サイレントカラーズ"
 
 [[discs.tracks]]
-title = "Ripple Effect (Instrumental)"
-type = "instrumental"
+title = "Ripple Effect (TV Size)"
