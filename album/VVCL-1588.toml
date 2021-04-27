@@ -1,0 +1,23 @@
+[album]
+title = "Free Turn"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2020-01-22
+type = "normal"
+catalog = "VVCL-1588"
+
+[[discs]]
+catalog = "VVCL-1588"
+
+[[discs.tracks]]
+title = "Free Turn"
+
+[[discs.tracks]]
+title = "この幸せが夢じゃないなら"
+
+[[discs.tracks]]
+title = "Free Turn -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "この幸せが夢じゃないなら -Instrumental-"
+type = "instrumental"
