@@ -1,0 +1,23 @@
+[album]
+title = "Chance! & Revenge!"
+artist = "安月名莉子"
+date = 2021-04-28
+type = "normal"
+catalog = "ZMCZ-14783"
+
+[[discs]]
+catalog = "ZMCZ-14783"
+
+[[discs.tracks]]
+title = "Chance! & Revenge!"
+
+[[discs.tracks]]
+title = "恋なのかも"
+
+[[discs.tracks]]
+title = "Chance! & Revenge!(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "恋なのかも(instrumental)"
+type = "instrumental"
