@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS MUSIC DAWN Live CD"
+artist = "シャイニーカラーズ"
+date = 2021-03-24
+type = "normal"
+catalog = "LAPC-1094"
+
+[[discs]]
+catalog = "LAPC-1094"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser"
+artist = "ストレイライト"
+
+[[discs.tracks]]
+title = "Destined Rival"
+artist = "ストレイライト"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY"
+artist = "アンティーカ"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE"
+artist = "アンティーカ"
+
+[[discs.tracks]]
+title = "Bloomy!"
+artist = "アルストロメリア"
+
+[[discs.tracks]]
+title = "ハピリリ"
+artist = "アルストロメリア"
+
+[[discs.tracks]]
+title = "ビーチブレイバー"
+artist = "放課後クライマックスガールズ"
+
+[[discs.tracks]]
+title = "太陽キッス"
+artist = "放課後クライマックスガールズ"
+
+[[discs.tracks]]
+title = "We can go now!"
+artist = "イルミネーションスターズ"
+
+[[discs.tracks]]
+title = "虹になれ"
+artist = "イルミネーションスターズ"
+
+[[discs.tracks]]
+title = "いつだって僕らは"
+artist = "ノクチル"
+
+[[discs.tracks]]
+title = "あの花のように"
+artist = "ノクチル"
