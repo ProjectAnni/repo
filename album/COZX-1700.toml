@@ -1,0 +1,42 @@
+[album]
+title = "Rhythmic Flavor"
+artist = "伊藤美来"
+date = 2020-12-23
+type = "normal"
+catalog = "COZX-1700"
+
+[[discs]]
+catalog = "COZX-1700"
+
+[[discs.tracks]]
+title = "BEAM YOU"
+
+[[discs.tracks]]
+title = "hello new pink"
+
+[[discs.tracks]]
+title = "ガーベラ"
+
+[[discs.tracks]]
+title = "Plunderer"
+
+[[discs.tracks]]
+title = "Born Fighter"
+
+[[discs.tracks]]
+title = "孤高の光 Lonely dark"
+
+[[discs.tracks]]
+title = "いつかきっと"
+
+[[discs.tracks]]
+title = "Sweet Bitter Sweet Days"
+
+[[discs.tracks]]
+title = "one's heart"
+
+[[discs.tracks]]
+title = "Good Song"
+
+[[discs.tracks]]
+title = "vivace"

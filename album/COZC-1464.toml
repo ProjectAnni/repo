@@ -1,0 +1,23 @@
+[album]
+title = "恋はMovie"
+artist = "伊藤美来"
+date = 2018-08-15
+type = "normal"
+catalog = "COZC-1464"
+
+[[discs]]
+catalog = "COZC-1464"
+
+[[discs.tracks]]
+title = "恋はMovie"
+
+[[discs.tracks]]
+title = "all yours"
+
+[[discs.tracks]]
+title = "恋はMovie(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "all yours(off vocal ver.)"
+type = "instrumental"

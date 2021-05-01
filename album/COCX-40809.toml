@@ -1,0 +1,42 @@
+[album]
+title = "PopSkip"
+artist = "伊藤美来"
+date = 2019-07-24
+type = "normal"
+catalog = "COCX-40809"
+
+[[discs]]
+catalog = "COCX-40809"
+
+[[discs.tracks]]
+title = "PEARL"
+
+[[discs.tracks]]
+title = "恋はMovie"
+
+[[discs.tracks]]
+title = "TickTack Invitation"
+
+[[discs.tracks]]
+title = "Pistachio"
+
+[[discs.tracks]]
+title = "あの日の夢"
+
+[[discs.tracks]]
+title = "土曜のルール"
+
+[[discs.tracks]]
+title = "守りたいもののために"
+
+[[discs.tracks]]
+title = "閃きハートビート"
+
+[[discs.tracks]]
+title = "君に話したいこと"
+
+[[discs.tracks]]
+title = "灯り"
+
+[[discs.tracks]]
+title = "all yours"

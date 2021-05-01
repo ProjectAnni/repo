@@ -1,0 +1,23 @@
+[album]
+title = "Plunderer"
+artist = "伊藤美来"
+date = 2020-02-12
+type = "normal"
+catalog = "COZC-1615"
+
+[[discs]]
+catalog = "COZC-1615"
+
+[[discs.tracks]]
+title = "Plunderer"
+
+[[discs.tracks]]
+title = "hello new pink"
+
+[[discs.tracks]]
+title = "Plunderer(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "hello new pink(off vocal ver.)"
+type = "instrumental"

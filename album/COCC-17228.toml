@@ -1,0 +1,30 @@
+[album]
+title = "泡とベルベーヌ"
+artist = "伊藤美来"
+date = 2016-10-12
+type = "normal"
+catalog = "COCC-17228"
+
+[[discs]]
+catalog = "COCC-17228"
+
+[[discs.tracks]]
+title = "泡とベルベーヌ"
+
+[[discs.tracks]]
+title = "Morning Coffee"
+
+[[discs.tracks]]
+title = "七色Cookie"
+
+[[discs.tracks]]
+title = "泡とベルベーヌ(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Morning Coffee(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "七色Cookie(off vocal ver.)"
+type = "instrumental"
