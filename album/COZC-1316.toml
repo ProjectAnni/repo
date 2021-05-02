@@ -1,0 +1,23 @@
+[album]
+title = "Shocking Blue"
+artist = "伊藤美来"
+date = 2017-05-03
+type = "normal"
+catalog = "COZC-1316"
+
+[[discs]]
+catalog = "COZC-1316"
+
+[[discs.tracks]]
+title = "Shocking Blue"
+
+[[discs.tracks]]
+title = "ルージュバック"
+
+[[discs.tracks]]
+title = "Shocking Blue(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ルージュバック(off vocal ver.)"
+type = "instrumental"

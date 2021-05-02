@@ -1,0 +1,23 @@
+[album]
+title = "閃きハートビート"
+artist = "伊藤美来"
+date = 2019-01-16
+type = "normal"
+catalog = "COZC-1497"
+
+[[discs]]
+catalog = "COZC-1497"
+
+[[discs.tracks]]
+title = "閃きハートビート"
+
+[[discs.tracks]]
+title = "TickTack Invitation"
+
+[[discs.tracks]]
+title = "閃きハートビート(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "TickTack Invitation(off vocal ver.)"
+type = "instrumental"

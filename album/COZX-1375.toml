@@ -1,0 +1,43 @@
+[album]
+title = "水彩 ～aquaveil～"
+artist = "伊藤美来"
+date = 2017-10-11
+type = "normal"
+catalog = "COZX-1375"
+
+[[discs]]
+catalog = "COZX-1375"
+
+[[discs.tracks]]
+title = "Overture ～Invitation to the aquaveil～"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ミラクル"
+
+[[discs.tracks]]
+title = "あお信号"
+
+[[discs.tracks]]
+title = "Shocking Blue"
+
+[[discs.tracks]]
+title = "Morning Coffee"
+
+[[discs.tracks]]
+title = "No Color"
+
+[[discs.tracks]]
+title = "七色Cookie"
+
+[[discs.tracks]]
+title = "ルージュバック"
+
+[[discs.tracks]]
+title = "Moonlight"
+
+[[discs.tracks]]
+title = "泡とベルベーヌ"
+
+[[discs.tracks]]
+title = "ワタシイロ"

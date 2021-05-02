@@ -1,0 +1,23 @@
+[album]
+title = "守りたいもののために"
+artist = "伊藤美来"
+date = 2018-02-21
+type = "normal"
+catalog = "COZC-1418"
+
+[[discs]]
+catalog = "COZC-1418"
+
+[[discs.tracks]]
+title = "守りたいもののために"
+
+[[discs.tracks]]
+title = "あの日の夢"
+
+[[discs.tracks]]
+title = "守りたいもののために(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あの日の夢(off vocal ver.)"
+type = "instrumental"

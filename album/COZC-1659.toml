@@ -1,0 +1,23 @@
+[album]
+title = "孤高の光 Lonely dark"
+artist = "伊藤美来"
+date = 2020-06-17
+type = "normal"
+catalog = "COZC-1659"
+
+[[discs]]
+catalog = "COZC-1659"
+
+[[discs.tracks]]
+title = "孤高の光 Lonely dark"
+
+[[discs.tracks]]
+title = "Sweet Bitter Sweet Days"
+
+[[discs.tracks]]
+title = "孤高の光 Lonely dark(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sweet Bitter Sweet Days(off vocal ver.)"
+type = "instrumental"
