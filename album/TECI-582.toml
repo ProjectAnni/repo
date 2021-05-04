@@ -1,0 +1,15 @@
+[album]
+title = "ダイスキ×じゃない"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2017-09-13
+type = "normal"
+catalog = "TECI-582"
+
+[[discs]]
+catalog = "TECI-582"
+
+[[discs.tracks]]
+title = "ダイスキ×じゃない"
+
+[[discs.tracks]]
+title = "残像"

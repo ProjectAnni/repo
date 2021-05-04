@@ -1,0 +1,23 @@
+[album]
+title = "LONELY ALICE"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2018-05-23
+type = "normal"
+catalog = "TECI-619"
+
+[[discs]]
+catalog = "TECI-619"
+
+[[discs.tracks]]
+title = "LONELY ALICE"
+
+[[discs.tracks]]
+title = "流れ星ハーモニー"
+
+[[discs.tracks]]
+title = "LONELY ALICE（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "流れ星ハーモニー（Instrumental）"
+type = "instrumental"

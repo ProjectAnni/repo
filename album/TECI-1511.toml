@@ -1,0 +1,39 @@
+[album]
+title = "First Love 注意報！"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2016-08-24
+type = "normal"
+catalog = "TECI-1511"
+
+[[discs]]
+catalog = "TECI-1511"
+
+[[discs.tracks]]
+title = "First Love 注意報！"
+
+[[discs.tracks]]
+title = "Shiny day"
+
+[[discs.tracks]]
+title = "新しいキミ"
+
+[[discs.tracks]]
+title = "Please！Please！"
+
+[[discs.tracks]]
+title = "恋でした"
+
+[[discs.tracks]]
+title = "ハズム恋リズム"
+
+[[discs.tracks]]
+title = "Welcome! My best friend"
+
+[[discs.tracks]]
+title = "13番"
+
+[[discs.tracks]]
+title = "トキメキセンセーション！（Album Mix）"
+
+[[discs.tracks]]
+title = "初恋の棘"

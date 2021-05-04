@@ -1,0 +1,15 @@
+[album]
+title = "恋せよみんな、ハイ！"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2019-06-05
+type = "normal"
+catalog = "TECI-676"
+
+[[discs]]
+catalog = "TECI-676"
+
+[[discs.tracks]]
+title = "恋せよみんな、ハイ！"
+
+[[discs.tracks]]
+title = "Pyxisランド"
