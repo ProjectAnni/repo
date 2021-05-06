@@ -1,0 +1,26 @@
+[album]
+title = "想い"
+artist = "水樹奈々"
+date = 2000-12-06
+type = "normal"
+catalog = "KICM-1010"
+
+[[discs]]
+catalog = "KICM-1010"
+
+[[discs.tracks]]
+title = "想い"
+
+[[discs.tracks]]
+title = "アノネ～まみむめ☆もがちょ～"
+
+[[discs.tracks]]
+title = "ピアス"
+
+[[discs.tracks]]
+title = "想い（vocalless ver.）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アノネ～まみむめ☆もがちょ～（vocalless ver.）"
+type = "instrumental"

@@ -1,0 +1,18 @@
+[album]
+title = "BRIGHT STREAM"
+artist = "水樹奈々"
+date = 2012-08-01
+type = "normal"
+catalog = "KICM-1403"
+
+[[discs]]
+catalog = "KICM-1403"
+
+[[discs.tracks]]
+title = "BRIGHT STREAM"
+
+[[discs.tracks]]
+title = "FEARLESS HERO"
+
+[[discs.tracks]]
+title = "Sacred Force"

@@ -1,0 +1,21 @@
+[album]
+title = "夢幻"
+artist = "水樹奈々"
+date = 2009-10-28
+type = "normal"
+catalog = "KICM-1294"
+
+[[discs]]
+catalog = "KICM-1294"
+
+[[discs.tracks]]
+title = "夢幻"
+
+[[discs.tracks]]
+title = "天空のカナリア"
+
+[[discs.tracks]]
+title = "Dear Dream"
+
+[[discs.tracks]]
+title = "STORIES"

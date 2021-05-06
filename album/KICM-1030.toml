@@ -1,0 +1,30 @@
+[album]
+title = "The place of happiness"
+artist = "水樹奈々"
+date = 2001-08-29
+type = "normal"
+catalog = "KICM-1030"
+
+[[discs]]
+catalog = "KICM-1030"
+
+[[discs.tracks]]
+title = "The place of happiness"
+
+[[discs.tracks]]
+title = "水中の青空"
+
+[[discs.tracks]]
+title = "LOOKING ON THE MOON"
+
+[[discs.tracks]]
+title = "The place of happiness (vocalless ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "水中の青空 (vocalless ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "LOOKING ON THE MOON (vocalless ver.)"
+type = "instrumental"

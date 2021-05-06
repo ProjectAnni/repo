@@ -1,0 +1,18 @@
+[album]
+title = "禁断のレジスタンス"
+artist = "水樹奈々"
+date = 2014-10-15
+type = "normal"
+catalog = "KICM-1542"
+
+[[discs]]
+catalog = "KICM-1542"
+
+[[discs.tracks]]
+title = "禁断のレジスタンス"
+
+[[discs.tracks]]
+title = "BLUE"
+
+[[discs.tracks]]
+title = "ドリームライダー"

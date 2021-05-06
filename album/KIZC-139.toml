@@ -1,0 +1,60 @@
+[album]
+title = "THE MUSEUM II"
+artist = "水樹奈々"
+date = 2011-11-23
+type = "normal"
+catalog = "KIZC-139"
+
+[[discs]]
+catalog = "KIZC-139"
+
+[[discs.tracks]]
+title = "SECRET AMBITION"
+
+[[discs.tracks]]
+title = "MASSIVE WONDERS"
+
+[[discs.tracks]]
+title = "Astrogation"
+
+[[discs.tracks]]
+title = "Trickster"
+
+[[discs.tracks]]
+title = "深愛"
+
+[[discs.tracks]]
+title = "夢幻"
+
+[[discs.tracks]]
+title = "PHANTOM MINDS"
+
+[[discs.tracks]]
+title = "Silent Bible"
+
+[[discs.tracks]]
+title = "SCARLET KNIGHT"
+
+[[discs.tracks]]
+title = "POP MASTER"
+
+[[discs.tracks]]
+title = "純潔パラドックス"
+
+[[discs.tracks]]
+title = "Pray"
+
+[[discs.tracks]]
+title = "COSMIC LOVE"
+
+[[discs.tracks]]
+title = "DISCOTHEQUE"
+
+[[discs.tracks]]
+title = "迷宮バタフライ ―diverse―"
+
+[[discs.tracks]]
+title = "ROMANCERS' NEO"
+
+[[discs.tracks]]
+title = "SUPER GENERATION ―MUSEUM STYLE―"

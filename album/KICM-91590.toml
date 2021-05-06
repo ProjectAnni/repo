@@ -1,0 +1,18 @@
+[album]
+title = "Angel Blossom"
+artist = "水樹奈々"
+date = 2015-04-22
+type = "normal"
+catalog = "KICM-91590"
+
+[[discs]]
+catalog = "KICM-91590"
+
+[[discs.tracks]]
+title = "Angel Blossom"
+
+[[discs.tracks]]
+title = "レイジーシンドローム"
+
+[[discs.tracks]]
+title = "あしたgraffiti"

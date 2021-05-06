@@ -1,0 +1,57 @@
+[album]
+title = "THE MUSEUM"
+artist = "水樹奈々"
+date = 2007-02-07
+type = "normal"
+catalog = "KIZC-3"
+
+[[discs]]
+catalog = "KIZC-3"
+
+[[discs.tracks]]
+title = "想い"
+
+[[discs.tracks]]
+title = "Heaven Knows"
+
+[[discs.tracks]]
+title = "The place of happiness"
+
+[[discs.tracks]]
+title = "LOVE＆HISTORY"
+
+[[discs.tracks]]
+title = "POWER GATE"
+
+[[discs.tracks]]
+title = "suddenly ～巡り合えて～"
+
+[[discs.tracks]]
+title = "New Sensation"
+
+[[discs.tracks]]
+title = "still in the groove"
+
+[[discs.tracks]]
+title = "パノラマ-Panorama-"
+
+[[discs.tracks]]
+title = "innocent starter"
+
+[[discs.tracks]]
+title = "WILD EYES"
+
+[[discs.tracks]]
+title = "ETERNAL BLAZE"
+
+[[discs.tracks]]
+title = "SUPER GENERATION"
+
+[[discs.tracks]]
+title = "Justice to Believe（MUSEUM STYLE）"
+
+[[discs.tracks]]
+title = "Crystal Letter"
+
+[[discs.tracks]]
+title = "TRANSMIGRATION 2007"

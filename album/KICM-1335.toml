@@ -1,0 +1,15 @@
+[album]
+title = "SCARLET KNIGHT"
+artist = "水樹奈々"
+date = 2011-04-13
+type = "normal"
+catalog = "KICM-1335"
+
+[[discs]]
+catalog = "KICM-1335"
+
+[[discs.tracks]]
+title = "SCARLET KNIGHT"
+
+[[discs.tracks]]
+title = "HIGH-STEPPER"

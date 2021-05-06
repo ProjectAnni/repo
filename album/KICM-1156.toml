@@ -1,0 +1,18 @@
+[album]
+title = "SUPER GENERATION"
+artist = "水樹奈々"
+date = 2006-01-18
+type = "normal"
+catalog = "KICM-1156"
+
+[[discs]]
+catalog = "KICM-1156"
+
+[[discs.tracks]]
+title = "SUPER GENERATION"
+
+[[discs.tracks]]
+title = "BRAVE PHOENIX"
+
+[[discs.tracks]]
+title = "光"

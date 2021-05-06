@@ -1,0 +1,21 @@
+[album]
+title = "TIME SPACE EP"
+artist = "水樹奈々"
+date = 2012-06-06
+type = "normal"
+catalog = "KICM-1392"
+
+[[discs]]
+catalog = "KICM-1392"
+
+[[discs.tracks]]
+title = "METRO BAROQUE"
+
+[[discs.tracks]]
+title = "PARTY! PARTY!"
+
+[[discs.tracks]]
+title = "時空サファイア"
+
+[[discs.tracks]]
+title = "ONE"

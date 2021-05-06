@@ -1,0 +1,21 @@
+[album]
+title = "STARCAMP EP"
+artist = "水樹奈々"
+date = 2008-02-06
+type = "normal"
+catalog = "KICM-1228"
+
+[[discs]]
+catalog = "KICM-1228"
+
+[[discs.tracks]]
+title = "Astrogation"
+
+[[discs.tracks]]
+title = "COSMIC LOVE"
+
+[[discs.tracks]]
+title = "Dancing in the velvet moon"
+
+[[discs.tracks]]
+title = "空時計"

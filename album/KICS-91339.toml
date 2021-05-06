@@ -1,0 +1,54 @@
+[album]
+title = "GREAT ACTIVITY"
+artist = "水樹奈々"
+date = 2007-11-14
+type = "normal"
+catalog = "KICS-91339"
+
+[[discs]]
+catalog = "KICS-91339"
+
+[[discs.tracks]]
+title = "Bring it on！"
+
+[[discs.tracks]]
+title = "Orchestral Fantasia"
+
+[[discs.tracks]]
+title = "Promise on Christmas"
+
+[[discs.tracks]]
+title = "MASSIVE WONDERS"
+
+[[discs.tracks]]
+title = "Take a chance"
+
+[[discs.tracks]]
+title = "ファーストカレンダー"
+
+[[discs.tracks]]
+title = "ラストシーン"
+
+[[discs.tracks]]
+title = "SEVEN"
+
+[[discs.tracks]]
+title = "アオイイロ"
+
+[[discs.tracks]]
+title = "TRY AGAIN"
+
+[[discs.tracks]]
+title = "SECRET AMBITION"
+
+[[discs.tracks]]
+title = "Nostalgia"
+
+[[discs.tracks]]
+title = "Heart-shaped chant"
+
+[[discs.tracks]]
+title = "chronicle of sky"
+
+[[discs.tracks]]
+title = "Sing Forever"

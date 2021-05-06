@@ -1,0 +1,21 @@
+[album]
+title = "WILD EYES"
+artist = "水樹奈々"
+date = 2005-05-18
+type = "normal"
+catalog = "KICM-1133"
+
+[[discs]]
+catalog = "KICM-1133"
+
+[[discs.tracks]]
+title = "WILD EYES"
+
+[[discs.tracks]]
+title = "ヒメムラサキ"
+
+[[discs.tracks]]
+title = "76th Star"
+
+[[discs.tracks]]
+title = "「好き！」"

@@ -1,0 +1,15 @@
+[album]
+title = "FIRE SCREAM／No Rain, No Rainbow"
+artist = "水樹奈々"
+date = 2020-10-07
+type = "normal"
+catalog = "KICM-2063"
+
+[[discs]]
+catalog = "KICM-2063"
+
+[[discs.tracks]]
+title = "FIRE SCREAM"
+
+[[discs.tracks]]
+title = "No Rain, No Rainbow"

@@ -1,0 +1,15 @@
+[album]
+title = "POP MASTER"
+artist = "水樹奈々"
+date = 2011-04-13
+type = "normal"
+catalog = "KICM-1336"
+
+[[discs]]
+catalog = "KICM-1336"
+
+[[discs.tracks]]
+title = "POP MASTER"
+
+[[discs.tracks]]
+title = "UNBREAKABLE"

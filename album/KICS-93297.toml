@@ -1,0 +1,54 @@
+[album]
+title = "SMASHING ANTHEMS"
+artist = "水樹奈々"
+date = 2015-11-11
+type = "normal"
+catalog = "KICS-93297"
+
+[[discs]]
+catalog = "KICS-93297"
+
+[[discs.tracks]]
+title = "Glorious Break"
+
+[[discs.tracks]]
+title = "Never Let Go"
+
+[[discs.tracks]]
+title = "SUPER☆MAN"
+
+[[discs.tracks]]
+title = "Angel Blossom"
+
+[[discs.tracks]]
+title = "BRACELET"
+
+[[discs.tracks]]
+title = "レイジーシンドローム"
+
+[[discs.tracks]]
+title = "コイウタ。"
+
+[[discs.tracks]]
+title = "禁断のレジスタンス -Extended Mix-"
+
+[[discs.tracks]]
+title = "The NEW STAR"
+
+[[discs.tracks]]
+title = "Clutch!!"
+
+[[discs.tracks]]
+title = "熱情のマリア"
+
+[[discs.tracks]]
+title = "エゴアイディール"
+
+[[discs.tracks]]
+title = "エデン"
+
+[[discs.tracks]]
+title = "アンビバレンス"
+
+[[discs.tracks]]
+title = "Exterminate"

@@ -1,0 +1,30 @@
+[album]
+title = "innocent starter"
+artist = "水樹奈々"
+date = 2004-10-06
+type = "normal"
+catalog = "KICM-1115"
+
+[[discs]]
+catalog = "KICM-1115"
+
+[[discs.tracks]]
+title = "innocent starter"
+
+[[discs.tracks]]
+title = "Open Your Heart"
+
+[[discs.tracks]]
+title = "それでも君を想い出すから -again-"
+
+[[discs.tracks]]
+title = "innocent starter (Off Vocal Version)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Open Your Heart (Off Vocal Version)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "それでも君を想い出すから -again- (Off Vocal Version)"
+type = "instrumental"

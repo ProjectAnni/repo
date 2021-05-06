@@ -1,0 +1,60 @@
+[album]
+title = "CANNONBALL RUNNING"
+artist = "水樹奈々"
+date = 2019-12-11
+type = "normal"
+catalog = "KICS-93884"
+
+[[discs]]
+catalog = "KICS-93884"
+
+[[discs.tracks]]
+title = "Higher Dimension"
+
+[[discs.tracks]]
+title = "カルペディエム"
+
+[[discs.tracks]]
+title = "Love Fight！"
+
+[[discs.tracks]]
+title = "DAYBREAKERS"
+
+[[discs.tracks]]
+title = "Knock U down"
+
+[[discs.tracks]]
+title = "BLUE ROSE"
+
+[[discs.tracks]]
+title = "Sweet Dealer"
+
+[[discs.tracks]]
+title = "WHAT YOU WANT"
+
+[[discs.tracks]]
+title = "マーガレット"
+
+[[discs.tracks]]
+title = "METANOIA -Aufwachen Form-"
+
+[[discs.tracks]]
+title = "glitch"
+
+[[discs.tracks]]
+title = "NEVER SURRENDER"
+
+[[discs.tracks]]
+title = "Light Births Shadow"
+
+[[discs.tracks]]
+title = "REBELLION"
+
+[[discs.tracks]]
+title = "UPSETTER"
+
+[[discs.tracks]]
+title = "ALL FOR LOVE"
+
+[[discs.tracks]]
+title = "FINAL COMMANDER -Aufwachen Form-"
