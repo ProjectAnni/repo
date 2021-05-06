@@ -1,0 +1,261 @@
+[album]
+title = "さくら、もゆ。 -as the Night's, Reincarnation- ミュージックコレクション"
+artist = "さくら、もゆ。-as the Night's, Reincarnation-"
+date = 2019-04-29
+type = "absolute"
+catalog = "FVS-SAKOST"
+
+[[discs]]
+catalog = "FVS-SAKOST-01"
+type = "normal"
+
+[[discs.tracks]]
+title = "さくら、Reincarnation"
+artist = "佐咲紗花"
+
+[[discs.tracks]]
+title = "終わらない物語"
+artist = "鈴湯"
+
+[[discs.tracks]]
+title = "さくら、もゆ。"
+artist = "夏和小"
+
+[[discs.tracks]]
+title = "輪廻"
+artist = "山本美禰子"
+
+[[discs.tracks]]
+title = "花あかりの時"
+artist = "eufonius"
+
+[[discs.tracks]]
+title = "さくら、Reincarnation -Instrumental-"
+artist = "佐咲紗花"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "終わらない物語 -Instrumental-"
+artist = "鈴湯"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "さくら、もゆ。 -Instrumental-"
+artist = "夏和小"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "輪廻 -Instrumental-"
+artist = "山本美禰子"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "花あかりの時 -Instrumental-"
+artist = "eufonius"
+type = "instrumental"
+
+[[discs]]
+catalog = "FVS-SAKOST-02"
+
+[[discs.tracks]]
+title = "さくら、もゆ。 -title arrange-"
+
+[[discs.tracks]]
+title = "さくら、Reincarnation -opening version-"
+artist = "佐咲紗花"
+type = "normal"
+
+[[discs.tracks]]
+title = "桜並木の満開の下に"
+
+[[discs.tracks]]
+title = "咲き誇る日々"
+
+[[discs.tracks]]
+title = "Friendship"
+
+[[discs.tracks]]
+title = "時計台の下で"
+
+[[discs.tracks]]
+title = "あかねいろの情景"
+
+[[discs.tracks]]
+title = "桜月夜"
+
+[[discs.tracks]]
+title = "麗らかな生活"
+
+[[discs.tracks]]
+title = "さくらいろのせかい"
+
+[[discs.tracks]]
+title = "プリティーリズム"
+
+[[discs.tracks]]
+title = "なちゅらるガール"
+
+[[discs.tracks]]
+title = "DING! DONG!"
+
+[[discs.tracks]]
+title = "春はみじかし恋せよ乙女"
+
+[[discs.tracks]]
+title = "不思議パンタシア"
+
+[[discs.tracks]]
+title = "抑えきれない想い"
+
+[[discs.tracks]]
+title = "三日月の小夜曲-クレセントムーンセレナーデ-"
+
+[[discs.tracks]]
+title = "くすりゆびのぬくもり"
+
+[[discs.tracks]]
+title = "聖夜をめぐるまほう"
+
+[[discs.tracks]]
+title = "神様からの手紙"
+
+[[discs.tracks]]
+title = "はるのあしあと"
+
+[[discs.tracks]]
+title = "リトルガール"
+
+[[discs.tracks]]
+title = "Shrine maiden"
+
+[[discs.tracks]]
+title = "満月の夜会"
+
+[[discs]]
+catalog = "FVS-SAKOST-03"
+
+[[discs.tracks]]
+title = "世界でいちばん優しい時間"
+
+[[discs.tracks]]
+title = "忘れたいはずのなにか"
+
+[[discs.tracks]]
+title = "愁い"
+
+[[discs.tracks]]
+title = "忍び寄る運命"
+
+[[discs.tracks]]
+title = "periculum."
+
+[[discs.tracks]]
+title = "桜雨"
+
+[[discs.tracks]]
+title = "シュレーディンガーの夢"
+
+[[discs.tracks]]
+title = "失われた刻をもとめて"
+
+[[discs.tracks]]
+title = "遙か彼方/Re:frain"
+
+[[discs.tracks]]
+title = "終わりなきナガレの果てに"
+
+[[discs.tracks]]
+title = "春と修羅"
+
+[[discs.tracks]]
+title = "モーメンテリィー・ハザード"
+
+[[discs.tracks]]
+title = "Annihilation World's"
+
+[[discs.tracks]]
+title = "さあ、咲き誇れ！"
+
+[[discs.tracks]]
+title = "夜会(カコ)の記憶"
+
+[[discs.tracks]]
+title = "朧月夜-spring night with a hazy moon-"
+
+[[discs.tracks]]
+title = "わたしの想い"
+
+[[discs.tracks]]
+title = "桜流"
+
+[[discs.tracks]]
+title = "少女たちの夜会Ⅱ ver2"
+
+[[discs.tracks]]
+title = "はるのあしあと -Arrange-"
+
+[[discs.tracks]]
+title = "さくら、もゆ。 -Instrumental feat.HARU-"
+
+[[discs]]
+catalog = "FVS-SAKOST-04"
+
+[[discs.tracks]]
+title = "Reincarnation I"
+
+[[discs.tracks]]
+title = "Reincarnation II"
+
+[[discs.tracks]]
+title = "Reincarnation III"
+
+[[discs.tracks]]
+title = "久遠アリア"
+
+[[discs.tracks]]
+title = "Never land -よるのくに-"
+
+[[discs.tracks]]
+title = "少女たちの夜会I"
+
+[[discs.tracks]]
+title = "少女たちの夜会II"
+
+[[discs.tracks]]
+title = "地上の、ひとひら"
+
+[[discs.tracks]]
+title = "さよならを言う前に"
+
+[[discs.tracks]]
+title = "この美しい世界"
+
+[[discs.tracks]]
+title = "光ある場所へ"
+
+[[discs.tracks]]
+title = "ほしめぐるまほう"
+
+[[discs.tracks]]
+title = "ホーリーナイト"
+
+[[discs.tracks]]
+title = "さくら、Reincarnation -Arrange-"
+
+[[discs.tracks]]
+title = "輪廻 -Arrange-"
+
+[[discs.tracks]]
+title = "さくら、もゆ。 -orgel Arrange-"
+
+[[discs.tracks]]
+title = "終わらない物語 -Arrange-"
+
+[[discs.tracks]]
+title = "花あかりの時 -Arrange-"
+
+[[discs.tracks]]
+title = "満月の夜会 -Arrange-"
+
+[[discs.tracks]]
+title = "輪廻 -2nd opening version-"
