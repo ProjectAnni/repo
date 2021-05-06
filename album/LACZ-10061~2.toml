@@ -1,0 +1,104 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -3rdLIVE TOUR PIECE ON PLANET／TOKYO-"
+artist = "シャイニーカラーズ"
+date = 2021-04-24
+type = "normal"
+catalog = "LACZ-10061~2"
+
+[[discs]]
+catalog = "LACZ-10061"
+
+[[discs.tracks]]
+title = "Twinkle way（櫻木真乃ver.）"
+artist = "櫻木真乃"
+
+[[discs.tracks]]
+title = "Twinkle way（風野灯織ver.）"
+artist = "風野灯織"
+
+[[discs.tracks]]
+title = "Twinkle way（八宮めぐるver.）"
+artist = "八宮めぐる"
+
+[[discs.tracks]]
+title = "Black Reverie（月岡恋鐘ver.）"
+artist = "月岡恋鐘"
+
+[[discs.tracks]]
+title = "Black Reverie（田中摩美々ver.）"
+artist = "田中摩美々"
+
+[[discs.tracks]]
+title = "Black Reverie（白瀬咲耶ver.）"
+artist = "白瀬咲耶"
+
+[[discs.tracks]]
+title = "Black Reverie（三峰結華ver.）"
+artist = "三峰結華"
+
+[[discs.tracks]]
+title = "Black Reverie（幽谷霧子ver.）"
+artist = "幽谷霧子"
+
+[[discs.tracks]]
+title = "五ツ座流星群（小宮果穂ver.）"
+artist = "小宮果穂"
+
+[[discs.tracks]]
+title = "五ツ座流星群（園田智代子ver.）"
+artist = "園田智代子"
+
+[[discs.tracks]]
+title = "五ツ座流星群（西城樹里ver.）"
+artist = "西城樹里"
+
+[[discs.tracks]]
+title = "五ツ座流星群（杜野凛世ver.）"
+artist = "杜野凛世"
+
+[[discs.tracks]]
+title = "五ツ座流星群（有栖川夏葉ver.）"
+artist = "有栖川夏葉"
+
+[[discs]]
+catalog = "LACZ-10062"
+
+[[discs.tracks]]
+title = "ダブル・イフェクト（大崎甘奈ver.）"
+artist = "大崎甘奈"
+
+[[discs.tracks]]
+title = "ダブル・イフェクト（大崎甜花ver.）"
+artist = "大崎甜花"
+
+[[discs.tracks]]
+title = "ダブル・イフェクト（桑山千雪ver.）"
+artist = "桑山千雪"
+
+[[discs.tracks]]
+title = "Hide & Attack（芹沢あさひver.）"
+artist = "芹沢あさひ"
+
+[[discs.tracks]]
+title = "Hide & Attack（黛 冬優子ver.）"
+artist = "黛冬優子"
+
+[[discs.tracks]]
+title = "Hide & Attack（和泉愛依ver.）"
+artist = "和泉愛依"
+
+[[discs.tracks]]
+title = "いつだって僕らは（浅倉 透ver.）"
+artist = "浅倉透"
+
+[[discs.tracks]]
+title = "いつだって僕らは（樋口円香ver.）"
+artist = "樋口円香"
+
+[[discs.tracks]]
+title = "いつだって僕らは（福丸小糸ver.）"
+artist = "福丸小糸"
+
+[[discs.tracks]]
+title = "いつだって僕らは（市川雛菜ver.）"
+artist = "市川雛菜"
