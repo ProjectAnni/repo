@@ -1,0 +1,23 @@
+[album]
+title = "FLAWLESS"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2017-02-22
+type = "normal"
+catalog = "TECI-544"
+
+[[discs]]
+catalog = "TECI-544"
+
+[[discs.tracks]]
+title = "FLAWLESS"
+
+[[discs.tracks]]
+title = "ミライSniper"
+
+[[discs.tracks]]
+title = "FLAWLESS（instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミライSniper（instrumental）"
+type = "instrumental"

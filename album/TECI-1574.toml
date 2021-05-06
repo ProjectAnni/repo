@@ -1,0 +1,39 @@
+[album]
+title = "Pop-up Dream"
+artist = "Pyxis（豊田萌絵、伊藤美来）"
+date = 2017-12-20
+type = "normal"
+catalog = "TECI-1574"
+
+[[discs]]
+catalog = "TECI-1574"
+
+[[discs.tracks]]
+title = "Pop-up Dream"
+
+[[discs.tracks]]
+title = "FLAWLESS"
+
+[[discs.tracks]]
+title = "Sweat&Tears"
+
+[[discs.tracks]]
+title = "Pinkie×Answer"
+
+[[discs.tracks]]
+title = "ダイスキ×じゃない"
+
+[[discs.tracks]]
+title = "Call Me もえし"
+
+[[discs.tracks]]
+title = "初めて塾をサボった日～みくと原宿とクレープと～"
+
+[[discs.tracks]]
+title = "残像"
+
+[[discs.tracks]]
+title = "ミライSniper"
+
+[[discs.tracks]]
+title = "Next Flowers"
