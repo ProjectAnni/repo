@@ -1,0 +1,21 @@
+[album]
+title = "怪物／優しい彗星"
+artist = "YOASOBI"
+date = 2021-03-24
+type = "normal"
+catalog = "XSCL-54"
+
+[[discs]]
+catalog = "XSCL-54"
+
+[[discs.tracks]]
+title = "怪物"
+
+[[discs.tracks]]
+title = "優しい彗星"
+
+[[discs.tracks]]
+title = "怪物 (Tv Size Ver.)"
+
+[[discs.tracks]]
+title = "優しい彗星 (Tv Size Ver.)"
