@@ -8,9 +8,6 @@ catalog = "LACM-24117"
 [[discs]]
 catalog = "LACM-24117"
 
-[[discs]]
-catalog = "LACM-24113"
-
 [[discs.tracks]]
 title = ""
 
