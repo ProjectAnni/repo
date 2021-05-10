@@ -1,0 +1,38 @@
+[album]
+title = "THE BOOK"
+artist = "YOASOBI"
+date = 2021-01-06
+type = "normal"
+catalog = "XSCL-50"
+
+[[discs]]
+catalog = "XSCL-50"
+
+[[discs.tracks]]
+title = "Epilogue"
+type = "absolute"
+
+[[discs.tracks]]
+title = "アンコール"
+
+[[discs.tracks]]
+title = "ハルジオン"
+
+[[discs.tracks]]
+title = "あの夢をなぞって"
+
+[[discs.tracks]]
+title = "たぶん"
+
+[[discs.tracks]]
+title = "群青"
+
+[[discs.tracks]]
+title = "ハルカ"
+
+[[discs.tracks]]
+title = "夜に駆ける"
+
+[[discs.tracks]]
+title = "Prologue"
+type = "absolute"
