@@ -1,0 +1,19 @@
+[album]
+title = "永遠のAria"
+artist = "雨宮天"
+date = 2021-05-12
+type = "normal"
+catalog = "SMCL-700"
+
+[[discs]]
+catalog = "SMCL-700"
+
+[[discs.tracks]]
+title = "永遠のAria"
+
+[[discs.tracks]]
+title = "BLUE BLUES"
+
+[[discs.tracks]]
+title = "永遠のAria (Instrumental)"
+type = "instrumental"
