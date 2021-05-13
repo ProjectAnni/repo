@@ -1,0 +1,28 @@
+[album]
+title = "ないない (Special Edition)"
+artist = "ReoNa"
+date = 2021-05-12
+type = "normal"
+catalog = "VVXX00994B00Z"
+
+[[discs]]
+catalog = "VVXX00994B00Z"
+
+[[discs.tracks]]
+title = "ないない"
+
+[[discs.tracks]]
+title = "まっさら"
+
+[[discs.tracks]]
+title = "生きてるだけでえらいよ"
+
+[[discs.tracks]]
+title = "あしたはハレルヤ"
+
+[[discs.tracks]]
+title = "ないない (TV Size)"
+
+[[discs.tracks]]
+title = "ないない (Instrumental)"
+type = "instrumental"
