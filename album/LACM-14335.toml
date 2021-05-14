@@ -1,0 +1,23 @@
+[album]
+title = "トゥッティ！"
+artist = "北宇治カルテット（黄前久美子（黒沢ともよ）、加藤葉月（朝井彩加）、川島緑輝（豊田萌絵）高坂麗奈（安済知佳））"
+date = 2015-05-13
+type = "normal"
+catalog = "LACM-14335"
+
+[[discs]]
+catalog = "LACM-14335"
+
+[[discs.tracks]]
+title = "トゥッティ！"
+
+[[discs.tracks]]
+title = "ベルアップ！"
+
+[[discs.tracks]]
+title = "トゥッティ！（OFF VOCAL）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ベルアップ！（OFF VOCAL）"
+type = "instrumental"

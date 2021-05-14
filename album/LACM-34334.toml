@@ -1,0 +1,22 @@
+[album]
+title = "DREAM SOLISTER"
+artist = "TRUE"
+date = 2015-04-22
+type = "normal"
+catalog = "LACM-34334"
+
+[[discs]]
+catalog = "LACM-34334"
+
+[[discs.tracks]]
+title = "DREAM SOLISTER"
+
+[[discs.tracks]]
+title = "SAKURAコンチェルト"
+
+[[discs.tracks]]
+title = "Swag!!!"
+
+[[discs.tracks]]
+title = "DREAM SOLISTER（Off Vocal）"
+type = "instrumental"
