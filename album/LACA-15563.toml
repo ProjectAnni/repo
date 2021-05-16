@@ -2,7 +2,7 @@
 title = "『劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～』オリジナルサウンドトラック「Reflection of youthful music」"
 artist = "松田彬人"
 date = 2016-04-27
-type = "normal"
+type = "absolute"
 catalog = "LACA-15563"
 
 [[discs]]
@@ -95,3 +95,4 @@ title = "未来への旋律"
 [[discs.tracks]]
 title = "DREAM SOLISTER (Movie Ver.)"
 artist = "TRUE"
+type = "normal"
