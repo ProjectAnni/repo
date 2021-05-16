@@ -1,0 +1,42 @@
+[album]
+title = "「響け！ユーフォニアム」5th Anniversary Disc ～きらめきパッセージ～"
+artist = "響け！ユーフォニアム"
+date = 2021-03-24
+type = "drama"
+catalog = "PCCG-90183"
+
+[[discs]]
+catalog = "PCCG-90183-01"
+
+[[discs.tracks]]
+title = "冬色ラプソディー"
+
+[[discs.tracks]]
+title = "星彩セレナーデ"
+
+[[discs]]
+catalog = "PCCG-90183-02"
+
+[[discs.tracks]]
+title = "少女漫画ごっこ"
+
+[[discs.tracks]]
+title = "背伸び"
+
+[[discs.tracks]]
+title = "飛び立つ君の背を見上げる (Fine)"
+
+[[discs.tracks]]
+title = "上質な休日の過ごし方"
+
+[[discs.tracks]]
+title = "未来を見つめて"
+
+[[discs.tracks]]
+title = "ツインテール推進計画"
+
+[[discs.tracks]]
+title = "木綿のハンカチ"
+
+[[discs.tracks]]
+title = "飛び立つ君の背を見上げる (D.C.)"
