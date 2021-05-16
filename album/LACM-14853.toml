@@ -1,0 +1,23 @@
+[album]
+title = "Blast!"
+artist = "TRUE"
+date = 2019-04-17
+type = "normal"
+catalog = "LACM-14853"
+
+[[discs]]
+catalog = "LACM-14853"
+
+[[discs.tracks]]
+title = "Blast!"
+
+[[discs.tracks]]
+title = "ふたつの惑星"
+
+[[discs.tracks]]
+title = "Blast!（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふたつの惑星（Instrumental）"
+type = "instrumental"
