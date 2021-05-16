@@ -1,0 +1,179 @@
+[album]
+title = "TVアニメ『響け！ユーフォニアム2』オリジナルサウンドトラック おんがくエンドレス"
+artist = "松田彬人"
+date = 2017-01-11
+type = "absolute"
+catalog = "LACA-9479~81"
+
+[[discs]]
+catalog = "LACA-9479"
+
+[[discs.tracks]]
+title = "サウンドスケープ(TV size)"
+artist = "TRUE"
+type = "normal"
+
+[[discs.tracks]]
+title = "新たな始まり"
+
+[[discs.tracks]]
+title = "人生の流転"
+
+[[discs.tracks]]
+title = "平穏なる日々"
+
+[[discs.tracks]]
+title = "青春なる日常"
+
+[[discs.tracks]]
+title = "謳歌する若者"
+
+[[discs.tracks]]
+title = "運命という必然"
+
+[[discs.tracks]]
+title = "想い出を積み上げる"
+
+[[discs.tracks]]
+title = "静謐なる心"
+
+[[discs.tracks]]
+title = "背中を押すもの"
+
+[[discs.tracks]]
+title = "戸惑い泳ぐ"
+
+[[discs.tracks]]
+title = "特別とは何なのだろう"
+
+[[discs.tracks]]
+title = "必然という冷酷"
+
+[[discs.tracks]]
+title = "吹き抜ける風のように"
+
+[[discs.tracks]]
+title = "郷愁から芽吹くもの"
+
+[[discs.tracks]]
+title = "人生の蹉跌"
+
+[[discs.tracks]]
+title = "変化していく時期"
+
+[[discs.tracks]]
+title = "重なる経験"
+
+[[discs.tracks]]
+title = "そこに兆しは存在する"
+
+[[discs.tracks]]
+title = "陰る心"
+
+[[discs.tracks]]
+title = "落ちきった心情"
+
+[[discs.tracks]]
+title = "夏の到来"
+
+[[discs.tracks]]
+title = "突き進むべきである"
+
+[[discs.tracks]]
+title = "特別は孤独なのか"
+
+[[discs.tracks]]
+title = "ヴィヴァーチェ！(TV size)"
+artist = "北宇治カルテット（黄前久美子（黒沢ともよ）、加藤葉月（朝井彩加）、川島緑輝（豊田萌絵）、高坂麗奈（安済知佳））"
+type = "normal"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム（Last Ver.）"
+
+[[discs]]
+catalog = "LACA-9480"
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "学園天国（チームもなかVer.）"
+artist = "チームもなか"
+
+[[discs.tracks]]
+title = "チャイコフスキー「交響曲第4番」より終楽章"
+artist = "清良女子高等学校吹奏楽部"
+
+[[discs.tracks]]
+title = "ダッタン人の踊り"
+artist = "南中学校吹奏楽部"
+
+[[discs.tracks]]
+title = "パガニーニの主題による狂詩曲"
+artist = "大阪東照高校吹奏楽部"
+
+[[discs.tracks]]
+title = "君は天然色"
+
+[[discs.tracks]]
+title = "学園天国（Full編成Ver.）"
+
+[[discs.tracks]]
+title = "宝島"
+
+[[discs.tracks]]
+title = "アメリカンパトロール"
+artist = "エンジェルキッズ金管バンド"
+
+[[discs.tracks]]
+title = "北宇治四重奏 第1番 ユーフォニアム"
+artist = "進藤正和"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム（朝もやVer.）"
+artist = "田中あすか"
+
+[[discs.tracks]]
+title = "プロヴァンスの風(関西大会突破Ver.）"
+
+[[discs.tracks]]
+title = "三日月の舞(関西大会突破Ver.）"
+
+[[discs.tracks]]
+title = "孤高のトランペット（決意の心Ver.）"
+artist = "高坂麗奈"
+
+[[discs.tracks]]
+title = "Starting the project"
+artist = "北宇治高校吹奏楽部 3年メンバー"
+
+[[discs.tracks]]
+title = "三日月の舞(short)"
+artist = "北宇治高校吹奏楽部 1年&2年メンバー"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム（久美子と二人きりVer.）"
+artist = "田中あすか"
+
+[[discs]]
+catalog = "LACA-9481"
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "Second project"
+artist = "松田彬人"
+
+[[discs.tracks]]
+title = "サウンドスケープ (TRUE & Wind Orchestra Ver.）"
+artist = "TRUE"
+type = "normal"
+
+[[discs.tracks]]
+title = "プロヴァンスの風（全国大会銅賞Ver.）"
+
+[[discs.tracks]]
+title = "三日月の舞（全国大会銅賞Ver.）"
+
+[[discs.tracks]]
+title = "ヴィヴァーチェ！ (Wind Orchestra Ver.）"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム (Wind Orchestra Ver.）"
