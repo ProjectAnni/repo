@@ -1,0 +1,112 @@
+[album]
+title = "アニメ『劇場版 響け！ユーフォニアム～誓いのフィナーレ～』オリジナルサウンドトラック The Endless Melody"
+artist = "松田彬人"
+date = 2019-05-22
+type = "absolute"
+catalog = "LACA-15780"
+
+[[discs]]
+catalog = "LACA-15780-01"
+
+[[discs.tracks]]
+title = "これが私の生きる道（Short-小編成 Ver.）"
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム（久美子 Solo Ver.）"
+artist = "黄前久美子"
+
+[[discs.tracks]]
+title = "新しい顔を迎えて"
+
+[[discs.tracks]]
+title = "決意を新たに"
+
+[[discs.tracks]]
+title = "そこはかとない不安"
+
+[[discs.tracks]]
+title = "気にかかる二人"
+
+[[discs.tracks]]
+title = "選ばないという選択"
+
+[[discs.tracks]]
+title = "Bolero"
+
+[[discs.tracks]]
+title = "Samba de Loves You（Short Ver.）"
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "愉快なチューバ（葉月Ver.）"
+artist = "加藤葉月"
+
+[[discs.tracks]]
+title = "綴られた想い"
+
+[[discs.tracks]]
+title = "接近する心と顔"
+
+[[discs.tracks]]
+title = "孤高のトランペット（夜空に向けて Ver.）"
+artist = "高坂麗奈"
+
+[[discs.tracks]]
+title = "リズと青い鳥 第3楽章からトランペットソロ（久美子のために Ver.）"
+artist = "高坂麗奈"
+
+[[discs.tracks]]
+title = "おだやかに楽器を置くとき"
+
+[[discs.tracks]]
+title = "もし結果が出ていなかったら"
+
+[[discs.tracks]]
+title = "雨の中、胸に刺さるとげ"
+
+[[discs.tracks]]
+title = "がんばるってなんですか？"
+
+[[discs.tracks]]
+title = "ハッピーアイスクリーム"
+
+[[discs.tracks]]
+title = "その日は来た"
+
+[[discs.tracks]]
+title = "リズと青い鳥 コンクール用編曲Ver."
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "そして、次の曲が始まる"
+
+[[discs]]
+catalog = "LACA-15780-02"
+artist = "北宇治高校吹奏楽部"
+
+[[discs.tracks]]
+title = "ラジオ体操第一"
+
+[[discs.tracks]]
+title = "これが私の生きる道（Full-大編成 Ver.）"
+
+[[discs.tracks]]
+title = "これが私の生きる道（Short-大編成 Ver.）"
+
+[[discs.tracks]]
+title = "主よ、人の望みの喜びよ（Clarinets Ver.）"
+
+[[discs.tracks]]
+title = "Samba de Loves You（Full Ver.）"
+
+[[discs.tracks]]
+title = "歌劇「トゥーランドット」より"
+
+[[discs.tracks]]
+title = "マーチ・スカイブルー・ドリーム"
+
+[[discs.tracks]]
+title = "Blast!（TRUE & Wind Orchestra Ver.）"
+artist = "TRUE"
+type = "normal"

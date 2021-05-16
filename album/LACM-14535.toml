@@ -1,0 +1,19 @@
+[album]
+title = "サウンドスケープ"
+artist = "TRUE"
+date = 2016-10-12
+type = "normal"
+catalog = "LACM-14535"
+
+[[discs]]
+catalog = "LACM-14535"
+
+[[discs.tracks]]
+title = "サウンドスケープ"
+
+[[discs.tracks]]
+title = "Hello,Good bye"
+
+[[discs.tracks]]
+title = "サウンドスケープ（off vocal）"
+type = "instrumental"

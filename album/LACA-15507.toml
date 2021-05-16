@@ -1,0 +1,42 @@
+[album]
+title = "TVアニメ『響け！ユーフォニアム』ドラマCD"
+artist = "響け！ユーフォニアム"
+date = 2015-08-19
+type = "drama"
+catalog = "LACA-15507"
+
+[[discs]]
+catalog = "LACA-15507"
+
+[[discs.tracks]]
+title = "乙女の負けられない戦い"
+
+[[discs.tracks]]
+title = "ララ、聞いちゃいました！その1"
+
+[[discs.tracks]]
+title = "滝昇の特別な一日"
+
+[[discs.tracks]]
+title = "ララ、聞いちゃいました！その2"
+
+[[discs.tracks]]
+title = "喧嘩するほど……？"
+
+[[discs.tracks]]
+title = "ララ、聞いちゃいました！その3"
+
+[[discs.tracks]]
+title = "マドンナだって！"
+
+[[discs.tracks]]
+title = "ララ、聞いちゃいました！その4"
+
+[[discs.tracks]]
+title = "コンバスくんのためなら！"
+
+[[discs.tracks]]
+title = "ララ、聞いちゃいました！その5"
+
+[[discs.tracks]]
+title = "夏の日、帰り道にて"

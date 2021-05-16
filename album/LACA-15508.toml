@@ -1,0 +1,24 @@
+[album]
+title = "TVアニメ『響け！ユーフォニアム』ラジオCD 響け！ユーフォラジオ"
+artist = "黄前久美子（黒沢ともよ）、加藤葉月（朝井彩加）、川島緑輝（豊田萌絵）、高坂麗奈（安済知佳）"
+date = 2015-08-19
+type = "radio"
+catalog = "LACA-15508"
+
+[[discs]]
+catalog = "LACA-15508"
+
+[[discs.tracks]]
+title = "オープニング"
+
+[[discs.tracks]]
+title = "オンリーロンリー発表会"
+
+[[discs.tracks]]
+title = "ソロパーソナリティー・オーディション"
+
+[[discs.tracks]]
+title = "●●の！響け！ユーフォラジオ！"
+
+[[discs.tracks]]
+title = "エンディング"

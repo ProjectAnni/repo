@@ -1,0 +1,27 @@
+[album]
+title = "TVアニメ『響け！ユーフォニアム』キャラクターソング Vol.1"
+artist = "黄前久美子（黒沢ともよ）"
+date = 2015-07-01
+type = "normal"
+catalog = "LACM-14364"
+
+[[discs]]
+catalog = "LACM-14364"
+
+[[discs.tracks]]
+title = "明日へのEuphony"
+
+[[discs.tracks]]
+title = "BrushUp × BrassUp"
+
+[[discs.tracks]]
+title = "北宇治四重奏 第1番 ユーフォニアム"
+type = "absolute"
+
+[[discs.tracks]]
+title = "明日へのEuphony (OFF VOCAL)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BrushUp × BrassUp (OFF VOCAL)"
+type = "instrumental"

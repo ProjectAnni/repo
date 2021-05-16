@@ -1,0 +1,23 @@
+[album]
+title = "ヴィヴァーチェ！"
+artist = "北宇治カルテット（黄前久美子（黒沢ともよ）、加藤葉月（朝井彩加）、川島緑輝（豊田萌絵）、高坂麗奈（安済知佳））"
+date = 2016-11-02
+type = "normal"
+catalog = "LACM-14548"
+
+[[discs]]
+catalog = "LACM-14548"
+
+[[discs.tracks]]
+title = "ヴィヴァーチェ！"
+
+[[discs.tracks]]
+title = "LINK UP!!!"
+
+[[discs.tracks]]
+title = "ヴィヴァーチェ！（OFF VOCAL）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "LINK UP!!!（OFF VOCAL）"
+type = "instrumental"
