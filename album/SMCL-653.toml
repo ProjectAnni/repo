@@ -1,0 +1,48 @@
+[album]
+title = "Agapanthus"
+artist = "麻倉もも"
+date = 2020-04-08
+type = "normal"
+catalog = "SMCL-653"
+
+[[discs]]
+catalog = "SMCL-653"
+
+[[discs.tracks]]
+title = "365×LOVE"
+
+[[discs.tracks]]
+title = "シュークリーム"
+
+[[discs.tracks]]
+title = "トキメキ・シンパシー"
+
+[[discs.tracks]]
+title = "スマッシュ・ドロップ"
+
+[[discs.tracks]]
+title = "Twinkle Love"
+
+[[discs.tracks]]
+title = "“さよなら”聞いて。"
+
+[[discs.tracks]]
+title = "秘密のアフレイド"
+
+[[discs.tracks]]
+title = "妄想メルヘンガール"
+
+[[discs.tracks]]
+title = "Shake it up!"
+
+[[discs.tracks]]
+title = "ユメシンデレラ"
+
+[[discs.tracks]]
+title = "さよなら観覧車 (Album ver.)"
+
+[[discs.tracks]]
+title = "今すぐに"
+
+[[discs.tracks]]
+title = "Agapanthus"
