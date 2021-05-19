@@ -1,0 +1,25 @@
+[album]
+title = "君という神話／Goodbye Seven Seas"
+artist = "やなぎなぎ"
+date = 2020-10-28
+type = "normal"
+catalog = "KSLA-0176"
+
+[[discs]]
+catalog = "KSLA-0176"
+
+[[discs.tracks]]
+title = "君という神話"
+
+[[discs.tracks]]
+title = "Goodbye Seven Seas"
+
+[[discs.tracks]]
+title = "君という神話 (Instrumental)"
+artist = "麻枝准"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Goodbye Seven Seas (Instrumental)"
+artist = "麻枝准"
+type = "instrumental"
