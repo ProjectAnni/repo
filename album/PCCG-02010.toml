@@ -1,0 +1,26 @@
+[album]
+title = "おもいでしりとり"
+artist = "DIALOGUE+"
+date = 2021-05-19
+type = "normal"
+catalog = "PCCG-02010"
+
+[[discs]]
+catalog = "PCCG-02010"
+
+[[discs.tracks]]
+title = "おもいでしりとり"
+
+[[discs.tracks]]
+title = "シュガーロケット"
+
+[[discs.tracks]]
+title = "おもいでしりとり（TVサイズ）"
+
+[[discs.tracks]]
+title = "おもいでしりとり（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シュガーロケット（Instrumental）"
+type = "instrumental"
