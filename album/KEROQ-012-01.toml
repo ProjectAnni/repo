@@ -1,0 +1,21 @@
+[album]
+title = "素晴らしき日々の主題歌『空気力学少女と少年の詩』"
+artist = "はな"
+date = 2010-05-03
+type = "normal"
+catalog = "KEROQ-012-01"
+
+[[discs]]
+catalog = "KEROQ-012-01"
+
+[[discs.tracks]]
+title = "空気力学少女と少年の詩"
+
+[[discs.tracks]]
+title = "終末の微笑"
+
+[[discs.tracks]]
+title = "呪われた生／祝福された生"
+
+[[discs.tracks]]
+title = "空気力学少女と少年の詩 -PianoVocalVer.-"

@@ -1,0 +1,21 @@
+[album]
+title = "素晴らしき日々の主題歌CDその2『ナグルファルの船上にて』"
+artist = "monet"
+date = 2010-05-03
+type = "normal"
+catalog = "KEROQ-013-01"
+
+[[discs]]
+catalog = "KEROQ-013-01"
+
+[[discs.tracks]]
+title = "ナグルファルの船上にて"
+
+[[discs.tracks]]
+title = "登れない坂道"
+
+[[discs.tracks]]
+title = "神と旋律"
+
+[[discs.tracks]]
+title = "鏡の世界には私しかいない-another version-"
