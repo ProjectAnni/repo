@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 02"
+artist = "Various Artists"
+date = 2021-01-23
+type = "instrumental"
+catalog = "LACZ-10045"
+
+[[discs]]
+catalog = "LACZ-10045"
+
+[[discs.tracks]]
+title = "アフタースクールパーリータイム"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "朝焼けのクレッシェンド"
+artist = "松田彬人"
+
+[[discs.tracks]]
+title = "ライアー・ルージュ"
+artist = "西添健（Arte Refact）"
+
+[[discs.tracks]]
+title = "Snow White"
+artist = "rino、増田武史"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "山口朗彦"
+
+[[discs.tracks]]
+title = "微笑み日和"
+artist = "福富雅之"
+
+[[discs.tracks]]
+title = "POKER POKER"
+artist = "橋本由香利"
+
+[[discs.tracks]]
+title = "Be My Boy"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "プライヴェイト・ロードショウ (playback, Weekday)"
+artist = "松田彬人"
+
+[[discs.tracks]]
+title = "Sentimental Venus"
+artist = "関野元規"

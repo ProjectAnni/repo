@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 03"
+artist = "Various Artists"
+date = 2021-02-26
+type = "instrumental"
+catalog = "LACZ-10049"
+
+[[discs]]
+catalog = "LACZ-10049"
+
+[[discs.tracks]]
+title = "恋のLesson初級編"
+artist = "nyanyannya（Team. ねこかん[猫]）"
+
+[[discs.tracks]]
+title = "FIND YOUR WIND！"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "追憶のサンドグラス"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "流星群"
+artist = "黒須克彦"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "マイペース☆マイウェイ"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "君想いBirthday"
+artist = "福富雅之"
+
+[[discs.tracks]]
+title = "ちいさな恋の足音"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "嘆きのFRACTION"
+artist = "藤本記子、福富雅之"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "藤本記子、福富雅之"

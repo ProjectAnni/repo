@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 04"
+artist = "Various Artists"
+date = 2021-02-26
+type = "instrumental"
+catalog = "LACZ-10050"
+
+[[discs]]
+catalog = "LACZ-10050"
+
+[[discs.tracks]]
+title = "ホップ♪ステップ♪レインボウ♪"
+artist = "三輪智也、炭竃智弘"
+
+[[discs.tracks]]
+title = "グッデイ・サンシャイン！"
+artist = "八尋春菜、KanadeYUK"
+
+[[discs.tracks]]
+title = "オリジナル声になって"
+artist = "関野元規"
+
+[[discs.tracks]]
+title = "ハートウォーミング"
+artist = "KanadeYUK"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡"
+artist = "川野勝広"
+
+[[discs.tracks]]
+title = "Helloコンチェルト"
+artist = "増谷賢、長田直之"
+
+[[discs.tracks]]
+title = "スマイルいちばん"
+artist = "サイトウヨシヒロ"
+
+[[discs.tracks]]
+title = "あのね、聞いてほしいことがあるんだ"
+artist = "藤本記子、福富雅之"
+
+[[discs.tracks]]
+title = "チョー↑元気Show☆アイドルch@ng!"
+artist = "バグベア"
+
+[[discs.tracks]]
+title = "GREEDY GIRL"
+artist = "藤本記子、福富雅之"

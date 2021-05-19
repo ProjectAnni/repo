@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 05"
+artist = "Various Artists"
+date = 2021-03-26
+type = "instrumental"
+catalog = "LACZ-10051"
+
+[[discs]]
+catalog = "LACZ-10051"
+
+[[discs.tracks]]
+title = "フェスタ・イルミネーション"
+artist = "関野元規"
+
+[[discs.tracks]]
+title = "ココロ☆エクササイズ"
+artist = "板垣祐介"
+
+[[discs.tracks]]
+title = "ハッピ～ エフェクト！"
+artist = "バグベア"
+
+[[discs.tracks]]
+title = "恋花"
+artist = "福富雅之"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス"
+artist = "野井洋児"
+
+[[discs.tracks]]
+title = "想いはCarnaval"
+artist = "吉川奏、白戸佑輔"
+
+[[discs.tracks]]
+title = "Get My Shinin’"
+artist = "関野元規"
+
+[[discs.tracks]]
+title = "FLY TO EVERYWHERE"
+artist = "石井伸昂、若林充"
+
+[[discs.tracks]]
+title = "DETECTIVE HIGH! ～恋探偵物語～"
+artist = "石井健太郎"
+
+[[discs.tracks]]
+title = "Fu-Wa-Du-Wa"
+artist = "関野元規"

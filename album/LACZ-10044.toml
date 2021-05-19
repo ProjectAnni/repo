@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 01"
+artist = "Various Artists"
+date = 2021-01-23
+type = "instrumental"
+catalog = "LACZ-10044"
+
+[[discs]]
+catalog = "LACZ-10044"
+
+[[discs.tracks]]
+title = "キラメキ進行形"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "透明なプロローグ"
+artist = "若林充"
+
+[[discs.tracks]]
+title = "トキメキの音符になって"
+artist = "岡本健介"
+
+[[discs.tracks]]
+title = "Maria Trap"
+artist = "三浦誠司"
+
+[[discs.tracks]]
+title = "Precious Grain"
+artist = "佐々木裕"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "白戸佑輔"
+
+[[discs.tracks]]
+title = "素敵なキセキ"
+artist = "岡本健介"
+
+[[discs.tracks]]
+title = "ハッピー☆ラッキー☆ジェットマシーン"
+artist = "江並哲志、佐々木裕"
+
+[[discs.tracks]]
+title = "Happy Darling"
+artist = "山元祐介"
+
+[[discs.tracks]]
+title = "オレンジの空の下"
+artist = "岡本健介、森谷敏紀"
+
+[[discs.tracks]]
+title = "Rebellion"
+artist = "前山田健一、石井健太郎"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER"
+artist = "矢鴇つかさ（Arte Refact）"

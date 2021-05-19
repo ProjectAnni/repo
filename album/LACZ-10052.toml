@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental 06"
+artist = "Various Artists"
+date = 2021-03-26
+type = "instrumental"
+catalog = "LACZ-10052"
+
+[[discs]]
+catalog = "LACZ-10052"
+
+[[discs.tracks]]
+title = "IMPRESSION→LOCOMOTION！"
+artist = "谷島俊"
+
+[[discs.tracks]]
+title = "恋心マスカレード"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "ハミングロード"
+artist = "KanadeYUK"
+
+[[discs.tracks]]
+title = "デコレーション・ドリ～ミンッ♪"
+artist = "増谷賢、長田直之"
+
+[[discs.tracks]]
+title = "ココロがかえる場所"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "Heart♡・デイズ・Night☆"
+artist = "バグベア"
+
+[[discs.tracks]]
+title = "微笑んだから、気づいたんだ。"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "dear..."
+artist = "KOH"
+
+[[discs.tracks]]
+title = "ビギナーズ☆ストライク"
+artist = "小野貴光、玉木千尋"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+artist = "高田暁"
