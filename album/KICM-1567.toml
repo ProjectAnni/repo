@@ -1,0 +1,21 @@
+[album]
+title = "エデン"
+artist = "水樹奈々"
+date = 2015-01-14
+type = "normal"
+catalog = "KICM-1567"
+
+[[discs]]
+catalog = "KICM-1567"
+
+[[discs.tracks]]
+title = "エデン"
+
+[[discs.tracks]]
+title = "No Limit"
+
+[[discs.tracks]]
+title = "終末のラブソング"
+
+[[discs.tracks]]
+title = "Necessary"

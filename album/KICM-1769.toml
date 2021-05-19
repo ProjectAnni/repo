@@ -1,0 +1,18 @@
+[album]
+title = "Destiny's Prelude"
+artist = "水樹奈々"
+date = 2017-07-19
+type = "normal"
+catalog = "KICM-1769"
+
+[[discs]]
+catalog = "KICM-1769"
+
+[[discs.tracks]]
+title = "Destiny's Prelude"
+
+[[discs.tracks]]
+title = "Invisible Heat"
+
+[[discs.tracks]]
+title = "Poison Lily"

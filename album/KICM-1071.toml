@@ -1,0 +1,30 @@
+[album]
+title = "New Sensation"
+artist = "水樹奈々"
+date = 2003-04-23
+type = "normal"
+catalog = "KICM-1071"
+
+[[discs]]
+catalog = "KICM-1071"
+
+[[discs.tracks]]
+title = "New Sensation"
+
+[[discs.tracks]]
+title = "リプレイマシン -custom-"
+
+[[discs.tracks]]
+title = "HONEY FLOWER"
+
+[[discs.tracks]]
+title = "New Sensation (OFF VOCAL VERSION)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リプレイマシン -custom- (OFF VOCAL VERSION)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "HONEY FLOWER (OFF VOCAL VERSION)"
+type = "instrumental"

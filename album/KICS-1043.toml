@@ -1,0 +1,54 @@
+[album]
+title = "DREAM SKIPPER"
+artist = "水樹奈々"
+date = 2003-11-27
+type = "normal"
+catalog = "KICS-1043"
+
+[[discs]]
+catalog = "KICS-1043"
+
+[[discs.tracks]]
+title = "宝物"
+
+[[discs.tracks]]
+title = "BE READY！"
+
+[[discs.tracks]]
+title = "Keep your hands in the air"
+
+[[discs.tracks]]
+title = "still in the groove"
+
+[[discs.tracks]]
+title = "砂漠の海"
+
+[[discs.tracks]]
+title = "Dear to me"
+
+[[discs.tracks]]
+title = "What cheer？"
+
+[[discs.tracks]]
+title = "JET PARK"
+
+[[discs.tracks]]
+title = "White Lie"
+
+[[discs.tracks]]
+title = "Nocturne-revision-"
+
+[[discs.tracks]]
+title = "ひまわり"
+
+[[discs.tracks]]
+title = "恋してる..."
+
+[[discs.tracks]]
+title = "in a fix"
+
+[[discs.tracks]]
+title = "New Sensation"
+
+[[discs.tracks]]
+title = "refrain-classico-"

@@ -1,0 +1,23 @@
+[album]
+title = "POWER GATE"
+artist = "水樹奈々"
+date = 2002-05-01
+type = "normal"
+catalog = "KICM-1048"
+
+[[discs]]
+catalog = "KICM-1048"
+
+[[discs.tracks]]
+title = "POWER GATE"
+
+[[discs.tracks]]
+title = "おんなになあれ"
+
+[[discs.tracks]]
+title = "POWER GATE (Vocalless Ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おんなになあれ (Vocalless Ver.)"
+type = "instrumental"

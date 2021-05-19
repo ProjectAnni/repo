@@ -1,0 +1,18 @@
+[album]
+title = "純潔パラドックス"
+artist = "水樹奈々"
+date = 2011-08-03
+type = "normal"
+catalog = "KICM-1353"
+
+[[discs]]
+catalog = "KICM-1353"
+
+[[discs.tracks]]
+title = "純潔パラドックス"
+
+[[discs.tracks]]
+title = "7COLORS"
+
+[[discs.tracks]]
+title = "Stay Gold"

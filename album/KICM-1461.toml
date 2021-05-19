@@ -1,0 +1,18 @@
+[album]
+title = "Vitalization"
+artist = "水樹奈々"
+date = 2013-07-31
+type = "normal"
+catalog = "KICM-1461"
+
+[[discs]]
+catalog = "KICM-1461"
+
+[[discs.tracks]]
+title = "Vitalization"
+
+[[discs.tracks]]
+title = "愛の星"
+
+[[discs.tracks]]
+title = "ドラマティックラブ"

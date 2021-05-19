@@ -1,0 +1,22 @@
+[album]
+title = "WONDER QUEST EP"
+artist = "水樹奈々"
+date = 2018-09-26
+type = "normal"
+catalog = "KICM-1888"
+
+[[discs]]
+catalog = "KICM-1888"
+
+[[discs.tracks]]
+title = "WHAT YOU WANT"
+
+[[discs.tracks]]
+title = "結界"
+artist = "水樹奈々、宮野真守"
+
+[[discs.tracks]]
+title = "Birth of Legend"
+
+[[discs.tracks]]
+title = "Hungry Hungry"

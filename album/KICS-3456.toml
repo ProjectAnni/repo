@@ -1,0 +1,54 @@
+[album]
+title = "NEOGENE CREATION"
+artist = "水樹奈々"
+date = 2016-12-21
+type = "normal"
+catalog = "KICS-3456"
+
+[[discs]]
+catalog = "KICS-3456"
+
+[[discs.tracks]]
+title = "めぐり逢うすべてに"
+
+[[discs.tracks]]
+title = "STAND UP！"
+
+[[discs.tracks]]
+title = "Please Download"
+
+[[discs.tracks]]
+title = "ALONE ARROWS"
+
+[[discs.tracks]]
+title = "TWIST&TIGER"
+
+[[discs.tracks]]
+title = "Rock Ride Riot"
+
+[[discs.tracks]]
+title = "はつ恋"
+
+[[discs.tracks]]
+title = "JEWEL"
+
+[[discs.tracks]]
+title = "UNLIMITED BEAT"
+
+[[discs.tracks]]
+title = "WAKE UP THE SOULS"
+
+[[discs.tracks]]
+title = "STARTING NOW！"
+
+[[discs.tracks]]
+title = "GLORIA"
+
+[[discs.tracks]]
+title = "RODEO COWGIRL"
+
+[[discs.tracks]]
+title = "君よ叫べ"
+
+[[discs.tracks]]
+title = "絶対的幸福論"

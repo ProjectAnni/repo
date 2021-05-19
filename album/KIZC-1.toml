@@ -1,0 +1,51 @@
+[album]
+title = "HYBRID UNIVERSE"
+artist = "水樹奈々"
+date = 2006-05-03
+type = "normal"
+catalog = "KIZC-1"
+
+[[discs]]
+catalog = "KIZC-1"
+
+[[discs.tracks]]
+title = "残光のガイア"
+
+[[discs.tracks]]
+title = "Faith"
+
+[[discs.tracks]]
+title = "WILD EYES"
+
+[[discs.tracks]]
+title = "You have a dream"
+
+[[discs.tracks]]
+title = "BRAVE PHOENIX"
+
+[[discs.tracks]]
+title = "星空と月と花火の下"
+
+[[discs.tracks]]
+title = "SUPER GENERATION"
+
+[[discs.tracks]]
+title = "NAKED FEELS"
+
+[[discs.tracks]]
+title = "Love Trippin'"
+
+[[discs.tracks]]
+title = "Late Summer Tale"
+
+[[discs.tracks]]
+title = "Violetta"
+
+[[discs.tracks]]
+title = "PRIMAL AFFECTION"
+
+[[discs.tracks]]
+title = "ひとつだけ誓えるなら"
+
+[[discs.tracks]]
+title = "ETERNAL BLAZE"

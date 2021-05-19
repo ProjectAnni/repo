@@ -1,0 +1,51 @@
+[album]
+title = "ALIVE&KICKING"
+artist = "水樹奈々"
+date = 2004-12-08
+type = "normal"
+catalog = "KICS-1125"
+
+[[discs]]
+catalog = "KICS-1125"
+
+[[discs.tracks]]
+title = "ミラクル☆フライト"
+
+[[discs.tracks]]
+title = "innocent starter"
+
+[[discs.tracks]]
+title = "FAKE ANGEL"
+
+[[discs.tracks]]
+title = "大好きな君へ"
+
+[[discs.tracks]]
+title = "Tears' Night"
+
+[[discs.tracks]]
+title = "そよ風に吹かれて..."
+
+[[discs.tracks]]
+title = "Independent Love Song"
+
+[[discs.tracks]]
+title = "Take a shot"
+
+[[discs.tracks]]
+title = "パノラマ-Panorama-"
+
+[[discs.tracks]]
+title = "JUMP！"
+
+[[discs.tracks]]
+title = "cherish"
+
+[[discs.tracks]]
+title = "It's in the bag"
+
+[[discs.tracks]]
+title = "Abilities"
+
+[[discs.tracks]]
+title = "M・A・M・A"

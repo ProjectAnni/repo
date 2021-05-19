@@ -1,0 +1,18 @@
+[album]
+title = "STARTING NOW！"
+artist = "水樹奈々"
+date = 2016-07-13
+type = "normal"
+catalog = "KICM-1690"
+
+[[discs]]
+catalog = "KICM-1690"
+
+[[discs.tracks]]
+title = "STARTING NOW！"
+
+[[discs.tracks]]
+title = "アンティフォーナ"
+
+[[discs.tracks]]
+title = "恋想花火"

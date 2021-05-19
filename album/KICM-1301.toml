@@ -1,0 +1,21 @@
+[album]
+title = "Silent Bible"
+artist = "水樹奈々"
+date = 2010-02-10
+type = "normal"
+catalog = "KICM-1301"
+
+[[discs]]
+catalog = "KICM-1301"
+
+[[discs.tracks]]
+title = "Silent Bible"
+
+[[discs.tracks]]
+title = "Polaris"
+
+[[discs.tracks]]
+title = "UNCHAIN∞WORLD"
+
+[[discs.tracks]]
+title = "undercover"

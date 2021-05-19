@@ -1,0 +1,18 @@
+[album]
+title = "Exterminate"
+artist = "水樹奈々"
+date = 2015-07-22
+type = "normal"
+catalog = "KICM-1609"
+
+[[discs]]
+catalog = "KICM-1609"
+
+[[discs.tracks]]
+title = "Exterminate"
+
+[[discs.tracks]]
+title = "ブランブル"
+
+[[discs.tracks]]
+title = "It's Only Brave"

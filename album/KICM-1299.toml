@@ -1,0 +1,21 @@
+[album]
+title = "PHANTOM MINDS"
+artist = "水樹奈々"
+date = 2010-01-13
+type = "normal"
+catalog = "KICM-1299"
+
+[[discs]]
+catalog = "KICM-1299"
+
+[[discs.tracks]]
+title = "PHANTOM MINDS"
+
+[[discs.tracks]]
+title = "Don’t be long"
+
+[[discs.tracks]]
+title = "Song Communication"
+
+[[discs.tracks]]
+title = "十字架のスプレッド"

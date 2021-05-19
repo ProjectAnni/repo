@@ -1,0 +1,23 @@
+[album]
+title = "Justice to Believe／アオイイロ"
+artist = "水樹奈々"
+date = 2006-11-15
+type = "normal"
+catalog = "KICM-1185"
+
+[[discs]]
+catalog = "KICM-1185"
+
+[[discs.tracks]]
+title = "Justice to Believe"
+
+[[discs.tracks]]
+title = "アオイイロ"
+
+[[discs.tracks]]
+title = "Justice to Believe（without NANA）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アオイイロ（without NANA）"
+type = "instrumental"

@@ -1,0 +1,18 @@
+[album]
+title = "Synchrogazer"
+artist = "水樹奈々"
+date = 2012-01-11
+type = "normal"
+catalog = "KICM-1377"
+
+[[discs]]
+catalog = "KICM-1377"
+
+[[discs.tracks]]
+title = "Synchrogazer"
+
+[[discs.tracks]]
+title = "Love Brick"
+
+[[discs.tracks]]
+title = "理想論"

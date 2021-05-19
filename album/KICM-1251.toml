@@ -1,0 +1,18 @@
+[album]
+title = "Trickster"
+artist = "水樹奈々"
+date = 2008-10-01
+type = "normal"
+catalog = "KICM-1251"
+
+[[discs]]
+catalog = "KICM-1251"
+
+[[discs.tracks]]
+title = "Trickster"
+
+[[discs.tracks]]
+title = "DISCOTHEQUE"
+
+[[discs.tracks]]
+title = "Trinity Cross"

@@ -1,0 +1,19 @@
+[album]
+title = "Heaven Knows"
+artist = "水樹奈々"
+date = 2001-04-25
+type = "normal"
+catalog = "KICM-1019"
+
+[[discs]]
+catalog = "KICM-1019"
+
+[[discs.tracks]]
+title = "Heaven Knows"
+
+[[discs.tracks]]
+title = "Look Away"
+
+[[discs.tracks]]
+title = "Heaven Knows（Vocalless ver.）"
+type = "instrumental"

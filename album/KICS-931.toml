@@ -1,0 +1,45 @@
+[album]
+title = "supersonic girl"
+artist = "水樹奈々"
+date = 2001-12-05
+type = "normal"
+catalog = "KICS-931"
+
+[[discs]]
+catalog = "KICS-931"
+
+[[discs.tracks]]
+title = "Love's Wonderland"
+
+[[discs.tracks]]
+title = "The place of happiness"
+
+[[discs.tracks]]
+title = "supersonic girl"
+
+[[discs.tracks]]
+title = "Heaven Knows ～Brave edit～"
+
+[[discs.tracks]]
+title = "想い ～Pedigreed mix～"
+
+[[discs.tracks]]
+title = "Look Away ～All together version～"
+
+[[discs.tracks]]
+title = "TRANSMIGRATION"
+
+[[discs.tracks]]
+title = "LOOKING ON THE MOON"
+
+[[discs.tracks]]
+title = "真冬の観覧車"
+
+[[discs.tracks]]
+title = "NANA色のように ～Special album version～"
+
+[[discs.tracks]]
+title = "水中の青空"
+
+[[discs.tracks]]
+title = "WINDOW OF HEART"

@@ -1,0 +1,54 @@
+[album]
+title = "MAGIC ATTRACTION"
+artist = "水樹奈々"
+date = 2002-11-06
+type = "normal"
+catalog = "KICS-979"
+
+[[discs]]
+catalog = "KICS-979"
+
+[[discs.tracks]]
+title = "THEME OF MAGIC ATTRACTION"
+
+[[discs.tracks]]
+title = "through the night"
+
+[[discs.tracks]]
+title = "PROTECTION"
+
+[[discs.tracks]]
+title = "二人のMemory"
+
+[[discs.tracks]]
+title = "フリースタイル"
+
+[[discs.tracks]]
+title = "STAND"
+
+[[discs.tracks]]
+title = "deep sea"
+
+[[discs.tracks]]
+title = "suddenly ～巡り合えて～"
+
+[[discs.tracks]]
+title = "オルゴールとピアノと -holy style-"
+
+[[discs.tracks]]
+title = "LOVE&HISTORY"
+
+[[discs.tracks]]
+title = "ジュリエット"
+
+[[discs.tracks]]
+title = "climb up"
+
+[[discs.tracks]]
+title = "Brilliant Star"
+
+[[discs.tracks]]
+title = "POWER GATE"
+
+[[discs.tracks]]
+title = "あの日夢見た願い"
