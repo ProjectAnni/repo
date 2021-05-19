@@ -1,0 +1,41 @@
+[album]
+title = "Summer Pockets ドラマCDコレクション"
+artist = "Key Sounds Label"
+date = 2018-12-29
+type = "drama"
+catalog = "KSLA-0155~9"
+
+[[discs]]
+catalog = "KSLA-0155"
+
+[[discs.tracks]]
+title = "新婚さまいらっしゃい"
+artist = "鳴瀬しろは（小原好美）"
+
+[[discs]]
+catalog = "KSLA-0156"
+
+[[discs.tracks]]
+title = "駄菓子屋看板娘育成計画"
+artist = "空門蒼（高森奈津美）"
+
+[[discs]]
+catalog = "KSLA-0157"
+
+[[discs.tracks]]
+title = "かもめたちの夜 ～ピンクの栞～"
+artist = "久島鴎（嶺内ともみ）"
+
+[[discs]]
+catalog = "KSLA-0158"
+
+[[discs.tracks]]
+title = "灯台もと暮らし"
+artist = "紬ヴェンダース（岩井映美里）"
+
+[[discs]]
+catalog = "KSLA-0159"
+
+[[discs.tracks]]
+title = "うみのチャーハン伝説"
+artist = "加藤羽未（田中あいみ）"

@@ -1,0 +1,45 @@
+[album]
+title = "Summer Pockets Orchestara Album 『Echoes of Summer』"
+artist = "Key Sounds Label"
+date = 2019-07-27
+type = "absolute"
+catalog = "KSLA-0162"
+
+[[discs]]
+catalog = "KSLA-0162"
+
+[[discs.tracks]]
+title = "Summer Pockets"
+
+[[discs.tracks]]
+title = "アルカテイル - Instrument -"
+
+[[discs.tracks]]
+title = "Sea,You & Me"
+
+[[discs.tracks]]
+title = "蝉声とともに ～ 夏休みの過ごし方 ～ 坂の上の陽炎 ～"
+
+[[discs.tracks]]
+title = "White with You"
+
+[[discs.tracks]]
+title = "Golden Hours"
+
+[[discs.tracks]]
+title = "虹の蝶 ～ かの記憶、あの記憶"
+
+[[discs.tracks]]
+title = "紬の夏休み - Instrument -"
+
+[[discs.tracks]]
+title = "Lasting Moment - Instrument -"
+
+[[discs.tracks]]
+title = "夜奏花 - Instrument -"
+
+[[discs.tracks]]
+title = "羽のゆりかご - Instrument -"
+
+[[discs.tracks]]
+title = "ポケットをふくらませて - Instrument -"
