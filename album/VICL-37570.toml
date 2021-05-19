@@ -1,0 +1,23 @@
+[album]
+title = "Beautiful World／HYBRID"
+artist = "Ray（エリザ（花澤香菜）、クロエ（南條愛乃）、あんじぇ（雨宮夕夏）、カミラ（上坂すみれ）、ユズリハ（佐倉綾音））"
+date = 2020-11-25
+type = "normal"
+catalog = "VICL-37570"
+
+[[discs]]
+catalog = "VICL-37570"
+
+[[discs.tracks]]
+title = "Beautiful World"
+
+[[discs.tracks]]
+title = "HYBRID"
+
+[[discs.tracks]]
+title = "Beautiful World -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "HYBRID -OFF VOCAL-"
+type = "instrumental"
