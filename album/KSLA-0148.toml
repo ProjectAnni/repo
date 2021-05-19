@@ -1,0 +1,43 @@
+[album]
+title = "Summer Pockets Arrange Album “Swallow Tale”"
+artist = "Key Sounds Label"
+date = 2018-06-29
+type = "absolute"
+catalog = "KSLA-0148"
+
+[[discs]]
+catalog = "KSLA-0148"
+
+[[discs.tracks]]
+title = "Sea,You & Me - Fiesta Version -"
+artist = "麻枝准"
+
+[[discs.tracks]]
+title = "Other side Blue - Deep Blue Version -"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Golden Hours - Harvest Version -"
+artist = "竹下智博"
+
+[[discs.tracks]]
+title = "White with You - Piano Duet -"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "かの記憶、あの記憶 - Blind Spot Version -"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "紬の夏休み - Sunset Lighthouse Version -"
+artist = "紬ヴェンダース（岩井映美里）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Adventure for Black - Wavelet Version -"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "アルカテイル - Acid Blue Remix -"
+artist = "鈴木このみ"
+type = "normal"

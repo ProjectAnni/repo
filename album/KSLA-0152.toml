@@ -1,0 +1,65 @@
+[album]
+title = "Summer Pockets キャラクターソング 『Sing!』"
+artist = "Key Sounds Label"
+date = 2018-12-29
+type = "normal"
+catalog = "KSLA-0152"
+
+[[discs]]
+catalog = "KSLA-0152"
+
+[[discs.tracks]]
+title = "夏に君を待ちながら"
+artist = "鳴瀬しろは（小原好美）"
+
+[[discs.tracks]]
+title = "比翼の蝶たち"
+artist = "空門蒼（高森奈津美）"
+
+[[discs.tracks]]
+title = "Departure！"
+artist = "久島鴎（嶺内ともみ）"
+
+[[discs.tracks]]
+title = "Golden Hours"
+artist = "紬ヴェンダース（岩井映美里）"
+
+[[discs.tracks]]
+title = "with"
+artist = "久島鴎（嶺内ともみ）"
+
+[[discs.tracks]]
+title = "Little Diary"
+artist = "北沢綾香"
+
+[[discs.tracks]]
+title = "サマーテイル"
+artist = "YURiKA"
+
+[[discs.tracks]]
+title = "夏に君を待ちながら（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "比翼の蝶たち（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Departure！（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Golden Hours（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "with（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Little Diary（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サマーテイル（Instrumental）"
+type = "instrumental"

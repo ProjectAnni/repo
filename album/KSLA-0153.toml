@@ -1,0 +1,33 @@
+[album]
+title = 'Summer Pockets Arrange Album "Summer Session ～ひと夏の冒険～"'
+artist = "gaQdan"
+date = 2018-12-29
+type = "absolute"
+catalog = "KSLA-0153"
+
+[[discs]]
+catalog = "KSLA-0153"
+
+[[discs.tracks]]
+title = "花ひらく旅立ち - ある仮定、瑠璃色の物語"
+
+[[discs.tracks]]
+title = "朝霧のむこう、輝く景色"
+
+[[discs.tracks]]
+title = "猫に導かれて"
+
+[[discs.tracks]]
+title = "木漏れ日のさす小道を進んだ先に"
+
+[[discs.tracks]]
+title = "広がる海、水平線とカモメ"
+
+[[discs.tracks]]
+title = "砂浜につけた足跡は波がさらって"
+
+[[discs.tracks]]
+title = "大切なものは心に残るだろう"
+
+[[discs.tracks]]
+title = "それは明日の自分のへの贈り物"

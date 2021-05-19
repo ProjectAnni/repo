@@ -1,0 +1,29 @@
+[album]
+title = "アルカテイル"
+artist = "鈴木このみ"
+date = 2018-03-28
+type = "normal"
+catalog = "KSLM-0146"
+
+[[discs]]
+catalog = "KSLM-0146"
+
+[[discs.tracks]]
+title = "アルカテイル"
+
+[[discs.tracks]]
+title = "アルカテイル (Game Size)"
+
+[[discs.tracks]]
+title = "アルカテイル (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Summer Pockets BGM 1"
+artist = "Key Sounds Label"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Summer Pockets BGM 2"
+artist = "Key Sounds Label"
+type = "absolute"

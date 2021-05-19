@@ -1,0 +1,57 @@
+[album]
+title = "Summer Pockets Arrange Album 『Seven's sea』"
+artist = "Key Sounds Label"
+date = 2019-04-29
+type = "normal"
+catalog = "KSLA-0161"
+
+[[discs]]
+catalog = "KSLA-0161"
+
+[[discs.tracks]]
+title = "Sea,Your Memory (LU-I remix)"
+type = "absolute"
+
+[[discs.tracks]]
+title = "チャーハン・ラプソディ"
+artist = "加藤うみ（田中あいみ）"
+
+[[discs.tracks]]
+title = "紬の夏休み (溝口ゆうま Remix)"
+artist = "紬ヴェンダース（岩井映美里）"
+
+[[discs.tracks]]
+title = "Splash Shooter"
+artist = "水谷瑠奈（NanosizeMir）"
+
+[[discs.tracks]]
+title = "Silhouette"
+artist = "北沢綾香"
+
+[[discs.tracks]]
+title = "ひと夏のたわむれ (Concerto Beats Remix)"
+type = "absolute"
+
+[[discs.tracks]]
+title = "夜奏花 (Freezer Remix)"
+artist = "YURiKA"
+
+[[discs.tracks]]
+title = "Lasting Moment (Return of the 00's Remix)"
+artist = "鈴木このみ"
+
+[[discs.tracks]]
+title = "かの記憶、あの記憶 (Metal Remix)"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ポケットをふくらませて (100-200+tanigon remix)"
+artist = "rionos"
+
+[[discs.tracks]]
+title = "羽のゆりかご (HN Mellow Remix)"
+artist = "水谷瑠奈（NanosizeMir）"
+
+[[discs.tracks]]
+title = "アルカテイル (Taishi Remix)"
+artist = "鈴木このみ"
