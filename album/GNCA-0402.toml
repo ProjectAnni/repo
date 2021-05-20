@@ -1,0 +1,35 @@
+[album]
+title = "ときめきポポロン♪"
+artist = "チマメ隊"
+date = 2015-11-11
+type = "normal"
+catalog = "GNCA-0402"
+
+[[discs]]
+catalog = "GNCA-0402"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪"
+
+[[discs.tracks]]
+title = "ときめきLOOPにのって"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪～チノVer.～"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪～マヤVer.～"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪～メグVer.～"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ときめきLOOPにのって (Instrumental)"
+type = "instrumental"

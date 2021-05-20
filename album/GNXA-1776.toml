@@ -1,0 +1,16 @@
+[album]
+title = "本日は誠にラリルレイン"
+artist = "Petit Rabbit's with beans"
+date = 2016-06-03
+type = "normal"
+catalog = "GNXA-1776"
+
+[[discs]]
+catalog = "GNXA-1776"
+
+[[discs.tracks]]
+title = "本日は誠にラリルレイン"
+
+[[discs.tracks]]
+title = "本日は誠にラリルレイン (Instrumental)"
+type = "instrumental"

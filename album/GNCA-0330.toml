@@ -1,0 +1,23 @@
+[album]
+title = "Daydream café"
+artist = "Petit Rabbit's"
+date = 2014-05-28
+type = "normal"
+catalog = "GNCA-0330"
+
+[[discs]]
+catalog = "GNCA-0330"
+
+[[discs.tracks]]
+title = "Daydream café"
+
+[[discs.tracks]]
+title = "日常デコレーション"
+
+[[discs.tracks]]
+title = "Daydream café (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "日常デコレーション (Instrumental)"
+type = "instrumental"

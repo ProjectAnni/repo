@@ -1,0 +1,34 @@
+[album]
+title = "宝箱のジェットコースター"
+artist = "Petit Rabbit's"
+date = 2015-07-01
+type = "normal"
+catalog = "GNCA-0390"
+
+[[discs]]
+catalog = "GNCA-0390"
+
+[[discs.tracks]]
+title = "宝箱のジェットコースター"
+
+[[discs.tracks]]
+title = "チョコリズムチョコルール"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "月夜にお砂糖星"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "宝箱のジェットコースター (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チョコリズムチョコルール (Instrumental)"
+artist = "ココア（佐倉綾音）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "月夜にお砂糖星 (Instrumental)"
+artist = "千夜（佐藤聡美）"
+type = "instrumental"

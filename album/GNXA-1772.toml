@@ -1,0 +1,16 @@
+[album]
+title = "冷静とモフモフの国境線"
+artist = "リゼ（種田梨沙）"
+date = 2016-02-14
+type = "normal"
+catalog = "GNXA-1772"
+
+[[discs]]
+catalog = "GNXA-1772"
+
+[[discs.tracks]]
+title = "冷静とモフモフの国境線"
+
+[[discs.tracks]]
+title = "冷静とモフモフの国境線 (Instrumental)"
+type = "instrumental"

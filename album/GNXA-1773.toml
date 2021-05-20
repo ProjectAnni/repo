@@ -1,0 +1,16 @@
+[album]
+title = "Sister or Sister?"
+artist = "ココア（佐倉綾音）、モカ（茅野愛衣）"
+date = 2016-03-09
+type = "normal"
+catalog = "GNXA-1773"
+
+[[discs]]
+catalog = "GNXA-1773"
+
+[[discs.tracks]]
+title = "Sister or Sister?"
+
+[[discs.tracks]]
+title = "Sister or Sister? (Instrumental)"
+type = "instrumental"

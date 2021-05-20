@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 08"
+artist = "リゼ（種田梨沙）"
+date = 2018-11-21
+type = "normal"
+catalog = "GNCA-0553"
+
+[[discs]]
+catalog = "GNCA-0553"
+
+[[discs.tracks]]
+title = "0時過ぎのWonder Cocktail"
+
+[[discs.tracks]]
+title = "無敵のMidnight crew"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～リゼ Ver.～"
+
+[[discs.tracks]]
+title = "0時過ぎのWonder Cocktail (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "無敵のMidnight crew (Instrumental)"
+type = "instrumental"

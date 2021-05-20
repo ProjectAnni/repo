@@ -1,0 +1,45 @@
+[album]
+title = "セカイがカフェになっちゃった！Special CD"
+artist = "Various Artists"
+date = 2018-05-30
+type = "normal"
+catalog = "GNXA-1217-01"
+
+[[discs]]
+catalog = "GNXA-1217-01"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～Petit Rabbit's Ver.～"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～チマメ隊 Ver.～"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～ココア Ver.～"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～チノ Ver.～"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～リゼ Ver.～"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～千夜 Ver.～"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～シャロ Ver.～"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～マヤ Ver.～"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！～メグ Ver.～"
+artist = "メグ（村川梨衣）"

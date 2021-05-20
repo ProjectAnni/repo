@@ -1,0 +1,12 @@
+[album]
+title = 'ご注文はうさぎですか?? 〜Sing For You〜  Mini DJCD "Mix For You"'
+artist = "PandaBoY"
+date = 2019-09-26
+type = "normal"
+catalog = "GNXA-1219"
+
+[[discs]]
+catalog = "GNXA-1219"
+
+[[discs.tracks]]
+title = 'Mini DJCD "Mix For You"'

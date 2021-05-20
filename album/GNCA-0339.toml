@@ -1,0 +1,34 @@
+[album]
+title = "TVアニメ「ご注文はうさぎですか？」キャラクターソング③"
+artist = "千夜（佐藤聡美）、シャロ（内田真礼）"
+date = 2014-07-24
+type = "normal"
+catalog = "GNCA-0339"
+
+[[discs]]
+catalog = "GNCA-0339"
+
+[[discs.tracks]]
+title = "ずっと一緒"
+
+[[discs.tracks]]
+title = "色葉おしながき"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "ときめきミルフィーユ"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "ずっと一緒 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "色葉おしながき (Instrumental)"
+artist = "千夜（佐藤聡美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ときめきミルフィーユ (Instrumental)"
+artist = "シャロ（内田真礼）"
+type = "instrumental"

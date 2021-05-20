@@ -1,0 +1,49 @@
+[album]
+title = "ご注文はうさぎですか？バラードソングアルバム Blend of Letters"
+artist = "Various Artists"
+date = 2020-09-09
+type = "normal"
+catalog = "GNCA-1567"
+
+[[discs]]
+catalog = "GNCA-1567"
+
+[[discs.tracks]]
+title = "ボトルシップの旅"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "わくわく魔法のチカラ"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "文色徒然"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "空色サロン"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "紙ヒコーキレター"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "あこがれプリーツ♡"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "頼れる私でいられるように"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "おかえりなさい～Dear my sister～"
+artist = "モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "風の便り"
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "Growth Record"
+artist = "タカヒロ（速水奨）"

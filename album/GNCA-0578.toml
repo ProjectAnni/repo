@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 08"
+artist = "メグ（村川梨衣）"
+date = 2019-11-02
+type = "normal"
+catalog = "GNCA-0578"
+
+[[discs]]
+catalog = "GNCA-0578"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～メグ Ver.～"
+
+[[discs.tracks]]
+title = "秋色かくれんぼ"
+
+[[discs.tracks]]
+title = "チャイム♪タイムカプセル"
+
+[[discs.tracks]]
+title = "秋色かくれんぼ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チャイム♪タイムカプセル (Instrumental)"
+type = "instrumental"

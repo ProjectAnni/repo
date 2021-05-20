@@ -1,0 +1,34 @@
+[album]
+title = "TVアニメ「ご注文はうさぎですか？」キャラクターソング②"
+artist = "ココア（佐倉綾音）、リゼ（種田梨沙）"
+date = 2014-06-20
+type = "normal"
+catalog = "GNCA-0338"
+
+[[discs]]
+catalog = "GNCA-0338"
+
+[[discs.tracks]]
+title = "Rabbit Hole"
+
+[[discs.tracks]]
+title = "スマイルメーカー"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "Love & Gun"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "Rabbit Hole (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スマイルメーカー (Instrumental)"
+artist = "ココア（佐倉綾音）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Love & Gun (Instrumental)"
+artist = "リゼ（種田梨沙）"
+type = "instrumental"

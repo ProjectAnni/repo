@@ -1,0 +1,34 @@
+[album]
+title = "TVアニメ「ご注文はうさぎですか？」キャラクターソング①"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）"
+date = 2014-06-20
+type = "normal"
+catalog = "GNCA-0337"
+
+[[discs]]
+catalog = "GNCA-0337"
+
+[[discs.tracks]]
+title = "全天候型いらっしゃいませ"
+
+[[discs.tracks]]
+title = "ハミングsoon！"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "a cup of happiness"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "全天候型いらっしゃいませ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハミングsoon！(Instrumental)"
+artist = "ココア（佐倉綾音）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "a cup of happiness (Instrumental)"
+artist = "チノ（水瀬いのり）"
+type = "instrumental"

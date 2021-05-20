@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 07"
+artist = "千夜 (佐藤聡美)"
+date = 2016-10-26
+type = "normal"
+catalog = "GNCA-0457"
+
+[[discs]]
+catalog = "GNCA-0457"
+
+[[discs.tracks]]
+title = "ハートふるムーン"
+
+[[discs.tracks]]
+title = "甘美コラボレーション"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】千夜Ver."
+
+[[discs.tracks]]
+title = "ハートふるムーン (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "甘美コラボレーション (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,43 @@
+[album]
+title = "天空カフェテリア"
+artist = "Petit Rabbit's"
+date = 2020-10-28
+type = "normal"
+catalog = "GNCA-0620"
+
+[[discs]]
+catalog = "GNCA-0620"
+
+[[discs.tracks]]
+title = "天空カフェテリア"
+
+[[discs.tracks]]
+title = "ユメ＜ウツツ→ハッピータイム"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～ココアVer.～"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～チノVer.～"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～リゼVer.～"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～千夜Ver.～"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～シャロVer.～"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "天空カフェテリア (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ユメ＜ウツツ→ハッピータイム (Instrumental)"
+type = "instrumental"

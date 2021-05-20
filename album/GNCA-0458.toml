@@ -1,0 +1,35 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 08"
+artist = "青山ブルーマウンテン（早見沙織）、モカ（茅野愛衣）"
+date = 2016-10-26
+type = "normal"
+catalog = "GNCA-0458"
+
+[[discs]]
+catalog = "GNCA-0458"
+
+[[discs.tracks]]
+title = "きらめきを探しに"
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "おいしいパンの作り方"
+artist = "モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】青山ブルーマウンテンVer."
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】モカVer."
+artist = "モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "きらめきを探しに (Instrumental)"
+artist = "青山ブルーマウンテン（早見沙織）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おいしいパンの作り方 (Instrumental)"
+artist = "モカ（茅野愛衣）"
+type = "instrumental"

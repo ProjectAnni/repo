@@ -1,0 +1,104 @@
+[album]
+title = "order the songs2"
+artist = "Various Artists"
+date = 2017-12-22
+type = "normal"
+catalog = "GNCA-1517"
+
+[[discs]]
+catalog = "GNCA-1517-01"
+
+[[discs.tracks]]
+title = "ノーポイッ！"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "ときめきLOOPにのって"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "きらきら印を見つけたら"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "お菓子な夢をおひとつどうぞ♪"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "鏡合わせのアンビバレット"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "ハートふるムーン"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "夢・もしもしもしも?"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "わくわくDIARY"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "おもちゃ箱ハピズム♪"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "おいしいパンの作り方"
+artist = "モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "きらめきを探しに"
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "なんとなくミライ"
+artist = "Petit Rabbit's"
+
+[[discs]]
+catalog = "GNCA-1517-02"
+
+[[discs.tracks]]
+title = "本日は誠にラリルレイン"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）、千夜（佐藤聡美）、シャロ（内田真礼）、マヤ（徳井青空）、メグ(村川梨衣)"
+
+[[discs.tracks]]
+title = "にっこりカフェの魔法使い"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "お手伝いのラララン添えはいかがですか？"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "Sister or Sister？"
+artist = "ココア（佐倉綾音）、モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "やきもち風味のカモミール"
+artist = "千夜（佐藤聡美）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "冷静とモフモフの国境線"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "Sunshine Days"
+artist = "チノ（水瀬いのり）、マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "リトル＊トレジャー＊ハント"
+artist = "マヤ（徳井青空）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "みえるよみえる"
+artist = "チノ（水瀬いのり）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】 ～Petit Rabbit's Ver.～"
+artist = "Petit Rabbit's"

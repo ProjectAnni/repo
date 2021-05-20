@@ -1,0 +1,37 @@
+[album]
+title = "「ご注文はうさぎですか？？」デュエットソングアルバム"
+artist = "Various Artists"
+date = 2017-12-06
+type = "normal"
+catalog = "GNCA-1516"
+
+[[discs]]
+catalog = "GNCA-1516"
+
+[[discs.tracks]]
+title = "のんピースマイペース"
+artist = "ココア（佐倉綾音）、千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "足音タルトタタン♪"
+artist = "メグ（村川梨衣）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "Sing a Song!!!!!"
+artist = "リゼ（種田梨沙）、マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "夢見FLAVOR"
+artist = "シャロ（内田真礼）、青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "センチメンタルボタン"
+artist = "リゼ（種田梨沙）、千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "ラ・ラ・ラ!ラ?モーニング"
+artist = "モカ（茅野愛衣）、チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Fantastic Rabbit House"
+artist = "モカ（茅野愛衣）、青山ブルーマウンテン（早見沙織）、タカヒロ（速水奨）"

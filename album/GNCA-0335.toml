@@ -1,0 +1,25 @@
+[album]
+title = "ぽっぴんジャンプ♪"
+artist = "チマメ隊"
+date = 2014-05-28
+type = "normal"
+catalog = "GNCA-0335"
+
+[[discs]]
+catalog = "GNCA-0335"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ (~チノVer.~)"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ (~マヤVer.~)"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ (~メグVer.~)"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ (Instrumental)"
+type = "instrumental"

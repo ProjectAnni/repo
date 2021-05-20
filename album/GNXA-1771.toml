@@ -1,0 +1,16 @@
+[album]
+title = "にっこりカフェの魔法使い"
+artist = "Petit Rabbit's"
+date = 2015-12-25
+type = "normal"
+catalog = "GNXA-1771"
+
+[[discs]]
+catalog = "GNXA-1771"
+
+[[discs.tracks]]
+title = "にっこりカフェの魔法使い"
+
+[[discs.tracks]]
+title = "にっこりカフェの魔法使い (Instrumental)"
+type = "instrumental"

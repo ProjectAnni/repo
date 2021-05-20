@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 02"
+artist = "モカ（茅野愛衣）"
+date = 2019-03-13
+type = "normal"
+catalog = "GNCA-0572"
+
+[[discs]]
+catalog = "GNCA-0572"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～モカ Ver.～"
+
+[[discs.tracks]]
+title = "3月の扉"
+
+[[discs.tracks]]
+title = "ホットホワイトデリバリー♪"
+
+[[discs.tracks]]
+title = "3月の扉 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ホットホワイトデリバリー♪ (Instrumental)"
+type = "instrumental"

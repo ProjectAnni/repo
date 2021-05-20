@@ -1,0 +1,34 @@
+[album]
+title = "セカイがカフェになっちゃった！"
+artist = "Petit Rabbit's with beans"
+date = 2017-11-11
+type = "normal"
+catalog = "GNCA-0515"
+
+[[discs]]
+catalog = "GNCA-0515"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！"
+
+[[discs.tracks]]
+title = "ハピネスアンコール"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "コーヒーカップでエスコート"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハピネスアンコール (Instrumental)"
+artist = "Petit Rabbit's"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "コーヒーカップでエスコート (Instrumental)"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）"
+type = "instrumental"

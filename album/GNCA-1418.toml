@@ -1,0 +1,41 @@
+[album]
+title = "ごちうさブレンド"
+artist = "Various Artists"
+date = 2014-08-27
+type = "normal"
+catalog = "GNCA-1418"
+
+[[discs]]
+catalog = "GNCA-1418"
+
+[[discs.tracks]]
+title = "一匙のお姫さま物語"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "Rabbit Hole"
+artist = "ココア（佐倉綾音）、リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "ずっと一緒"
+artist = "千夜（佐藤聡美）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "全天候型いらっしゃいませ"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Eを探す日常"
+artist = "リゼ（種田梨沙）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "VSマイペース？"
+artist = "チノ（水瀬いのり）、リゼ（種田梨沙）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "うさぎになったバリスタ"
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "きらきらエブリディ"
+artist = "チマメ隊"

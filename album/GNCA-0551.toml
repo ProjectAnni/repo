@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 01"
+artist = "ココア（佐倉綾音）"
+date = 2018-08-15
+type = "normal"
+catalog = "GNCA-0551"
+
+[[discs]]
+catalog = "GNCA-0551"
+
+[[discs.tracks]]
+title = "COCOATIC BAR"
+
+[[discs.tracks]]
+title = "パンパカパンのパンのパーティー"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～ココアVer.～"
+
+[[discs.tracks]]
+title = "COCOATIC BAR (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パンパカパンのパンのパーティー (Instrumental)"
+type = "instrumental"

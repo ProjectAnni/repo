@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 05"
+artist = "メグ（村川梨衣）"
+date = 2016-09-28
+type = "normal"
+catalog = "GNCA-0455"
+
+[[discs]]
+catalog = "GNCA-0455"
+
+[[discs.tracks]]
+title = "おもちゃ箱ハピズム♪"
+
+[[discs.tracks]]
+title = "素敵なダンスタイム"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】メグVer."
+
+[[discs.tracks]]
+title = "おもちゃ箱ハピズム♪ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "素敵なダンスタイム (Instrumental)"
+type = "instrumental"
