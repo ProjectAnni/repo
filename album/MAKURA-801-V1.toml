@@ -1,0 +1,76 @@
+[album]
+title = "サクラノ詩 ヴォーカルCD"
+artist = "Various Artists"
+date = 2015-12-27
+type = "normal"
+catalog = "MAKURA-801-V1"
+
+[[discs]]
+catalog = "MAKURA-801-V1"
+
+[[discs.tracks]]
+title = "櫻ノ詩"
+artist = "はな"
+
+[[discs.tracks]]
+title = "Bright pain"
+artist = "橋本みゆき"
+
+[[discs.tracks]]
+title = "Pica pica"
+artist = "monet"
+
+[[discs.tracks]]
+title = "ZYPRESSENの花束"
+artist = "monet"
+
+[[discs.tracks]]
+title = "天球の下の奇蹟"
+artist = "はな"
+
+[[discs.tracks]]
+title = "DearMyFriend"
+artist = "はな"
+
+[[discs.tracks]]
+title = "在りし日のために"
+artist = "monet"
+
+[[discs.tracks]]
+title = "櫻ノ詩 - Piano Vocal ver -"
+artist = "はな"
+
+[[discs.tracks]]
+title = "櫻ノ詩 - inst ver -"
+artist = "松本文紀"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Pica pica - inst ver -"
+artist = "ピクセルビー"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ZYPRESSENの花束 - inst ver -"
+artist = "ピクセルビー"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "天球の下の奇蹟 - inst ver -"
+artist = "松本文紀"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DearMyFriend - inst ver -"
+artist = "松本文紀"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "在りし日のために - inst ver -"
+artist = "ピクセルビー"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "櫻ノ詩 - Piano inst ver -"
+artist = "松本文紀"
+type = "instrumental"
