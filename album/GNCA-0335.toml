@@ -12,13 +12,16 @@ catalog = "GNCA-0335"
 title = "ぽっぴんジャンプ♪"
 
 [[discs.tracks]]
-title = "ぽっぴんジャンプ♪ (~チノVer.~)"
+title = "ぽっぴんジャンプ♪ ～チノ～ ソロVer."
+artist = "チノ（水瀬いのり）"
 
 [[discs.tracks]]
-title = "ぽっぴんジャンプ♪ (~マヤVer.~)"
+title = "ぽっぴんジャンプ♪ ～マヤ～ ソロVer."
+artist = "マヤ（徳井青空）"
 
 [[discs.tracks]]
-title = "ぽっぴんジャンプ♪ (~メグVer.~)"
+title = "ぽっぴんジャンプ♪ ～メグ～ ソロVer."
+artist = "メグ（村川梨衣）"
 
 [[discs.tracks]]
 title = "ぽっぴんジャンプ♪ (Instrumental)"
