@@ -1,0 +1,12 @@
+[album]
+title = "宇宙よりも遠い場所～南極よりも寒い番組！出張版～Vol.1"
+artist = "水瀬いのり、花澤香菜、井口裕香、早見沙織"
+date = 2018-04-25
+type = "radio"
+catalog = "TGCS-10592"
+
+[[discs]]
+catalog = "TGCS-10592"
+
+[[discs.tracks]]
+title = "宇宙よりも遠い場所～南極よりも寒い番組！出張版～Vol.1"
