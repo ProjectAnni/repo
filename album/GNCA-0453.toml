@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 03"
+artist = "マヤ（徳井青空）"
+date = 2016-08-27
+type = "normal"
+catalog = "GNCA-0453"
+
+[[discs]]
+catalog = "GNCA-0453"
+
+[[discs.tracks]]
+title = "わくわくDIARY"
+
+[[discs.tracks]]
+title = "Everyday Level Up!!"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】マヤVer."
+
+[[discs.tracks]]
+title = "わくわくDIARY (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Everyday Level Up!! (Instrumental)"
+type = "instrumental"

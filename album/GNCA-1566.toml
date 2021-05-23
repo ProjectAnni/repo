@@ -1,0 +1,113 @@
+[album]
+title = "Selection of April Fools' Day"
+artist = "Various Artists"
+date = 2020-04-22
+type = "normal"
+catalog = "GNCA-1566"
+
+[[discs]]
+catalog = "GNCA-1566"
+
+[[discs.tracks]]
+title = "幻のルビーラビット事件"
+artist = "魔法少女チノ（水瀬いのり）、怪盗ラパン（内田真礼）"
+
+[[discs.tracks]]
+title = "MIRACLE CHRONICLE♪"
+artist = "CHIMAME CHRONICLE（水瀬いのり、徳井青空、村川梨衣）"
+
+[[discs.tracks]]
+title = "らびっとビビっとShow Time＊"
+artist = "Happine（佐倉綾音、佐藤聡美、内田真礼）"
+
+[[discs.tracks]]
+title = "ショコらびゅサバイバル♪"
+artist = "Mistral（種田梨沙、徳井青空、村川梨衣）"
+
+[[discs.tracks]]
+title = "かさねおり"
+artist = "Diva（水瀬いのり、茅野愛衣、早見沙織）"
+
+[[discs.tracks]]
+title = "ピポパポPeople!"
+artist = "CLOCKWORK RABBIT（佐倉綾音、水瀬いのり、種田梨沙、佐藤聡美、内田真礼）"
+
+[[discs.tracks]]
+title = "魔法少女チノ [Instrumental]"
+artist = "魔法少女チノ（水瀬いのり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Theme of Phantom Thief Lapin"
+artist = "川田瑠夏"
+type = "absolute"
+
+[[discs.tracks]]
+title = "CHIMAME CHRONICLE"
+artist = "井内舞子"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Daydream café ～Daydream☆SHOW～"
+artist = "酒井陽一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Happine＊"
+artist = "山口たこ"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Mistral"
+artist = "酒井陽一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Diva♪"
+artist = "山口たこ"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Daydream café ～CLOCKWORK RABBIT Ver.A～"
+artist = "PandaBoY"
+type = "absolute"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった ～CLOCKWORK RABBIT～"
+artist = "PandaBoY"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Daydream café ～CLOCKWORK RABBIT Ver.B～"
+artist = "PandaBoY"
+type = "absolute"
+
+[[discs.tracks]]
+title = "幻のルビーラビット事件 [Instrumental]"
+artist = "魔法少女チノ（水瀬いのり）、怪盗ラパン（内田真礼）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "MIRACLE CHRONICLE♪ [Instrumental]"
+artist = "CHIMAME CHRONICLE（水瀬いのり、徳井青空、村川梨衣）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "らびっとビビっとShow Time＊ [Instrumental]"
+artist = "Happine（佐倉綾音、佐藤聡美、内田真礼）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ショコらびゅサバイバル♪ [Instrumental]"
+artist = "Mistral（種田梨沙、徳井青空、村川梨衣）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "かさねおり [Instrumental]"
+artist = "Diva（水瀬いのり、茅野愛衣、早見沙織）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ピポパポPeople! [Instrumental]"
+artist = "CLOCKWORK RABBIT（佐倉綾音、水瀬いのり、種田梨沙、佐藤聡美、内田真礼）"
+type = "instrumental"

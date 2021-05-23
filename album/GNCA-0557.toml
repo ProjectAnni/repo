@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 07"
+artist = "千夜（佐藤聡美）"
+date = 2018-10-24
+type = "normal"
+catalog = "GNCA-0557"
+
+[[discs]]
+catalog = "GNCA-0557"
+
+[[discs.tracks]]
+title = "私と浪漫ていすと"
+
+[[discs.tracks]]
+title = "お茶会物語"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～千夜 Ver.～"
+
+[[discs.tracks]]
+title = "私と浪漫ていすと (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "お茶会物語 (Instrumental)"
+type = "instrumental"

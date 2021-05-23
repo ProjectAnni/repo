@@ -1,0 +1,45 @@
+[album]
+title = "chimame march"
+artist = "チマメ隊"
+date = 2016-11-25
+type = "normal"
+catalog = "GNCA-1500"
+
+[[discs]]
+catalog = "GNCA-1500"
+
+[[discs.tracks]]
+title = "てくてくマーチングマーチ"
+
+[[discs.tracks]]
+title = "CANDY COLOR DAYS"
+
+[[discs.tracks]]
+title = "Sunshine Days"
+artist = "チノ（水瀬いのり）、マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "みえるよみえる"
+artist = "チノ（水瀬いのり）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "すいーと・すきっぷ・すてっぷ"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "プレゼントレジャー♡"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "リトル＊トレジャー＊ハント"
+artist = "マヤ（徳井青空）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "あした元気になぁれ！"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "ココロそばにいるよ"
+
+[[discs.tracks]]
+title = "Daydream café～チマメ隊Ver.～"

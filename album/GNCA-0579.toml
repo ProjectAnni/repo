@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 09"
+artist = "チノ（水瀬いのり）"
+date = 2019-12-04
+type = "normal"
+catalog = "GNCA-0579"
+
+[[discs]]
+catalog = "GNCA-0579"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～チノVer.～"
+
+[[discs.tracks]]
+title = "Tiny Christmas Party"
+
+[[discs.tracks]]
+title = "winter＊gift"
+
+[[discs.tracks]]
+title = "Tiny Christmas Party (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "winter＊gift (Instrumental)"
+type = "instrumental"

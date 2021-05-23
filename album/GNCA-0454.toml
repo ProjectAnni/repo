@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 04"
+artist = "シャロ（内田真礼）"
+date = 2016-09-28
+type = "normal"
+catalog = "GNCA-0454"
+
+[[discs]]
+catalog = "GNCA-0454"
+
+[[discs.tracks]]
+title = "夢・もしもしもしも？"
+
+[[discs.tracks]]
+title = "＠ぐ～るぐるわーるど＠"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】シャロVer."
+
+[[discs.tracks]]
+title = "夢・もしもしもしも？ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "＠ぐ～るぐるわーるど＠ (Instrumental)"
+type = "instrumental"

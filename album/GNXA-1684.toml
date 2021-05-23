@@ -1,0 +1,16 @@
+[album]
+title = "Daydream café ～ご注文は千夜ですか？ver.～"
+artist = "千夜（佐藤聡美）"
+date = 2014-09-26
+type = "normal"
+catalog = "GNXA-1684"
+
+[[discs]]
+catalog = "GNXA-1684"
+
+[[discs.tracks]]
+title = "ご注文は千夜ですか？"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Daydream café ～ご注文は千夜ですか？ver.～"

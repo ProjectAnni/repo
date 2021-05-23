@@ -1,0 +1,53 @@
+[album]
+title = "しんがーそんぐぱやぽやメロディー"
+artist = "Petit Rabbit's with beans"
+date = 2019-09-26
+type = "normal"
+catalog = "GNCA-0600"
+
+[[discs]]
+catalog = "GNCA-0600"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー"
+
+[[discs.tracks]]
+title = "ギミ×デミぱーりないっ♪"
+artist = "リゼ（種田梨沙）、マヤ（徳井青空）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～ココアVer.～"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～チノVer.～"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～リゼVer.～"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～千夜Ver.～"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～シャロVer.～"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～マヤVer.～"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー ～メグVer.～"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "しんがーそんぐぱやぽやメロディー (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ギミ×デミぱーりないっ♪ (Instrumental)"
+artist = "リゼ（種田梨沙）、マヤ（徳井青空）、メグ（村川梨衣）"
+type = "instrumental"

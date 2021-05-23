@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 05"
+artist = "マヤ（徳井青空）"
+date = 2019-08-08
+type = "normal"
+catalog = "GNCA-0575"
+
+[[discs]]
+catalog = "GNCA-0575"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～マヤ Ver.～"
+
+[[discs.tracks]]
+title = "お祭り輪っしょい!!"
+
+[[discs.tracks]]
+title = "夏休みページ"
+
+[[discs.tracks]]
+title = "お祭り輪っしょい!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夏休みページ (Instrumental)"
+type = "instrumental"

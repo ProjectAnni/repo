@@ -1,0 +1,16 @@
+[album]
+title = "魅惑のダイヤモンドティーカップ事件"
+artist = "怪盗ラパン（内田真礼）、ココア（佐倉綾音）"
+date = 2020-12-25
+type = "normal"
+catalog = "GNXA-1591"
+
+[[discs]]
+catalog = "GNXA-1591"
+
+[[discs.tracks]]
+title = "魅惑のダイヤモンドティーカップ事件"
+
+[[discs.tracks]]
+title = "魅惑のダイヤモンドティーカップ事件 (Instrumental)"
+type = "instrumental"

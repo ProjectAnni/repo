@@ -1,0 +1,27 @@
+[album]
+title = "「ご注文はうさぎですか？？～Dear My Sister～」キャラクターソング 1"
+artist = "チマメ隊、千マメ隊"
+date = 2017-10-25
+type = "normal"
+catalog = "GNCA-0516"
+
+[[discs]]
+catalog = "GNCA-0516"
+
+[[discs.tracks]]
+title = "♡♡ケーキをもうひとつ？"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "FANCY SWEET TIME"
+artist = "千マメ隊"
+
+[[discs.tracks]]
+title = "♡♡ケーキをもうひとつ？ (Instrumental)"
+artist = "チマメ隊"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "FANCY SWEET TIME (Instrumental)"
+artist = "千マメ隊"
+type = "instrumental"

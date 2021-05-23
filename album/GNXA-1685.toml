@@ -1,0 +1,16 @@
+[album]
+title = "Daydream café ～ご注文はシャロですか？ver.～"
+artist = "シャロ（内田真礼）"
+date = 2014-10-22
+type = "normal"
+catalog = "GNXA-1685"
+
+[[discs]]
+catalog = "GNXA-1685"
+
+[[discs.tracks]]
+title = "ご注文はシャロですか？"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Daydream café ～ご注文はシャロですか？ver.～"

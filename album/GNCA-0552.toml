@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 02"
+artist = "シャロ（内田真礼）"
+date = 2018-08-29
+type = "normal"
+catalog = "GNCA-0552"
+
+[[discs]]
+catalog = "GNCA-0552"
+
+[[discs.tracks]]
+title = "Happy Holiday"
+
+[[discs.tracks]]
+title = "パッと!花咲くティーポット"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～シャロVer.～"
+
+[[discs.tracks]]
+title = "Happy Holiday (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パッと!花咲くティーポット (Instrumental)"
+type = "instrumental"

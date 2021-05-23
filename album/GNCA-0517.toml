@@ -1,0 +1,27 @@
+[album]
+title = "「ご注文はうさぎですか？？～Dear My Sister～」キャラクターソング 2"
+artist = "Various Artists"
+date = 2017-11-22
+type = "normal"
+catalog = "GNCA-0517"
+
+[[discs]]
+catalog = "GNCA-0517"
+
+[[discs.tracks]]
+title = "きらめきカフェタイム"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "ポップコーンはぷにんぐ！"
+artist = "ココア（佐倉綾音）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "きらめきカフェタイム (Instrumental)"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ポップコーンはぷにんぐ！(Instrumental)"
+artist = "ココア（佐倉綾音）、シャロ（内田真礼）"
+type = "instrumental"

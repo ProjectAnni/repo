@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 06"
+artist = "メグ（村川梨衣）"
+date = 2018-10-24
+type = "normal"
+catalog = "GNCA-0556"
+
+[[discs]]
+catalog = "GNCA-0556"
+
+[[discs.tracks]]
+title = "あん・どぅ・とろわ"
+
+[[discs.tracks]]
+title = "パジャマプラネタリウム"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～メグVer.～"
+
+[[discs.tracks]]
+title = "あん・どぅ・とろわ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パジャマプラネタリウム (Instrumental)"
+type = "instrumental"

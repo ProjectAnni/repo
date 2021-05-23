@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 05"
+artist = "マヤ（徳井青空）"
+date = 2018-10-10
+type = "normal"
+catalog = "GNCA-0555"
+
+[[discs]]
+catalog = "GNCA-0555"
+
+[[discs.tracks]]
+title = "ミッドナイト・パーティー"
+
+[[discs.tracks]]
+title = "ぱりぷれいやー!!"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～マヤVer.～"
+
+[[discs.tracks]]
+title = "ミッドナイト・パーティー (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぱりぷれいやー!! (Instrumental)"
+type = "instrumental"

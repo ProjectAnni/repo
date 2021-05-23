@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 04"
+artist = "青山ブルーマウンテン（早見沙織）"
+date = 2018-09-26
+type = "normal"
+catalog = "GNCA-0554"
+
+[[discs]]
+catalog = "GNCA-0554"
+
+[[discs.tracks]]
+title = "ラ・エレガンス"
+
+[[discs.tracks]]
+title = "流星ガーデン"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～青山ブルーマウンテンVer.～"
+
+[[discs.tracks]]
+title = "ラ・エレガンス (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "流星ガーデン (Instrumental)"
+type = "instrumental"

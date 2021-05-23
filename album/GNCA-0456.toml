@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 06"
+artist = "チノ（水瀬いのり）"
+date = 2016-10-26
+type = "normal"
+catalog = "GNCA-0456"
+
+[[discs]]
+catalog = "GNCA-0456"
+
+[[discs.tracks]]
+title = "お菓子な夢をおひとつどうぞ♪"
+
+[[discs.tracks]]
+title = "FUN!FUN!"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】チノVer."
+
+[[discs.tracks]]
+title = "お菓子な夢をおひとつどうぞ♪ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "FUN!FUN! (Instrumental)"
+type = "instrumental"

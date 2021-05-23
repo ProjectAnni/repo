@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 03"
+artist = "ココア（佐倉綾音）"
+date = 2019-04-10
+type = "normal"
+catalog = "GNCA-0573"
+
+[[discs]]
+catalog = "GNCA-0573"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～ココア Ver.～"
+
+[[discs.tracks]]
+title = "Spring Hello!!"
+
+[[discs.tracks]]
+title = "トラブル!?トラベル!!"
+
+[[discs.tracks]]
+title = "Spring Hello!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トラブル!?トラベル!! (Instrumental)"
+type = "instrumental"

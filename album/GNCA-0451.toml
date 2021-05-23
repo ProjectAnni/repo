@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソングシリーズ 01"
+artist = "ココア（佐倉綾音）"
+date = 2016-08-27
+type = "normal"
+catalog = "GNCA-0451"
+
+[[discs]]
+catalog = "GNCA-0451"
+
+[[discs.tracks]]
+title = "きらきら印を見つけたら"
+
+[[discs.tracks]]
+title = "ショコラティーヌ de 3時"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】ココアVer."
+
+[[discs.tracks]]
+title = "きらきら印を見つけたら (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ショコラティーヌ de 3時 (Instrumental)"
+type = "instrumental"

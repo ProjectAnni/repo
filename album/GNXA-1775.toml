@@ -1,0 +1,16 @@
+[album]
+title = "お手伝いのラララン添えはいかがですか？"
+artist = "チマメ隊"
+date = 2016-05-02
+type = "normal"
+catalog = "GNXA-1775"
+
+[[discs]]
+catalog = "GNXA-1775"
+
+[[discs.tracks]]
+title = "お手伝いのラララン添えはいかがですか？"
+
+[[discs.tracks]]
+title = "お手伝いのラララン添えはいかがですか？(Instrumental)"
+type = "instrumental"

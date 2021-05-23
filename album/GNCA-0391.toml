@@ -1,0 +1,34 @@
+[album]
+title = "ぴょん'sぷりんぷるん"
+artist = "チマメ隊"
+date = 2015-07-15
+type = "normal"
+catalog = "GNCA-0391"
+
+[[discs]]
+catalog = "GNCA-0391"
+
+[[discs.tracks]]
+title = "ぴょん'sぷりんぷるん"
+
+[[discs.tracks]]
+title = "ナマイキTiny Heart"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "ナイショのはなしは夢の中で"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "ぴょん'sぷりんぷるん (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ナマイキTiny Heart (Instrumental)"
+artist = "マヤ（徳井青空）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ナイショのはなしは夢の中で (Instrumental)"
+artist = "メグ（村川梨衣）"
+type = "instrumental"

@@ -1,0 +1,16 @@
+[album]
+title = "Daydream café ～ご注文はチノですか？ver.～"
+artist = "チノ（水瀬いのり）"
+date = 2014-07-24
+type = "normal"
+catalog = "GNXA-1682"
+
+[[discs]]
+catalog = "GNXA-1682"
+
+[[discs.tracks]]
+title = "ご注文はチノですか？"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Daydream café ～ご注文はチノですか？ver.～"

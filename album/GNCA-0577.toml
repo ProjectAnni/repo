@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 07"
+artist = "青山ブルーマウンテン（早見沙織）"
+date = 2019-10-27
+type = "normal"
+catalog = "GNCA-0577"
+
+[[discs]]
+catalog = "GNCA-0577"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～青山ブルーマウンテン Ver.～"
+
+[[discs.tracks]]
+title = "マワールエスポワール"
+
+[[discs.tracks]]
+title = "メランコリアフタヌーン"
+
+[[discs.tracks]]
+title = "マワールエスポワール (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メランコリアフタヌーン (Instrumental)"
+type = "instrumental"

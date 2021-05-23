@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 04"
+artist = "シャロ（内田真礼）"
+date = 2019-07-15
+type = "normal"
+catalog = "GNCA-0574"
+
+[[discs]]
+catalog = "GNCA-0574"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～シャロ Ver.～"
+
+[[discs.tracks]]
+title = "とびきりsummer time"
+
+[[discs.tracks]]
+title = "思い出花火"
+
+[[discs.tracks]]
+title = "とびきりsummer time (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "思い出花火 (Instrumental)"
+type = "instrumental"

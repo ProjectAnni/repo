@@ -1,0 +1,16 @@
+[album]
+title = "Daydream café ～ご注文はココアですか？ver.～"
+artist = "ココア（佐倉綾音）"
+date = 2014-06-20
+type = "normal"
+catalog = "GNXA-1681"
+
+[[discs]]
+catalog = "GNXA-1681"
+
+[[discs.tracks]]
+title = "ご注文はココアですか？"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Daydream café ～ご注文はココアですか？ver.～"

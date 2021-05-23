@@ -1,0 +1,17 @@
+[album]
+title = "ごちうさDJブレンド"
+artist = "Various Artists"
+date = 2015-08-12
+type = "normal"
+catalog = "GNCA-1471"
+
+[[discs]]
+catalog = "GNCA-1471"
+
+[[discs.tracks]]
+title = "ごちうさDJブレンド"
+artist = "Petit Rabbit's with Beans"
+
+[[discs.tracks]]
+title = "Daydream café ～チマメ隊Ver.～"
+artist = "チマメ隊"

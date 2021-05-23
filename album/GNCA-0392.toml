@@ -1,0 +1,34 @@
+[album]
+title = "ハートぷるぷる事件です"
+artist = "振り回され隊"
+date = 2015-07-29
+type = "normal"
+catalog = "GNCA-0392"
+
+[[discs]]
+catalog = "GNCA-0392"
+
+[[discs.tracks]]
+title = "ハートぷるぷる事件です"
+
+[[discs.tracks]]
+title = "ミカヅキドロップ"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "カフェインファイター"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "ハートぷるぷる事件です (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミカヅキドロップ (Instrumental)"
+artist = "リゼ（種田梨沙）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "カフェインファイター (Instrumental)"
+artist = "シャロ（内田真礼）"
+type = "instrumental"

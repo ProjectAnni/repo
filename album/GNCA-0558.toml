@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？キャラクターソロシリーズ 03"
+artist = "モカ（茅野愛衣）"
+date = 2018-09-12
+type = "normal"
+catalog = "GNCA-0558"
+
+[[discs]]
+catalog = "GNCA-0558"
+
+[[discs.tracks]]
+title = "Bitter Tea:Time"
+
+[[discs.tracks]]
+title = "とびっきりアネバーサリー"
+
+[[discs.tracks]]
+title = "わーいわーいトライ！～モカVer.～"
+
+[[discs.tracks]]
+title = "Bitter Tea:Time (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "とびっきりアネバーサリー (Instrumental)"
+type = "instrumental"

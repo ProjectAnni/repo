@@ -1,0 +1,16 @@
+[album]
+title = "Daydream café ～ご注文はリゼですか？ver.～"
+artist = "リゼ（種田梨沙）"
+date = 2014-08-27
+type = "normal"
+catalog = "GNXA-1683"
+
+[[discs]]
+catalog = "GNXA-1683"
+
+[[discs.tracks]]
+title = "ご注文はリゼですか？"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Daydream café ～ご注文はリゼですか？ver.～"

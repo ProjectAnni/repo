@@ -1,0 +1,30 @@
+[album]
+title = "cup of chino"
+artist = "チノ（水瀬いのり）"
+date = 2015-11-25
+type = "normal"
+catalog = "GNCA-1475"
+
+[[discs]]
+catalog = "GNCA-1475"
+
+[[discs.tracks]]
+title = "出かけましょうと答えましょう"
+
+[[discs.tracks]]
+title = "未来パズル"
+
+[[discs.tracks]]
+title = "新作のしあわせはこちら！"
+
+[[discs.tracks]]
+title = "きらきらアラモード"
+
+[[discs.tracks]]
+title = "そおっとブランケット"
+
+[[discs.tracks]]
+title = "かえりみちスキップ"
+
+[[discs.tracks]]
+title = "魔法少女チノ［Bonus Track］"

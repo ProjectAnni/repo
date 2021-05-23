@@ -1,0 +1,26 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ 06"
+artist = "千夜（佐藤聡美）"
+date = 2019-09-19
+type = "normal"
+catalog = "GNCA-0576"
+
+[[discs]]
+catalog = "GNCA-0576"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング～千夜 Ver.～"
+
+[[discs.tracks]]
+title = "お月見数え唄"
+
+[[discs.tracks]]
+title = "天高くおとめこゆる秋"
+
+[[discs.tracks]]
+title = "お月見数え唄 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "天高くおとめこゆる秋 (Instrumental)"
+type = "instrumental"

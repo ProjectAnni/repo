@@ -1,0 +1,16 @@
+[album]
+title = "やきもち風味のカモミール"
+artist = "千夜（佐藤聡美）、シャロ（内田真礼）"
+date = 2016-04-08
+type = "normal"
+catalog = "GNXA-1774"
+
+[[discs]]
+catalog = "GNXA-1774"
+
+[[discs.tracks]]
+title = "やきもち風味のカモミール"
+
+[[discs.tracks]]
+title = "やきもち風味のカモミール (Instrumental)"
+type = "instrumental"

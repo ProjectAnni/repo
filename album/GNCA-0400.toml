@@ -1,0 +1,43 @@
+[album]
+title = "ノーポイッ！"
+artist = "Petit Rabbit's"
+date = 2015-11-11
+type = "normal"
+catalog = "GNCA-0400"
+
+[[discs]]
+catalog = "GNCA-0400"
+
+[[discs.tracks]]
+title = "ノーポイッ！"
+
+[[discs.tracks]]
+title = "なんとなくミライ"
+
+[[discs.tracks]]
+title = "ノーポイッ！～ココアVer.～"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "ノーポイッ！～チノVer.～"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "ノーポイッ！～リゼVer.～"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "ノーポイッ！～千夜Ver.～"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "ノーポイッ！～シャロVer.～"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "ノーポイッ！(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なんとなくミライ (Instrumental)"
+type = "instrumental"

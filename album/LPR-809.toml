@@ -1,0 +1,16 @@
+[album]
+title = "ご注文はうさぎですか？？バースデイソングシリーズ SPCD"
+artist = "Petit Rabbit's with beans"
+date = 2019-12-04
+type = "normal"
+catalog = "LPR-809"
+
+[[discs]]
+catalog = "LPR-809"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング"
+
+[[discs.tracks]]
+title = "ハピハピ♪バースデイソング (Instrumental)"
+type = "instrumental"
