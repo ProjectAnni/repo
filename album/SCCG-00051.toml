@@ -1,0 +1,128 @@
+[album]
+title = "あたりまえだから"
+artist = "DIALOGUE+"
+date = 2020-06-17
+type = "normal"
+catalog = "SCCG-00051"
+
+[[discs]]
+catalog = "SCCG-00051"
+
+[[discs.tracks]]
+title = "あたりまえだから"
+
+[[discs.tracks]]
+title = "あたりまえだから（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆稗田寧々）"
+artist = "内山悠里菜、稗田寧々"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆守屋亨香）"
+artist = "内山悠里菜、守屋亨香"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆緒方佑奈）"
+artist = "内山悠里菜、緒方佑奈"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆鷹村彩花）"
+artist = "内山悠里菜、鷹村彩花"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆宮原颯希）"
+artist = "内山悠里菜、宮原颯希"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆飯塚麻結）"
+artist = "内山悠里菜、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 内山悠里菜＆村上まなつ）"
+artist = "内山悠里菜、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆守屋亨香）"
+artist = "稗田寧々、守屋亨香"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆緒方佑奈）"
+artist = "稗田寧々、緒方佑奈"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆鷹村彩花）"
+artist = "稗田寧々、鷹村彩花"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆宮原颯希）"
+artist = "稗田寧々、宮原颯希"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆飯塚麻結）"
+artist = "稗田寧々、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 稗田寧々＆村上まなつ）"
+artist = "稗田寧々、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 守屋亨香＆緒方佑奈）"
+artist = "守屋亨香、緒方佑奈"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 守屋亨香＆鷹村彩花）"
+artist = "守屋亨香、鷹村彩花"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 守屋亨香＆宮原颯希）"
+artist = "守屋亨香、宮原颯希"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 守屋亨香＆飯塚麻結）"
+artist = "守屋亨香、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 守屋亨香＆村上まなつ）"
+artist = "守屋亨香、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 緒方佑奈＆鷹村彩花）"
+artist = "緒方佑奈、鷹村彩花"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 緒方佑奈＆宮原颯希）"
+artist = "緒方佑奈、宮原颯希"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 緒方佑奈＆飯塚麻結）"
+artist = "緒方佑奈、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 緒方佑奈＆村上まなつ）"
+artist = "緒方佑奈、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 鷹村彩花＆宮原颯希）"
+artist = "鷹村彩花、宮原颯希"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 鷹村彩花＆飯塚麻結）"
+artist = "鷹村彩花、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 鷹村彩花＆村上まなつ）"
+artist = "鷹村彩花、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 宮原颯希＆飯塚麻結）"
+artist = "宮原颯希、飯塚麻結"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 宮原颯希＆村上まなつ）"
+artist = "宮原颯希、村上まなつ"
+
+[[discs.tracks]]
+title = "あたりまえだから（Short size 飯塚麻結＆村上まなつ）"
+artist = "飯塚麻結、村上まなつ"
