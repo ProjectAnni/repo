@@ -1,0 +1,26 @@
+[album]
+title = "はじめてのかくめい！"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2019-10-23
+type = "normal"
+catalog = "PCCG-01817"
+
+[[discs]]
+catalog = "PCCG-01817"
+
+[[discs.tracks]]
+title = "はじめてのかくめい！"
+
+[[discs.tracks]]
+title = "ダイアローグ＋インビテーション！"
+
+[[discs.tracks]]
+title = "はじめてのかくめい！（TVサイズ）"
+
+[[discs.tracks]]
+title = "はじめてのかくめい！（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ダイアローグ＋インビテーション！（Instrumental）"
+type = "instrumental"

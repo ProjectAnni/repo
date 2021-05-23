@@ -1,0 +1,26 @@
+[album]
+title = "人生イージー？"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2021-02-03
+type = "normal"
+catalog = "PCCG-01969"
+
+[[discs]]
+catalog = "PCCG-01969"
+
+[[discs.tracks]]
+title = "人生イージー？"
+
+[[discs.tracks]]
+title = "走れ"
+
+[[discs.tracks]]
+title = "人生イージー？（TVサイズ）"
+
+[[discs.tracks]]
+title = "人生イージー？（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "走れ（Instrumental）"
+type = "instrumental"

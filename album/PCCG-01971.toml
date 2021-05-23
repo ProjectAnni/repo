@@ -1,0 +1,26 @@
+[album]
+title = "あやふわアスタリスク"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2021-02-03
+type = "normal"
+catalog = "PCCG-01971"
+
+[[discs]]
+catalog = "PCCG-01971"
+
+[[discs.tracks]]
+title = "あやふわアスタリスク"
+
+[[discs.tracks]]
+title = "花咲く僕らのアンサーを"
+
+[[discs.tracks]]
+title = "あやふわアスタリスク（TVサイズ）"
+
+[[discs.tracks]]
+title = "あやふわアスタリスク（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "花咲く僕らのアンサーを（Instrumental）"
+type = "instrumental"
