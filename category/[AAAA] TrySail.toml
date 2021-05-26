@@ -1,0 +1,24 @@
+[category]
+name = "TrySail"
+type = "AAAA"
+albums = [
+  "SVWC-70068",
+  "SVWC-70091",
+  "SVWC-70133",
+  "SVWC-70151",
+  "SVWC-70161",
+  "SVWC-70211",
+  "SVWC-70228",
+  "VVCL-1048",
+  "VVCL-1083",
+  "VVCL-1188",
+  "VVCL-1247",
+  "VVCL-1328",
+  "VVCL-1420",
+  "VVCL-1585",
+  "VVCL-1630",
+  "VVCL-1861",
+  "VVXL-7",
+  "VVXL-20",
+  "VVXL-47",
+]

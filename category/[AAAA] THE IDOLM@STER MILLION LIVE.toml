@@ -1,0 +1,309 @@
+[category]
+name = "THE IDOLM@STER MILLION LIVE"
+type = "AAAA"
+albums = [
+  "LACM-14080",
+  "LACA-15300",
+  "LACA-15313",
+  "LACA-15314",
+  "LACA-15315",
+  "LACA-15316",
+  "LACA-15317",
+  "LACA-15318",
+  "LACA-15319",
+  "LACA-15320",
+  "LACA-15321",
+  "LACA-15322",
+  "LACA-15323",
+  "LACA-15431",
+  "LACA-15432",
+  "LACA-15433",
+  "LACA-15434",
+  "LACA-15435",
+  "LACA-15436",
+  "LACA-15437",
+  "LACA-15438",
+  "LACA-15439",
+  "LACA-15440",
+  "LACM-14411",
+  "LACM-14412",
+  "LACM-14413",
+  "LACM-14414",
+  "LACM-14415",
+  "LACM-14416",
+  "LACM-14531",
+  "LACM-14532",
+  "LACM-14533",
+  "LACA-15611",
+  "LACA-15612",
+  "LACA-15613",
+  "LACM-14631",
+  "LACM-14632",
+  "LACM-14633",
+  "LACM-14634",
+  "LACM-14635",
+  "LACM-14636",
+  "LACM-14637",
+  "LACM-14638",
+  "LACM-14639",
+  "LACM-14640",
+  "LACM-14641",
+  "LACM-14642",
+  "LACM-14823",
+  "LACM-14824",
+  "LACM-14825",
+  "LACM-14826",
+  "LACM-14827",
+  "LACM-14828",
+  "LACA-15671",
+  "LACA-15672",
+  "LACA-15673",
+  "LACA-15674",
+  "LACA-15675",
+  "LACA-15676",
+  "LACA-15677",
+  "LACA-15678",
+  "LACM-14811",
+  "LACM-14812",
+  "LACM-14813",
+  "LACM-14947",
+  "LACM-14948",
+  "LACM-14949",
+  "LACM-14891",
+  "LACM-14892",
+  "LACM-14893",
+  "LACM-14894",
+  "LACM-14895",
+  "LACM-14896",
+  "LACM-14897",
+  "LACM-14898",
+  "LACM-14899",
+  "LACM-14900",
+  "LACM-14901",
+  "LACM-14902",
+  "LACM-14903",
+  "LACM-14904",
+  "LACM-14905",
+  "LACM-24106",
+  "LACM-24107",
+  "LACM-24108",
+  "LACZ-10046",
+  "LACZ-10047",
+  "LACZ-10053",
+  "LACZ-10054",
+  "LACZ-10055",
+  "LACZ-10056",
+  "LACZ-10044",
+  "LACZ-10045",
+  "LACZ-10049",
+  "LACZ-10050",
+  "LACZ-10051",
+  "LACZ-10052",
+  "LZM-2124~5",
+  "LZM-2130~1",
+  "LZM-2141",
+  "LZM-2142",
+  "LZM-2143",
+  "LZM-2155",
+  "LZM-2156",
+  "LZM-2157",
+  "LZM-2165",
+  "LACZ-10002",
+  "LACZ-10003",
+  "LACZ-10004",
+  "LACZ-10020",
+  "LACZ-10021",
+  "LACZ-10022",
+  "LACZ-10034",
+  "LACZ-10035",
+  "LACZ-10036",
+  "BNGI-00007",
+  "LAPC-1073",
+  "LAPC-1074",
+  "LACA-9398~9",
+  "LAPP-1107",
+  "LAPP-1109",
+  "LAPP-1120",
+  "LACM-24025",
+  "LACM-24004",
+  "LACM-24088",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER PERFORMANCE"
+albums = [
+  "LACM-14080",
+  "LACA-15300",
+  "LACA-15313",
+  "LACA-15314",
+  "LACA-15315",
+  "LACA-15316",
+  "LACA-15317",
+  "LACA-15318",
+  "LACA-15319",
+  "LACA-15320",
+  "LACA-15321",
+  "LACA-15322",
+  "LACA-15323",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER HARMONY"
+albums = [
+  "LACA-15431",
+  "LACA-15432",
+  "LACA-15433",
+  "LACA-15434",
+  "LACA-15435",
+  "LACA-15436",
+  "LACA-15437",
+  "LACA-15438",
+  "LACA-15439",
+  "LACA-15440",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER DREAMERS"
+albums = [
+  "LACM-14411",
+  "LACM-14412",
+  "LACM-14413",
+  "LACM-14414",
+  "LACM-14415",
+  "LACM-14416",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER THE@TER ACTIVITIES"
+albums = ["LACM-14531", "LACM-14532", "LACM-14533"]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER FORWARD"
+albums = ["LACA-15611", "LACA-15612", "LACA-15613"]
+
+[[subcategory]]
+name = "THE IDOLM@STER MILLION THE@TER GENERATION"
+albums = [
+  "LACM-14631",
+  "LACM-14632",
+  "LACM-14633",
+  "LACM-14634",
+  "LACM-14635",
+  "LACM-14636",
+  "LACM-14637",
+  "LACM-14638",
+  "LACM-14639",
+  "LACM-14640",
+  "LACM-14641",
+  "LACM-14642",
+  "LACM-14823",
+  "LACM-14824",
+  "LACM-14825",
+  "LACM-14826",
+  "LACM-14827",
+  "LACM-14828",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER M@STER SPARKLE"
+albums = [
+  "LACA-15671",
+  "LACA-15672",
+  "LACA-15673",
+  "LACA-15674",
+  "LACA-15675",
+  "LACA-15676",
+  "LACA-15677",
+  "LACA-15678",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER THE@TER BOOST"
+albums = ["LACM-14811", "LACM-14812", "LACM-14813"]
+
+[[subcategory]]
+name = "THE IDOLM@STER THE@TER CHALLENGE"
+albums = ["LACM-14947", "LACM-14948", "LACM-14949"]
+
+[[subcategory]]
+name = "THE IDOLM@STER MILLION THE@TER WAVE"
+albums = [
+  "LACM-14891",
+  "LACM-14892",
+  "LACM-14893",
+  "LACM-14894",
+  "LACM-14895",
+  "LACM-14896",
+  "LACM-14897",
+  "LACM-14898",
+  "LACM-14899",
+  "LACM-14900",
+  "LACM-14901",
+  "LACM-14902",
+  "LACM-14903",
+  "LACM-14904",
+  "LACM-14905",
+  "LACM-24106",
+  "LACM-24107",
+  "LACM-24108",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix"
+albums = [
+  "LACZ-10046",
+  "LACZ-10047",
+  "LACZ-10053",
+  "LACZ-10054",
+  "LACZ-10055",
+  "LACZ-10056",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental"
+albums = [
+  "LACZ-10044",
+  "LACZ-10045",
+  "LACZ-10049",
+  "LACZ-10050",
+  "LACZ-10051",
+  "LACZ-10052",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"
+albums = [
+  "LZM-2124~5",
+  "LZM-2130~1",
+  "LZM-2141",
+  "LZM-2142",
+  "LZM-2143",
+  "LZM-2155",
+  "LZM-2156",
+  "LZM-2157",
+  "LZM-2165",
+  "LACZ-10002",
+  "LACZ-10003",
+  "LACZ-10004",
+  "LACZ-10020",
+  "LACZ-10021",
+  "LACZ-10022",
+  "LACZ-10034",
+  "LACZ-10035",
+  "LACZ-10036",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER MILLION LIVE SPECIAL ALBUMS"
+albums = [
+  "BNGI-00007",
+  "LAPC-1073",
+  "LAPC-1074",
+  "LACA-9398~9",
+  "LAPP-1107",
+  "LAPP-1109",
+  "LAPP-1120",
+  "LACM-24025",
+  "LACM-24004",
+  "LACM-24088",
+]

@@ -1,0 +1,102 @@
+[category]
+name = "THE IDOLM@STER Shiny Colors"
+type = "AAAA"
+albums = [
+  "LACM-14781",
+  "LACM-14782",
+  "LACM-14783",
+  "LACM-14784",
+  "LACM-14785",
+  "LACM-14861",
+  "LACM-14862",
+  "LACM-14863",
+  "LACM-14864",
+  "LACM-14865",
+  "LACM-14866",
+  "LACM-14982",
+  "LACM-14987",
+  "LACM-24005",
+  "LACM-14983",
+  "LACM-14984",
+  "LACM-14985",
+  "LACM-14986",
+  "LACZ-10018",
+  "LACZ-10025",
+  "LACZ-10027~8",
+  "LACZ-10031~2",
+  "LACZ-10042~3",
+  "LACZ-10061~2",
+  "LACZ-10063~4",
+  "LACA-15861",
+  "LACA-15862",
+  "LACA-15863",
+  "LACM-14820",
+  "LACM-14906",
+  "LACM-14965",
+  "LACZ-10033",
+  "LACM-24027",
+  "LAPC-1094",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS BRILLI@NT WING"
+albums = ["LACM-14781", "LACM-14782", "LACM-14783", "LACM-14784", "LACM-14785"]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS FR@GMENT WING"
+albums = [
+  "LACM-14861",
+  "LACM-14862",
+  "LACM-14863",
+  "LACM-14864",
+  "LACM-14865",
+  "LACM-14866",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS GR@DATE WING"
+albums = [
+  "LACM-14982",
+  "LACM-14987",
+  "LACM-24005",
+  "LACM-14983",
+  "LACM-14984",
+  "LACM-14985",
+  "LACM-14986",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS L@YERED WING"
+albums = [
+  "LACM-24111",
+  "LACM-24112",
+  "LACM-24113",
+  "LACM-24114",
+  "LACM-24115",
+  "LACM-24116",
+  "LACM-24117",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION"
+albums = [
+  "LACZ-10018",
+  "LACZ-10025",
+  "LACZ-10027~8",
+  "LACZ-10031~2",
+  "LACZ-10042~3",
+  "LACZ-10061~2",
+  "LACZ-10063~4",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS"
+albums = ["LACA-15861", "LACA-15862", "LACA-15863"]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS SE@SONAL WINTER"
+albums = ["LACM-14820"]
+
+[[subcategory]]
+name = "THE IDOLM@STER SHINY COLORS OTHER"
+albums = ["LACM-14906", "LACM-14965", "LACZ-10033", "LACM-24027", "LAPC-1094"]
