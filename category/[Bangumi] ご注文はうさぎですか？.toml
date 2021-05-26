@@ -123,21 +123,5 @@ albums = [
 ]
 
 [[subcategory]]
-name = ""
-albums = []
-
-[[subcategory]]
-name = ""
-albums = []
-
-[[subcategory]]
-name = ""
-albums = []
-
-[[subcategory]]
-name = ""
-albums = []
-
-[[subcategory]]
 name = "Others"
 albums = ["GNCA-1500", "GNCA-1566", "GNCA-1567"]
