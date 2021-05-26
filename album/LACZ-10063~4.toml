@@ -1,0 +1,104 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -3rdLIVE TOUR PIECE ON PLANET／FUKUOKA-"
+artist = "シャイニーカラーズ"
+date = 2021-05-29
+type = "normal"
+catalog = "LACZ-10063~4"
+
+[[discs]]
+catalog = "LACZ-10063"
+
+[[discs.tracks]]
+title = "Happy Funny Lucky（櫻木真乃Ver.）"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "Happy Funny Lucky（風野灯織Ver.）"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "Happy Funny Lucky（八宮めぐるVer.）"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "純白トロイメライ（月岡恋鐘Ver.）"
+artist = "月岡恋鐘（礒部花凜）"
+
+[[discs.tracks]]
+title = "純白トロイメライ（田中摩美々Ver.）"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "純白トロイメライ（白瀬咲耶Ver.）"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "純白トロイメライ（三峰結華Ver.）"
+artist = "三峰結華（成海瑠奈）"
+
+[[discs.tracks]]
+title = "純白トロイメライ（幽谷霧子Ver.）"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（小宮果穂Ver.）"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（園田智代子Ver.）"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（西城樹里Ver.）"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（杜野凛世Ver.）"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（有栖川夏葉Ver.）"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs]]
+catalog = "LACZ-10064"
+
+[[discs.tracks]]
+title = "Anniversary（大崎甘奈Ver.）"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "Anniversary（大崎甜花Ver.）"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "Anniversary（桑山千雪Ver.）"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "Destined Rival（芹沢あさひVer.）"
+artist = "芹沢あさひ（田中有紀）"
+
+[[discs.tracks]]
+title = "Destined Rival（黛冬優子Ver.）"
+artist = "黛冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "Destined Rival（和泉愛依Ver.）"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "あの花のように（浅倉 透Ver.）"
+artist = "浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "あの花のように（樋口円香Ver.）"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "あの花のように（福丸小糸Ver.）"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "あの花のように（市川雛菜Ver.）"
+artist = "市川雛菜（岡咲美保）"
