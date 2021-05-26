@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER MILLION THE@TER WAVE 17 ARMooo"
+artist = "ARMooo（双海真美（下田麻美）、秋月律子（若林直美）、双海亜美（下田麻美））"
+date = 2021-05-26
+type = "normal"
+catalog = "LACM-24107"
+
+[[discs]]
+catalog = "LACM-24107"
+
+[[discs.tracks]]
+title = "フリースタイル・トップアイドル！"
+
+[[discs.tracks]]
+title = "オープニング『Battle01:Crazy beat』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Battle02:Attack of the dancer & artist』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Battle03:Hellow,my men』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『Battle04:Radio cassette player』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ウェイ・ダ・アイドル"
+
+[[discs.tracks]]
+title = "ドラマ『Battle05:Want to play with...』"
+type = "drama"
