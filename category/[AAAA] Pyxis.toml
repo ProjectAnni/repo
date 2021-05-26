@@ -1,0 +1,12 @@
+[category]
+name = "Pyxis"
+type = "AAAA"
+albums = [
+  "TECI-1511",
+  "TECI-544",
+  "TECI-582",
+  "TECI-1574",
+  "TECI-619",
+  "TECI-676",
+  "TEI-167",
+]

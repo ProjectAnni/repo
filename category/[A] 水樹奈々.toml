@@ -1,0 +1,71 @@
+[category]
+name = "水樹奈々"
+type = "A"
+albums = []
+
+[[subcategory]]
+name = "Single"
+albums = [
+  "KICM-1010",
+  "KICM-1019",
+  "KICM-1030",
+  "KICM-1047",
+  "KICM-1048",
+  "KICM-1057",
+  "KICM-1071",
+  "KICM-1075",
+  "KICM-1100",
+  "KICM-1115",
+  "KICM-1133",
+  "KICM-1148",
+  "KICM-1156",
+  "KICM-1185",
+  "KICM-1199",
+  "KICM-1211",
+  "KICM-1228",
+  "KICM-1251",
+  "KICM-1270",
+  "KICM-1294",
+  "KICM-1299",
+  "KICM-1301",
+  "KICM-1335",
+  "KICM-1336",
+  "KICM-1353",
+  "KICM-1377",
+  "KICM-1392",
+  "KICM-1403",
+  "KICM-1461",
+  "KICM-1542",
+  "KICM-1567",
+  "KICM-91590",
+  "KICM-1609",
+  "KICM-1690",
+  "KICM-1769",
+  "KICM-1770",
+  "KICM-1888",
+  "KICM-1889",
+  "KICM-1954",
+  "KICM-2063",
+]
+
+[[subcategory]]
+name = "Album"
+albums = [
+  "KICS-931",
+  "KICS-979",
+  "KICS-1043",
+  "KICS-1125",
+  "KIZC-1",
+  "KICS-91339",
+  "KICS-91470",
+  "KICS-1564",
+  "KICS-91847",
+  "KICS-93036",
+  "KICS-93297",
+  "KICS-3456",
+  "KICS-93884",
+]
+
+[[subcategory]]
+name = "Best Album"
+albums = ["KIZC-3", "KIZC-139", "KIZC-437"]
