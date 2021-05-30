@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION Vol.03 Visual Edition"
+artist = "Various Artists"
+date = 2016-01-30
+type = "normal"
+catalog = "LZM-2143"
+
+[[discs]]
+catalog = "LZM-2143"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス"
+artist = "徳川まつり（諏訪彩花）"
+
+[[discs.tracks]]
+title = "ココロがかえる場所"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "エスケープ"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "piece of cake"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "Persona Voice"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "Smiling Crescent"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "深層マーメイド"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "G♡F"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "fruity love"
+artist = "ロコ（中村温姫）"

@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! LIVE CD"
+artist = "Various Artists"
+date = 2018-11-21
+type = "normal"
+catalog = "LAPP-1107"
+
+[[discs]]
+catalog = "LAPP-1107"
+
+[[discs.tracks]]
+title = "神SUMMER!!"
+artist = "三浦あずさ（たかはし智秋）、菊地真（平田宏美）、高坂海美（上田麗奈）、篠宮可憐（近藤唯）、舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "黎明スターライン"
+artist = "箱崎星梨花（麻倉もも）、野々原茜（小笠原早紀）、二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "キラメキラリ"
+artist = "高槻やよい（仁後真耶子）、中谷育（原嶋あかり）、ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、我那覇響（沼倉愛美）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ザ・ライブ革命でSHOW！"
+artist = "春日未来（山崎はるか）、ジュリア（愛美）、佐竹美奈子（大関英里）、エミリー スチュアート（郁原ゆう）、宮尾美也（桐谷蝶々）、望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "おとなのはじまり"
+artist = "桜守歌織（香里有佐）、豊川風花（末柄里恵）、馬場このみ（高橋未奈美）、百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "秋月律子（若林直美）、萩原雪歩（浅倉杏美）、木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "Understand？Understand！"
+artist = "水瀬伊織（釘宮理恵）、周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+artist = "如月千早（今井麻美）、萩原雪歩（浅倉杏美）、水瀬伊織（釘宮理恵）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "待ち受けプリンス"
+artist = "真壁瑞希（阿部里果）、島原エレナ（角元明日香）、ロコ（中村温姫）、福田のり子（浜崎奈々）"

@@ -1,0 +1,53 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION Vol.03 Vocal Edition"
+artist = "Various Artists"
+date = 2016-01-30
+type = "normal"
+catalog = "LZM-2141"
+
+[[discs]]
+catalog = "LZM-2141"
+
+[[discs.tracks]]
+title = "Dreaming!"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "田中琴葉（種田梨沙）"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "ドリームトラベラー"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "星屑のシンフォニー"
+artist = "高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "ハルカナミライ"
+artist = "春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "Eternal Spiral"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "成長Chu→LOVER!!"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "アライブファクター"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "HELLO, YOUR ANGEL♪"
+artist = "天空橋朋花（小岩井ことり）"

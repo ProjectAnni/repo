@@ -1,0 +1,65 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION Vol.03 Dance Edition"
+artist = "Various Artists"
+date = 2016-01-30
+type = "normal"
+catalog = "LZM-2142"
+
+[[discs]]
+catalog = "LZM-2142"
+
+[[discs.tracks]]
+title = "Welcome!!"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない"
+artist = "北上麗花（平山笑美）"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "Helloコンチェルト"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "Fu-Wa-Du-Wa"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+artist = "大神環（稲川英里）"
+
+[[discs.tracks]]
+title = "Birth of Color"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "Decided"
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "Cut. Cut. Cut."
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "little trip around the world"
+artist = "エミリー スチュアート（郁原ゆう）"
+
+[[discs.tracks]]
+title = "夜に輝く星座のように"
+artist = "横山奈緒（渡部優衣）"

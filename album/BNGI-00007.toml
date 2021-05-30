@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SELECTION"
+artist = "望月杏奈（夏川椎菜）、七尾百合子（伊藤美来）、北沢志保（雨宮天）、馬場このみ（高橋未奈美）、エミリー スチュアート（郁原ゆう）"
+date = 2014-11-24
+type = "normal"
+catalog = "BNGI-00007"
+
+[[discs]]
+catalog = "BNGI-00007"
+
+[[discs.tracks]]
+title = "Sentimental Venus"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "エミリー スチュアート（郁原ゆう）"
+
+[[discs.tracks]]
+title = "Thank You!"
