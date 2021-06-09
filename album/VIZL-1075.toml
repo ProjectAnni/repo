@@ -1,0 +1,31 @@
+[album]
+title = "Winning Day／Lucky☆Lucky"
+artist = "KARAKURI、4U"
+date = 2016-12-07
+type = "normal"
+catalog = "VIZL-1075"
+
+[[discs]]
+catalog = "VIZL-1075"
+
+[[discs.tracks]]
+title = "Winning Day"
+artist = "KARAKURI（空栗ヒトハ（秋奈）、空栗フタバ（秋奈））"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky"
+artist = "4U（佐伯ヒナ（長縄まりあ）、鰐淵エモコ（吉岡茉祐）、九条ウメ（山下まみ））"
+
+[[discs.tracks]]
+title = "Winning Day -OFF VOCAL-"
+artist = "KARAKURI"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky -OFF VOCAL-"
+artist = "4U"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ライバルたちの温泉"
+type = "drama"

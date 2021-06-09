@@ -1,0 +1,27 @@
+[album]
+title = "シトラスは片想い"
+artist = "Ci+LUS（玉坂マコト（山崎エリイ）、折笠アユム（田中美海））"
+date = 2018-04-25
+type = "normal"
+catalog = "VIZL-1380"
+
+[[discs]]
+catalog = "VIZL-1380"
+
+[[discs.tracks]]
+title = "シトラスは片想い"
+
+[[discs.tracks]]
+title = "アイコトバ"
+
+[[discs.tracks]]
+title = "シトラスは片想い -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アイコトバ -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シトラスは花嫁修業中"
+type = "drama"

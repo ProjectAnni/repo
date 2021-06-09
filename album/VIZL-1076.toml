@@ -1,0 +1,27 @@
+[album]
+title = "トワイライト／タンポポ"
+artist = "Le☆S☆Ca（上杉・ウエバス・キョーコ（吉井彩実）、荒木レナ（藤田茜）、西園ホノカ（植田ひかる））"
+date = 2016-12-07
+type = "normal"
+catalog = "VIZL-1076"
+
+[[discs]]
+catalog = "VIZL-1076"
+
+[[discs.tracks]]
+title = "トワイライト"
+
+[[discs.tracks]]
+title = "タンポポ"
+
+[[discs.tracks]]
+title = "トワイライト -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "タンポポ -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "レスカ、温泉に行く。の巻"
+type = "drama"

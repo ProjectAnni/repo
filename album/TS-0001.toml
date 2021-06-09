@@ -1,0 +1,39 @@
+[album]
+title = "t7s Longing for summer"
+artist = "Tokyo 7th シスターズ"
+date = 2014-12-28
+type = "normal"
+catalog = "TS-0001"
+
+[[discs]]
+catalog = "TS-0001"
+
+[[discs.tracks]]
+title = "ハルノヘッドフォン"
+artist = "春日部ハル（篠田みなみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Star☆Glitter"
+artist = "セブンスシスターズ（七咲ニコル（水瀬いのり）、羽生田ミト（渕上舞）、御園尾マナ（前田玲奈）、寿クルト（黒瀬ゆうこ）、若王子ルイ（川崎芽衣子）、遊佐メモル（辻あゆみ））"
+
+[[discs.tracks]]
+title = "PRIZM♪RIZM"
+artist = "WITCH NUMBER 4（春日部ハル（篠田みなみ）、角森ロナ（加隈亜衣）、野ノ原ヒメ（中島唯）、芹沢モモカ（井澤詩織））"
+
+[[discs.tracks]]
+title = "AOZORA TRAIN"
+artist = "SiSH（臼田スミレ（清水彩香）、神城スイ（道井悠）、久遠寺シズカ（今井麻夏））"
+
+[[discs.tracks]]
+title = "オ・モ・イ アプローチ"
+artist = "NI+CORA（天堂寺ムスビ（高田憂希）、アレサンドラ・スース（大西沙織））"
+
+[[discs.tracks]]
+title = "たいくつりぼん"
+artist = "サンボンリボン（晴海サワラ（中村桜）、晴海カジカ（高井舞香）、晴海シンジュ（桑原由気））"
+
+[[discs.tracks]]
+title = "ハルノヘッドフォン～Longing for summer～"
+artist = "春日部ハル（篠田みなみ）"
+type = "drama"

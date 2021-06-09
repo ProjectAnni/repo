@@ -1,0 +1,27 @@
+[album]
+title = "YELLOW"
+artist = "Le☆S☆Ca（上杉・ウエバス・キョーコ（吉井彩実）、荒木レナ（藤田茜）、西園ホノカ（植田ひかる））"
+date = 2015-12-09
+type = "normal"
+catalog = "VIZL-912"
+
+[[discs]]
+catalog = "VIZL-912"
+
+[[discs.tracks]]
+title = "YELLOW"
+
+[[discs.tracks]]
+title = "Behind Moon"
+
+[[discs.tracks]]
+title = "YELLOW -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Behind Moon -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "泡沫七夜"
+type = "drama"
