@@ -1,0 +1,27 @@
+[album]
+title = "TRIGGER／Fire and Rose"
+artist = "The QUEEN of PURPLE"
+date = 2016-10-26
+type = "normal"
+catalog = "VIZL-1064"
+
+[[discs]]
+catalog = "VIZL-1064"
+
+[[discs.tracks]]
+title = "TRIGGER"
+
+[[discs.tracks]]
+title = "Fire and Rose"
+
+[[discs.tracks]]
+title = "TRIGGER -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Fire and Rose -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "女王たちの午後"
+type = "drama"

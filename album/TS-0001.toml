@@ -1,0 +1,39 @@
+[album]
+title = "t7s Longing for summer"
+artist = "Tokyo 7th シスターズ"
+date = 2014-12-28
+type = "normal"
+catalog = "TS-0001"
+
+[[discs]]
+catalog = "TS-0001"
+
+[[discs.tracks]]
+title = "ハルノヘッドフォン"
+artist = "春日部ハル（篠田みなみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Star☆Glitter"
+artist = "セブンスシスターズ"
+
+[[discs.tracks]]
+title = "PRIZM♪RIZM"
+artist = "WITCH NUMBER 4"
+
+[[discs.tracks]]
+title = "AOZORA TRAIN"
+artist = "SiSH"
+
+[[discs.tracks]]
+title = "オ・モ・イ アプローチ"
+artist = "NI+CORA"
+
+[[discs.tracks]]
+title = "たいくつりぼん"
+artist = "サンボンリボン"
+
+[[discs.tracks]]
+title = "ハルノヘッドフォン～Longing for summer～"
+artist = "春日部ハル（篠田みなみ）"
+type = "drama"

@@ -1,0 +1,16 @@
+[album]
+title = "ハルカゼ～You were here～"
+artist = "777☆SISTERS"
+date = 2017-04-19
+type = "normal"
+catalog = "VIZL-1158"
+
+[[discs]]
+catalog = "VIZL-1158"
+
+[[discs.tracks]]
+title = "ハルカゼ～You were here～"
+
+[[discs.tracks]]
+title = "ハルカゼ～You were here～ -OFF VOCAL-"
+type = "instrumental"

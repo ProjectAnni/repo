@@ -1,0 +1,31 @@
+[album]
+title = "The Present “4U”"
+artist = "4U"
+date = 2017-11-29
+type = "normal"
+catalog = "VIZL-1284"
+
+[[discs]]
+catalog = "VIZL-1284"
+
+[[discs.tracks]]
+title = "メロディーフラッグ"
+
+[[discs.tracks]]
+title = "Crazy Girl's Beat"
+
+[[discs.tracks]]
+title = "ROCKな☆アタシ"
+
+[[discs.tracks]]
+title = "青空Emotion"
+
+[[discs.tracks]]
+title = "パフェ・デ・ラブソング"
+
+[[discs.tracks]]
+title = "プレゼント・フォー・ユー"
+
+[[discs.tracks]]
+title = "カリフォルニア・ガールズ"
+type = "drama"

@@ -1,0 +1,23 @@
+[album]
+title = "スタートライン／STAY☆GOLD"
+artist = "777☆SISTERS"
+date = 2017-08-30
+type = "normal"
+catalog = "VIZL-1192"
+
+[[discs]]
+catalog = "VIZL-1192"
+
+[[discs.tracks]]
+title = "スタートライン"
+
+[[discs.tracks]]
+title = "STAY☆GOLD"
+
+[[discs.tracks]]
+title = "スタートライン -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "STAY☆GOLD -OFF VOCAL-"
+type = "instrumental"

@@ -1,0 +1,202 @@
+[album]
+title = "THE STRAIGHT LIGHT"
+artist = "Tokyo 7th シスターズ"
+date = 2018-07-04
+type = "normal"
+catalog = "VIZL-1396"
+
+[[discs]]
+catalog = "VIZL-1396-01"
+
+[[discs.tracks]]
+title = "The Straight Light"
+type = "absolute"
+
+[[discs.tracks]]
+title = "スタートライン"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "星屑☆シーカー"
+artist = "WITCH NUMBER 4"
+
+[[discs.tracks]]
+title = "プレシャス・セトラ"
+artist = "SiSH"
+
+[[discs.tracks]]
+title = "CHECK’MATE"
+artist = "NI+CORA"
+
+[[discs.tracks]]
+title = "14歳のサマーソーダ"
+artist = "サンボンリボン"
+
+[[discs.tracks]]
+title = "SHAKE!!～フリフリしちゃえ～"
+artist = "はる☆ジカ(ちいさな)"
+
+[[discs.tracks]]
+title = "タンポポ"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "トワイライト"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "ひまわりのストーリー"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "STAY☆GOLD"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "Dear Straight Lights"
+
+[[discs.tracks]]
+title = "ハルカゼ～You were here～"
+artist = "777☆SISTERS"
+
+[[discs]]
+catalog = "VIZL-1396-02"
+
+[[discs.tracks]]
+title = "PUNCH’D RANKER"
+artist = "セブンスシスターズ"
+
+[[discs.tracks]]
+title = "TRIGGER"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "Fire and Rose"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky"
+artist = "4U"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky (EMO edit)"
+artist = "4U"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky (HINA edit)"
+artist = "4U"
+
+[[discs.tracks]]
+title = "Winning Day"
+artist = "KARAKURI"
+
+[[discs.tracks]]
+title = "WORLD’S END"
+artist = "セブンスシスターズ"
+
+[[discs]]
+title = "THE STRAIGHT LIGHT - t7s オリジナルサウンドトラック 1.5「-FORGET ME NOT-」"
+catalog = "VIZL-1396-03"
+type = "absolute"
+
+[[discs.tracks]]
+title = "喧々諤々（Episode Event:1）"
+
+[[discs.tracks]]
+title = "平穏無事（Episode Event:2）"
+
+[[discs.tracks]]
+title = "CLAP HANDS SAY YES（New Scout）"
+
+[[discs.tracks]]
+title = "Round and Around（Raid Event OP）"
+
+[[discs.tracks]]
+title = "BRIGHTNESS（Performance Match Battle）"
+
+[[discs.tracks]]
+title = "ON THE EDGE（Performance Match OP）"
+
+[[discs.tracks]]
+title = "STEP☆UP 7th!!"
+
+[[discs.tracks]]
+title = "それぞれの現実"
+
+[[discs.tracks]]
+title = "沈んだ太陽"
+
+[[discs.tracks]]
+title = "きっと忘れない～FORGET ME NOT～"
+
+[[discs]]
+catalog = "VIZL-1396-04"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スタートライン -OFF VOCAL-"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "星屑☆シーカー -OFF VOCAL-"
+artist = "WITCH NUMBER 4"
+
+[[discs.tracks]]
+title = "プレシャス・セトラ -OFF VOCAL-"
+artist = "SiSH"
+
+[[discs.tracks]]
+title = "CHECK'MATE -OFF VOCAL-"
+artist = "NI+CORA"
+
+[[discs.tracks]]
+title = "14歳のサマーソーダ -OFF VOCAL-"
+artist = "サンボンリボン"
+
+[[discs.tracks]]
+title = "SHAKE!!～フリフリしちゃえ～ -OFF VOCAL-"
+artist = "はる☆ジカ (ちいさな)"
+
+[[discs.tracks]]
+title = "タンポポ -OFF VOCAL-"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "トワイライト -OFF VOCAL-"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "ひまわりのストーリー -OFF VOCAL-"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "STAY☆GOLD -OFF VOCAL-"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "ハルカゼ～You were here～ -OFF VOCAL-"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "PUNCH'D RANKER -OFF VOCAL-"
+artist = "セブンスシスターズ"
+
+[[discs.tracks]]
+title = "TRIGGER -OFF VOCAL-"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "Fire and Rose -OFF VOCAL-"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "Lucky☆Lucky -OFF VOCAL-"
+artist = "4U"
+
+[[discs.tracks]]
+title = "Winning Day -OFF VOCAL-"
+artist = "KARAKURI"
+
+[[discs.tracks]]
+title = "WORLD'S END -OFF VOCAL-"
+artist = "セブンスシスターズ"

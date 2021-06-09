@@ -1,0 +1,29 @@
+[album]
+title = 'Snow in "I love you"'
+artist = "777☆SISTERS"
+date = 2015-12-09
+type = "normal"
+catalog = "VIZL-911"
+
+[[discs]]
+catalog = "VIZL-911"
+
+[[discs.tracks]]
+title = 'Snow in "I love you"'
+
+[[discs.tracks]]
+title = "ハネ☆る!!"
+artist = "はる☆ジカ(ちいさな)"
+
+[[discs.tracks]]
+title = 'Snow in "I love you" -OFF VOCAL-'
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハネ☆る!! -OFF VOCAL-"
+artist = "はる☆ジカ(ちいさな)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "はる☆ジカ、聖夜の２日前"
+type = "drama"

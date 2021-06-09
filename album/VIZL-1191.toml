@@ -1,0 +1,23 @@
+[album]
+title = "WORLD'S END"
+artist = "セブンスシスターズ"
+date = 2017-07-26
+type = "normal"
+catalog = "VIZL-1191"
+
+[[discs]]
+catalog = "VIZL-1191"
+
+[[discs.tracks]]
+title = "WORLD'S END"
+
+[[discs.tracks]]
+title = "PUNCH'D RANKER"
+
+[[discs.tracks]]
+title = "WORLD'S END-OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "PUNCH'D RANKER-OFF VOCAL-"
+type = "instrumental"

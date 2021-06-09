@@ -1,0 +1,208 @@
+[album]
+title = "IT'S A PERFECT BLUE"
+artist = "Tokyo 7th シスターズ"
+date = 2021-03-17
+type = "normal"
+catalog = "VIZL-1871"
+
+[[discs]]
+title = "IT'S A PERFECT BLUE - Summer Sky"
+catalog = "VIZL-1871-01"
+
+[[discs.tracks]]
+title = "Overture〜WITH A TINY BLUE〜"
+
+[[discs.tracks]]
+title = "MELODY IN THE POCKET"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "夏のビードロ☆シンフォニー"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "ラブリー♡オンリー"
+artist = "SU♡SUTA(きゅうとな)"
+
+[[discs.tracks]]
+title = "シトラスは片想い"
+artist = "Ci+LUS"
+
+[[discs.tracks]]
+title = "アイコトバ"
+artist = "Ci+LUS"
+
+[[discs.tracks]]
+title = "TRICK"
+artist = "Ci+LUS"
+
+[[discs.tracks]]
+title = "空色スキップ"
+artist = "Ci+LUS"
+
+[[discs.tracks]]
+title = "SHOW TIME"
+artist = "CASQUETTE’S"
+
+[[discs.tracks]]
+title = "マスカレード・ナイト"
+artist = "CASQUETTE’S"
+
+[[discs.tracks]]
+title = "SCARLET"
+artist = "CASQUETTE’S"
+
+[[discs.tracks]]
+title = "HEAVEN'S RAVE"
+artist = "AXiS"
+
+[[discs.tracks]]
+title = "COCYTUS"
+artist = "AXiS"
+
+[[discs.tracks]]
+title = "NATSUKAGE-夏陰-"
+artist = "777☆SISTERS"
+
+[[discs]]
+title = "IT'S A PERFECT BLUE - Rainbow Sky"
+catalog = "VIZL-1871-02"
+
+[[discs.tracks]]
+title = "Shooting Sky"
+artist = "セブンスシスターズ"
+
+[[discs.tracks]]
+title = "光"
+artist = "七咲ニコル"
+
+[[discs.tracks]]
+title = "花咲キオトメ"
+artist = "七花少女"
+
+[[discs.tracks]]
+title = "スノードロップ"
+artist = "七花少女"
+
+[[discs.tracks]]
+title = "マイ・グラデイション"
+artist = "七花少女"
+
+[[discs.tracks]]
+title = "Fall in Love"
+artist = "SEASON OF LOVE"
+
+[[discs.tracks]]
+title = "コドーモ・デ・ヒーロ"
+artist = "コドモ連合"
+
+[[discs.tracks]]
+title = "LOVE AND DEVIL"
+artist = "4U"
+
+[[discs.tracks]]
+title = "AMATERRAS"
+artist = "KARAKURI"
+
+[[discs.tracks]]
+title = "アイノシズク"
+artist = "KARAKURI 2039"
+
+[[discs.tracks]]
+title = "Departures -あしたの歌-"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "リボン"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "IT'S A PERFECT BLUE, THANK YOU"
+
+[[discs.tracks]]
+title = "Across the Rainbow"
+artist = "777☆SISTERS"
+
+[[discs]]
+title = "IT'S A PERFECT BLUE - Off Vocal Tracks"
+catalog = "VIZL-1871-03"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Shooting Sky -OFF VOCAL-"
+artist = "セブンスシスターズ"
+
+[[discs.tracks]]
+title = "SUN SUN SUN -OFF VOCAL-"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "AMATERRAS -OFF VOCAL-"
+artist = "KARAKURI"
+
+[[discs.tracks]]
+title = "光 -OFF VOCAL-"
+artist = "七咲ニコル"
+
+[[discs]]
+title = "IT'S A PERFECT BLUE - Live Digest"
+catalog = "VIZL-1871-04"
+
+# 4U 1st Live!!!「The Pres“id”ent 4U」より
+[[discs.tracks]]
+title = "メロディーフラッグ"
+artist = "4U"
+
+[[discs.tracks]]
+title = "TREAT OR TREAT?"
+artist = "4U"
+
+[[discs.tracks]]
+title = "SAKURA〜WNo4 Cover〜"
+artist = "4U"
+
+[[discs.tracks]]
+title = "プレゼント・フォー・ユー"
+artist = "4U"
+
+# The QUEEN of PURPLE 1st Live “I'M THE QUEEN, AND YOU？” より
+[[discs.tracks]]
+title = "Majesty"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "THUNDERBOLT"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "I AM"
+artist = "The QUEEN of PURPLE"
+
+[[discs.tracks]]
+title = "DAYS"
+artist = "The QUEEN of PURPLE"
+
+# t7s 5th Anniversary Live -SEASON OF LOVE- in Makuhari Messe より
+[[discs.tracks]]
+title = "FUNBARE☆RUNNER"
+artist = "777☆SISTERS"
+
+[[discs.tracks]]
+title = "ミツバチ"
+artist = "Le☆S☆Ca"
+
+[[discs.tracks]]
+title = "花咲キオトメ"
+artist = "七花少女"
+
+[[discs.tracks]]
+title = "AMATERRAS"
+artist = "KARAKURI"
+
+[[discs.tracks]]
+title = "CHECK’MATE"
+artist = "NI+CORA"
+
+[[discs.tracks]]
+title = "ハルカゼ〜You were here〜"
+artist = "777☆SISTERS"
