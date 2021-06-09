@@ -100,7 +100,7 @@ catalog = "VIZL-988-03"
 
 [[discs.tracks]]
 title = "Intro -HAJIMALI-"
-artist = "Tokyo 7th シスターズ"
+type = "absolute"
 
 [[discs.tracks]]
 title = "H-A-J-I-M-A-R-I-U-T-A-!!"
