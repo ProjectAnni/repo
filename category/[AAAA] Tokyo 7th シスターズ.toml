@@ -1,0 +1,44 @@
+[category]
+name = "Tokyo 7th シスターズ"
+type = "AAAA"
+albums = ["TS-0001", "TS-0003", "VIZL-988", "VIZL-1396", "VICL-65474", "VIZL-1871"]
+
+[[subcategory]]
+name = "セブンスシスターズ"
+albums = ["VIZL-934", "VIZL-1191"]
+
+[[subcategory]]
+name = "777☆SISTERS"
+albums = ["VIZL-911", "VIZL-1158", "VIZL-1192"]
+
+[[subcategory]]
+name = "Le☆S☆Ca"
+albums = ["VIZL-912", "VIZL-1076"]
+
+[[subcategory]]
+name = "The QUEEN of PURPLE"
+albums = ["VIZL-1064"]
+
+[[subcategory]]
+name = "KARAKURI"
+albums = ["VIZL-1075"]
+
+[[subcategory]]
+name = "4U"
+albums = ["VIZL-1284", "VIZL-1075"]
+
+[[subcategory]]
+name = "Ci+LUS"
+albums = ["VIZL-1380"]
+
+[[subcategory]]
+name = "CASQUETTE’S"
+albums = []
+
+[[subcategory]]
+name = "七花少女"
+albums = []
+
+[[subcategory]]
+name = "AXiS"
+albums = []
