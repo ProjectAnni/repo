@@ -1,0 +1,24 @@
+[album]
+title = "あの夏、ふたたび。～少し大人になった少女たちの女子会～"
+artist = "Various Artists"
+date = 2020-12-02
+type = "drama"
+catalog = "KCS-8056"
+
+[[discs]]
+catalog = "KCS-8056"
+
+[[discs.tracks]]
+title = "平和のひと時"
+
+[[discs.tracks]]
+title = "冬へ向けて"
+
+[[discs.tracks]]
+title = "通り雨"
+
+[[discs.tracks]]
+title = "夏の終わり"
+
+[[discs.tracks]]
+title = "新しい夏の始まり"

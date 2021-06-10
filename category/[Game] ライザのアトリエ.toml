@@ -1,4 +1,11 @@
 [category]
 name = "ライザのアトリエ"
 type = "Game"
-albums = ["KECH-8083~4", "KCS-8055"]
+albums = [
+  # ライザのアトリエ2 ～失われた伝承と秘密の妖精～ オリジナルサウンドトラック
+  "KECH-8083~4",
+  # Geheime Musikbuch : 秘密の音楽帖 ～Atelier Ryza 2 Special Arrange CD～
+  "KCS-8055",
+  # あの夏、ふたたび。～少し大人になった少女たちの女子会～
+  "KCS-8056"
+]
