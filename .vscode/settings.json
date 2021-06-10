@@ -1,0 +1,5 @@
+{
+  "[toml]": {
+      "editor.defaultFormatter": "bodil.prettier-toml"
+  }
+}

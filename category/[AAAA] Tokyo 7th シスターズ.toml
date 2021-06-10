@@ -1,7 +1,20 @@
 [category]
 name = "Tokyo 7th シスターズ"
 type = "AAAA"
-albums = ["TS-0001", "TS-0003", "VIZL-988", "VIZL-1396", "VICL-65474", "VIZL-1871"]
+albums = [
+  # t7s Longing for summer
+  "TS-0001",
+  # H-A-J-I-M-A-L-B-U-M-!!
+  "TS-0003",
+  # Are You Ready 7th-TYPES??
+  "VIZL-988",
+  # THE STRAIGHT LIGHT
+  "VIZL-1396",
+  # 『Tokyo 7th シスターズ -僕らは青空になる-』 オリジナルサウンドトラック
+  "VICL-65474",
+  # IT'S A PERFECT BLUE
+  "VIZL-1871",
+]
 
 [[subcategory]]
 name = "セブンスシスターズ"
@@ -11,7 +24,12 @@ name = "セブンスシスターズ"
 # 寿クルト（黒瀬ゆうこ）
 # 若王子ルイ（川崎芽衣子）
 # 遊佐メモル（辻あゆみ）
-albums = ["VIZL-934", "VIZL-1191"]
+albums = [
+  # SEVENTH HAVEN
+  "VIZL-934",
+  # WORLD'S END
+  "VIZL-1191"
+]
 
 [[subcategory]]
 name = "777☆SISTERS"
@@ -27,7 +45,22 @@ name = "777☆SISTERS"
 # 晴海サワラ（中村桜）
 # 晴海カジカ（高井舞香）
 # 晴海シンジュ（桑原由気）
-albums = ["VIZL-911", "VIZL-1158", "VIZL-1192"]
+albums = [
+  # 僕らは青空になる／FUNBARE☆RUNNER
+  "VIZL-856",
+  # Snow in "I love you"
+  "VIZL-911",
+  # ハルカゼ～You were here～
+  "VIZL-1158",
+  # スタートライン／STAY☆GOLD
+  "VIZL-1192",
+  # MELODY IN THE POCKET
+  "VIZL-1449",
+  # NATSUKAGE-夏陰-
+  "VIZL-1602",
+  # Across the Rainbow
+  "VIZL-1822",
+]
 
 [[subcategory]]
 name = "WITCH NUMBER 4"
@@ -62,7 +95,12 @@ name = "Le☆S☆Ca"
 # 上杉・ウエバス・キョーコ（吉井彩実） → 上杉・ウエバス・キョーコ（井上ほの花） [2019-02-28]
 # 荒木レナ（藤田茜） → 荒木レナ（飯塚麻結）[2019-04-22]
 # 西園ホノカ（植田ひかる）
-albums = ["VIZL-912", "VIZL-1076"]
+albums = [
+  # YELLOW
+  "VIZL-912",
+  # トワイライト／タンポポ
+  "VIZL-1076",
+]
 
 [[subcategory]]
 name = "The QUEEN of PURPLE"
@@ -70,13 +108,19 @@ name = "The QUEEN of PURPLE"
 # 瀬戸ファーブ（広瀬ゆうき）
 # 堺屋ユメノ（山本彩乃）
 # 三森マツリ（巽悠衣子）
-albums = ["VIZL-1064"]
+albums = [
+  # TRIGGER／Fire and Rose
+  "VIZL-1064",
+]
 
 [[subcategory]]
 name = "Ci+LUS"
 # 玉坂マコト（山崎エリイ）
 # 折笠アユム（田中美海）
-albums = ["VIZL-1380"]
+albums = [
+  # シトラスは片想い
+  "VIZL-1380",
+]
 
 [[subcategory]]
 name = "CASQUETTE’S"
@@ -114,13 +158,21 @@ name = "4U"
 # 佐伯ヒナ（長縄まりあ）
 # 鰐淵エモコ（吉岡茉祐）
 # 九条ウメ（山下まみ）
-albums = ["VIZL-1284", "VIZL-1075"]
+albums = [
+  # The Present “4U”
+  "VIZL-1284",
+  # Winning Day／Lucky☆Lucky
+  "VIZL-1075",
+]
 
 [[subcategory]]
 name = "KARAKURI"
 # 空栗ヒトハ（秋奈）
 # 空栗フタバ（秋奈）
-albums = ["VIZL-1075"]
+albums = [
+  # Winning Day／Lucky☆Lucky
+  "VIZL-1075",
+]
 
 [[subcategory]]
 name = "AXiS"
