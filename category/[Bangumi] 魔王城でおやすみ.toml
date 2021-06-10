@@ -1,4 +1,11 @@
 [category]
 name = "魔王城でおやすみ"
 type = "Bangumi"
-albums = ["LACM-24047", "LAPS-4000", "LACA-15853"]
+albums = [
+  # OP: 快眠！安眠！スヤリスト生活
+  "LACM-24047",
+  # ED: Gimmme!
+  "LAPS-4000",
+  # TV アニメ『魔王城でおやすみ』オリジナルサウンドトラック
+  "LACA-15853"
+]

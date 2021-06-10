@@ -1,0 +1,23 @@
+[album]
+title = "Gimmme!"
+artist = "ORESAMA"
+date = 2020-10-14
+type = "normal"
+catalog = "LAPS-4000"
+
+[[discs]]
+catalog = "LAPS-4000"
+
+[[discs.tracks]]
+title = "Gimmme!"
+
+[[discs.tracks]]
+title = "夜行ノ雨"
+
+[[discs.tracks]]
+title = "Gimmme! [Instrumental]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夜行ノ雨 [Instrumental]"
+type = "instrumental"

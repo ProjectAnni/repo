@@ -1,0 +1,27 @@
+[album]
+title = "快眠！安眠！スヤリスト生活"
+artist = "スヤリス姫（水瀬いのり）、魔王タソガレ（松岡禎丞）、勇者アカツキ（下野紘）"
+date = 2020-10-28
+type = "normal"
+catalog = "LACM-24047"
+
+[[discs]]
+catalog = "LACM-24047"
+
+[[discs.tracks]]
+title = "快眠！安眠！スヤリスト生活"
+artist = "スヤリス姫（水瀬いのり）"
+
+[[discs.tracks]]
+title = "ナイトウィルカム"
+artist = "魔王タソガレ（松岡禎丞）、勇者アカツキ（下野紘）"
+
+[[discs.tracks]]
+title = "快眠！安眠！スヤリスト生活(Off Vocal)"
+artist = "スヤリス姫（水瀬いのり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ナイトウィルカム(Off Vocal)"
+artist = "魔王タソガレ（松岡禎丞）、勇者アカツキ（下野紘）"
+type = "instrumental"
