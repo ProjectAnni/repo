@@ -1,0 +1,54 @@
+[album]
+title = "It's my CUE."
+artist = "田所あずさ"
+date = 2016-07-06
+type = "normal"
+catalog = "LACA-35562"
+
+[[discs]]
+catalog = "LACA-35562"
+
+[[discs.tracks]]
+title = "Come on,A-Z!! (before the CUE)"
+
+[[discs.tracks]]
+title = "It's my CUE."
+
+[[discs.tracks]]
+title = "Fighter’s high"
+
+[[discs.tracks]]
+title = "spit out"
+
+[[discs.tracks]]
+title = "君との約束を数えよう"
+
+[[discs.tracks]]
+title = "孤毒ディストレス"
+
+[[discs.tracks]]
+title = "夜はいつか朝になる"
+
+[[discs.tracks]]
+title = "世界が終わったあとの夜"
+
+[[discs.tracks]]
+title = "ALERT from THE END"
+
+[[discs.tracks]]
+title = "アンソリティア"
+
+[[discs.tracks]]
+title = "英雄なんていない"
+
+[[discs.tracks]]
+title = "DREAM LINE（CUE mix）"
+
+[[discs.tracks]]
+title = "Straight Forward"
+
+[[discs.tracks]]
+title = "Boom! Boom!"
+
+[[discs.tracks]]
+title = "純真Always"

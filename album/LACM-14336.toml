@@ -1,0 +1,18 @@
+[album]
+title = "DREAM LINE【ビジュアル盤】"
+artist = "田所あずさ"
+date = 2015-04-22
+type = "normal"
+catalog = "LACM-14336"
+
+[[discs]]
+catalog = "LACM-14336"
+
+[[discs.tracks]]
+title = "DREAM LINE"
+
+[[discs.tracks]]
+title = "POSITIVE SHAKING"
+
+[[discs.tracks]]
+title = "セツナレター"

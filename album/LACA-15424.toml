@@ -1,0 +1,45 @@
+[album]
+title = "Beyond Myself!"
+artist = "田所あずさ"
+date = 2014-07-30
+type = "normal"
+catalog = "LACA-15424"
+
+[[discs]]
+catalog = "LACA-15424"
+
+[[discs.tracks]]
+title = "Hello My Revolution"
+
+[[discs.tracks]]
+title = "Wonderful Dreamer"
+
+[[discs.tracks]]
+title = "Brilliant Sensation"
+
+[[discs.tracks]]
+title = "Beautiful Wind"
+
+[[discs.tracks]]
+title = "いいことありそう。"
+
+[[discs.tracks]]
+title = "愛しさの存在"
+
+[[discs.tracks]]
+title = "ヒカリになって"
+
+[[discs.tracks]]
+title = "キセキ"
+
+[[discs.tracks]]
+title = "スキミ→♥"
+
+[[discs.tracks]]
+title = "あおぞら"
+
+[[discs.tracks]]
+title = "ツボミノコエ"
+
+[[discs.tracks]]
+title = "チュルリルラ♪ ～未来バスに乗って～"

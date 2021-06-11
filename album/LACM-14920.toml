@@ -1,0 +1,18 @@
+[album]
+title = "イコール"
+artist = "田所あずさ"
+date = 2019-08-21
+type = "normal"
+catalog = "LACM-14920"
+
+[[discs]]
+catalog = "LACM-14920"
+
+[[discs.tracks]]
+title = "イコール"
+
+[[discs.tracks]]
+title = "あずさ２号のテーマ"
+
+[[discs.tracks]]
+title = "焦らずにいこう"
