@@ -1,0 +1,26 @@
+[album]
+title = "アイドルマスター ミリオンライブ! Blooming Clover 5 オリジナルCD"
+artist = "Various Artists"
+date = 2019-06-27
+type = "normal"
+catalog = "ISBN-9784049124668"
+
+[[discs]]
+catalog = "ISBN-9784049124668"
+
+[[discs.tracks]]
+title = "Clover Days"
+artist = "Clover（矢吹可奈（木戸衣吹）、北沢志保（雨宮天）、箱崎星梨花（麻倉もも）、高坂海美（上田麗奈））"
+
+[[discs.tracks]]
+title = "キラメキラリ"
+artist = "野々原茜（小笠原早紀）、白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "矢吹可奈（木戸衣吹）、北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、野々原茜（小笠原早紀）、横山奈緒（渡部優衣）、北上麗花（平山笑美）、白石紬（南早紀）"
+type = "drama"

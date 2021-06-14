@@ -1,0 +1,27 @@
+[album]
+title = "THE IDOLM@STER MILLION RADIO! U・N・M・E・I ライブ"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+date = 2014-06-04
+type = "normal"
+catalog = "LACM-34234"
+
+[[discs]]
+catalog = "LACM-34234"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ"
+
+[[discs.tracks]]
+title = "Thank You! -MR remix-"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 特別編「お泊り会」"
+type = "drama"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Thank You! -MR remix- (Off Vocal)"
+type = "instrumental"

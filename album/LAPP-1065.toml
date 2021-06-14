@@ -1,0 +1,18 @@
+[album]
+title = "THE IDOLM@STER MILLION RADIO! 765PRO LIVE THE@TER ミリラジ劇場セレクション ～とらのあな～"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+date = 2014-06-04
+type = "drama"
+catalog = "LAPP-1065"
+
+[[discs]]
+catalog = "LAPP-1065"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第3回「あだ名」"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第24回「私の話」"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第33回「乙女の涙」"

@@ -1,0 +1,26 @@
+[album]
+title = "アイドルマスター ミリオンライブ! Blooming Clover 3 オリジナルCD"
+artist = "Various Artists"
+date = 2018-07-27
+type = "normal"
+catalog = "ISBN-9784048938082"
+
+[[discs]]
+catalog = "ISBN-9784048938082"
+
+[[discs.tracks]]
+title = "神SUMMER!!"
+artist = "ダブルエース（佐竹美奈子（大関英里）、横山奈緒（渡部優衣））"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE"
+artist = "天海春香（中村繪里子）、春日未来（山崎はるか）、矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "MUSIC♪"
+artist = "桜守歌織（香里有佐）、高山紗代子（駒形友梨）、矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、高山紗代子（駒形友梨）、桜守歌織（香里有佐）、大神環（稲川英里）"
+type = "drama"

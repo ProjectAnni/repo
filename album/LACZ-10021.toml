@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 07 フェアリースターズ"
+artist = "Various Artists"
+date = 2019-04-27
+type = "normal"
+catalog = "LACZ-10021"
+
+[[discs]]
+catalog = "LACZ-10021"
+
+[[discs.tracks]]
+title = "Dreamscape"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "P.S I Love You"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "brave HARMONY"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "永遠の花"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "Melty Fantasia"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "I.D～EScape from Utopia～"
+artist = "白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "ビッグバンズ・バリボー!!!!!"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "餞の鳥"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "月曜日のクリームソーダ"
+artist = "ロコ（中村温姫）"

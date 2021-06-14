@@ -1,0 +1,22 @@
+[album]
+title = "アイドルマスター ミリオンライブ! Blooming Clover 8 オリジナルCD"
+artist = "Various Artists"
+date = 2021-01-27
+type = "normal"
+catalog = "ISBN-9784049134186"
+
+[[discs]]
+catalog = "ISBN-9784049134186"
+
+[[discs.tracks]]
+title = "スタートリップ"
+artist = "ジュリア（愛美）、二階堂千鶴（野村香菜子）、箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "聖炎の女神"
+artist = "天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）、二階堂千鶴（野村香菜子）、百瀬莉緒（山口立花子）"
+type = "drama"

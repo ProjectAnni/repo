@@ -1,0 +1,21 @@
+[album]
+title = "君との明日を願うから"
+artist = "Various Artists"
+date = 2017-03-31
+type = "normal"
+catalog = "LZC-1132"
+
+[[discs]]
+catalog = "LZC-1132"
+
+[[discs.tracks]]
+title = "君との明日を願うから"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "Flooding"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "アイル (Harmonized ver.)"
+artist = "伊吹翼（Machico）、ジュリア（愛美）、真壁瑞希（阿部里果）"
