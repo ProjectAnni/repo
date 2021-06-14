@@ -1,0 +1,17 @@
+[album]
+title = "アイドルマスター ミリオンライブ! 5 オリジナルCD"
+artist = "Various Artists"
+date = 2016-12-09
+type = "normal"
+catalog = "ISBN-9784099418847"
+
+[[discs]]
+catalog = "ISBN-9784099418847"
+
+[[discs.tracks]]
+title = "君との明日を願うから"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "私はアイドル♥"
+artist = "真壁瑞希（阿部里果）、所恵美（藤井ゆきよ）、宮尾美也（桐谷蝶々）、周防桃子（渡部恵子）、徳川まつり（諏訪彩花）"

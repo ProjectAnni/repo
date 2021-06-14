@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 05 765PRO ALLSTARS"
+artist = "Various Artists"
+date = 2018-01-05
+type = "normal"
+catalog = "LZM-2165"
+
+[[discs]]
+catalog = "LZM-2165"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ!"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "たしかな足跡"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "little trip around the world"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Beat the World!!"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = '"Your" HOME TOWN'
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "ジャングル☆パーティー"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "秘密のメモリーズ"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "深層マーメイド"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Persona Voice"
+artist = "萩原雪歩（浅倉杏美）"

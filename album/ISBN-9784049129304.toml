@@ -1,0 +1,22 @@
+[album]
+title = "アイドルマスター ミリオンライブ! Blooming Clover 6 オリジナルCD"
+artist = "Various Artists"
+date = 2020-03-27
+type = "normal"
+catalog = "ISBN-9784049129304"
+
+[[discs]]
+catalog = "ISBN-9784049129304"
+
+[[discs.tracks]]
+title = "自転車"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "チクタク"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、双海真美（下田麻美）、七尾百合子（伊藤美来）、豊川風花（末柄里恵）"
+type = "drama"

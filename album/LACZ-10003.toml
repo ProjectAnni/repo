@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 06 フェアリースターズ"
+artist = "Various Artists"
+date = 2018-06-01
+type = "normal"
+catalog = "LACZ-10003"
+
+[[discs]]
+catalog = "LACZ-10003"
+
+[[discs.tracks]]
+title = "ココロがかえる場所"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "Dreaming!"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "エスケープ"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Flooding"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "ターンオンタイム!"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "ゲキテキ！ムテキ！恋したい！"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "FairyTaleじゃいられない"
+artist = "白石紬（南早紀）"

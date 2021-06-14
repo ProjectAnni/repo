@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 04 BlueMoon Theater"
+artist = "Various Artists"
+date = 2017-03-09
+type = "normal"
+catalog = "LZM-2156"
+
+[[discs]]
+catalog = "LZM-2156"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "Sentimental Venus"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "Beat the World!!"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "Flooding"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+artist = "七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "赤い世界が消える頃"
+artist = "北上麗花（平山笑美）"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "プリムラ"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "待ちぼうけのLacrima"
+artist = "高山紗代子（駒形友梨）"

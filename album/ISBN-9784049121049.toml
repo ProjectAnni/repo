@@ -1,0 +1,26 @@
+[album]
+title = "アイドルマスター ミリオンライブ! Blooming Clover 4 オリジナルCD"
+artist = "Various Artists"
+date = 2018-12-27
+type = "normal"
+catalog = "ISBN-9784049121049"
+
+[[discs]]
+catalog = "ISBN-9784049121049"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "トライスタービジョン（田中琴葉（種田梨沙）、所恵美（藤井ゆきよ）、島原エレナ（角元明日香））"
+
+[[discs.tracks]]
+title = "Dreaming!"
+artist = "矢吹可奈（木戸衣吹）、箱崎星梨花（麻倉もも）、高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "i"
+artist = "箱崎星梨花（麻倉もも）、松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、北沢志保（雨宮天）、春日未来（山崎はるか）、田中琴葉（種田梨沙）、永吉昴（斉藤佑圭）"
+type = "drama"

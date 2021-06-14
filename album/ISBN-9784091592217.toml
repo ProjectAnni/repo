@@ -1,0 +1,27 @@
+[album]
+title = "アイドルマスター ミリオンライブ! 3 オリジナルCD"
+artist = "伊吹翼（Machico）、ジュリア（愛美）、真壁瑞希（阿部里果）"
+date = 2016-01-12
+type = "drama"
+catalog = "ISBN-9784091592217"
+
+[[discs]]
+catalog = "ISBN-9784091592217"
+
+[[discs.tracks]]
+title = "ドラマパート1"
+
+[[discs.tracks]]
+title = "アイル"
+artist = "伊吹翼（Machico）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ドラマパート2"
+
+[[discs.tracks]]
+title = "my song"
+type = "normal"
+
+[[discs.tracks]]
+title = "ドラマパート3"

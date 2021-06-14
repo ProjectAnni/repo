@@ -1,0 +1,57 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 04 Sunshine Theater"
+artist = "Various Artists"
+date = 2017-03-09
+type = "normal"
+catalog = "LZM-2155"
+
+[[discs]]
+catalog = "LZM-2155"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "Eternal Harmony"
+artist = "エミリー スチュアート（郁原ゆう）"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "HELLO, YOUR ANGEL♪"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = '"Your" HOME TOWN'
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "たしかな足跡"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "ランニング・ハイッ"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "ゲキテキ！ムテキ！恋したい！"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "Bonnes! Bonnes!! Vacances!!!"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "望月杏奈（夏川椎菜）"

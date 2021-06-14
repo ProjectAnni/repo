@@ -1,0 +1,18 @@
+[album]
+title = "THE IDOLM@STER MILLION RADIO! 765PRO LIVE THE@TER ミリラジ劇場セレクション ～アニメイト～"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+date = 2014-06-04
+type = "drama"
+catalog = "LAPP-1063"
+
+[[discs]]
+catalog = "LAPP-1063"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第1回「どうしたの？」"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第20回「まだまだ」"
+
+[[discs.tracks]]
+title = "ミリラジ劇場 第41回「どうしよう？」"
