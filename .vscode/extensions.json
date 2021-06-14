@@ -1,10 +1,4 @@
 {
-	"recommendations": [
-		"amasfe.even-better-toml",
-		"bodil.prettier-toml"
-	],
-	"unwantedRecommendations": [
-		"bungcip.better-toml",
-		"be5invis.toml"
-	]
+  "recommendations": ["tamasfe.even-better-toml", "bodil.prettier-toml"],
+  "unwantedRecommendations": ["bungcip.better-toml", "be5invis.toml"]
 }
