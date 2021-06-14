@@ -1,0 +1,51 @@
+[album]
+title = "So What？"
+artist = "田所あずさ"
+date = 2017-10-25
+type = "normal"
+catalog = "LACA-35659"
+
+[[discs]]
+catalog = "LACA-35659"
+
+[[discs.tracks]]
+title = "涙 one of them"
+
+[[discs.tracks]]
+title = "1HOPE SNIPER"
+
+[[discs.tracks]]
+title = "ストーリーテラー"
+
+[[discs.tracks]]
+title = "ギミーシェルター・ブライトネス"
+
+[[discs.tracks]]
+title = "スーパースタールーザー（So What？ mix）"
+
+[[discs.tracks]]
+title = "Pajama KINGDOM"
+
+[[discs.tracks]]
+title = "そう上手くいかないものです。"
+
+[[discs.tracks]]
+title = "DEAREST DROP"
+
+[[discs.tracks]]
+title = "Crying"
+
+[[discs.tracks]]
+title = "僕は空を飛べない"
+
+[[discs.tracks]]
+title = "Aiming for Utopia"
+
+[[discs.tracks]]
+title = "I canʼt live without you."
+
+[[discs.tracks]]
+title = "運命ジレンマ"
+
+[[discs.tracks]]
+title = "ころあるき"

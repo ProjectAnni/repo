@@ -1,0 +1,39 @@
+[album]
+title = "Waver"
+artist = "田所あずさ"
+date = 2021-01-27
+type = "normal"
+catalog = "LACA-15837"
+
+[[discs]]
+catalog = "LACA-15837"
+
+[[discs.tracks]]
+title = "レイドバック・ガール"
+
+[[discs.tracks]]
+title = "ちっちゃな怪獣"
+
+[[discs.tracks]]
+title = "ソールに花びら"
+
+[[discs.tracks]]
+title = "Rest in a Stroke"
+
+[[discs.tracks]]
+title = "クリシェ"
+
+[[discs.tracks]]
+title = "死神とロマンス"
+
+[[discs.tracks]]
+title = "徒然恋愛サバイバー"
+
+[[discs.tracks]]
+title = "ころあるこ。"
+
+[[discs.tracks]]
+title = "いつか暮れた街の空に"
+
+[[discs.tracks]]
+title = "Waver"

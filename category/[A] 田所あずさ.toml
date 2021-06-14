@@ -1,0 +1,39 @@
+[category]
+name = "田所あずさ"
+type = "A"
+albums = [
+  # DREAM LINE【ビジュアル盤】
+  "LACM-14336",
+  # DREAM LINE【イラスト盤】
+  "LACM-14337",
+  # 君との約束を数えよう【Type.A】
+  "LACM-14383",
+  # 君との約束を数えよう【Type.B】
+  "LACM-14384",
+  # 純真Always
+  "LACM-14441",
+  # 1HOPE SNIPER
+  "LACM-14536",
+  # 運命ジレンマ
+  "LACM-14567",
+  # DEAREST DROP
+  "LACM-14588",
+  # RESOLVE
+  "LACM-14776",
+  # リトルソルジャー
+  "LACM-14821",
+  # イコール
+  "LACM-14920",
+  # RIVALS
+  "LACM-14943",
+  # ヤサシイセカイ
+  "LACM-24048",
+  # Beyond Myself!
+  "LACA-15424",
+  # It's my CUE.
+  "LACA-35562",
+  # So What？
+  "LACA-35659",
+  # Waver
+  "LACA-15837",
+]
