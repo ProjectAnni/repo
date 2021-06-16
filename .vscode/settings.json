@@ -1,5 +1,5 @@
 {
   "[toml]": {
-      "editor.defaultFormatter": "bodil.prettier-toml"
+    "editor.defaultFormatter": "bodil.prettier-toml"
   }
 }

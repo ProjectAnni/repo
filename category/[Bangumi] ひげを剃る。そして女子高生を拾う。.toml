@@ -1,0 +1,11 @@
+[category]
+name = "ひげを剃る。そして女子高生を拾う。"
+type = "Bangumi"
+albums = [
+  # OP: おもいでしりとり
+  "PCCG-02010",
+  # ED: Plastic Smile
+  "PCCG-01967",
+  # TVアニメ「ひげを剃る。そして女子高生を拾う。」オリジナル・サウンドトラック
+  "PCCG-02034",
+]
