@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER THE@TER BOOST 02"
+artist = "桜守歌織（香里有佐）、最上静香（田所あずさ）、望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、宮尾美也（桐谷蝶々）"
+date = 2018-10-24
+type = "normal"
+catalog = "LACM-14812"
+
+[[discs]]
+catalog = "LACM-14812"
+
+[[discs.tracks]]
+title = "ドラマ『空猫珈琲店へようこそ！』／『プロローグ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+
+[[discs.tracks]]
+title = "ドラマ『空猫珈琲店へようこそ！』／『前編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『空猫珈琲店へようこそ！』／『後編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
+
+[[discs.tracks]]
+title = "ドラマ『空猫珈琲店へようこそ！』／『エピローグ』"
+type = "drama"

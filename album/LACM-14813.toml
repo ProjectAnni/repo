@@ -1,0 +1,27 @@
+[album]
+title = "THE IDOLM@STER THE@TER BOOST 03"
+artist = "田中琴葉（種田梨沙）、周防桃子（渡部恵子）、馬場このみ（高橋未奈美）、真壁瑞希（阿部里果）、白石紬（南早紀）"
+date = 2018-11-28
+type = "normal"
+catalog = "LACM-14813"
+
+[[discs]]
+catalog = "LACM-14813"
+
+[[discs.tracks]]
+title = "ドラマ『屋根裏の道化師』／『オープニング』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+
+[[discs.tracks]]
+title = "ドラマ『屋根裏の道化師』／『本編』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『屋根裏の道化師』／『カーテンコール』"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"

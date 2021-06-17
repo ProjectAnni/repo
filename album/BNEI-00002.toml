@@ -1,0 +1,28 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! 765プロライブシアター 記念パーティードラマCD"
+artist = "Various Artists"
+date = 2015-04-06
+type = "drama"
+catalog = "BNEI-00002"
+
+[[discs]]
+catalog = "BNEI-00002-01"
+
+[[discs.tracks]]
+title = "ドラマ 01"
+
+[[discs.tracks]]
+title = "ドラマ 02"
+
+[[discs.tracks]]
+title = "ドラマ 03"
+
+[[discs.tracks]]
+title = "ドラマ 04"
+
+[[discs]]
+title = "THE IDOLM@STER MILLION LIVE! 2周年記念 キャストコメンタリー"
+catalog = "BNEI-00002-02"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER MILLION LIVE! 2周年記念 キャストコメンタリー"

@@ -1,0 +1,15 @@
+[album]
+title = "THE IDOLM@STER MILLION RADIO! ENDLESS TOUR"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+date = 2020-04-29
+type = "normal"
+catalog = "LACM-14961"
+
+[[discs]]
+catalog = "LACM-14961"
+
+[[discs.tracks]]
+title = "ENDLESS TOUR"
+
+[[discs.tracks]]
+title = "Flyers!!! -MR remix-"
