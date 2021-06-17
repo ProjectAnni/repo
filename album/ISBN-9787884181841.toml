@@ -1,0 +1,45 @@
+[album]
+title = "明日方舟OST2"
+artist = "Monster Siren Records"
+date = 2021-01-21
+type = "absolute"
+catalog = "ISBN-9787884181841"
+
+[[discs]]
+catalog = "ISBN-9787884181841"
+
+[[discs.tracks]]
+title = "0:00:01"
+
+[[discs.tracks]]
+title = "近卫局攻坚小队"
+
+[[discs.tracks]]
+title = "Абсолю́тный нуль температу́ры (absolute zero)"
+
+[[discs.tracks]]
+title = "37℃"
+
+[[discs.tracks]]
+title = "来自雪原的回响"
+
+[[discs.tracks]]
+title = "江湾小酌"
+
+[[discs.tracks]]
+title = "Dash！"
+
+[[discs.tracks]]
+title = "阴云"
+
+[[discs.tracks]]
+title = "落子无悔"
+
+[[discs.tracks]]
+title = "尘沙扬"
+
+[[discs.tracks]]
+title = "尽归霜雪"
+
+[[discs.tracks]]
+title = "奇兵天坠"

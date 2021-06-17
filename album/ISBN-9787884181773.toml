@@ -1,0 +1,45 @@
+[album]
+title = "明日方舟OST1"
+artist = "Monster Siren Records"
+date = 2021-01-21
+type = "absolute"
+catalog = "ISBN-9787884181773"
+
+[[discs]]
+catalog = "ISBN-9787884181773"
+
+[[discs.tracks]]
+title = "血液"
+
+[[discs.tracks]]
+title = "执棋者之骨"
+
+[[discs.tracks]]
+title = "永冻症"
+
+[[discs.tracks]]
+title = "人性"
+
+[[discs.tracks]]
+title = "短兵相接"
+
+[[discs.tracks]]
+title = "大柏墟"
+
+[[discs.tracks]]
+title = "终局抵抗者"
+
+[[discs.tracks]]
+title = "生命流"
+
+[[discs.tracks]]
+title = "泛用型自动化解决方案0.3.2.9f2"
+
+[[discs.tracks]]
+title = "Synthetech"
+
+[[discs.tracks]]
+title = "逃亡 part2"
+
+[[discs.tracks]]
+title = "旅途前方"
