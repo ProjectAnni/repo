@@ -1,0 +1,34 @@
+[album]
+title = "少女☆歌劇 レヴュースタァライト -The LIVE- #2 Transition 特典CD"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2019-02-27
+type = "normal"
+catalog = "BRMM-10175"
+
+[[discs]]
+catalog = "BRMM-10175"
+
+[[discs.tracks]]
+title = "バックコール"
+artist = "スタァライト九九組、99期 舞台創造科"
+
+[[discs.tracks]]
+title = "TOP"
+
+[[discs.tracks]]
+title = "青い嵐"
+artist = "青嵐総合芸術院"
+
+[[discs.tracks]]
+title = "Tear"
+
+[[discs.tracks]]
+title = "The Show Must Go On!"
+
+[[discs.tracks]]
+title = "群青"
+artist = "スタァライト九九組、青嵐総合芸術院"
+
+[[discs.tracks]]
+title = "Still in a dream."
+artist = "スタァライト九九組、青嵐総合芸術院"

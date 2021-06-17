@@ -1,0 +1,102 @@
+[album]
+title = "少女☆寸劇 オールスタァライト オリジナルサウンドトラック"
+artist = "Various Artists"
+date = 2020-03-25
+type = "absolute"
+catalog = "TGCS-11531"
+
+[[discs]]
+catalog = "TGCS-11531"
+
+[[discs.tracks]]
+title = "花よ夢よ"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "マエストーソ"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "フロンティアスピリッツ"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "木漏れ日の庭"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "ごきげんよう"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "小さなプロムナード"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "ねじ巻き小鳥のアラベスク"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "アン・ドゥ・トロワ"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "プチギニョール"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "どんなバナナの叩き売り"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "のべつ幕無し"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "ジャジャジャジャジャン"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "キリングマリンバ"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "キリングリコーダ"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "仔キリンのためのワルツ"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "えるの小劇場"
+artist = "PandaBoY"
+
+[[discs.tracks]]
+title = "めでたしめでたし"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "伝説の演技力チャレンジ! 大場なな"
+artist = "大場なな（小泉萌香）"
+type = "normal"
+
+[[discs.tracks]]
+title = "伝説の演技力チャレンジ! 石動双葉"
+artist = "石動双葉（生田輝）"
+type = "normal"
+
+[[discs.tracks]]
+title = "伝説の演技力チャレンジ! 星見純那"
+artist = "星見純那（佐藤日向）"
+type = "normal"
+
+[[discs.tracks]]
+title = "伝説の演技力チャレンジ! 愛城華恋"
+artist = "愛城華恋（小山百代）"
+type = "normal"
+
+[[discs.tracks]]
+title = "伝説の演技力チャレンジ! 天堂真矢"
+artist = "天堂真矢（富田麻帆）"
+type = "normal"

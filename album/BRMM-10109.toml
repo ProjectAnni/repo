@@ -1,0 +1,30 @@
+[album]
+title = "少女☆歌劇 レヴュースタァライト -The LIVE- #1 revival 特典CD"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2018-06-27
+type = "normal"
+catalog = "BRMM-10109"
+
+[[discs]]
+catalog = "BRMM-10109"
+
+[[discs.tracks]]
+title = "3・7・5・1・0"
+
+[[discs.tracks]]
+title = "ポジションゼロへ！"
+
+[[discs.tracks]]
+title = "私たちの居る理由"
+
+[[discs.tracks]]
+title = "ジャンヌダルク"
+
+[[discs.tracks]]
+title = "RE:"
+
+[[discs.tracks]]
+title = "Resist"
+
+[[discs.tracks]]
+title = "Glittering Stars"

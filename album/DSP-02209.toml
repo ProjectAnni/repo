@@ -1,0 +1,99 @@
+[album]
+title = '少女☆歌劇 レヴュースタァライト オーケストラライブ "Starry Konzert" Live CD'
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2019-08-07
+type = "normal"
+catalog = "DSP-02209"
+
+[[discs]]
+catalog = "DSP-02209"
+
+[[discs.tracks]]
+title = "星のダイアローグ"
+
+[[discs.tracks]]
+title = "劇伴 ふたりのセレナーデ"
+type = "absolute"
+
+[[discs.tracks]]
+title = "劇伴 華恋とひかり"
+type = "absolute"
+
+[[discs.tracks]]
+title = "世界を灰にするまで [前半]"
+
+[[discs.tracks]]
+title = "劇伴 再生産"
+type = "absolute"
+
+[[discs.tracks]]
+title = "世界を灰にするまで [後半]"
+
+[[discs.tracks]]
+title = "劇伴 starhood"
+type = "absolute"
+
+[[discs.tracks]]
+title = "The Star Knows"
+
+[[discs.tracks]]
+title = "劇伴 anti daydream"
+type = "absolute"
+
+[[discs.tracks]]
+title = "誇りと驕り"
+
+[[discs.tracks]]
+title = "劇伴 dot to dot"
+type = "absolute"
+
+[[discs.tracks]]
+title = "恋の魔球"
+
+[[discs.tracks]]
+title = "劇伴 ランチボックス"
+type = "absolute"
+
+[[discs.tracks]]
+title = "花咲か唄"
+
+[[discs.tracks]]
+title = "劇伴 暗転"
+type = "absolute"
+
+[[discs.tracks]]
+title = "RE:CREATE"
+
+[[discs.tracks]]
+title = "星々の絆"
+
+[[discs.tracks]]
+title = "劇伴 ロンド・ロンド・ロンド"
+type = "absolute"
+
+[[discs.tracks]]
+title = "劇伴 dawn of the star"
+type = "absolute"
+
+[[discs.tracks]]
+title = "-Star Divine- フィナーレ"
+
+[[discs.tracks]]
+title = "劇伴 rendez-vous: 遙かなる約束"
+type = "absolute"
+
+[[discs.tracks]]
+title = "舞台少女心得 幕間"
+
+[[discs.tracks]]
+title = "劇伴 starlight curtain"
+type = "absolute"
+
+[[discs.tracks]]
+title = "スタァライト"
+
+[[discs.tracks]]
+title = "Fly Me to the Star"
+
+[[discs.tracks]]
+title = "Star Divine"

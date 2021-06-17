@@ -1,0 +1,71 @@
+[album]
+title = '少女☆歌劇 レヴュースタァライト 2ndスタァライブ "Starry Desert" Live CD'
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2019-04-17
+type = "normal"
+catalog = "DSP-02197"
+
+[[discs]]
+catalog = "DSP-02197"
+
+[[discs.tracks]]
+title = "星のダイアローグ"
+
+[[discs.tracks]]
+title = "舞台プレパレイション"
+
+[[discs.tracks]]
+title = "恋は太陽 ～CIRCUS!～"
+
+[[discs.tracks]]
+title = "My friend ～Arrie～"
+
+[[discs.tracks]]
+title = "You are a ghost, I am a ghost ～劇場のゴースト～"
+
+[[discs.tracks]]
+title = "Fly me to the Star"
+artist = "スタァライト九九組"
+
+[[discs.tracks]]
+title = "世界を灰にするまで"
+artist = "星見純那（佐藤日向）、神楽ひかり（三森すずこ）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "The Star Knows"
+artist = "星見純那（佐藤日向）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "誇りと驕り"
+artist = "愛城華恋（小山百代）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "恋の魔球"
+artist = "露崎まひる（岩田陽葵）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "花咲か唄"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+
+[[discs.tracks]]
+title = "RE:CREATE"
+artist = "神楽ひかり（三森すずこ）、大場なな（小泉萌香）"
+
+[[discs.tracks]]
+title = "星々の絆"
+artist = "大場なな（小泉萌香）、愛城華恋（小山百代）"
+
+[[discs.tracks]]
+title = "-Star Divine- フィナーレ"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+
+[[discs.tracks]]
+title = "舞台少女心得 幕間"
+artist = "愛城華恋（小山百代）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、石動双葉（生田輝）、花柳香子（伊藤彩沙）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、天堂真矢（富田麻帆）"
+
+[[discs.tracks]]
+title = "スタァライト"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "約束タワー"
