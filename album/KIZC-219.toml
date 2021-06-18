@@ -1,0 +1,47 @@
+[album]
+title = "Bunny"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2013-10-23
+type = "normal"
+catalog = "KIZC-219"
+
+[[discs]]
+catalog = "KIZC-219"
+
+[[discs.tracks]]
+title = "ウェィカッ!!"
+
+[[discs.tracks]]
+title = "君が世界で世界は君で"
+
+[[discs.tracks]]
+title = "圧倒的な GO!!"
+
+[[discs.tracks]]
+title = "Blitzallies"
+
+[[discs.tracks]]
+title = "in Wonderful Wonder"
+artist = "小倉唯"
+
+[[discs.tracks]]
+title = "Sunny Ray Beam!!"
+artist = "石原夏織"
+
+[[discs.tracks]]
+title = "Shiny Blue"
+
+[[discs.tracks]]
+title = "翼になるよ"
+
+[[discs.tracks]]
+title = "marble"
+
+[[discs.tracks]]
+title = "君のYELL"
+
+[[discs.tracks]]
+title = "Jumpin’ Bunny Flash!!"
+
+[[discs.tracks]]
+title = "星降る夜のハッピーリンク"

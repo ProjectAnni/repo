@@ -1,0 +1,47 @@
+[album]
+title = "Puppy"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2011-09-21
+type = "normal"
+catalog = "KICS-91722"
+
+[[discs]]
+catalog = "KICS-91722"
+
+[[discs.tracks]]
+title = "恋のオーバーテイク"
+
+[[discs.tracks]]
+title = "PUPPY LOVE!!"
+
+[[discs.tracks]]
+title = "未来形アイドル"
+
+[[discs.tracks]]
+title = "VIVIVID PARTY!"
+
+[[discs.tracks]]
+title = "キュッ!キュッ!CURIOSITY!!"
+artist = "小倉唯"
+
+[[discs.tracks]]
+title = "Magic starter"
+artist = "石原夏織"
+
+[[discs.tracks]]
+title = "ふたり"
+
+[[discs.tracks]]
+title = "駆け抜けてBlue"
+
+[[discs.tracks]]
+title = "HEARTBEATが止まらないっ！"
+
+[[discs.tracks]]
+title = "Shooting☆Smile"
+
+[[discs.tracks]]
+title = "クリスタルの誓い"
+
+[[discs.tracks]]
+title = "Our Steady Boy"

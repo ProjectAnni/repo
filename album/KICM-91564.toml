@@ -1,0 +1,23 @@
+[album]
+title = "NEO SIGNALIFE"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2015-01-07
+type = "normal"
+catalog = "KICM-91564"
+
+[[discs]]
+catalog = "KICM-91564"
+
+[[discs.tracks]]
+title = "NEO SIGNALIFE"
+
+[[discs.tracks]]
+title = "オリオンからのメッセージ"
+
+[[discs.tracks]]
+title = "NEO SIGNALIFE (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オリオンからのメッセージ (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,23 @@
+[album]
+title = "LUCKY DUCKY!!"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2014-04-09
+type = "normal"
+catalog = "KICM-91512"
+
+[[discs]]
+catalog = "KICM-91512"
+
+[[discs.tracks]]
+title = "LUCKY DUCKY!!"
+
+[[discs.tracks]]
+title = "恋するストール"
+
+[[discs.tracks]]
+title = "LUCKY DUCKY!! (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "恋するストール (off vocal ver.)"
+type = "instrumental"

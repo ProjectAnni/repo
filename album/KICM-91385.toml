@@ -1,0 +1,23 @@
+[album]
+title = "君のYELL"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2012-03-14
+type = "normal"
+catalog = "KICM-91385"
+
+[[discs]]
+catalog = "KICM-91385"
+
+[[discs.tracks]]
+title = "君のYELL"
+
+[[discs.tracks]]
+title = "圧倒的な GO!!"
+
+[[discs.tracks]]
+title = "君のYELL (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "圧倒的な GO!! (off vocal ver.)"
+type = "instrumental"

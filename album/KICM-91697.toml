@@ -1,0 +1,23 @@
+[album]
+title = "Promise You!!"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2016-08-10
+type = "normal"
+catalog = "KICM-91697"
+
+[[discs]]
+catalog = "KICM-91697"
+
+[[discs.tracks]]
+title = "Promise You!!"
+
+[[discs.tracks]]
+title = "真夏ハプニング"
+
+[[discs.tracks]]
+title = "Promise You!! (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "真夏ハプニング (off vocal ver.)"
+type = "instrumental"

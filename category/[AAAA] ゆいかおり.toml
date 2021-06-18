@@ -1,0 +1,37 @@
+[category]
+name = "ゆいかおり"
+type = "AAAA"
+albums = [
+  # Our Steady Boy
+  "KIZM-49",
+  # ふたり／VIVIVID PARTY!
+  "KIZM-61",
+  # HEARTBEATが止まらないっ！
+  "KICM-91322",
+  # Shooting☆Smile
+  "KICM-91334",
+  # Puppy
+  "KICS-91722",
+  # 君のYELL
+  "KICM-91385",
+  # ウェィカッ!!
+  "KICM-91417",
+  # Shiny Blue
+  "KICM-91438",
+  # Bunny
+  "KIZC-219",
+  # LUCKY DUCKY!!
+  "KICM-91512",
+  # Intro Situation
+  "KICM-91523",
+  # NEO SIGNALIFE
+  "KICM-91564",
+  # Ring Ring Rainbow!!
+  "KICM-91605",
+  # Bright Canary
+  "KIZC-339",
+  # Promise You!!
+  "KICM-91697",
+  # Y＆K
+  "KIZC-395~6",
+]

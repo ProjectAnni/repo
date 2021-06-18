@@ -1,0 +1,23 @@
+[album]
+title = "HEARTBEATが止まらないっ！"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2010-11-17
+type = "normal"
+catalog = "KICM-91322"
+
+[[discs]]
+catalog = "KICM-91322"
+
+[[discs.tracks]]
+title = "HEARTBEATが止まらないっ！"
+
+[[discs.tracks]]
+title = "Our Song"
+
+[[discs.tracks]]
+title = "HEARTBEATが止まらないっ！(off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Our Song (off vocal ver.)"
+type = "instrumental"
