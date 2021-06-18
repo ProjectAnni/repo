@@ -1,0 +1,23 @@
+[album]
+title = "Shooting☆Smile"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2011-04-06
+type = "normal"
+catalog = "KICM-91334"
+
+[[discs]]
+catalog = "KICM-91334"
+
+[[discs.tracks]]
+title = "Shooting☆Smile"
+
+[[discs.tracks]]
+title = "CUE the Future　～「Q」のテーマ～"
+
+[[discs.tracks]]
+title = "Shooting☆Smile (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "CUE the Future　～「Q」のテーマ～ (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,23 @@
+[album]
+title = "Our Steady Boy"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2010-05-12
+type = "normal"
+catalog = "KIZM-49"
+
+[[discs]]
+catalog = "KIZM-49"
+
+[[discs.tracks]]
+title = "Our Steady Boy"
+
+[[discs.tracks]]
+title = "もうひとりの私"
+
+[[discs.tracks]]
+title = "Our Steady Boy (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "もうひとりの私 (off vocal ver.)"
+type = "instrumental"

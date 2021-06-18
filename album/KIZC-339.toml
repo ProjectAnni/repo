@@ -1,0 +1,47 @@
+[album]
+title = "Bright Canary"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2015-11-04
+type = "normal"
+catalog = "KIZC-339"
+
+[[discs]]
+catalog = "KIZC-339"
+
+[[discs.tracks]]
+title = "倍速∞ラブストレート"
+
+[[discs.tracks]]
+title = "Ring Ring Rainbow!!"
+
+[[discs.tracks]]
+title = "カナリア"
+
+[[discs.tracks]]
+title = "Telephone Call"
+artist = "石原夏織"
+
+[[discs.tracks]]
+title = "ライアーシープ"
+artist = "小倉唯"
+
+[[discs.tracks]]
+title = "New World"
+
+[[discs.tracks]]
+title = "LUCKY DUCKY!!"
+
+[[discs.tracks]]
+title = "オリオンからのメッセージ"
+
+[[discs.tracks]]
+title = "Intro Situation"
+
+[[discs.tracks]]
+title = "Rainy Day"
+
+[[discs.tracks]]
+title = "NEO SIGNALIFE"
+
+[[discs.tracks]]
+title = "Billion-Carat"

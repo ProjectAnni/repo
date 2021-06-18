@@ -1,0 +1,23 @@
+[album]
+title = "Ring Ring Rainbow!!"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2015-08-05
+type = "normal"
+catalog = "KICM-91605"
+
+[[discs]]
+catalog = "KICM-91605"
+
+[[discs.tracks]]
+title = "Ring Ring Rainbow!!"
+
+[[discs.tracks]]
+title = "Calling Calling"
+
+[[discs.tracks]]
+title = "Ring Ring Rainbow!! (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Calling Calling (off vocal ver.)"
+type = "instrumental"

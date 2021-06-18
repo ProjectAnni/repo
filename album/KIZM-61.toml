@@ -1,0 +1,23 @@
+[album]
+title = "ふたり／VIVIVID PARTY!"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2010-07-21
+type = "normal"
+catalog = "KIZM-61"
+
+[[discs]]
+catalog = "KIZM-61"
+
+[[discs.tracks]]
+title = "ふたり"
+
+[[discs.tracks]]
+title = "VIVIVID PARTY!"
+
+[[discs.tracks]]
+title = "ふたり (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VIVIVID PARTY! (off vocal ver.)"
+type = "instrumental"

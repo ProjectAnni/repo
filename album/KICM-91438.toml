@@ -1,0 +1,23 @@
+[album]
+title = "Shiny Blue"
+artist = "ゆいかおり（小倉唯、石原夏織）"
+date = 2013-03-13
+type = "normal"
+catalog = "KICM-91438"
+
+[[discs]]
+catalog = "KICM-91438"
+
+[[discs.tracks]]
+title = "Shiny Blue"
+
+[[discs.tracks]]
+title = "ハツコイメイズ"
+
+[[discs.tracks]]
+title = "Shiny Blue (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハツコイメイズ (off vocal ver.)"
+type = "instrumental"
