@@ -1,0 +1,23 @@
+[album]
+title = "動く、動く"
+artist = "チト（水瀬いのり）、ユーリ（久保ユリカ）"
+date = 2017-11-29
+type = "normal"
+catalog = "ZMCZ-11749"
+
+[[discs]]
+catalog = "ZMCZ-11749"
+
+[[discs.tracks]]
+title = "動く、動く"
+
+[[discs.tracks]]
+title = "Endless Journey"
+
+[[discs.tracks]]
+title = "動く、動く (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Endless Journey (instrumental)"
+type = "instrumental"
