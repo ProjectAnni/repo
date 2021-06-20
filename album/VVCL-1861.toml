@@ -1,0 +1,23 @@
+[album]
+title = "誰が為に愛は鳴る"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2021-06-09
+type = "normal"
+catalog = "VVCL-1861"
+
+[[discs]]
+catalog = "VVCL-1861"
+
+[[discs.tracks]]
+title = "誰が為に愛は鳴る"
+
+[[discs.tracks]]
+title = "ひだまりの場所"
+
+[[discs.tracks]]
+title = "誰が為に愛は鳴る -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ひだまりの場所 -Instrumental-"
+type = "instrumental"
