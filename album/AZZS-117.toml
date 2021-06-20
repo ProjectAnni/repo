@@ -1,0 +1,24 @@
+[album]
+title = "透明な付箋"
+artist = "高橋李依"
+date = 2021-06-23
+type = "normal"
+catalog = "AZZS-117"
+
+[[discs]]
+catalog = "AZZS-117"
+
+[[discs.tracks]]
+title = "カメレオンシンドローム"
+
+[[discs.tracks]]
+title = "U撃つ"
+
+[[discs.tracks]]
+title = "不健康社会"
+
+[[discs.tracks]]
+title = "ひとつがいマグネティック"
+
+[[discs.tracks]]
+title = "ハウメニィ"
