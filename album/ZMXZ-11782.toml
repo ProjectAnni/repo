@@ -1,0 +1,77 @@
+[album]
+title = "少女終末旅行 Special CD"
+artist = "末廣健一郎"
+date = 2018-02-23
+type = "absolute"
+catalog = "ZMXZ-11782"
+
+[[discs]]
+catalog = "ZMXZ-11782"
+
+[[discs.tracks]]
+title = "少女終末旅行 –Main Theme-"
+
+[[discs.tracks]]
+title = "あの瓦礫の向こうへ"
+
+[[discs.tracks]]
+title = "風ト廃墟ノ散歩道"
+
+[[discs.tracks]]
+title = "時ノ記憶"
+
+[[discs.tracks]]
+title = "フタリボッチ"
+
+[[discs.tracks]]
+title = "君と過ごす日々"
+
+[[discs.tracks]]
+title = "チーズって何?"
+
+[[discs.tracks]]
+title = "チトとユーリ"
+
+[[discs.tracks]]
+title = "優シイ日々"
+
+[[discs.tracks]]
+title = "君ヲ想ウ"
+
+[[discs.tracks]]
+title = "静寂ノ旅路"
+
+[[discs.tracks]]
+title = "行動ト前進"
+
+[[discs.tracks]]
+title = "瞳ニ映ル景色"
+
+[[discs.tracks]]
+title = "ヌコ"
+
+[[discs.tracks]]
+title = "文明の痕跡"
+
+[[discs.tracks]]
+title = "終ワリノ歌"
+
+[[discs.tracks]]
+title = "動く、動く (チトver.)"
+artist = "チト（水瀬いのり）"
+type = "normal"
+
+[[discs.tracks]]
+title = "動く、動く (ユーリver.)"
+artist = "ユーリ（久保ユリカ）"
+type = "normal"
+
+[[discs.tracks]]
+title = "More One Night (チトver.)"
+artist = "チト（水瀬いのり）"
+type = "normal"
+
+[[discs.tracks]]
+title = "More One Night (ユーリver.)"
+artist = "ユーリ（久保ユリカ）"
+type = "normal"
