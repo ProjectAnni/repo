@@ -1,0 +1,23 @@
+[album]
+title = "More One Night"
+artist = "チト（水瀬いのり）、ユーリ（久保ユリカ）"
+date = 2017-11-29
+type = "normal"
+catalog = "ZMCZ-11750"
+
+[[discs]]
+catalog = "ZMCZ-11750"
+
+[[discs.tracks]]
+title = "More One Night"
+
+[[discs.tracks]]
+title = "雨だれの歌"
+
+[[discs.tracks]]
+title = "More One Night (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "雨だれの歌 (instrumental)"
+type = "instrumental"
