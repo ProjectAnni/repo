@@ -369,7 +369,7 @@ title = "この木の下で"
 artist = "多田葵"
 
 [[discs.tracks]]
-title = "SleepingForest"
+title = "Sleeping Forest"
 artist = "多田葵"
 
 [[discs.tracks]]
@@ -512,13 +512,13 @@ title = "Rain Song"
 title = "Alchemy (Yui ver.)"
 
 [[discs.tracks]]
-title = "一番の宝物(Yui ver.)"
+title = "一番の宝物 (Yui ver.)"
 
 [[discs.tracks]]
 title = "Little Braver (Album ver.)"
 
 [[discs.tracks]]
-title = "My Song(Yui ver.)"
+title = "My Song (Yui ver.)"
 
 [[discs.tracks]]
 title = "Answer Song"
@@ -654,6 +654,7 @@ title = "Live for You"
 [[discs.tracks]]
 title = "Feedback"
 artist = "光収容"
+type = "absolute"
 
 [[discs]]
 title = "Charlotte シングル／アルバム・ECHO 他より"
@@ -696,6 +697,7 @@ title = "Live For You[Japanese Ver.]"
 [[discs.tracks]]
 title = "Feedback"
 artist = "光収容"
+type = "absolute"
 
 [[discs]]
 title = "Charlotte シングル／OST・Trigger 他より"
@@ -929,6 +931,7 @@ artist = "Rita"
 [[discs.tracks]]
 title = "MC Rita"
 artist = "Rita"
+type = "vocal"
 
 [[discs.tracks]]
 title = "Alicemagic"
@@ -937,6 +940,7 @@ artist = "Rita"
 [[discs.tracks]]
 title = "Instrument - 幻想 -"
 artist = "戸越まごめ"
+type = "absolute"
 
 [[discs.tracks]]
 title = "メグメル"
@@ -1073,19 +1077,19 @@ title = "Little Busters！(DJ Shimamuras Remix)"
 artist = "Rita"
 
 [[discs.tracks]]
-title = "one's future(Dee!'s SPEEDKING Remix)"
+title = "one's future (Dee!'s SPEEDKING Remix)"
 artist = "鈴田美夜子"
 
 [[discs.tracks]]
-title = "星屑(すみじゅん Remix)"
+title = "星屑 (すみじゅん Remix)"
 artist = "霜月はるか"
 
 [[discs.tracks]]
-title = "Saya's Song(NTMGmix)"
+title = "Saya's Song (NTMGmix)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "Alicemagic(MUZIK SERVANT Remix)"
+title = "Alicemagic (MUZIK SERVANT Remix)"
 artist = "Rita"
 
 [[discs]]
@@ -1271,7 +1275,7 @@ title = "オーバー"
 artist = "茶太"
 
 [[discs.tracks]]
-title = "Birthday song requiem"
+title = "Birthday Song,Requiem"
 artist = "Lia"
 
 [[discs.tracks]]
@@ -1327,7 +1331,7 @@ title = "Visual Art's 20th Anniversary Remixes より"
 catalog = "KSLA-1029"
 
 [[discs.tracks]]
-title = "Last regrets(EastNewSound Remix)"
+title = "Last regrets (EastNewSound Remix)"
 artist = "彩菜"
 
 [[discs.tracks]]
@@ -1335,7 +1339,7 @@ title = "青空 (katsu+すみじゅん Remix)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "メグメル(Tracy Remix)"
+title = "メグメル (Tracy Remix)"
 artist = "riya"
 
 [[discs.tracks]]
@@ -1351,7 +1355,7 @@ title = "時を刻む唄 (100-200+tanigon remix)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "星屑(Kouki Izumi Remix)"
+title = "星屑 (Kouki Izumi Remix)"
 artist = "霜月はるか"
 
 [[discs.tracks]]
@@ -1359,11 +1363,11 @@ title = "Little Busters! (Nhato Remix)"
 artist = "Rita"
 
 [[discs.tracks]]
-title = "Alicemagic(Tsukasa Remix)"
+title = "Alicemagic (Tsukasa Remix)"
 artist = "Rita"
 
 [[discs.tracks]]
-title = "Philosophyz(MUZIK SERVANT Remix)"
+title = "Philosophyz (MUZIK SERVANT Remix)"
 artist = "水谷瑠奈（NanosizeMir）"
 
 [[discs.tracks]]
@@ -1371,7 +1375,7 @@ title = "Rewrite (DJ Shimamura's Drumscape Remix)"
 artist = "サイキックラバー"
 
 [[discs.tracks]]
-title = "鳥の詩（PandaBoY Remix）"
+title = "鳥の詩 (PandaBoY Remix)"
 artist = "Lia"
 
 [[discs]]
@@ -1499,15 +1503,15 @@ artist = "Lily on the FIeLD"
 
 [[discs.tracks]]
 title = "隠しトラック（Last regrets 仮歌ver）"
-artist = "高瀬一矢"
+artist = "高瀬一矢（I've）"
 
 [[discs.tracks]]
 title = "録りの詩"
-artist = "高瀬一矢"
+artist = "高瀬一矢（I've）"
 
 [[discs.tracks]]
 title = "風邪の辿り着く場所"
-artist = "高瀬一矢"
+artist = "高瀬一矢（I've）"
 
 [[discs.tracks]]
 title = "Philosophyz (溝口ゆうま remix)"
@@ -1526,47 +1530,47 @@ title = "Modification of Key Sounds Label より"
 catalog = "KSLA-1033"
 
 [[discs.tracks]]
-title = "My Soul,Your Beats!(DJ SHARPNEL Remix)"
+title = "My Soul,Your Beats! (DJ SHARPNEL Remix)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "Crow Song(DJ Shimamura Remix)"
+title = "Crow Song (DJ Shimamura Remix)"
 artist = "marina（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "Alchemy(MUZIK SERVANT vs you Remix)"
+title = "Alchemy (MUZIK SERVANT vs you Remix)"
 artist = "marina（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "My Song(ITM Remix)"
+title = "My Song (ITM Remix)"
 artist = "marina（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "Answer Song(Tracy Remix)"
+title = "Answer Song (Tracy Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "23:50(MK Remix)"
+title = "23:50 (MK Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "Thousand Enemies(Heavenly Guitar Remix)"
+title = "Thousand Enemies (Heavenly Guitar Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "Shine Days(KAN TAKAHIKO Remix)"
+title = "Shine Days (KAN TAKAHIKO Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "一番の宝物(D.watt Remix)"
+title = "一番の宝物 (D.watt Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs.tracks]]
-title = "Brave Song(colate Remix)"
+title = "Brave Song (colate Remix)"
 artist = "多田葵"
 
 [[discs.tracks]]
-title = "Little Braver(Freezer Remix)"
+title = "Little Braver (Freezer Remix)"
 artist = "LiSA（Girls Dead Monster）"
 
 [[discs]]
@@ -1724,6 +1728,7 @@ artist = "藤田秀綱"
 [[discs.tracks]]
 title = "Shadow of Silence"
 artist = "丹野恭司"
+type = "absolute"
 
 [[discs.tracks]]
 title = "Wrist"
@@ -1736,6 +1741,7 @@ artist = "藤田秀綱"
 [[discs.tracks]]
 title = "HIGHWAY PASSING"
 artist = "清川伸"
+type = "absolute"
 
 [[discs.tracks]]
 title = "LOVE IS ETERNAL"
@@ -1905,6 +1911,7 @@ artist = "Lia"
 [[discs.tracks]]
 title = "BGM Remixies"
 artist = "Key Sound Team"
+type = "absolute"
 
 [[discs.tracks]]
 title = "雨のち晴れ -Remix-"
@@ -1924,51 +1931,41 @@ artist = "やなぎなぎ"
 
 [[discs]]
 title = "nature couleur より"
+artist = "北沢綾香"
 catalog = "KSLA-1042"
 
 [[discs.tracks]]
 title = "水の旅人"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "風ひととせ"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "星屑Evolution！"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "夕暮れ小径"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "search for the future"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "空恋人魚"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "明日への黙示録"
-artist = "北沢綾香"
 
 [[discs.tracks]]
-title = "デュアル?ムーン"
-artist = "北沢綾香"
+title = "デュアル・ムーン"
 
 [[discs.tracks]]
 title = "Connected Relation"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "君への勇気"
-artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "Star rain"
-artist = "北沢綾香"
 
 [[discs]]
 title = "ピュアネスラプソディー より"
@@ -2124,7 +2121,7 @@ catalog = "KSLA-1046"
 
 [[discs.tracks]]
 title = "FirstTwinkle"
-artist = "折戸伸治、北沢綾香"
+artist = "北沢綾香"
 
 [[discs.tracks]]
 title = "Emotional Blue"
@@ -2239,7 +2236,7 @@ title = "ピクルスをおいしくするつくりかた KSL Live World 2013 ve
 artist = "二木佳奈多（すずきけいこ）"
 
 [[discs.tracks]]
-title = "Mission-Love sniper KSL Live World 2013 ver"
+title = "Mission:Love sniper KSL Live World 2013 ver"
 artist = "棗鈴（民安ともえ）"
 
 [[discs.tracks]]
@@ -2287,27 +2284,27 @@ title = "KSL Ultimate Remixes より"
 catalog = "KSLA-1049"
 
 [[discs.tracks]]
-title = "Ray of Light(Heavy Metal Remix)"
+title = "Ray of Light (Heavy Metal Remix)"
 artist = "ZHIEND"
 
 [[discs.tracks]]
-title = "メグメル(LU-I Remix)"
+title = "メグメル (LU-I Remix)"
 artist = "riya"
 
 [[discs.tracks]]
-title = "Light colors(Tsukasa feat. DiGiTAL WiNG Remix)"
+title = "Light colors (Tsukasa feat. DiGiTAL WiNG Remix)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "Twinkle Starlight(溝口ゆうまRemix)"
+title = "Twinkle Starlight (溝口ゆうまRemix)"
 artist = "佐咲紗花"
 
 [[discs.tracks]]
-title = "鳥の詩(Tori No Uta 2018 db)"
+title = "鳥の詩 (Tori No Uta 2018 db)"
 artist = "Lia"
 
 [[discs.tracks]]
-title = "僕らの旅(Freezer Remix)"
+title = "僕らの旅 (Freezer Remix)"
 artist = "北沢綾香"
 
 [[discs.tracks]]
@@ -2315,7 +2312,7 @@ title = "サンブライト (Brightest Sunflowers Remix)"
 artist = "北沢綾香"
 
 [[discs.tracks]]
-title = "闇の彼方へ(Night Funk Remix)"
+title = "闇の彼方へ (Night Funk Remix)"
 artist = "水谷瑠奈（NanosizeMir）"
 
 [[discs]]
