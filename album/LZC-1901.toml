@@ -1,0 +1,12 @@
+[album]
+title = "リフレインキス (Brand New Ver.)"
+artist = "スコーピオ（北沢志保（雨宮天）、高坂海美（上田麗奈）、田中琴葉（種田梨沙）、松田亜利沙（村川梨衣））"
+date = 2021-06-10
+type = "normal"
+catalog = "LZC-1901"
+
+[[discs]]
+catalog = "LZC-1901"
+
+[[discs.tracks]]
+title = "リフレインキス (Brand New Ver.)"

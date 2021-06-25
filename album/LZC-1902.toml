@@ -1,0 +1,12 @@
+[album]
+title = "花びらメモリーズ"
+artist = "白石紬（南早紀）、佐竹美奈子（大関英里）、周防桃子（渡部恵子）、所恵美（藤井ゆきよ）"
+date = 2021-06-25
+type = "normal"
+catalog = "LZC-1902"
+
+[[discs]]
+catalog = "LZC-1902"
+
+[[discs.tracks]]
+title = "花びらメモリーズ"
