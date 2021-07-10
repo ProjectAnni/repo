@@ -1,0 +1,27 @@
+[album]
+title = "First Step"
+artist = "長瀬麻奈（神田沙也加）"
+date = 2021-03-03
+type = "normal"
+catalog = "SMCL-669"
+
+[[discs]]
+catalog = "SMCL-669"
+
+[[discs.tracks]]
+title = "First Step"
+
+[[discs.tracks]]
+title = "星の海の記憶"
+
+[[discs.tracks]]
+title = "First Step (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "星の海の記憶 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "長瀬麻奈 Portrait Voice"
+type = "vocal"

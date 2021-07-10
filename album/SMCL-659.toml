@@ -1,0 +1,43 @@
+[album]
+title = "The Last Chance"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+date = 2021-02-17
+type = "normal"
+catalog = "SMCL-659"
+
+[[discs]]
+catalog = "SMCL-659"
+
+[[discs.tracks]]
+title = "The Last Chance"
+
+[[discs.tracks]]
+title = "Shock out, Dance!!"
+
+[[discs.tracks]]
+title = "The Last Chance (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Shock out, Dance!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "神崎莉央 Portrait Voice"
+artist = "神崎莉央（戸松遥）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "井川 葵 Portrait Voice"
+artist = "井川葵（高垣彩陽）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "小美山 愛 Portrait Voice"
+artist = "小美山愛（寿美菜子）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "赤崎こころ Portrait Voice"
+artist = "赤崎こころ（豊崎愛生）"
+type = "vocal"

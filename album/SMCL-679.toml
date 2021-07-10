@@ -1,0 +1,27 @@
+[album]
+title = "Shining Days"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+date = 2021-03-10
+type = "normal"
+catalog = "SMCL-679"
+
+[[discs]]
+catalog = "SMCL-679"
+
+[[discs.tracks]]
+title = "Shining Days"
+
+[[discs.tracks]]
+title = "SUNNY PEACE HARMONY"
+
+[[discs.tracks]]
+title = "Shining Days (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SUNNY PEACE HARMONY (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サニーピース Voice Drama 〜デビューライブ後の反省会？（サニーピース編）〜"
+type = "drama"

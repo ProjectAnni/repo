@@ -1,0 +1,80 @@
+[album]
+title = "IDOLY PRIDE"
+artist = "星見プロダクション（長瀬琴乃（橘美來）、川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、伊吹渚（夏目ここな）、佐伯遙子（佐々木奈緒）、白石沙季（宮沢小春）、白石千紗（高尾奏音）、成宮すず（相川奏多）、早坂芽衣（日向もか）、兵藤雫（首藤志奈））"
+date = 2021-02-10
+type = "normal"
+catalog = "MCL-656"
+
+[[discs]]
+catalog = "MCL-656"
+
+[[discs.tracks]]
+title = "IDOLY PRIDE"
+
+[[discs.tracks]]
+title = "The Sun, Moon and Stars"
+
+[[discs.tracks]]
+title = "サヨナラから始まる物語"
+
+[[discs.tracks]]
+title = "IDOLY PRIDE (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "The Sun, Moon and Stars (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サヨナラから始まる物語 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "長瀬琴乃 Portrait Voice"
+artist = "長瀬琴乃（橘美來）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "川咲さくら Portrait Voice"
+artist = "川咲さくら（菅野真衣）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "一ノ瀬 怜 Portrait Voice"
+artist = "一ノ瀬怜（結城萌子）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "伊吹 渚 Portrait Voice"
+artist = "伊吹 渚（夏目ここな）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "佐伯遙子 Portrait Voice"
+artist = "佐伯遙子（佐々木奈緒）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "白石沙季 Portrait Voice"
+artist = "白石沙季（宮沢小春）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "白石千紗 Portrait Voice"
+artist = "白石千紗（高尾奏音）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "成宮すず Portrait Voice"
+artist = "成宮すず（相川奏多）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "早坂芽衣 Portrait Voice"
+artist = "早坂芽衣（日向もか）"
+type = "vocal"
+
+[[discs.tracks]]
+title = "兵藤 雫 Portrait Voice"
+artist = "兵藤雫（首藤志奈）"
+type = "vocal"
