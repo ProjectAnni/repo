@@ -1,0 +1,40 @@
+[album]
+title = "SHINY DAYS"
+artist = "亜咲花"
+date = 2018-01-24
+type = "normal"
+catalog = "USSW-0070"
+
+[[discs]]
+catalog = "USSW-0070"
+
+[[discs.tracks]]
+title = "ドラマパート「キャンプに行こう!」"
+artist = "各務原なでしこ（花守ゆみり）"
+type = "drama"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+
+[[discs.tracks]]
+title = "ドラマパート「キャンプにぴったり!!」"
+artist = "各務原なでしこ（花守ゆみり）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Just A Way You Are"
+
+[[discs.tracks]]
+title = "Round of new thing"
+
+[[discs.tracks]]
+title = "SHINY DAYS (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Just A Way You Are (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Round of new thing (off vocal)"
+type = "instrumental"

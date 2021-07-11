@@ -1,0 +1,30 @@
+[album]
+title = "ふゆびより"
+artist = "佐々木恵梨"
+date = 2018-01-24
+type = "normal"
+catalog = "USSW-0071"
+
+[[discs]]
+catalog = "USSW-0071"
+
+[[discs.tracks]]
+title = "ふゆびより"
+
+[[discs.tracks]]
+title = "YURUSU"
+
+[[discs.tracks]]
+title = "Time To Wake Up"
+
+[[discs.tracks]]
+title = "ふゆびより (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "YURUSU (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Time To Wake Up (off vocal)"
+type = "instrumental"
