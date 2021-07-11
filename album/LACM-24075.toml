@@ -1,0 +1,23 @@
+[album]
+title = "残酷な夢と眠れ"
+artist = "栗林みな実"
+date = 2021-01-27
+type = "normal"
+catalog = "LACM-24075"
+
+[[discs]]
+catalog = "LACM-24075"
+
+[[discs.tracks]]
+title = "残酷な夢と眠れ"
+
+[[discs.tracks]]
+title = "深い蒼の森"
+
+[[discs.tracks]]
+title = "残酷な夢と眠れ (OFF VOCAL)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "深い蒼の森 (OFF VOCAL)"
+type = "instrumental"
