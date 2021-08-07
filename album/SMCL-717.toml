@@ -1,0 +1,30 @@
+[album]
+title = "フリイジア"
+artist = "雨宮天"
+date = 2021-07-21
+type = "normal"
+catalog = "SMCL-717"
+
+[[discs]]
+catalog = "SMCL-717"
+
+[[discs.tracks]]
+title = "フリイジア"
+
+[[discs.tracks]]
+title = "情熱のテ・アモ"
+
+[[discs.tracks]]
+title = "Emerald"
+
+[[discs.tracks]]
+title = "フリイジア (Instrumental)"
+type = "instrumenal"
+
+[[discs.tracks]]
+title = "情熱のテ・アモ (Instrumental)"
+type = "instrumenal"
+
+[[discs.tracks]]
+title = "Emerald (Instrumental)"
+type = "instrumenal"
