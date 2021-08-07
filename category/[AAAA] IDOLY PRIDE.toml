@@ -1,0 +1,17 @@
+[category]
+name = "IDOLY PRIDE"
+type = "AAAA"
+albums = [
+  # IDOLY PRIDE
+  "MCL-656",
+  # The Last Chance
+  "SMCL-659",
+  # réaliser
+  "SMCL-668",
+  # First Step
+  "SMCL-669",
+  # Shining Days
+  "SMCL-679",
+  # Daytime Moon
+  "SMCL-689"
+]

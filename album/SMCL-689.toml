@@ -1,0 +1,27 @@
+[album]
+title = "Daytime Moon"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+date = 2021-03-17
+type = "normal"
+catalog = "SMCL-689"
+
+[[discs]]
+catalog = "SMCL-689"
+
+[[discs.tracks]]
+title = "Daytime Moon"
+
+[[discs.tracks]]
+title = "月下儚美"
+
+[[discs.tracks]]
+title = "Daytime Moon (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "月下儚美 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "月のテンペスト Voice Drama 〜デビューライブ後の反省会？（月のテンペスト編）〜"
+type = "drama"
