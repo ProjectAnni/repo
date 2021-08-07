@@ -1,0 +1,81 @@
+[album]
+title = "好きになるその瞬間を。"
+artist = "HoneyWorks"
+date = 2015-07-15
+type = "normal"
+catalog = "SMCL-389"
+
+[[discs]]
+catalog = "SMCL-389"
+
+[[discs.tracks]]
+title = "プロポーズ"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "今好きになる。"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "言葉のいらない約束"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "東京サマーセッション"
+artist = "鎖那（sana）、CHiCO"
+
+[[discs.tracks]]
+title = "暁月夜-アカツキヅクヨ-"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "未来図"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "ランチトーーク！男の友情編"
+type = "drama"
+
+[[discs.tracks]]
+title = "タナタロ"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "マジックメロディ"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "さよなら両片想"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "三角ジェラシー -another story-"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "恋ヲウチヌケ"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "ランチトーーク！女の友情編"
+type = "drama"
+
+[[discs.tracks]]
+title = "リトルリグレット"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "告白ライバル宣言"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "金曜日のおはよう –love story-"
+artist = "鎖那（sana）、濱中翠（Gero）"
+
+[[discs.tracks]]
+title = "ママ"
+artist = "鎖那（sana）"
+
+[[discs.tracks]]
+title = "イジワルな出会い"
+artist = "鎖那（sana）"

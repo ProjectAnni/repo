@@ -1,0 +1,85 @@
+[album]
+title = "ずっと前から好きでした。"
+artist = "HoneyWorks"
+date = 2014-01-29
+type = "normal"
+catalog = "SMCL-322"
+
+[[discs]]
+catalog = "SMCL-322"
+
+[[discs.tracks]]
+title = "ヤキモチの答え"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "竹取オーバーナイトセンセーション"
+artist = "鏡音リン、鏡音レン"
+
+[[discs.tracks]]
+title = "病名恋ワズライ"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "ハジマリノサヨナラ"
+artist = "初音ミク"
+
+[[discs.tracks]]
+title = "スキキライ"
+artist = "鏡音リン、鏡音レン"
+
+[[discs.tracks]]
+title = "テレカクシ思春期"
+artist = "鏡音レン"
+
+[[discs.tracks]]
+title = "終わらない英雄の記憶"
+artist = "GUMI、鏡音レン"
+
+[[discs.tracks]]
+title = "ラズベリー*モンスター"
+artist = "初音ミク"
+
+[[discs.tracks]]
+title = "告白予行練習"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "初恋の絵本"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "ペットショップガール ～ハニワstyle～"
+artist = "初音ミク、鏡音リン、鏡音レン、GUMI、IA、兎眠りおん"
+
+[[discs.tracks]]
+title = "今ちょっとだけ話題の神様"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "君ガ空コソカナシケレ"
+artist = "兎眠りおん、初音ミク"
+
+[[discs.tracks]]
+title = "キミがまた歌いたくなる頃に。"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "ラブ＠ライアー"
+artist = "GUMI"
+
+[[discs.tracks]]
+title = "ロクベル"
+artist = "IA"
+
+[[discs.tracks]]
+title = "吉田、家出するってよ"
+artist = "初音ミク"
+
+[[discs.tracks]]
+title = "第三次プリン戦争"
+artist = "初音ミク、GUMI"
+
+[[discs.tracks]]
+title = "泣キ虫カレシ"
+artist = "鏡音レン、初音ミク"

@@ -1,0 +1,29 @@
+[album]
+title = "東京ウインターセッション"
+artist = "HoneyWorks"
+date = 2017-12-06
+type = "normal"
+catalog = "SMCL-519"
+
+[[discs]]
+catalog = "SMCL-519"
+
+[[discs.tracks]]
+title = "東京ウインターセッション"
+artist = "瀬戸口優（神谷浩史）、榎本夏樹（戸松遥）、望月蒼太（梶裕貴）、早坂あかり（阿澄佳奈）、芹沢春輝（鈴村健一）、合田美桜（豊崎愛生）"
+
+[[discs.tracks]]
+title = "聞こえますか"
+artist = "春輝<幼少期>（こいぬ）"
+
+[[discs.tracks]]
+title = "恋という贈り物"
+artist = "天月-あまつき-"
+
+[[discs.tracks]]
+title = "Re:初恋の絵本"
+artist = "合田美桜（豊崎愛生）"
+
+[[discs.tracks]]
+title = "東京ウインターセッション"
+type = "instrumental"

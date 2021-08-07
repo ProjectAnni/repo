@@ -1,0 +1,25 @@
+[album]
+title = "婚約戦争"
+artist = "HoneyWorks"
+date = 2020-11-25
+type = "normal"
+catalog = "SMCL-683"
+
+[[discs]]
+catalog = "SMCL-683"
+
+[[discs.tracks]]
+title = "婚約戦争"
+artist = "瀬戸口優（神谷浩史）、望月蒼太（梶裕貴）、芹沢春輝（鈴村健一）"
+
+[[discs.tracks]]
+title = "さみしがりや"
+artist = "柴崎健（江口拓也）、柴崎愛蔵（島﨑信長）"
+
+[[discs.tracks]]
+title = "婚約戦争 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "さみしがりや (Instrumental)"
+type = "instrumental"
