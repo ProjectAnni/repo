@@ -1,0 +1,23 @@
+[album]
+title = "月海の揺り籠"
+artist = "Mia REGINA（霧島若歌、上花楓裏、ささかまリス子）"
+date = 2021-07-28
+type = "normal"
+catalog = "LACM-24156"
+
+[[discs]]
+catalog = "LACM-24156"
+
+[[discs.tracks]]
+title = "月海の揺り籠"
+
+[[discs.tracks]]
+title = "Dear!!!"
+
+[[discs.tracks]]
+title = "月海の揺り籠 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dear!!! (Instrumental)"
+type = "instrumental"

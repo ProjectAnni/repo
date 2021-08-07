@@ -1,0 +1,15 @@
+[album]
+title = "たゆたえ、七色"
+artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
+date = 2021-07-14
+type = "normal"
+catalog = "LACM-24137"
+
+[[discs]]
+catalog = "LACM-24137"
+
+[[discs.tracks]]
+title = "たゆたえ、七色"
+
+[[discs.tracks]]
+title = "星影のファンタジア"
