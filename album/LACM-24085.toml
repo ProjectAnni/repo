@@ -1,0 +1,15 @@
+[album]
+title = "夢で世界を変えるなら"
+artist = "ARCANA PROJECT"
+date = 2021-02-10
+type = "normal"
+catalog = "LACM-24085"
+
+[[discs]]
+catalog = "LACM-24085"
+
+[[discs.tracks]]
+title = "夢で世界を変えるなら"
+
+[[discs.tracks]]
+title = "天運ヘキサグラム"

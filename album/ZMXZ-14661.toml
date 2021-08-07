@@ -1,0 +1,35 @@
+[album]
+title = "回復術士のやり直し キャラクターソング&TVサイズ主題歌 CD"
+artist = "Various Artists"
+date = 2021-03-24
+type = "normal"
+catalog = "ZMXZ-14661"
+
+[[discs]]
+catalog = "ZMXZ-14661"
+
+[[discs.tracks]]
+title = "不可逆"
+artist = "ケヤル/ケヤルガ（保住有哉）"
+
+[[discs.tracks]]
+title = "Wash My World"
+artist = "フレイア（渋谷彩乃）、セツナ（石上静香）"
+
+[[discs.tracks]]
+title = "不可逆 (Off Vocal)"
+artist = "ケヤル/ケヤルガ（保住有哉）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wash My World (Off Vocal)"
+artist = "フレイア（渋谷彩乃）、セツナ（石上静香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "残酷な夢と眠れ (TV size)"
+artist = "栗林みな実"
+
+[[discs.tracks]]
+title = "夢で世界を変えるなら (TV size)"
+artist = "ARCANA PROJECT"
