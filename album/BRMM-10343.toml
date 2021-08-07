@@ -1,0 +1,33 @@
+[album]
+title = "アサルトリリィ BOUQUET 第3巻 特典CD"
+artist = "一柳隊"
+date = 2021-03-24
+type = "normal"
+catalog = "BRMM-10343"
+
+[[discs]]
+catalog = "BRMM-10343"
+
+[[discs.tracks]]
+title = "GROWING*"
+artist = "一柳隊（一柳梨璃（赤尾ひかる）、白井夢結（夏吉ゆうこ）、楓・J・ヌーベル（井澤美香子）、二川二水（西本りみ）、安藤鶴紗（紡木吏佐）、吉村・Thi・梅（岩田陽葵）、郭神琳（星守紗凪）、王雨嘉（遠野ひかる）、ミリアム・ヒルデガルド・v・グロピウス（高橋花林））"
+
+[[discs.tracks]]
+title = "まばたき"
+artist = "一柳結梨（伊藤美来）"
+
+[[discs.tracks]]
+title = "Edel Lilie (BOUQUET ED ver.)"
+artist = "一柳隊（一柳梨璃（赤尾ひかる）、白井夢結（夏吉ゆうこ）、楓・J・ヌーベル（井澤美香子）、二川二水（西本りみ）、安藤鶴紗（紡木吏佐）、吉村・Thi・梅（岩田陽葵）、郭神琳（星守紗凪）、王雨嘉（遠野ひかる）、ミリアム・ヒルデガルド・v・グロピウス（高橋花林））"
+
+[[discs.tracks]]
+title = "GROWING* -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まばたき -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Edel Lilie (BOUQUET ED ver.) -instrumental-"
+type = "instrumental"

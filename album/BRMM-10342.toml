@@ -1,0 +1,33 @@
+[album]
+title = "アサルトリリィ BOUQUET 第2巻 特典CD"
+artist = "一柳隊"
+date = 2021-02-24
+type = "normal"
+catalog = "BRMM-10342"
+
+[[discs]]
+catalog = "BRMM-10342"
+
+[[discs.tracks]]
+title = "Heart+Heart"
+artist = "一柳梨璃（赤尾ひかる）、白井夢結（夏吉ゆうこ）"
+
+[[discs.tracks]]
+title = "いつでもそばで。"
+artist = "郭神琳（星守紗凪）、王雨嘉（遠野ひかる）"
+
+[[discs.tracks]]
+title = "リリィ♡リリィ♡GOGOリリィ♡"
+artist = "楓・J・ヌーベル（井澤美香子）、二川二水（西本りみ）、ミリアム・ヒルデガルド・v・グロピウス（高橋花林）"
+
+[[discs.tracks]]
+title = "Heart+Heart -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いつでもそばで。 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リリィ♡リリィ♡GOGOリリィ♡ -instrumental-"
+type = "instrumental"
