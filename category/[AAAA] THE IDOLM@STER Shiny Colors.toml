@@ -64,4 +64,11 @@ albums = ["LACM-14820"]
 
 [[subcategory]]
 name = "THE IDOLM@STER SHINY COLORS OTHER"
-albums = ["LACM-14906", "LACM-14965", "LACZ-10033", "LACM-24027", "LAPC-1094"]
+albums = [
+  "LACM-14906",
+  "LACM-14965",
+  "LACZ-10033",
+  "LACM-24027",
+  "LAPC-1094",
+  "ANCF-0015~7"
+]
