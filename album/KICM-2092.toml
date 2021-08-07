@@ -1,0 +1,18 @@
+[album]
+title = "HELLO HORIZON"
+artist = "水瀬いのり"
+date = 2021-07-21
+type = "normal"
+catalog = "KICM-2092"
+
+[[discs]]
+catalog = "KICM-2092"
+
+[[discs.tracks]]
+title = "HELLO HORIZON"
+
+[[discs.tracks]]
+title = "ソライロ"
+
+[[discs.tracks]]
+title = "Morning Prism"
