@@ -1,0 +1,27 @@
+[album]
+title = "9-nine-そらいろそらうたそらのおと C94グッズセット・スペシャルCD"
+artist = "ぱれっと"
+date = 2018-08-10
+type = "normal"
+catalog = "PALETTE-18082"
+
+[[discs]]
+catalog = "PALETTE-18082"
+
+[[discs.tracks]]
+title = "ソラノキオク"
+artist = "米倉千尋"
+
+[[discs.tracks]]
+title = "ミニドラマ 天と春風の演技指導編"
+artist = "新海天（沢澤砂羽（種﨑敦美））、香坂春風（渚しろな（山岡ゆり））"
+type = "drama"
+
+[[discs.tracks]]
+title = "ミニドラマ 天と希亜の心の交流編"
+artist = "新海天（沢澤砂羽（種﨑敦美））、结城希亜（夏和小（藤田茜））"
+type = "drama"
+
+[[discs.tracks]]
+title = "ここにある空"
+artist = "米倉千尋"

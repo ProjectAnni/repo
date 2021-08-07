@@ -1,0 +1,12 @@
+[album]
+title = "9-nine-そらいろそらうたそらのおと ソフマップ様限定有償特典 「天ちゃんと過ごす、とある一日。」"
+artist = "新海天（沢澤砂羽（種﨑敦美））"
+date = 2018-04-27
+type = "drama"
+catalog = "PLT-1804SM"
+
+[[discs]]
+catalog = "PLT-1804SM"
+
+[[discs.tracks]]
+title = "天ちゃんと過ごす、とある一日。"

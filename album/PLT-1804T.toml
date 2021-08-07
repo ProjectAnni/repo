@@ -1,0 +1,12 @@
+[album]
+title = "9-nine-そらいろそらうたそらのおと オフィシャル限定有償特典 「天と都の新海'sキッチン！」"
+artist = "九條都（澤田なつ（福圓美里））、新海天（沢澤砂羽（種﨑敦美））"
+date = 2018-04-27
+type = "drama"
+catalog = "PLT-1804T"
+
+[[discs]]
+catalog = "PLT-1804T"
+
+[[discs.tracks]]
+title = "天と都の新海'sキッチン！"
