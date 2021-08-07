@@ -1,0 +1,33 @@
+[album]
+title = "アサルトリリィ BOUQUET 第1巻 特典CD"
+artist = "一柳隊"
+date = 2021-01-27
+type = "normal"
+catalog = "BRMM-10341"
+
+[[discs]]
+catalog = "BRMM-10341"
+
+[[discs.tracks]]
+title = "Edel Lilie"
+artist = "一柳隊（一柳梨璃（赤尾ひかる）、白井夢結（夏吉ゆうこ）、楓・J・ヌーベル（井澤美香子）、二川二水（西本りみ）、安藤鶴紗（紡木吏佐）、吉村・Thi・梅（岩田陽葵）、郭神琳（星守紗凪）、王雨嘉（遠野ひかる）、ミリアム・ヒルデガルド・v・グロピウス（高橋花林））"
+
+[[discs.tracks]]
+title = "Rainbow"
+artist = "白井夢結（夏吉ゆうこ）、吉村・Thi・梅（岩田陽葵）"
+
+[[discs.tracks]]
+title = "つきあかりのコントラスト"
+artist = "一柳梨璃（赤尾ひかる）、安藤鶴紗（紡木吏佐）"
+
+[[discs.tracks]]
+title = "Edel Lilie -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rainbow -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "つきあかりのコントラスト -instrumental-"
+type = "instrumental"
