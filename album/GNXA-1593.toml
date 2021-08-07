@@ -1,0 +1,16 @@
+[album]
+title = "きらめきのみぞ知る行方"
+artist = "青山ブルーマウンテン（早見沙織）、真手凛（木村珠莉）"
+date = 2021-02-06
+type = "normal"
+catalog = "GNXA-1593"
+
+[[discs]]
+catalog = "GNXA-1593"
+
+[[discs.tracks]]
+title = "きらめきのみぞ知る行方"
+
+[[discs.tracks]]
+title = "きらめきのみぞ知る行方 (Instrumental)"
+type = "instrumental"

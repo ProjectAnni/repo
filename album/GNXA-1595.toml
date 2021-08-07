@@ -1,0 +1,16 @@
+[album]
+title = "薔薇色チュチュとピルエット"
+artist = "ロゼ（種田梨沙）"
+date = 2021-04-28
+type = "normal"
+catalog = "GNXA-1595"
+
+[[discs]]
+catalog = "GNXA-1595"
+
+[[discs.tracks]]
+title = "薔薇色チュチュとピルエット"
+
+[[discs.tracks]]
+title = "薔薇色チュチュとピルエット (Instrumental)"
+type = "instrumental"

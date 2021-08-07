@@ -1,0 +1,16 @@
+[album]
+title = "魔女と使い魔のふしぎな館"
+artist = "千マメ隊"
+date = 2021-03-26
+type = "normal"
+catalog = "GNXA-1594"
+
+[[discs]]
+catalog = "GNXA-1594"
+
+[[discs.tracks]]
+title = "魔女と使い魔のふしぎな館"
+
+[[discs.tracks]]
+title = "魔女と使い魔のふしぎな館 (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,16 @@
+[album]
+title = "スキでスゴイになりたいな"
+artist = "看板娘隊"
+date = 2021-05-28
+type = "normal"
+catalog = "GNXA-1596"
+
+[[discs]]
+catalog = "GNXA-1596"
+
+[[discs.tracks]]
+title = "スキでスゴイになりたいな"
+
+[[discs.tracks]]
+title = "スキでスゴイになりたいな (Instrumental)"
+type = "instrumental"
