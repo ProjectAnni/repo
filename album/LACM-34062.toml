@@ -1,0 +1,23 @@
+[album]
+title = "カルペ・ディエム"
+artist = "Liyuu"
+date = 2020-11-25
+type = "normal"
+catalog = "LACM-34062"
+
+[[discs]]
+catalog = "LACM-34062"
+
+[[discs.tracks]]
+title = "カルペ・ディエム"
+
+[[discs.tracks]]
+title = "Cherish"
+
+[[discs.tracks]]
+title = "カルペ・ディエム (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Cherish (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,23 @@
+[album]
+title = "Magic Words"
+artist = "Liyuu"
+date = 2020-01-22
+type = "normal"
+catalog = "LACM-34927"
+
+[[discs]]
+catalog = "LACM-34927"
+
+[[discs.tracks]]
+title = "Magic Words"
+
+[[discs.tracks]]
+title = "魔法とガムと勇気"
+
+[[discs.tracks]]
+title = "Magic Words -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "魔法とガムと勇気 -instrumental-"
+type = "instrumental"
