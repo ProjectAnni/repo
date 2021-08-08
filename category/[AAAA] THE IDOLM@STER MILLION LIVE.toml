@@ -257,3 +257,7 @@ albums = [
   # THE IDOLM@STER MILLION RADIO! ENDLESS TOUR
   "LACM-14961",
 ]
+
+[[subcategory]]
+name = "THE IDOLM@STER MILLION THE@TER SEASON"
+albums = ["LACM-24151"]
