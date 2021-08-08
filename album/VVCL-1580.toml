@@ -1,0 +1,22 @@
+[album]
+title = "unlasting"
+artist = "LiSA"
+date = 2019-12-11
+type = "normal"
+catalog = "VVCL-1580"
+
+[[discs]]
+catalog = "VVCL-1580"
+
+[[discs.tracks]]
+title = "unlasting"
+
+[[discs.tracks]]
+title = "ハウル"
+
+[[discs.tracks]]
+title = "KALEIDO"
+
+[[discs.tracks]]
+title = "unlasting (Instrumental)"
+type = "instrumental"

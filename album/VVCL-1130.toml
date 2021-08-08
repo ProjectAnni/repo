@@ -1,0 +1,22 @@
+[album]
+title = "ASH"
+artist = "LiSA"
+date = 2017-11-29
+type = "normal"
+catalog = "VVCL-1130"
+
+[[discs]]
+catalog = "VVCL-1130"
+
+[[discs.tracks]]
+title = "ASH"
+
+[[discs.tracks]]
+title = "罪人"
+
+[[discs.tracks]]
+title = "ONLY≠LONELY"
+
+[[discs.tracks]]
+title = "ASH (Instrumental)"
+type = "instrumental"

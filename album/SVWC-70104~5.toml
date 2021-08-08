@@ -1,0 +1,55 @@
+[album]
+title = "Empty MERMAiD"
+artist = "LiSA"
+date = 2015-09-30
+type = "normal"
+catalog = "SVWC-70104~5"
+
+[[discs]]
+catalog = "SVWC-70104"
+
+[[discs.tracks]]
+title = "Empty MERMAiD"
+
+[[discs.tracks]]
+title = "リスキー"
+
+[[discs.tracks]]
+title = "虚無"
+
+[[discs]]
+catalog = "SVWC-70105"
+title = "「LiVE is Smile Always～Launcher～」ライブCD"
+
+[[discs.tracks]]
+title = "rapid life シンドローム"
+
+[[discs.tracks]]
+title = "蜜"
+
+[[discs.tracks]]
+title = "L.Miranic"
+
+[[discs.tracks]]
+title = "オレンジサイダー"
+
+[[discs.tracks]]
+title = "君にピエロ"
+
+[[discs.tracks]]
+title = "ANTIHERO"
+
+[[discs.tracks]]
+title = "Rally Go Round"
+
+[[discs.tracks]]
+title = "Bad Sweet Trap"
+
+[[discs.tracks]]
+title = "Rising Hope"
+
+[[discs.tracks]]
+title = "エレクトリリカル"
+
+[[discs.tracks]]
+title = "Mr.Launcher"

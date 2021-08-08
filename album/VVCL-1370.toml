@@ -1,0 +1,22 @@
+[album]
+title = "赤い罠(who loves it?)／ADAMAS"
+artist = "LiSA"
+date = 2018-12-12
+type = "normal"
+catalog = "VVCL-1370"
+
+[[discs]]
+catalog = "VVCL-1370"
+
+[[discs.tracks]]
+title = "赤い罠(who loves it?)"
+
+[[discs.tracks]]
+title = "ADAMAS"
+
+[[discs.tracks]]
+title = "スパイシーワールド"
+
+[[discs.tracks]]
+title = "赤い罠(who loves it?) -Instrumental-"
+type = "instrumental"

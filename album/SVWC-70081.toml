@@ -1,0 +1,22 @@
+[album]
+title = "Rally Go Round"
+artist = "LiSA"
+date = 2015-05-27
+type = "normal"
+catalog = "SVWC-70081"
+
+[[discs]]
+catalog = "SVWC-70081"
+
+[[discs.tracks]]
+title = "Rally Go Round"
+
+[[discs.tracks]]
+title = "オレンジサイダー"
+
+[[discs.tracks]]
+title = "Wake up! Sloth"
+
+[[discs.tracks]]
+title = "Rally Go Round (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,48 @@
+[album]
+title = "LiTTLE DEViL PARADE"
+artist = "LiSA"
+date = 2017-05-24
+type = "normal"
+catalog = "VVCL-1045"
+
+[[discs]]
+catalog = "VVCL-1045"
+
+[[discs.tracks]]
+title = "LiTTLE DEViL PARADE"
+
+[[discs.tracks]]
+title = "Catch the Moment"
+
+[[discs.tracks]]
+title = "LOSER　～希望と未来に無縁のカタルシス～"
+
+[[discs.tracks]]
+title = "the end of my world"
+
+[[discs.tracks]]
+title = "JUMP!!"
+
+[[discs.tracks]]
+title = "狼とミサンガ"
+
+[[discs.tracks]]
+title = "Rally Go Round"
+
+[[discs.tracks]]
+title = "Empty MERMAiD"
+
+[[discs.tracks]]
+title = "Peace Beat Beast"
+
+[[discs.tracks]]
+title = "Blue Moon"
+
+[[discs.tracks]]
+title = "Brave Freak Out"
+
+[[discs.tracks]]
+title = "TODAY"
+
+[[discs.tracks]]
+title = "そしてパレードは続く"

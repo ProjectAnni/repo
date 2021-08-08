@@ -1,0 +1,45 @@
+[album]
+title = "LANDSPACE"
+artist = "LiSA"
+date = 2013-10-30
+type = "normal"
+catalog = "SVWC-7961"
+
+[[discs]]
+catalog = "SVWC-7961"
+
+[[discs.tracks]]
+title = "Canvas boy × Palette girl"
+
+[[discs.tracks]]
+title = "コズミックジェットコースター"
+
+[[discs.tracks]]
+title = "crossing field"
+
+[[discs.tracks]]
+title = "DOCTOR"
+
+[[discs.tracks]]
+title = "僕の言葉で"
+
+[[discs.tracks]]
+title = "best day, best way"
+
+[[discs.tracks]]
+title = "ヒトリワラッテ"
+
+[[discs.tracks]]
+title = "say my nameの片想い"
+
+[[discs.tracks]]
+title = "うそつきの涙"
+
+[[discs.tracks]]
+title = "逆光オーケストラ"
+
+[[discs.tracks]]
+title = "träumerei"
+
+[[discs.tracks]]
+title = "winding road"

@@ -1,0 +1,22 @@
+[album]
+title = "best day,best way"
+artist = "LiSA"
+date = 2013-04-03
+type = "normal"
+catalog = "SVWC-7935"
+
+[[discs]]
+catalog = "SVWC-7935"
+
+[[discs.tracks]]
+title = "best day, best way"
+
+[[discs.tracks]]
+title = "I'm a Rock star"
+
+[[discs.tracks]]
+title = "シロイトイキ"
+
+[[discs.tracks]]
+title = "best day, best way (Instrumental)"
+type = "instrumental"

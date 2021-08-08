@@ -1,0 +1,22 @@
+[album]
+title = "Rising Hope"
+artist = "LiSA"
+date = 2014-05-07
+type = "normal"
+catalog = "SVWC-70001"
+
+[[discs]]
+catalog = "SVWC-70001"
+
+[[discs.tracks]]
+title = "Rising Hope"
+
+[[discs.tracks]]
+title = "ポーカーフェイス"
+
+[[discs.tracks]]
+title = "アシアトコンパス"
+
+[[discs.tracks]]
+title = "Rising Hope (Instrumental)"
+type = "instrumental"

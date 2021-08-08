@@ -1,0 +1,22 @@
+[album]
+title = "Brave Freak Out"
+artist = "LiSA"
+date = 2016-08-24
+type = "normal"
+catalog = "SVWC-70181"
+
+[[discs]]
+catalog = "SVWC-70181"
+
+[[discs.tracks]]
+title = "Brave Freak Out"
+
+[[discs.tracks]]
+title = "AxxxiS"
+
+[[discs.tracks]]
+title = "ツヨガリ・ファンファーレ"
+
+[[discs.tracks]]
+title = "Brave Freak Out (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,22 @@
+[album]
+title = "炎"
+artist = "LiSA"
+date = 2020-10-14
+type = "normal"
+catalog = "VVCL-1750"
+
+[[discs]]
+catalog = "VVCL-1750"
+
+[[discs.tracks]]
+title = "炎"
+
+[[discs.tracks]]
+title = "ロストロマンス"
+
+[[discs.tracks]]
+title = "Leopardess"
+
+[[discs.tracks]]
+title = "炎 (Instrumental)"
+type = "instrumental"

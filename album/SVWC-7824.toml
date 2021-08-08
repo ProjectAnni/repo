@@ -1,0 +1,48 @@
+[album]
+title = 'LOVER"S"MiLE'
+artist = "LiSA"
+date = 2012-02-22
+type = "normal"
+catalog = "SVWC-7824"
+
+[[discs]]
+catalog = "SVWC-7824"
+
+[[discs.tracks]]
+title = "優しさに辿りつくまで"
+
+[[discs.tracks]]
+title = "oath sign"
+
+[[discs.tracks]]
+title = "now and future"
+
+[[discs.tracks]]
+title = "EGOiSTiC SHOOTER"
+
+[[discs.tracks]]
+title = "WiLD CANDY"
+
+[[discs.tracks]]
+title = "花とミツバチ"
+
+[[discs.tracks]]
+title = "ROCK-mode"
+
+[[discs.tracks]]
+title = "笑ってほしくて"
+
+[[discs.tracks]]
+title = "アンフィル"
+
+[[discs.tracks]]
+title = "ジェットロケット"
+
+[[discs.tracks]]
+title = "LOVER“S”MiLE"
+
+[[discs.tracks]]
+title = "終わりのない歌"
+
+[[discs.tracks]]
+title = "oath sign (Acoustic Ver.)"
