@@ -1,0 +1,22 @@
+[album]
+title = "oath sign"
+artist = "LiSA"
+date = 2011-11-23
+type = "normal"
+catalog = "SVWC-7802"
+
+[[discs]]
+catalog = "SVWC-7802"
+
+[[discs.tracks]]
+title = "oath sign"
+
+[[discs.tracks]]
+title = "confidence driver"
+
+[[discs.tracks]]
+title = "HANDS & SMiLE"
+
+[[discs.tracks]]
+title = "oath sign (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,18 @@
+[album]
+title = "BRiGHT FLiGHT／L.Miranic"
+artist = "LiSA"
+date = 2014-09-17
+type = "normal"
+catalog = "SVWC-70012"
+
+[[discs]]
+catalog = "SVWC-70012"
+
+[[discs.tracks]]
+title = "BRiGHT FLiGHT"
+
+[[discs.tracks]]
+title = "L.Miranic"
+
+[[discs.tracks]]
+title = "東京ラヴソング"

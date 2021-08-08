@@ -1,0 +1,51 @@
+[album]
+title = "LiSA BEST -Day-"
+artist = "LiSA"
+date = 2018-05-09
+type = "normal"
+catalog = "VVCL-1218"
+
+[[discs]]
+catalog = "VVCL-1218"
+
+[[discs.tracks]]
+title = "Rising Hope"
+
+[[discs.tracks]]
+title = "crossing field"
+
+[[discs.tracks]]
+title = "だってアタシのヒーロー。"
+
+[[discs.tracks]]
+title = "シルシ"
+
+[[discs.tracks]]
+title = "AxxxiS"
+
+[[discs.tracks]]
+title = "Empty MERMAiD"
+
+[[discs.tracks]]
+title = "ジェットロケット"
+
+[[discs.tracks]]
+title = "BRiGHT FLiGHT"
+
+[[discs.tracks]]
+title = "träumerei"
+
+[[discs.tracks]]
+title = "L.Miranic"
+
+[[discs.tracks]]
+title = "ID"
+
+[[discs.tracks]]
+title = "LiTTLE DEViL PARADE"
+
+[[discs.tracks]]
+title = "WiLL～無色透明～"
+
+[[discs.tracks]]
+title = "Believe in myself"

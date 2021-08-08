@@ -1,0 +1,30 @@
+[album]
+title = "Letters to U"
+artist = "LiSA"
+date = 2011-04-20
+type = "normal"
+catalog = "SVWC-7760"
+
+[[discs]]
+catalog = "SVWC-7760"
+
+[[discs.tracks]]
+title = "Believe in myself"
+
+[[discs.tracks]]
+title = "ミライカゼ"
+
+[[discs.tracks]]
+title = "永遠"
+
+[[discs.tracks]]
+title = "エスケープゲーム"
+
+[[discs.tracks]]
+title = "覚醒屋"
+
+[[discs.tracks]]
+title = "妄想コントローラー"
+
+[[discs.tracks]]
+title = "無色透明"

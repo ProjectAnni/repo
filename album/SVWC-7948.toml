@@ -1,0 +1,22 @@
+[album]
+title = "träumerei"
+artist = "LiSA"
+date = 2013-08-07
+type = "normal"
+catalog = "SVWC-7948"
+
+[[discs]]
+catalog = "SVWC-7948"
+
+[[discs.tracks]]
+title = "träumerei"
+
+[[discs.tracks]]
+title = "I doubt it"
+
+[[discs.tracks]]
+title = "SPiCE"
+
+[[discs.tracks]]
+title = "träumerei (Instrumental)"
+type = "instrumental"

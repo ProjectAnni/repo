@@ -1,0 +1,51 @@
+[album]
+title = "LiSA BEST -Way-"
+artist = "LiSA"
+date = 2018-05-09
+type = "normal"
+catalog = "VVCL-1223"
+
+[[discs]]
+catalog = "VVCL-1223"
+
+[[discs.tracks]]
+title = "Catch the Moment"
+
+[[discs.tracks]]
+title = "Thrill, Risk, Heartless"
+
+[[discs.tracks]]
+title = "oath sign"
+
+[[discs.tracks]]
+title = "ASH"
+
+[[discs.tracks]]
+title = "Rally Go Round"
+
+[[discs.tracks]]
+title = "ハローグッデイ"
+
+[[discs.tracks]]
+title = "No More Time Machine"
+
+[[discs.tracks]]
+title = "Hi FiVE!"
+
+[[discs.tracks]]
+title = "コズミックジェットコースター"
+
+[[discs.tracks]]
+title = "Brave Freak Out"
+
+[[discs.tracks]]
+title = "ROCK-mode'18"
+
+[[discs.tracks]]
+title = "Mr.Launcher"
+
+[[discs.tracks]]
+title = "Believe in ourselves"
+
+[[discs.tracks]]
+title = "best day, best way"

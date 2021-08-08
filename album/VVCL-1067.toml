@@ -1,0 +1,22 @@
+[album]
+title = "だってアタシのヒーロー。"
+artist = "LiSA"
+date = 2017-08-02
+type = "normal"
+catalog = "VVCL-1067"
+
+[[discs]]
+catalog = "VVCL-1067"
+
+[[discs.tracks]]
+title = "だってアタシのヒーロー。"
+
+[[discs.tracks]]
+title = "sweet friendship"
+
+[[discs.tracks]]
+title = "Sailor Spark Operation!"
+
+[[discs.tracks]]
+title = "だってアタシのヒーロー。(Instrumental)"
+type = "instrumental"

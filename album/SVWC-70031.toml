@@ -1,0 +1,18 @@
+[album]
+title = "シルシ"
+artist = "LiSA"
+date = 2014-12-10
+type = "normal"
+catalog = "SVWC-70031"
+
+[[discs]]
+catalog = "SVWC-70031"
+
+[[discs.tracks]]
+title = "シルシ"
+
+[[discs.tracks]]
+title = "No More Time Machine"
+
+[[discs.tracks]]
+title = "crossing field -English ver.-"

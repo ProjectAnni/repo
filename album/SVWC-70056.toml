@@ -1,0 +1,51 @@
+[album]
+title = "Launcher"
+artist = "LiSA"
+date = 2015-03-04
+type = "normal"
+catalog = "SVWC-70056"
+
+[[discs]]
+catalog = "SVWC-70056"
+
+[[discs.tracks]]
+title = "Mr.Launcher"
+
+[[discs.tracks]]
+title = "Rising Hope"
+
+[[discs.tracks]]
+title = "rapid life シンドローム"
+
+[[discs.tracks]]
+title = "蜜"
+
+[[discs.tracks]]
+title = "アコガレ望遠鏡"
+
+[[discs.tracks]]
+title = "BRiGHT FLiGHT"
+
+[[discs.tracks]]
+title = "L.Miranic"
+
+[[discs.tracks]]
+title = "FRAGILE VAMPIRE"
+
+[[discs.tracks]]
+title = "ANTIHERO"
+
+[[discs.tracks]]
+title = "Bad Sweet Trap"
+
+[[discs.tracks]]
+title = "エレクトリリカル"
+
+[[discs.tracks]]
+title = "君にピエロ"
+
+[[discs.tracks]]
+title = "No More Time Machine"
+
+[[discs.tracks]]
+title = "シルシ"

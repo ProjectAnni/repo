@@ -1,0 +1,49 @@
+[album]
+title = "LEO-NiNE"
+artist = "LiSA"
+date = 2020-10-14
+type = "normal"
+catalog = "VVCL-1703"
+
+[[discs]]
+catalog = "VVCL-1703"
+
+[[discs.tracks]]
+title = "play the world! feat.PABLO"
+artist = "LiSA、PABLO"
+
+[[discs.tracks]]
+title = "紅蓮華"
+
+[[discs.tracks]]
+title = "晴レ舞台"
+
+[[discs.tracks]]
+title = "マコトシヤカ"
+
+[[discs.tracks]]
+title = "cancellation"
+
+[[discs.tracks]]
+title = "愛錠"
+
+[[discs.tracks]]
+title = "赤い罠(who loves it?)"
+
+[[discs.tracks]]
+title = "わがままケット・シー"
+
+[[discs.tracks]]
+title = "unlasting"
+
+[[discs.tracks]]
+title = "ADAMAS"
+
+[[discs.tracks]]
+title = "1センチ"
+
+[[discs.tracks]]
+title = "ハウル"
+
+[[discs.tracks]]
+title = "BEAUTIFUL WORLD"

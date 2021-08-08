@@ -1,0 +1,22 @@
+[album]
+title = "紅蓮華"
+artist = "LiSA"
+date = 2019-07-03
+type = "normal"
+catalog = "VVCL-1458"
+
+[[discs]]
+catalog = "VVCL-1458"
+
+[[discs.tracks]]
+title = "紅蓮華"
+
+[[discs.tracks]]
+title = "“PROPAGANDA”"
+
+[[discs.tracks]]
+title = "やくそくのうた"
+
+[[discs.tracks]]
+title = "紅蓮華 (Instrumental)"
+type = "instrumental"

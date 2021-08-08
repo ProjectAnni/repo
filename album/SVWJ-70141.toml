@@ -1,0 +1,30 @@
+[album]
+title = "LUCKY Hi FiVE!"
+artist = "LiSA"
+date = 2016-05-11
+type = "normal"
+catalog = "SVWJ-70141"
+
+[[discs]]
+catalog = "SVWJ-70141"
+
+[[discs.tracks]]
+title = "ラブリーデイ"
+
+[[discs.tracks]]
+title = "Hi FiVE!"
+
+[[discs.tracks]]
+title = "Psychedelic Drive"
+
+[[discs.tracks]]
+title = "She"
+
+[[discs.tracks]]
+title = "halo-halo"
+
+[[discs.tracks]]
+title = "Get free"
+
+[[discs.tracks]]
+title = "終わらない冒険"

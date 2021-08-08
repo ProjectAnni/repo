@@ -1,0 +1,22 @@
+[album]
+title = "crossing field"
+artist = "LiSA"
+date = 2012-08-08
+type = "normal"
+catalog = "SVWC-7873"
+
+[[discs]]
+catalog = "SVWC-7873"
+
+[[discs.tracks]]
+title = "crossing field"
+
+[[discs.tracks]]
+title = "いつかの手紙"
+
+[[discs.tracks]]
+title = "KiSS me PARADOX"
+
+[[discs.tracks]]
+title = "crossing field (Instrumental)"
+type = "instrumental"

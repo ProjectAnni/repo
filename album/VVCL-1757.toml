@@ -1,0 +1,22 @@
+[album]
+title = "dawn"
+artist = "LiSA"
+date = 2021-01-13
+type = "normal"
+catalog = "VVCL-1757"
+
+[[discs]]
+catalog = "VVCL-1757"
+
+[[discs.tracks]]
+title = "dawn"
+
+[[discs.tracks]]
+title = "BRAND NEW YOU"
+
+[[discs.tracks]]
+title = "dawn (TV ver.)"
+
+[[discs.tracks]]
+title = "dawn (Instrumental)"
+type = "instrumental"
