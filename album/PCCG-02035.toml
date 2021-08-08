@@ -1,0 +1,28 @@
+[album]
+title = "私たちはもう舞台の上"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2021-06-30
+type = "normal"
+catalog = "PCCG-02035"
+
+[[discs]]
+catalog = "PCCG-02035"
+
+[[discs.tracks]]
+title = "私たちはもう舞台の上"
+
+[[discs.tracks]]
+title = "Dream of You"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+
+[[discs.tracks]]
+title = "私たちはもう舞台の上 (movie ver.)"
+
+[[discs.tracks]]
+title = "私たちはもう舞台の上 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dream of You (Instrumental)"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+type = "instrumental"
