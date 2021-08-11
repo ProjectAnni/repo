@@ -1,0 +1,23 @@
+[album]
+title = "Broken Sky"
+artist = "富田美憂"
+date = 2020-11-11
+type = "normal"
+catalog = "COZC-1687"
+
+[[discs]]
+catalog = "COZC-1687"
+
+[[discs.tracks]]
+title = "Broken Sky"
+
+[[discs.tracks]]
+title = "インソムニア・マーメイド"
+
+[[discs.tracks]]
+title = "Broken Sky (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "インソムニア・マーメイド (Instrumental)"
+type = "instrumental"

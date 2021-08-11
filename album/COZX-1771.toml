@@ -1,0 +1,39 @@
+[album]
+title = "Prologue"
+artist = "富田美憂"
+date = 2021-06-30
+type = "normal"
+catalog = "COZX-1771"
+
+[[discs]]
+catalog = "COZX-1771"
+
+[[discs.tracks]]
+title = "Present Moment"
+
+[[discs.tracks]]
+title = "ジレンマ"
+
+[[discs.tracks]]
+title = "Run Alone!"
+
+[[discs.tracks]]
+title = "片思いはじめました"
+
+[[discs.tracks]]
+title = "翼と告白"
+
+[[discs.tracks]]
+title = "Some day, Summer day"
+
+[[discs.tracks]]
+title = "Broken Sky"
+
+[[discs.tracks]]
+title = "かりそめ"
+
+[[discs.tracks]]
+title = "足跡"
+
+[[discs.tracks]]
+title = "Letter"

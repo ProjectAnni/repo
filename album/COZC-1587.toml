@@ -1,0 +1,23 @@
+[album]
+title = "Present Moment"
+artist = "富田美憂"
+date = 2019-11-13
+type = "normal"
+catalog = "COZC-1587"
+
+[[discs]]
+catalog = "COZC-1587"
+
+[[discs.tracks]]
+title = "Present Moment"
+
+[[discs.tracks]]
+title = "Ageha Twilight"
+
+[[discs.tracks]]
+title = "Present Moment (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Ageha Twilight (Instrumental)"
+type = "instrumental"

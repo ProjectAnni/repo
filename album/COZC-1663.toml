@@ -1,0 +1,23 @@
+[album]
+title = "翼と告白"
+artist = "富田美憂"
+date = 2020-06-03
+type = "normal"
+catalog = "COZC-1663"
+
+[[discs]]
+catalog = "COZC-1663"
+
+[[discs.tracks]]
+title = "翼と告白"
+
+[[discs.tracks]]
+title = "砂の世界"
+
+[[discs.tracks]]
+title = "翼と告白 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "砂の世界 (Instrumental)"
+type = "instrumental"
