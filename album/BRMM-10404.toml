@@ -1,0 +1,23 @@
+[album]
+title = "Ready Steady／Forward"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、初音ミク"
+date = 2021-07-07
+type = "normal"
+catalog = "BRMM-10404"
+
+[[discs]]
+catalog = "BRMM-10404"
+
+[[discs.tracks]]
+title = "Ready Steady"
+
+[[discs.tracks]]
+title = "Forward"
+
+[[discs.tracks]]
+title = "Ready Steady (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Forward (instrumental)"
+type = "instrumental"

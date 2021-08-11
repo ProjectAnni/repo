@@ -1,0 +1,23 @@
+[album]
+title = "セカイはまだ始まってすらいない／potatoになっていく"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、初音ミク"
+date = 2021-07-21
+type = "normal"
+catalog = "BRMM-10405"
+
+[[discs]]
+catalog = "BRMM-10405"
+
+[[discs.tracks]]
+title = "セカイはまだ始まってすらいない"
+
+[[discs.tracks]]
+title = "potatoになっていく"
+
+[[discs.tracks]]
+title = "セカイはまだ始まってすらいない (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "potatoになっていく (instrumental)"
+type = "instrumental"

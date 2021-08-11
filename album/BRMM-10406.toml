@@ -1,0 +1,30 @@
+[album]
+title = "悔やむと書いてミライ／携帯恋話／ジャックポットサッドガール"
+artist = "25時、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、初音ミク"
+date = 2021-08-04
+type = "normal"
+catalog = "BRMM-10406"
+
+[[discs]]
+catalog = "BRMM-10406"
+
+[[discs.tracks]]
+title = "悔やむと書いてミライ"
+
+[[discs.tracks]]
+title = "携帯恋話"
+
+[[discs.tracks]]
+title = "ジャックポットサッドガール"
+
+[[discs.tracks]]
+title = "悔やむと書いてミライ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "携帯恋話 (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ジャックポットサッドガール (instrumental)"
+type = "instrumental"
