@@ -1,0 +1,26 @@
+[album]
+title = "R"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2018-07-25
+type = "normal"
+catalog = "BRMM-10127"
+
+[[discs]]
+catalog = "BRMM-10127"
+
+[[discs.tracks]]
+title = "R"
+
+[[discs.tracks]]
+title = "BLACK SHOUT(リマスターver.)"
+
+[[discs.tracks]]
+title = "Neo-Aspect(リマスターver.)"
+
+[[discs.tracks]]
+title = "R -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BLACK SHOUT(リマスターver.) -instrumental-"
+type = "instrumental"

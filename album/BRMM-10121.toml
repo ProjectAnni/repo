@@ -1,0 +1,45 @@
+[album]
+title = "Anfang"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2018-05-02
+type = "normal"
+catalog = "BRMM-10121"
+
+[[discs]]
+catalog = "BRMM-10121"
+
+[[discs.tracks]]
+title = "Neo-Aspect"
+
+[[discs.tracks]]
+title = "BLACK SHOUT"
+
+[[discs.tracks]]
+title = "Opera of the wasteland"
+
+[[discs.tracks]]
+title = "陽だまりロードナイト"
+
+[[discs.tracks]]
+title = "ONENESS"
+
+[[discs.tracks]]
+title = "Re:birth day"
+
+[[discs.tracks]]
+title = "Legendary"
+
+[[discs.tracks]]
+title = "－HEROIC ADVENT－"
+
+[[discs.tracks]]
+title = "Determination Symphony"
+
+[[discs.tracks]]
+title = "熱色スターマイン"
+
+[[discs.tracks]]
+title = "軌跡"
+
+[[discs.tracks]]
+title = "LOUDER"

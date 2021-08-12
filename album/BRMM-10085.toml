@@ -1,0 +1,27 @@
+[album]
+title = "BLACK SHOUT"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2017-04-19
+type = "normal"
+catalog = "BRMM-10085"
+
+[[discs]]
+catalog = "BRMM-10085"
+
+[[discs.tracks]]
+title = "BLACK SHOUT"
+
+[[discs.tracks]]
+title = "LOUDER"
+
+[[discs.tracks]]
+title = "BLACK SHOUT -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "LOUDER -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Roseliaミニドラマ～バンド練習編～"
+type = "drama"

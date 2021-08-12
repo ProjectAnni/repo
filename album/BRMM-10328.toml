@@ -1,0 +1,23 @@
+[album]
+title = "ZEAL of proud"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+date = 2021-01-20
+type = "normal"
+catalog = "BRMM-10328"
+
+[[discs]]
+catalog = "BRMM-10328"
+
+[[discs.tracks]]
+title = "ZEAL of proud"
+
+[[discs.tracks]]
+title = "Blessing Chord"
+
+[[discs.tracks]]
+title = "ZEAL of proud -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Blessing Chord -instrumental-"
+type = "instrumental"

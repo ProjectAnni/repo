@@ -1,0 +1,23 @@
+[album]
+title = "Opera of the wasteland"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2018-03-21
+type = "normal"
+catalog = "BRMM-10111"
+
+[[discs]]
+catalog = "BRMM-10111"
+
+[[discs.tracks]]
+title = "Opera of the wasteland"
+
+[[discs.tracks]]
+title = "軌跡"
+
+[[discs.tracks]]
+title = "Opera of the wasteland -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "軌跡 -instrumental-"
+type = "instrumental"

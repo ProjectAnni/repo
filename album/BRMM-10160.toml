@@ -1,0 +1,23 @@
+[album]
+title = "Safe and Sound"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2019-02-20
+type = "normal"
+catalog = "BRMM-10160"
+
+[[discs]]
+catalog = "BRMM-10160"
+
+[[discs.tracks]]
+title = "Safe and Sound"
+
+[[discs.tracks]]
+title = "PASSIONATE ANTHEM"
+
+[[discs.tracks]]
+title = "Safe and Sound -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "PASSIONATE ANTHEM -instrumental-"
+type = "instrumental"
