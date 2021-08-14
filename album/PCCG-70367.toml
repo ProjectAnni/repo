@@ -1,0 +1,23 @@
+[album]
+title = "Melody and Flower"
+artist = "遠藤ゆりか"
+date = 2017-04-26
+type = "normal"
+catalog = "PCCG-70367"
+
+[[discs]]
+catalog = "PCCG-70367"
+
+[[discs.tracks]]
+title = "Melody and Flower"
+
+[[discs.tracks]]
+title = "knight-night."
+
+[[discs.tracks]]
+title = "Melody and Flower (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "knight-night. (instrumental)"
+type = "instrumental"

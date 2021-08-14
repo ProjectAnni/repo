@@ -1,0 +1,42 @@
+[album]
+title = "Emotional Daybreak -SINGLES BEST-"
+artist = "遠藤ゆりか"
+date = 2018-05-09
+type = "normal"
+catalog = "PCCG.01674"
+
+[[discs]]
+catalog = "PCCG.01674"
+
+[[discs.tracks]]
+title = "knight-night. (Album ver.)"
+
+[[discs.tracks]]
+title = "パラレルスパイラルライン"
+
+[[discs.tracks]]
+title = "REBORN"
+
+[[discs.tracks]]
+title = "Grimm Truth"
+
+[[discs.tracks]]
+title = "黄泉のYou&Me"
+
+[[discs.tracks]]
+title = "モノクロームオーバードライブ"
+
+[[discs.tracks]]
+title = "ふたりのクロノスタシス"
+
+[[discs.tracks]]
+title = "黄昏ジュヴナイル"
+
+[[discs.tracks]]
+title = "Melody and Flower"
+
+[[discs.tracks]]
+title = "はじまりのうた"
+
+[[discs.tracks]]
+title = "Emotional Daybreak"

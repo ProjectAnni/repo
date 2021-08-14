@@ -1,0 +1,23 @@
+[album]
+title = "モノクロームオーバードライブ"
+artist = "遠藤ゆりか"
+date = 2014-02-05
+type = "normal"
+catalog = "PCCG-01383"
+
+[[discs]]
+catalog = "PCCG-01383"
+
+[[discs.tracks]]
+title = "モノクロームオーバードライブ"
+
+[[discs.tracks]]
+title = "REBORN"
+
+[[discs.tracks]]
+title = "モノクロームオーバードライブ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "REBORN (instrumental)"
+type = "instrumental"
