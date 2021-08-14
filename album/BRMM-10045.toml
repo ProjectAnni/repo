@@ -1,0 +1,52 @@
+[album]
+title = "STAR BEAT!〜ホシノコドウ〜"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2016-08-03
+type = "normal"
+catalog = "BRMM-10045"
+
+[[discs]]
+catalog = "BRMM-10045"
+
+[[discs.tracks]]
+title = "STAR BEAT!〜ホシノコドウ〜"
+
+[[discs.tracks]]
+title = "夏空 SUN! SUN! SEVEN!"
+
+[[discs.tracks]]
+title = "STAR BEAT!〜ホシノコドウ〜 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夏空 SUN! SUN! SEVEN! -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜戸山香澄〜"
+artist = "戸山香澄（愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜花園たえ〜"
+artist = "花園たえ（大塚紗英）"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜牛込りみ〜"
+artist = "牛込りみ（西本りみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜山吹沙綾〜"
+artist = "山吹沙綾（大橋彩香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜市ヶ谷有咲〜"
+artist = "市ヶ谷有咲（伊藤彩沙）"
+type = "drama"
+
+[[discs.tracks]]
+title = "夏休みの過ごし方〜Poppin'Party〜"
+type = "drama"

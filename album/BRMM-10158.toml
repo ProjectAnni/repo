@@ -1,0 +1,23 @@
+[album]
+title = "Jumpin'"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2019-02-20
+type = "normal"
+catalog = "BRMM-10158"
+
+[[discs]]
+catalog = "BRMM-10158"
+
+[[discs.tracks]]
+title = "Jumpin'"
+
+[[discs.tracks]]
+title = "What's the POPIPA!?"
+
+[[discs.tracks]]
+title = "Jumpin' -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "What's the POPIPA!? -instrumental-"
+type = "instrumental"

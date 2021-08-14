@@ -1,0 +1,25 @@
+[category]
+name = "Poppin'Party"
+type = "AAAA"
+albums = [
+  "BRMM-10032",
+  "BRMM-10045",
+  "BRMM-10055",
+  "BRMM-10065",
+  "BRMM-10066",
+  "BRMM-10084",
+  "BRMM-10095",
+  "BRMM-10100",
+  "BRMM-10110",
+  "BRMM-10125",
+  "BRMM-10135",
+  "BRMM-10140",
+  "BRMM-10170",
+  "BRMM-10158",
+  "BRMM-10190",
+  "BRMM-10222",
+  "BRMM-10224",
+  "BRMM-10253",
+  "BRMM-10324",
+  "BRMM-10424",
+]

@@ -1,0 +1,23 @@
+[album]
+title = "Dreamers Go!／Returns"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2019-05-15
+type = "normal"
+catalog = "BRMM-10190"
+
+[[discs]]
+catalog = "BRMM-10190"
+
+[[discs.tracks]]
+title = "Dreamers Go!"
+
+[[discs.tracks]]
+title = "Returns"
+
+[[discs.tracks]]
+title = "Dreamers Go! -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Returns -instrumental-"
+type = "instrumental"

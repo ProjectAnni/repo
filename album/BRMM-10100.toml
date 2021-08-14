@@ -1,0 +1,30 @@
+[album]
+title = "クリスマスのうた"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2017-12-13
+type = "normal"
+catalog = "BRMM-10100"
+
+[[discs]]
+catalog = "BRMM-10100"
+
+[[discs.tracks]]
+title = "クリスマスのうた"
+
+[[discs.tracks]]
+title = "B.O.F"
+
+[[discs.tracks]]
+title = "キミにもらったもの"
+
+[[discs.tracks]]
+title = "クリスマスのうた -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "B.O.F -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミにもらったもの -instrumental-"
+type = "instrumental"

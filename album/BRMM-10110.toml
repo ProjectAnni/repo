@@ -1,0 +1,23 @@
+[album]
+title = "CiRCLING"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2018-03-21
+type = "normal"
+catalog = "BRMM-10110"
+
+[[discs]]
+catalog = "BRMM-10110"
+
+[[discs.tracks]]
+title = "CiRCLING"
+
+[[discs.tracks]]
+title = "Light Delight"
+
+[[discs.tracks]]
+title = "CiRCLING -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Light Delight -instrumental-"
+type = "instrumental"
