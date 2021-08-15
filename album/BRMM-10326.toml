@@ -1,0 +1,23 @@
+[album]
+title = "ブルームブルーム"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2021-01-13
+type = "normal"
+catalog = "BRMM-10326"
+
+[[discs]]
+catalog = "BRMM-10326"
+
+[[discs.tracks]]
+title = "ブルームブルーム"
+
+[[discs.tracks]]
+title = "flame of hope"
+
+[[discs.tracks]]
+title = "ブルームブルーム -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "flame of hope -instrumental-"
+type = "instrumental"
