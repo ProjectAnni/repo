@@ -1,0 +1,39 @@
+[album]
+title = "Nebula"
+artist = "上田麗奈"
+date = 2021-08-18
+type = "normal"
+catalog = "LACA-15884"
+
+[[discs]]
+catalog = "LACA-15884"
+
+[[discs.tracks]]
+title = "うつくしいひと"
+
+[[discs.tracks]]
+title = "白昼夢"
+
+[[discs.tracks]]
+title = "Poème en prose"
+
+[[discs.tracks]]
+title = "scapesheep"
+
+[[discs.tracks]]
+title = "アリアドネ"
+
+[[discs.tracks]]
+title = "デスコロール"
+
+[[discs.tracks]]
+title = "プランクトン"
+
+[[discs.tracks]]
+title = "anemone"
+
+[[discs.tracks]]
+title = "わたしのままで"
+
+[[discs.tracks]]
+title = "wall"
