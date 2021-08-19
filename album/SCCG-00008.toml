@@ -1,0 +1,16 @@
+[album]
+title = "はじまりのうた"
+artist = "遠藤ゆりか"
+date = 2015-11-25
+type = "normal"
+catalog = "SCCG-00008"
+
+[[discs]]
+catalog = "SCCG-00008"
+
+[[discs.tracks]]
+title = "はじまりのうた"
+
+[[discs.tracks]]
+title = "はじまりのうた (Instrumental)"
+type = "instrumental"

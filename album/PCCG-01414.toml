@@ -1,0 +1,23 @@
+[album]
+title = "ふたりのクロノスタシス"
+artist = "遠藤ゆりか"
+date = 2014-08-06
+type = "normal"
+catalog = "PCCG-01414"
+
+[[discs]]
+catalog = "PCCG-01414"
+
+[[discs.tracks]]
+title = "ふたりのクロノスタシス"
+
+[[discs.tracks]]
+title = "パラレルスパイラルライン"
+
+[[discs.tracks]]
+title = "ふたりのクロノスタシス (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パラレルスパイラルライン (instrumental)"
+type = "instrumental"
