@@ -1,0 +1,14 @@
+[category]
+name = "HoneyWorks"
+type = "AAAA"
+albums = [
+  "SMCL-322",
+  "SMCL-366",
+  "SMCL-389",
+  "SMCL-469",
+  "SMCL-519",
+  "SMCL-635~6",
+  "SMCL-665",
+  "SMCL-680",
+  "SMCL-683",
+]

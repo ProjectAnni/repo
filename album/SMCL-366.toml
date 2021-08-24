@@ -1,0 +1,81 @@
+[album]
+title = "僕じゃダメですか？〜「告白実行委員会」キャラクターソング集〜"
+artist = "HoneyWorks"
+date = 2014-11-26
+type = "normal"
+catalog = "SMCL-366"
+
+[[discs]]
+catalog = "SMCL-366"
+
+[[discs.tracks]]
+title = "ヤキモチの答え"
+artist = "望月蒼太（梶裕貴）"
+
+[[discs.tracks]]
+title = "告白ライバル宣言"
+artist = "綾瀬恋雪（代永翼）"
+
+[[discs.tracks]]
+title = "今好きになる。"
+artist = "瀬戸口雛（麻倉もも）"
+
+[[discs.tracks]]
+title = "テレカクシ思春期"
+artist = "瀬戸口優（神谷浩史）"
+
+[[discs.tracks]]
+title = "放課後トーーク！男子編"
+type = "drama"
+
+[[discs.tracks]]
+title = "告白予行練習"
+artist = "榎本夏樹（戸松遥）"
+
+[[discs.tracks]]
+title = "三角ジェラシー"
+artist = "榎本虎太朗（花江夏樹）"
+
+[[discs.tracks]]
+title = "初恋の絵本"
+artist = "合田美桜（豊崎愛生）"
+
+[[discs.tracks]]
+title = "さよなら両片想"
+artist = "芹沢春輝（鈴村健一）"
+
+[[discs.tracks]]
+title = "放課後トーーク！女子編"
+type = "drama"
+
+[[discs.tracks]]
+title = "告白予行練習 -another story-"
+artist = "瀬戸口優（神谷浩史）"
+
+[[discs.tracks]]
+title = "病名恋ワズライ"
+artist = "榎本夏樹（戸松遥）"
+
+[[discs.tracks]]
+title = "初恋の絵本 -another story-"
+artist = "芹沢春輝（鈴村健一）"
+
+[[discs.tracks]]
+title = "未来図"
+artist = "合田美桜（豊崎愛生）"
+
+[[discs.tracks]]
+title = "放課後トーーク！回答編？"
+type = "drama"
+
+[[discs.tracks]]
+title = "イノコリ先生"
+artist = "明智咲（緑川光）"
+
+[[discs.tracks]]
+title = "金曜日のおはよう -another story-"
+artist = "成海聖奈（雨宮天）"
+
+[[discs.tracks]]
+title = "ヤキモチの答え -another story-"
+artist = "早坂あかり（阿澄佳奈）"

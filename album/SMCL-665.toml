@@ -1,0 +1,25 @@
+[album]
+title = "ヒロインたるもの！"
+artist = "HoneyWorks"
+date = 2020-08-26
+type = "normal"
+catalog = "SMCL-665"
+
+[[discs]]
+catalog = "SMCL-665"
+
+[[discs.tracks]]
+title = "ヒロインたるもの！"
+artist = "涼海ひより（水瀬いのり）"
+
+[[discs.tracks]]
+title = "1％の恋人"
+artist = "南（豊永利行）"
+
+[[discs.tracks]]
+title = "ヒロインたるもの！ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "1％の恋人 (Instrumental)"
+type = "instrumental"

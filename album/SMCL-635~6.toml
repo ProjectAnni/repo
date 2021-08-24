@@ -1,0 +1,108 @@
+[album]
+title = "好きすぎてやばい。〜告白実行委員会キャラクターソング集〜"
+artist = "HoneyWorks"
+date = 2020-01-15
+type = "normal"
+catalog = "SMCL-635~6"
+
+[[discs]]
+catalog = "SMCL-635"
+
+[[discs.tracks]]
+title = "ヒロイン育成計画"
+artist = "涼海ひより（水瀬いのり）"
+
+[[discs.tracks]]
+title = "フィアンセ"
+artist = "LIP×LIP（勇次郎（内山昂輝）、愛蔵（島﨑信長））"
+
+[[discs.tracks]]
+title = "No.1"
+artist = "mona（夏川椎菜）"
+
+[[discs.tracks]]
+title = "ワタシノテンシ"
+artist = "成海聖奈（雨宮天）"
+
+[[discs.tracks]]
+title = "生意気ハニー"
+artist = "柴崎健（江口拓也）"
+
+[[discs.tracks]]
+title = "恋愛成就"
+artist = "扇野りょう（井上麻里奈）"
+
+[[discs.tracks]]
+title = "私、アイドル宣言"
+artist = "mona（夏川椎菜）"
+
+[[discs.tracks]]
+title = "映えラヴ"
+artist = "南（豊永利行）"
+
+[[discs.tracks]]
+title = "レンズ越しの景色"
+artist = "山本幸大（松岡禎丞）"
+
+[[discs.tracks]]
+title = "大嫌いなはずだった。"
+artist = "榎本虎太朗（花江夏樹）、瀬戸口雛（麻倉もも）"
+
+[[discs.tracks]]
+title = "選んでくれてありがとう。"
+artist = "榎本虎太朗（花江夏樹）、瀬戸口雛（麻倉もも）"
+
+[[discs.tracks]]
+title = "東京ウインターセッション"
+artist = "瀬戸口優（神谷浩史）、榎本夏樹（戸松遥）、望月蒼太（梶裕貴）、早坂あかり（阿澄佳奈）、芹沢春輝（鈴村健一）、合田美桜（豊崎愛生）"
+
+[[discs]]
+catalog = "SMCL-636"
+
+[[discs.tracks]]
+title = "ファンサ"
+artist = "mona（夏川椎菜）"
+
+[[discs.tracks]]
+title = "イジワルな出会い"
+artist = "柴崎健（江口拓也）"
+
+[[discs.tracks]]
+title = "生意気ハニー-another story-"
+artist = "高見沢アリサ（東山奈央）"
+
+[[discs.tracks]]
+title = "ラブヘイトマジョリティ"
+artist = "芹沢千秋（木村良平）、明智咲（緑川光）"
+
+[[discs.tracks]]
+title = "Re:初恋の絵本"
+artist = "合田美桜（豊崎愛生）"
+
+[[discs.tracks]]
+title = "恋人たちのハッピーバースデー"
+artist = "望月蒼太（梶裕貴）、早坂あかり（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "聞こえますか"
+artist = "春輝<幼少期>（こいぬ）"
+
+[[discs.tracks]]
+title = "線香花火"
+artist = "芹沢千秋（木村良平）"
+
+[[discs.tracks]]
+title = "青華"
+artist = "勇次郎（内山昂輝）"
+
+[[discs.tracks]]
+title = "YELLOW"
+artist = "愛蔵（島﨑信長）"
+
+[[discs.tracks]]
+title = "告白してもいいですか"
+artist = "南（豊永利行）"
+
+[[discs.tracks]]
+title = "東京オータムセッション"
+artist = "瀬戸口優（神谷浩史）、榎本夏樹（戸松遥）、望月蒼太（梶裕貴）、早坂あかり（阿澄佳奈）、芹沢春輝（鈴村健一）、合田美桜（豊崎愛生）"

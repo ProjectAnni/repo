@@ -1,0 +1,25 @@
+[album]
+title = "シス×ラブ"
+artist = "HoneyWorks"
+date = 2020-10-21
+type = "normal"
+catalog = "SMCL-680"
+
+[[discs]]
+catalog = "SMCL-680"
+
+[[discs.tracks]]
+title = "シス×ラブ"
+artist = "成海聖奈（雨宮天）、成海萌奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "水曜日の約束 -another story-"
+artist = "成海聖奈（雨宮天）"
+
+[[discs.tracks]]
+title = "シス×ラブ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "水曜日の約束-another story- (Instrumental)"
+type = "instrumental"
