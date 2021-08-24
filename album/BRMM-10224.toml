@@ -1,0 +1,30 @@
+[album]
+title = "イニシャル／夢を撃ち抜く瞬間に！【ドキドキVer.】"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2020-01-08
+type = "normal"
+catalog = "BRMM-10224"
+
+[[discs]]
+catalog = "BRMM-10224"
+
+[[discs.tracks]]
+title = "イニシャル"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！"
+
+[[discs.tracks]]
+title = "アニバーサリー"
+
+[[discs.tracks]]
+title = "イニシャル -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アニバーサリー -instrumental-"
+type = "instrumental"

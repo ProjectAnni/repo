@@ -1,0 +1,87 @@
+[album]
+title = "Breakthrough!"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2020-06-24
+type = "normal"
+catalog = "BRMM-10253"
+
+[[discs]]
+catalog = "BRMM-10253-01"
+
+[[discs.tracks]]
+title = "Breakthrough!"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (Poppin'Party Ver.)"
+
+[[discs.tracks]]
+title = "イニシャル"
+
+[[discs.tracks]]
+title = "Hello! Wink!"
+
+[[discs.tracks]]
+title = "Step×Step！"
+
+[[discs.tracks]]
+title = "Jumpin'"
+
+[[discs.tracks]]
+title = "White Afternoon"
+
+[[discs.tracks]]
+title = "キラキラスター！"
+
+[[discs.tracks]]
+title = "Returns"
+
+[[discs.tracks]]
+title = "Dreamers Go!"
+
+[[discs.tracks]]
+title = "キズナミュージック♪"
+
+[[discs.tracks]]
+title = "ミライトレイン"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！"
+
+[[discs]]
+catalog = "BRMM-10253-02"
+
+[[discs.tracks]]
+title = "ぽっぴん'しゃっふる"
+
+[[discs.tracks]]
+title = "夏空 SUN! SUN! SEVEN!"
+
+[[discs.tracks]]
+title = "1000回潤んだ空"
+
+[[discs.tracks]]
+title = "Happy Happy Party!"
+
+[[discs.tracks]]
+title = "夏のドーン！"
+
+[[discs.tracks]]
+title = "キミにもらったもの"
+
+[[discs.tracks]]
+title = "Light Delight"
+
+[[discs.tracks]]
+title = "切ないSandglass"
+
+[[discs.tracks]]
+title = "Home Street"
+
+[[discs.tracks]]
+title = "What's the POPIPA!?"
+
+[[discs.tracks]]
+title = "SAKURA MEMORIES"
+
+[[discs.tracks]]
+title = "アニバーサリー"

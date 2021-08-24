@@ -1,0 +1,52 @@
+[album]
+title = "Yes! BanG_Dream!"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2016-02-24
+type = "normal"
+catalog = "BRMM-10032"
+
+[[discs]]
+catalog = "BRMM-10032"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream!"
+
+[[discs.tracks]]
+title = "ぽっぴん’しゃっふる"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream! -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぽっぴん’しゃっふる -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボイストラック〜戸山香澄〜"
+artist = "戸山香澄（愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ボイストラック〜花園たえ〜"
+artist = "花園たえ（大塚紗英）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ボイストラック〜牛込りみ〜"
+artist = "牛込りみ（西本りみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ボイストラック〜山吹沙綾〜"
+artist = "山吹沙綾（大橋彩香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ボイストラック〜市ヶ谷有咲〜"
+artist = "市ヶ谷有咲（伊藤彩沙）"
+type = "drama"
+
+[[discs.tracks]]
+title = "シークレット・トラック"
+type = "drama"

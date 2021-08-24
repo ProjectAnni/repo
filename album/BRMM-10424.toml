@@ -1,0 +1,24 @@
+[album]
+title = "Live Beyond!!"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2021-08-18
+type = "normal"
+catalog = "BRMM-10424"
+
+[[discs]]
+catalog = "BRMM-10424"
+
+[[discs.tracks]]
+title = "Live Beyond!!"
+
+[[discs.tracks]]
+title = "Sweets BAN!"
+
+[[discs.tracks]]
+title = "キミが始まる！"
+
+[[discs.tracks]]
+title = "Moonlight Walk"
+
+[[discs.tracks]]
+title = "ここから先は歌にならない"

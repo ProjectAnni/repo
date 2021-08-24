@@ -1,0 +1,27 @@
+[album]
+title = "前へススメ！／夢みるSunflower"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2017-05-10
+type = "normal"
+catalog = "BRMM-10084"
+
+[[discs]]
+catalog = "BRMM-10084"
+
+[[discs.tracks]]
+title = "前へススメ！"
+
+[[discs.tracks]]
+title = "夢みるSunflower"
+
+[[discs.tracks]]
+title = "前へススメ！ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢みるSunflower -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "楽曲紹介 from Poppin'Party"
+type = "drama"

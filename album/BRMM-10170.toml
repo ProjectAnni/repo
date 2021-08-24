@@ -1,0 +1,78 @@
+[album]
+title = "Poppin'on!"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2019-01-30
+type = "normal"
+catalog = "BRMM-10170"
+
+[[discs]]
+catalog = "BRMM-10170-01"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream!"
+
+[[discs.tracks]]
+title = "STAR BEAT!～ホシノコドウ～"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに"
+
+[[discs.tracks]]
+title = "ティアドロップス"
+
+[[discs.tracks]]
+title = "ときめきエクスペリエンス！"
+
+[[discs.tracks]]
+title = "キラキラだとか夢だとか ～Sing Girls～"
+
+[[discs.tracks]]
+title = "私の心はチョココロネ"
+
+[[discs.tracks]]
+title = "前へススメ！"
+
+[[discs.tracks]]
+title = "夢みるSunflower"
+
+[[discs.tracks]]
+title = "ティアドロップス ～Popipa Acoustic Ver.～"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに ～Popipa Acoustic Ver.～"
+
+[[discs]]
+catalog = "BRMM-10170-02"
+
+[[discs.tracks]]
+title = "Time Lapse"
+
+[[discs.tracks]]
+title = "八月のif"
+
+[[discs.tracks]]
+title = "クリスマスのうた"
+
+[[discs.tracks]]
+title = "B.O.F"
+
+[[discs.tracks]]
+title = "CiRCLING"
+
+[[discs.tracks]]
+title = "二重の虹(ダブル レインボウ)"
+
+[[discs.tracks]]
+title = "最高(さあ行こう)！"
+
+[[discs.tracks]]
+title = "ガールズコード"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream! ～Popipa Acoustic Ver.～"
+
+[[discs.tracks]]
+title = "夏空 SUN! SUN! SEVEN! ～Popipa Acoustic Ver.～"
+
+[[discs.tracks]]
+title = "STAR BEAT!～ホシノコドウ～ ～Popipa Acoustic Ver.～"

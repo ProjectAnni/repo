@@ -1,0 +1,52 @@
+[album]
+title = "走り始めたばかりのキミに／ティアドロップス"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2016-12-07
+type = "normal"
+catalog = "BRMM-10055"
+
+[[discs]]
+catalog = "BRMM-10055"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに"
+
+[[discs.tracks]]
+title = "ティアドロップス"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ティアドロップス -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "クリスマス☆ ～戸山香澄～"
+artist = "戸山香澄（愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "クリスマスの発見 ～花園たえ～"
+artist = "花園たえ（大塚紗英）"
+type = "drama"
+
+[[discs.tracks]]
+title = "クリスマスの楽しみ ～牛込りみ～"
+artist = "牛込りみ（西本りみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "クリスマスは戦い？ ～山吹沙綾～"
+artist = "山吹沙綾（大橋彩香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "いっそ冬眠したい ～市ヶ谷有咲～"
+artist = "市ヶ谷有咲（伊藤彩沙）"
+type = "drama"
+
+[[discs.tracks]]
+title = "クリスマス～Poppin'Party～"
+type = "drama"
