@@ -1,0 +1,27 @@
+[album]
+title = "Re:birth day"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2017-06-28
+type = "normal"
+catalog = "BRMM-10090"
+
+[[discs]]
+catalog = "BRMM-10090"
+
+[[discs.tracks]]
+title = "Re:birth day"
+
+[[discs.tracks]]
+title = "陽だまりロードナイト"
+
+[[discs.tracks]]
+title = "Re:birth day -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "陽だまりロードナイト -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Roseliaミニドラマ～ふれあい動物編～"
+type = "drama"

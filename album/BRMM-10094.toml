@@ -1,0 +1,27 @@
+[album]
+title = "熱色スターマイン"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2017-08-30
+type = "normal"
+catalog = "BRMM-10094"
+
+[[discs]]
+catalog = "BRMM-10094"
+
+[[discs.tracks]]
+title = "熱色スターマイン"
+
+[[discs.tracks]]
+title = "－HEROIC ADVENT－"
+
+[[discs.tracks]]
+title = "熱色スターマイン -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "－HEROIC ADVENT－ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Roseliaミニドラマ～あこの厨二語辞典編～"
+type = "drama"

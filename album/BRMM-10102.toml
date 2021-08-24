@@ -1,0 +1,23 @@
+[album]
+title = "ONENESS"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2017-11-29
+type = "normal"
+catalog = "BRMM-10102"
+
+[[discs]]
+catalog = "BRMM-10102"
+
+[[discs.tracks]]
+title = "ONENESS"
+
+[[discs.tracks]]
+title = "Determination Symphony"
+
+[[discs.tracks]]
+title = "ONENESS -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Determination Symphony -instrumental-"
+type = "instrumental"

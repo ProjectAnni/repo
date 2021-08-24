@@ -1,0 +1,45 @@
+[album]
+title = "Wahl"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+date = 2020-07-15
+type = "normal"
+catalog = "BRMM-10266"
+
+[[discs]]
+catalog = "BRMM-10266"
+
+[[discs.tracks]]
+title = "R"
+
+[[discs.tracks]]
+title = "BRAVE JEWEL"
+
+[[discs.tracks]]
+title = "Determination Symphony"
+
+[[discs.tracks]]
+title = "FIRE BIRD"
+
+[[discs.tracks]]
+title = "Safe and Sound"
+
+[[discs.tracks]]
+title = "Avant-garde HISTORY"
+
+[[discs.tracks]]
+title = "Break your desire"
+
+[[discs.tracks]]
+title = "Re:birth day"
+
+[[discs.tracks]]
+title = "Neo-Aspect"
+
+[[discs.tracks]]
+title = "約束"
+
+[[discs.tracks]]
+title = "“UNIONS” Road"
+
+[[discs.tracks]]
+title = "Song I am."

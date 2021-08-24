@@ -1,0 +1,23 @@
+[album]
+title = "BRAVE JEWEL"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+date = 2018-12-12
+type = "normal"
+catalog = "BRMM-10142"
+
+[[discs]]
+catalog = "BRMM-10142"
+
+[[discs.tracks]]
+title = "BRAVE JEWEL"
+
+[[discs.tracks]]
+title = "Sanctuary"
+
+[[discs.tracks]]
+title = "BRAVE JEWEL -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sanctuary -instrumental-"
+type = "instrumental"
