@@ -1,0 +1,36 @@
+[album]
+title = "THE IDOLM@STER POPLINKS POPLINKS TUNE!!!!!"
+artist = "天海春香（中村繪里子）、島村卯月（大橋彩香）、春日未来（山崎はるか）、天道輝（仲村宗悟）、櫻木真乃（関根瞳）"
+date = 2021-07-28
+type = "normal"
+catalog = "ANCF-0018"
+
+[[discs]]
+catalog = "ANCF-0018"
+
+[[discs.tracks]]
+title = "POP LINKS TUNE!!!!!"
+
+[[discs.tracks]]
+title = "POP LINKS TUNE!!!!! 天海春香ソロ・リミックス"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "POPLINKS TUNE!!!!! 島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "POPLINKS TUNE!!!!! 春日未来ソロ・リミックス"
+artist = "春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "POPLINKS TUNE!!!!! 天道 輝ソロ・リミックス"
+artist = "天道輝（仲村宗悟）"
+
+[[discs.tracks]]
+title = "POPLINKS TUNE!!!!! 櫻木真乃ソロ・リミックス"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "POPLINKS TUNE!!!!! オリジナル・カラオケ"
+type = "instrumental"
