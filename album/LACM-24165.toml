@@ -1,0 +1,32 @@
+[album]
+title = "VOY@GER【シャイニーカラーズ盤】"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2021-08-04
+type = "normal"
+catalog = "LACM-24165"
+
+[[discs]]
+catalog = "LACM-24165"
+
+[[discs.tracks]]
+title = "VOY@GER THE IDOLM@STER FIVE STARS!!!!!"
+
+[[discs.tracks]]
+title = "VOY@GER (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VOY@GER シャイニーカラーズVer."
+artist = "有栖川夏葉（涼本あきほ）、黛冬優子（幸村恵理）、浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "VOY@GER 有栖川夏葉Ver."
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs.tracks]]
+title = "VOY@GER 黛 冬優子Ver."
+artist = "黛冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "VOY@GER 浅倉 透Ver."
+artist = "浅倉透（和久井優）"
