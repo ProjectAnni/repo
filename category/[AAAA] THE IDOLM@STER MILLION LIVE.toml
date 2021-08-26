@@ -201,7 +201,11 @@ albums = [
   # リフレインキス (Brand New Ver.)
   "LZC-1901",
   # 花びらメモリーズ
-  "LZC-1902"
+  "LZC-1902",
+  # THE IDOLM@STERシリーズ イメージソング2021「VOY@GER」 【ミリオンライブ！盤】
+  "LACM-24163",
+  # THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
+  "LACM-24159",
 ]
 
 [[subcategory]]
@@ -236,7 +240,7 @@ albums = [
   # THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 3巻 特典CD
   "ISBN-9784758016988",
   # THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 4巻 特典CD
-  "ISBN-9784758017305"
+  "ISBN-9784758017305",
 ]
 
 [[subcategory]]
@@ -260,4 +264,7 @@ albums = [
 
 [[subcategory]]
 name = "THE IDOLM@STER MILLION THE@TER SEASON"
-albums = ["LACM-24151"]
+albums = [
+  # THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
+  "LACM-24151",
+]

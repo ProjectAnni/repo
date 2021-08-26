@@ -1,0 +1,21 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園"
+artist = "Various Artists"
+date = 2021-08-25
+type = "normal"
+catalog = "LACM-24159"
+
+[[discs]]
+catalog = "LACM-24159"
+
+[[discs.tracks]]
+title = "カーテシーフラワー"
+artist = "高坂海美（上田麗奈）、三浦あずさ（たかはし智秋）、中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "聖ミリオン女学園校歌"
+artist = "永吉昴（斉藤佑圭）、如月千早（今井麻美）、篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "花びらメモリーズ"
+artist = "白石紬（南早紀）、佐竹美奈子（大関英里）、周防桃子（渡部恵子）、所恵美（藤井ゆきよ）"
