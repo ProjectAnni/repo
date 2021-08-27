@@ -1,0 +1,61 @@
+[album]
+title = "ゆるキャン△8bit アレンジアルバム"
+artist = "村上純"
+date = 2019-08-28
+type = "absolute"
+catalog = "USSW-0203"
+
+[[discs]]
+catalog = "USSW-0203"
+
+[[discs.tracks]]
+title = "ゆるキャン△のテーマ"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+artist = "亜咲花"
+type = "normal"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～本栖湖～"
+
+[[discs.tracks]]
+title = "野クルの時間 (わちゃわちゃ!)"
+
+[[discs.tracks]]
+title = "ソロキャン△のすすめ"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～麓～"
+
+[[discs.tracks]]
+title = "おしゃべりとマグカップ"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～高ボッチ、イーストウッド～"
+
+[[discs.tracks]]
+title = "野クルの時間 (わちゃ、、、)"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～四尾連湖～"
+
+[[discs.tracks]]
+title = "キャンプ行こうよ!"
+
+[[discs.tracks]]
+title = "野クルの時間 (わちゃわちゃわちゃっ!!)"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～陣馬形山～"
+
+[[discs.tracks]]
+title = "踊ろよフォークダンス"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ ～朝霧高原～"
+
+[[discs.tracks]]
+title = "ふゆびより"
+artist = "佐々木恵梨"
+type = "normal"

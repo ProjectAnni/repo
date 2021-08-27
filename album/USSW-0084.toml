@@ -1,0 +1,183 @@
+[album]
+title = "TVアニメ「ゆるキャン△」オリジナル・サウンドトラック"
+artist = "立山秋航"
+date = 2018-03-21
+type = "absolute"
+catalog = "USSW-0084"
+
+[[discs]]
+catalog = "USSW-0084-01"
+
+[[discs.tracks]]
+title = "ゆるキャン△のテーマ"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その1"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "SHINY DAYS (TVサイズ)"
+artist = "亜咲花"
+type = "normal"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その2"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～本栖湖～"
+
+[[discs.tracks]]
+title = "野クルの時間（わちゃわちゃ!）"
+
+[[discs.tracks]]
+title = "ソロキャン△のすすめ"
+
+[[discs.tracks]]
+title = "ゆるやかな時間"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その3"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～麓～"
+
+[[discs.tracks]]
+title = "おしゃべりとマグカップ"
+
+[[discs.tracks]]
+title = "ごーいんぐマイウェイ"
+
+[[discs.tracks]]
+title = "夜明けの深呼吸"
+
+[[discs.tracks]]
+title = "ワクパラ!"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その4"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～高ボッチ、イーストウッド～"
+
+[[discs.tracks]]
+title = "野クルの時間 (わちゃ、、、)"
+
+[[discs.tracks]]
+title = "ごーいんぐユアウェイ"
+
+[[discs.tracks]]
+title = "ゆるりの掟"
+
+[[discs.tracks]]
+title = "たじたじのた"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その5"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ふゆびより (弾きがたりver.)"
+artist = "佐々木恵梨"
+
+[[discs]]
+catalog = "USSW-0084-02"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その6"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～四尾連湖～"
+
+[[discs.tracks]]
+title = "キャンプ行こうよ!"
+
+[[discs.tracks]]
+title = "富士川賛歌"
+
+[[discs.tracks]]
+title = "ストレンジブルー"
+
+[[discs.tracks]]
+title = "野クルの時間 (わちゃわちゃわちゃっ!!)"
+
+[[discs.tracks]]
+title = "へろりんぱ"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その7"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～陣馬形山～"
+
+[[discs.tracks]]
+title = "踊ろよフォークダンス"
+
+[[discs.tracks]]
+title = "うんちくかんちく"
+
+[[discs.tracks]]
+title = "リトルクルーズ"
+
+[[discs.tracks]]
+title = "ハテナノナ?"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その8"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "キャンプ場のテーマ～朝霧高原～"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その9"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ふゆびより (TVサイズ)"
+artist = "佐々木恵梨"
+type = "normal"
+
+[[discs.tracks]]
+title = "ため息ひとつ"
+
+[[discs.tracks]]
+title = "でこぼこんぐ"
+
+[[discs.tracks]]
+title = "ドッタンバッタン"
+
+[[discs.tracks]]
+title = "ハプニングー"
+
+[[discs.tracks]]
+title = "どろどろばあ"
+
+[[discs.tracks]]
+title = "南国ファンタジー"
+
+[[discs.tracks]]
+title = "万歳山頂"
+
+[[discs.tracks]]
+title = "キャンピングinボッシブル"
+
+[[discs.tracks]]
+title = "なでしこはかく語りき"
+
+[[discs.tracks]]
+title = "しまりん団子のテーマ"
+type = "vocal"

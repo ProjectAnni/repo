@@ -1,0 +1,27 @@
+[album]
+title = "ACOUSTIC WORKS! Camp△Song Collection"
+artist = "めぐさうんどわーくす"
+date = 2018-11-25
+type = "absolute"
+catalog = "MSW-0002"
+
+[[discs]]
+catalog = "MSW-0002"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+
+[[discs.tracks]]
+title = "キャンプにまつわる定番ソングメドレー! (solo guitar)"
+
+[[discs.tracks]]
+title = "家路 (solo guitar)"
+
+[[discs.tracks]]
+title = "キャンプファイヤー・定番ダンスナンバーメドレー!"
+
+[[discs.tracks]]
+title = "今日の日はさようなら (solo guitar)"
+
+[[discs.tracks]]
+title = "ふゆびより"
