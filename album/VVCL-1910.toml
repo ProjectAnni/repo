@@ -1,0 +1,37 @@
+[album]
+title = "月姫 -A piece of blue glass moon- THEME SONG E.P."
+artist = "ReoNa"
+date = 2021-09-01
+type = "normal"
+catalog = "VVCL-1910"
+
+[[discs]]
+catalog = "VVCL-1910"
+
+[[discs.tracks]]
+title = "生命線"
+
+[[discs.tracks]]
+title = "ジュブナイル"
+
+[[discs.tracks]]
+title = "Lost"
+
+[[discs.tracks]]
+title = "Believer"
+
+[[discs.tracks]]
+title = "生命線 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ジュブナイル (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lost (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Believer (Instrumental)"
+type = "instrumental"
