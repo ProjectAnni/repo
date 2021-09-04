@@ -1,0 +1,51 @@
+[album]
+title = 'TrySail Live 2021 "Double the Cape"'
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2021-08-04
+type = "normal"
+catalog = "VVXL-82"
+
+[[discs]]
+catalog = "VVXL-82"
+
+[[discs.tracks]]
+title = "Sail Out"
+
+[[discs.tracks]]
+title = "パーリー☆パーティ"
+
+[[discs.tracks]]
+title = "あかね色"
+
+[[discs.tracks]]
+title = "明日も晴れる"
+
+[[discs.tracks]]
+title = "うつろい"
+
+[[discs.tracks]]
+title = "ごまかし"
+
+[[discs.tracks]]
+title = "かかわり"
+
+[[discs.tracks]]
+title = "High Free Spirits"
+
+[[discs.tracks]]
+title = "whiz"
+
+[[discs.tracks]]
+title = "Sunset カンフー"
+
+[[discs.tracks]]
+title = "adrenaline!!!"
+
+[[discs.tracks]]
+title = "Free Turn"
+
+[[discs.tracks]]
+title = "Youthful Dreamer"
+
+[[discs.tracks]]
+title = "この幸せが夢じゃないなら"

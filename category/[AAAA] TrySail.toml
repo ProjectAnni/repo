@@ -18,7 +18,9 @@ albums = [
   "VVCL-1585",
   "VVCL-1630",
   "VVCL-1861",
+  # Live CDs
   "VVXL-7",
   "VVXL-20",
   "VVXL-47",
+  "VVXL-82",
 ]
