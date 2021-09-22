@@ -1,0 +1,50 @@
+[album]
+title = "魔法少女まどか☆マギカ 特典CD2「オリジナルサウンドトラックCD Vol.1」"
+artist = "梶浦由記"
+date = 2011-05-25
+type = "absolute"
+catalog = "ANZX-9124"
+
+[[discs]]
+catalog = "ANZX-9124"
+
+[[discs.tracks]]
+title = "Sis puella magica!"
+type = "normal"
+
+[[discs.tracks]]
+title = "Salve, terrae magicae"
+
+[[discs.tracks]]
+title = "Gradus prohibitus"
+
+[[discs.tracks]]
+title = "Credens justitiam"
+type = "normal"
+
+[[discs.tracks]]
+title = "Clementia"
+
+[[discs.tracks]]
+title = "Desiderium"
+
+[[discs.tracks]]
+title = "Conturbatio"
+
+[[discs.tracks]]
+title = "Postmeridie"
+
+[[discs.tracks]]
+title = "Puella in somnio"
+
+[[discs.tracks]]
+title = "Umbra nigra"
+
+[[discs.tracks]]
+title = "Terror adhaerens"
+
+[[discs.tracks]]
+title = "Scaena felix"
+
+[[discs.tracks]]
+title = "Pugna cum maga"

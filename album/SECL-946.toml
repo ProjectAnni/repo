@@ -1,0 +1,22 @@
+[album]
+title = "コネクト"
+artist = "ClariS（クララ、アリス）"
+date = 2011-02-02
+type = "normal"
+catalog = "SECL-946"
+
+[[discs]]
+catalog = "SECL-946"
+
+[[discs.tracks]]
+title = "コネクト"
+
+[[discs.tracks]]
+title = "Dreamin'"
+
+[[discs.tracks]]
+title = "キミとふたり"
+
+[[discs.tracks]]
+title = "コネクト -Instrumental-"
+type = "instrumental"

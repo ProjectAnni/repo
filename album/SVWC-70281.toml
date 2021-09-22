@@ -1,0 +1,81 @@
+[album]
+title = "魔法少女まどか☆マギカ Ultimate Best"
+artist = "Various Artists"
+date = 2017-08-09
+type = "normal"
+catalog = "SVWC-70281"
+
+[[discs]]
+catalog = "SVWC-70281"
+
+[[discs.tracks]]
+title = "コネクト"
+artist = "ClariS（クララ、アリス）"
+
+[[discs.tracks]]
+title = "また あした"
+artist = "鹿目まどか（悠木碧）"
+
+[[discs.tracks]]
+title = "Credens justitiam"
+artist = "梶浦由記"
+
+[[discs.tracks]]
+title = "Sis puella magica!"
+artist = "梶浦由記"
+
+[[discs.tracks]]
+title = "and I'm home"
+artist = "美樹さやか（喜多村英梨）、佐倉杏子（野中藍）"
+
+[[discs.tracks]]
+title = "Magia"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+
+[[discs.tracks]]
+title = "ルミナス"
+artist = "ClariS（クララ、アリス）"
+
+[[discs.tracks]]
+title = "she is a witch"
+artist = "梶浦由記"
+
+[[discs.tracks]]
+title = "ひかりふる"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+
+[[discs.tracks]]
+title = "naturally"
+artist = "鹿目まどか（悠木碧）、美樹さやか（喜多村英梨）"
+
+[[discs.tracks]]
+title = "あこがれた咲いた"
+artist = "鹿目まどか（悠木碧）"
+
+[[discs.tracks]]
+title = "Mebius Ash"
+artist = "暁美ほむら（斎藤千和）"
+
+[[discs.tracks]]
+title = "ユメおと"
+artist = "鹿目まどか（悠木碧）、暁美ほむら（斎藤千和）"
+
+[[discs.tracks]]
+title = "Stairs"
+artist = "巴マミ（水橋かおり）、佐倉杏子（野中藍）"
+
+[[discs.tracks]]
+title = "まだダメよ"
+artist = "梶浦由記"
+
+[[discs.tracks]]
+title = "Noi!"
+artist = "梶浦由記"
+
+[[discs.tracks]]
+title = "カラフル"
+artist = "ClariS（クララ、アリス）"
+
+[[discs.tracks]]
+title = "君の銀の庭"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"

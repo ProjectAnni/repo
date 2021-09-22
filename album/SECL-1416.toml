@@ -1,0 +1,21 @@
+[album]
+title = "カラフル"
+artist = "ClariS（クララ、アリス）"
+date = 2013-10-30
+type = "normal"
+catalog = "SECL-1416"
+
+[[discs]]
+catalog = "SECL-1416"
+
+[[discs.tracks]]
+title = "カラフル"
+
+[[discs.tracks]]
+title = "Surely"
+
+[[discs.tracks]]
+title = "Pieces"
+
+[[discs.tracks]]
+title = "カラフル -movie MIX-"

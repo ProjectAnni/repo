@@ -1,0 +1,22 @@
+[album]
+title = "Magia"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+date = 2011-02-16
+type = "normal"
+catalog = "SECL-942"
+
+[[discs]]
+catalog = "SECL-942"
+
+[[discs.tracks]]
+title = "Magia"
+
+[[discs.tracks]]
+title = "Magia ～magic mix～"
+
+[[discs.tracks]]
+title = "Magia ～TV Version～"
+
+[[discs.tracks]]
+title = "Magia ～instrumental～"
+type = "instrumental"

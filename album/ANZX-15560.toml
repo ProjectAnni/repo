@@ -1,0 +1,37 @@
+[album]
+title = "マギアレコード 魔法少女まどか☆マギカ外伝 オリジナル・サウンドトラックⅣ"
+artist = "尾澤拓実"
+date = 2020-09-02
+type = "absolute"
+catalog = "ANZX-15560"
+
+[[discs]]
+catalog = "ANZX-15560"
+
+[[discs.tracks]]
+title = "origin waltz"
+
+[[discs.tracks]]
+title = "Museo della memoria"
+
+[[discs.tracks]]
+title = "spinnen"
+
+[[discs.tracks]]
+title = "LOCURA"
+
+[[discs.tracks]]
+title = "Santa Salvación"
+
+[[discs.tracks]]
+title = "Discurso Grande"
+
+[[discs.tracks]]
+title = "ニグレド"
+artist = "シト（ReReGRAPHICS）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ニグレド (off Vocal)"
+artist = "シト（ReReGRAPHICS）"
+type = "instrumental"

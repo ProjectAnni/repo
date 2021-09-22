@@ -1,0 +1,12 @@
+[album]
+title = "魔法少女まどか☆マギカ『魔法少女たちのお茶会』"
+artist = "Various Artists"
+date = 2011-06-22
+type = "drama"
+catalog = "SBCV-80091"
+
+[[discs]]
+catalog = "SBCV-80091"
+
+[[discs.tracks]]
+title = "魔法少女たちのお茶会"

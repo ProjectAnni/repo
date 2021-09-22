@@ -1,0 +1,24 @@
+[album]
+title = "アリシア／シグナル"
+artist = "ClariS（クララ、カレン）"
+date = 2020-03-04
+type = "normal"
+catalog = "VVCL-1613"
+
+[[discs]]
+catalog = "VVCL-1613"
+
+[[discs.tracks]]
+title = "アリシア"
+
+[[discs.tracks]]
+title = "シグナル"
+
+[[discs.tracks]]
+title = "ユニゾン"
+
+[[discs.tracks]]
+title = "アリシア –TV MIX-"
+
+[[discs.tracks]]
+title = "シグナル -GAME MIX-"

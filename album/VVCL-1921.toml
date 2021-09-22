@@ -1,0 +1,21 @@
+[album]
+title = "ケアレス"
+artist = "ClariS（クララ、カレン）"
+date = 2021-09-15
+type = "normal"
+catalog = "VVCL-1921"
+
+[[discs]]
+catalog = "VVCL-1921"
+
+[[discs.tracks]]
+title = "ケアレス"
+
+[[discs.tracks]]
+title = "Bye-Bye Butterfly"
+
+[[discs.tracks]]
+title = "Starry"
+
+[[discs.tracks]]
+title = "ケアレス -TV MIX-"

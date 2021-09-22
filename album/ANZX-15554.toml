@@ -1,0 +1,21 @@
+[album]
+title = "マギアレコード 魔法少女まどか☆マギカ外伝 ボーカルソングミニコレクション"
+artist = "[Unknown Artist]"
+date = 2020-04-08
+type = "normal"
+catalog = "ANZX-15554"
+
+[[discs]]
+catalog = "ANZX-15554"
+
+[[discs.tracks]]
+title = "ウワサ数え唄"
+artist = "加藤英美里"
+
+[[discs.tracks]]
+title = "国宝ハイエンド"
+artist = "史乃沙優希（Machico）"
+
+[[discs.tracks]]
+title = "ポイント10倍"
+artist = "10 Point Girls"
