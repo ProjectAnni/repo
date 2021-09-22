@@ -1,0 +1,18 @@
+[album]
+title = "MARBLE"
+artist = "樋口楓"
+date = 2020-03-25
+type = "normal"
+catalog = "LACM-34976"
+
+[[discs]]
+catalog = "LACM-34976"
+
+[[discs.tracks]]
+title = "MARBLE"
+
+[[discs.tracks]]
+title = "Sugar Shack"
+
+[[discs.tracks]]
+title = "For you"

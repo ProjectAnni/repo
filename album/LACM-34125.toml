@@ -1,0 +1,18 @@
+[album]
+title = "Baddest"
+artist = "樋口楓"
+date = 2021-08-25
+type = "normal"
+catalog = "LACM-34125"
+
+[[discs]]
+catalog = "LACM-34125"
+
+[[discs.tracks]]
+title = "Baddest"
+
+[[discs.tracks]]
+title = "Sting or stung"
+
+[[discs.tracks]]
+title = "ikiteku."

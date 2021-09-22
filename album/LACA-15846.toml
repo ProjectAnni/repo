@@ -1,0 +1,45 @@
+[album]
+title = "AIM"
+artist = "樋口楓"
+date = 2020-12-26
+type = "normal"
+catalog = "LACA-15846"
+
+[[discs]]
+catalog = "LACA-15846"
+
+[[discs.tracks]]
+title = "アンサーソング"
+
+[[discs.tracks]]
+title = "ステレオアイデンティティ"
+
+[[discs.tracks]]
+title = "Be Myself"
+
+[[discs.tracks]]
+title = "FRONTIER"
+
+[[discs.tracks]]
+title = "Q"
+
+[[discs.tracks]]
+title = "アブノーマルガール"
+
+[[discs.tracks]]
+title = "TOBI-DERO！"
+
+[[discs.tracks]]
+title = "たこ焼きロック"
+
+[[discs.tracks]]
+title = "mìmì"
+
+[[discs.tracks]]
+title = "現代社会、ヒロインは！"
+
+[[discs.tracks]]
+title = "Victory West!"
+
+[[discs.tracks]]
+title = "MARBLE"
