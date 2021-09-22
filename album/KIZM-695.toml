@@ -1,0 +1,34 @@
+[album]
+title = "ハピネス"
+artist = "岡咲美保"
+date = 2021-09-15
+type = "normal"
+catalog = "KIZM-695"
+
+[[discs]]
+catalog = "KIZM-695"
+
+[[discs.tracks]]
+title = "ハピネス"
+
+[[discs.tracks]]
+title = "Popping Moments"
+
+[[discs.tracks]]
+title = "MY SPIRAL"
+
+[[discs.tracks]]
+title = "ハピネス (off vocal version)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Popping Moments (off vocal version)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "MY SPIRAL (off vocal version)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スペシャルボイスメッセージ"
+type = "voice"
