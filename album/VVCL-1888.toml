@@ -1,0 +1,45 @@
+[album]
+title = "Re Bon Voyage"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2021-09-15
+type = "normal"
+catalog = "VVCL-1888"
+
+[[discs]]
+catalog = "VVCL-1888"
+
+[[discs.tracks]]
+title = "Re Bon Voyage"
+
+[[discs.tracks]]
+title = "Favorite Days"
+
+[[discs.tracks]]
+title = "この幸せが夢じゃないなら"
+
+[[discs.tracks]]
+title = "ごまかし"
+
+[[discs.tracks]]
+title = "モノラル"
+
+[[discs.tracks]]
+title = "誰が為に愛は鳴る"
+
+[[discs.tracks]]
+title = "うつろい"
+
+[[discs.tracks]]
+title = "マイハートリバイバル"
+
+[[discs.tracks]]
+title = "Good Luck Darling"
+
+[[discs.tracks]]
+title = "Free Turn"
+
+[[discs.tracks]]
+title = "ひだまりの場所"
+
+[[discs.tracks]]
+title = "君となら"
