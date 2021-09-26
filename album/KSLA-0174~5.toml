@@ -1,6 +1,6 @@
 [album]
 title = "アニメション「クドわふたー」オリジナルサウンドトラック"
-artist = "[Unknown Artist]"
+artist = "Various Artists"
 date = 2020-11-28
 type = "normal"
 catalog = "KSLA-0174~5"
@@ -83,7 +83,6 @@ catalog = "KSLA-0175"
 [[discs.tracks]]
 title = "Light a Way"
 artist = "鈴湯"
-type = "normal"
 
 [[discs.tracks]]
 title = "Star Dust"
@@ -98,7 +97,6 @@ type = "absolute"
 [[discs.tracks]]
 title = "星守歌"
 artist = "能美クドリャフカ"
-type = "normal"
 
 [[discs.tracks]]
 title = "grief"
@@ -108,12 +106,11 @@ type = "absolute"
 [[discs.tracks]]
 title = "いつか気付くかな"
 artist = "折戸伸治"
-type = "normal"
+type = "absolute"
 
 [[discs.tracks]]
 title = "Little Melody"
 artist = "麻枝准"
-type = "normal"
 
 [[discs.tracks]]
 title = "Close to Edge"
@@ -138,16 +135,12 @@ type = "absolute"
 [[discs.tracks]]
 title = "星屑"
 artist = "霜月はるか"
-type = "normal"
 
 [[discs.tracks]]
 title = "Over The Summer"
 artist = "能美クドリャフカ"
-type = "normal"
-
 
 [[discs.tracks]]
 title = "Puppy Dreams"
 artist = "北沢綾香"
-type = "normal"
 
