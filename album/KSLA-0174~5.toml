@@ -111,6 +111,7 @@ type = "absolute"
 [[discs.tracks]]
 title = "Little Melody"
 artist = "麻枝准"
+type = "absolute"
 
 [[discs.tracks]]
 title = "Close to Edge"
