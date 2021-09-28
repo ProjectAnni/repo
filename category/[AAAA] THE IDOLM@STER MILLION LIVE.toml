@@ -206,6 +206,14 @@ albums = [
   "LACM-24163",
   # THE IDOLM@STER MILLION LIVE! 聖ミリオン女学園
   "LACM-24159",
+  # DIAMOND JOKER
+  "LZC-1938",
+  # 真夏のダイヤ☆
+  "LZC-1939",
+  # シークレットジュエル ～魅惑の金剛石～
+  "LZC-1940",
+  # ダイヤモンド・クラリティ
+  "LZC-1941",
 ]
 
 [[subcategory]]
@@ -267,4 +275,15 @@ name = "THE IDOLM@STER MILLION THE@TER SEASON"
 albums = [
   # THE IDOLM@STER MILLION THE@TER SEASON Harmony 4 You
   "LACM-24151",
+  # THE IDOLM@STER MILLION THE@TER SEASON BRIGHT DIAMOND
+  "LACA-15916",
+]
+
+[[subcategory]]
+name = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"
+albums = [
+  # THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01
+  "LACA-15901",
+  # THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 02
+  "LACA-15902",
 ]

@@ -1,0 +1,12 @@
+[album]
+title = "真夏のダイヤ☆"
+artist = "百瀬莉緒（山口立花子）、萩原雪歩（浅倉杏美）、田中琴葉（種田梨沙）、双海真美（下田麻美）"
+date = 2021-08-28
+type = "normal"
+catalog = "LZC-1939"
+
+[[discs]]
+catalog = "LZC-1939"
+
+[[discs.tracks]]
+title = "真夏のダイヤ☆"

@@ -1,0 +1,29 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01"
+artist = "Various Artists"
+date = 2021-09-29
+type = "normal"
+catalog = "LACA-15901"
+
+[[discs]]
+catalog = "LACA-15901"
+
+[[discs.tracks]]
+title = "アロー彗星"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Purple Sky"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "K・A・W・A・I・I of the WORLD!"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "あたためますか?"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "HAPPY♪STEPPING!!DREAMING☆"
+artist = "天海春香（中村繪里子）"
