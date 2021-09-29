@@ -1,0 +1,147 @@
+[album]
+title = "アニメション「クドわふたー」オリジナルサウンドトラック"
+artist = "Various Artists"
+date = 2020-11-28
+type = "normal"
+catalog = "KSLA-0174~5"
+
+[[discs]]
+catalog = "KSLA-0174"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Adagio for Summer Wind"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "mini glamour"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "August Green"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "MY BRAVE SMILE"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "密やかなさざめき"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "Breath of Stars"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "チクタク・ルーティン"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "かけっこ"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "少女たちの午後４時半"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "騒がし乙女の憂愁"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "Trampoline Girl"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "Sunday Morning Dance"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "Path of sunset"
+artist = "清水準一"
+
+[[discs.tracks]]
+title = "勇壮なる闘い"
+artist = "戸越まごめ"
+
+[[discs.tracks]]
+title = "えきぞちっく・といぼっくす"
+artist = "PMMK"
+
+[[discs.tracks]]
+title = "Mission possible ～ but difficult task ～"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Further Away"
+artist = "清水準一"
+
+[[discs]]
+catalog = "KSLA-0175"
+
+[[discs.tracks]]
+title = "Light a Way"
+artist = "鈴湯"
+
+[[discs.tracks]]
+title = "Star Dust"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Moontan"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "星守歌"
+artist = "能美クドリャフカ"
+
+[[discs.tracks]]
+title = "grief"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "いつか気付くかな"
+artist = "折戸伸治"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Little Melody"
+artist = "麻枝准"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Close to Edge"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "When We Wish a Upon Star"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Bloom of Youth"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Cape of Future"
+artist = "清水準一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "星屑"
+artist = "霜月はるか"
+
+[[discs.tracks]]
+title = "Over The Summer"
+artist = "能美クドリャフカ"
+
+[[discs.tracks]]
+title = "Puppy Dreams"
+artist = "北沢綾香"
+
