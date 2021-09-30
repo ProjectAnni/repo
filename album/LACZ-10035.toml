@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 08 Fairy Stars"
+artist = "Various Artists"
+date = 2021-05-22
+type = "normal"
+catalog = "LACZ-10035"
+
+[[discs]]
+catalog = "LACZ-10035"
+
+[[discs.tracks]]
+title = "Fairytaleじゃいられない"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "I.D～EScape from Utopia～"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "百花は月下に散りぬるを"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "サンリズム・オーケストラ♪"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "Melty Fantasia"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "I did+I will"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "囚われのTea Time"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "餞の鳥"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "夜と、明かりと。"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "矛盾の月"
+artist = "白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "brave HARMONY"
+artist = "二階堂千鶴（野村香菜子）"

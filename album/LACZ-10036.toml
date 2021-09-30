@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 08 Angel Stars"
+artist = "Various Artists"
+date = 2021-05-22
+type = "normal"
+catalog = "LACZ-10036"
+
+[[discs]]
+catalog = "LACZ-10036"
+
+[[discs.tracks]]
+title = "Girl meets Wonder"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "ピコピコIIKO! インベーダー"
+artist = "大神環（稲川英里）"
+
+[[discs.tracks]]
+title = "Starry Melody"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "ハルマチ女子"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "彼氏になってよ。"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "想い出はクリアスカイ"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "メメント？モメント♪ルルルルル☆"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "Justice OR Voice"
+artist = "桜守歌織（香里有佐）"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "White Vows"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "Cherry Colored Love"
+artist = "馬場このみ（高橋未奈美）"
+
+[[discs.tracks]]
+title = "Get lol! Get lol! SONG"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "花ざかりWeekend✿"
+artist = "北上麗花（平山笑美）"

@@ -1,0 +1,61 @@
+[album]
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 08 Princess Stars"
+artist = "Various Artists"
+date = 2021-05-22
+type = "normal"
+catalog = "LACZ-10034"
+
+[[discs]]
+catalog = "LACZ-10034"
+
+[[discs.tracks]]
+title = "咲くは浮世の君花火"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "ミラージュ・ミラー"
+artist = "徳川まつり（諏訪彩花）"
+
+[[discs.tracks]]
+title = "Super Duper"
+artist = "佐竹美奈子（大関英里）"
+
+[[discs.tracks]]
+title = "World Changer"
+artist = "エミリー スチュアート（郁原ゆう）"
+
+[[discs.tracks]]
+title = "ZETTAI × BREAK!! トゥインクルリズム"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "Episode. Tiara"
+artist = "田中琴葉（種田梨沙）"
+
+[[discs.tracks]]
+title = "ビッグバンズバリボー!!!!!"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "ギブミーメタファー"
+artist = "春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "dans l'obscurité"
+artist = "七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "Hang In There!"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "Tomorrow Program"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "BORN ON DREAM! ～HANABI☆NIGHT～"
+artist = "高山紗代子（駒形友梨）"
