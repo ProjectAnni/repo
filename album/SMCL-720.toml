@@ -1,0 +1,19 @@
+[album]
+title = "ピンキーフック"
+artist = "麻倉もも"
+date = 2021-08-18
+type = "normal"
+catalog = "SMCL-720"
+
+[[discs]]
+catalog = "SMCL-720"
+
+[[discs.tracks]]
+title = "ピンキーフック"
+
+[[discs.tracks]]
+title = "ふたりシグナル"
+
+[[discs.tracks]]
+title = "ピンキーフック (Instrumental)"
+type = "instrumental"
