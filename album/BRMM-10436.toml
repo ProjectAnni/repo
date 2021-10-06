@@ -1,0 +1,30 @@
+[album]
+title = "ハーモニー・デイ"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2021-10-06
+type = "normal"
+catalog = "BRMM-10436"
+
+[[discs]]
+catalog = "BRMM-10436"
+
+[[discs.tracks]]
+title = "ハーモニー・デイ"
+
+[[discs.tracks]]
+title = "Sonorous"
+
+[[discs.tracks]]
+title = "Fateful..."
+
+[[discs.tracks]]
+title = "ハーモニー・デイ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sonorous -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Fateful... -instrumental-"
+type = "instrumental"
