@@ -1,0 +1,22 @@
+[[tag]]
+name = "THE IDOLM@STER Shiny Colors"
+alias = ["Shiny Colors"]
+includes = [
+  # Series
+  "THE IDOLM@STER SHINY COLORS BRILLI@NT WING",
+  "THE IDOLM@STER SHINY COLORS FR@GMENT WING",
+  "THE IDOLM@STER SHINY COLORS GR@DATE WING",
+  "THE IDOLM@STER SHINY COLORS L@YERED WING",
+  "THE IDOLM@STER SHINY COLORS SOLO COLLECTION",
+  "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+  "THE IDOLM@STER SHINY COLORS SE@SONAL WINTER",
+
+  # Groups
+  "イルミネーションスターズ",
+  "アンティーカ",
+  "放課後クライマックスガールズ",
+  "アルストロメリア",
+  "ストレイライト",
+  "ノクチル",
+  "シーズ",
+]
