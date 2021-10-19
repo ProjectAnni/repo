@@ -4,6 +4,10 @@ artist = "イルミネーションスターズ"
 date = 2018-07-04
 type = "normal"
 catalog = "LACM-14782"
+tags = [
+  "イルミネーションスターズ",
+  "THE IDOLM@STER SHINY COLORS BRILLI@NT WING"
+]
 
 [[discs]]
 catalog = "LACM-14782"

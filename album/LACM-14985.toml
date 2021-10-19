@@ -4,6 +4,10 @@ artist = "放課後クライマックスガールズ"
 date = 2020-11-18
 type = "normal"
 catalog = "LACM-14985"
+tags = [
+  "放課後クライマックスガールズ",
+  "THE IDOLM@STER SHINY COLORS GR@DATE WING"
+]
 
 [[discs]]
 catalog = "LACM-14985"

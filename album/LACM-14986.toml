@@ -4,6 +4,7 @@ artist = "アルストロメリア"
 date = 2020-12-09
 type = "normal"
 catalog = "LACM-14986"
+tags = ["アルストロメリア", "THE IDOLM@STER SHINY COLORS GR@DATE WING"]
 
 [[discs]]
 catalog = "LACM-14986"

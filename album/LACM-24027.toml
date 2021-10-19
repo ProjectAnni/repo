@@ -4,6 +4,7 @@ artist = "THE IDOLM@STER FIVE STARS!!!!!"
 date = 2020-09-30
 type = "normal"
 catalog = "LACM-24027"
+tags = ["THE IDOLM@STER", "THE IDOLM@STER Shiny Colors"]
 
 [[discs]]
 catalog = "LACM-24027"

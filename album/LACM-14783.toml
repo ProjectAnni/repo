@@ -4,6 +4,7 @@ artist = "アンティーカ"
 date = 2018-08-01
 type = "normal"
 catalog = "LACM-14783"
+tags = ["アンティーカ", "THE IDOLM@STER SHINY COLORS BRILLI@NT WING"]
 
 [[discs]]
 catalog = "LACM-14783"

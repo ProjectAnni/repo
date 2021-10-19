@@ -4,6 +4,7 @@ artist = "ストレイライト"
 date = 2020-08-19
 type = "normal"
 catalog = "LACM-14987"
+tags = ["ストレイライト", "THE IDOLM@STER SHINY COLORS GR@DATE WING"]
 
 [[discs]]
 catalog = "LACM-14987"

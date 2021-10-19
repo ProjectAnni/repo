@@ -4,6 +4,7 @@ artist = "稲垣敬也"
 date = 2021-07-16
 type = "absolute"
 catalog = "ANCF-0015~7"
+tags = ["THE IDOLM@STER Shiny Colors"]
 
 [[discs]]
 catalog = "ANCF-0015"
