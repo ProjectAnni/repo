@@ -1,6 +1,7 @@
 [[tag]]
 name = "THE IDOLM@STER Shiny Colors"
 alias = ["Shiny Colors"]
+included-by = ["THE IDOLM@STER"]
 includes = [
   # Series
   "THE IDOLM@STER SHINY COLORS BRILLI@NT WING",
