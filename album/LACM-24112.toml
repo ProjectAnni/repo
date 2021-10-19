@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 02"
+artist = "イルミネーションスターズ"
+date = 2021-05-19
+type = "normal"
+catalog = "LACM-24112"
+tags = ["イルミネーションスターズ", "THE IDOLM@STER SHINY COLORS L@YERED WING"]
+
+[[discs]]
+catalog = "LACM-24112"
+
+[[discs.tracks]]
+title = "PRISISM"
+
+[[discs.tracks]]
+title = "スマイルシンフォニア"
+
+[[discs.tracks]]
+title = "Resonance⁺（イルミネーションスターズ Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「Step ＆ Stop」"
+type = "drama"
+
+[[discs.tracks]]
+title = "PRISISM（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スマイルシンフォニア（Off Vocal）"
+type = "instrumental"

@@ -1,0 +1,27 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 01"
+artist = "シャイニーカラーズ"
+date = 2021-04-14
+type = "normal"
+catalog = "LACM-24111"
+tags = [
+  "THE IDOLM@STER Shiny Colors",
+  "THE IDOLM@STER SHINY COLORS L@YERED WING",
+]
+
+[[discs]]
+catalog = "LACM-24111"
+
+[[discs.tracks]]
+title = "Resonance⁺"
+
+[[discs.tracks]]
+title = "Color Days"
+
+[[discs.tracks]]
+title = "Resonance⁺（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Color Days（Off Vocal）"
+type = "instrumental"

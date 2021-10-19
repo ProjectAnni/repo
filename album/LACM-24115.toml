@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 05"
+artist = "アルストロメリア"
+date = 2021-08-18
+type = "normal"
+catalog = "LACM-24115"
+tags = ["アルストロメリア", "THE IDOLM@STER SHINY COLORS L@YERED WING"]
+
+[[discs]]
+catalog = "LACM-24115"
+
+[[discs.tracks]]
+title = "パステルカラー パスカラカラー"
+
+[[discs.tracks]]
+title = "ラブ・ボナペティート"
+
+[[discs.tracks]]
+title = "Resonance⁺（アルストロメリア Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「小さな鍵の物語」"
+type = "drama"
+
+[[discs.tracks]]
+title = "パステルカラー パスカラカラー（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブ・ボナペティート（Off Vocal）"
+type = "instrumental"

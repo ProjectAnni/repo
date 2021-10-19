@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 06"
+artist = "ストレイライト"
+date = 2021-09-08
+type = "normal"
+catalog = "LACM-24116"
+tags = ["ストレイライト", "THE IDOLM@STER SHINY COLORS L@YERED WING"]
+
+[[discs]]
+catalog = "LACM-24116"
+
+[[discs.tracks]]
+title = "Another Rampage"
+
+[[discs.tracks]]
+title = "Timeless Shooting Star"
+
+[[discs.tracks]]
+title = "Resonance⁺（ストレイライト Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「ミッドナイト・ファイア」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Another Rampage（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Timeless Shooting Star（Off Vocal）"
+type = "instrumental"

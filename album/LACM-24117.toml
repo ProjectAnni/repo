@@ -1,0 +1,31 @@
+[album]
+title = "THE IDOLM@STER SHINY COLORS L@YERED WING 07"
+artist = "ノクチル"
+date = 2021-10-13
+type = "normal"
+catalog = "LACM-24117"
+tags = ["ノクチル", "THE IDOLM@STER SHINY COLORS L@YERED WING"]
+
+[[discs]]
+catalog = "LACM-24117"
+
+[[discs.tracks]]
+title = "僕らだけの未来の空"
+
+[[discs.tracks]]
+title = "今しかない瞬間を"
+
+[[discs.tracks]]
+title = "Resonance⁺（ノクチル Ver.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「スパイシーキッチン」"
+type = "drama"
+
+[[discs.tracks]]
+title = "僕らだけの未来の空（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "今しかない瞬間を（Off Vocal）"
+type = "instrumental"
