@@ -4,6 +4,7 @@ artist = "Tokyo 7th シスターズ"
 date = 2021-03-17
 type = "normal"
 catalog = "VIZL-1871"
+tags = ["Tokyo 7th シスターズ"]
 
 [[discs]]
 title = "IT'S A PERFECT BLUE - Summer Sky"

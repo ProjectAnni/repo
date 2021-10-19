@@ -4,6 +4,7 @@ artist = "4U"
 date = 2017-11-29
 type = "normal"
 catalog = "VIZL-1284"
+tags = ["4U"]
 
 [[discs]]
 catalog = "VIZL-1284"

@@ -4,6 +4,7 @@ artist = "Tokyo 7th シスターズ"
 date = 2021-02-24
 type = "absolute"
 catalog = "VICL-65474"
+tags = ["Tokyo 7th シスターズ"]
 
 [[discs]]
 catalog = "VICL-65474"

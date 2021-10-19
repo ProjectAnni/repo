@@ -1,0 +1,24 @@
+[album]
+title = "ミツバチ"
+catalog = "VIZL-1601"
+artist = "Le☆S☆Ca（上杉・ウエバス・キョーコ（井上ほの花）、荒木レナ（飯塚麻結）、西園ホノカ（植田ひかる））"
+date = 2019-06-19
+type = "normal"
+tags = ["Le☆S☆Ca"]
+
+[[discs]]
+catalog = "VIZL-1601"
+
+[[discs.tracks]]
+title = "ミツバチ"
+
+[[discs.tracks]]
+title = "ひよこのうた"
+
+[[discs.tracks]]
+title = "ミツバチ -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ひよこのうた -OFF VOCAL-"
+type = "instrumental"
