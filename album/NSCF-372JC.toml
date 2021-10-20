@@ -1,0 +1,163 @@
+[album]
+title = "アイドルマスター2・ゲームサウンドトラック"
+artist = "中川浩二"
+date = 2011-10-27
+type = "absolute"
+catalog = "NSCF-372JC"
+tags = ["THE IDOLM@STER 2"]
+
+[[discs]]
+catalog = "NSCF-372JC"
+
+[[discs.tracks]]
+title = "MAINBGM_RMX"
+
+[[discs.tracks]]
+title = "MORNING_RMX"
+
+[[discs.tracks]]
+title = "CHARACTER_SELECT"
+
+[[discs.tracks]]
+title = "TUTORIAL"
+
+[[discs.tracks]]
+title = "SCHEDULE"
+
+[[discs.tracks]]
+title = "SENTAKKU2_RMX"
+
+[[discs.tracks]]
+title = "LESSON_VOCAL"
+
+[[discs.tracks]]
+title = "LESSON_VISUAL"
+
+[[discs.tracks]]
+title = "TENDER_RMX"
+
+[[discs.tracks]]
+title = "TOWN_RMX"
+
+[[discs.tracks]]
+title = "COMICAL_A"
+
+[[discs.tracks]]
+title = "COUNTRY_RMX"
+
+[[discs.tracks]]
+title = "BRIGHT_RMX"
+
+[[discs.tracks]]
+title = "KINDNESS"
+
+[[discs.tracks]]
+title = "ENERGY_RMX"
+
+[[discs.tracks]]
+title = "COMICAL_B"
+
+[[discs.tracks]]
+title = "REFRESH_RMX"
+
+[[discs.tracks]]
+title = "SORROW"
+
+[[discs.tracks]]
+title = "PAIN_RMX"
+
+[[discs.tracks]]
+title = "DARK_RMX"
+
+[[discs.tracks]]
+title = "MILD"
+
+[[discs.tracks]]
+title = "STARDUST_RMX"
+
+[[discs.tracks]]
+title = "ORDINARY_A"
+
+[[discs.tracks]]
+title = "ORDINARY_B"
+
+[[discs.tracks]]
+title = "GENTLE"
+
+[[discs.tracks]]
+title = "A-PARK"
+
+[[discs.tracks]]
+title = "APPEAL_RMX"
+
+[[discs.tracks]]
+title = "MATCHING_RMX"
+
+[[discs.tracks]]
+title = "SPEED_RMX"
+
+[[discs.tracks]]
+title = "NIGHT_RMX"
+
+[[discs.tracks]]
+title = "TV_RMX"
+
+[[discs.tracks]]
+title = "SHOP"
+
+[[discs.tracks]]
+title = "THINKING_RMX"
+
+[[discs.tracks]]
+title = "THINKING_SERIOUS"
+
+[[discs.tracks]]
+title = "RANKING"
+
+[[discs.tracks]]
+title = "RYUGU"
+
+[[discs.tracks]]
+title = "961HARD"
+
+[[discs.tracks]]
+title = "961DARK"
+
+[[discs.tracks]]
+title = "961POP"
+
+[[discs.tracks]]
+title = "HELL"
+
+[[discs.tracks]]
+title = "MORNINGO_RMX"
+
+[[discs.tracks]]
+title = "E_MORNING_RMX"
+
+[[discs.tracks]]
+title = "ED_BAD_RMX"
+
+[[discs.tracks]]
+title = "ED_NORMAL"
+
+[[discs.tracks]]
+title = "ED_GOOD_RMX"
+
+[[discs.tracks]]
+title = "ED_PERFECT_RMX"
+
+[[discs.tracks]]
+title = "SE_SYSTEM"
+
+[[discs.tracks]]
+title = "SE_COMMUNICATION"
+
+[[discs.tracks]]
+title = "SE_LESSON"
+
+[[discs.tracks]]
+title = "SE_STAGE"
+
+[[discs.tracks]]
+title = "SE_IA"
