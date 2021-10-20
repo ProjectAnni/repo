@@ -1,0 +1,41 @@
+[album]
+title = "THE IDOLM@STER STELLA MASTER 01 Vertex Meister"
+artist = "THE IDOLM@STER"
+date = 2018-02-07
+type = "normal"
+catalog = "COCC-17402"
+tags = ["THE IDOLM@STER STELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17402"
+
+[[discs.tracks]]
+title = "Vertex Meister (M@STER VERSION)"
+artist = "如月千早（今井麻美）、秋月律子（若林直美）、菊地真（平田宏美）、四条貴音（原由実）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Vertex Meisterオリジナル・ドラマ"
+artist = "如月千早（今井麻美）、秋月律子（若林直美）、菊地真（平田宏美）、四条貴音（原由実）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Vertex Meisterオリジナル・ドラマ おまけトーク その1"
+artist = "詩花（高橋李依）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Vertex Meisterオリジナル・ドラマ おまけトーク その2"
+artist = "如月千早（今井麻美）、秋月律子（若林直美）、菊地真（平田宏美）、四条貴音（原由実）、我那覇響（沼倉愛美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Vertex Meister (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "inferno SQUARING"
+artist = "如月千早（今井麻美）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "inferno SQUARINGオリジナル・カラオケ"
+type = "instrumental"

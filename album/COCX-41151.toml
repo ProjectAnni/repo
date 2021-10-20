@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 4 01 天海春香"
+artist = "天海春香（中村繪里子）"
+date = 2020-08-05
+type = "normal"
+catalog = "COCX-41151"
+tags = ["THE IDOLM@STER MASTER ARTIST 4"]
+
+[[discs]]
+catalog = "COCX-41151"
+
+[[discs.tracks]]
+title = "I'm yours"
+
+[[discs.tracks]]
+title = "トーク1"
+type = "drama"
+
+[[discs.tracks]]
+title = "明日はきっといい日になる"
+
+[[discs.tracks]]
+title = "卒業写真"
+
+[[discs.tracks]]
+title = "トーク2"
+type = "drama"
+
+[[discs.tracks]]
+title = "マジで…！？"
+
+[[discs.tracks]]
+title = "トーク3"
+type = "drama"
+
+[[discs.tracks]]
+title = "New Me, Continued"
+
+[[discs.tracks]]
+title = "トーク4"
+type = "drama"
+
+[[discs.tracks]]
+title = "I'm yours オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "連続ラジオ小説『765色のストーリー～第一話「普通の女の子」～』"
+type = "drama"

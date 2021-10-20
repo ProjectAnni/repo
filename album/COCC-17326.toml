@@ -1,0 +1,37 @@
+[album]
+title = "THE IDOLM@STER MASTER PRIMAL DANCIN' BLUE"
+artist = "高槻やよい（仁後真耶子）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、我那覇響（沼倉愛美）"
+date = 2017-10-18
+type = "normal"
+catalog = "COCC-17326"
+tags = ["THE IDOLM@STER MASTER PRIMAL"]
+
+[[discs]]
+catalog = "COCC-17326"
+
+[[discs.tracks]]
+title = "Light Year Song"
+
+[[discs.tracks]]
+title = "Funny Logic"
+artist = "高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ブルウ・スタア"
+artist = "菊地真（平田宏美）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+type = "drama"
+
+[[discs.tracks]]
+title = "Light Year Song オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Funny Logic オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ブルウ・スタア オリジナル・カラオケ"
+type = "instrumental"

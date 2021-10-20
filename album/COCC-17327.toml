@@ -1,0 +1,37 @@
+[album]
+title = "THE IDOLM@STER MASTER PRIMAL POPPIN' YELLOW"
+artist = "星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+date = 2017-12-22
+type = "normal"
+catalog = "COCC-17327"
+tags = ["THE IDOLM@STER MASTER PRIMAL"]
+
+[[discs]]
+catalog = "COCC-17327"
+
+[[discs.tracks]]
+title = "虹のデスティネーション"
+
+[[discs.tracks]]
+title = "始めのDon't worry"
+artist = "星井美希（長谷川明子）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "LEMONADE"
+artist = "萩原雪歩（浅倉杏美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+type = "drama"
+
+[[discs.tracks]]
+title = "虹のデスティネーション オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "始めのDon't worry オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "LEMONADE オリジナル・カラオケ"
+type = "instrumental"

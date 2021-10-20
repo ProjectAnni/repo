@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 4 07 星井美希"
+artist = "星井美希（長谷川明子）"
+date = 2021-02-10
+type = "normal"
+catalog = "COCX-41157"
+tags = ["THE IDOLM@STER MASTER ARTIST 4"]
+
+[[discs]]
+catalog = "COCX-41157"
+
+[[discs.tracks]]
+title = "アプデ"
+
+[[discs.tracks]]
+title = "トーク1"
+type = "drama"
+
+[[discs.tracks]]
+title = "イジワルしないで 抱きしめてよ"
+
+[[discs.tracks]]
+title = "部屋とYシャツと私"
+
+[[discs.tracks]]
+title = "トーク2"
+type = "drama"
+
+[[discs.tracks]]
+title = "マジで…！？"
+
+[[discs.tracks]]
+title = "トーク3"
+type = "drama"
+
+[[discs.tracks]]
+title = "New Me, Continued"
+
+[[discs.tracks]]
+title = "トーク4"
+type = "drama"
+
+[[discs.tracks]]
+title = "アプデ オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "連続ラジオ小説『765色のストーリー～第七話「夢の毎日なの♪』"
+type = "drama"

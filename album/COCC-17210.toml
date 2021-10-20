@@ -1,0 +1,24 @@
+[album]
+title = "THE IDOLM@STER PLATINUM MASTER 00 Happy!"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美））"
+date = 2016-07-20
+type = "normal"
+catalog = "COCC-17210"
+tags = ["THE IDOLM@STER PLATINUM MASTER"]
+
+[[discs]]
+catalog = "COCC-17210"
+
+[[discs.tracks]]
+title = "Happy!(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ザ・ライブ革命でSHOW！(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Happy!(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ザ・ライブ革命でSHOW！(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"

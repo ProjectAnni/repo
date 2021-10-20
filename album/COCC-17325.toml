@@ -1,0 +1,37 @@
+[album]
+title = "THE IDOLM@STER MASTER PRIMAL ROCKIN' RED"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、四条貴音（原由実）、秋月律子（若林直美）"
+date = 2017-08-22
+type = "normal"
+catalog = "COCC-17325"
+tags = ["THE IDOLM@STER MASTER PRIMAL"]
+
+[[discs]]
+catalog = "COCC-17325"
+
+[[discs.tracks]]
+title = "BRAVE STAR"
+
+[[discs.tracks]]
+title = "CRIMSON LOVERS"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "聖炎の女神"
+artist = "四条貴音（原由実）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+type = "drama"
+
+[[discs.tracks]]
+title = "BRAVE STARオリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "CRIMSON LOVERSオリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "聖炎の女神オリジナル・カラオケ"
+type = "instrumental"

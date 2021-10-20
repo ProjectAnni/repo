@@ -1,0 +1,61 @@
+[album]
+title = "アイドルマスター バースデーシリーズ Vol.6 双海亜美・真美 Super Birthday!"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、萩原雪歩（落合祐里香）、プロデューサー（泰勇気）"
+date = { year = 2007, month = 2 }
+type = "drama"
+catalog = "765PRO-0004~5"
+tags = ["765ショップ"]
+
+[[discs]]
+catalog = "765PRO-0004"
+
+[[discs.tracks]]
+title = "スーパーバースデー前夜！～亜美真美・自宅マンション～"
+
+[[discs.tracks]]
+title = "亜美は早起きだよ！～亜美真美・自宅マンション～"
+
+[[discs.tracks]]
+title = "兄ちゃんに相談しよ～☆～765プロダクション事務所～"
+
+[[discs.tracks]]
+title = "アクセショップでプレゼント探し！～アクセサリーショップにて～"
+
+[[discs.tracks]]
+title = "文房具屋さんなら、きっと…！～文房具店にて～"
+
+[[discs.tracks]]
+title = "雑貨屋さんが最後の頼りだよ…。～小野田雑貨店にて～"
+
+[[discs.tracks]]
+title = "めでたし・めでたしだね♪～765プロダクション事務所～"
+
+[[discs.tracks]]
+title = "ボーナストラック：デザインを考えちゃおー！"
+
+[[discs]]
+catalog = "765PRO-0005"
+
+[[discs.tracks]]
+title = "スーパーバースデー前夜！～亜美真美・自宅マンション～"
+
+[[discs.tracks]]
+title = "真美は計画的なんだよ！～亜美真美・自宅マンション～"
+
+[[discs.tracks]]
+title = "アクセショップに、しゅっぱーつ！～アクセサリーショップにて～"
+
+[[discs.tracks]]
+title = "ゆきぴょんに相談しよ～☆～765プロダクション事務所～"
+
+[[discs.tracks]]
+title = "おやつ、おいしーね！～移動中の道・文房具店にて～"
+
+[[discs.tracks]]
+title = "雑貨屋さんが最後の頼りだよ…。～石原雑貨店にて～"
+
+[[discs.tracks]]
+title = "めでたし・めでたしだね♪～765プロダクション事務所～"
+
+[[discs.tracks]]
+title = "ボーナストラック：ゆきぴょんからのプレゼント"

@@ -1,0 +1,26 @@
+[album]
+title = "THE IDOLM@STER STELLA MASTER 00 ToP!!!!!!!!!!!!!"
+artist = "THE IDOLM@STER"
+date = 2017-12-22
+type = "normal"
+catalog = "COCC-17401"
+tags = ["THE IDOLM@STER STELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17401"
+
+[[discs.tracks]]
+title = "ToP!!!!!!!!!!!!! (M@STER VERSION)"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美））"
+
+[[discs.tracks]]
+title = "Blooming Star(M@STER VERSION)"
+artist = "詩花（高橋李依）"
+
+[[discs.tracks]]
+title = "ToP!!!!!!!!!!!!! (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Blooming Star(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"

@@ -1,0 +1,78 @@
+[album]
+title = "THE IDOLM@STER STELLA MASTER ENCORE shy→shining"
+artist = "THE IDOLM@STER"
+date = 2018-06-13
+type = "normal"
+catalog = "COCC-17405"
+tags = ["THE IDOLM@STER STELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17405"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION)"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、秋月律子（若林直美）、我那覇響（沼倉愛美）、四条貴音（原由実））"
+
+[[discs.tracks]]
+title = "オーバーマスター (M@STER VERSION)"
+artist = "詩花（高橋李依）"
+
+[[discs.tracks]]
+title = "アクセルレーション (M@STER VERSION)"
+artist = "詩花（高橋李依）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 春香ソロ・リミックス"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 千早ソロ・リミックス"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 雪歩ソロ・リミックス"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) やよいソロ・リミックス"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 律子ソロ・リミックス"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) あずさソロ・リミックス"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 伊織ソロ・リミックス"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 真ソロ・リミックス"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 亜美ソロ・リミックス"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 真美ソロ・リミックス"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 美希ソロ・リミックス"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 貴音ソロ・リミックス"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "shy→shining (M@STER VERSION) 響ソロ・リミックス"
+artist = "我那覇響（沼倉愛美）"

@@ -1,0 +1,109 @@
+[album]
+title = "THE IDOLM@STER YOUR SONG"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、秋月律子（若林直美）、双海亜美（下田麻美）、双海真美（下田麻美）、音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+date = 2007-01-18
+type = "normal"
+catalog = "765PRO-0003"
+tags = ["765ショップ"]
+
+[[discs]]
+catalog = "765PRO-0003-01"
+
+[[discs.tracks]]
+title = "9:02am"
+type = "drama"
+
+[[discs.tracks]]
+title = "大スキ！"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "10:41am"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）、秋月律子（若林直美）、音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ふたりのもじぴったん"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "11:18am"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "仮面舞踏会"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "0:41pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、秋月律子（若林直美）、音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "You're My Only Shinin' Star"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "1:27pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "津軽海峡・冬景色"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "2:49pm"
+type = "drama"
+
+[[discs]]
+catalog = "765PRO-0003-02"
+
+[[discs.tracks]]
+title = "3:12pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、秋月律子（若林直美）、双海亜美（下田麻美）、双海真美（下田麻美）、音無小鳥（滝田樹里）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラムのラブソング"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "4:31pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドゥー・ユー・リメンバー・ミー"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "5:22pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "鳥の詩"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "6:45pm"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（落合祐里香）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、秋月律子（若林直美）、双海亜美（下田麻美）、双海真美（下田麻美）、高木順一朗（徳丸完）"
+type = "drama"
+
+[[discs.tracks]]
+title = "東京は夜の七時 ～the night is still young～"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "7:15pm"
+type = "drama"
+
+[[discs.tracks]]
+title = "やさしさに包まれたなら"
+artist = "音無小鳥（滝田樹里）"
+
+[[discs.tracks]]
+title = "Next day"
+type = "drama"

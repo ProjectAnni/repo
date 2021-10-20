@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 4 09 秋月律子"
+artist = "秋月律子（若林直美）"
+date = 2021-02-10
+type = "normal"
+catalog = "COCX-41159"
+tags = ["THE IDOLM@STER MASTER ARTIST 4"]
+
+[[discs]]
+catalog = "COCX-41159"
+
+[[discs.tracks]]
+title = "灯（あかし)"
+
+[[discs.tracks]]
+title = "トーク1"
+type = "drama"
+
+[[discs.tracks]]
+title = "POP STAR"
+
+[[discs.tracks]]
+title = "My Sweet Darlin'"
+
+[[discs.tracks]]
+title = "トーク2"
+type = "drama"
+
+[[discs.tracks]]
+title = "マジで…！？"
+
+[[discs.tracks]]
+title = "トーク3"
+type = "drama"
+
+[[discs.tracks]]
+title = "New Me, Continued"
+
+[[discs.tracks]]
+title = "トーク4"
+type = "drama"
+
+[[discs.tracks]]
+title = "灯（あかし) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "連続ラジオ小説『765色のストーリー～第九話「初心」～』"
+type = "drama"

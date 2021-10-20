@@ -1,0 +1,48 @@
+[album]
+title = "THE IDOLM@STER PLATINUM MASTER ENCORE 紅白応援V"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美））"
+date = 2017-03-29
+type = "normal"
+catalog = "COCC-17214"
+tags = ["THE IDOLM@STER PLATINUM MASTER"]
+
+[[discs]]
+catalog = "COCC-17214"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー)"
+artist = "765PRO ALLSTARS ...and you!（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美））"
+
+[[discs.tracks]]
+title = "チェリー －PRODUCER MEETING 2017 MIX－"
+
+[[discs.tracks]]
+title = "団結2010 －PRODUCER MEETING 2017 MIX－"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー)オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 貴音×やよい VER."
+artist = "四条貴音（原由実）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 千早×雪歩 VER."
+artist = "如月千早（今井麻美）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 真×亜美・真美 VER."
+artist = "菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 響×美希 VER."
+artist = "我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 春香×あずさ VER."
+artist = "天海春香（中村繪里子）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "紅白応援V(ビクトリー) 律子×伊織 VER."
+artist = "秋月律子（若林直美）、水瀬伊織（釘宮理恵）"

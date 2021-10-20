@@ -1,0 +1,416 @@
+[album]
+title = "THE IDOLM@STER MASTER BOX I"
+artist = "THE IDOLM@STER"
+date = 2006-07-19
+type = "normal"
+catalog = "COCX-33793~5"
+tags = ["THE IDOLM@STER MASTER BOX"]
+
+[[discs]]
+catalog = "COCX-33793"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "First Stage (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "COCX-33794"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "9:02pm (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "COCX-33795"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Here we go!! (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "蒼い鳥 (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "9:02pm (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "太陽のジェラシー (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ポジティブ！ (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "First Stage (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "魔法をかけて！ (GAME VERSION)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Here we go!! (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ポジティブ！ (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER (カラオケ)"
+type = "instrumental"

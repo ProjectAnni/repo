@@ -1,0 +1,49 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 4 03 高槻やよい"
+artist = "高槻やよい（仁後真耶子）"
+date = 2020-08-05
+type = "normal"
+catalog = "COCX-41153"
+tags = ["THE IDOLM@STER MASTER ARTIST 4"]
+
+[[discs]]
+catalog = "COCX-41153"
+
+[[discs.tracks]]
+title = "ピピカ・リリカ"
+
+[[discs.tracks]]
+title = "トーク1"
+type = "drama"
+
+[[discs.tracks]]
+title = "メランコリニスタ"
+
+[[discs.tracks]]
+title = "手紙 ～愛するあなたへ～"
+
+[[discs.tracks]]
+title = "トーク2"
+type = "drama"
+
+[[discs.tracks]]
+title = "マジで…！？"
+
+[[discs.tracks]]
+title = "トーク3"
+type = "drama"
+
+[[discs.tracks]]
+title = "New Me, Continued"
+
+[[discs.tracks]]
+title = "トーク4"
+type = "drama"
+
+[[discs.tracks]]
+title = "ピピカ・リリカ オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "連続ラジオ小説『765色のストーリー～第三話「びっくり！」～』"
+type = "drama"

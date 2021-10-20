@@ -1,0 +1,35 @@
+[album]
+title = "THE IDOLM@STER PLATINUM MASTER 02 僕たちのResistance"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美））"
+date = 2016-09-21
+type = "normal"
+catalog = "COCC-17212"
+tags = ["THE IDOLM@STER PLATINUM MASTER"]
+
+[[discs]]
+catalog = "COCC-17212"
+
+[[discs.tracks]]
+title = "僕たちのResistance (M@STER VERSION)"
+artist = "星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "ドラマ「765チャンネル vol.2 〜僕たちのResistance・Z〜」"
+type = "drama"
+
+[[discs.tracks]]
+title = "僕たちのResistance (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドラマ「音無小鳥の妄想編集室 vol.2」"
+artist = "音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "インセインゲーム"
+artist = "星井美希（長谷川明子）、我那覇響（沼倉愛美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "インセインゲーム オリジナル・カラオケ"
+type = "instrumental"

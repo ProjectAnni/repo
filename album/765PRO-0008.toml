@@ -1,0 +1,34 @@
+[album]
+title = "アイドルマスター バースデーシリーズ Vol.9 菊地真 晴れ時々曇り後台風、後晴れ"
+artist = "菊地真（平田宏美）、菊地真一（星野充昭）、天海春香（中村繪里子）、如月千早（今井麻美）、音無小鳥（滝田樹里）"
+date = { year = 2008, month = 1 }
+type = "drama"
+catalog = "765PRO-0008"
+tags = ["765ショップ"]
+
+[[discs]]
+catalog = "765PRO-0008"
+
+[[discs.tracks]]
+title = "いつもな日曜日"
+
+[[discs.tracks]]
+title = "はじまりな月曜日"
+
+[[discs.tracks]]
+title = "つづきな火曜日"
+
+[[discs.tracks]]
+title = "停滞の水曜日"
+
+[[discs.tracks]]
+title = "嵐の金曜日"
+
+[[discs.tracks]]
+title = "決戦の土曜日"
+
+[[discs.tracks]]
+title = "真な日曜日"
+
+[[discs.tracks]]
+title = "おまけな木曜日"
