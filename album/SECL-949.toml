@@ -4,6 +4,7 @@ artist = "ClariS（クララ、アリス）"
 date = 2011-02-02
 type = "normal"
 catalog = "SECL-949"
+tags = ["魔法少女まどか☆マギカ"]
 
 [[discs]]
 catalog = "SECL-949"

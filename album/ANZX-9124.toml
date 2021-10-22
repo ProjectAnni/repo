@@ -4,6 +4,7 @@ artist = "梶浦由記"
 date = 2011-05-25
 type = "absolute"
 catalog = "ANZX-9124"
+tags = ["魔法少女まどか☆マギカ"]
 
 [[discs]]
 catalog = "ANZX-9124"
