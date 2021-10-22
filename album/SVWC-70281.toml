@@ -18,10 +18,12 @@ artist = "鹿目まどか（悠木碧）"
 
 [[discs.tracks]]
 title = "Credens justitiam"
+type = "absolute"
 artist = "梶浦由記"
 
 [[discs.tracks]]
 title = "Sis puella magica!"
+type = "absolute"
 artist = "梶浦由記"
 
 [[discs.tracks]]
@@ -39,6 +41,7 @@ artist = "ClariS（クララ、アリス）"
 [[discs.tracks]]
 title = "she is a witch"
 artist = "梶浦由記"
+type = "absolute"
 
 [[discs.tracks]]
 title = "ひかりふる"

@@ -2,7 +2,7 @@
 title = "魔法少女まどか☆マギカ 特典CD5 ドラマCD「フェアウェル・ストーリー」"
 artist = "Various Artists"
 date = 2011-08-24
-type = "normal"
+type = "drama"
 catalog = "ANZX-9130"
 
 [[discs]]
@@ -10,11 +10,11 @@ catalog = "ANZX-9130"
 
 [[discs.tracks]]
 title = "フェアウェル・ストーリー"
-type = "drama"
 
 [[discs.tracks]]
 title = "and I'm home"
 artist = "美樹さやか（喜多村英梨）、佐倉杏子（野中藍）"
+type = "normal"
 
 [[discs.tracks]]
 title = "and I'm home Instrumental ver."
