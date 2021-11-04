@@ -1,16 +1,16 @@
 [album]
-title = "たゆたえ、七色"
+title = "とめどない潮騒に僕たちは何を歌うだろうか"
 artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
-date = 2021-07-14
+date = 2021-10-27
 type = "normal"
-catalog = "LACM-24137"
+catalog = "LACM-24204"
 tags = ["ARCANA PROJECT", "白い砂のアクアトープ"]
 
 [[discs]]
-catalog = "LACM-24137"
+catalog = "LACM-24204"
 
 [[discs.tracks]]
-title = "たゆたえ、七色"
+title = "とめどない潮騒に僕たちは何を歌うだろうか"
 
 [[discs.tracks]]
-title = "星影のファンタジア"
+title = "迷わないConquest"
