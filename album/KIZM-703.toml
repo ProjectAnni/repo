@@ -1,33 +1,33 @@
 [album]
-title = "ハピネス"
+title = "ペタルズ"
 artist = "岡咲美保"
-date = 2021-09-15
+date = 2021-11-03
 type = "normal"
-catalog = "KIZM-695"
+catalog = "KIZM-703"
 tags = ["岡咲美保"]
 
 [[discs]]
-catalog = "KIZM-695"
+catalog = "KIZM-703"
 
 [[discs.tracks]]
-title = "ハピネス"
+title = "ペタルズ"
 
 [[discs.tracks]]
-title = "Popping Moments"
+title = "好きじゃないよ"
 
 [[discs.tracks]]
-title = "MY SPIRAL"
+title = "魔法の言葉"
 
 [[discs.tracks]]
-title = "ハピネス (off vocal version)"
+title = "ペタルズ (off vocal version)"
 type = "instrumental"
 
 [[discs.tracks]]
-title = "Popping Moments (off vocal version)"
+title = "好きじゃないよ (off vocal version)"
 type = "instrumental"
 
 [[discs.tracks]]
-title = "MY SPIRAL (off vocal version)"
+title = "魔法の言葉 (off vocal version)"
 type = "instrumental"
 
 [[discs.tracks]]
