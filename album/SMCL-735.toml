@@ -1,0 +1,81 @@
+[album]
+title = "IDOLY PRIDE Collection Album [奇跡]"
+artist = "星見プロダクション（長瀬琴乃（橘美來）、川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、伊吹渚（夏目ここな）、佐伯遙子（佐々木奈緒）、白石沙季（宮沢小春）、白石千紗（高尾奏音）、成宮すず（相川奏多）、早坂芽衣（日向もか）、兵藤雫（首藤志奈））"
+date = 2021-10-27
+type = "normal"
+catalog = "SMCL-735"
+tags = ["IDOLY PRIDE"]
+
+[[discs]]
+catalog = "SMCL-735"
+
+[[discs.tracks]]
+title = "IDOLY PRIDE"
+artist = "長瀬琴乃（橘美來）、川咲さくら（菅野真衣）"
+
+[[discs.tracks]]
+title = "Shine Purity～輝きの純度～"
+artist = "長瀬琴乃（橘美來）、川咲さくら（菅野真衣）"
+
+[[discs.tracks]]
+title = "Precious"
+artist = "長瀬麻奈（神田沙也加）"
+
+[[discs.tracks]]
+title = "realiser"
+artist = "TRINITYAiLE（天動瑠依（雨宮天）、鈴村優（麻倉もも）、奥山すみれ（夏川椎菜））"
+tags = ["TRINITYAiLE"]
+
+[[discs.tracks]]
+title = "The Last Chance"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+tags = ["LizNoir"]
+
+[[discs.tracks]]
+title = "The Last Chance (莉央&葵ver.)"
+artist = "神崎莉央（戸松遥）、井川葵（高垣彩陽）"
+
+[[discs.tracks]]
+title = "月下儚美"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+tags = ["月のテンペスト"]
+
+[[discs.tracks]]
+title = "SUNNY PEACE HARMONY"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+tags = ["サニーピース"]
+
+[[discs.tracks]]
+title = "First Step"
+artist = "長瀬麻奈（神田沙也加）"
+
+[[discs.tracks]]
+title = "星の海の記憶"
+artist = "長瀬麻奈（神田沙也加）"
+
+[[discs.tracks]]
+title = "Fight oh! MIRAI oh!"
+
+[[discs.tracks]]
+title = "恋と花火"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+tags = ["月のテンペスト"]
+
+[[discs.tracks]]
+title = "サマー♡ホリデイ"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+tags = ["サニーピース"]
+
+[[discs.tracks]]
+title = "Aile to Yell"
+artist = "TRINITYAiLE（天動瑠依（雨宮天）、鈴村優（麻倉もも）、奥山すみれ（夏川椎菜））"
+tags = ["TRINITYAiLE"]
+
+[[discs.tracks]]
+title = "Shock out, Dance!!"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+tags = ["LizNoir"]
+
+[[discs.tracks]]
+title = "song for you"
+artist = "長瀬麻奈（神田沙也加）"

@@ -4,6 +4,7 @@ artist = "星見プロダクション（長瀬琴乃（橘美來）、川咲さ�
 date = 2021-02-10
 type = "normal"
 catalog = "MCL-656"
+tags = ["星見プロダクション"]
 
 [[discs]]
 catalog = "MCL-656"
@@ -46,7 +47,7 @@ type = "vocal"
 
 [[discs.tracks]]
 title = "伊吹 渚 Portrait Voice"
-artist = "伊吹 渚（夏目ここな）"
+artist = "伊吹渚（夏目ここな）"
 type = "vocal"
 
 [[discs.tracks]]
