@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 02 我那覇響"
+artist = "我那覇響（沼倉愛美）"
+date = 2015-04-22
+type = "normal"
+catalog = "COCX-39142"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39142"
+
+[[discs.tracks]]
+title = "Pon De Beach (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "shiny smile (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "かざぐるま"
+
+[[discs.tracks]]
+title = "Buzzstyle"
+
+[[discs.tracks]]
+title = "キミ＊チャンネル (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Pon De Beach (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

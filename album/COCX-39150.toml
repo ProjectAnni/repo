@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 10 高槻やよい"
+artist = "高槻やよい（仁後真耶子）"
+date = 2015-10-21
+type = "normal"
+catalog = "COCX-39150"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39150"
+
+[[discs.tracks]]
+title = "プラ・ソニック・ラブ！(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "チクタク"
+
+[[discs.tracks]]
+title = "ヒーロー"
+
+[[discs.tracks]]
+title = "はらり、ひらり"
+
+[[discs.tracks]]
+title = "Good-Byes (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "プラ・ソニック・ラブ！(M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

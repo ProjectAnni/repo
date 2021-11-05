@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 11 三浦あずさ"
+artist = "三浦あずさ（たかはし智秋）"
+date = 2015-10-21
+type = "normal"
+catalog = "COCX-39151"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39151"
+
+[[discs.tracks]]
+title = "コイ・ココロ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ハニカミ！ファーストバイト"
+
+[[discs.tracks]]
+title = "久遠の河"
+
+[[discs.tracks]]
+title = "千本桜"
+
+[[discs.tracks]]
+title = "Good-Byes (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "コイ・ココロ (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

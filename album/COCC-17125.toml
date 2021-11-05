@@ -1,0 +1,26 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 FINALE Destiny"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、高槻やよい（仁後真耶子）、星井美希（長谷川明子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、如月千早（今井麻美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、秋月律子（若林直美）、我那覇響（沼倉愛美）、四条貴音（原由実））"
+date = 2016-02-17
+type = "normal"
+catalog = "COCC-17125"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCC-17125"
+
+[[discs.tracks]]
+title = "Destiny (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "アルティメットアイズ (M@STER VERSION)"
+artist = "玲音（茅原実里）"
+
+[[discs.tracks]]
+title = "Destiny (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アルティメットアイズ (M@STER VERSION) オリジナル・カラオケ"
+artist = "玲音（茅原実里）"
+type = "instrumental"

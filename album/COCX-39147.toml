@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 07 如月千早"
+artist = "如月千早（今井麻美）"
+date = 2015-07-08
+type = "normal"
+catalog = "COCX-39147"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39147"
+
+[[discs.tracks]]
+title = "細氷 (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Fate of the World"
+
+[[discs.tracks]]
+title = "数え歌"
+
+[[discs.tracks]]
+title = "恋人がサンタクロース"
+
+[[discs.tracks]]
+title = "静かな夜に願いを… (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "細氷 (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

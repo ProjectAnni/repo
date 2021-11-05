@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 05 水瀬伊織"
+artist = "水瀬伊織（釘宮理恵）"
+date = 2015-06-03
+type = "normal"
+catalog = "COCX-39145"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39145"
+
+[[discs.tracks]]
+title = "全力アイドル (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "七彩ボタン (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "カプチーノ"
+
+[[discs.tracks]]
+title = "風立ちぬ"
+
+[[discs.tracks]]
+title = "99 Nights (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "全力アイドル (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

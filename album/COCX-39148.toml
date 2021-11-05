@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 08 双海真美"
+artist = "双海真美（下田麻美）"
+date = 2015-07-08
+type = "normal"
+catalog = "COCX-39148"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39148"
+
+[[discs.tracks]]
+title = "放課後ジャンプ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Do-Dai (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Yeah！めっちゃホリディ"
+
+[[discs.tracks]]
+title = "WHITE BREATH"
+
+[[discs.tracks]]
+title = "静かな夜に願いを… (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "放課後ジャンプ (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

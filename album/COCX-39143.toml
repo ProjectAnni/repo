@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 03 菊地真"
+artist = "菊地真（平田宏美）"
+date = 2015-04-22
+type = "normal"
+catalog = "COCX-39143"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39143"
+
+[[discs.tracks]]
+title = "絶険、あるいは逃げられぬ恋 (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "It's Show (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "アンバランスなKissをして"
+
+[[discs.tracks]]
+title = "変わらないもの"
+
+[[discs.tracks]]
+title = "キミ＊チャンネル (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "絶険、あるいは逃げられぬ恋 (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

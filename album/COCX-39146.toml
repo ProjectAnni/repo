@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 06 四条貴音"
+artist = "四条貴音（原由実）"
+date = 2015-06-03
+type = "normal"
+catalog = "COCX-39146"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39146"
+
+[[discs.tracks]]
+title = "ふたつの月 (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "KisS"
+
+[[discs.tracks]]
+title = "Destiny -太陽の花-"
+
+[[discs.tracks]]
+title = "せぷてんばぁ"
+
+[[discs.tracks]]
+title = "99 Nights (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ふたつの月 (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

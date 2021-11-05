@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 04 星井美希"
+artist = "星井美希（長谷川明子）"
+date = 2015-06-03
+type = "normal"
+catalog = "COCX-39144"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39144"
+
+[[discs.tracks]]
+title = "Nostalgia (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "きゅんっ！ヴァンパイアガール (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Catch You Catch Me"
+
+[[discs.tracks]]
+title = "高鳴る"
+
+[[discs.tracks]]
+title = "99 Nights (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Nostalgia (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

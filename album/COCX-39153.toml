@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 13 秋月律子"
+artist = "秋月律子（若林直美）"
+date = 2015-11-11
+type = "normal"
+catalog = "COCX-39153"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39153"
+
+[[discs.tracks]]
+title = "私だって女の子 (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "愛LIKEハンバーガー (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Diamonds"
+
+[[discs.tracks]]
+title = "桜色舞うころ"
+
+[[discs.tracks]]
+title = "Good-Byes (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "私だって女の子 (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

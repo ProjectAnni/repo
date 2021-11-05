@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 12 双海亜美"
+artist = "双海亜美（下田麻美）"
+date = 2015-11-11
+type = "normal"
+catalog = "COCX-39152"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39152"
+
+[[discs.tracks]]
+title = "トリプルAngel (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "コーヒー1杯のイマージュ"
+
+[[discs.tracks]]
+title = "YATTA!"
+
+[[discs.tracks]]
+title = "贈る言葉"
+
+[[discs.tracks]]
+title = "Good-Byes (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "トリプルAngel (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

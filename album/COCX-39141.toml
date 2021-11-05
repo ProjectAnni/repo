@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 01 天海春香"
+artist = "天海春香（中村繪里子）"
+date = 2015-04-22
+type = "normal"
+catalog = "COCX-39141"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39141"
+
+[[discs.tracks]]
+title = "ステキハピネス (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Honey Heartbeat (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "天使の絵の具"
+
+[[discs.tracks]]
+title = "アイスキャンディー"
+
+[[discs.tracks]]
+title = "キミ＊チャンネル (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ステキハピネス (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"

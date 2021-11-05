@@ -1,0 +1,32 @@
+[album]
+title = "THE IDOLM@STER MASTER ARTIST 3 09 萩原雪歩"
+artist = "萩原雪歩（浅倉杏美）"
+date = 2015-07-08
+type = "normal"
+catalog = "COCX-39149"
+tags = ["THE IDOLM@STER MASTER ARTIST 3"]
+
+[[discs]]
+catalog = "COCX-39149"
+
+[[discs.tracks]]
+title = "あの日のナミダ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Kosmos,Cosmos"
+
+[[discs.tracks]]
+title = "Agape"
+
+[[discs.tracks]]
+title = "Snowdome"
+
+[[discs.tracks]]
+title = "静かな夜に願いを… (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "あの日のナミダ (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ONLY MY NOTE (M@STER VERSION)"
