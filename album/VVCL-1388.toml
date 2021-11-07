@@ -4,6 +4,7 @@ artist = "ReoNa"
 date = 2019-02-06
 type = "normal"
 catalog = "VVCL-1388"
+tags = ["ReoNa"]
 
 [[discs]]
 catalog = "VVCL-1388"

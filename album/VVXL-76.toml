@@ -1,0 +1,58 @@
+[album]
+title = 'ReoNa Online Live "UNDER-WORLD"'
+artist = "ReoNa"
+date = 2021-08-11
+type = "normal"
+catalog = "VVXL-76"
+tags = ["ReoNa"]
+
+[[discs]]
+catalog = "VVXL-76"
+
+[[discs.tracks]]
+title = "ANIMA"
+
+[[discs.tracks]]
+title = "forget-me-not"
+
+[[discs.tracks]]
+title = "Scar/let"
+
+[[discs.tracks]]
+title = "Disorder"
+
+[[discs.tracks]]
+title = "Independence"
+
+[[discs.tracks]]
+title = "Dancer in the Discord"
+
+[[discs.tracks]]
+title = "step, step"
+
+[[discs.tracks]]
+title = "ヒカリ"
+
+[[discs.tracks]]
+title = "葬送の儀 -Acoustic ver.-"
+
+[[discs.tracks]]
+title = "雨に唄えば"
+
+[[discs.tracks]]
+title = "虹の彼方に"
+
+[[discs.tracks]]
+title = "レプリカ -Piano instrumental ver.-"
+
+[[discs.tracks]]
+title = "ピルグリム -ReoNa ver.-"
+
+[[discs.tracks]]
+title = "ALONE"
+
+[[discs.tracks]]
+title = "Rea(s)oN"
+
+[[discs.tracks]]
+title = "Till the End"
