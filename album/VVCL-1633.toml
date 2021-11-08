@@ -1,0 +1,30 @@
+[album]
+title = "ごまかし／うつろい"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2020-03-11
+type = "normal"
+catalog = "VVCL-1633"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝:Anime"]
+
+[[discs]]
+catalog = "VVCL-1633"
+
+[[discs.tracks]]
+title = "ごまかし"
+
+[[discs.tracks]]
+title = "うつろい"
+
+[[discs.tracks]]
+title = "ごまかし -TV ver.-"
+
+[[discs.tracks]]
+title = "うつろい -GAME ver.-"
+
+[[discs.tracks]]
+title = "ごまかし -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "うつろい -Instrumental-"
+type = "instrumental"

@@ -1,0 +1,49 @@
+[album]
+title = "魔法少女まどか☆マギカ 特典CD6「オリジナルサウンドトラックCD Vol.3」"
+artist = "梶浦由紀"
+date = 2011-09-21
+type = "absolute"
+catalog = "ANZX-9132"
+tags = ["魔法少女まどか☆マギカ"]
+
+[[discs]]
+catalog = "ANZX-9132"
+
+[[discs.tracks]]
+title = "Numquam vincar"
+
+[[discs.tracks]]
+title = "Quamobrem?"
+
+[[discs.tracks]]
+title = "Cor destructum"
+
+[[discs.tracks]]
+title = "Surgam identidem"
+
+[[discs.tracks]]
+title = "Confessio"
+
+[[discs.tracks]]
+title = "Sagitta luminis"
+
+[[discs.tracks]]
+title = "Nux Walpurgis"
+
+[[discs.tracks]]
+title = "Cubilulum album"
+
+[[discs.tracks]]
+title = "Taenia memoriae"
+
+[[discs.tracks]]
+title = "La Fille aux Cheveux de Lin"
+
+[[discs.tracks]]
+title = "Symposium magarum"
+
+[[discs.tracks]]
+title = "Pergo pugnare"
+
+[[discs.tracks]]
+title = "コネクト –ゲームインスト–"

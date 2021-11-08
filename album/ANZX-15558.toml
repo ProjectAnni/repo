@@ -1,0 +1,46 @@
+[album]
+title = "マギアレコード 魔法少女まどか☆マギカ外伝 オリジナル・サウンドトラックⅢ"
+artist = "尾澤拓実"
+date = 2020-08-05
+type = "absolute"
+catalog = "ANZX-15558"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝:Anime"]
+
+[[discs]]
+catalog = "ANZX-15558"
+
+[[discs.tracks]]
+title = "Amazing Artist!!"
+
+[[discs.tracks]]
+title = "Chica se lamenta"
+
+[[discs.tracks]]
+title = "Invisible Girl"
+
+[[discs.tracks]]
+title = "Radio Kula"
+
+[[discs.tracks]]
+title = "AI=0"
+
+[[discs.tracks]]
+title = "Rumeurs de Solitude"
+
+[[discs.tracks]]
+title = "Flaunt"
+
+[[discs.tracks]]
+title = "craves trust"
+
+[[discs.tracks]]
+title = "Colapso da arte"
+
+[[discs.tracks]]
+title = "one's place"
+
+[[discs.tracks]]
+title = "SanAId"
+
+[[discs.tracks]]
+title = "bygone days"

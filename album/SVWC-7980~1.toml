@@ -1,0 +1,156 @@
+[album]
+title = "魔法少女まどか☆マギカ MUSIC COLLECTION"
+artist = "梶浦由記"
+date = 2013-12-25
+type = "absolute"
+catalog = "SVWC-7980~1"
+tags = ["魔法少女まどか☆マギカ"]
+
+[[discs]]
+catalog = "SVWC-7980"
+
+[[discs.tracks]]
+title = "prelude to Act 1"
+
+[[discs.tracks]]
+title = "Scaena felix"
+
+[[discs.tracks]]
+title = "Postmeridie"
+
+[[discs.tracks]]
+title = "Conturbatio"
+
+[[discs.tracks]]
+title = "Puella in somnio"
+
+[[discs.tracks]]
+title = "Salve, terrae magicae"
+
+[[discs.tracks]]
+title = "Desiderium"
+
+[[discs.tracks]]
+title = "Gradus prohibitus"
+
+[[discs.tracks]]
+title = "Credens justitiam"
+
+[[discs.tracks]]
+title = "Sis puella magica!"
+
+[[discs.tracks]]
+title = "Inevitabilis"
+
+[[discs.tracks]]
+title = "Pugna cum maga"
+
+[[discs.tracks]]
+title = "Vocalise Op. 34 no. 14"
+
+[[discs.tracks]]
+title = "Umbra nigra"
+
+[[discs.tracks]]
+title = "Venari strigas"
+
+[[discs.tracks]]
+title = "Agmen clientum"
+
+[[discs.tracks]]
+title = "Signum malum"
+
+[[discs.tracks]]
+title = "Serena ira"
+
+[[discs.tracks]]
+title = "Incertus"
+
+[[discs.tracks]]
+title = "Ave Maria"
+
+[[discs.tracks]]
+title = "Decretum"
+
+[[discs.tracks]]
+title = "Anima mala"
+
+[[discs.tracks]]
+title = "また あした"
+artist = "鹿目まどか（悠木碧）"
+type = "normal"
+
+[[discs.tracks]]
+title = "and I'm home"
+artist = "美樹さやか（喜多村英梨）、佐倉杏子（野中藍）"
+type = "normal"
+
+[[discs.tracks]]
+title = "コネクト –ゲームインスト–"
+
+[[discs]]
+catalog = "SVWC-7981"
+
+[[discs.tracks]]
+title = "prelude to Act 2"
+
+[[discs.tracks]]
+title = "Amicae carae meae"
+
+[[discs.tracks]]
+title = "Clementia"
+
+[[discs.tracks]]
+title = "La Fille aux Cheveux de Lin"
+
+[[discs.tracks]]
+title = "Pugna infinita"
+
+[[discs.tracks]]
+title = "Confessio"
+
+[[discs.tracks]]
+title = "Cor destructum"
+
+[[discs.tracks]]
+title = "Terror adhaerens"
+
+[[discs.tracks]]
+title = "Symposium magarum"
+
+[[discs.tracks]]
+title = "Numquam vincar"
+
+[[discs.tracks]]
+title = "Quamobrem?"
+
+[[discs.tracks]]
+title = "Surgam identidem"
+
+[[discs.tracks]]
+title = "Nux Walpurgis"
+
+[[discs.tracks]]
+title = "Sagitta luminis"
+
+[[discs.tracks]]
+title = "Cubilulum album"
+
+[[discs.tracks]]
+title = "Taenia memoriae"
+
+[[discs.tracks]]
+title = "Pergo pugnare"
+
+[[discs.tracks]]
+title = "コネクト"
+artist = "ClariS（クララ、アリス）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Magia"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Numquam vincar (Live ver.)"

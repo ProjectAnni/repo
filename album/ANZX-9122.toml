@@ -1,0 +1,23 @@
+[album]
+title = "魔法少女まどか☆マギカ 特典CD1 ドラマCD「メモリーズオブユー」"
+artist = "Various Artists"
+date = 2011-04-27
+type = "drama"
+catalog = "ANZX-9122"
+tags = ["魔法少女まどか☆マギカ"]
+
+[[discs]]
+catalog = "ANZX-9122"
+
+[[discs.tracks]]
+title = "メモリーズオブユー"
+
+[[discs.tracks]]
+title = "また あした"
+artist = "鹿目まどか（悠木碧）"
+type = "normal"
+
+[[discs.tracks]]
+title = "また あした Instrumental ver."
+artist = "鹿目まどか（悠木碧）"
+type = "instrumental"

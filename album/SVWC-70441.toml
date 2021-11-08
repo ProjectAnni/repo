@@ -1,0 +1,31 @@
+[album]
+title = "余白のほんね"
+artist = "環いろは（麻倉もも）"
+date = 2019-10-23
+type = "normal"
+catalog = "SVWC-70441"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝"]
+
+[[discs]]
+catalog = "SVWC-70441"
+
+[[discs.tracks]]
+title = "余白のほんね"
+
+[[discs.tracks]]
+title = "ホームメイド"
+artist = "環いろは（麻倉もも）、七海やちよ（雨宮天）、由比鶴乃（夏川椎菜）、深月フェリシア（佐倉綾音）、二葉さな（小倉唯）"
+
+[[discs.tracks]]
+title = "ミニドラマ「それは一歩の架け橋」"
+artist = "環いろは（麻倉もも）、七海やちよ（雨宮天）、由比鶴乃（夏川椎菜）、深月フェリシア（佐倉綾音）、二葉さな（小倉唯）、環うい（石見舞菜香）"
+type = "drama"
+
+[[discs.tracks]]
+title = "余白のほんね (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ホームメイド (instrumental)"
+artist = "環いろは（麻倉もも）、七海やちよ（雨宮天）、由比鶴乃（夏川椎菜）、深月フェリシア（佐倉綾音）、二葉さな（小倉唯）"
+type = "instrumental"

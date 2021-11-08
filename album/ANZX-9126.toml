@@ -1,0 +1,13 @@
+[album]
+title = "魔法少女まどか☆マギカ 特典CD3 ドラマCD「サニーデイライフ」"
+artist = "Various Artists"
+date = 2011-06-22
+type = "drama"
+catalog = "ANZX-9126"
+tags = ["魔法少女まどか☆マギカ"]
+
+[[discs]]
+catalog = "ANZX-9126"
+
+[[discs.tracks]]
+title = "サニーデイライフ"

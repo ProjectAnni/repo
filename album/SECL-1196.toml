@@ -1,0 +1,25 @@
+[album]
+title = "ルミナス"
+artist = "ClariS（クララ、アリス）"
+date = 2012-10-10
+type = "normal"
+catalog = "SECL-1196"
+tags = ["劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語 [後編] 永遠の物語"]
+
+[[discs]]
+catalog = "SECL-1196"
+
+[[discs.tracks]]
+title = "ルミナス"
+
+[[discs.tracks]]
+title = "Friends"
+
+[[discs.tracks]]
+title = "blossom"
+
+[[discs.tracks]]
+title = "ルミナス -movie MIX-"
+
+[[discs.tracks]]
+title = "コネクト -Orchestra ver.- (short EDIT)"

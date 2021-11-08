@@ -1,0 +1,46 @@
+[album]
+title = "魔法少女まどか☆マギカ 特典CD4「オリジナルサウンドトラックCD Vol.2」"
+artist = "梶浦由紀"
+date = 2011-07-27
+type = "absolute"
+catalog = "ANZX-9128"
+tags = ["魔法少女まどか☆マギカ"]
+
+[[discs]]
+catalog = "ANZX-9128"
+
+[[discs.tracks]]
+title = "Decretum"
+
+[[discs.tracks]]
+title = "Agmen clientum"
+
+[[discs.tracks]]
+title = "Venari strigas"
+
+[[discs.tracks]]
+title = "Signum malum"
+
+[[discs.tracks]]
+title = "Amicae carae meae"
+
+[[discs.tracks]]
+title = "Incertus"
+
+[[discs.tracks]]
+title = "Inevitabilis"
+
+[[discs.tracks]]
+title = "Serena ira"
+
+[[discs.tracks]]
+title = "Anima mala"
+
+[[discs.tracks]]
+title = "Pugna infinita"
+
+[[discs.tracks]]
+title = "Vocalise Op.34 no.14"
+
+[[discs.tracks]]
+title = "Ave Maria"

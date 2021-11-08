@@ -1,0 +1,268 @@
+[album]
+title = "マギアレコード 魔法少女まどか☆マギカ外伝 Music Collection 2"
+artist = "Various Artists"
+date = 2021-08-25
+type = "absolute"
+catalog = "SVWC-70545~6"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝"]
+
+[[discs]]
+catalog = "SVWC-70545"
+
+[[discs.tracks]]
+title = "シグナル"
+artist = "ClariS（クララ、カレン）"
+type = "normal"
+
+[[discs.tracks]]
+title = "うつろい"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+type = "normal"
+
+[[discs.tracks]]
+title = "叶えちゃお"
+artist = "カミハ☆マギカ（環いろは（麻倉もも）、水波レナ（石原夏織）、綾野梨花（伊藤かな恵）、夏目かこ（鈴木絵理）、巴マミ（水橋かおり））"
+type = "normal"
+
+[[discs.tracks]]
+title = "山茶花の跡"
+artist = "時女一族（時女静香（内田秀）、広江ちはる（相良茉優）、土岐すなお（大西亜玖璃））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Bulimia"
+artist = "Promised Blood（紅晴結菜（涼本あきほ）、大庭樹里（松本花雪）、笠音アオ（天野聡美）、煌里ひかる（和泉風花））"
+type = "normal"
+
+[[discs.tracks]]
+title = "イデオロギー"
+artist = "ネオマギウス（藍家ひめな（首藤志奈）、宮尾時雨（鬼頭明里）、安積はぐむ（高柳知葉）、神楽燦（ファイルーズあい）、遊狩ミユリ（飯田ヒカル））"
+type = "normal"
+
+[[discs.tracks]]
+title = "cinis"
+artist = "佐鳥かごめ（高尾奏音）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Tokime Tribe"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Country Side"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "In Nature"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Ritual"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Longing"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Heritage"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Dance in the War"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Descended Battle"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Promised Blood"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Daily Life"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Funny Three"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Mysterious Red"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Crimson Fear"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Pressure"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Bloody Battle"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Battle Fanfare"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Neo Magius"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Feather Rest"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Fly High"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Mystery"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Frantic"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "New Order"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Battle Wings"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "New Era"
+artist = "小澤享平"
+
+[[discs]]
+catalog = "SVWC-70546"
+
+[[discs.tracks]]
+title = "Puella Care"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Travelling"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Trailer House"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Mysterious Road"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Road to Nowhere"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Trip in the Dark"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Forklore of 0"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Story Telling"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Old Days"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Gloomy"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Ambient"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Forbidden"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Chain Battle"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Outbreak"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Sapphire"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Ruby"
+artist = "古屋沙樹"
+
+[[discs.tracks]]
+title = "Aqua Marine"
+artist = "加藤賢二"
+
+[[discs.tracks]]
+title = "Turquoise"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Opal"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Pearl"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Diamond"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Garnet"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Ordinary"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Alone"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Night Combat"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Ignition"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Inferiority"
+artist = "小澤享平"
+
+[[discs.tracks]]
+title = "Faint Breath"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Revive"
+artist = '千葉"naotyu-"直樹'
+
+[[discs.tracks]]
+title = "Counter Strike"
+artist = "井上泰久"
+
+[[discs.tracks]]
+title = "Double Christmas"
+artist = '千葉"naotyu-"直樹'

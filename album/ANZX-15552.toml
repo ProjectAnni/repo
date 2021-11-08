@@ -1,0 +1,52 @@
+[album]
+title = "マギアレコード 魔法少女まどか☆マギカ外伝 オリジナル・サウンドトラックⅠ"
+artist = "尾澤拓実"
+date = 2020-03-04
+type = "absolute"
+catalog = "ANZX-15552"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝:Anime"]
+
+[[discs]]
+catalog = "ANZX-15552"
+
+[[discs.tracks]]
+title = "Void"
+
+[[discs.tracks]]
+title = "Creeping Darkness"
+
+[[discs.tracks]]
+title = "La chica dijo"
+
+[[discs.tracks]]
+title = "ORO"
+
+[[discs.tracks]]
+title = "La gis sulva za Celow"
+
+[[discs.tracks]]
+title = "She Insisted"
+
+[[discs.tracks]]
+title = "カミハマポリフォニック"
+
+[[discs.tracks]]
+title = "Rumored JINTA"
+
+[[discs.tracks]]
+title = "Magia Curativa"
+
+[[discs.tracks]]
+title = "Fata Magică"
+
+[[discs.tracks]]
+title = "Keraguan"
+
+[[discs.tracks]]
+title = "Philosopher's Play"
+
+[[discs.tracks]]
+title = "Mentiroso"
+
+[[discs.tracks]]
+title = "Paradero de Memoria"
