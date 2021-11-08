@@ -1,0 +1,31 @@
+[album]
+title = "Subversive"
+artist = "高槻かなこ"
+date = 2021-08-11
+type = "normal"
+catalog = "LACM-24162"
+tags = ["高槻かなこ", "100万の命の上に俺は立っている"]
+
+[[discs]]
+catalog = "LACM-24162"
+
+[[discs.tracks]]
+title = "Subversive"
+
+[[discs.tracks]]
+title = "金魚"
+
+[[discs.tracks]]
+title = "soda"
+
+[[discs.tracks]]
+title = "Subversive (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "金魚 (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "soda (Off Vocal)"
+type = "instrumental"

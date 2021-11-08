@@ -1,0 +1,115 @@
+[album]
+title = "TVアニメ「100万の命の上に俺は立っている」第2シーズン オリジナル・サウンドトラック「音100の2」"
+artist = "伊藤賢"
+date = 2021-09-29
+type = "absolute"
+catalog = "LACA-15896"
+tags = ["100万の命の上に俺は立っている"]
+
+[[discs]]
+catalog = "LACA-15896"
+
+[[discs.tracks]]
+title = "私は弱くなった"
+
+[[discs.tracks]]
+title = "ユグドメープル"
+
+[[discs.tracks]]
+title = "Baddest (Anime Size Ver.)"
+type = "normal"
+artist = "樋口楓"
+
+[[discs.tracks]]
+title = "オークとの戦い"
+
+[[discs.tracks]]
+title = "オーククィーン"
+
+[[discs.tracks]]
+title = "続く災害"
+
+[[discs.tracks]]
+title = "カンティル"
+
+[[discs.tracks]]
+title = "不穏な空気"
+
+[[discs.tracks]]
+title = "八百万の島の唄 (Anime Size Ver.)"
+artist = "ヤーナ（竹達彩奈）、アォユー（悠木碧）"
+type = "normal"
+
+[[discs.tracks]]
+title = "マジハブルー"
+
+[[discs.tracks]]
+title = "たわいもないわ"
+
+[[discs.tracks]]
+title = "島の暮らし"
+
+[[discs.tracks]]
+title = "揉める島民たち"
+
+[[discs.tracks]]
+title = "不穏な影"
+
+[[discs.tracks]]
+title = "のどかな日常"
+
+[[discs.tracks]]
+title = "八百万の島の唄～宴～"
+
+[[discs.tracks]]
+title = "過去とこれから"
+
+[[discs.tracks]]
+title = "スペクタクル"
+
+[[discs.tracks]]
+title = "子守歌"
+
+[[discs.tracks]]
+title = "物悲しい"
+
+[[discs.tracks]]
+title = "八百万の島の唄〜詠唱 Ver.〜"
+artist = "ヤーナ（竹達彩奈）"
+type = "normal"
+
+[[discs.tracks]]
+title = "合戦"
+
+[[discs.tracks]]
+title = "戦う者たち"
+
+[[discs.tracks]]
+title = "思い出は今ここにある"
+
+[[discs.tracks]]
+title = "ドラゴンビショップ"
+
+[[discs.tracks]]
+title = "推理"
+
+[[discs.tracks]]
+title = "湿地帯"
+
+[[discs.tracks]]
+title = "遺跡都市"
+
+[[discs.tracks]]
+title = "平和が戻る"
+
+[[discs.tracks]]
+title = "八百万の島の唄〜詠唱 Ver.〜 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Subversive (Anime Size Ver.)"
+artist = "高槻かなこ"
+type = "normal"
+
+[[discs.tracks]]
+title = "日曜日の次回予告"

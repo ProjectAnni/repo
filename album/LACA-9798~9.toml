@@ -1,0 +1,178 @@
+[album]
+title = "TVアニメ「100万の命の上に俺は立っている」オリジナル・サウンドトラック「音100」"
+artist = "伊藤賢"
+date = 2020-12-23
+type = "absolute"
+catalog = "LACA-9798~9"
+tags = ["100万の命の上に俺は立っている"]
+
+[[discs]]
+catalog = "LACA-9798"
+
+[[discs.tracks]]
+title = "その命の上に俺は"
+
+[[discs.tracks]]
+title = "巨大な怪物"
+
+[[discs.tracks]]
+title = "この世界で生きる人達"
+
+[[discs.tracks]]
+title = "ダークヒーロー"
+
+[[discs.tracks]]
+title = "始まりの丘"
+
+[[discs.tracks]]
+title = "淡々とした世界"
+
+[[discs.tracks]]
+title = "ゲームマスター"
+
+[[discs.tracks]]
+title = "自己犠牲"
+
+[[discs.tracks]]
+title = "出立"
+
+[[discs.tracks]]
+title = "四谷の本性"
+
+[[discs.tracks]]
+title = "子供の頃の思い出"
+
+[[discs.tracks]]
+title = "小さな田舎の集落"
+
+[[discs.tracks]]
+title = "戦い初心者"
+
+[[discs.tracks]]
+title = "戦闘"
+
+[[discs.tracks]]
+title = "たき火の前"
+
+[[discs.tracks]]
+title = "東京壊滅ノスタルジック"
+
+[[discs.tracks]]
+title = "そんなの本当の友達じゃないでしょ"
+
+[[discs.tracks]]
+title = "暗く辛い過去"
+
+[[discs.tracks]]
+title = "クエスト失敗！？"
+
+[[discs.tracks]]
+title = "劣勢を前に"
+
+[[discs.tracks]]
+title = "不穏な世界"
+
+[[discs.tracks]]
+title = "命の裏側"
+
+[[discs.tracks]]
+title = "不確かな"
+
+[[discs.tracks]]
+title = "レッツピコピコゲーム"
+
+[[discs.tracks]]
+title = "コルトネル街"
+
+[[discs.tracks]]
+title = "カハベル"
+
+[[discs.tracks]]
+title = "デオック王国"
+
+[[discs.tracks]]
+title = "荒野を進む"
+
+[[discs.tracks]]
+title = "暗い洞窟の中"
+
+[[discs.tracks]]
+title = "四谷の孤独"
+
+[[discs.tracks]]
+title = "王座の間"
+
+[[discs.tracks]]
+title = "戦士であること"
+
+[[discs.tracks]]
+title = "雪の中"
+
+[[discs.tracks]]
+title = "ラドドーボ街"
+
+[[discs.tracks]]
+title = "カミルトーの最後"
+
+[[discs.tracks]]
+title = "ミッション遂行"
+
+[[discs.tracks]]
+title = "Angel Prince"
+
+[[discs.tracks]]
+title = "Get up"
+
+[[discs.tracks]]
+title = "Don't break my heart"
+
+[[discs.tracks]]
+title = "続きを知りたいか"
+
+[[discs.tracks]]
+title = "さあ狩りの時間だ"
+
+[[discs.tracks]]
+title = "クエストクリア"
+
+[[discs.tracks]]
+title = "Game01. マップが進む"
+
+[[discs.tracks]]
+title = "Game02. 敵が現れる"
+
+[[discs.tracks]]
+title = "Game03. 全滅"
+
+[[discs.tracks]]
+title = "Game04. 王様登場"
+
+[[discs]]
+catalog = "LACA-9799"
+type = "normal"
+
+[[discs.tracks]]
+title = "Anti world (Anime Size Ver.)"
+artist = "高槻かなこ"
+
+[[discs.tracks]]
+title = "カルペ・ディエム (Anime Size Ver.)"
+artist = "Liyuu"
+
+[[discs.tracks]]
+title = "Dear My MAJIHA Sisters"
+artist = "マジハパープル（高槻かなこ）、マジハピンク（降幡愛）"
+
+[[discs.tracks]]
+title = "Dear My MAJIHA Sisters (Instrumental Ver.)"
+artist = "マジハパープル（高槻かなこ）、マジハピンク（降幡愛）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dear My MAJIHA Sisters (Anime Size Ver.)"
+artist = "マジハパープル（高槻かなこ）、マジハピンク（降幡愛）"
+
+[[discs.tracks]]
+title = "Dear My MAJIHA Sisters (Anime Size Instrumental Ver.)"
+artist = "マジハパープル（高槻かなこ）、マジハピンク（降幡愛）"
+type = "instrumental"

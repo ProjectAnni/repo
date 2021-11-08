@@ -1,0 +1,28 @@
+[album]
+title = "Anti world"
+artist = "高槻かなこ"
+date = 2020-10-14
+type = "normal"
+catalog = "LACM-24024"
+tags = ["高槻かなこ", "100万の命の上に俺は立っている"]
+
+[[discs]]
+catalog = "LACM-24024"
+
+[[discs.tracks]]
+title = "Anti world"
+
+[[discs.tracks]]
+title = "I wanna be a STAR"
+
+[[discs.tracks]]
+title = "アイシテルは♡グラム？"
+
+[[discs.tracks]]
+title = "Anti world (Off Vocal)"
+
+[[discs.tracks]]
+title = "I wanna be a STAR (Off Vocal)"
+
+[[discs.tracks]]
+title = "アイシテルは♡グラム？(Off Vocal)"
