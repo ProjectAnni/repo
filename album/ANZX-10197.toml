@@ -1,0 +1,31 @@
+[album]
+title = "冴えない彼女の育てかた Fes. Fine ～glory moment～ 特典CD"
+artist = "Various Artists"
+date = 2021-09-22
+type = "normal"
+catalog = "ANZX-10197"
+tags = ["冴えない彼女の育てかた Fine"]
+
+[[discs]]
+catalog = "ANZX-10197"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON Michiru&Izumi Ver."
+artist = "氷堂美智留（矢作紗友里）、波島出海（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON Michiru Solo Ver."
+artist = "氷堂美智留（矢作紗友里）"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON Izumi Solo Ver."
+artist = "波島出海（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON #502 Ver."
+artist = "加藤恵（安野希世乃）、澤村・スペンサー・英梨々（大西沙織）、霞ヶ丘詩羽（茅野愛衣）、氷堂美智留（矢作紗友里）、波島出海（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "LOVE iLLUSiON #502 Ver. (Off Vocal)"
+artist = "加藤恵（安野希世乃）、澤村・スペンサー・英梨々（大西沙織）、霞ヶ丘詩羽（茅野愛衣）、氷堂美智留（矢作紗友里）、波島出海（赤﨑千夏）"
+type = "instrumental"

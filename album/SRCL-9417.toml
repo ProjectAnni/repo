@@ -1,9 +1,11 @@
 [album]
 title = "桜色ダイアリー"
-artist = "妄想キャリブレーション"
+edition = "期間生産限定盤（アニメ盤）"
+artist = "妄想キャリブレーション（胡桃沢まひる、桜野羽咲、星野にぁ、雨宮伊織、水城夢子）"
 date = 2017-06-14
 type = "normal"
 catalog = "SRCL-9417"
+tags = ["妄想キャリブレーション", "冴えない彼女の育てかた♭"]
 
 [[discs]]
 catalog = "SRCL-9417"
@@ -16,6 +18,7 @@ title = "青春プロローグ"
 
 [[discs.tracks]]
 title = "スバラシキセカイ"
+artist = "LAVILITH（相沢梨紗、桜野羽咲）"
 
 [[discs.tracks]]
 title = "桜色ダイアリー -Instrumental-"
@@ -27,4 +30,5 @@ type = "instrumental"
 
 [[discs.tracks]]
 title = "スバラシキセカイ -Instrumental-"
+artist = "LAVILITH"
 type = "instrumental"

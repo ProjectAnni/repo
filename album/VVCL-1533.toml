@@ -1,9 +1,11 @@
 [album]
 title = "glory days"
+edition = "期間生産限定盤"
 artist = "春奈るな"
 date = 2019-12-03
 type = "normal"
 catalog = "VVCL-1533"
+tags = ["春奈るな", "冴えない彼女の育てかた Fine"]
 
 [[discs]]
 catalog = "VVCL-1533"

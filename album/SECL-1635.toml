@@ -1,9 +1,11 @@
 [album]
 title = "君色シグナル"
+edition = "期間生産限定盤"
 artist = "春奈るな"
 date = 2015-01-28
 type = "normal"
 catalog = "SECL-1635"
+tags = ["春奈るな", "冴えない彼女の育てかた"]
 
 [[discs]]
 catalog = "SECL-1635"

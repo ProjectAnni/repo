@@ -1,9 +1,11 @@
 [album]
 title = "カラフル。"
+edition = "期間生産限定盤"
 artist = "沢井美空"
 date = 2015-01-28
 type = "normal"
 catalog = "SRCL-8676"
+tags = ["沢井美空", "冴えない彼女の育てかた"]
 
 [[discs]]
 catalog = "SRCL-8676"
