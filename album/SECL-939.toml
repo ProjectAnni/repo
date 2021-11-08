@@ -1,16 +1,17 @@
 [album]
 title = "Magia"
+edition = "初回生産限定盤"
 artist = "Kalafina（Wakana、Keiko、Hikaru）"
 date = 2011-02-16
 type = "normal"
 catalog = "SECL-939"
+tags = ["Kalafina"]
 
 [[discs]]
 catalog = "SECL-939"
 
 [[discs.tracks]]
 title = "Magia"
-tags = ["魔法少女まどか☆マギカ"]
 
 [[discs.tracks]]
 title = "snow falling"
@@ -18,4 +19,3 @@ title = "snow falling"
 [[discs.tracks]]
 title = "Magia (Instrumental)"
 type = "instrumental"
-tags = ["魔法少女まどか☆マギカ"]

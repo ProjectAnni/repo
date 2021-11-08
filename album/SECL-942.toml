@@ -1,10 +1,11 @@
 [album]
 title = "Magia"
+edition = "まどか☆マギカ盤"
 artist = "Kalafina（Wakana、Keiko、Hikaru）"
 date = 2011-02-16
 type = "normal"
 catalog = "SECL-942"
-tags = ["魔法少女まどか☆マギカ"]
+tags = ["Kalafina", "魔法少女まどか☆マギカ"]
 
 [[discs]]
 catalog = "SECL-942"
