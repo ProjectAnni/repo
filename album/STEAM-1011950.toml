@@ -1,0 +1,40 @@
+[album]
+title = "CHAOS;CHILD - LIMITED EDITION OST"
+artist = "阿保剛"
+date = 2019-01-23
+type = "absolute"
+catalog = "STEAM-1011950"
+tags = ["CHAOS;CHILD"]
+
+[[discs]]
+catalog = "STEAM-1011950"
+
+[[discs.tracks]]
+title = "WORLD -C;C MAIN THEME-"
+
+[[discs.tracks]]
+title = "THE THIRD MELT"
+
+[[discs.tracks]]
+title = "COUNT DOWN"
+
+[[discs.tracks]]
+title = "REVIVED SHIBUYA"
+
+[[discs.tracks]]
+title = "CAPACITY"
+
+[[discs.tracks]]
+title = "THEN"
+
+[[discs.tracks]]
+title = "AH TOKYO GENERAL HOSPITAL"
+
+[[discs.tracks]]
+title = "MORE GRIEF"
+
+[[discs.tracks]]
+title = "VISIBLE ESSENCE"
+
+[[discs.tracks]]
+title = "BREAK FORTH"

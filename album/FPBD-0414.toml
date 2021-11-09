@@ -1,0 +1,67 @@
+[album]
+title = "CHAOS;CHILD らぶchu☆chu!! オリジナルサウンドトラック"
+artist = "阿保剛"
+date = 2017-03-30
+type = "absolute"
+catalog = "FPBD-0414"
+tags = ["CHAOS;CHILD らぶchu☆chu!!"]
+
+[[discs]]
+catalog = "FPBD-0414"
+
+[[discs.tracks]]
+title = "非合理的かつ訂正不能な思い込み Short size."
+artist = "アフィリア・サーガ"
+type = "normal"
+
+[[discs.tracks]]
+title = "The other world"
+
+[[discs.tracks]]
+title = "OTOBOKE"
+
+[[discs.tracks]]
+title = "Sexy view"
+
+[[discs.tracks]]
+title = "It's farce"
+
+[[discs.tracks]]
+title = "Daily step"
+
+[[discs.tracks]]
+title = "Clear color"
+
+[[discs.tracks]]
+title = "Constant days"
+
+[[discs.tracks]]
+title = "I'm conscious"
+
+[[discs.tracks]]
+title = "Self-realization"
+
+[[discs.tracks]]
+title = "Real boot modulation"
+
+[[discs.tracks]]
+title = "Comedy's dance"
+
+[[discs.tracks]]
+title = "Psyche"
+
+[[discs.tracks]]
+title = "Insane eros"
+
+[[discs.tracks]]
+title = "BOYDAKEYO"
+
+[[discs.tracks]]
+title = "罪証のルシファー -instrumental-"
+artist = "志倉千代丸"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "罪証のルシファー Short size."
+artist = "イケてるハーツ"
+type = "normal"

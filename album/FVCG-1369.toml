@@ -4,6 +4,7 @@ artist = "阿保剛"
 date = 2016-03-23
 type = "absolute"
 catalog = "FVCG-1369"
+tags = ["CHAOS;CHILD"]
 
 [[discs]]
 catalog = "FVCG-1369-01"

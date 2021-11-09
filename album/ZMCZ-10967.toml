@@ -1,0 +1,24 @@
+[album]
+title = "カオスシンドローム"
+artist = "鈴木このみ"
+date = 2017-02-22
+type = "normal"
+catalog = "ZMCZ-10967"
+tags = ["鈴木このみ", "CHAOS;CHILD:アニメ"]
+
+[[discs]]
+catalog = "ZMCZ-10967"
+
+[[discs.tracks]]
+title = "カオスシンドローム"
+
+[[discs.tracks]]
+title = "White Clover"
+
+[[discs.tracks]]
+title = "カオスシンドローム (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "White Clover (instrumental)"
+type = "instrumental"

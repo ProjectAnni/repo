@@ -1,0 +1,29 @@
+[album]
+title = "Uncontrollable"
+artist = "いとうかなこ"
+date = 2017-01-25
+type = "normal"
+catalog = "FVCG-1404"
+tags = ["いとうかなこ", "CHAOS;CHILD:アニメ"]
+
+[[discs]]
+catalog = "FVCG-1404"
+
+[[discs.tracks]]
+title = "情報強者は事件に気付く"
+artist = "宮代拓留（松岡禎丞）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Uncontrollable"
+
+[[discs.tracks]]
+title = "chaos symphony"
+
+[[discs.tracks]]
+title = "Uncontrollable (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "chaos symphony (Off Vocal)"
+type = "instrumental"

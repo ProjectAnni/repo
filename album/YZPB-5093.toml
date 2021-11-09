@@ -1,0 +1,37 @@
+[album]
+title = "非合理的かつ訂正不能な思い込み"
+edition = "CHAOS;CHILDコラボ盤"
+artist = "Various Artists"
+date = 2017-04-19
+type = "normal"
+catalog = "YZPB-5093"
+tags = ["アフィリア・サーガ", "CHAOS;CHILD らぶchu☆chu!!"]
+
+[[discs]]
+catalog = "YZPB-5093"
+
+[[discs.tracks]]
+title = "非合理的かつ訂正不能な思い込み"
+artist = "アフィリア・サーガ"
+
+[[discs.tracks]]
+title = "非合理的かつ訂正不能な思い込み (GAME.ver)"
+artist = "アフィリア・サーガ"
+
+[[discs.tracks]]
+title = "『CHAOS;CHILD らぶ chu☆chu!!』モノローグドラマ「微睡を誘うは罪なき声律-」"
+artist = "尾上世莉架（上坂すみれ）"
+
+[[discs.tracks]]
+title = "ミライからきた私"
+artist = "アフィリア・サーガ"
+
+[[discs.tracks]]
+title = "非合理的かつ訂正不能な思い込み (Off Vocal)"
+artist = "志倉千代丸"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミライからきた私 (Off Vocal)"
+artist = "志倉千代丸"
+type = "instrumental"
