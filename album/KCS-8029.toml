@@ -1,0 +1,80 @@
+[album]
+title = "Konzert im Versteck : 隠れ家の演奏会 〜Atelier Ryza Special Arrange CD〜"
+artist = "Various Artists"
+date = 2019-09-26
+type = "absolute"
+catalog = "KCS-8029"
+tags = ["ライザのアトリエ"]
+
+[[discs]]
+catalog = "KCS-8029"
+
+[[discs.tracks]]
+title = "Prospect"
+artist = "近藤佑香、柳川和樹"
+type = "normal"
+
+[[discs.tracks]]
+title = "虹色の夏 (Pop Drum 'n' Bass Ver. by Dani)"
+artist = "水上浩介"
+
+[[discs.tracks]]
+title = "ひと夏の大冒険 (Folklore Ver. by 樋口秀樹)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "ソラミミ (Toybox Ver. by 柳川和樹)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "なんてことない毎日 (Early Sounds Ver. by 樋口秀樹)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "秘密の隠れ家 (Classical Rock Ver. by Dani)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "故郷の島 (Smooth Chill Ver. by 阿部隆大)"
+artist = "水上浩介"
+
+[[discs.tracks]]
+title = "小妖精の森 (Cinematic Orchestra Ver. by 古川 亮)"
+artist = "中村新一郎"
+
+[[discs.tracks]]
+title = "果てなく続く道 (Deep Analog Ver. by 阿部隆大)"
+artist = "中村新一郎"
+
+[[discs.tracks]]
+title = "水彩色に跳ねる日々 (Acoustic Ver. by 柳川和樹)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "銀の音さやか (Traditional Orchestra Ver. by 古川 亮)"
+artist = "柳川和樹"
+
+[[discs.tracks]]
+title = "小妖精の森 (Another Ver.)"
+artist = "中村新一郎"
+
+[[discs.tracks]]
+title = "聖なる楼閣 (Another Ver.)"
+artist = "中村新一郎"
+
+[[discs.tracks]]
+title = "女王の城へ (Another Ver.)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "採取？バカンス？ (Another Ver.)"
+artist = "三武亜紗美"
+
+[[discs.tracks]]
+title = "MEDIOCRIS (Another Ver.)"
+artist = "中村新一郎"
+
+[[discs.tracks]]
+title = "Mirage"
+artist = "悠花ユカ"
+type = "normal"

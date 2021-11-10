@@ -4,6 +4,7 @@ artist = "Various Artists"
 date = 2020-12-02
 type = "absolute"
 catalog = "KCS-8055"
+tags = ["ライザのアトリエ2"]
 
 [[discs]]
 catalog = "KCS-8055"
