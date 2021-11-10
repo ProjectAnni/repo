@@ -1,0 +1,24 @@
+[album]
+title = "新月のダ・カーポ"
+artist = "相沢梨紗（でんぱ組.inc）"
+date = 2021-11-10
+type = "normal"
+catalog = "LACM-24179"
+tags = ["相沢梨紗", "でんぱ組.inc", "白い砂のアクアトープ"]
+
+[[discs]]
+catalog = "LACM-24179"
+
+[[discs.tracks]]
+title = "新月のダ・カーポ"
+
+[[discs.tracks]]
+title = "運命論アイドリング"
+
+[[discs.tracks]]
+title = "新月のダ・カーポ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "運命論アイドリング (Instrumental)"
+type = "instrumental"
