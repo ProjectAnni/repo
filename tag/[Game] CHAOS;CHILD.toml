@@ -1,6 +1,5 @@
 [[tag]]
 name = "CHAOS;CHILD"
-included-by = ["Game"]
 includes = [
   # Game LCC
   "CHAOS;CHILD らぶchu☆chu!!",
