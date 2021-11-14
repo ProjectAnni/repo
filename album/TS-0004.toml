@@ -1,0 +1,82 @@
+[album]
+title = "t7s オリジナルサウンドトラック「The Things She Loved」"
+artist = "Various Artists"
+date = 2015-08-14
+type = "absolute"
+catalog = "TS-0004"
+tags = ["Tokyo 7th シスターズ"]
+
+[[discs]]
+catalog = "TS-0004"
+
+[[discs.tracks]]
+title = "Star☆Glitter【Original Instrumental】"
+artist = "kz（livetune）"
+
+[[discs.tracks]]
+title = "What's up 7th?"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "第七新東京区の朝"
+artist = "U-ji a.k.a RaychoruiP"
+
+[[discs.tracks]]
+title = "A.D.2034"
+artist = "U-ji a.k.a RaychoruiP"
+
+[[discs.tracks]]
+title = "MAjI-De-SukOtO!?"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "いつか並べた紐靴"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "見えない青空"
+artist = "U-ji a.k.a RaychoruiP"
+
+[[discs.tracks]]
+title = "KOISHITE☆BABY"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "No.9"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "Drive Pit In"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "like a INTERSTELLAR"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "私は独り、夕暮れを眺めます"
+artist = "持山翔子"
+
+[[discs.tracks]]
+title = "不穏な空気"
+artist = "阿部隆大"
+
+[[discs.tracks]]
+title = "ここにいる意味"
+artist = "阿部隆大"
+
+[[discs.tracks]]
+title = "想い"
+artist = "阿部隆大"
+
+[[discs.tracks]]
+title = "もう誰もあなたを笑っていない"
+artist = "U-ji a.k.a RaychoruiP"
+
+[[discs.tracks]]
+title = "永久の一瞬 【Star☆Glitter-Original Piano Arrange】"
+artist = "kz（livetune）"
+
+[[discs.tracks]]
+title = "ハッピーエンド☆Ver.DAZU"
+artist = "U-ji a.k.a RaychoruiP"
