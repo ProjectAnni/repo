@@ -1,9 +1,11 @@
 [album]
 title = "ふゆびより"
+edition = "キャンプ盤"
 artist = "佐々木恵梨"
 date = 2018-01-24
 type = "normal"
 catalog = "USSW-0071"
+tags = ["ゆるキャン△"]
 
 [[discs]]
 catalog = "USSW-0071"

@@ -1,0 +1,32 @@
+[album]
+title = "はるのとなり"
+edition = "アニメ盤"
+artist = "佐々木恵梨"
+date = 2021-01-27
+type = "normal"
+catalog = "USSW-0286"
+tags = ["ゆるキャン△ SEASON2"]
+
+[[discs]]
+catalog = "USSW-0286"
+
+[[discs.tracks]]
+title = "はるのとなり"
+
+[[discs.tracks]]
+title = "Orchis"
+
+[[discs.tracks]]
+title = "Majstång"
+
+[[discs.tracks]]
+title = "はるのとなり -off vocal-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Orchis -off vocal-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Majstång -off vocal-"
+type = "instrumental"

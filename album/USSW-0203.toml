@@ -4,6 +4,7 @@ artist = "村上純"
 date = 2019-08-28
 type = "absolute"
 catalog = "USSW-0203"
+tags = ["ゆるキャン△"]
 
 [[discs]]
 catalog = "USSW-0203"

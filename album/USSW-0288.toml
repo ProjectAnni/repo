@@ -1,0 +1,202 @@
+[album]
+title = "TVアニメ『ゆるキャン△ SEASON2』オリジナル・サウンドトラック"
+artist = "立山秋航"
+date = 2021-03-31
+type = "absolute"
+catalog = "USSW-0288"
+tags = ["ゆるキャン△ SEASON2"]
+
+[[discs]]
+catalog = "USSW-0288-01"
+
+[[discs.tracks]]
+title = "ゆるキャン△ SEASON2のテーマ"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その1"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Seize The Day (TV SIZE)"
+artist = "亜咲花"
+type = "normal"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その2"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "初めての本栖湖～はじまりはここから～"
+
+[[discs.tracks]]
+title = "初めての本栖湖～出来たかな?キャンプ飯～"
+
+[[discs.tracks]]
+title = "初めての本栖湖～夕暮れの富士山～"
+
+[[discs.tracks]]
+title = "次のキャンプはどうしよっか?"
+
+[[discs.tracks]]
+title = "ソロキャンの嗜み"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その3"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "それぞれの大晦日"
+
+[[discs.tracks]]
+title = "キャンプ講座の時間です"
+
+[[discs.tracks]]
+title = "浜名湖のテーマ～ゆりかもめに囲まれて～"
+
+[[discs.tracks]]
+title = "浜名湖のテーマ～特上ウナギは誘惑する～"
+
+[[discs.tracks]]
+title = "浜名湖のテーマ～古びた展望台～"
+
+[[discs.tracks]]
+title = "浜名湖のテーマ～さみしいもたのしい～"
+
+[[discs.tracks]]
+title = "なでしこ"
+
+[[discs.tracks]]
+title = "お姉ちゃんいつもありがとう"
+
+[[discs.tracks]]
+title = "のんびりキャンプ"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その4"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "山中湖のテーマ～バス旅も良いもんだろ?～"
+
+[[discs.tracks]]
+title = "山中湖のテーマ～到着、クジラの湖～"
+
+[[discs.tracks]]
+title = "山中湖のテーマ～-2℃、ヤバいかも～"
+
+[[discs.tracks]]
+title = "山中湖のテーマ～薪ストーブを囲んで～"
+
+[[discs.tracks]]
+title = "山中湖のテーマ～湖畔の朝焼け～"
+
+[[discs.tracks]]
+title = "なでしこの思い"
+
+[[discs.tracks]]
+title = "U・SO・YA・DE"
+
+[[discs.tracks]]
+title = "次回予告"
+
+[[discs]]
+catalog = "USSW-0288-02"
+
+[[discs.tracks]]
+title = "この場所で。"
+artist = "屋内活動サ一クル（亜咲花、佐々木恵梨）"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その5"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "やっぱグループキャンプ!"
+
+[[discs.tracks]]
+title = "野田山公園のテーマ～初めてのソロキャン～"
+
+[[discs.tracks]]
+title = "野田山公園のテーマ～キャンプ料理は楽し～"
+
+[[discs.tracks]]
+title = "野田山公園のテーマ～夜景に馳せた思い～"
+
+[[discs.tracks]]
+title = "ふしぎの湖"
+
+[[discs.tracks]]
+title = "なでしこは電波通じないだけ"
+
+[[discs.tracks]]
+title = "しょーもないおしゃべり"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その6"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "おじいちゃんはバイク乗り"
+
+[[discs.tracks]]
+title = "おじいちゃんとの団欒"
+
+[[discs.tracks]]
+title = "おじいちゃん、また走ろうね"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その7"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ようこそジオパークへ"
+
+[[discs.tracks]]
+title = "大ハシャギ ROUTE136"
+
+[[discs.tracks]]
+title = "歴史ある半島"
+
+[[discs.tracks]]
+title = "海!山!岬!洞窟!"
+
+[[discs.tracks]]
+title = "半島の風に吹かれて"
+
+[[discs.tracks]]
+title = "魅惑のペニンシュラ"
+
+[[discs.tracks]]
+title = "火山の作りし大地"
+
+[[discs.tracks]]
+title = "温泉天国ジオパーク"
+
+[[discs.tracks]]
+title = "ずいずいずいずいずい"
+
+[[discs.tracks]]
+title = "星空のチャランゴ"
+
+[[discs.tracks]]
+title = "オリジナルドラマ その8"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+
+[[discs.tracks]]
+title = "また行こう、キャンプ!"
+
+[[discs.tracks]]
+title = "はるのとなり (TV SIZE)"
+artist = "佐々木恵梨"
+type = "normal"
+
+[[discs.tracks]]
+title = "しまリンだんごアイス"

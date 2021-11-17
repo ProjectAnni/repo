@@ -1,0 +1,28 @@
+[album]
+title = "Switch／PS4『ゆるキャン△ Have a nice day!』OP&ED"
+artist = "Various Artists"
+date = 2021-11-11
+type = "normal"
+catalog = "FPBD-0663"
+tags = ["ゆるキャン△ Have a nice day!"]
+
+[[discs]]
+catalog = "FPBD-0663"
+
+[[discs.tracks]]
+title = "See The Light"
+artist = "亜咲花"
+
+[[discs.tracks]]
+title = "ロッホと旅人"
+artist = "佐々木恵梨"
+
+[[discs.tracks]]
+title = "See The Light - off vocal"
+artist = "亜咲花"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ロッホと旅人 - off vocal"
+artist = "佐々木恵梨"
+type = "instrumental"

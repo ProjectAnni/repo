@@ -1,0 +1,84 @@
+[album]
+title = "ショートアニメ『へやキャン△』オリジナル・サウンドトラック"
+artist = "立山秋航"
+date = 2020-03-25
+type = "absolute"
+catalog = "USSW-0245"
+tags = ["へやキャン△"]
+
+[[discs]]
+catalog = "USSW-0245"
+
+[[discs.tracks]]
+title = "旅が僕らを呼んでいる ～へやキャン△のテーマ～"
+
+[[discs.tracks]]
+title = "アルプスの見える街"
+
+[[discs.tracks]]
+title = "ぶどう畑でつかまえて"
+
+[[discs.tracks]]
+title = "C列車で行こう"
+
+[[discs.tracks]]
+title = "SlowAirな季節"
+
+[[discs.tracks]]
+title = "のんびり三人娘"
+
+[[discs.tracks]]
+title = "ペダルは回るよどこまでも"
+
+[[discs.tracks]]
+title = "FUJIYAMAロックンロール"
+
+[[discs.tracks]]
+title = "火の粉見つめて"
+
+[[discs.tracks]]
+title = "私達の好きな場所"
+
+[[discs.tracks]]
+title = "焚き火が夜空を照らしたら"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #1"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #2"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #3"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #4"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #5"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #6"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #7"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #8"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #9"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #10"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #11"
+
+[[discs.tracks]]
+title = "へやキャン△組曲 #12"
+
+[[discs.tracks]]
+title = "The Sunshower (TV SIZE)"
+artist = "亜咲花"
+type = "normal"

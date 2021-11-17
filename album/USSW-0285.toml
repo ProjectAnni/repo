@@ -1,0 +1,36 @@
+[album]
+title = "Seize The Day【アニメ盤】"
+artist = "亜咲花"
+date = 2021-01-27
+type = "normal"
+catalog = "USSW-0285"
+tags = ["ゆるキャン△ SEASON2"]
+
+[[discs]]
+catalog = "USSW-0285"
+
+[[discs.tracks]]
+title = "Seize The Day"
+
+[[discs.tracks]]
+title = "オリジナルミニドラマ「年越し」"
+artist = "各務原なでしこ（花守ゆみり）、土岐綾乃（黒沢ともよ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "NO MORE PEAKY MODE"
+
+[[discs.tracks]]
+title = "Party Fever Night!!"
+
+[[discs.tracks]]
+title = "Seize The Day -off vocal-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "NO MORE PEAKY MODE -off vocal-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Party Fever Night!! -off vocal-"
+type = "instrumental"

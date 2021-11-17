@@ -1,9 +1,11 @@
 [album]
 title = "SHINY DAYS"
+edition = "ゆるキャン△盤"
 artist = "亜咲花"
 date = 2018-01-24
 type = "normal"
 catalog = "USSW-0070"
+tags = ["ゆるキャン△"]
 
 [[discs]]
 catalog = "USSW-0070"
