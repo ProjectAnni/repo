@@ -1,0 +1,24 @@
+[album]
+title = "RAD DOGS／シネマ"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、初音ミク、KAITO"
+date = 2021-11-17
+type = "normal"
+catalog = "BRMM-10457"
+tags = ["Vivid BAD SQUAD"]
+
+[[discs]]
+catalog = "BRMM-10457"
+
+[[discs.tracks]]
+title = "RAD DOGS"
+
+[[discs.tracks]]
+title = "シネマ"
+
+[[discs.tracks]]
+title = "RAD DOGS (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シネマ (instrumental)"
+type = "instrumental"
