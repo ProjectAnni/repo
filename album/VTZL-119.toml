@@ -1,0 +1,31 @@
+[album]
+title = "True Destiny／Chain the world"
+artist = "東山奈央"
+date = 2017-02-01
+type = "normal"
+catalog = "VTZL-119"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-119"
+
+[[discs.tracks]]
+title = "True Destiny"
+
+[[discs.tracks]]
+title = "Chain the world"
+
+[[discs.tracks]]
+title = "I WILL"
+
+[[discs.tracks]]
+title = "True Destiny (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Chain the world (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "I WILL (Instrumental ver.)"
+type = "instrumental"

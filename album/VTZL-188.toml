@@ -1,0 +1,31 @@
+[album]
+title = "冷めない魔法"
+artist = "東山奈央"
+date = 2021-11-03
+type = "normal"
+catalog = "VTZL-188"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-185"
+
+[[discs.tracks]]
+title = "冷めない魔法"
+
+[[discs.tracks]]
+title = "ワゴン"
+
+[[discs.tracks]]
+title = "シアワセリクエスト"
+
+[[discs.tracks]]
+title = "冷めない魔法 (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ワゴン (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シアワセリクエスト (Instrumental ver.)"
+type = "instrumental"

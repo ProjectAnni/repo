@@ -1,0 +1,43 @@
+[album]
+title = "群青インフィニティ"
+artist = "東山奈央"
+date = 2019-04-03
+type = "normal"
+catalog = "VTZL-156"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-156"
+
+[[discs.tracks]]
+title = "群青インフィニティ"
+
+[[discs.tracks]]
+title = "Action"
+
+[[discs.tracks]]
+title = "青空ダイアリー"
+
+[[discs.tracks]]
+title = "灯火のまにまに"
+
+[[discs.tracks]]
+title = "I Want You To Know Baby"
+
+[[discs.tracks]]
+title = "さよならモラトリアム"
+
+[[discs.tracks]]
+title = "Living Dying Kissin'"
+
+[[discs.tracks]]
+title = "ゆれる"
+
+[[discs.tracks]]
+title = "奇跡"
+
+[[discs.tracks]]
+title = "未来YELL!"
+
+[[discs.tracks]]
+title = "はじまりの空"

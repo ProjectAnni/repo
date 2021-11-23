@@ -1,0 +1,21 @@
+[album]
+title = "Wonder Love"
+artist = "東山奈央"
+date = 2020-08-05
+type = "normal"
+catalog = "CSA-338"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "CSA-338"
+
+[[discs.tracks]]
+title = "Wonder Love"
+
+[[discs.tracks]]
+title = "Wonder Love (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スペシャルトーク (ボーナストラック)"
+type = "vocal"
