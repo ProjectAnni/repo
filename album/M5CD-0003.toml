@@ -1,0 +1,46 @@
+[album]
+title = "天马行空Fairytale"
+artist = "星尘、赤羽、诗岸"
+date = 2019-07-06
+type = "normal"
+catalog = "M5CD-0003"
+tags = ["星尘", "赤羽", "诗岸", "平行四界 五维介质"]
+
+[[discs]]
+catalog = "M5CD-0003"
+
+[[discs.tracks]]
+title = "Misty Party"
+artist = "Hoskey、星尘、赤羽、诗岸"
+
+[[discs.tracks]]
+title = "寓言预见遇见你的那刻"
+artist = "小野道、诗岸"
+
+[[discs.tracks]]
+title = "菲尼克斯的羽翼"
+artist = "战场原妖精、赤羽"
+
+[[discs.tracks]]
+title = "ArroganT"
+artist = "Kide、星尘"
+
+[[discs.tracks]]
+title = "森林之子"
+artist = "星辉、诗岸"
+
+[[discs.tracks]]
+title = "翡夜Racing Game"
+artist = "Zeno、赤羽"
+
+[[discs.tracks]]
+title = "小魔女的占卜屋"
+artist = "泓、星尘"
+
+[[discs.tracks]]
+title = "为新生振翅而上"
+artist = "Melo、星尘"
+
+[[discs.tracks]]
+title = "404 Not Found"
+artist = "Kide、赤羽"

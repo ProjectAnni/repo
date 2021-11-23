@@ -1,0 +1,66 @@
+[album]
+title = "平行四界LIVE TOUR OFFICIAL ALBUM"
+artist = "星尘"
+date = 2017-09-15
+type = "normal"
+catalog = "QMCD-0008"
+tags = ["星尘"]
+
+[[discs]]
+catalog = "QMCD-0008"
+
+[[discs.tracks]]
+title = "夏末恋爱"
+artist = "ANK、星尘"
+
+[[discs.tracks]]
+title = "头痛欲裂"
+artist = "leeyang、星尘"
+
+[[discs.tracks]]
+title = "流光"
+artist = "Zeno、星尘"
+
+[[discs.tracks]]
+title = "Ame"
+artist = "St.K4N3、星尘"
+
+[[discs.tracks]]
+title = "悲-sorrow-"
+artist = "Ceekyo、星尘"
+
+[[discs.tracks]]
+title = "尘降"
+artist = "COP、星尘"
+
+[[discs.tracks]]
+title = "桃仙姑"
+artist = "MeLo、星尘"
+
+[[discs.tracks]]
+title = "海风以南"
+artist = "小野道、星尘"
+
+[[discs.tracks]]
+title = "痴人梦话"
+artist = "芹菜猪肉大馄饨、星尘"
+
+[[discs.tracks]]
+title = "Signal Scream"
+artist = "ZOMiG、星尘"
+
+[[discs.tracks]]
+title = "Gravity"
+artist = "便器p、星尘"
+
+[[discs.tracks]]
+title = "忧-blue-"
+artist = "Ceekyo、星尘"
+
+[[discs.tracks]]
+title = "D!sappear"
+artist = "Zeno、星尘"
+
+[[discs.tracks]]
+title = "染殇"
+artist = "Ddickky、星尘"

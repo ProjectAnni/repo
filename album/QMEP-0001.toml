@@ -1,0 +1,46 @@
+[album]
+title = "平行四界×轻文轻小说 EP Vol.1"
+artist = "星尘"
+date = 2016-11-30
+type = "normal"
+catalog = "QMEP-0001"
+tags = ["星尘", "平行四界 EP"]
+
+[[discs]]
+catalog = "QMEP-0001"
+
+[[discs.tracks]]
+title = "青春计算式"
+artist = "纯白、星尘"
+
+[[discs.tracks]]
+title = "神圣之名"
+artist = "希望索任合资、星尘"
+
+[[discs.tracks]]
+title = "剑雪清寒"
+artist = "Eurico、乌龟Sui、星尘"
+
+[[discs.tracks]]
+title = "苍白梦书"
+artist = "小野道、星尘"
+
+[[discs.tracks]]
+title = "青春计算式 -Instrumental-"
+artist = "纯白"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "神圣之名"
+artist = "希望索任合资 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "剑雪清寒 -Instrumental-"
+artist = "Eurico、乌龟Sui"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "苍白梦书 -Instrumental-"
+artist = "小野道"
+type = "instrumental"

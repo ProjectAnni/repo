@@ -1,0 +1,46 @@
+[album]
+title = "丛林法则Jungle Rules"
+artist = "星尘、苍穹、诗岸"
+date = 2020-02-28
+type = "normal"
+catalog = "M5CD-0005"
+tags = ["星尘", "苍穹", "诗岸", "平行四界 五维介质"]
+
+[[discs]]
+catalog = "M5CD-0005"
+
+[[discs.tracks]]
+title = "丛林法则"
+artist = "Evalia、星尘、苍穹、诗岸"
+
+[[discs.tracks]]
+title = "光明之森"
+artist = "哈密瓜、诗岸"
+
+[[discs.tracks]]
+title = "西西里的自由诗"
+artist = "MeLo、苍穹、诗岸"
+
+[[discs.tracks]]
+title = "背井之神"
+artist = "十音、苍穹"
+
+[[discs.tracks]]
+title = "禁忌Apple Dance"
+artist = "Zeno、诗岸"
+
+[[discs.tracks]]
+title = "恋爱习题"
+artist = "小野道、星尘、诗岸"
+
+[[discs.tracks]]
+title = "修月匠"
+artist = "星辉、星尘"
+
+[[discs.tracks]]
+title = "Strayed Stalker - 迷路的跟踪狂"
+artist = "磁带君、星尘、苍穹"
+
+[[discs.tracks]]
+title = "与她宴"
+artist = "MeLo、苍穹"

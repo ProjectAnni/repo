@@ -1,0 +1,46 @@
+[album]
+title = "平行四界Quadimension 3"
+artist = "洛天依、乐正绫"
+date = 2015-07-15
+type = "normal"
+catalog = "QMCD-0003"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0003"
+
+[[discs.tracks]]
+title = "粉色柠檬"
+artist = "战场原妖精、洛天依、乐正绫"
+
+[[discs.tracks]]
+title = "Princess Syndrome"
+artist = "かごめP、洛天依"
+
+[[discs.tracks]]
+title = "Scarlet Drop"
+artist = "人形兎、乐正绫"
+
+[[discs.tracks]]
+title = "Hemisphere"
+artist = "St.K4N3、洛天依&乐正绫"
+
+[[discs.tracks]]
+title = "Overresonated"
+artist = "ZOMiG、洛天依"
+
+[[discs.tracks]]
+title = "共鸣曲"
+artist = "Li Zong、洛天依"
+
+[[discs.tracks]]
+title = "梨花泽泽远山远"
+artist = "Melo、洛天依"
+
+[[discs.tracks]]
+title = "渊之心"
+artist = "Zeno、乐正绫"
+
+[[discs.tracks]]
+title = "Seattle物语II"
+artist = "Ddickky、洛天依、乐正绫"
