@@ -1,0 +1,63 @@
+[album]
+title = "ルチはやアイドルソングCD「ピュアネスラプソディー」"
+artist = "Key Sounds Label"
+date = 2016-12-29
+type = "normal"
+catalog = "KSLA-0128"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0128"
+artist = "ルチはや（此花ルチア（朝樹りさ）、鳯ちはや（篠宮沙弥））"
+
+[[discs.tracks]]
+title = "Princess is The Princess"
+
+[[discs.tracks]]
+title = "Fledglings girls!!"
+
+[[discs.tracks]]
+title = "Philosophyz"
+
+[[discs.tracks]]
+title = "サンブライト"
+artist = "此花ルチア（朝樹りさ）"
+
+[[discs.tracks]]
+title = "恋桜開花前線"
+artist = "鳯ちはや（篠宮沙弥）"
+
+[[discs.tracks]]
+title = "恋のルチはや♡ローリング"
+
+[[discs.tracks]]
+title = "Princess is The Princess ルチアソロ ver."
+artist = "此花ルチア（朝樹りさ）"
+
+[[discs.tracks]]
+title = "Princess is The Princess ちはやソロ ver."
+artist = "鳯ちはや（篠宮沙弥）"
+
+[[discs.tracks]]
+title = "Fledglings girls!! ルチアソロ ver."
+artist = "此花ルチア（朝樹りさ）"
+
+[[discs.tracks]]
+title = "Fledglings girls!! ちはやソロ ver."
+artist = "鳯ちはや（篠宮沙弥）"
+
+[[discs.tracks]]
+title = "Philosophyz ルチアソロ ver."
+artist = "此花ルチア（朝樹りさ）"
+
+[[discs.tracks]]
+title = "Philosophyz ちはやソロ ver."
+artist = "鳯ちはや（篠宮沙弥）"
+
+[[discs.tracks]]
+title = "恋のルチはや♡ローリング ルチアソロ ver."
+artist = "此花ルチア（朝樹りさ）"
+
+[[discs.tracks]]
+title = "恋のルチはや♡ローリング ちはやソロ ver."
+artist = "鳯ちはや（篠宮沙弥）"

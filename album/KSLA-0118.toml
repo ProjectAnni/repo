@@ -1,0 +1,33 @@
+[album]
+title = "Philosophyz／ささやかなはじまり"
+artist = "Key Sounds Label"
+date = 2016-07-27
+type = "normal"
+catalog = "KSLA-0118"
+tags = ["Rewrite:アニメ"]
+
+[[discs]]
+catalog = "KSLA-0118"
+artist = "水谷瑠奈"
+
+[[discs.tracks]]
+title = "Philosophyz ～TV animation ver.～"
+
+[[discs.tracks]]
+title = "ささやかなはじまり ～TV animation ver.～"
+
+[[discs.tracks]]
+title = "Philosophyz ～TV animation ver.～ (TVsize)"
+
+[[discs.tracks]]
+title = "ささやかなはじまり ～TV animation ver.～ (TVsize)"
+
+[[discs.tracks]]
+title = "Philosophyz ～TV animation ver.～ (Instrumental)"
+artist = "折戸伸治"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ささやかなはじまり ～TV animation ver.～ (Instrumental)"
+artist = "塚越雄一朗"
+type = "instrumental"

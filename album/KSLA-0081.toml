@@ -1,0 +1,70 @@
+[album]
+title = "'Feast' Rewrite Harvest festa! Original Soundtrack"
+artist = "Key Sounds Label"
+date = 2012-07-27
+type = "absolute"
+catalog = "KSLA-0081"
+tags = ["Rewrite Harvest festa!"]
+
+[[discs]]
+catalog = "KSLA-0081"
+
+[[discs.tracks]]
+title = "Harvest"
+artist = "多田葵"
+type = "normal"
+
+[[discs.tracks]]
+title = "irrigated land"
+artist = "塚越雄一朗"
+
+[[discs.tracks]]
+title = "萌芽"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "ムーンブライト"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Quaesitor"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "Fight for nowhere"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "winners!"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Redemptor"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "愛を灌ぐ"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "夜露"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "ささやかなはじまり"
+artist = "水谷瑠奈"
+type = "normal"
+
+[[discs.tracks]]
+title = "irrigated land ～echo～"
+artist = "塚越雄一朗"
+
+[[discs.tracks]]
+title = "Harvest Game size Ver"
+artist = "多田葵"
+type = "normal"
+
+[[discs.tracks]]
+title = "ささやかなはじまり Game size Ver"
+artist = "水谷瑠奈"
+type = "normal"

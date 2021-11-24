@@ -1,0 +1,13 @@
+[album]
+title = "ラジオRewrite 月刊テラ・風祭学院支局"
+artist = "森田成一、斎藤千和"
+date = 2011-06-24
+type = "radio"
+catalog = "VA-00112D"
+tags = ["ラジオRewrite 月刊テラ・風祭学院支局"]
+
+[[discs]]
+catalog = "VA-00112D"
+
+[[discs.tracks]]
+title = "Rewrite -リライト- 初回特典 録り下ろしRewriteラジオCD"

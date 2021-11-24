@@ -1,0 +1,47 @@
+[album]
+title = "Rewrite Arrangement Album 'Branch'"
+artist = "Key Sounds Label"
+date = 2011-12-29
+type = "absolute"
+catalog = "KSLA-0076"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0076"
+
+[[discs.tracks]]
+title = "旅"
+artist = "井内啓二"
+
+[[discs.tracks]]
+title = "Fertilizer"
+artist = "mao"
+type = "normal"
+
+[[discs.tracks]]
+title = "ニリンソウ"
+artist = "桐岡麻季"
+
+[[discs.tracks]]
+title = "Little Forest"
+artist = "やなぎなぎ"
+type = "normal"
+
+[[discs.tracks]]
+title = "Orbita"
+artist = "Annabel"
+type = "normal"
+
+[[discs.tracks]]
+title = "過日憐歌"
+artist = "mao"
+type = "normal"
+
+[[discs.tracks]]
+title = "大地～Radiance"
+artist = "坂本英城"
+
+[[discs.tracks]]
+title = "Reply"
+artist = "やなぎなぎ"
+type = "normal"

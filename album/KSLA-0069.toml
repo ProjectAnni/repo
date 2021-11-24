@@ -1,0 +1,28 @@
+[album]
+title = "Rewrite 2nd Opening Theme song／Rewrite"
+artist = "Key Sounds Label"
+date = 2011-05-27
+type = "normal"
+catalog = "KSLA-0069"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0069"
+
+[[discs.tracks]]
+title = "Rewrite"
+artist = "サイキックラバー"
+
+[[discs.tracks]]
+title = "Rewrite Game size Ver."
+artist = "サイキックラバー"
+
+[[discs.tracks]]
+title = "Rewrite off vocal Ver."
+artist = "YOFFY、大石憲一郎"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rewrite Instrumental Ver."
+artist = "YOFFY、大石憲一郎"
+type = "instrumental"

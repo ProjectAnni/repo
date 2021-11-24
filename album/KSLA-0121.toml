@@ -1,0 +1,30 @@
+[album]
+title = "Word of Dawn／おきらく☆きゅうさい"
+artist = "Key Sounds Label"
+date = 2016-09-21
+type = "normal"
+catalog = "KSLA-0121"
+tags = ["Rewrite:アニメ"]
+
+[[discs]]
+catalog = "KSLA-0121"
+artist = "多田葵"
+
+[[discs.tracks]]
+title = "Word of Dawn"
+
+[[discs.tracks]]
+title = "おきらく☆きゅうさい"
+
+[[discs.tracks]]
+title = "Word of Dawn (TVSize)"
+
+[[discs.tracks]]
+title = "Word of Dawn (Instrumental)"
+artist = "竹下智博"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おきらく☆きゅうさい (Instrumental)"
+artist = "竹下智博"
+type = "instrumental"

@@ -1,0 +1,47 @@
+[album]
+title = "Rewrite & Rewrite Harvest festa! Arrange Album 'dye mixture'"
+artist = "Key Sounds Label"
+date = 2014-03-28
+type = "absolute"
+catalog = "KSLA-0091"
+tags = ["Rewrite", "Rewrite Harvest festa!"]
+
+[[discs]]
+catalog = "KSLA-0091"
+artist = "MintJam"
+
+[[discs.tracks]]
+title = "Harvest"
+artist = "多田葵"
+type = "normal"
+
+[[discs.tracks]]
+title = "Potted one"
+
+[[discs.tracks]]
+title = "刈り"
+
+[[discs.tracks]]
+title = "Fight for nowhere"
+
+[[discs.tracks]]
+title = "Sorrowless"
+
+[[discs.tracks]]
+title = "Remembrance"
+
+[[discs.tracks]]
+title = "恋文"
+artist = "やなぎなぎ"
+type = "normal"
+
+[[discs.tracks]]
+title = "Radiance"
+
+[[discs.tracks]]
+title = "Reply"
+
+[[discs.tracks]]
+title = "ささやかなはじまり"
+artist = "水谷瑠奈"
+type = "normal"
