@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.4 如月千早＆ちひゃー＋菊地真＆まこちー"
+artist = "Various Artists"
+date = 2014-07-09
+type = "normal"
+catalog = "MFCZ-1050"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1050"
+
+[[discs.tracks]]
+title = "しっくりとゆっくりと"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -千早とちひゃーへん-"
+artist = "如月千早（今井麻美）、ちひゃー（今井麻美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "たいせつなひと"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -真とまこちーへん-"
+artist = "菊地真（平田宏美）、まこちー（平田宏美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "しっくりとゆっくりと off vocal"
+artist = "如月千早（今井麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "たいせつなひと off vocal"
+artist = "菊地真（平田宏美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハロー＊ランチタイム"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "ハロー＊ランチタイム"
+artist = "菊地真（平田宏美）"

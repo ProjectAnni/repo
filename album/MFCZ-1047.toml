@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.1 高槻やよい＆やよ＋水瀬伊織＆いお"
+artist = "Various Artists"
+date = 2014-05-28
+type = "normal"
+catalog = "MFCZ-1047"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1047"
+
+[[discs.tracks]]
+title = "カンゲキハッピーエコロジー"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -やよいとやよへん-"
+artist = "高槻やよい（仁後真耶子）、やよ（仁後真耶子）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "エピソードラブ"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -伊織といおへん-"
+artist = "水瀬伊織（釘宮理恵）、いお（釘宮理恵）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "カンゲキハッピーエコロジー off vocal"
+artist = "高槻やよい（仁後真耶子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "エピソードラブ off vocal"
+artist = "水瀬伊織（釘宮理恵）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オハヨ○サンシャイン"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "オハヨ○サンシャイン"
+artist = "水瀬伊織（釘宮理恵）"

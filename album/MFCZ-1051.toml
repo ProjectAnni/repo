@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.5 萩原雪歩＆ゆきぽ＋星井美希＆あふぅ"
+artist = "Various Artists"
+date = 2014-07-30
+type = "normal"
+catalog = "MFCZ-1051"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1051"
+
+[[discs.tracks]]
+title = "Pu-Ru-Ru"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -雪歩とゆきぽへん-"
+artist = "萩原雪歩（浅倉杏美）、ゆきぽ（浅倉杏美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "チャンピオン"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -美希とあふぅへん-"
+artist = "星井美希（長谷川明子）、あふぅ（長谷川明子）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Pu-Ru-Ru off vocal"
+artist = "萩原雪歩（浅倉杏美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チャンピオン off vocal"
+artist = "星井美希（長谷川明子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "グッナイ☆スターズ"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "グッナイ☆スターズ"
+artist = "星井美希（長谷川明子）"

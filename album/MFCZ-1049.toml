@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.3 秋月律子＆ちっちゃん＋天海春香＆はるかさん"
+artist = "Various Artists"
+date = 2014-06-25
+type = "normal"
+catalog = "MFCZ-1049"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1049"
+
+[[discs.tracks]]
+title = "Q&A"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -律子とちっちゃんへん-"
+artist = "秋月律子（若林直美）、ちっちゃん（若林直美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "前向きで行こう♪"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -春香とはるかさんへん-"
+artist = "天海春香（中村繪里子）、はるかさん（中村繪里子）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Q&A off vocal"
+artist = "秋月律子（若林直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "前向きで行こう♪ off vocal"
+artist = "天海春香（中村繪里子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハロー＊ランチタイム"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ハロー＊ランチタイム"
+artist = "天海春香（中村繪里子）"

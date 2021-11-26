@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.2 四条貴音＆たかにゃ＋我那覇響＆ちびき"
+artist = "Various Artists"
+date = 2014-06-04
+type = "normal"
+catalog = "MFCZ-1048"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1048"
+
+[[discs.tracks]]
+title = "月ノ桜"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -貴音とたかにゃへん-"
+artist = "四条貴音（原由実）、たかにゃ（原由実）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "天と海の島"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -響とちびきへん-"
+artist = "我那覇響（沼倉愛美）、ちびき（沼倉愛美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "月ノ桜 off vocal"
+artist = "四条貴音（原由実）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "天と海の島 off vocal"
+artist = "我那覇響（沼倉愛美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "グッナイ☆スターズ"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "オハヨ○サンシャイン"
+artist = "我那覇響（沼倉愛美）"

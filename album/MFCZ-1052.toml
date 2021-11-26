@@ -1,0 +1,46 @@
+[album]
+title = "PETIT IDOLM@STER Twelve Campaigns! Vol.6 双海亜美・真美＆こあみ・こまみ＋三浦あずさ＆みうらさん"
+artist = "Various Artists"
+date = 2014-08-06
+type = "normal"
+catalog = "MFCZ-1052"
+tags = ["PETIT IDOLM@STER Twelve Campaigns!"]
+
+[[discs]]
+catalog = "MFCZ-1052"
+
+[[discs.tracks]]
+title = "どっきり☆ハピバ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -亜美・真美とこあみ・こまみへん-"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、こあみ（下田麻美）、こまみ（下田麻美）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "LOOK THE SKY"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "朝の連続ぷちドラマ みんなできゃんぺーん -あずさとみうらさんへん-"
+artist = "三浦あずさ（たかはし智秋）、みうらさん（たかはし智秋）、プロデューサー（間島淳司）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "どっきり☆ハピバ off vocal"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "LOOK THE SKY off vocal"
+artist = "三浦あずさ（たかはし智秋）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オハヨ○サンシャイン"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "グッナイ☆スターズ"
+artist = "三浦あずさ（たかはし智秋）"
