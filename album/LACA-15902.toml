@@ -1,0 +1,34 @@
+[album]
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 02"
+artist = "Various Artists"
+date = 2021-11-24
+type = "normal"
+catalog = "LACA-15902"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15902"
+
+[[discs.tracks]]
+title = "ピカリピックアップ！"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "勇気のfragrance"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "キミが真ん中にいた"
+artist = "中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "アイドルは、かく語りき"
+artist = "松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "君に映るポートレイト"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Dual Style Idol"
+artist = "舞浜歩（戸田めぐみ）"

@@ -3,10 +3,11 @@ title = "Emotional Daybreak -SINGLES BEST-"
 artist = "遠藤ゆりか"
 date = 2018-05-09
 type = "normal"
-catalog = "PCCG.01674"
+catalog = "PCCG-01674"
+tags = ["遠藤ゆりか"]
 
 [[discs]]
-catalog = "PCCG.01674"
+catalog = "PCCG-01674"
 
 [[discs.tracks]]
 title = "knight-night. (Album ver.)"

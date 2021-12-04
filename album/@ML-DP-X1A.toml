@@ -1,0 +1,38 @@
+[album]
+title = "THE IDOLM@STER THREE STARS!!!"
+artist = "Various Artists"
+date = { year = 2017, month = 5 }
+type = "normal"
+catalog = "@ML-DP-X1A"
+tags = ["THE IDOLM@STER Million Live"]
+
+[[discs]]
+catalog = "@ML-DP-X1A"
+
+[[discs.tracks]]
+title = "M@STERPIECE"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+
+[[discs.tracks]]
+title = "眠り姫"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (M@STER VERSION)"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（島村卯月（大橋彩香）、小日向美穂（津田美波）、三村かな子（大坪由佳）、渋谷凜（福原綾香）、多田李衣菜（青木瑠璃子）、神崎蘭子（内田真礼）、本田未央（原紗友里）、城ヶ崎美嘉（佳村はるか）、城ヶ崎莉嘉（山本希望））"
+
+[[discs.tracks]]
+title = "Twilight Sky"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Thank You! 765 THEATER ver."
+artist = "765 THEATER ALLSTARS"
+
+[[discs.tracks]]
+title = "Precious Grain"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "アイ MUST GO！"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico）"

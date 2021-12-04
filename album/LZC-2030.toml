@@ -1,0 +1,13 @@
+[album]
+title = "産声とクラブ"
+artist = "箱崎星梨花（麻倉もも）、三浦あずさ（たかはし智秋）、高坂海美（上田麗奈）、ロコ（中村温姫）"
+date = 2021-11-26
+type = "normal"
+catalog = "LZC-2030"
+tags = ["THE IDOLM@STER Million Live"]
+
+[[discs]]
+catalog = "LZC-2030"
+
+[[discs.tracks]]
+title = "産声とクラブ"
