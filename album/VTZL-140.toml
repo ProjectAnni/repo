@@ -1,0 +1,52 @@
+[album]
+title = "Rainbow"
+artist = "東山奈央"
+date = 2017-10-25
+type = "normal"
+catalog = "VTZL-140"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-140"
+
+[[discs.tracks]]
+title = "君と僕のシンフォニー"
+
+[[discs.tracks]]
+title = "Day by Day"
+
+[[discs.tracks]]
+title = "グッバイ・アンブレラ"
+
+[[discs.tracks]]
+title = "オトメイロ"
+
+[[discs.tracks]]
+title = "君の笑顔に恋してる"
+
+[[discs.tracks]]
+title = "ガラクタフルワールド"
+
+[[discs.tracks]]
+title = "StarLight"
+
+[[discs.tracks]]
+title = "My Way"
+
+[[discs.tracks]]
+title = "星ノ標"
+
+[[discs.tracks]]
+title = "月がきれい"
+
+[[discs.tracks]]
+title = "イマココ"
+
+[[discs.tracks]]
+title = "True Destiny"
+
+[[discs.tracks]]
+title = "Chain the world"
+
+[[discs.tracks]]
+title = "Rainbow"

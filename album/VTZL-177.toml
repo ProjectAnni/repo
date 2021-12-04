@@ -1,0 +1,129 @@
+[album]
+title = "Special Thanks!"
+artist = "東山奈央"
+date = 2020-08-05
+type = "normal"
+catalog = "VTZL-177"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-177-01"
+
+[[discs.tracks]]
+title = "進め！金剛型四姉妹（TVアニメ『艦隊これくしょん -艦これ-』）"
+artist = "金剛型四姉妹【金剛・比叡・榛名・霧島】（東山奈央）"
+
+[[discs.tracks]]
+title = "Dearest Wish（TVアニメ『魔法戦争』）"
+artist = "相羽六（東山奈央）"
+
+[[discs.tracks]]
+title = "Jumping!!（TVアニメ『きんいろモザイク』）"
+artist = "九条カレン（東山奈央）"
+
+[[discs.tracks]]
+title = "Secret Café（ラジオ『東山奈央のドリーム＊シアター』）"
+artist = "桃山奈央（東山奈央）"
+
+[[discs.tracks]]
+title = "Silent Hacker（TVアニメ『マクロスΔ』）"
+artist = "ワルキューレ（レイナΔ東山奈央/美雲ΔJUNNA/フレイアΔ鈴木みのり/カナメΔ安野希世乃/マキナΔ西田望見）"
+
+[[discs.tracks]]
+title = "Respect? < LOVE!!（TVアニメ『はたらく魔王さま！』）"
+artist = "佐々木千穂（東山奈央）"
+
+[[discs.tracks]]
+title = "fragile（TVアニメ「月がきれい」EDIT ver.）（TVアニメ『月がきれい』）"
+artist = "東山奈央"
+
+[[discs.tracks]]
+title = "未来物語（TVアニメ『THE UNLIMITED 兵部京介』）"
+artist = "ユウギリ（東山奈央）"
+
+[[discs.tracks]]
+title = "DEDICATE（TVアニメ『ノブナガ・ザ・フール』）"
+artist = "ヒミコ（東山奈央）"
+
+[[discs.tracks]]
+title = "風にまかせて（TVアニメ『異国迷路のクロワーゼ The Animation』）"
+artist = "湯音（東山奈央）"
+
+[[discs.tracks]]
+title = "らぶこーる（TVアニメ『神のみぞ知るセカイ』）"
+artist = "中川かのん（東山奈央）"
+
+[[discs.tracks]]
+title = "ハッピークレセント（TVアニメ『神のみぞ知るセカイ』）"
+artist = "中川かのん（東山奈央）"
+
+[[discs]]
+catalog = "VTZL-177-02"
+
+[[discs.tracks]]
+title = "キミとボクのミライ ～Lyria Ver.～（ゲーム『GRANBLUE FANTASY』）"
+artist = "ルリア（東山奈央）"
+
+[[discs.tracks]]
+title = "一度だけの恋なら ～Reina Solo～（TVアニメ『マクロスΔ』）"
+artist = "レイナΔ（東山奈央）"
+
+[[discs.tracks]]
+title = "わたしいろダリア（TVアニメ『ハロー!!きんいろモザイク』）"
+artist = "九条カレン（東山奈央）"
+
+[[discs.tracks]]
+title = "ニセモノ注意報（終焉ノ栞プロジェクト）"
+artist = "B子（東山奈央）"
+
+[[discs.tracks]]
+title = "Expose（TVアニメ『蒼き鋼のアルペジオ -アルス・ノヴァ-』）"
+artist = "八月一日静（東山奈央）、四月一日いおり（津田美波）"
+
+[[discs.tracks]]
+title = "とうめいな、みずうみ（TVアニメ『GATE 自衛隊 彼の地にて、斯く戦えり』）"
+artist = "レレイ（東山奈央）"
+
+[[discs.tracks]]
+title = "ブルースケジュール（TVアニメ『ニセコイ』）"
+artist = "桐崎千棘（東山奈央）"
+
+[[discs.tracks]]
+title = "ユメトユメ（TVアニメ『魔法少女育成計画』）"
+artist = "スノーホワイト（東山奈央）、ラ・ピュセル（佐倉綾音）"
+
+[[discs.tracks]]
+title = "エブリデイワールド-Ballade Arrange-Yui Solo Ver.（TVアニメ『やはり俺の青春ラブコメはまちがっている。続』）"
+artist = "由比ヶ浜結衣（東山奈央）"
+
+[[discs.tracks]]
+title = "にんげんのうた（TVアニメ『まおゆう魔王勇者』）"
+artist = "メイド妹（東山奈央）"
+
+[[discs.tracks]]
+title = 'ReSTART "THE WORLD"（Logos Art Form in Dark）（TVアニメ『トリニティセブン』）'
+artist = "リーゼロッテ＝シャルロック（東山奈央）"
+
+[[discs.tracks]]
+title = "Heart Pattern（TVアニメ『ニセコイ』）"
+artist = "桐崎千棘（東山奈央）"
+
+[[discs.tracks]]
+title = "ここからはじまる物語（TVアニメ『異国迷路のクロワーゼ The Animation』）"
+artist = "湯音（東山奈央）"
+
+[[discs]]
+catalog = "VTZL-177-03"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+
+[[discs.tracks]]
+title = "春擬き"
+
+[[discs.tracks]]
+title = "これから"
+
+[[discs.tracks]]
+title = "朗読劇「夢の軌跡」"
+type = "drama"

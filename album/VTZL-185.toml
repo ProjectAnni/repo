@@ -1,0 +1,28 @@
+[album]
+title = "off"
+artist = "東山奈央"
+date = 2021-05-12
+type = "normal"
+catalog = "VTZL-185"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-185"
+
+[[discs.tracks]]
+title = "off"
+
+[[discs.tracks]]
+title = "プロローグ"
+
+[[discs.tracks]]
+title = "グー"
+
+[[discs.tracks]]
+title = "シャンプーリンス"
+
+[[discs.tracks]]
+title = "Rhythm Loop"
+
+[[discs.tracks]]
+title = "あした会えたら"

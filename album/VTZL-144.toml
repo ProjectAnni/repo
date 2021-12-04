@@ -1,0 +1,31 @@
+[album]
+title = "灯火のまにまに"
+artist = "東山奈央"
+date = 2018-05-30
+type = "normal"
+catalog = "VTZL-144"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-144"
+
+[[discs.tracks]]
+title = "灯火のまにまに"
+
+[[discs.tracks]]
+title = "ネバギバ音頭"
+
+[[discs.tracks]]
+title = "Mode Style"
+
+[[discs.tracks]]
+title = "灯火のまにまに (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ネバギバ音頭 (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Mode Style (Instrumental ver.)"
+type = "instrumental"

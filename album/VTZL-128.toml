@@ -1,0 +1,31 @@
+[album]
+title = "イマココ／月がきれい"
+artist = "東山奈央"
+date = 2017-05-24
+type = "normal"
+catalog = "VTZL-128"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTZL-128"
+
+[[discs.tracks]]
+title = "イマココ"
+
+[[discs.tracks]]
+title = "月がきれい"
+
+[[discs.tracks]]
+title = "Bright Heart"
+
+[[discs.tracks]]
+title = "イマココ (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "月がきれい (Instrumental ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Bright Heart (Instrumental ver.)"
+type = "instrumental"

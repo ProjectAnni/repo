@@ -1,0 +1,21 @@
+[album]
+title = "Winter Melody"
+artist = "東山奈央"
+date = 2018-12-24
+type = "normal"
+catalog = "VTNT-0001"
+tags = ["東山奈央"]
+
+[[discs]]
+catalog = "VTNT-0001"
+
+[[discs.tracks]]
+title = "Winter Melody"
+
+[[discs.tracks]]
+title = "Winter Melody Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナストラック 出張版! 奈央のひとりごと"
+type = "drama"
