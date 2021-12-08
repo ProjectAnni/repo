@@ -1,0 +1,26 @@
+[album]
+album_id = "77e44e1d-77b8-4169-a0bc-f5729dbf2fd9"
+title = "THE IDOLM@STER CINDERELLA MASTER 034 速水奏"
+artist = "速水奏（飯田友子）"
+date = 2015-02-04
+type = "normal"
+catalog = "COCC-17004"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17004"
+
+[[discs.tracks]]
+title = "Hotel Moonside"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -速水奏編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Hotel Moonside (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

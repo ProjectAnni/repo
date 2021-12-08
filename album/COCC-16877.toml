@@ -1,0 +1,26 @@
+[album]
+album_id = "4ffe820f-57de-4245-a851-debad8f9e872"
+title = "THE IDOLM@STER CINDERELLA MASTER 026 星輝子"
+artist = "星輝子（松田颯水）"
+date = 2014-04-30
+type = "normal"
+catalog = "COCC-16877"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16877"
+
+[[discs.tracks]]
+title = "毒茸伝説"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-星輝子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "毒茸伝説 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

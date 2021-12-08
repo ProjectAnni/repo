@@ -1,0 +1,26 @@
+[album]
+album_id = "5fbb0c6c-a209-4703-b0bf-aeace74c19f0"
+title = "THE IDOLM@STER CINDERELLA MASTER 032 姫川友紀"
+artist = "姫川友紀（杜野まこ）"
+date = 2015-02-04
+type = "normal"
+catalog = "COCC-17002"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17002"
+
+[[discs.tracks]]
+title = "気持ちいいよね 一等賞！"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -姫川友紀編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "気持ちいいよね 一等賞！(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

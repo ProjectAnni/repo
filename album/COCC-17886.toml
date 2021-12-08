@@ -1,0 +1,26 @@
+[album]
+album_id = "7cdbae39-3498-484b-917a-be07cc326323"
+title = "THE IDOLM@STER CINDERELLA MASTER 058 黒埼ちとせ"
+artist = "黒埼ちとせ（佐倉薫）"
+date = 2021-05-19
+type = "normal"
+catalog = "COCC-17886"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17886"
+
+[[discs.tracks]]
+title = "Beat of the Night"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －黒埼ちとせ編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Beat of the Night (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

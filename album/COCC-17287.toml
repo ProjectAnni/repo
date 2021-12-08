@@ -1,0 +1,26 @@
+[album]
+album_id = "b54c62df-8f37-426c-b532-bb6a9f6f1d50"
+title = "THE IDOLM@STER CINDERELLA MASTER 047 松永涼"
+artist = "松永涼（千菅春香）"
+date = 2017-03-15
+type = "normal"
+catalog = "COCC-17287"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17287"
+
+[[discs.tracks]]
+title = "One Life"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -松永涼編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "One Life (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

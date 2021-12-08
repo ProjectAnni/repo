@@ -1,0 +1,26 @@
+[album]
+album_id = "de099d9b-367c-43db-9474-2e5a6a9d4d60"
+title = "THE IDOLM@STER CINDERELLA MASTER 048 依田芳乃"
+artist = "依田芳乃（高田憂希）"
+date = 2017-03-15
+type = "normal"
+catalog = "COCC-17288"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17288"
+
+[[discs.tracks]]
+title = "祈りの花"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -依田芳乃編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "祈りの花 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

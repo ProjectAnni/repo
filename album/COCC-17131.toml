@@ -1,0 +1,27 @@
+[album]
+album_id = "769961fa-9397-471f-918f-767c6c3641b4"
+title = "THE IDOLM@STER CINDERELLA MASTER 041 大槻唯"
+artist = "大槻唯（山下七海）"
+date = 2016-03-02
+type = "normal"
+catalog = "COCC-17131"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17131"
+
+[[discs.tracks]]
+title = "Radio Happy"
+type = "radio"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -大槻唯編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Radio Happy (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

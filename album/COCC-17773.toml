@@ -1,0 +1,26 @@
+[album]
+album_id = "44bdfd17-8c58-4b3b-af3c-b256550962ef"
+title = "THE IDOLM@STER CINDERELLA MASTER 055 早坂美玲"
+artist = "早坂美玲（朝井彩加）"
+date = 2020-04-22
+type = "normal"
+catalog = "COCC-17773"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17773"
+
+[[discs.tracks]]
+title = "Claw My Heart"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －早坂美玲編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Claw My Heart (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

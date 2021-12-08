@@ -1,0 +1,26 @@
+[album]
+album_id = "445965f2-262a-4b7b-b912-f365c414b8d4"
+title = "THE IDOLM@STER CINDERELLA MASTER 057 夢見りあむ"
+artist = "夢見りあむ（星希成奏）"
+date = 2020-04-22
+type = "normal"
+catalog = "COCC-17775"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17775"
+
+[[discs.tracks]]
+title = "OTAHEN アンセム"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －夢見りあむ編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "OTAHEN アンセム (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

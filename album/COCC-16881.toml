@@ -1,0 +1,26 @@
+[album]
+album_id = "cae7798d-a53a-473f-961e-e15ea240c192"
+title = "THE IDOLM@STER CINDERELLA MASTER 030 堀裕子"
+artist = "堀裕子（鈴木絵理）"
+date = 2014-04-30
+type = "normal"
+catalog = "COCC-16881"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16881"
+
+[[discs.tracks]]
+title = "ミラクルテレパシー"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-堀裕子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ミラクルテレパシー (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

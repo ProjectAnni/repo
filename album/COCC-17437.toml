@@ -1,0 +1,26 @@
+[album]
+album_id = "ed739aae-7b90-4891-95a3-e49abca3852d"
+title = "THE IDOLM@STER CINDERELLA MASTER 049 関裕美"
+artist = "関裕美（会沢紗弥）"
+date = 2017-04-04
+type = "normal"
+catalog = "COCC-17437"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17437"
+
+[[discs.tracks]]
+title = "楽園"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -関裕美編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "楽園 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

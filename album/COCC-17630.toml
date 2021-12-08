@@ -1,0 +1,26 @@
+[album]
+album_id = "d63e5ad7-f451-4089-ac41-f18f54836bfe"
+title = "THE IDOLM@STER CINDERELLA MASTER 054 佐藤心"
+artist = "佐藤心（花守ゆみり）"
+date = 2019-05-15
+type = "normal"
+catalog = "COCC-17630"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17630"
+
+[[discs.tracks]]
+title = "しゅがーはぁと☆レボリューション"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －佐藤心編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "しゅがーはぁと☆レボリューション (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

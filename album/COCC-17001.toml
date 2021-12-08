@@ -1,0 +1,26 @@
+[album]
+album_id = "e6c5d753-1beb-444e-b81a-d50529d2b9a0"
+title = "THE IDOLM@STER CINDERELLA MASTER 031 鷺沢文香"
+artist = "鷺沢文香（M・A・O）"
+date = 2015-02-04
+type = "normal"
+catalog = "COCC-17001"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17001"
+
+[[discs.tracks]]
+title = "Bright blue"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -鷺沢文香編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Bright blue (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,26 @@
+[album]
+album_id = "7f8c6f3e-9042-46bc-972e-7c83d4c28214"
+title = "THE IDOLM@STER CINDERELLA MASTER 040 櫻井桃華"
+artist = "櫻井桃華（照井春佳）"
+date = 2015-11-18
+type = "normal"
+catalog = "COCC-17095"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17095"
+
+[[discs.tracks]]
+title = "ラヴィアンローズ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -櫻井桃華編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラヴィアンローズ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

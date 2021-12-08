@@ -1,0 +1,26 @@
+[album]
+album_id = "d0937720-fccd-4f94-ae12-df1ce1732199"
+title = "THE IDOLM@STER CINDERELLA MASTER 051 村上巴"
+artist = "村上巴（花井美春）"
+date = 2017-04-04
+type = "normal"
+catalog = "COCC-17439"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17439"
+
+[[discs.tracks]]
+title = "おんなの道は星の道"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -村上巴編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "おんなの道は星の道 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

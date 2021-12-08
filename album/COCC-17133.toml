@@ -1,0 +1,26 @@
+[album]
+album_id = "a08b0449-302a-4271-81ae-eb77956d8b03"
+title = "THE IDOLM@STER CINDERELLA MASTER 043 二宮飛鳥"
+artist = "二宮飛鳥（青木志貴）"
+date = 2016-03-02
+type = "normal"
+catalog = "COCC-17133"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17133"
+
+[[discs.tracks]]
+title = "共鳴世界の存在論"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -二宮飛鳥編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "共鳴世界の存在論 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

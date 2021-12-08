@@ -1,0 +1,26 @@
+[album]
+album_id = "26adf02f-c732-4870-85b6-912ee19eed04"
+title = "THE IDOLM@STER CINDERELLA MASTER 045 五十嵐響子"
+artist = "五十嵐響子（種﨑敦美）"
+date = 2016-03-02
+type = "normal"
+catalog = "COCC-17135"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17135"
+
+[[discs.tracks]]
+title = "恋のHamburg♪"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -五十嵐響子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "恋のHamburg♪ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

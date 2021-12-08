@@ -1,0 +1,26 @@
+[album]
+album_id = "b772cea3-4313-4c70-9808-882136f73757"
+title = "THE IDOLM@STER CINDERELLA MASTER 028 北条加蓮"
+artist = "北条加蓮（渕上舞）"
+date = 2014-04-30
+type = "normal"
+catalog = "COCC-16879"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16879"
+
+[[discs.tracks]]
+title = "薄荷 -ハッカ-"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-北条加蓮編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "薄荷 -ハッカ- (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,26 @@
+[album]
+album_id = "df94bf9c-c411-4604-8c0b-9d8d64ae8c34"
+title = "THE IDOLM@STER CINDERELLA MASTER 059 砂塚あきら"
+artist = "砂塚あきら（富田美憂）"
+date = 2021-05-19
+type = "normal"
+catalog = "COCC-17887"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17887"
+
+[[discs.tracks]]
+title = "#HE4DSHOT"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －砂塚あきら編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "#HE4DSHOT (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,26 @@
+[album]
+album_id = "c4c18b86-e264-4658-a6d7-985b0daee684"
+title = "THE IDOLM@STER CINDERELLA MASTER 038 一ノ瀬志希"
+artist = "一ノ瀬志希（藍原ことみ）"
+date = 2015-11-18
+type = "normal"
+catalog = "COCC-17093"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17093"
+
+[[discs.tracks]]
+title = "秘密のトワレ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -一ノ瀬志希編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "秘密のトワレ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

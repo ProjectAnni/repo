@@ -1,0 +1,26 @@
+[album]
+album_id = "315789db-2bc7-43b6-a32a-23ecb390e4bc"
+title = "THE IDOLM@STER CINDERELLA MASTER 036 橘ありす"
+artist = "橘ありす（佐藤亜美菜）"
+date = 2015-11-18
+type = "normal"
+catalog = "COCC-17091"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17091"
+
+[[discs.tracks]]
+title = "in fact"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -橘ありす編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "in fact (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"
