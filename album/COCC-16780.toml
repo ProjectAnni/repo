@@ -1,0 +1,26 @@
+[album]
+album_id = "92cab9bb-3af1-4176-bf24-00e61860642c"
+title = "THE IDOLM@STER CINDERELLA MASTER 023 緒方智絵里"
+artist = "緒方智絵里（大空直美）"
+date = 2013-11-13
+type = "normal"
+catalog = "COCC-16780"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16780"
+
+[[discs.tracks]]
+title = "風色メロディ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-緒方智絵里編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "風色メロディ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

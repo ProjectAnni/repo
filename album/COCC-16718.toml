@@ -1,0 +1,40 @@
+[album]
+album_id = "b480d39b-0153-4b62-b1d2-fdef4022f601"
+title = "THE IDOLM@STER CINDERELLA MASTER お願い！シンデレラ"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2013-04-10
+type = "normal"
+catalog = "COCC-16718"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16718"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (M@STER VERSION)"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（島村卯月（大橋彩香）、小日向美穂（津田美波）、三村かな子（大坪由佳）、渋谷凜（福原綾香）、多田李衣菜（青木瑠璃子）、神崎蘭子（内田真礼）、本田未央（原紗友里）、城ヶ崎美嘉（佳村はるか）、城ヶ崎莉嘉（山本希望））"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (Cute VERSION)"
+artist = "CINDERELLA GIRLS for Cute!（島村卯月（大橋彩香）、小日向美穂（津田美波）、三村かな子（大坪由佳））"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (Cool VERSION)"
+artist = "CINDERELLA GIRLS for Cool!（渋谷凜（福原綾香）、多田李衣菜（青木瑠璃子）、神崎蘭子（内田真礼））"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (Passion VERSION)"
+artist = "CINDERELLA GIRLS for Passion!（本田未央（原紗友里）、城ヶ崎美嘉（佳村はるか）、城ヶ崎莉嘉（山本希望））"
+
+[[discs.tracks]]
+title = "あんきら劇場"
+artist = "諸星きらり（松嵜麗）、双葉杏（五十嵐裕美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ（ハピ☆ハピver.）"
+artist = "CINDERELLA GIRLS for あんきら（諸星きらり（松嵜麗）、双葉杏（五十嵐裕美））"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ (オリジナル・カラオケ)"
+type = "instrumental"

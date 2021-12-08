@@ -1,0 +1,26 @@
+[album]
+album_id = "a9770f31-20ec-48af-a905-b1fe67a734c8"
+title = "THE IDOLM@STER CINDERELLA MASTER 017 赤城みりあ"
+artist = "赤城みりあ（黒沢ともよ）"
+date = 2013-05-22
+type = "normal"
+catalog = "COCC-16735"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16735"
+
+[[discs.tracks]]
+title = "Romantic Now"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-赤城みりあ編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Romantic Now (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

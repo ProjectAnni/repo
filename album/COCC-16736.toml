@@ -1,0 +1,26 @@
+[album]
+album_id = "ff47fd29-2fc3-4751-8365-c65b91a71d04"
+title = "THE IDOLM@STER CINDERELLA MASTER 018 安部菜々"
+artist = "安部菜々（三宅麻理恵）"
+date = 2013-05-22
+type = "normal"
+catalog = "COCC-16736"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16736"
+
+[[discs.tracks]]
+title = "メルヘンデビュー！"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-安部菜々編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "メルヘンデビュー！(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

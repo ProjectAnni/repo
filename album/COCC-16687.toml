@@ -1,0 +1,26 @@
+[album]
+album_id = "ff92a885-a5f3-4afd-8291-960b9375e539"
+title = "THE IDOLM@STER CINDERELLA MASTER 015 本田未央"
+artist = "本田未央（原紗友里）"
+date = 2013-01-23
+type = "normal"
+catalog = "COCC-16687"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16687"
+
+[[discs.tracks]]
+title = "ミツボシ☆☆★"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-本田未央編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ミツボシ☆☆★ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

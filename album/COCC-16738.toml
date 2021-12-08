@@ -1,0 +1,26 @@
+[album]
+album_id = "afeed04e-373b-45b6-949d-d4be86058a30"
+title = "THE IDOLM@STER CINDERELLA MASTER 020 輿水幸子"
+artist = "輿水幸子（竹達彩奈）"
+date = 2013-05-22
+type = "normal"
+catalog = "COCC-16738"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16738"
+
+[[discs.tracks]]
+title = "To my darling..."
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-輿水幸子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "To my darling... (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

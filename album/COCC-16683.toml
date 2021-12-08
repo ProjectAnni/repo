@@ -1,0 +1,26 @@
+[album]
+album_id = "d40ddc99-62c6-4401-b328-6577b4b47b8a"
+title = "THE IDOLM@STER CINDERELLA MASTER 011 小日向美穂"
+artist = "小日向美穂（津田美波）"
+date = 2013-01-23
+type = "normal"
+catalog = "COCC-16683"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16683"
+
+[[discs.tracks]]
+title = "Naked Romance"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-小日向美穂編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Naked Romance (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

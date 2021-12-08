@@ -1,0 +1,26 @@
+[album]
+album_id = "7cea84c1-f09e-4873-94ff-518f1ff1e652"
+title = "THE IDOLM@STER CINDERELLA MASTER 022 白坂小梅"
+artist = "白坂小梅（桜咲千依）"
+date = 2013-11-13
+type = "normal"
+catalog = "COCC-16779"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16779"
+
+[[discs.tracks]]
+title = "小さな恋の密室事件"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-白坂小梅編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "小さな恋の密室事件 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

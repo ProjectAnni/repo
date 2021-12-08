@@ -1,0 +1,32 @@
+[album]
+album_id = "569dc39d-dbd3-41e2-a0f2-154388cb1371"
+title = "THE IDOLM@STER CINDERELLA MASTER We're the friends!"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!"
+date = 2014-07-30
+type = "normal"
+catalog = "COCC-16908"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16908"
+
+[[discs.tracks]]
+title = "We're the friends!"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!（渋谷凛（福原綾香）、鷺沢文香（M・A・O）、高垣楓（早見沙織）、安部菜々（三宅麻理恵）、緒方智絵里（大空直美）、島村卯月（大橋彩香）、本田未央（原紗友里）、姫川友紀（杜野まこ）、高森藍子（金子有希））"
+
+[[discs.tracks]]
+title = "メッセージ"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!（渋谷凛（福原綾香）、安部菜々（三宅麻理恵）、緒方智絵里（大空直美）、島村卯月（大橋彩香）、本田未央（原紗友里））"
+
+[[discs.tracks]]
+title = "ドラマパート"
+artist = "渋谷凛（福原綾香）、安部菜々（三宅麻理恵）、緒方智絵里（大空直美）、島村卯月（大橋彩香）、本田未央（原紗友里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "We're the friends! (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メッセージ (オリジナル・カラオケ)"
+type = "instrumental"

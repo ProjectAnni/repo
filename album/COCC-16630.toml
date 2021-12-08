@@ -1,0 +1,26 @@
+[album]
+album_id = "6731e63a-4e0b-41d4-8df8-c2c76a9b8632"
+title = "THE IDOLM@STER CINDERELLA MASTER 008 諸星きらり"
+artist = "諸星きらり（松嵜麗）"
+date = 2012-08-08
+type = "normal"
+catalog = "COCC-16630"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16630"
+
+[[discs.tracks]]
+title = "ましゅまろ☆キッス"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-諸星きらり編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ましゅまろ☆キッス (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

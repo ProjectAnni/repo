@@ -1,0 +1,26 @@
+[album]
+album_id = "0b65451d-ac25-4d46-b84c-0e44b674d83b"
+title = "THE IDOLM@STER CINDERELLA MASTER 025 高森藍子"
+artist = "高森藍子"
+date = 2013-11-13
+type = "normal"
+catalog = "COCC-16782"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16782"
+
+[[discs.tracks]]
+title = "お散歩カメラ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-高森藍子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "お散歩カメラ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

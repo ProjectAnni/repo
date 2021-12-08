@@ -1,0 +1,26 @@
+[album]
+album_id = "afa5d7dd-8eab-44fc-bc33-d7d59e312ac9"
+title = "THE IDOLM@STER CINDERELLA MASTER 012 多田李衣菜"
+artist = "多田李衣菜（青木瑠璃子）"
+date = 2013-01-23
+type = "normal"
+catalog = "COCC-16684"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16684"
+
+[[discs.tracks]]
+title = "Twilight Sky"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-多田李衣菜編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Twilight Sky (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

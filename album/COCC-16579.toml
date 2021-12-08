@@ -1,0 +1,26 @@
+[album]
+album_id = "41d8abea-bb4e-4b34-aeef-018c06a1f6b8"
+title = "THE IDOLM@STER CINDERELLA MASTER 005 城ヶ崎莉嘉"
+artist = "城ヶ崎莉嘉（山本希望）"
+date = 2012-04-18
+type = "normal"
+catalog = "COCC-16579"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16579"
+
+[[discs.tracks]]
+title = "DOKIDOKIリズム"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-城ヶ崎莉嘉編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "DOKIDOKIリズム (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

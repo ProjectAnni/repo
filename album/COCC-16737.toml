@@ -1,0 +1,26 @@
+[album]
+album_id = "6ec91328-4b6b-4697-b39e-20cd1e5e2b98"
+title = "THE IDOLM@STER CINDERELLA MASTER 019 新田美波"
+artist = "新田美波（洲崎綾）"
+date = 2013-05-22
+type = "normal"
+catalog = "COCC-16737"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16737"
+
+[[discs.tracks]]
+title = "ヴィーナスシンドローム"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-新田美波編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ヴィーナスシンドローム (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

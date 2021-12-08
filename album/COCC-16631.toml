@@ -1,0 +1,26 @@
+[album]
+album_id = "54fefe7c-e575-45cf-b037-11d243f86414"
+title = "THE IDOLM@STER CINDERELLA MASTER 009 城ヶ崎美嘉"
+artist = "城ヶ崎美嘉（佳村はるか）"
+date = 2012-08-08
+type = "normal"
+catalog = "COCC-16631"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16631"
+
+[[discs.tracks]]
+title = "TOKIMEKIエスカレート"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-城ヶ崎美嘉編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "TOKIMEKIエスカレート (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

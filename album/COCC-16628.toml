@@ -1,0 +1,30 @@
+[album]
+album_id = "7b376630-8c6f-43b1-a03e-5fda7b77f881"
+title = "THE IDOLM@STER CINDERELLA MASTER 006 神崎蘭子"
+artist = "神崎蘭子（内田真礼）"
+date = 2012-08-08
+type = "normal"
+catalog = "COCC-16628"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16628"
+
+[[discs.tracks]]
+title = "華蕾夢ミル狂詩曲〜魂ノ導〜"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-神崎蘭子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-神崎蘭子編-」（副音声付きver.）"
+type = "drama"
+
+[[discs.tracks]]
+title = "華蕾夢ミル狂詩曲〜魂ノ導〜 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

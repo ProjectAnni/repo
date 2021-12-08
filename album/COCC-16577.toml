@@ -1,0 +1,26 @@
+[album]
+album_id = "0349544f-4426-4ccd-af10-c340f25acbc8"
+title = "THE IDOLM@STER CINDERELLA MASTER 003 三村かな子"
+artist = "双葉杏（五十嵐裕美）"
+date = 2012-04-18
+type = "normal"
+catalog = "COCC-16577"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16577"
+
+[[discs.tracks]]
+title = "ショコラ・ティアラ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-三村かな子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ショコラ・ティアラ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

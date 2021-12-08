@@ -1,0 +1,26 @@
+[album]
+album_id = "9905bdbe-fa47-4713-99ae-2c641ca83555"
+title = "THE IDOLM@STER CINDERELLA MASTER 002 双葉杏"
+artist = "双葉杏（五十嵐裕美）"
+date = 2012-04-18
+type = "normal"
+catalog = "COCC-16576"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16576"
+
+[[discs.tracks]]
+title = "あんずのうた"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-双葉杏編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "あんずのうた (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

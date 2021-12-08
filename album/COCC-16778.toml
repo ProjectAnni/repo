@@ -1,0 +1,26 @@
+[album]
+album_id = "2c3be350-1938-4f65-9a7d-6630d925581f"
+title = "THE IDOLM@STER CINDERELLA MASTER 021 佐久間まゆ"
+artist = "佐久間まゆ（牧野由依）"
+date = 2013-11-13
+type = "normal"
+catalog = "COCC-16778"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16778"
+
+[[discs.tracks]]
+title = "エヴリデイドリーム"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-佐久間まゆ編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "エヴリデイドリーム (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

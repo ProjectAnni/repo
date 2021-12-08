@@ -1,0 +1,26 @@
+[album]
+album_id = "462e1e17-6473-47d4-b0a1-24b4278ce7d4"
+title = "THE IDOLM@STER CINDERELLA MASTER 001 渋谷凛"
+artist = "渋谷凛（福原綾香）"
+date = 2012-04-18
+type = "normal"
+catalog = "COCC-16575"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16575"
+
+[[discs.tracks]]
+title = "Never say never"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-渋谷凛編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Never say never (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

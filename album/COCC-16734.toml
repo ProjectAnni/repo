@@ -1,0 +1,26 @@
+[album]
+album_id = "4c571a6d-1f4f-4e63-8348-4d5b0d6b264f"
+title = "THE IDOLM@STER CINDERELLA MASTER 016 日野茜"
+artist = "日野茜（赤﨑千夏）"
+date = 2013-05-22
+type = "normal"
+catalog = "COCC-16734"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16734"
+
+[[discs.tracks]]
+title = "熱血乙女A"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-日野茜編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "熱血乙女A (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,26 @@
+[album]
+album_id = "f0d429ba-5f7e-4f40-b20d-69dc0ce7a979"
+title = "THE IDOLM@STER CINDERELLA MASTER 024 アナスタシア"
+artist = "アナスタシア（上坂すみれ）"
+date = 2013-11-13
+type = "normal"
+catalog = "COCC-16781"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16781"
+
+[[discs.tracks]]
+title = "You're stars shine on me"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-アナスタシア編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "You're stars shine on me (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,26 @@
+[album]
+album_id = "398343b8-a9cf-4353-abce-3a4a9252293d"
+title = "THE IDOLM@STER CINDERELLA MASTER 010 島村卯月"
+artist = "島村卯月（大橋彩香）"
+date = 2012-08-08
+type = "normal"
+catalog = "COCC-16632"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16632"
+
+[[discs.tracks]]
+title = "S(mile)ING！"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-島村卯月編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "S(mile)ING！(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

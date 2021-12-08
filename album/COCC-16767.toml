@@ -1,0 +1,28 @@
+[album]
+album_id = "8fbf0244-2e97-407b-b457-a2445f432836"
+title = "THE IDOLM@STER CINDERELLA MASTER 輝く世界の魔法"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!"
+date = 2013-08-14
+type = "normal"
+catalog = "COCC-16767"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16767"
+
+[[discs.tracks]]
+title = "輝く世界の魔法 (M@STER VERSION)"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!（神崎蘭子（内田真礼）、アナスタシア（上坂すみれ）、高垣楓（早見沙織）、輿水幸子（竹達彩奈）、渋谷凛（福原綾香））"
+
+[[discs.tracks]]
+title = "ドラマパート"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "輝く世界の魔法 (new generations Version)"
+artist = "CINDERELLA GIRLS for NEW GENERATIONS!（島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里））"
+
+[[discs.tracks]]
+title = "輝く世界の魔法 (オリジナル・カラオケ)"
+type = "instrumental"

@@ -1,0 +1,26 @@
+[album]
+album_id = "b85ac97b-08d7-4980-b890-25ae54a97c59"
+title = "THE IDOLM@STER CINDERELLA MASTER 014 川島瑞樹"
+artist = "川島瑞樹（東山奈央）"
+date = 2013-01-23
+type = "normal"
+catalog = "COCC-16686"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16686"
+
+[[discs.tracks]]
+title = "Angel Breeze"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-川島瑞樹編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Angel Breeze (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

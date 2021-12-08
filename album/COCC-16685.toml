@@ -1,0 +1,26 @@
+[album]
+album_id = "28cc5d95-f0e4-4cb4-b3aa-0095a087e702"
+title = "THE IDOLM@STER CINDERELLA MASTER 013 十時愛梨"
+artist = "十時愛梨（原田ひとみ）"
+date = 2013-01-23
+type = "normal"
+catalog = "COCC-16685"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16685"
+
+[[discs.tracks]]
+title = "アップルパイ・プリンセス"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-多田李衣菜編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "アップルパイ・プリンセス (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

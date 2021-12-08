@@ -1,0 +1,26 @@
+[album]
+album_id = "ff431274-c397-4f72-a43c-ca9a8a94d23c"
+title = "THE IDOLM@STER CINDERELLA MASTER 007 前川みく"
+artist = "前川みく（高森奈津美）"
+date = 2012-08-08
+type = "normal"
+catalog = "COCC-16629"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16629"
+
+[[discs.tracks]]
+title = "おねだり Shall We 〜？"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-前川みく編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "おねだり Shall We 〜？(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"
