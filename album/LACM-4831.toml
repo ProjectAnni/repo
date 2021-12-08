@@ -1,4 +1,5 @@
 [album]
+album_id = "e39e6630-f6f8-4d9f-91c4-f98862403a65"
 title = "面影ワープ"
 artist = "nano.RIPE"
 date = 2011-08-03
@@ -16,4 +17,3 @@ title = "15秒"
 
 [[discs.tracks]]
 title = "空の少年"
-
