@@ -1,0 +1,31 @@
+[album]
+album_id = "8e3a1020-2c06-4c73-811f-f64e0ce4637f"
+title = "THE IDOLM@STER CINDERELLA MASTER 恋が咲く季節"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2017-12-13
+type = "normal"
+catalog = "COCC-17414"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17414"
+
+[[discs.tracks]]
+title = "恋が咲く季節"
+artist = "高垣楓（早見沙織）、本田未央（原紗友里）、藤原肇（鈴木みのり）、荒木比奈（田辺留依）、喜多見柚（武田羅梨沙多胡）、佐久間まゆ（牧野由依）、村上巴（花井美春）、関裕美（会沢紗弥）、緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "always"
+artist = "高垣楓（早見沙織）、本田未央（原紗友里）、藤原肇（鈴木みのり）、荒木比奈（田辺留依）、喜多見柚（武田羅梨沙多胡）"
+
+[[discs.tracks]]
+title = "Tulip (M@STER VERSION)"
+artist = "高垣楓（早見沙織）、本田未央（原紗友里）、佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "恋が咲く季節 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "always (オリジナル・カラオケ)"
+type = "instrumental"

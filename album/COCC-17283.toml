@@ -1,0 +1,43 @@
+[album]
+album_id = "4bf438ef-66e8-430a-9443-686557c8c70b"
+title = "THE IDOLM@STER CINDERELLA MASTER Treasure☆"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2017-03-22
+type = "normal"
+catalog = "COCC-17283"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17283"
+
+[[discs.tracks]]
+title = "Treasure☆ (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、城ヶ崎美嘉（佳村はるか）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Treasure☆ (M@STER VERSION) for デレラジ☆MIX"
+artist = "デレラジ☆（島村卯月（大橋彩香）、渋谷凛（福原綾香）、城ヶ崎美嘉（佳村はるか））"
+
+[[discs.tracks]]
+title = "Treasure☆ (M@STER VERSION) for CINDERELLA PARTY! MIX"
+artist = "CINDERELLA PARTY!（本田未央（原紗友里）、多田李衣菜（青木瑠璃子））"
+
+[[discs.tracks]]
+title = "Treasure☆ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "エンジェル ドリーム 〜CINDERELLA GIRLS COLLABORATION MIX〜"
+artist = "緒方智絵里（大空直美）、城ヶ崎莉嘉（山本希望）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "エンジェル ドリーム 〜緒方智絵里ソロリミックス〜"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "エンジェル ドリーム 〜城ヶ崎莉嘉ソロリミックス〜"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "エンジェル ドリーム 〜多田李衣菜ソロリミックス〜"
+artist = "多田李衣菜（青木瑠璃子）"
