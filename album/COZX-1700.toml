@@ -5,6 +5,7 @@ artist = "伊藤美来"
 date = 2020-12-23
 type = "normal"
 catalog = "COZX-1700"
+tags = ["伊藤美来"]
 
 [[discs]]
 catalog = "COZX-1700"
