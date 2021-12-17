@@ -5,6 +5,7 @@ artist = "上田麗奈"
 date = 2020-03-18
 type = "normal"
 catalog = "LACA-15809"
+tags = ["上田麗奈"]
 
 [[discs]]
 catalog = "LACA-15809"

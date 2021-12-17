@@ -5,6 +5,7 @@ artist = "中島由貴"
 date = 2020-12-23
 type = "normal"
 catalog = "GNCA-1596"
+tags = ["中島由貴"]
 
 [[discs]]
 catalog = "GNCA-1596"

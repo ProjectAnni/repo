@@ -5,6 +5,7 @@ artist = "Various Artists"
 date = 2017-12-22
 type = "normal"
 catalog = "GNCA-1517"
+tags = ["ご注文はうさぎですか？:order the songs"]
 
 [[discs]]
 catalog = "GNCA-1517-01"

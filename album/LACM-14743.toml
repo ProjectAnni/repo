@@ -5,6 +5,7 @@ artist = "Homecomings"
 date = 2018-04-25
 type = "normal"
 catalog = "LACM-14743"
+tags = ["リズと青い鳥"]
 
 [[discs]]
 catalog = "LACM-14743"
