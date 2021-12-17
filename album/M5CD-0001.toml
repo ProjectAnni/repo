@@ -1,0 +1,43 @@
+[album]
+album_id = "a90ee0dc-8838-4853-aa5c-d1843f320c0a"
+title = "亚特兰蒂斯Atlantis"
+artist = "海伊"
+date = 2018-12-01
+type = "normal"
+catalog = "M5CD-0001"
+tags = ["海伊", "平行四界 五维介质"]
+
+[[discs]]
+catalog = "M5CD-0001"
+
+[[discs.tracks]]
+title = "乐园-Atlantis-"
+artist = "Evalia、海伊"
+
+[[discs.tracks]]
+title = "少年永梦"
+artist = "小野道、海伊"
+
+[[discs.tracks]]
+title = "水天一色"
+artist = "星辉、海伊"
+
+[[discs.tracks]]
+title = "月光掌"
+artist = "Zeno、海伊"
+
+[[discs.tracks]]
+title = "START"
+artist = "磁带君、海伊"
+
+[[discs.tracks]]
+title = "龙女"
+artist = "erazedfx、海伊"
+
+[[discs.tracks]]
+title = "绮凝盏"
+artist = "MeLo、海伊"
+
+[[discs.tracks]]
+title = "降临"
+artist = "Ddickky、天钦、海伊"

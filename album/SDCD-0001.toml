@@ -1,0 +1,43 @@
+[album]
+album_id = "c7be47d3-453a-483b-812a-1cf225575e16"
+title = "星愿StarWish"
+artist = "星尘"
+date = 2016-02-20
+type = "normal"
+catalog = "SDCD-0001"
+tags = ["星尘"]
+
+[[discs]]
+catalog = "SDCD-0001"
+
+[[discs.tracks]]
+title = "StarLaLaLa"
+artist = "ZOMiG、星尘"
+
+[[discs.tracks]]
+title = "观星者"
+artist = "战场原妖精、星尘"
+
+[[discs.tracks]]
+title = "Solar Storm"
+artist = "Li Zong、星尘"
+
+[[discs.tracks]]
+title = "Twinkle Star"
+artist = "小野道、星尘"
+
+[[discs.tracks]]
+title = "星之伊始"
+artist = "天钦、星尘"
+
+[[discs.tracks]]
+title = "徒劳的爱之美少女"
+artist = "Zoey、星尘"
+
+[[discs.tracks]]
+title = "时一现耳三千岁"
+artist = "MeLo、星尘"
+
+[[discs.tracks]]
+title = "星愿StarWish"
+artist = "Kide、星尘"

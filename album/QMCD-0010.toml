@@ -1,0 +1,43 @@
+[album]
+album_id = "ae72bba6-9c92-4861-8996-12bc7ccb614c"
+title = "平行四界Quadimension 6"
+artist = "洛天依、言和、乐正绫、星尘、初音ミク"
+date = 2018-04-17
+type = "normal"
+catalog = "QMCD-0010"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0010"
+
+[[discs.tracks]]
+title = "夙春殇"
+artist = "兄贵大乱斗、洛天依、言和、乐正绫、星尘"
+
+[[discs.tracks]]
+title = "Nightlight"
+artist = "小明是根草、洛天依"
+
+[[discs.tracks]]
+title = "星变"
+artist = "ceekyo、乐正绫"
+
+[[discs.tracks]]
+title = "玻璃水母"
+artist = "星辉、星尘"
+
+[[discs.tracks]]
+title = "自动人形的呼唤"
+artist = "绛舞乱丸、初音ミク、星尘"
+
+[[discs.tracks]]
+title = "寻常孤单中毒"
+artist = "Zeno、洛天依、乐正绫"
+
+[[discs.tracks]]
+title = "流浪者的歌"
+artist = "泓、乐正绫、星尘"
+
+[[discs.tracks]]
+title = "世末歌者"
+artist = "COP、乐正绫"

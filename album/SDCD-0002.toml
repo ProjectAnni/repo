@@ -1,0 +1,43 @@
+[album]
+album_id = "b8559853-3d2e-4ce9-9d3b-dca1a1280a8c"
+title = "星语Star Whisper"
+artist = "星尘"
+date = 2017-01-30
+type = "normal"
+catalog = "SDCD-0002"
+tags = ["星尘"]
+
+[[discs]]
+catalog = "SDCD-0002"
+
+[[discs.tracks]]
+title = "chu~chu~chu~"
+artist = "小野道、星尘"
+
+[[discs.tracks]]
+title = "空想世界的某一天"
+artist = "天钦、星尘"
+
+[[discs.tracks]]
+title = "地球毁灭的那一刻"
+artist = "Kide、星尘"
+
+[[discs.tracks]]
+title = "间隙"
+artist = "战场原妖精、星尘"
+
+[[discs.tracks]]
+title = "六月的明天"
+artist = "桂子油、星尘"
+
+[[discs.tracks]]
+title = "D!scolor"
+artist = "Zeno、星尘"
+
+[[discs.tracks]]
+title = "每当有流星划过夜空"
+artist = "Ddickky、星尘"
+
+[[discs.tracks]]
+title = "生死一舞的爱语"
+artist = "MeLo、星尘"

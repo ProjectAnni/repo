@@ -1,0 +1,51 @@
+[album]
+album_id = "26dee8a9-bd3f-4b37-a4ae-16f3a2727864"
+title = "平行四界Quadimension 5"
+artist = "洛天依、乐正绫、星尘"
+date = 2016-07-15
+type = "normal"
+catalog = "QMCD-0005"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0005"
+
+[[discs.tracks]]
+title = "心之鸣奏"
+artist = "泓、洛天依、乐正绫、星尘"
+
+[[discs.tracks]]
+title = "旧时光，老地方"
+artist = "希望索任合资、洛天依"
+
+[[discs.tracks]]
+title = "Shutter Chance!!"
+artist = "小明是根草、星尘"
+
+[[discs.tracks]]
+title = "寿星街小结巴"
+artist = "绛舞乱丸、乐正绫"
+
+[[discs.tracks]]
+title = "Startale"
+artist = "St.K4N3、星尘"
+
+[[discs.tracks]]
+title = "忧-blue-"
+artist = "ceekyo、洛天依"
+
+[[discs.tracks]]
+title = "迷路小鹿"
+artist = "芹菜猪肉大馄饨、星尘"
+
+[[discs.tracks]]
+title = "我偏独坐第一香"
+artist = "绿邪、MeLo、乐正绫"
+
+[[discs.tracks]]
+title = "雪之花"
+artist = "Zeno、星尘"
+
+[[discs.tracks]]
+title = "最后的歌"
+artist = "Ddickky、洛天依"

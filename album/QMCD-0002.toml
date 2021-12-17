@@ -1,0 +1,47 @@
+[album]
+album_id = "9afd5a38-d081-4332-a43b-6e48d675fc01"
+title = "平行四界Quadimension 2"
+artist = "洛天依"
+date = 2014-11-15
+type = "normal"
+catalog = "QMCD-0002"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0002"
+
+[[discs.tracks]]
+title = "月白色倒影的少女"
+artist = "秦楼凤吹、洛天依"
+
+[[discs.tracks]]
+title = "I got you"
+artist = "麦当劳叔叔、洛天依"
+
+[[discs.tracks]]
+title = "焉有曲"
+artist = "ZOMiG、洛天依"
+
+[[discs.tracks]]
+title = "D!sappear"
+artist = "Zeno、洛天依"
+
+[[discs.tracks]]
+title = "夏夕"
+artist = "Melo、洛天依"
+
+[[discs.tracks]]
+title = "Ember of Phoenix"
+artist = "战场原妖精、洛天依"
+
+[[discs.tracks]]
+title = "女孩你为何踮脚尖"
+artist = "秦楼凤吹、洛天依"
+
+[[discs.tracks]]
+title = "Seattle物语"
+artist = "Ddickky、洛天依"
+
+[[discs.tracks]]
+title = "Endless Wishes"
+artist = "ZOMiG、洛天依"

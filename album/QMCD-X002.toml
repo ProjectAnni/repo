@@ -1,0 +1,56 @@
+[album]
+album_id = "39381439-cdb2-427e-bff7-2e687cddec91"
+title = "平行四界Quadimension X-2"
+artist = "星尘、海伊、苍穹、赤羽、诗岸、牧心、Minus"
+date = 2021-10-26
+type = "normal"
+catalog = "QMCD-X002"
+tags = [
+  "平行四界 五维介质",
+  "星尘",
+  "海伊",
+  "苍穹",
+  "赤羽",
+  "诗岸",
+  "牧心",
+  "Minus",
+]
+
+[[discs]]
+catalog = "QMCD-X002"
+
+[[discs.tracks]]
+title = "Whispering Snowflakes"
+artist = "Bitman、陌生来访、海伊、星尘"
+
+[[discs.tracks]]
+title = "SHan山梦游仙境"
+artist = "PoKeR、诗岸"
+
+[[discs.tracks]]
+title = "调味家"
+artist = "星辉P、瑞安Ryan、海伊"
+
+[[discs.tracks]]
+title = "清风寻梦"
+artist = "PoKeR、顾令、赤羽、苍穹"
+
+[[discs.tracks]]
+title = "六如亭"
+artist = "papaw泡泡、瑞安Ryan、牧心"
+
+[[discs.tracks]]
+title = "迷航"
+artist = "胧、瑞安Ryan、Minus"
+
+[[discs.tracks]]
+title = "星辰StarLight"
+artist = "Evalia、瑞安Ryan、星尘"
+
+[[discs.tracks]]
+title = "须臾永恒"
+artist = "Zeno、Minus"
+
+[[discs.tracks]]
+title = "光"
+artist = "Kide、瑞安Ryan、星尘"
