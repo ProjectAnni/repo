@@ -5,6 +5,7 @@ artist = "LiSA"
 date = 2012-02-22
 type = "normal"
 catalog = "SVWC-7824"
+tags = ["LiSA"]
 
 [[discs]]
 catalog = "SVWC-7824"

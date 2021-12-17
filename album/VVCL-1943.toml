@@ -1,0 +1,31 @@
+[album]
+album_id = "6e06b1e1-f7de-4ede-98eb-e78b6f70c40f"
+title = "明け星／白銀"
+artist = "LiSA"
+date = 2021-11-17
+type = "normal"
+catalog = "VVCL-1943"
+tags = ["LiSA"]
+
+[[discs]]
+catalog = "VVCL-1943"
+
+[[discs.tracks]]
+title = "明け星"
+
+[[discs.tracks]]
+title = "白銀"
+
+[[discs.tracks]]
+title = "明け星 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "白銀 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "明け星 -TV Ver.-"
+
+[[discs.tracks]]
+title = "白銀 -TV Ver.-"
