@@ -1,10 +1,12 @@
 [album]
 album_id = "60bbe6b6-ed8b-4c4a-80cf-b8bbc24e0a93"
-title = "風は吹いてるか？【完全生産限定盤】"
+title = "風は吹いてるか？"
+edition = "完全生産限定盤"
 artist = "22/7"
 date = 2020-09-30
 type = "normal"
 catalog = "SRCL-11547"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-11547"

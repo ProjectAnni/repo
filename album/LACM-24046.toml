@@ -5,6 +5,7 @@ artist = "ChouCho"
 date = 2020-10-28
 type = "normal"
 catalog = "LACM-24046"
+tags = ["魔女の旅々"]
 
 [[discs]]
 catalog = "LACM-24046"

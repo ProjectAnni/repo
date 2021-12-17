@@ -5,6 +5,7 @@ artist = "上田麗奈"
 date = 2018-02-07
 type = "normal"
 catalog = "LACM-14724"
+tags = ["上田麗奈"]
 
 [[discs]]
 catalog = "LACM-14724"

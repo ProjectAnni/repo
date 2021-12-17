@@ -5,6 +5,7 @@ artist = "ARCANA PROJECT"
 date = 2021-02-10
 type = "normal"
 catalog = "LACM-24085"
+tags = ["回復術士のやり直し"]
 
 [[discs]]
 catalog = "LACM-24085"

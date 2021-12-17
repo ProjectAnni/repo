@@ -5,6 +5,7 @@ artist = "monet"
 date = 2010-05-03
 type = "normal"
 catalog = "KEROQ-013-01"
+tags = ["素晴らしき日々"]
 
 [[discs]]
 catalog = "KEROQ-013-01"

@@ -5,6 +5,7 @@ artist = "チマメ隊"
 date = 2016-11-25
 type = "normal"
 catalog = "GNCA-1500"
+tags = ["ご注文はうさぎですか？"]
 
 [[discs]]
 catalog = "GNCA-1500"

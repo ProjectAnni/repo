@@ -5,6 +5,7 @@ artist = "水樹奈々"
 date = 2016-12-21
 type = "normal"
 catalog = "KICS-3456"
+tags = ["水樹奈々"]
 
 [[discs]]
 catalog = "KICS-3456"

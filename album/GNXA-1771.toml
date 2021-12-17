@@ -5,6 +5,7 @@ artist = "Petit Rabbit's"
 date = 2015-12-25
 type = "normal"
 catalog = "GNXA-1771"
+tags = ["ご注文はうさぎですか？？"]
 
 [[discs]]
 catalog = "GNXA-1771"

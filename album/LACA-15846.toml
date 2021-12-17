@@ -5,6 +5,7 @@ artist = "樋口楓"
 date = 2020-12-26
 type = "normal"
 catalog = "LACA-15846"
+tags = ["樋口楓"]
 
 [[discs]]
 catalog = "LACA-15846"

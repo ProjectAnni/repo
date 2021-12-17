@@ -5,6 +5,7 @@ artist = "THE IDOLM@STER FIVE STARS!!!!!"
 date = 2020-09-30
 type = "normal"
 catalog = "LACM-24025"
+tags = ["THE IDOLM@STER MILLION LIVE"]
 
 [[discs]]
 catalog = "LACM-24025"

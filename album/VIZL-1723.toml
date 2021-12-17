@@ -5,6 +5,7 @@ artist = "ラピスリライツ・スターズ"
 date = 2020-02-05
 type = "normal"
 catalog = "VIZL-1723"
+tags = ["Lapis Re:LiGHTs:"]
 
 [[discs]]
 catalog = "VIZL-1723"

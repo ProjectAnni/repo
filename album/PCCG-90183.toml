@@ -5,6 +5,7 @@ artist = "響け！ユーフォニアム"
 date = 2021-03-24
 type = "drama"
 catalog = "PCCG-90183"
+tags = ["響け！ユーフォニアム"]
 
 [[discs]]
 catalog = "PCCG-90183-01"

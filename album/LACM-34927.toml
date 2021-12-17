@@ -5,6 +5,7 @@ artist = "Liyuu"
 date = 2020-01-22
 type = "normal"
 catalog = "LACM-34927"
+tags = ["Liyuu"]
 
 [[discs]]
 catalog = "LACM-34927"

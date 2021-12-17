@@ -5,6 +5,7 @@ artist = "内田彩"
 date = 2019-03-06
 type = "normal"
 catalog = "COZC-1514"
+tags = ["五等分の花嫁", "内田彩"]
 
 [[discs]]
 catalog = "COZC-1514"

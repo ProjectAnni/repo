@@ -5,6 +5,7 @@ artist = "雨宮天"
 date = 2020-09-02
 type = "normal"
 catalog = "SMCL-673"
+tags = ["雨宮天"]
 
 [[discs]]
 catalog = "SMCL-673"

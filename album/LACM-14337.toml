@@ -5,6 +5,7 @@ artist = "田所あずさ"
 date = 2015-04-22
 type = "normal"
 catalog = "LACM-14337"
+tags = ["田所あずさ"]
 
 [[discs]]
 catalog = "LACM-14337"

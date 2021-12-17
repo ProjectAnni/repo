@@ -5,6 +5,7 @@ artist = "田所あずさ"
 date = 2016-07-06
 type = "normal"
 catalog = "LACA-35562"
+tags = ["田所あずさ"]
 
 [[discs]]
 catalog = "LACA-35562"

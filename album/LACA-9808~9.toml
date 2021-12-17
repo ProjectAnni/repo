@@ -5,6 +5,7 @@ artist = "AstroNoteS"
 date = 2021-01-27
 type = "absolute"
 catalog = "LACA-9808~9"
+tags = ["魔女の旅々"]
 
 [[discs]]
 catalog = "LACA-9808"
