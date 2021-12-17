@@ -42,7 +42,7 @@ includes = [
   "Morfonica",
   "Roselia",
   "少女☆歌劇 レヴュースタァライト",
-  { name = "Lapis Re:LiGHTs" },
+  "Lapis Re:LiGHTs:",
   "ナナブンノニジュウニ",
   "Pyxis",
   "HoneyWorks",
