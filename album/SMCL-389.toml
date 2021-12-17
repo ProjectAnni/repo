@@ -5,6 +5,7 @@ artist = "HoneyWorks"
 date = 2015-07-15
 type = "normal"
 catalog = "SMCL-389"
+tags = ["HoneyWorks"]
 
 [[discs]]
 catalog = "SMCL-389"

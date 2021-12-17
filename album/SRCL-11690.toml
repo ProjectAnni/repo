@@ -1,10 +1,12 @@
 [album]
 album_id = "47688a38-cf4d-4358-bbf3-ef10b9d4ec09"
-title = "僕が持ってるものなら【完全生産限定盤】"
+title = "僕が持ってるものなら"
+edition = "完全生産限定盤"
 artist = "22/7"
 date = 2021-02-24
 type = "normal"
 catalog = "SRCL-11690"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-11690"

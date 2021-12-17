@@ -5,6 +5,7 @@ artist = "YOASOBI"
 date = 2021-03-24
 type = "normal"
 catalog = "XSCL-54"
+tags = ["YOASOBI"]
 
 [[discs]]
 catalog = "XSCL-54"

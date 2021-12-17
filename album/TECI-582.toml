@@ -5,6 +5,7 @@ artist = "Pyxis（豊田萌絵、伊藤美来）"
 date = 2017-09-13
 type = "normal"
 catalog = "TECI-582"
+tags = ["Pyxis"]
 
 [[discs]]
 catalog = "TECI-582"

@@ -5,6 +5,7 @@ artist = "鬼頭明里"
 date = 2020-10-28
 type = "normal"
 catalog = "PCCG-01940"
+tags = ["安達としまむら"]
 
 [[discs]]
 catalog = "PCCG-01940"

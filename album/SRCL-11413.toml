@@ -1,10 +1,12 @@
 [album]
 album_id = "41059dde-6435-49e0-a1b8-8fd303a13556"
-title = "ムズイ【初回仕様限定盤Type-A】"
+title = "ムズイ"
+edition = "初回仕様限定盤Type-A"
 artist = "22/7"
 date = 2020-02-26
 type = "normal"
 catalog = "SRCL-11413"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-11413"

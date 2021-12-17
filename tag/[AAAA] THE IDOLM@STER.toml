@@ -1,4 +1,389 @@
 [[tag]]
 name = "THE IDOLM@STER"
 alias = ["IM@S"]
-includes = ["THE IDOLM@STER STARLIT SEASON", "THE IDOLM@STER POPLINKS"]
+includes = [
+  #
+  # [x] THE IDOLM@STER MASTERPIECE 01 (2005/09/28)
+  # [x] THE IDOLM@STER MASTERPIECE 02 (2005/11/02)
+  # [x] THE IDOLM@STER MASTERPIECE 03 (2005/11/30)
+  # [x] THE IDOLM@STER MASTERPIECE 04 (2006/03/22)
+  # [x] THE IDOLM@STER MASTERPIECE 05 (2006/05/31)
+  "THE IDOLM@STER MASTERPIECE",
+  #
+  # [ ] THE IDOLM@STER ドラマCD Scene.01 (2005/12/22)
+  # [ ] THE IDOLM@STER ドラマCD Scene.02 (2006/02/24)
+  # [ ] THE IDOLM@STER ドラマCD Scene.03 (2006/03/24)
+  # [ ] THE IDOLM@STER ドラマCD Scene.04 (2006/04/21)
+  # [ ] THE IDOLM@STER ドラマCD Scene.05 EXTRA STAGE 1 (2006/06/23)
+  # [ ] THE IDOLM@STER ドラマCD Scene.06 EXTRA STAGE 2 (2006/07/21)
+  "THE IDOLM@STER ドラマCD",
+  #
+  # [ ] Gratitude (2006/04/24)
+  # [ ] アン・ハッピーバースデー？ (2006年9月)
+  # [x] THE IDOLM@STER YOUR SONG (2007/01/18)
+  # [x] Ami＆Mami’s Super Birthday! (2007年2月)
+  # [x] Gratitude アニメイト版 (2007/04/24)
+  # [x] Sound of Raindrops (2007年6月)
+  # [x] 晴れ時々曇り後台風、後晴れ (2008年1月)
+  "765ショップ",
+  #
+  # [x] THE IDOLM@STER MASTER BOX I (2006/07/19)
+  # [x] THE IDOLM@STER MASTER BOX II (2007/04/04)
+  # [ ] THE IDOLM@STER MASTER BOX I＆II (2008/02/06)
+  # [x] THE IDOLM@STER MASTER BOX III (2008/04/30)
+  # [x] THE IDOLM@STER MASTER BOX IV (2008/09/24)
+  # [ ] THE IDOLM@STER MASTER BOX V (2009/03/18)
+  # [ ] THE IDOLM@STER MASTER BOX catalog 08,09,11 COMPLETE (2009年5月)
+  # [ ] THE IDOLM@STER MASTER BOX VI (2010/03/31)
+  # [ ] THE IDOLM@STER MASTER BOX VII (2011/06/25)
+  # [ ] THE IDOLM@STER MASTER BOX VIII (2013/02/09)
+  "THE IDOLM@STER MASTER BOX",
+  #
+  # [ ] THE IDOLM@STER RADIO スタジオコースト出蝶版！ (2006/07/23)
+  # [ ] THE IDOLM@STER RADIO 歌姫楽園 (2006/09/27)
+  # [ ] THE IDOLM@STER RADIO TOP×TOP！ (2007/05/30)
+  # [ ] THE IDOLM@STER RADIO VOCAL MASTER (2008/04/02)
+  # [ ] THE IDOLM@STER RADIO COLORFUL MEMORIES (2008/06/04)
+  # [ ] THE IDOLM@STER RADIO 歌道場 (2009/03/25)
+  # [ ] THE IDOLM@STER RADIO LONG TIME (2009/07/01)
+  "THE IDOLM@STER RADIO",
+  #
+  # [ ] SHINING STAR ★彡 (2006/08/11)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.1 (2006/09/22)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.1 限定版 (2006/09/22)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.2 (2006/10/25)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.2 限定版 (2006/10/25)
+  # [ ] ラジオdeアイマSHOW! プレミアムCD (2006年11月)
+  # [ ] DJCD SP ラジオdeアイマSHOW! 出張版 ～コミックマーケット71であなたとEngage!～ (2006/12/29)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.3 (2007/03/21)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.4 (2007/04/25)
+  # [ ] DJCD SP ラジオdeアイマSHOW! 2007年夏の感謝祭特別編！と言っておけばいいんじゃない？ (2007/08/17)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.4.5 (2007/10/24)
+  # [ ] DJCD ラジオdeアイマSHOW! Vol.5 (2007/12/21)
+  "ラジオdeアイマSHOW!",
+  #
+  # [x] THE IDOLM@STER MASTERWORK 00 (2006/12/20)
+  # [x] THE IDOLM@STER MASTERWORK 01 (2007/01/31)
+  # [x] THE IDOLM@STER MASTERWORK 02 (2007/02/28)
+  # [x] THE IDOLM@STER MASTERWORK 03 (2007/03/28)
+  "THE IDOLM@STER MASTERWORK",
+  #
+  # [ ] THE IDOLM@STER ドラマCD NEW STAGE 01 (2006/12/22)
+  # [ ] THE IDOLM@STER ドラマCD NEW STAGE 02 (2007/01/25)
+  # [ ] THE IDOLM@STER ドラマCD NEW STAGE 03 (2007/02/23)
+  "THE IDOLM@STER ドラマCD NEW STAGE",
+  #
+  # [x] THE IDOLM@STER MASTER ARTIST 01 (2007/07/18)
+  # [x] THE IDOLM@STER MASTER ARTIST 02 (2007/07/18)
+  # [x] THE IDOLM@STER MASTER ARTIST 03 (2007/08/01)
+  # [x] THE IDOLM@STER MASTER ARTIST 04 (2007/08/01)
+  # [x] THE IDOLM@STER MASTER ARTIST 05 (2007/08/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 06 (2007/08/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 07 (2007/09/05)
+  # [x] THE IDOLM@STER MASTER ARTIST 08 (2007/09/05)
+  # [x] THE IDOLM@STER MASTER ARTIST 10 (2007/09/19)
+  # [x] THE IDOLM@STER MASTER ARTIST 09 (2007/10/03)
+  # [x] THE IDOLM@STER MASTER ARTIST FINALE (2007/10/24)
+  "THE IDOLM@STER MASTER ARTIST",
+  #
+  # [x] THE IDOLM@STER MASTER LIVE 00 (2008/02/13)
+  # [x] THE IDOLM@STER MASTER LIVE 01 (2008/03/05)
+  # [x] THE IDOLM@STER MASTER LIVE 02 (2008/04/16)
+  # [x] THE IDOLM@STER MASTER LIVE 03 (2008/05/14)
+  # [x] THE IDOLM@STER MASTER LIVE 04 (2008/06/18)
+  # [x] THE IDOLM@STER MASTER LIVE ENCORE (2008/10/29)
+  "THE IDOLM@STER MASTER LIVE",
+  #
+  # [ ] DJCD アイドルマスター Radio For You! Vol.0？ (2007/12/29)
+  # [ ] DJCD アイドルマスター Radio For You! Vol.1 (2008/04/23)
+  # [ ] DJCD SP アイドルマスター Radio For You! 結納～you-i know～ (2008/04/23)
+  # [ ] DJCD SP アイドルマスター Radio For You! KOTORIMIX (2008/08/15)
+  # [ ] DJCD アイドルマスター Radio For You! Vol.2 (2008/09/25)
+  # [ ] DJCD SP アイドルマスター Radio For You! Radio For 結～you-i～ (2008/10/24)
+  "アイドルマスター Radio For You!",
+  #
+  # [ ] ファミソン8BIT☆アイドルマスター01 (2008/03/25)
+  # [ ] ファミソン8BIT☆アイドルマスター02 (2008/04/02)
+  # [ ] ファミソン8BIT☆アイドルマスター03 (2008/04/23)
+  # [ ] ファミソン8BIT☆アイドルマスター04 (2008/05/28)
+  # [ ] ファミソン8BIT☆アイドルマスター05 (2008/06/25)
+  # [ ] ファミソン8BIT☆アイドルマスター BEST ALBUM (2011/10/19)
+  "ファミソン8BIT☆アイドルマスター",
+  #
+  # [ ] THE IDOLM@STER BEST ALBUM MASTER OF MASTER (2008/11/19)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.01 (2010/05/12)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.01 初回限定盤 (2010/05/12)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.02 (2010/06/02)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.02 初回限定盤 (2010/06/02)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.03 (2010/06/23)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! VOL.03 初回限定盤 (2010/06/23)
+  # [ ] THE IDOLM@STER BEST OF 765+876=!! THE iDRE@MLOST (2010/07/03)
+  # [ ] THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -THE IDOLM@STER HISTORY- (2013/09/18)
+  # [ ] THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -SWEET&SMILE!- (2013/10/23)
+  # [ ] THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -COOL&BITTER!- (2013/11/20)
+  # [ ] THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! -LOVE&PEACE!- (2013/12/18)
+  "THE IDOLM@STER BEST",
+  #
+  # [x] THE IDOLM@STER MASTER SPECIAL 765 (2008/12/10)
+  # [x] THE IDOLM@STER MASTER SPECIAL 961 (2008/12/10)
+  # [x] THE IDOLM@STER MASTER SPECIAL 01 (2009/02/04)
+  # [x] THE IDOLM@STER MASTER SPECIAL 02 (2009/03/04)
+  # [x] THE IDOLM@STER MASTER SPECIAL 03 (2009/04/01)
+  # [x] THE IDOLM@STER MASTER SPECIAL 04 (2009/05/13)
+  # [x] THE IDOLM@STER MASTER SPECIAL 05 (2009/07/01)
+  # [x] THE IDOLM@STER MASTER SPECIAL 06 (2009/08/05)
+  # [x] THE IDOLM@STER MASTER SPECIAL WINTER (2009/12/16)
+  # [x] THE IDOLM@STER MASTER SPECIAL SPRING (2010/03/17)
+  "THE IDOLM@STER MASTER SPECIAL",
+  #
+  # [ ] アイドルマスター Eternal Prism 01 (2008/12/25)
+  # [ ] アイドルマスター Eternal Prism 02 (2009/01/23)
+  # [ ] アイドルマスター Eternal Prism 03 (2009/02/25)
+  # [ ] アイドルマスター Eternal Prism プレミアムCD (2009年5月)
+  "アイドルマスター Eternal Prism",
+  #
+  # [ ] DJCD EXTRA アイドルマスター P.S.プロデューサー PR For You！ (2008/12/28)
+  # [ ] DJCD アイドルマスター P.S.プロデューサー Vol.1 (2009/04/24)
+  # [ ] DJCD アイドルマスター P.S.プロデューサー Vol.2 (2009/08/26)
+  # [ ] DJCD アイドルマスター P.S.プロデューサー Vol.3 (2009/10/28)
+  "アイドルマスター P.S.プロデューサー",
+  #
+  # [x] THE IDOLM@STER DREAM SYMPHONY 00 (2009/09/09)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 01 (2009/10/14)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 02 (2009/11/04)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 03 (2009/12/02)
+  "THE IDOLM@STER DREAM SYMPHONY",
+  #
+  # [ ] アイドルマスターブレイク！第2巻 限定版特製CD (2009/10/02)
+  # [ ] アイドルマスターブレイク！第3巻 限定版特製CD (2010/06/04)
+  # [ ] アイドルマスターブレイク！第4巻 限定版特製CD (2011/03/04)
+  "アイドルマスターブレイク！",
+  #
+  # [ ] THE IDOLM@STER Vocal Collection 01 (2010/02/24)
+  # [ ] THE IDOLM@STER Vocal Collection 02 (2010/04/21)
+  "THE IDOLM@STER Vocal Collection",
+  #
+  # [ ] THE IDOLM@STER STATION!!! FIRST TRAVEL (2010/03/24)
+  # [ ] THE IDOLM@STER STATION!!! SECOND TRAVEL ～Seaside Date～ (2010/06/30)
+  # [ ] THE IDOLM@STER STATION!!! THIRD TRAVEL WANTED (2011/04/13)
+  # [ ] HEART AND SOUL -THE IDOLM@STER STATION!!!- (2011/09/28)
+  # [ ] THE IDOLM@STER STATION!!! Nouvelle Vague (2012/02/29)
+  # [ ] THE IDOLM@STER STATION!!! Amazing grace (2012/12/12)
+  # [ ] THE IDOLM@STER STATION!!! FAVORITE TALKS (2013/07/17)
+  # [ ] THE IDOLM@STER STATION!!! in WonderRadio (2015/11/18)
+  "THE IDOLM@STER STATION!!!",
+  #
+  # [ ] THE IDOLM@STER STATION!!+ WINTER MEMORIES (2014/03/05)
+  # [ ] THE IDOLM@STER STATION!!+ Monday Night Fever☆ (2014/10/01)
+  "THE IDOLM@STER STATION!!!+",
+  #
+  # [ ] DJCD ラジオdeアイマSTAR☆ SP1 (2010/06/23)
+  # [ ] DJCD ラジオdeアイマSTAR☆ Summer Stage 2010 (2010/09/08)
+  # [ ] DJCD ラジオdeアイマSTAR☆ SP02 ～Graduation～ (2011/08/12)
+  "ラジオdeアイマSTAR☆",
+  #
+  # [x] THE IDOLM@STER MASTER ARTIST 2 Prologue (2010/09/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 01 (2010/11/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 02 (2010/11/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 03 (2010/11/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 04 (2010/12/01)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 05 (2010/12/01)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 06 (2010/12/01)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 07 (2010/12/29)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 08 (2010/12/29)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -FIRST SEASON- 09 (2010/12/29)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 01 (2011/05/25)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 02 (2011/05/25)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 03 (2011/06/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 2 -SECOND SEASON- 04 (2011/06/22)
+  "THE IDOLM@STER MASTER ARTIST 2",
+  #
+  # [x] THE IDOLM@STER 2 「SMOKY THRILL」 (2011/02/09)
+  # [x] THE IDOLM@STER 2 「The world is all one !!」 (2011/02/09)
+  # [x] アイドルマスター2・ゲームサウンドトラックCD (2011/10/27)
+  # [x] THE IDOLM@STER Jupiter (2011/11/23)
+  "THE IDOLM@STER 2",
+  #
+  # [ ] ドラマCD ぷちます！-PETIT IDOLM@STER- 1 (2011/04/27)
+  # [ ] ドラマCD ぷちます！-PETIT IDOLM@STER- 2 (2011/07/27)
+  # [ ] 『ぷちます！』 ドラマCD おためしばん！ (2011/07/27)
+  # [ ] ぷちます！ドラマCD連動購入キャンペーンCD (2011年11月)
+  "ドラマCD ぷちます！",
+  #
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 01 (2011/08/10)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 01 初回限定盤 (2011/08/10)
+  # [ ] TVアニメ「アイドルマスター」レンタル限定シングル (2011/08/24)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 02 (2011/09/07)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 03 (2011/10/05)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 04 (2011/11/09)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 04 初回限定盤 (2011/11/09)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 05 (2011/11/30)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 06 (2011/12/28)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 07 (2012/02/01)
+  # [ ] THE IDOLM@STER No Make! (2012/06/23)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER READY!! ソロ・リミックス (2013/07/07)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER CHANGE!!!! ソロ・リミックス (2013/09/15)
+  "THE IDOLM@STER ANIM@TION MASTER",
+  #
+  # [ ] ラジオCD「iM@STUDIO」 Vol.1 (2011/09/23)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.2 (2011/11/23)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.3 (2012/01/25)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.4 (2012/04/25)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.5 (2012/06/20)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.5 アニメイト限定盤 (2012/06/20)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.6 (2012/09/26)
+  # [ ] アイマスタジオテーマソング「アエイウエオア！」 (2012/11/14)
+  # [ ] アイマスタジオ DREAMセット 春香 録りおろしラジオCD (2012/12/29)
+  # [ ] アイマスタジオ DREAMセット 千早 録りおろしラジオCD (2012/12/29)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.7 (2013/01/30)
+  # [ ] iM@STUDIO 春のPHAMPHLET祭り パンフレット 特典録りおろしラジオCD (2013/04/13)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.8 (2013/12/25)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.9 (2014/02/19)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.10 (2014/05/28)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.11 (2014/06/25)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.12 (2014/08/27)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.13 (2014/10/29)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.14 (2014/12/24)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.15 (2015/02/25)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.16 (2015/06/10)
+  # [ ] ラジオCD「iM@STUDIO」 Vol.17 (2015/09/30)
+  "アイマスタジオ",
+  #
+  # [ ] DJCD ラジオdeアイマCHU!! EXTRA (2011/10/19)
+  # [ ] DJCD ラジオdeアイマCHU!! SP01 (2011/11/30)
+  # [ ] DJCD ラジオdeアイマCHU!! SP02 (2012/07/10)
+  # [ ] ラジオdeアイマCHU!!スペシャルCD (2013/05/19)
+  # [ ] DJCD「ラジオdeアイマCHU!!」ワールドCHUアー!! (2014/09/10)
+  # [ ] DJCD ラジオdeアイマCHU!! ますたーぴーCHU!! (2015/01/30)
+  "ラジオdeアイマCHU!!",
+  #
+  # [ ] 「アイドルマスター」765プロ SUMMER ST@RT SET Special Talk＆Drama CD (2011/08/12)
+  # [ ] PERFECT IDOL 01 (2011/10/27)
+  # [ ] アニメ「アイドルマスター」第2巻 完全生産限定版 特典ドラマCD (2011/11/23)
+  # [ ] PERFECT IDOL 02 (2011/12/29)
+  # [ ] PERFECT IDOL 03 (2012/02/23)
+  # [ ] アニメ「アイドルマスター」第6巻 完全生産限定版 特典ドラマCD (2012/03/29)
+  # [ ] PERFECT IDOL 04 (2012/04/26)
+  # [ ] アニメ「アイドルマスター」第9巻 完全生産限定版 特典ドラマCD (2012/06/28)
+  # [ ] 765プロ入社説明CD (2013/03/30)
+  # [ ] THE IDOLM@STER MOVIE VAC@TION PACK!! (2013/08/04)
+  # [ ] Loppi限定 オリジナルドラマCD (2014/03/06)
+  # [ ] PERFECT IDOL THE MOVIE (2014/10/08)
+  "アニメ「アイドルマスター」",
+  #
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 01 (2012/08/15)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 02 (2012/09/05)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 03 (2012/09/26)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 04 (2012/10/17)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 05 (2012/11/07)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL カーテンコール (2013/01/30)
+  # [ ] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 弦楽四重奏 初恋組曲 (2013/04/10)
+  # [ ] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! We Have A Dream & カーテンコール (2014/10/04)
+  "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL",
+  #
+  # [ ] Catch me☆Get you! ～BANPRESTO NO UTA～ (2012年10月)
+  # [ ] YAYOI&YUKIHO COVER -SUMMER SONGS- (2013/07/13)
+  # [ ] MAKOTO&HIBIKI COVER -SUMMER SONGS- (2013/07/13)
+  # [ ] HARUKA&CHIHAYA COVER -WINTER SONGS- (2014/01/25)
+  # [ ] AMI/MAMI&AZUSA COVER -WINTER SONGS- (2014/01/25)
+  # [ ] IORI&RITSUKO COVER -SPRING SONGS- (2014年6月)
+  # [ ] MIKI&TAKANE COVER -SPRING SONGS- (2014年6月)
+  "一番くじ",
+  #
+  # [ ] ら♪ら♪ら♪わんだぁらんど (2012/11/28)
+  # [ ] ぷちます！ -プチ・アイドルマスター- コレクターズエディション Vol.1 SPECIAL DISC (2013/03/27)
+  # [ ] ぷちます！ -プチ・アイドルマスター- コレクターズエディション Vol.2 SPECIAL DISC (2013/04/24)
+  # [ ] ぷちます！ -プチ・アイドルマスター- コレクターズエディション Vol.3 SPECIAL DISC (2013/05/29)
+  # [ ] ぷちます！かんしゃさい～すぺしゃるCD～ (2014/04/18)
+  # [ ] ぷちます!! エンディングマキシシングル (2014/05/28)
+  # [ ] ぷちます!! -プチプチ・アイドルマスター- Vol.1 [Blu-ray] 初回生産特典CD (2014/05/28)
+  # [ ] ぷちます!! -プチプチ・アイドルマスター- Vol.2 [Blu-ray] 初回生産特典CD (2014/06/25)
+  # [ ] ぷちます!! -プチプチ・アイドルマスター- Vol.3 [Blu-ray] 初回生産特典CD (2014/07/30)
+  "アニメ「ぷちます！」",
+  #
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.1 (2013/01/09)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.2 (2013/01/09)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.3 (2013/01/30)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.4 (2013/01/30)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.5 (2013/02/06)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.6 (2013/02/06)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.7 (2013/02/27)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.8 (2013/02/27)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.9 (2013/03/06)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.10 (2013/03/06)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.11 (2013/03/27)
+  # [ ] PETIT IDOLM@STER Twelve Seasons! Vol.12 (2013/03/27)
+  "PETIT IDOLM@STER Twelve Seasons!",
+  #
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』主題歌 M@STERPIECE (2014/01/29)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』主題歌 M@STERPIECE 初回限定盤 (2014/01/29)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』オリジナル・サウンドトラック (2014/02/05)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』オリジナル・サウンドトラック 初回限定盤 (2014/02/05)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』挿入歌 ラムネ色 青春 (2014/06/18)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』挿入歌 ラムネ色 青春 初回限定盤 (2014/06/18)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』エンディング・テーマ 虹色ミラクル (2014/08/13)
+  # [ ] 劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』エンディング・テーマ 虹色ミラクル 初回限定盤 (2014/08/13)
+  # [ ] THE IDOLM@STER M@STERS OF IDOL WORLD!! 2015 M@STERPIECE & 10th Anniversary Mix (2015/07/18)
+  "THE IDOLM@STER MOVIE",
+  #
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.1 (2014/05/28)
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.2 (2014/06/04)
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.3 (2014/06/25)
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.4 (2014/07/09)
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.5 (2014/07/30)
+  # [x] PETIT IDOLM@STER Twelve Campaigns! Vol.6 (2014/08/06)
+  "PETIT IDOLM@STER Twelve Campaigns!",
+  #
+  # [x] THE IDOLM@STER MASTER ARTIST 3 Prologue ONLY MY NOTE (2014/08/27)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 01 天海春香 (2015/04/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 02 我那覇響 (2015/04/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 03 菊地真 (2015/04/22)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 04 星井美希 (2015/06/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 05 水瀬伊織 (2015/06/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 06 四条貴音 (2015/06/03)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 07 如月千早 (2015/07/08)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 08 双海真美 (2015/07/08)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 09 萩原雪歩 (2015/07/08)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 10 高槻やよい (2015/10/21)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 11 三浦あずさ (2015/10/21)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 12 双海亜美 (2015/11/11)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 13 秋月律子 (2015/11/11)
+  # [x] THE IDOLM@STER MASTER ARTIST 3 FINALE (2016/02/17)
+  "THE IDOLM@STER MASTER ARTIST 3",
+  #
+  # [x] THE IDOLM@STER PLATINUM MASTER 00 Happy!
+  # [x] THE IDOLM@STER PLATINUM MASTER 01 Miracle Night
+  # [x] THE IDOLM@STER PLATINUM MASTER 02 僕たちのResistance
+  # [x] THE IDOLM@STER PLATINUM MASTER 03 アマテラス
+  # [x] THE IDOLM@STER PLATINUM MASTER ENCORE 紅白応援V
+  "THE IDOLM@STER PLATINUM MASTER",
+  #
+  # [x] THE IDOLM@STER MASTER PRIMAL ROCKIN' RED
+  # [x] THE IDOLM@STER MASTER PRIMAL DANCIN' BLUE
+  # [x] THE IDOLM@STER MASTER PRIMAL POPPIN' YELLOW
+  "THE IDOLM@STER MASTER PRIMAL",
+  #
+  # [x] THE IDOLM@STER STELLA MASTER 00 ToP!!!!!!!!!!!!!
+  # [x] THE IDOLM@STER STELLA MASTER 01 Vertex Meister
+  # [x] THE IDOLM@STER STELLA MASTER 02 星彩ステッパー
+  # [x] THE IDOLM@STER STELLA MASTER 03 そしてぼくらは旅にでる
+  # [x] THE IDOLM@STER STELLA MASTER ENCORE shy→shining
+  "THE IDOLM@STER STELLA MASTER",
+  #
+  # [x] THE IDOLM@STER MASTER ARTIST 4 01 天海春香
+  # [x] THE IDOLM@STER MASTER ARTIST 4 02 四条貴音
+  # [x] THE IDOLM@STER MASTER ARTIST 4 03 高槻やよい
+  # [x] THE IDOLM@STER MASTER ARTIST 4 04 菊地真
+  # [x] THE IDOLM@STER MASTER ARTIST 4 05 我那覇響
+  # [x] THE IDOLM@STER MASTER ARTIST 4 06 双海亜美
+  # [x] THE IDOLM@STER MASTER ARTIST 4 07 星井美希
+  # [x] THE IDOLM@STER MASTER ARTIST 4 08 三浦あずさ
+  # [x] THE IDOLM@STER MASTER ARTIST 4 09 秋月律子
+  # [x] THE IDOLM@STER MASTER ARTIST 4 10 如月千早
+  # [x] THE IDOLM@STER MASTER ARTIST 4 11 萩原雪歩
+  # [x] THE IDOLM@STER MASTER ARTIST 4 12 水瀬伊織
+  # [x] THE IDOLM@STER MASTER ARTIST 4 13 双海真美
+  "THE IDOLM@STER MASTER ARTIST 4",
+  "THE IDOLM@STER STARLIT SEASON",
+  "THE IDOLM@STER POPLINKS"
+]

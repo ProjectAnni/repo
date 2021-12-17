@@ -1,10 +1,12 @@
 [album]
 album_id = "fbac6fc6-cae1-42d8-a960-484176fa5c32"
-title = "シャンプーの匂いがした【初回仕様限定盤 Type-A】"
+title = "シャンプーの匂いがした"
+edition = "初回仕様限定盤 Type-A"
 artist = "22/7"
 date = 2018-04-11
 type = "normal"
 catalog = "SRCL-9713"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-9713"
