@@ -5,6 +5,7 @@ artist = "Monster Siren Records"
 date = 2021-01-21
 type = "absolute"
 catalog = "ISBN-9787884181773"
+tags = ["明日方舟"]
 
 [[discs]]
 catalog = "ISBN-9787884181773"

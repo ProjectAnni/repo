@@ -5,6 +5,7 @@ artist = "高橋李依"
 date = 2021-06-23
 type = "normal"
 catalog = "AZZS-117"
+tags = ["高橋李依"]
 
 [[discs]]
 catalog = "AZZS-117"

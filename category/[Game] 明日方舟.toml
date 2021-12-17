@@ -1,9 +1,0 @@
-[category]
-name = "明日方舟"
-type = "Game"
-albums = [
-  # OST1
-  "ISBN-9787884181773",
-  # OST2
-  "ISBN-9787884181841"
-]
