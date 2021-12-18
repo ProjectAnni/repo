@@ -1,0 +1,44 @@
+[album]
+album_id = "aa56ecdd-4541-4e99-a743-25f0d884c4c5"
+title = "Doll"
+artist = "SAYAKA"
+date = 2005-02-23
+type = "normal"
+catalog = "SRCL-5881"
+tags = ["SAYAKA"]
+
+[[discs]]
+catalog = "SRCL-5881"
+
+[[discs.tracks]]
+title = "水色"
+
+[[discs.tracks]]
+title = "上弦の月"
+
+[[discs.tracks]]
+title = "カナリヤ"
+
+[[discs.tracks]]
+title = "La La Sunday"
+
+[[discs.tracks]]
+title = "garden (acoustic ver.)"
+
+[[discs.tracks]]
+title = "〜Noise from silence〜"
+
+[[discs.tracks]]
+title = "ever since"
+
+[[discs.tracks]]
+title = "Believe again"
+
+[[discs.tracks]]
+title = "螺旋"
+
+[[discs.tracks]]
+title = "four hours"
+
+[[discs.tracks]]
+title = "Mermaid"
