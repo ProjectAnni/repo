@@ -1,0 +1,33 @@
+[album]
+album_id = "ca6abdaf-d44f-4d89-8602-561652a22b0f"
+title = "シャンプーの匂いがした"
+edition = "初回仕様限定盤 Type-B"
+artist = "22/7"
+date = 2018-04-11
+type = "normal"
+catalog = "SRCL-9715"
+tags = ["ナナブンノニジュウニ"]
+
+[[discs]]
+catalog = "SRCL-9715"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした"
+
+[[discs.tracks]]
+title = "人格崩壊"
+
+[[discs.tracks]]
+title = "叫ぶしかない青春"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "人格崩壊 -off vocal ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "叫ぶしかない青春 -off vocal ver.-"
+type = "instrumental"

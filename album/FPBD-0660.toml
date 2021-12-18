@@ -1,0 +1,84 @@
+[album]
+album_id = "05349666-f664-4dbb-8d77-70d417349565"
+title = "ゆるキャン△ Have a nice day! ゲームオリジナルサウンドトラック"
+artist = "浅乃（VRIDGEサウンド事業部）"
+date = 2021-11-11
+type = "absolute"
+catalog = "FPBD-0660"
+tags = ["ゆるキャン△ Have a nice day!"]
+
+[[discs]]
+catalog = "FPBD-0660"
+
+[[discs.tracks]]
+title = "See The Light (Game Size)"
+artist = "亜咲花"
+type = "normal"
+
+[[discs.tracks]]
+title = "メインテーマ1"
+
+[[discs.tracks]]
+title = "青色の日常"
+
+[[discs.tracks]]
+title = "桃色の日常"
+
+[[discs.tracks]]
+title = "みんなの日常"
+
+[[discs.tracks]]
+title = "ソワソワに包まれて"
+
+[[discs.tracks]]
+title = "楽しくて嬉しくて"
+
+[[discs.tracks]]
+title = "踊るどんぐり"
+
+[[discs.tracks]]
+title = "綿帽子"
+
+[[discs.tracks]]
+title = "夜明けとともに"
+
+[[discs.tracks]]
+title = "落ち葉"
+
+[[discs.tracks]]
+title = "さぁ踊りましょ！"
+
+[[discs.tracks]]
+title = "遠すぎる昨日"
+
+[[discs.tracks]]
+title = "冷たい風"
+
+[[discs.tracks]]
+title = "天使の梯子"
+
+[[discs.tracks]]
+title = "風追い"
+
+[[discs.tracks]]
+title = "緊急事態！"
+
+[[discs.tracks]]
+title = "プレッシャー"
+
+[[discs.tracks]]
+title = "優しいセカイ？"
+
+[[discs.tracks]]
+title = "めりくり1"
+
+[[discs.tracks]]
+title = "めりくり2"
+
+[[discs.tracks]]
+title = "メインテーマ2"
+
+[[discs.tracks]]
+title = "ロッホと旅人 (Game Size)"
+artist = "佐々木恵梨"
+type = "normal"

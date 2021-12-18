@@ -1,0 +1,202 @@
+[album]
+album_id = "573e758a-4db5-4b8c-b5dc-7b3c19e3139f"
+title = "『ご注文はうさぎですか？』10thAnniversary 主題歌リアレンジ&ハイレゾベスト"
+artist = "Various Artists"
+date = 2021-11-11
+type = "normal"
+catalog = "GNCA-1605"
+tags = ["ご注文はうさぎですか？"]
+
+[[discs]]
+title = "『ご注文はうさぎですか？』10thAnniversary リアレンジトラックリスト"
+catalog = "GNCA-160501"
+
+[[discs.tracks]]
+title = "Daydream café ～Re arranged～"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ ～Re arranged～"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "ノーポイッ！～Re arranged～"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪ ～Re arranged～"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～Re arranged～"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "なかよし！〇！なかよし！～Re arranged～"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "Daydream café ～Re arranged～ (Instrumental)"
+artist = "Petit Rabbit's"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪ ～Re arranged～ (Instrumental)"
+artist = "チマメ隊"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ノーポイッ！～Re arranged～ (Instrumental)"
+artist = "Petit Rabbit's"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪ ～Re arranged～ (Instrumental)"
+artist = "チマメ隊"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "天空カフェテリア ～Re arranged～ (Instrumental)"
+artist = "Petit Rabbit's"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なかよし！〇！なかよし！～Re arranged～ (Instrumental)"
+artist = "チマメ隊"
+type = "instrumental"
+
+[[discs]]
+title = "『ご注文はうさぎですか？』10thAnniversary ハイレゾ版のトラックリスト"
+catalog = "GNCA-160502"
+
+[[discs.tracks]]
+title = "Daydream café"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "スマイルメーカー"
+artist = "ココア（佐倉綾音）"
+
+[[discs.tracks]]
+title = "a cup of happiness"
+artist = "チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Love & Gun"
+artist = "リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "色葉おしながき"
+artist = "千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "麗しのShooting star"
+artist = "シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "ぽっぴんジャンプ♪"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "ノーポイッ！"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "ナマイキTiny Heart"
+artist = "マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "ナイショのはなしは夢の中で"
+artist = "メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "うさぎになったバリスタ"
+artist = "青山ブルーマウンテン（早見沙織）"
+
+[[discs.tracks]]
+title = "おいしいパンの作り方"
+artist = "モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "ときめきポポロン♪"
+artist = "チマメ隊"
+
+[[discs.tracks]]
+title = "全天候型いらっしゃいませ"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Rabbit Hole"
+artist = "ココア（佐倉綾音）、リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "ずっと一緒"
+artist = "千夜（佐藤聡美）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "のんピースマイペース"
+artist = "ココア（佐倉綾音）、千夜（佐藤聡美）"
+
+[[discs.tracks]]
+title = "ラ・ラ・ラ！ラ？モーニング"
+artist = "チノ（水瀬いのり）、モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "Sing a Song!!!!!"
+artist = "リゼ（種田梨沙）、マヤ（徳井青空）"
+
+[[discs.tracks]]
+title = "足音タルトタタン♪"
+artist = "シャロ（内田真礼）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "きらめきカフェタイム"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）"
+
+[[discs.tracks]]
+title = "VSマイペース？"
+artist = "チノ（水瀬いのり）、リゼ（種田梨沙）、シャロ（内田真礼）"
+
+[[discs.tracks]]
+title = "Fantastic Rabbit House"
+artist = "青山ブルーマウンテン（早見沙織）、モカ（茅野愛衣）、タカヒロ（速水奨）"
+
+[[discs.tracks]]
+title = "Daydream café ～Christmas ver.～"
+artist = "青山ブルーマウンテン（早見沙織）、タカヒロ（速水奨）"
+
+[[discs.tracks]]
+title = "一匙のお姫さま物語"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "宝箱のジェットコースター"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "にっこりカフェの魔法使い"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "ハピネスアンコール"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "なんとなくミライ"
+artist = "Petit Rabbit's"
+
+[[discs.tracks]]
+title = "本日は誠にラリルレイン"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）、千夜（佐藤聡美）、シャロ（内田真礼）、マヤ（徳井青空）、メグ（村川梨衣）"
+
+[[discs.tracks]]
+title = "WELCOME【う・さ！】"
+artist = "ココア（佐倉綾音）、チノ（水瀬いのり）、リゼ（種田梨沙）、千夜（佐藤聡美）、シャロ（内田真礼）、マヤ（徳井青空）、メグ（村川梨衣）、青山ブルーマウンテン（早見沙織）、モカ（茅野愛衣）"
+
+[[discs.tracks]]
+title = "セカイがカフェになっちゃった！"
+artist = "Petit Rabbit's with beans"
+
+[[discs.tracks]]
+title = "日常デコレーション"
+artist = "Petit Rabbit's"

@@ -1,0 +1,56 @@
+[album]
+album_id = "85ace497-b872-472f-a4f2-c2c4dee2ddab"
+title = "はっちゃけダイアローグ＋クリスマス！"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2021-12-15
+type = "normal"
+catalog = "BRCG-00080"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "BRCG-00080"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！"
+
+[[discs.tracks]]
+title = "DIALOGUE＋は上々だ (ぼくたちのかくめい！[再]Live ver.)"
+
+[[discs.tracks]]
+title = "DIALOGUE＋はまた立ち上がる (ぼくたちのかくめい！[再]Live ver.)"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(内山悠里菜 Ver.)"
+artist = "内山悠里菜"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(稗田寧々 Ver.)"
+artist = "稗田寧々"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(守屋亨香 Ver.)"
+artist = "守屋亨香"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(緒方佑奈 Ver.)"
+artist = "緒方佑奈"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(鷹村彩花 Ver.)"
+artist = "鷹村彩花"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(宮原颯希 Ver.)"
+artist = "宮原颯希"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(飯塚麻結 Ver.)"
+artist = "飯塚麻結"
+
+[[discs.tracks]]
+title = "はっちゃけダイアローグ＋クリスマス！(村上まなつ Ver.)"
+artist = "村上まなつ"

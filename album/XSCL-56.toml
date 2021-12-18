@@ -1,0 +1,36 @@
+[album]
+album_id = "e9b7789b-8825-47ed-99b8-ba8ccb17710c"
+title = "THE BOOK 2"
+artist = "YOASOBI"
+date = 2021-12-01
+type = "normal"
+catalog = "XSCL-56"
+tags = ["YOASOBI"]
+
+[[discs]]
+catalog = "XSCL-56"
+
+[[discs.tracks]]
+title = "ツバメ"
+artist = "YOASOBI、ミドリーズ"
+
+[[discs.tracks]]
+title = "三原色"
+
+[[discs.tracks]]
+title = "大正浪漫"
+
+[[discs.tracks]]
+title = "もう少しだけ"
+
+[[discs.tracks]]
+title = "優しい彗星"
+
+[[discs.tracks]]
+title = "怪物"
+
+[[discs.tracks]]
+title = "もしも命が描けたら"
+
+[[discs.tracks]]
+title = "ラブレター"
