@@ -1,0 +1,18 @@
+[album]
+album_id = "0b5df2eb-4af1-45f8-83e6-0e6c32b7284e"
+title = "恋をして"
+artist = "Le☆S☆Ca（上杉・ウエバス・キョーコ（井上ほの花）、荒木レナ（飯塚麻結）、西園ホノカ（植田ひかる））"
+date = 2021-12-14
+type = "normal"
+catalog = "DN-152143"
+tags = ["Le☆S☆Ca"]
+
+[[discs]]
+catalog = "DN-152143"
+
+[[discs.tracks]]
+title = "恋をして"
+
+[[discs.tracks]]
+title = "恋をして -OFF VOCAL-"
+type = "instrumental"
