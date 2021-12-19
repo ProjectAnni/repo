@@ -1,0 +1,21 @@
+[album]
+album_id = "7aed6326-1bce-496c-9841-3354eb9ae50e"
+title = "水色"
+artist = "SAYAKA"
+date = 2004-09-29
+type = "normal"
+catalog = "SRCL-5827"
+tags = ["SAYAKA"]
+
+[[discs]]
+catalog = "SRCL-5827"
+
+[[discs.tracks]]
+title = "水色"
+
+[[discs.tracks]]
+title = "Four hours"
+
+[[discs.tracks]]
+title = "水色 (Backing Track)"
+type = "instrumental"

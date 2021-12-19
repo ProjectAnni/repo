@@ -1,0 +1,46 @@
+[album]
+album_id = "78d533bb-822f-4eea-8c27-cda6538056cd"
+title = "MUSICALOID #38 Act.2"
+edition = "彼方乃サヤ盤"
+artist = "神田沙也加"
+date = 2019-08-07
+type = "normal"
+catalog = "QWCE-00750"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "QWCE-00750"
+
+[[discs.tracks]]
+title = "Good Morning, Polar Night"
+
+[[discs.tracks]]
+title = "リコレクションエンドロウル"
+
+[[discs.tracks]]
+title = "Alice in 冷凍庫"
+
+[[discs.tracks]]
+title = "Tómur"
+
+[[discs.tracks]]
+title = "ワールド・ランプシェード"
+
+[[discs.tracks]]
+title = "妄想感傷代償連盟"
+
+[[discs.tracks]]
+title = "ガランド"
+
+[[discs.tracks]]
+title = "銀河録"
+
+[[discs.tracks]]
+title = "Carry Me Off"
+
+[[discs.tracks]]
+title = "ロキ"
+artist = "神田沙也加、緒方恵美"
+
+[[discs.tracks]]
+title = "心とかいう名前の未発見の臓器の機能についての考察"

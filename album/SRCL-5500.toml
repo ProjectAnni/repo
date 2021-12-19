@@ -1,0 +1,21 @@
+[album]
+album_id = "0f338690-cf1a-41b2-b71b-53247af8c38c"
+title = "ever since"
+artist = "SAYAKA"
+date = 2002-05-09
+type = "normal"
+catalog = "SRCL-5500"
+tags = ["SAYAKA"]
+
+[[discs]]
+catalog = "SRCL-5500"
+
+[[discs.tracks]]
+title = "ever since"
+
+[[discs.tracks]]
+title = "How do you do?"
+
+[[discs.tracks]]
+title = "ever since (backtracks)"
+type = "instrumental"

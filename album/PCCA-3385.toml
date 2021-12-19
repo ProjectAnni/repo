@@ -1,0 +1,43 @@
+[album]
+album_id = "33773651-9dcb-403c-b9ab-4ced780578a1"
+title = "LIBERTY"
+artist = "神田沙也加"
+date = 2011-04-20
+type = "normal"
+catalog = "PCCA-3385"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "PCCA-3385"
+
+[[discs.tracks]]
+title = "流星"
+
+[[discs.tracks]]
+title = "LIBERTY"
+
+[[discs.tracks]]
+title = "眠れる森"
+
+[[discs.tracks]]
+title = "Remember rain"
+
+[[discs.tracks]]
+title = "PART OF YOUR WORLD"
+
+[[discs.tracks]]
+title = "Someday"
+
+[[discs.tracks]]
+title = "Something more"
+artist = "神田沙也加、浦井健治"
+
+[[discs.tracks]]
+title = "光の音"
+artist = "神田沙也加、坂元健児"
+
+[[discs.tracks]]
+title = "Amazing Grace ～song for Shizuku Asami～"
+
+[[discs.tracks]]
+title = "ever since"
