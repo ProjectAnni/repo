@@ -1,0 +1,49 @@
+[album]
+album_id = "acc57109-bf84-4a9b-919f-66ee6e962354"
+title = "MUSICALOID #38 Act.3"
+edition = "彼方乃サヤ盤"
+artist = "神田沙也加"
+date = 2021-05-19
+type = "normal"
+catalog = "PCCA-06029"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "PCCA-06029"
+
+[[discs.tracks]]
+title = "どりーみんチュチュ"
+
+[[discs.tracks]]
+title = "ダーリンダンス"
+
+[[discs.tracks]]
+title = "バレリーコ"
+
+[[discs.tracks]]
+title = "flos"
+
+[[discs.tracks]]
+title = "死んでしまったのだろうか"
+
+[[discs.tracks]]
+title = "乙女解剖"
+
+[[discs.tracks]]
+title = "ビターチョコデコレーション"
+
+[[discs.tracks]]
+title = "サイレス"
+
+[[discs.tracks]]
+title = "曖昧さ回避"
+
+[[discs.tracks]]
+title = "愛してはいけない"
+
+[[discs.tracks]]
+title = "しんでしまうとはなさけない！"
+artist = "神田沙也加、佐倉綾音"
+
+[[discs.tracks]]
+title = "ラストリゾート"
