@@ -72,18 +72,25 @@ title = "親愛なるあの日々へ"
 
 [[discs.tracks]]
 title = "光放て!"
+type = "normal"
 
 [[discs.tracks]]
 title = "光放て! inst ver."
+type = "instrumental"
 
 [[discs.tracks]]
 title = "光放て! short ver."
+type = "normal"
 
 [[discs.tracks]]
 title = "Dear Moments"
+type = "normal"
 
 [[discs.tracks]]
 title = "Dear Moments inst ver."
+type = "instrumental"
 
 [[discs.tracks]]
 title = "Dear Moments short ver."
+type = "normal"
+
