@@ -108,6 +108,7 @@ name = "Roselia"
 
 [[tag]]
 name = "少女☆歌劇 レヴュースタァライト"
+includes = ["劇場版 少女☆歌劇 レヴュースタァライト"]
 
 [[tag]]
 name = "Lapis Re:LiGHTs"
