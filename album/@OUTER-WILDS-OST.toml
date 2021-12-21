@@ -1,0 +1,95 @@
+[album]
+album_id = "1e536a66-cc03-4c24-b29b-5d45f1f7dbb9"
+title = "Outer Wilds: Original Soundtrack"
+artist = "Andrew Prahlow"
+date = 2019-06-01
+type = "absolute"
+catalog = "@OUTER-WILDS-OST"
+tags = ["Outer Wilds"]
+
+[[discs]]
+catalog = "@OUTER-WILDS-OST"
+
+[[discs.tracks]]
+title = "Timber Hearth"
+
+[[discs.tracks]]
+title = "Outer Wilds"
+
+[[discs.tracks]]
+title = "The Museum"
+
+[[discs.tracks]]
+title = "Space"
+
+[[discs.tracks]]
+title = "Castaways"
+
+[[discs.tracks]]
+title = "The Sun Station"
+
+[[discs.tracks]]
+title = "Main Title"
+
+[[discs.tracks]]
+title = "The Search"
+
+[[discs.tracks]]
+title = "The Uncertainty Principle"
+
+[[discs.tracks]]
+title = "End Times"
+
+[[discs.tracks]]
+title = "22 Minutes"
+
+[[discs.tracks]]
+title = "The Nomai"
+
+[[discs.tracks]]
+title = "The Ash Twin Project"
+
+[[discs.tracks]]
+title = "Dark Bramble"
+
+[[discs.tracks]]
+title = "Giant's Deep"
+
+[[discs.tracks]]
+title = "Nomai Ruins"
+
+[[discs.tracks]]
+title = "Final Voyage"
+
+[[discs.tracks]]
+title = "The Ancient Glade"
+
+[[discs.tracks]]
+title = "Curiosity"
+
+[[discs.tracks]]
+title = "Travelers"
+
+[[discs.tracks]]
+title = "Let There Be Light"
+
+[[discs.tracks]]
+title = "14.3 Billion Years"
+
+[[discs.tracks]]
+title = "Morning"
+
+[[discs.tracks]]
+title = "Campfire Song"
+
+[[discs.tracks]]
+title = "Into the Wilds"
+
+[[discs.tracks]]
+title = "Arrow of Time"
+
+[[discs.tracks]]
+title = "We Have Liftoff"
+
+[[discs.tracks]]
+title = "A Terrible Fate"

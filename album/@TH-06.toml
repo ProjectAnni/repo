@@ -1,0 +1,62 @@
+[album]
+album_id = "bfb98644-85c0-43ee-ba93-2e8a0f49a852"
+title = "東方紅魔郷 ～ the Embodiment of Scarlet Devil. サウンドトラック"
+artist = "上海アリス幻樂団"
+date = 2002-08-11
+type = "absolute"
+catalog = "@TH-06"
+tags = ["東方Project"]
+
+[[discs]]
+catalog = "@TH-06"
+
+[[discs.tracks]]
+title = "赤より紅い夢"
+
+[[discs.tracks]]
+title = "ほおずきみたいに紅い魂"
+
+[[discs.tracks]]
+title = "妖魔夜行"
+
+[[discs.tracks]]
+title = "ルーネイトエルフ"
+
+[[discs.tracks]]
+title = "おてんば恋娘"
+
+[[discs.tracks]]
+title = "上海紅茶館　～ Chinese Tea"
+
+[[discs.tracks]]
+title = "明治十七年の上海アリス"
+
+[[discs.tracks]]
+title = "ヴワル魔法図書館"
+
+[[discs.tracks]]
+title = "ラクトガール　～ 少女密室"
+
+[[discs.tracks]]
+title = "メイドと血の懐中時計"
+
+[[discs.tracks]]
+title = "月時計　～ ルナ・ダイアル"
+
+[[discs.tracks]]
+title = "ツェペシュの幼き末裔"
+
+[[discs.tracks]]
+title = "亡き王女の為のセプテット"
+
+[[discs.tracks]]
+title = "魔法少女達の百年祭"
+
+[[discs.tracks]]
+title = "U.N.オーエンは彼女なのか？"
+
+[[discs.tracks]]
+title = "紅より儚い永遠"
+
+[[discs.tracks]]
+title = "紅楼　～ Eastern Dream..."
