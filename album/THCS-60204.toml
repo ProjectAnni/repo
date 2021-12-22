@@ -1,0 +1,26 @@
+[album]
+album_id = "bdb157f0-494e-4772-aaec-d3f285c41241"
+title = "言わないけどね。"
+artist = "大原ゆい子"
+date = 2018-02-14
+type = "normal"
+catalog = "THCS-60204"
+tags = ["からかい上手の高木さん"]
+edition = "アニメ盤"
+
+[[discs]]
+catalog = "THCS-60204"
+
+[[discs.tracks]]
+title = "言わないけどね。"
+
+[[discs.tracks]]
+title = "旅立ちの風"
+
+[[discs.tracks]]
+title = "言わないけどね。 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "旅立ちの風 (Instrumental)"
+type = "instrumental"

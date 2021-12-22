@@ -1,0 +1,32 @@
+[album]
+album_id = "82c61caf-9c96-4292-89db-5bb8cf7279bb"
+title = "「からかい上手の高木さん」 Cover Song Collection"
+artist = "高橋李依"
+date = 2018-03-28
+type = "normal"
+catalog = "THCA-60210"
+tags = ["からかい上手の高木さん"]
+
+[[discs]]
+catalog = "THCA-60210"
+
+[[discs.tracks]]
+title = "気まぐれロマンティック"
+
+[[discs.tracks]]
+title = "AM11:00"
+
+[[discs.tracks]]
+title = "自転車"
+
+[[discs.tracks]]
+title = "風吹けば恋"
+
+[[discs.tracks]]
+title = "小さな恋のうた"
+
+[[discs.tracks]]
+title = "愛唄"
+
+[[discs.tracks]]
+title = "出逢った頃のように"

@@ -1,0 +1,38 @@
+[album]
+album_id = "3960544b-fa45-4611-a8bd-0d73a5606f4f"
+title = "「からかい上手の高木さん2」Cover Song Collection"
+artist = "高木さん（高橋李依）"
+date = 2019-09-25
+type = "normal"
+catalog = "THCA-60250"
+tags = ["からかい上手の高木さん②"]
+
+[[discs]]
+catalog = "THCA-60250"
+
+[[discs.tracks]]
+title = "奏(かなで)"
+
+[[discs.tracks]]
+title = "粉雪"
+
+[[discs.tracks]]
+title = "キセキ"
+
+[[discs.tracks]]
+title = "ありがとう"
+
+[[discs.tracks]]
+title = "STARS"
+
+[[discs.tracks]]
+title = "あなたに"
+
+[[discs.tracks]]
+title = "言わないけどね。"
+
+[[discs.tracks]]
+title = "やさしい気持ち"
+
+[[discs.tracks]]
+title = "100万回の「I love you」"
