@@ -1,0 +1,48 @@
+[album]
+album_id = "6001b1a9-5283-4e2e-8a33-a0520b6e25d6"
+title = "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』挿入歌 ラムネ色 青春"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2014-06-18
+type = "normal"
+catalog = "COZC-929~30"
+tags = ["劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』"]
+
+[[discs]]
+catalog = "COZC-929"
+
+[[discs.tracks]]
+title = "ラムネ色 青春"
+
+[[discs.tracks]]
+title = "待ち受けプリンス (M@STER VERSION)"
+artist = "高槻やよい（仁後真耶子）、菊地真（平田宏美）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "ボーナスドラマ 〜合宿編〜"
+type = "drama"
+
+[[discs.tracks]]
+title = "ラムネ色 青春 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "待ち受けプリンス (M@STER VERSION) (オリジナル・カラオケ)"
+artist = "高槻やよい（仁後真耶子）、菊地真（平田宏美）、水瀬伊織（釘宮理恵）"
+type = "instrumental"
+
+[[discs]]
+catalog = "COZC-930"
+
+[[discs.tracks]]
+title = "ラムネ色 青春"
+
+[[discs.tracks]]
+title = "待ち受けプリンス (M@STER VERSION)"
+artist = "高槻やよい（仁後真耶子）、菊地真（平田宏美）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "READY!! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "自分REST@RT (M@STER VERSION)"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海真美（下田麻美）、四条貴音（原由実）、我那覇響（沼倉愛美）"
