@@ -1,0 +1,80 @@
+[album]
+album_id = "b700c9a5-c04d-4782-a199-488b944cf893"
+title = "Outer Wilds: Echoes of the Eye Original Game Soundtrack"
+artist = "Andrew Prahlow"
+date = 2021-09-28
+type = "absolute"
+catalog = "@OUTER-WILDS-EOTE-OST"
+tags = ["Outer Wilds"]
+
+[[discs]]
+catalog = "@OUTER-WILDS-EOTE-OST"
+
+[[discs.tracks]]
+title = "Into Shadow"
+
+[[discs.tracks]]
+title = "The River"
+
+[[discs.tracks]]
+title = "River's End"
+
+[[discs.tracks]]
+title = "The First Seekers"
+
+[[discs.tracks]]
+title = "The Premonition"
+
+[[discs.tracks]]
+title = "Strange Flames"
+
+[[discs.tracks]]
+title = "A Dream of Home"
+
+[[discs.tracks]]
+title = "Eternal Halls"
+
+[[discs.tracks]]
+title = "Elegy for the Rings"
+
+[[discs.tracks]]
+title = "The Forbidden Archives"
+
+[[discs.tracks]]
+title = "Test Chamber Three"
+
+[[discs.tracks]]
+title = "Sealed Away"
+
+[[discs.tracks]]
+title = "Fear and Ashes"
+
+[[discs.tracks]]
+title = "The Lost Waltz"
+
+[[discs.tracks]]
+title = "Dark Passage"
+
+[[discs.tracks]]
+title = "Into the Vault"
+
+[[discs.tracks]]
+title = "Secret Ways"
+
+[[discs.tracks]]
+title = "The Sound of Water"
+
+[[discs.tracks]]
+title = "Echoes of the Eye"
+
+[[discs.tracks]]
+title = "Departure"
+
+[[discs.tracks]]
+title = "Travelers' encore"
+
+[[discs.tracks]]
+title = "End of the Wilds"
+
+[[discs.tracks]]
+title = "Postlude"

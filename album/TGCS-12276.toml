@@ -1,0 +1,18 @@
+[album]
+album_id = "395b2dad-d489-46d8-9cc5-9b4ad2a981fe"
+title = "舞台裏のレヴュー"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+date = 2021-12-22
+type = "normal"
+catalog = "TGCS-12276"
+tags = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "TGCS-12276"
+
+[[discs.tracks]]
+title = "舞台裏のレヴュー"
+
+[[discs.tracks]]
+title = "舞台裏のレヴュー (Instrumental)"
+type = "instrumental"

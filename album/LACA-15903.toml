@@ -1,0 +1,31 @@
+[album]
+album_id = "4205a2e4-19d3-4ef1-a25a-a6f38a066e84"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03"
+artist = "Various Artists"
+date = 2021-12-22
+type = "normal"
+catalog = "LACA-15903"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15903"
+
+[[discs.tracks]]
+title = "恋のWa·Wo·N"
+artist = "七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "ゆえに...なんです"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "ハッピ一マイガ一デン"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "きみがくれた言葉があるから"
+artist = "福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "セピアカラフル"
+artist = "菊地真（平田宏美）"

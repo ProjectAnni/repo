@@ -1,0 +1,25 @@
+[album]
+album_id = "790f4906-c268-4238-809e-e1acd8742e5d"
+title = "パスタ"
+artist = "伊藤美来"
+date = 2021-12-22
+type = "normal"
+catalog = "COZC-1852"
+tags = ["伊藤美来"]
+
+[[discs]]
+catalog = "COZC-1852"
+
+[[discs.tracks]]
+title = "パスタ"
+
+[[discs.tracks]]
+title = "傘の中でキスして"
+
+[[discs.tracks]]
+title = "パスタ (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "傘の中でキスして (off vocal ver.)"
+type = "instrumental"

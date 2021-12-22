@@ -108,6 +108,7 @@ name = "Roselia"
 
 [[tag]]
 name = "少女☆歌劇 レヴュースタァライト"
+includes = ["劇場版 少女☆歌劇 レヴュースタァライト"]
 
 [[tag]]
 name = "Lapis Re:LiGHTs"
@@ -236,3 +237,9 @@ name = "素晴らしき日々"
 [[tag]]
 name = "神田沙也加"
 includes = ["SAYAKA"]
+
+[[tag]]
+name = "東方Project"
+
+[[tag]]
+name = "Outer Wilds"
