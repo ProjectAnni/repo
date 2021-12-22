@@ -1,0 +1,76 @@
+[album]
+album_id = "65025363-af77-4a7e-be19-23989e234aaf"
+title = "IDOLY PRIDE Collection Album [約束]"
+artist = "星見プロダクション（長瀬琴乃（橘美來）、川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、伊吹渚（夏目ここな）、佐伯遙子（佐々木奈緒）、白石沙季（宮沢小春）、白石千紗（高尾奏音）、成宮すず（相川奏多）、早坂芽衣（日向もか）、兵藤雫（首藤志奈））"
+date = 2021-12-22
+type = "normal"
+catalog = "SMCL-738"
+tags = ["IDOLY PRIDE"]
+
+[[discs]]
+catalog = "SMCL-738"
+
+[[discs.tracks]]
+title = "サヨナラから始まる物語"
+
+[[discs.tracks]]
+title = "EVERYDAY! SUNNYDAY!"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "The One and Only"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+
+[[discs.tracks]]
+title = "Shining Days"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "Daytime Moon"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+
+[[discs.tracks]]
+title = "ココロ Distance"
+artist = "一ノ瀬怜（結城萌子）、早坂芽衣（日向もか）"
+
+[[discs.tracks]]
+title = "les plumes"
+artist = "TRINITYAiLE（天動瑠依（雨宮天）、鈴村優（麻倉もも）、奥山すみれ（夏川椎菜））"
+
+[[discs.tracks]]
+title = "GIRI-GIRI borderless world"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+
+[[discs.tracks]]
+title = "GIRI-GIRI borderless world(莉央&葵 ver.)"
+artist = "神崎莉央（戸松遥）、井川葵（高垣彩陽）"
+
+[[discs.tracks]]
+title = "lumière"
+artist = "TRINITYAiLE（天動瑠依（雨宮天）、鈴村優（麻倉もも）、奥山すみれ（夏川椎菜））"
+
+[[discs.tracks]]
+title = "song for you(サニーピース ver.)"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "song for you(琴乃 ver.)"
+artist = "長瀬琴乃（橘美來）"
+
+[[discs.tracks]]
+title = "セカイは夢を燃やしたがる"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+
+[[discs.tracks]]
+title = "First Step(さくら ver.)"
+artist = "川咲さくら（菅野麻衣）"
+
+[[discs.tracks]]
+title = "星の海の記憶(莉央&琴乃 ver.)"
+artist = "神崎莉央（戸松遥）、長瀬琴乃（橘美來）"
+
+[[discs.tracks]]
+title = "The Sun, Moon and Stars"
+
+[[discs.tracks]]
+title = "Pray for you"
