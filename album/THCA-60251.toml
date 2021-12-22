@@ -3,7 +3,7 @@ album_id = "5942e255-76e3-4c42-b1f5-da80aaf23bb1"
 title = "「からかい上手の高木さん2」Music Collection"
 artist = "堤博明"
 date = 2019-09-25
-type = "instrumental"
+type = "absolute"
 catalog = "THCA-60251"
 tags = ["からかい上手の高木さん②"]
 
@@ -49,7 +49,7 @@ title = "ぉ花見"
 [[discs.tracks]]
 title = "100%片想い セカンドシ一ズン"
 type = "normal"
-artist = "大嵜さんと堤くん"
+artist = "大嵜さん、堤くん"
 
 [[discs.tracks]]
 title = "100%先輩"
