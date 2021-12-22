@@ -1,0 +1,45 @@
+[album]
+album_id = "2f4d9bc8-e2cd-4cad-acf1-4bbd5be85156"
+title = "THE IDOLM@STER CINDERELLA MASTER Cute jewelries! 003"
+artist = "宮本フレデリカ（髙野麻美）、一ノ瀬志希（藍原ことみ）、櫻井桃華（照井春佳）、中野有香（下地紫野）、五十嵐響子（種﨑敦美）"
+date = 2016-06-01
+type = "normal"
+catalog = "COCX-39651"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-39651"
+
+[[discs.tracks]]
+title = "明日また会えるよね"
+
+[[discs.tracks]]
+title = "♡桃色片想い♡"
+artist = "櫻井桃華（照井春佳）"
+
+[[discs.tracks]]
+title = "ガッツだぜ！！"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "ウルトラ リラックス"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "女の子は誰でも"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "守ってあげたい"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "Near to you"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・キュート編"
+type = "drama"
+
+[[discs.tracks]]
+title = "明日また会えるよね (オリジナル・カラオケ)"
+type = "instrumental"
