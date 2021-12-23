@@ -1,0 +1,35 @@
+[album]
+album_id = "9abc5729-9632-4884-adcc-88f694fa170e"
+title = "僕らのあしあと／告白"
+artist = "supercell"
+date = 2012-03-07
+type = "normal"
+catalog = "SRCL-7886"
+tags = ["supercell", "こゑだ"]
+
+[[discs]]
+catalog = "SRCL-7886"
+
+[[discs.tracks]]
+title = "僕らのあしあと"
+
+[[discs.tracks]]
+title = "告白"
+
+[[discs.tracks]]
+title = "カレ"
+
+[[discs.tracks]]
+title = "僕らのあしあと (TV Edit)"
+
+[[discs.tracks]]
+title = "僕らのあしあと -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "カレ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕らのあしあと (TV Edit) -Instrumental-"
+type = "instrumental"

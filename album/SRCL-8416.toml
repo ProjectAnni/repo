@@ -1,0 +1,56 @@
+[album]
+album_id = "7ebf2263-d9cc-4c2c-9ea9-8a9d852d2ec6"
+title = "ZIGAEXPERIENTIA"
+artist = "supercell"
+date = 2013-11-27
+type = "normal"
+catalog = "SRCL-8416"
+tags = ["supercell", "こゑだ"]
+
+[[discs]]
+catalog = "SRCL-8416"
+
+[[discs.tracks]]
+title = "Journey's End"
+
+[[discs.tracks]]
+title = "No.525300887039"
+
+[[discs.tracks]]
+title = "Mr.Downer"
+
+[[discs.tracks]]
+title = "My Dearest (Album Mix)"
+
+[[discs.tracks]]
+title = "従属人間"
+
+[[discs.tracks]]
+title = "ホワイト製薬"
+
+[[discs.tracks]]
+title = "拍手喝采歌合"
+
+[[discs.tracks]]
+title = "Yeah Oh Ahhh Oh !"
+
+[[discs.tracks]]
+title = "百回目のキス"
+
+[[discs.tracks]]
+title = "銀色飛行船"
+
+[[discs.tracks]]
+title = "The Bravery (Album Mix)"
+
+[[discs.tracks]]
+title = "僕らのあしあと (Album Mix)"
+
+[[discs.tracks]]
+title = "告白 (Album Mix)"
+
+[[discs.tracks]]
+title = "時間列車"
+
+[[discs.tracks]]
+title = "We're Still Here"

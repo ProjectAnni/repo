@@ -246,3 +246,20 @@ name = "Outer Wilds"
 
 [[tag]]
 name = "鈴木みのり"
+
+[[tag]]
+name = "supercell"
+
+[[tag]]
+name = "やなぎなぎ"
+includes = ["nagi"]
+
+[[tag]]
+name = "こゑだ"
+
+[[tag]]
+name = "chelly"
+includes = ["EGOIST"]
+
+[[tag]]
+name = "初音ミク"

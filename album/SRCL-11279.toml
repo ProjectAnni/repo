@@ -1,0 +1,27 @@
+[album]
+album_id = "d1d36abb-7b53-4f8a-9229-24622034a164"
+title = "#Love"
+artist = "supercell"
+date = 2019-09-11
+type = "normal"
+catalog = "SRCL-11279"
+tags = ["supercell"]
+
+[[discs]]
+catalog = "SRCL-11279"
+
+[[discs.tracks]]
+title = "#Love"
+artist = "supercell、gaku"
+
+[[discs.tracks]]
+title = "Nanairo night"
+artist = "supercell、Ann"
+
+[[discs.tracks]]
+title = "#Love –instrumental–"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nanairo night –instrumental–"
+type = "instrumental"

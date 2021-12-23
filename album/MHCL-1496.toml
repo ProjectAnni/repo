@@ -1,0 +1,47 @@
+[album]
+album_id = "c4405d28-0430-409f-a0ba-2fbc2c143f01"
+title = "supercell"
+artist = "supercell、初音ミク"
+date = 2009-03-04
+type = "normal"
+catalog = "MHCL-1496"
+tags = ["supercell", "初音ミク"]
+
+[[discs]]
+catalog = "MHCL-1496"
+
+[[discs.tracks]]
+title = "恋は戦争"
+
+[[discs.tracks]]
+title = "ハートブレイカー"
+
+[[discs.tracks]]
+title = "メルト"
+
+[[discs.tracks]]
+title = "ブラック★ロックシューター"
+
+[[discs.tracks]]
+title = "くるくるまーくのすごいやつ"
+
+[[discs.tracks]]
+title = "ライン"
+
+[[discs.tracks]]
+title = "ワールドイズマイン"
+
+[[discs.tracks]]
+title = "初めての恋が終わる時"
+
+[[discs.tracks]]
+title = "嘘つきのパレード"
+
+[[discs.tracks]]
+title = "その一秒 スローモーション"
+
+[[discs.tracks]]
+title = "ひねくれ者"
+
+[[discs.tracks]]
+title = "またね"
