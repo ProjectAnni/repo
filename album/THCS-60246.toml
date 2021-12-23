@@ -1,0 +1,33 @@
+[album]
+album_id = "bd875e47-4a6c-48af-a77c-8efcd7e31775"
+title = "ゼロセンチメートル"
+artist = "大原ゆい子"
+date = 2019-07-17
+type = "normal"
+catalog = "THCS-60246"
+tags = ["からかい上手の高木さん②"]
+edition = "アニメ盤"
+
+[[discs]]
+catalog = "THCS-60246"
+
+[[discs.tracks]]
+title = "ゼロセンチメートル"
+
+[[discs.tracks]]
+title = "知らなければ"
+
+[[discs.tracks]]
+title = "君と光"
+
+[[discs.tracks]]
+title = "ゼロセンチメートル -INSTRUMENTAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "知らなければ -INSTRUMENTAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君と光 -INSTRUMENTAL-"
+type = "instrumental"
