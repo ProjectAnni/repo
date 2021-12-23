@@ -1,0 +1,27 @@
+[album]
+album_id = "15d30b16-3f3d-449f-b2f8-15af34a0dc27"
+title = "『ご注文はうさぎですか？』10thAnniversary キャラクターソング"
+artist = "フユ（石見舞菜香）、チノ（水瀬いのり）"
+date = 2021-10-29
+type = "normal"
+catalog = "GNCA-0645"
+tags = ["ご注文はうさぎですか？"]
+
+[[discs]]
+catalog = "GNCA-0645"
+
+[[discs.tracks]]
+title = "ふわふわバルーンが飛び出した！"
+artist = "フユ（石見舞菜香）"
+
+[[discs.tracks]]
+title = "チェスマッチカフェチェックオレ"
+
+[[discs.tracks]]
+title = "ふわふわバルーンが飛び出した！(インストゥルメンタル)"
+artist = "フユ（石見舞菜香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チェスマッチカフェチェックオレ (インストゥルメンタル)"
+type = "instrumental"

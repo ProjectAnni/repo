@@ -1,0 +1,132 @@
+[album]
+album_id = "ded7c0a3-663c-4706-9a4b-7b141f1a7370"
+title = "TVアニメ「恋する小惑星」サウンドコレクション"
+artist = "伊賀拓郎"
+date = 2020-03-25
+type = "absolute"
+catalog = "VTCL-60521"
+tags = ["恋する小惑星"]
+
+[[discs]]
+catalog = "VTCL-60521"
+
+[[discs.tracks]]
+title = "Asteroid in Love"
+
+[[discs.tracks]]
+title = "ワクワク！"
+
+[[discs.tracks]]
+title = "地学部活動1 自己紹介"
+
+[[discs.tracks]]
+title = "地学部活動2 浮き立つ心"
+
+[[discs.tracks]]
+title = "祝！第1回地学部会議！"
+
+[[discs.tracks]]
+title = "地学部活動3 石探し"
+
+[[discs.tracks]]
+title = "憧れの人"
+
+[[discs.tracks]]
+title = "人見知りと距離感について"
+
+[[discs.tracks]]
+title = "一緒に"
+
+[[discs.tracks]]
+title = "鉢巻石"
+
+[[discs.tracks]]
+title = "先生に優しく"
+
+[[discs.tracks]]
+title = "尾行開始"
+
+[[discs.tracks]]
+title = "ほのぼのおしゃべり"
+
+[[discs.tracks]]
+title = "お話しようよ"
+
+[[discs.tracks]]
+title = "地学部活動4 検証"
+
+[[discs.tracks]]
+title = "憧れの場所"
+
+[[discs.tracks]]
+title = "夏合宿"
+
+[[discs.tracks]]
+title = "宇宙は遠い"
+
+[[discs.tracks]]
+title = "憧憬"
+
+[[discs.tracks]]
+title = "見上げる先に"
+
+[[discs.tracks]]
+title = "口下手"
+
+[[discs.tracks]]
+title = "プカプカバカンス"
+
+[[discs.tracks]]
+title = "偵察"
+
+[[discs.tracks]]
+title = "EyeCatch"
+
+[[discs.tracks]]
+title = "旅立ち"
+
+[[discs.tracks]]
+title = "寂しい気持ち"
+
+[[discs.tracks]]
+title = "静かに"
+
+[[discs.tracks]]
+title = "侃々諤々"
+
+[[discs.tracks]]
+title = "どたばた"
+
+[[discs.tracks]]
+title = "石垣島"
+
+[[discs.tracks]]
+title = "優しく"
+
+[[discs.tracks]]
+title = "広い空へ"
+
+[[discs.tracks]]
+title = "あの星の向こうに"
+artist = "木ノ幡みら（高柳知葉）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ちっぽけな願いごと"
+artist = "桜井美景（東山奈央）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ココロアトラス"
+artist = "猪瀬舞（指出毬亜）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ポラリスをみつけたら"
+artist = "森野真理（上坂すみれ）"
+type = "normal"
+
+[[discs.tracks]]
+title = "君と見た星"
+artist = "真中あお（山口愛）"
+type = "normal"

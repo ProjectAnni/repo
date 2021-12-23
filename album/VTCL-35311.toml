@@ -1,0 +1,33 @@
+[album]
+album_id = "080f4cad-99c5-4b58-9b4c-42342457463c"
+title = "夜空"
+artist = "鈴木みのり"
+date = 2020-02-12
+type = "normal"
+catalog = "VTCL-35311"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35311"
+
+[[discs.tracks]]
+title = "夜空"
+tags = ["恋する小惑星"]
+
+[[discs.tracks]]
+title = "まぼろし"
+
+[[discs.tracks]]
+title = "いっせーのーでっ!"
+
+[[discs.tracks]]
+title = "夜空 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まぼろし -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いっせーのーでっ! -Instrumental-"
+type = "instrumental"
