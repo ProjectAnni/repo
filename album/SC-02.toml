@@ -1,0 +1,25 @@
+[album]
+album_id = "2bc21e40-ea31-4dd6-8004-d908444ed838"
+title = "初めての恋が終わる時"
+artist = "supercell、初音ミク"
+date = 2008-12-29
+type = "normal"
+catalog = "SC-02"
+tags = ["supercell", "初音ミク"]
+
+[[discs]]
+catalog = "SC-02"
+
+[[discs.tracks]]
+title = "初めての恋が終わる時"
+
+[[discs.tracks]]
+title = "オーケイ?"
+
+[[discs.tracks]]
+title = "初めての恋が終わる時 (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オーケイ? (カラオケ)"
+type = "instrumental"
