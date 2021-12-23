@@ -1,7 +1,7 @@
 [album]
 album_id = "45987ce9-8f4c-4fe3-b251-a9aeecd5053a"
 title = "Wake Up, Best! MEMORIAL"
-artist = "Wake Up, Girls!"
+artist = "Wake Up, Girls!（岡本未夕（高木美佑）、島田真夢（吉岡茉祐）、片山実波（田中美海）、久海菜々美（山下七海）、林田藍里（永野愛理）、菊間夏夜（奥野香耶）、七瀬佳乃（青山吉能））"
 date = 2019-01-23
 type = "normal"
 catalog = "EYCA-12100~7"
@@ -27,6 +27,7 @@ title = "極上スマイル (Wake Up,Girls! ver.)"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー"
+artist = "Wake Up, Girlzoo!（岡本未夕（高木美佑）、島田真夢（吉岡茉祐）、片山実波（田中美海）、久海菜々美（山下七海）、林田藍里（永野愛理）、菊間夏夜（奥野香耶）、七瀬佳乃（青山吉能））"
 
 [[discs.tracks]]
 title = "地下鉄ラビリンス"
@@ -45,15 +46,19 @@ catalog = "EYCA-12101"
 
 [[discs.tracks]]
 title = "あぁ光塚歌劇団"
+artist = "光塚歌劇団（島田真夢（吉岡茉祐）、七瀬佳乃（青山吉能））"
 
 [[discs.tracks]]
 title = "太陽曰く燃えよカオス (岡本未夕 ver.)"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "Regain Brave"
+artist = "木高ゆみ（高木美佑）"
 
 [[discs.tracks]]
 title = "End of endless"
+artist = "mip'o（田中美海）"
 
 [[discs.tracks]]
 title = "プラチナ・サンライズ"
@@ -69,78 +74,101 @@ title = "outlander rhapsody"
 
 [[discs.tracks]]
 title = "お約束たいそう"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "お約束たいそう2"
+artist = "片山実波（田中美海）"
 
 [[discs]]
 catalog = "EYCA-12102"
 
 [[discs.tracks]]
 title = "WOO YEAH!"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "ハジマル"
+artist = "島田真夢（吉岡茉祐）"
 
 [[discs.tracks]]
 title = "歌と魚とハダシとわたし"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "オオカミとピアノ"
+artist = "久海菜々美（山下七海）"
 
 [[discs.tracks]]
 title = "可笑しの国"
+artist = "林田藍里（永野愛理）"
 
 [[discs.tracks]]
 title = "スキ キライ ナイト"
+artist = "菊間夏夜（奥野香耶）"
 
 [[discs.tracks]]
 title = "ステラ・ドライブ"
+artist = "七瀬佳乃（青山吉能）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (miyu ver.)"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (mayu ver.)"
+artist = "島田真夢（吉岡茉祐）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (minami ver.)"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (nanami ver.)"
+artist = "久海菜々美（山下七海）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (airi ver.)"
+artist = "林田藍里（永野愛理）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (kaya ver.)"
+artist = "菊間夏夜（奥野香耶）"
 
 [[discs.tracks]]
 title = "ワグ・ズーズー (yoshino ver.)"
+artist = "七瀬佳乃（青山吉能）"
 
 [[discs]]
 catalog = "EYCA-12103"
 
 [[discs.tracks]]
 title = "It's amazing show time☆"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "走り出したencore"
+artist = "島田真夢（吉岡茉祐）"
 
 [[discs.tracks]]
 title = "それいけオトメ"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "snuggery"
+artist = "久海菜々美（山下七海）"
 
 [[discs.tracks]]
 title = "ヒカリキラリミルキーウェイ"
+artist = "林田藍里（永野愛理）"
 
 [[discs.tracks]]
 title = "Into The Light"
+artist = "菊間夏夜（奥野香耶）"
 
 [[discs.tracks]]
 title = "青い月のシャングリラ"
+artist = "七瀬佳乃（青山吉能）"
 
 [[discs.tracks]]
 title = "HIGAWARI PRINCESS (PRINCESS Miyu ver.)"
@@ -168,45 +196,59 @@ catalog = "EYCA-12104"
 
 [[discs.tracks]]
 title = "シャリラ!"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "ユメ、まっすぐ。"
+artist = "島田真夢（吉岡茉祐）"
 
 [[discs.tracks]]
 title = "ぽんとPUSH! もっとSMILE!"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "ドラマチックを君と"
+artist = "久海菜々美（山下七海）"
 
 [[discs.tracks]]
 title = "Party! Party!"
+artist = "林田藍里（永野愛理）"
 
 [[discs.tracks]]
 title = "プライド"
+artist = "菊間夏夜（奥野香耶）"
 
 [[discs.tracks]]
 title = "Dice of Life!"
+artist = "七瀬佳乃（青山吉能）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Miyu ver.)"
+artist = "岡本未夕（高木美佑）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Mayu ver.)"
+artist = "島田真夢（吉岡茉祐）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Minami ver.)"
+artist = "片山実波（田中美海）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Nanami ver.)"
+artist = "久海菜々美（山下七海）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Airi ver.)"
+artist = "林田藍里（永野愛理）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Kaya ver.)"
+artist = "菊間夏夜（奥野香耶）"
 
 [[discs.tracks]]
 title = "Non stop diamond hope (Yoshino ver.)"
+artist = "七瀬佳乃（青山吉能）"
 
 [[discs]]
 catalog = "EYCA-12105"
@@ -228,6 +270,7 @@ title = "ゆき模様 恋のもよう"
 
 [[discs.tracks]]
 title = "同じ夢を見てる"
+artist = "ミツキとヨウコ（岩崎志保（大坪由佳）、島田真夢（吉岡茉祐））"
 
 [[discs]]
 catalog = "EYCA-12106"
@@ -254,7 +297,7 @@ title = "ハートライン (Wake Up,Girls! ver.)"
 title = "王様のカデンツァ (Wake Up,Girls! ver.)"
 
 [[discs]]
-catalog = "EYCA-12106"
+catalog = "EYCA-12107"
 
 [[discs.tracks]]
 title = "海そしてシャッター通り"
