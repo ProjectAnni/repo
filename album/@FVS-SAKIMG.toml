@@ -1,0 +1,28 @@
+[album]
+album_id = "8c4ab82f-cde1-4c86-8a7d-949d320075e7"
+title = "さくら、もゆ。 -as the Night's, Reincarnation- イメージミニアルバム"
+artist = "さくら、もゆ。-as the Night's, Reincarnation-"
+date = 2019-01-31
+type = "absolute"
+catalog = "@FVS-SAKIMG"
+tags = ["さくら、もゆ。-as the Night's, Reincarnation-"]
+
+[[discs]]
+catalog = "@FVS-SAKIMG"
+
+[[discs.tracks]]
+title = "さくら、Reincarnation"
+artist = "佐咲紗花"
+type = "normal"
+
+[[discs.tracks]]
+title = "満月の夜会"
+
+[[discs.tracks]]
+title = "リトルガール"
+
+[[discs.tracks]]
+title = "Shrine maiden"
+
+[[discs.tracks]]
+title = "はるのあしおと"
