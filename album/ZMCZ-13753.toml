@@ -8,7 +8,7 @@ catalog = "ZMCZ-13753"
 tags = ["メイドインアビス 深き魂の黎明"]
 
 [[discs]]
-catalog = "ZMCZ-13753-1"
+catalog = "@ZMCZ-13753-01"
 
 [[discs.tracks]]
 title = "Echos"
@@ -74,7 +74,7 @@ title = "Water Sanctum"
 title = "Transcendance and Hanezeve"
 
 [[discs]]
-catalog = "ZMCZ-13753-2"
+catalog = "@ZMCZ-13753-02"
 
 [[discs.tracks]]
 title = "Stonefish"
