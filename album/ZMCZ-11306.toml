@@ -1,0 +1,45 @@
+[album]
+album_id = "36cb4ea0-f527-4d7b-9168-157a2a1d78fa"
+title = "旅の左手、最果ての右手"
+artist = "リコ（富田美憂）、レグ（伊瀬茉莉也）、ナナチ（井澤詩織）"
+date = 2017-08-23
+type = "normal"
+catalog = "ZMCZ-11306"
+tags = ["メイドインアビス"]
+
+[[discs]]
+catalog = "ZMCZ-11306"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手"
+artist = "リコ（富田美憂）、レグ（伊瀬茉莉也）"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手 (リコ&レグ&ナナチver.)"
+artist = "リコ（富田美憂）、レグ（伊瀬茉莉也）、ナナチ（井澤詩織）"
+
+[[discs.tracks]]
+title = "Secret in my heart"
+artist = "レグ（伊瀬茉莉也）"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手 (リコver.)"
+artist = "リコ（富田美憂）"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手 (レグver.)"
+artist = "レグ（伊瀬茉莉也）"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手 (ナナチver.)"
+artist = "ナナチ（井澤詩織）"
+
+[[discs.tracks]]
+title = "旅の左手、最果ての右手 (instrumental)"
+artist = "橋本由香利"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Secret in my heart (instrumental)"
+artist = "橋本由香利"
+type = "instrumental"
