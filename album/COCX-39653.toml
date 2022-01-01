@@ -1,0 +1,49 @@
+[album]
+album_id = "67940339-470c-46d9-8df8-5572c074a35e"
+title = "THE IDOLM@STER CINDERELLA MASTER Cool jewelries! 003"
+artist = "鷺沢文香（M・A・O）、速水奏（飯田友子）、橘ありす（佐藤亜美菜）、塩見周子（ルゥティン）、二宮飛鳥（青木志貴）"
+date = 2016-06-29
+type = "normal"
+catalog = "COCX-39653"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-39653"
+
+[[discs.tracks]]
+title = "咲いてJewel"
+
+[[discs.tracks]]
+title = "きみにとどけ"
+artist = "橘ありす（佐藤亜美菜）"
+
+[[discs.tracks]]
+title = "スカイクラッドの観測者"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "奏（かなで）"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "Reset"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "大きな古時計"
+artist = "鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "Near to you"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・クール編"
+type = "drama"
+
+[[discs.tracks]]
+title = "咲いてJewel (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Near to you (オリジナル・カラオケ)"
+type = "instrumental"

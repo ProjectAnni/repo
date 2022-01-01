@@ -1,0 +1,26 @@
+[album]
+album_id = "b451504c-f8d9-4700-a461-499f0f68f07c"
+title = "THE IDOLM@STER CINDERELLA MASTER 042 中野有香"
+artist = "中野有香（下地紫野）"
+date = 2016-03-02
+type = "normal"
+catalog = "COCC-17132"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17132"
+
+[[discs.tracks]]
+title = "恋色エナジー"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -中野有香編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "恋色エナジー (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

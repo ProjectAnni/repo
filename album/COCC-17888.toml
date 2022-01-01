@@ -1,0 +1,26 @@
+[album]
+album_id = "d620926c-c5a9-4207-84a0-abef42d2f0a0"
+title = "THE IDOLM@STER CINDERELLA MASTER 060 久川凪"
+artist = "久川凪（立花日菜）"
+date = 2021-05-19
+type = "normal"
+catalog = "COCC-17888"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17888"
+
+[[discs.tracks]]
+title = "14平米にスーベニア"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －久川凪編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "14平米にスーベニア (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,49 @@
+[album]
+album_id = "7eba78d4-fc4f-4fb4-a46a-642879b488b1"
+title = "THE IDOLM@STER CINDERELLA MASTER Cute jewelries! 002"
+artist = "三村かな子（大坪由佳）、輿水幸子（竹達彩奈）、佐久間まゆ（牧野由依）、緒方智絵里（大空直美）、小早川紗枝（立花理香）"
+date = 2014-12-31
+type = "normal"
+catalog = "COCX-38969"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-38969"
+
+[[discs.tracks]]
+title = "パステルピンクな恋"
+
+[[discs.tracks]]
+title = "KISSして"
+artist = "輿水幸子（竹達彩奈）"
+
+[[discs.tracks]]
+title = "不思議なピーチパイ"
+artist = "三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "ハミングがきこえる"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "また君に恋してる"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "誰より好きなのに"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "ゴキゲンParty Night"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・キュート編"
+type = "drama"
+
+[[discs.tracks]]
+title = "パステルピンクな恋 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ゴキゲンParty Night (オリジナル・カラオケ)"
+type = "instrumental"

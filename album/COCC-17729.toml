@@ -1,0 +1,35 @@
+[album]
+album_id = "a10a33d2-0f90-42b3-b4c0-1d74c6bb7e81"
+title = "THE IDOLM@STER CINDERELLA MASTER 夢をのぞいたら"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2020-01-22
+type = "normal"
+catalog = "COCC-17729"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
+
+[[discs]]
+catalog = "COCC-17729"
+
+[[discs.tracks]]
+title = "夢をのぞいたら"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（本田未央（原紗友里）、北条加蓮（渕上舞）、夢見りあむ（星希成奏）、遊佐こずえ（花谷麻妃）、佐城雪美（中澤ミナ）、一ノ瀬志希（藍原ことみ）、鷺沢文香（M・A・O）、佐久間まゆ（牧野由依）、ナターリア（生田輝））"
+
+[[discs.tracks]]
+title = "Sun！High！Gold！"
+artist = "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（本田未央（原紗友里）、北条加蓮（渕上舞）、夢見りあむ（星希成奏）、遊佐こずえ（花谷麻妃）、佐城雪美（中澤ミナ））"
+
+[[discs.tracks]]
+title = "夢をのぞいたら (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sun！High！Gold！(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢をのぞいたら"
+artist = "本田未央（原紗友里）、北条加蓮（渕上舞）、遊佐こずえ（花谷麻妃）"
+
+[[discs.tracks]]
+title = "Trust me"
+artist = "本田未央（原紗友里）、北条加蓮（渕上舞）、一ノ瀬志希（藍原ことみ）、鷺沢文香（M・A・O）、佐久間まゆ（牧野由依）"

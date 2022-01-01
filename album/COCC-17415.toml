@@ -1,0 +1,31 @@
+[album]
+album_id = "21f92745-62b1-4197-b3f4-0f3ee854a136"
+title = "THE IDOLM@STER CINDERELLA MASTER こいかぜ －彩－"
+artist = "高垣楓（早見沙織）"
+date = 2018-01-24
+type = "normal"
+catalog = "COCC-17415"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-17415"
+
+[[discs.tracks]]
+title = "こいかぜ －序章－"
+
+[[discs.tracks]]
+title = "こいかぜ －花葉－"
+
+[[discs.tracks]]
+title = "こいかぜ －紺碧－"
+
+[[discs.tracks]]
+title = "こいかぜ －花葉－ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "こいかぜ －紺碧－ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "こいかぜ (4thLIVE MIX)"

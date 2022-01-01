@@ -1,0 +1,26 @@
+[album]
+album_id = "f17736e1-d9b8-4600-abdb-696b0366051e"
+title = "THE IDOLM@STER CINDERELLA MASTER 037 片桐早苗"
+artist = "片桐早苗（和氣あず未）"
+date = 2015-11-18
+type = "normal"
+catalog = "COCC-17092"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17092"
+
+[[discs.tracks]]
+title = "Can't Stop!!"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -片桐早苗編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Can't Stop!! (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,32 @@
+[album]
+album_id = "9876ed9f-4063-454c-ac08-aeb601b03f5b"
+title = "THE IDOLM@STER CINDERELLA MASTER Take me☆Take you"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2016-11-16
+type = "normal"
+catalog = "COCC-17245"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
+
+[[discs]]
+catalog = "COCC-17245"
+
+[[discs.tracks]]
+title = "Take me☆Take you"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（高垣楓（早見沙織）、三船美優（原田彩楓）、森久保乃々（高橋花林）、島村卯月（大橋彩香）、安部菜々（三宅麻理恵）、前川みく（高森奈津美）、依田芳乃（高田憂希）、本田未央（原紗友里）、佐藤心（花守ゆみり））"
+
+[[discs.tracks]]
+title = "キミのそばでずっと"
+artist = "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（島村卯月（大橋彩香）、高垣楓（早見沙織）、三船美優（原田彩楓）、森久保乃々（高橋花林）、依田芳乃（高田憂希））"
+
+[[discs.tracks]]
+title = "ドラマ「シャイニーナンバーズ 特別編」"
+artist = "島村卯月（大橋彩香）、高垣楓（早見沙織）、三船美優（原田彩楓）、森久保乃々（高橋花林）、依田芳乃（高田憂希）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Take me☆Take you (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミのそばでずっと (オリジナル・カラオケ)"
+type = "instrumental"

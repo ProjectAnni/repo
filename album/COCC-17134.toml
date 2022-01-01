@@ -1,0 +1,26 @@
+[album]
+album_id = "fa3fc747-bd02-42ed-b151-151b9f17fe5a"
+title = "THE IDOLM@STER CINDERELLA MASTER 044 相葉夕美"
+artist = "相葉夕美（木村珠莉）"
+date = 2016-03-02
+type = "normal"
+catalog = "COCC-17134"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17134"
+
+[[discs.tracks]]
+title = "lilac time"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -相葉夕美編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "lilac time (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

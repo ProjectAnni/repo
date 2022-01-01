@@ -1,0 +1,26 @@
+[album]
+album_id = "78cce614-ca30-4467-ad38-29b72c1b22ed"
+title = "THE IDOLM@STER CINDERELLA MASTER 046 乙倉悠貴"
+artist = "乙倉悠貴（中島由貴）"
+date = 2017-03-15
+type = "normal"
+catalog = "COCC-17286"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17286"
+
+[[discs.tracks]]
+title = "追い風Running"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -乙倉悠貴編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "追い風Running (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

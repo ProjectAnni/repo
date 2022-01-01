@@ -1,0 +1,26 @@
+[album]
+album_id = "d5160556-46ca-415c-a6ac-40f69f5ea09a"
+title = "THE IDOLM@STER CINDERELLA MASTER 053 森久保乃々"
+artist = "森久保乃々（高橋花林）"
+date = 2019-05-15
+type = "normal"
+catalog = "COCC-17629"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17629"
+
+[[discs.tracks]]
+title = "もりのくにから"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －森久保乃々編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "もりのくにから (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

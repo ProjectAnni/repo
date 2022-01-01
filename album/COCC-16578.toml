@@ -1,0 +1,26 @@
+[album]
+album_id = "c23dafac-b51a-4cfd-82e2-d2663f02d93a"
+title = "THE IDOLM@STER CINDERELLA MASTER 004 高垣楓"
+artist = "高垣楓（早見沙織）"
+date = 2012-04-18
+type = "normal"
+catalog = "COCC-16578"
+tags = ["THE IDOLM@STER CINDERELLA MASTER"]
+
+[[discs]]
+catalog = "COCC-16578"
+
+[[discs.tracks]]
+title = "こいかぜ"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-高垣楓編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "こいかぜ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

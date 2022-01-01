@@ -1,0 +1,45 @@
+[album]
+album_id = "34932ccd-9d32-41db-9204-2db837cb0745"
+title = "THE IDOLM@STER CINDERELLA MASTER Cool jewelries! 001"
+artist = "渋谷凛（福原綾香）、高垣楓（早見沙織）、神崎蘭子（内田真礼）、多田李衣菜（青木瑠璃子）、新田美波（洲崎綾）"
+date = 2013-09-25
+type = "normal"
+catalog = "COCX-38251"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-38251"
+
+[[discs.tracks]]
+title = "Nation Blue"
+
+[[discs.tracks]]
+title = "亜麻色の髪の乙女"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "悲しみをやさしさに"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "月のしずく"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "蒼穹"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "雪の華"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "ススメ☆オトメ 〜jewel parade〜"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・クールな収録後"
+type = "drama"
+
+[[discs.tracks]]
+title = "Nation Blue (オリジナル・カラオケ)"
+type = "instrumental"

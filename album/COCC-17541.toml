@@ -1,0 +1,32 @@
+[album]
+album_id = "41173f9f-9587-4e9b-b181-3c234e080025"
+title = "THE IDOLM@STER CINDERELLA MASTER Trust me"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2018-10-31
+type = "normal"
+catalog = "COCC-17541"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
+
+[[discs]]
+catalog = "COCC-17541"
+
+[[discs.tracks]]
+title = "Trust me"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（安部菜々（三宅麻理恵）、本田未央（原紗友里）、北条加蓮（渕上舞）、鷹富士茄子（森下来奈）、鷺沢文香（M・A・O）、一ノ瀬志希（藍原ことみ）、佐久間まゆ（牧野由依）、南条光（神谷早矢佳）、喜多日菜子（深川芹亜））"
+
+[[discs.tracks]]
+title = "君への詩"
+artist = "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（安部菜々（三宅麻理恵）、本田未央（原紗友里）、北条加蓮（渕上舞）、鷹富士茄子（森下来奈）、鷺沢文香（M・A・O））"
+
+[[discs.tracks]]
+title = "オリジナル・ドラマ"
+artist = "安部菜々（三宅麻理恵）、鷹富士茄子（森下来奈）、南条光（神谷早矢佳）、喜多日菜子（深川芹亜）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Trust me (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君への詩 (オリジナル・カラオケ)"
+type = "instrumental"

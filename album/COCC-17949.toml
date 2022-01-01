@@ -1,0 +1,61 @@
+[album]
+album_id = "06f8c4aa-1548-4d7b-9a2c-088c4019d100"
+title = "THE IDOLM@STER CINDERELLA MASTER EVERLASTING"
+artist = "本田未央（原紗友里）、辻野あかり（梅澤めぐ）、双葉杏（五十嵐裕美）、木村夏樹（安野希世乃）、アナスタシアアナスタシア（上坂すみれ）、ナターリア（生田輝）、橘ありす（佐藤亜美菜）、輿水幸子（竹達彩奈）、依田芳乃（高田憂希）、川島瑞樹（東山奈央）"
+date = 2021-11-24
+type = "normal"
+catalog = "COCC-17949"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
+
+[[discs]]
+catalog = "COCC-17949"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 辻野あかりソロ・リミックス"
+artist = "辻野あかり（梅澤めぐ）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 双葉杏ソロ・リミックス"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 木村夏樹ソロ・リミックス"
+artist = "木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) アナスタシアソロ・リミックス"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) ナターリアソロ・リミックス"
+artist = "ナターリア（生田輝）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 橘ありすソロ・リミックス"
+artist = "橘ありす（佐藤亜美菜）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 輿水幸子ソロ・リミックス"
+artist = "輿水幸子（竹達彩奈）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 依田芳乃ソロ・リミックス"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "EVERLASTING (M@STER VERSION) 川島瑞樹ソロ・リミックス"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "EVERLASTING (Game VERSION)"
