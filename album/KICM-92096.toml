@@ -1,0 +1,25 @@
+[album]
+album_id = "7082079d-cf46-4a47-bfc8-691c49e15380"
+title = "Fightin★Pose"
+artist = "小倉唯"
+date = 2021-08-11
+type = "normal"
+catalog = "KICM-92096"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-92096"
+
+[[discs.tracks]]
+title = "Fightin★Pose"
+
+[[discs.tracks]]
+title = "ハートフォレスト"
+
+[[discs.tracks]]
+title = "Fightin★Pose (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハートフォレスト (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,25 @@
+[album]
+album_id = "964ed564-c5ad-41ff-a8b5-71f18adeb241"
+title = "Clear Morning"
+artist = "小倉唯"
+date = 2021-03-31
+type = "normal"
+catalog = "KICM-92078"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-92078"
+
+[[discs.tracks]]
+title = "Clear Morning"
+
+[[discs.tracks]]
+title = "pyu♥a purely"
+
+[[discs.tracks]]
+title = "Clear Morning (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "pyu♥a purely (off vocal ver.)"
+type = "instrumental"

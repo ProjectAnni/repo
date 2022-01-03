@@ -1,0 +1,26 @@
+[album]
+album_id = "7fe300c5-26d2-4ac3-9069-8968ace97581"
+title = "永遠少年"
+edition = "期間限定盤"
+artist = "小倉唯"
+date = 2018-07-25
+type = "normal"
+catalog = "KICM-91856"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91856"
+
+[[discs.tracks]]
+title = "永遠少年"
+
+[[discs.tracks]]
+title = "Love Me × Love Me"
+
+[[discs.tracks]]
+title = "永遠少年 (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Love Me × Love Me (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,47 @@
+[album]
+album_id = "0feeb304-0f31-46d2-a756-e29f853af660"
+title = "Strawberry JAM"
+artist = "小倉唯"
+date = 2015-03-25
+type = "normal"
+catalog = "KIZC-276"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KIZC-276"
+
+[[discs.tracks]]
+title = "FUN FUN MERRY JAM"
+
+[[discs.tracks]]
+title = "Charming Do!"
+
+[[discs.tracks]]
+title = "いつだってCall Me!"
+
+[[discs.tracks]]
+title = "A Lovely Tea Break"
+
+[[discs.tracks]]
+title = "PON de Fighting!"
+
+[[discs.tracks]]
+title = "Get over"
+
+[[discs.tracks]]
+title = "Raise (album ver.)"
+
+[[discs.tracks]]
+title = "シュガーハートエイク"
+
+[[discs.tracks]]
+title = "Tinkling Smile"
+
+[[discs.tracks]]
+title = "Happy Strawberry"
+
+[[discs.tracks]]
+title = "Baby Sweet Berry Love"
+
+[[discs.tracks]]
+title = "Sing-a-ling-a-Harmony"
