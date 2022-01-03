@@ -1,5 +1,9 @@
 [[tag]]
+name = "アイドルマスターシリーズ"
+
+[[tag]]
 name = "THE IDOLM@STER"
+included-by = ["アイドルマスターシリーズ"]
 includes = [
   #
   # [x] THE IDOLM@STER MASTERPIECE 01 (2005/09/28)
