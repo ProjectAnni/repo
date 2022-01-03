@@ -1,0 +1,14 @@
+[album]
+album_id = "fd44432f-c9fa-430a-8f64-5e9e9979c730"
+title = "トレフル・ド・ノエル"
+artist = "菊地真（平田宏美）、二階堂千鶴（野村香菜子）、島原エレナ（角元明日香）、真壁瑞希（阿部里果）"
+date = 2021-12-25
+type = "normal"
+catalog = "LZC-2054"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LZC-2054"
+
+[[discs.tracks]]
+title = "トレフル・ド・ノエル"
