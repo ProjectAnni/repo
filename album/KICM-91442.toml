@@ -1,0 +1,25 @@
+[album]
+album_id = "402b2fe5-4be4-4b2b-b1f6-4a65fa4fa830"
+title = "Baby Sweet Berry Love"
+artist = "小倉唯"
+date = 2013-05-08
+type = "normal"
+catalog = "KICM-91442"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91442"
+
+[[discs.tracks]]
+title = "Baby Sweet Berry Love"
+
+[[discs.tracks]]
+title = "おねがいBe with you"
+
+[[discs.tracks]]
+title = "Baby Sweet Berry Love (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おねがいBe with you (off vocal ver.)"
+type = "instrumental"

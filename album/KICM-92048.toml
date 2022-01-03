@@ -1,0 +1,32 @@
+[album]
+album_id = "1d975fdb-b694-4258-a997-eacaa7e1266f"
+title = "ハピネス*センセーション"
+artist = "小倉唯"
+date = 2020-06-10
+type = "normal"
+catalog = "KICM-92048"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-92048"
+
+[[discs.tracks]]
+title = "ハピネス*センセーション"
+
+[[discs.tracks]]
+title = "Look@Me♡"
+
+[[discs.tracks]]
+title = "瞳の国のアリス -Dance Music Edition-"
+
+[[discs.tracks]]
+title = "ハピネス*センセーション (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Look@Me♡ (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "瞳の国のアリス -Dance Music Edition- (off vocal ver.)"
+type = "instrumental"

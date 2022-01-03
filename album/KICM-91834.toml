@@ -1,0 +1,32 @@
+[album]
+album_id = "fe79d1c8-e137-466d-8866-4b1b82c699bd"
+title = "白く咲く花"
+artist = "小倉唯"
+date = 2018-03-14
+type = "normal"
+catalog = "KICM-91834"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91834"
+
+[[discs.tracks]]
+title = "白く咲く花"
+
+[[discs.tracks]]
+title = "ずっとふたりで"
+
+[[discs.tracks]]
+title = "かけがえのない瞬間"
+
+[[discs.tracks]]
+title = "白く咲く花 (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ずっとふたりで (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "かけがえのない瞬間 (off vocal ver.)"
+type = "instrumental"

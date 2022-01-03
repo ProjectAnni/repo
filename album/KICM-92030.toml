@@ -1,0 +1,25 @@
+[album]
+album_id = "f1f08d68-44e7-4869-994f-dbd98e725230"
+title = "I・LOVE・YOU‼"
+artist = "小倉唯"
+date = 2020-02-12
+type = "normal"
+catalog = "KICM-92030"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-92030"
+
+[[discs.tracks]]
+title = "I・LOVE・YOU‼"
+
+[[discs.tracks]]
+title = "バレンタイン・キッス"
+
+[[discs.tracks]]
+title = "I・LOVE・YOU‼ (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バレンタイン・キッス (off vocal ver.)"
+type = "instrumental"

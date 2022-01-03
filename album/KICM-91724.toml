@@ -1,0 +1,26 @@
+[album]
+album_id = "6fe27aaa-c41d-48f2-ad1a-9e2c6497a7e4"
+title = "Future Strike"
+edition = "期間限定盤"
+artist = "小倉唯"
+date = 2016-11-02
+type = "normal"
+catalog = "KICM-91724"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91724"
+
+[[discs.tracks]]
+title = "Future Strike"
+
+[[discs.tracks]]
+title = "winter tale"
+
+[[discs.tracks]]
+title = "Future Strike (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "winter tale (off vocal ver.)"
+type = "instrumental"

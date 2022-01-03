@@ -1,0 +1,26 @@
+[album]
+album_id = "1b3651c7-987e-453a-b0b1-e76e2c7e1e5a"
+title = "ハイタッチ☆メモリー"
+edition = "期間限定盤"
+artist = "小倉唯"
+date = 2016-05-18
+type = "normal"
+catalog = "KICM-91667"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91667"
+
+[[discs.tracks]]
+title = "ハイタッチ☆メモリー"
+
+[[discs.tracks]]
+title = "TO BE ALIVE"
+
+[[discs.tracks]]
+title = "ハイタッチ☆メモリー (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "TO BE ALIVE (off vocal ver.)"
+type = "instrumental"

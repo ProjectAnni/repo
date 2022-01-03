@@ -1,0 +1,47 @@
+[album]
+album_id = "cf99e74d-9023-440e-8c9b-742ea69d838d"
+title = "Cherry Passport"
+artist = "小倉唯"
+date = 2017-07-26
+type = "normal"
+catalog = "KIZC-386"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KIZC-386"
+
+[[discs.tracks]]
+title = "プラチナ・パスポート"
+
+[[discs.tracks]]
+title = "ハイタッチ☆メモリー"
+
+[[discs.tracks]]
+title = "Baby Baby Baby"
+
+[[discs.tracks]]
+title = "Honey♥Come!!"
+
+[[discs.tracks]]
+title = "アコガレCollection!"
+
+[[discs.tracks]]
+title = "エンジョイ！"
+
+[[discs.tracks]]
+title = "Dear"
+
+[[discs.tracks]]
+title = "Tomorrow"
+
+[[discs.tracks]]
+title = "Future Strike"
+
+[[discs.tracks]]
+title = "ドキドキラビリンス"
+
+[[discs.tracks]]
+title = "Merry de Cherry"
+
+[[discs.tracks]]
+title = "エブリデイ☆ハッピーデイ"

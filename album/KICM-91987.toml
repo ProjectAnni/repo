@@ -1,0 +1,26 @@
+[album]
+album_id = "0220c8f3-13e0-4f32-af8e-d6f7db1cd9f8"
+title = "Destiny"
+edition = "期間限定盤"
+artist = "小倉唯"
+date = 2019-10-30
+type = "normal"
+catalog = "KICM-91987"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91987"
+
+[[discs.tracks]]
+title = "Destiny"
+
+[[discs.tracks]]
+title = "赤いリボン"
+
+[[discs.tracks]]
+title = "Destiny (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "赤いリボン (off vocal ver.)"
+type = "instrumental"
