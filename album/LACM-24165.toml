@@ -1,11 +1,12 @@
 [album]
 album_id = "c7c80714-9da9-4b7a-8d22-3606683ce689"
-title = "VOY@GER【シャイニーカラーズ盤】"
+title = "VOY@GER"
+edition = "シャイニーカラーズ盤"
 artist = "THE IDOLM@STER FIVE STARS!!!!!"
 date = 2021-08-04
 type = "normal"
 catalog = "LACM-24165"
-tags = ["THE IDOLM@STER", "THE IDOLM@STER Shiny Colors"]
+tags = ["THE IDOLM@STER Shiny Colors"]
 
 [[discs]]
 catalog = "LACM-24165"

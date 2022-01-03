@@ -1,11 +1,12 @@
 [album]
 album_id = "a9f3d469-7ce6-4685-80f1-f5f00b5b3b0c"
-title = "なんどでも笑おう [シャイニーカラーズ盤]"
+title = "なんどでも笑おう"
+edition = "シャイニーカラーズ盤"
 artist = "THE IDOLM@STER FIVE STARS!!!!!"
 date = 2020-09-30
 type = "normal"
 catalog = "LACM-24027"
-tags = ["THE IDOLM@STER", "THE IDOLM@STER Shiny Colors"]
+tags = ["THE IDOLM@STER Shiny Colors"]
 
 [[discs]]
 catalog = "LACM-24027"
