@@ -1,0 +1,25 @@
+[album]
+album_id = "b4bf64ef-be8a-4b62-9e0d-d81514b7113e"
+title = "えがおのまほう"
+artist = "大原ゆい子"
+date = 2019-04-24
+type = "normal"
+catalog = "THCS-60241"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60241"
+
+[[discs.tracks]]
+title = "えがおのまほう"
+
+[[discs.tracks]]
+title = "セイセイせんべい！"
+
+[[discs.tracks]]
+title = "えがおのまほう -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "セイセイせんべい！-Instrumental-"
+type = "instrumental"
