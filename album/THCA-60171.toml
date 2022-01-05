@@ -1,0 +1,47 @@
+[album]
+album_id = "0beeb70a-5806-47d9-a5c9-b377b49de380"
+title = "煌めく浜辺"
+edition = "アーティスト盤"
+artist = "大原ゆい子"
+date = 2017-12-06
+type = "normal"
+catalog = "THCA-60171"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCA-60171"
+
+[[discs.tracks]]
+title = "煌めく浜辺"
+
+[[discs.tracks]]
+title = "光の淵"
+
+[[discs.tracks]]
+title = "時のミラージュ"
+
+[[discs.tracks]]
+title = "イエスかノーか半分か"
+
+[[discs.tracks]]
+title = "さよならの行方"
+
+[[discs.tracks]]
+title = "煌めく浜辺 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "光の淵 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "時のミラージュ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "イエスかノーか半分か (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "さよならの行方 (Instrumental)"
+type = "instrumental"

@@ -1,26 +1,26 @@
 [album]
-album_id = "bdb157f0-494e-4772-aaec-d3f285c41241"
+album_id = "187713c7-fd33-4621-a6af-af9ca5471f1c"
 title = "言わないけどね。"
-edition = "アニメ盤"
+edition = "アーティスト盤"
 artist = "大原ゆい子"
 date = 2018-02-14
 type = "normal"
-catalog = "THCS-60204"
-tags = ["大原ゆい子", "からかい上手の高木さん"]
+catalog = "THCS-60205"
+tags = ["大原ゆい子"]
 
 [[discs]]
-catalog = "THCS-60204"
+catalog = "THCS-60205"
 
 [[discs.tracks]]
 title = "言わないけどね。"
 
 [[discs.tracks]]
-title = "旅立ちの風"
+title = "木星バット"
 
 [[discs.tracks]]
 title = "言わないけどね。 (Instrumental)"
 type = "instrumental"
 
 [[discs.tracks]]
-title = "旅立ちの風 (Instrumental)"
+title = "木星バット (Instrumental)"
 type = "instrumental"

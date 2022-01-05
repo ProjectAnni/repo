@@ -1,0 +1,33 @@
+[album]
+album_id = "8649a692-05e9-4bdf-acdf-01824b256681"
+title = "ハイステッパー"
+edition = "アーティスト盤"
+artist = "大原ゆい子"
+date = 2018-08-15
+type = "normal"
+catalog = "THCS-60222"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60222"
+
+[[discs.tracks]]
+title = "ハイステッパー"
+
+[[discs.tracks]]
+title = "リアライズ"
+
+[[discs.tracks]]
+title = "ライラック"
+
+[[discs.tracks]]
+title = "ハイステッパー -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リアライズ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ライラック -Instrumental-"
+type = "instrumental"

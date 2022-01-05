@@ -1,0 +1,59 @@
+[album]
+album_id = "9a24fd32-ac1d-421f-a143-66628dc4e8eb"
+title = "星に名前をつけるとき"
+artist = "大原ゆい子"
+date = 2019-09-25
+type = "normal"
+catalog = "THCA-60249"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCA-60249"
+
+[[discs.tracks]]
+title = "Magic Parade"
+
+[[discs.tracks]]
+title = "ゼロセンチメートル"
+
+[[discs.tracks]]
+title = "夢の途中で"
+
+[[discs.tracks]]
+title = "透明な翼"
+
+[[discs.tracks]]
+title = "星が眠るまで踊ろうよ"
+
+[[discs.tracks]]
+title = "えがおのまほう"
+
+[[discs.tracks]]
+title = "からっぽになりたい"
+
+[[discs.tracks]]
+title = "煌めく浜辺"
+
+[[discs.tracks]]
+title = "雨宿り"
+
+[[discs.tracks]]
+title = "205号室"
+
+[[discs.tracks]]
+title = "ハイステッパー"
+
+[[discs.tracks]]
+title = "言わないけどね。"
+
+[[discs.tracks]]
+title = "変わらない宝物"
+
+[[discs.tracks]]
+title = "月より綺麗だった"
+
+[[discs.tracks]]
+title = "星を辿れば"
+
+[[discs.tracks]]
+title = "夜になれば"

@@ -1,0 +1,32 @@
+[album]
+album_id = "a9c45342-a0c0-4ba7-9f39-05abf9bbfcd0"
+title = "Magic Parade"
+artist = "大原ゆい子"
+date = 2015-10-07
+type = "normal"
+catalog = "THCS-60079"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60079"
+
+[[discs.tracks]]
+title = "Magic Parade"
+
+[[discs.tracks]]
+title = "世界のどこかで"
+
+[[discs.tracks]]
+title = "星に雲に揺れる木々に"
+
+[[discs.tracks]]
+title = "Magic Parade (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "世界のどこかで (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "星に雲に揺れる木々に (Instrumental)"
+type = "instrumental"
