@@ -1,0 +1,53 @@
+[album]
+album_id = "e04200f4-961d-476a-bcea-0afd942e97fa"
+title = "雨宮天 BEST ALBUM - RED -"
+artist = "雨宮天"
+date = 2022-01-05
+type = "normal"
+catalog = "SMCL-741"
+tags = ["雨宮天"]
+
+[[discs]]
+catalog = "SMCL-741"
+
+[[discs.tracks]]
+title = "irodori"
+
+[[discs.tracks]]
+title = "Shu!Bi!Du!Ba!"
+
+[[discs.tracks]]
+title = "Fluegel"
+
+[[discs.tracks]]
+title = "エデンの旅人"
+
+[[discs.tracks]]
+title = "Emerald"
+
+[[discs.tracks]]
+title = "月灯り"
+
+[[discs.tracks]]
+title = "火花"
+
+[[discs.tracks]]
+title = "ロンリーナイト・ディスコティック"
+
+[[discs.tracks]]
+title = "Queen no' cry"
+
+[[discs.tracks]]
+title = "羽根輪舞"
+
+[[discs.tracks]]
+title = "メリーゴーランド"
+
+[[discs.tracks]]
+title = "VIPER"
+
+[[discs.tracks]]
+title = "フリイジア"
+
+[[discs.tracks]]
+title = "誓い"
