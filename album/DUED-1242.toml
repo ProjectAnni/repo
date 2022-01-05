@@ -1,0 +1,41 @@
+[album]
+album_id = "b43697da-9749-41e9-a2bf-dff5b7966d92"
+title = "負け犬にアンコールはいらない"
+artist = "ヨルシカ"
+date = 2018-05-09
+type = "normal"
+catalog = "DUED-1242"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "DUED-1242"
+
+[[discs.tracks]]
+title = "前世"
+type = "absolute"
+
+[[discs.tracks]]
+title = "負け犬にアンコールはいらない"
+
+[[discs.tracks]]
+title = "爆弾魔"
+
+[[discs.tracks]]
+title = "ヒッチコック"
+
+[[discs.tracks]]
+title = "落下"
+type = "absolute"
+
+[[discs.tracks]]
+title = "準透明少年"
+
+[[discs.tracks]]
+title = "ただ君に晴れ"
+
+[[discs.tracks]]
+title = "冬眠"
+
+[[discs.tracks]]
+title = "夏、バス停、君を待つ"
+type = "absolute"

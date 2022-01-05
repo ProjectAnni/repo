@@ -1,0 +1,57 @@
+[album]
+album_id = "825c01ef-55b5-42b0-886c-d9d22e712f8c"
+title = "だから僕は音楽を辞めた"
+artist = "ヨルシカ"
+date = 2019-04-10
+type = "normal"
+catalog = "DUED-1266"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "DUED-1266"
+
+[[discs.tracks]]
+title = "8/31"
+type = "absolute"
+
+[[discs.tracks]]
+title = "藍二乗"
+
+[[discs.tracks]]
+title = "八月、某、月明かり"
+
+[[discs.tracks]]
+title = "詩書きとコーヒー"
+
+[[discs.tracks]]
+title = "7/13"
+type = "absolute"
+
+[[discs.tracks]]
+title = "踊ろうぜ"
+
+[[discs.tracks]]
+title = "六月は雨上がりの街を書く"
+
+[[discs.tracks]]
+title = "五月は花緑青の窓辺から"
+
+[[discs.tracks]]
+title = "夜紛い"
+
+[[discs.tracks]]
+title = "5/6"
+type = "absolute"
+
+[[discs.tracks]]
+title = "パレード"
+
+[[discs.tracks]]
+title = "エルマ"
+
+[[discs.tracks]]
+title = "4/10"
+type = "absolute"
+
+[[discs.tracks]]
+title = "だから僕は音楽を辞めた"
