@@ -1,0 +1,27 @@
+[album]
+album_id = "e35bec08-7101-41d8-b361-d39b9d0fb53e"
+title = "創作"
+artist = "ヨルシカ"
+date = 2021-01-27
+type = "normal"
+catalog = "UPCH-2215"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "UPCH-2215"
+
+[[discs.tracks]]
+title = "強盗と花束"
+
+[[discs.tracks]]
+title = "春泥棒"
+
+[[discs.tracks]]
+title = "創作"
+type = "absolute"
+
+[[discs.tracks]]
+title = "風を食む"
+
+[[discs.tracks]]
+title = "嘘月"
