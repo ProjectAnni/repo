@@ -1,0 +1,31 @@
+[album]
+album_id = "172859ef-f0a0-4a2d-b61f-23cd52d5028d"
+title = "残響散歌／朝が来る"
+artist = "Aimer"
+date = 2022-01-12
+type = "normal"
+catalog = "VVCL-1953"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVCL-1953"
+
+[[discs.tracks]]
+title = "残響散歌"
+
+[[discs.tracks]]
+title = "朝が来る"
+
+[[discs.tracks]]
+title = "残響散歌 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "朝が来る -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "残響散歌 -TV ver.-"
+
+[[discs.tracks]]
+title = "朝が来る -TV ver.-"
