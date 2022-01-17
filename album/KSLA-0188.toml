@@ -1,0 +1,79 @@
+[album]
+album_id = "4905ffaa-ba13-4aae-b3a5-737f73c58924"
+title = "Rewrite 10th memorial Arrange Album 'Forestia'"
+artist = "Key Sounds Label"
+date = 2021-12-18
+type = "normal"
+catalog = "KSLA-0188"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0188"
+
+[[discs.tracks]]
+title = "Philosophyz -■(memorial)-"
+artist = "水谷瑠奈"
+artists.vocal = "水谷瑠奈"
+artists.composer = "折戸伸治"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "都乃河勇人"
+
+[[discs.tracks]]
+title = "Word of Dawn"
+artist = "多田葵"
+artists.vocal = "多田葵"
+artists.composer = "竹下智博"
+artists.arranger = "Meis Clauson"
+artists.lyricist = "魁"
+
+[[discs.tracks]]
+title = "深層森林"
+artist = "井内舞子"
+type = "absolute"
+artists.composer = "井内舞子"
+artists.arranger = "黒田英明"
+
+[[discs.tracks]]
+title = "ささやかなはじまり"
+artist = "水谷瑠奈"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "kidlit"
+artists.lyricist = "塚越雄一朗"
+
+[[discs.tracks]]
+title = "ヒナギク"
+artist = "井内舞子"
+type = "absolute"
+artists.composer = "井内舞子"
+artists.arranger = "a2c"
+
+[[discs.tracks]]
+title = "旅"
+artist = "麻枝准"
+type = "absolute"
+artists.composer = "麻枝准"
+artists.arranger = "水月陵"
+
+[[discs.tracks]]
+title = "Hervest"
+artist = "多田葵"
+artists.vocal = "多田葵"
+artists.composer = "井内舞子"
+artists.arranger = "オッカ"
+artists.lyricist = "都乃河勇人"
+
+[[discs.tracks]]
+title = "散花"
+artist = "水月陵"
+type = "absolute"
+artists.composer = "水月陵"
+artists.arranger = "大橋柊平"
+
+[[discs.tracks]]
+title = "White stars"
+artist = "水谷瑠奈"
+artists.vocal = "水谷瑠奈"
+artists.composer = "細井聡司"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "塚越雄一朗"
