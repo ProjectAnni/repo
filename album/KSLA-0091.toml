@@ -9,40 +9,70 @@ tags = ["Rewrite", "Rewrite Harvest festa!"]
 
 [[discs]]
 catalog = "KSLA-0091"
-artist = "MintJam"
 
 [[discs.tracks]]
 title = "Harvest"
 artist = "多田葵"
 type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "井内舞子"
+artists.arranger = "TERRA、a2c"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "Potted one"
+artist = "TERRA"
+artists.composer = "井内舞子"
+artists.arranger = "TERRA"
 
 [[discs.tracks]]
 title = "刈り"
+artist = "TERRA"
+artists.composer = "井内舞子"
+artists.arranger = "TERRA"
 
 [[discs.tracks]]
 title = "Fight for nowhere"
+artists.arranger = "TERRA、a2c"
+artists.composer = "折戸伸治"
+artists.arranger = "TERRA、a2c"
 
 [[discs.tracks]]
 title = "Sorrowless"
+artists.arranger = "TERRA、a2c"
+artists.composer = "折戸伸治"
+artists.arranger = "TERRA、a2c"
 
 [[discs.tracks]]
 title = "Remembrance"
+artists.arranger = "TERRA、a2c"
+artists.composer = "折戸伸治"
+artists.arranger = "TERRA、a2c"
 
 [[discs.tracks]]
 title = "恋文"
 artist = "やなぎなぎ"
 type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "Radiance"
+artists.composer = "細井聡司"
+artists.arranger = "a2c"
 
 [[discs.tracks]]
 title = "Reply"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
 
 [[discs.tracks]]
 title = "ささやかなはじまり"
 artist = "水谷瑠奈"
 type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "a2c"
+artists.lyricist = "NanosizeMir"

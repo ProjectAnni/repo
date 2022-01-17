@@ -13,36 +13,62 @@ catalog = "KSLA-0076"
 [[discs.tracks]]
 title = "旅"
 artist = "井内啓二"
+artists.composer = "麻枝准"
+artists.arranger = "井内啓二"
 
 [[discs.tracks]]
 title = "Fertilizer"
 artist = "mao"
 type = "normal"
+artists.vocal = "mao"
+artists.composer = "折戸伸治"
+artists.arranger = "MANYO"
+artists.lyricist = "竜騎士07"
 
 [[discs.tracks]]
 title = "ニリンソウ"
 artist = "桐岡麻季"
+artists.composer = "細井聡司"
+artists.arranger = "桐岡麻季"
 
 [[discs.tracks]]
 title = "Little Forest"
 artist = "やなぎなぎ"
 type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "井内舞子"
+artists.arranger = "桐岡麻季"
+artists.lyricist = "やなぎなぎ"
 
 [[discs.tracks]]
 title = "Orbita"
 artist = "Annabel"
 type = "normal"
+artists.vocal = "Annabel"
+artists.composer = "井内舞子"
+artists.arranger = "MANYO"
+artists.lyricist = "MANYO"
 
 [[discs.tracks]]
 title = "過日憐歌"
 artist = "mao"
 type = "normal"
+artists.vocal = "mao"
+artists.composer = "水月陵"
+artists.arranger = "坂本英城"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "大地～Radiance"
 artist = "坂本英城"
+artists.composer = "細井聡司"
+artists.arranger = "坂本英城"
 
 [[discs.tracks]]
 title = "Reply"
 artist = "やなぎなぎ"
 type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "井内啓二"
+artists.lyricist = "やなぎなぎ"

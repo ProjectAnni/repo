@@ -14,6 +14,10 @@ catalog = "KSLA-0081"
 title = "Harvest"
 artist = "多田葵"
 type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "井内舞子"
+artists.arranger = "井内舞子"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "irrigated land"
@@ -22,10 +26,14 @@ artist = "塚越雄一朗"
 [[discs.tracks]]
 title = "萌芽"
 artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "折戸伸治、三輪学"
 
 [[discs.tracks]]
 title = "ムーンブライト"
 artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "水月陵"
 
 [[discs.tracks]]
 title = "Quaesitor"
@@ -46,15 +54,23 @@ artist = "細井聡司"
 [[discs.tracks]]
 title = "愛を灌ぐ"
 artist = "井内舞子"
+artists.composer = "井内舞子"
+artists.arranger = "水月陵"
 
 [[discs.tracks]]
 title = "夜露"
 artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
 
 [[discs.tracks]]
 title = "ささやかなはじまり"
 artist = "水谷瑠奈"
 type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "NanosizeMir"
 
 [[discs.tracks]]
 title = "irrigated land ～echo～"

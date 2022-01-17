@@ -13,6 +13,10 @@ catalog = "KSLA-0069"
 [[discs.tracks]]
 title = "Rewrite"
 artist = "サイキックラバー"
+artists.vocal = "サイキックラバー"
+artists.composer = "YOFFY"
+artists.arranger = "大石憲一郎"
+artists.lyricist = "YOFFY"
 
 [[discs.tracks]]
 title = "Rewrite Game size Ver."
@@ -20,10 +24,10 @@ artist = "サイキックラバー"
 
 [[discs.tracks]]
 title = "Rewrite off vocal Ver."
-artist = "YOFFY、大石憲一郎"
+artist = "YOFFY"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Rewrite Instrumental Ver."
-artist = "YOFFY、大石憲一郎"
+artist = "YOFFY"
 type = "instrumental"

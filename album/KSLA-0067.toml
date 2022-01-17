@@ -13,9 +13,17 @@ artist = "水谷瑠奈"
 
 [[discs.tracks]]
 title = "Philosophyz"
+artists.vocal = "水谷瑠奈"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "闇の彼方へ"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "塚越雄一朗"
 
 [[discs.tracks]]
 title = "Philosophyz Game size Ver."
@@ -25,7 +33,7 @@ title = "闇の彼方へ Game size Ver."
 
 [[discs.tracks]]
 title = "Philosophyz off vocal Ver."
-artist = "折戸伸治、a2c(MintJam)"
+artist = "折戸伸治"
 type = "instrumental"
 
 [[discs.tracks]]

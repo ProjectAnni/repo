@@ -14,10 +14,16 @@ catalog = "KSLA-0073"
 title = "Philosophyz"
 artist = "水谷瑠奈"
 type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "旅"
-artist = "麻枝准、ANANT-GARDE EYES"
+artist = "麻枝准"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
 
 [[discs.tracks]]
 title = "芽吹き"
@@ -25,7 +31,9 @@ artist = "水月陵"
 
 [[discs.tracks]]
 title = "Fertilizer"
-artist = "折戸伸治、井内舞子"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
 
 [[discs.tracks]]
 title = "花蕾"
@@ -53,11 +61,15 @@ artist = "水月陵"
 
 [[discs.tracks]]
 title = "カーネーション"
-artist = "折戸伸治、井内舞子"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
 
 [[discs.tracks]]
 title = "サンブライト"
-artist = "折戸伸治、TERRA(MintJam)"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "TERRA"
 
 [[discs.tracks]]
 title = "ヒナギク"
@@ -65,7 +77,9 @@ artist = "井内舞子"
 
 [[discs.tracks]]
 title = "Honesty"
-artist = "折戸伸治、井内舞子"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
 
 [[discs.tracks]]
 title = "深層森林"
@@ -99,6 +113,10 @@ artist = "折戸伸治"
 title = "闇の彼方へ"
 artist = "水谷瑠奈"
 type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "塚越雄一朗"
 
 [[discs]]
 catalog = "KSLA-0074"
@@ -107,6 +125,10 @@ catalog = "KSLA-0074"
 title = "Rewrite"
 artist = "サイキックラバー"
 type = "normal"
+artists.vocal = "サイキックラバー"
+artists.composer = "YOFFY"
+artists.arranger = "大石憲一郎"
+artists.lyricist = "YOFFY"
 
 [[discs.tracks]]
 title = "Retribution"
@@ -122,11 +144,15 @@ artist = "折戸伸治"
 
 [[discs.tracks]]
 title = "Sorrowless"
-artist = "折戸伸治、井内舞子"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
 
 [[discs.tracks]]
 title = "揺葉"
-artist = "折戸伸治、井内舞子"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
 
 [[discs.tracks]]
 title = "散花"
@@ -174,7 +200,9 @@ artist = "井内舞子"
 
 [[discs.tracks]]
 title = "Reply"
-artist = "折戸伸治、水月陵"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "水月陵"
 
 [[discs.tracks]]
 title = "Toxoplasma"
@@ -186,7 +214,9 @@ artist = "水月陵"
 
 [[discs.tracks]]
 title = "Philosophy of ours"
-artist = "折戸伸治、三輪学"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
 
 [[discs.tracks]]
 title = "Philosophy of yours"
@@ -194,23 +224,31 @@ artist = "折戸伸治"
 
 [[discs.tracks]]
 title = "Exploration2 symphonic"
-artist = "折戸伸治、三輪学"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
 
 [[discs]]
 catalog = "KSLA-0075"
 
 [[discs.tracks]]
 title = "Philosophyz GT Ver."
-artist = "折戸伸治、a2c(MintJam)"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
 
 [[discs.tracks]]
 title = "Rewrite instrumental"
-artist = "YOFFY(サイキックラバー)、大石憲一郎"
+artist = "YOFFY"
 type = "instrumental"
+artists.composer = "YOFFY"
+artists.arranger = "大石憲一郎"
 
 [[discs.tracks]]
 title = "Remembrance"
-artist = "折戸伸治、三輪学"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
 
 [[discs.tracks]]
 title = "大地"
@@ -222,30 +260,52 @@ artist = "細井聡司"
 
 [[discs.tracks]]
 title = "恋歌"
-artist = "折戸伸治、MANYO"
+artist = "折戸伸治"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "MANYO"
 
 [[discs.tracks]]
 title = "恋文"
 artist = "やなぎなぎ"
 type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "MANYO"
+artists.lyricist = "都乃河勇人"
 
 [[discs.tracks]]
 title = "偽らない君へ"
 artist = "やなぎなぎ"
 type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "森藤晶司"
+artists.lyricist = "竜騎士07"
 
 [[discs.tracks]]
 title = "渡りの詩"
-artist = "麻枝准、ANANT-GARDE EYES"
+artist = "多田葵"
+type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
+artists.lyricist = "麻枝准"
 
 [[discs.tracks]]
 title = "CANOE"
 artist = "多田葵"
 type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
+artists.lyricist = "麻枝准"
 
 [[discs.tracks]]
 title = "ヒナギク orgel Ver."
-artist = "井内舞子、どんまる"
+artist = "井内舞子"
+artists.composer = "井内舞子"
+artists.arranger = "どんまる"
 
 [[discs.tracks]]
 title = "Philosophyz Game size Ver."
