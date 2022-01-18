@@ -13,6 +13,7 @@ catalog = "KECH-8083"
 [[discs.tracks]]
 title = "Somewhen, Somewhere..."
 artist = "クラムボン"
+type = "normal"
 
 [[discs.tracks]]
 title = "新しい大冒険～from ひと夏の大冒険～"
@@ -252,3 +253,4 @@ artist = "裏谷玲央"
 [[discs.tracks]]
 title = "Hands"
 artist = "琴音"
+type = "normal"
