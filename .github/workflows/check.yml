@@ -14,7 +14,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           repo: ProjectAnni/anni
-          workflow: build.yml
+          workflow: build.yaml
           name: anni-x86_64-unknown-linux-musl.tar.gz
 
       - name: Run | Validate Metadata
