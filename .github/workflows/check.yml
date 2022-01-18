@@ -1,0 +1,12 @@
+name: Build and publish a anniv-go
+on:
+  pull_request:
+
+jobs:
+  check_repo:
+    runs-on: "ubuntu-20.04"
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker-practice/actions-setup-docker@master
+      - run: |
+          docker run ghcr.io/projectanni/anniv-check:latest -v $(pwd):/app/repo
