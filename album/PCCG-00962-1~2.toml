@@ -1,0 +1,38 @@
+[album]
+album_id = "9c784e28-426f-4fc3-a52a-b282b1d45022"
+title = "放課後ティータイム"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2009-07-22
+type = "normal"
+catalog = "PCCG-00962-1~2"
+tags = ["けいおん！"]
+
+[[discs]]
+catalog = "PCCG-00962-1"
+
+[[discs.tracks]]
+title = "カレーのちライス"
+
+[[discs.tracks]]
+title = "わたしの恋はホッチキス"
+
+[[discs.tracks]]
+title = "ふでペン～ボールペン～"
+
+[[discs.tracks]]
+title = "ふわふわ時間"
+
+[[discs]]
+catalog = "PCCG-00962-2"
+
+[[discs.tracks]]
+title = "カレーのちライス(#8『新歓！』Mix)"
+
+[[discs.tracks]]
+title = "わたしの恋はホッチキス(#8『新歓！』Mix)"
+
+[[discs.tracks]]
+title = "ふでペン ～ボールペン～(#12『軽音！』Mix)"
+
+[[discs.tracks]]
+title = "ふわふわ時間(#12『軽音！』Mix)"
