@@ -1,0 +1,47 @@
+[album]
+album_id = "6cf9ac03-d419-4b97-aabe-b2003a5bde3c"
+title = "海纳百川Storybook"
+artist = "星尘、海伊、诗岸"
+date = 2020-11-07
+type = "normal"
+catalog = "M5CD-0007"
+tags = ["星尘", "海伊", "诗岸", "平行四界 五维介质"]
+
+[[discs]]
+catalog = "M5CD-0007"
+
+[[discs.tracks]]
+title = "蜜药"
+artist = "Evalia、星尘、海伊、诗岸"
+
+[[discs.tracks]]
+title = "cola palapa"
+artist = "PoKeR、诗岸"
+
+[[discs.tracks]]
+title = "Stranded Siren - 搁浅的塞壬"
+artist = "磁带君、海伊"
+
+[[discs.tracks]]
+title = "墨恋仙"
+artist = "星辉、星尘、诗岸"
+
+[[discs.tracks]]
+title = "一剪人间客"
+artist = "papaw泡泡、星尘、海伊"
+
+[[discs.tracks]]
+title = "海底"
+artist = "公兔、海伊"
+
+[[discs.tracks]]
+title = "百里芭蕉百里花"
+artist = "MeLo、海伊、诗岸"
+
+[[discs.tracks]]
+title = "零和Zero-Sum"
+artist = "Kide、星尘"
+
+[[discs.tracks]]
+title = "最后的守护"
+artist = "Zeno、诗岸"

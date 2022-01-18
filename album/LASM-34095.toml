@@ -5,6 +5,7 @@ artist = "スフィア"
 date = 2011-05-11
 type = "normal"
 catalog = "LASM-34095"
+tags = ["スフィア"]
 
 [[discs]]
 catalog = "LASM-34095"

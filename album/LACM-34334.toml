@@ -5,6 +5,7 @@ artist = "TRUE"
 date = 2015-04-22
 type = "normal"
 catalog = "LACM-34334"
+tags = ["響け！ユーフォニアム"]
 
 [[discs]]
 catalog = "LACM-34334"

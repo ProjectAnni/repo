@@ -1,0 +1,34 @@
+[album]
+album_id = "9dc47ead-1d08-45b0-8d7d-af42a0f52b22"
+title = "夏草が邪魔をする"
+artist = "ヨルシカ"
+date = 2017-06-28
+type = "normal"
+catalog = "DUED-1223"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "DUED-1223"
+
+[[discs.tracks]]
+title = "夏陰、ピアノを弾く"
+type = "absolute"
+
+[[discs.tracks]]
+title = "カトレア"
+
+[[discs.tracks]]
+title = "言って。"
+
+[[discs.tracks]]
+title = "あの夏に咲け"
+
+[[discs.tracks]]
+title = "飛行"
+type = "absolute"
+
+[[discs.tracks]]
+title = "靴の花火"
+
+[[discs.tracks]]
+title = "雲と幽霊"

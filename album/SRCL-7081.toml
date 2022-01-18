@@ -1,0 +1,28 @@
+[album]
+album_id = "43b1dbc9-d6af-46b1-8a06-a9e6f6e7edbe"
+title = "君の知らない物語"
+artist = "supercell"
+date = 2009-08-12
+type = "normal"
+catalog = "SRCL-7081"
+tags = ["supercell", "nagi"]
+
+[[discs]]
+catalog = "SRCL-7081"
+
+[[discs.tracks]]
+title = "君の知らない物語"
+
+[[discs.tracks]]
+title = "LOVE & ROLL"
+
+[[discs.tracks]]
+title = 'theme of "CENCOROLL"'
+type = "absolute"
+
+[[discs.tracks]]
+title = "君の知らない物語 -TV Edit-"
+
+[[discs.tracks]]
+title = "君の知らない物語 -Instrumental-"
+type = "instrumental"

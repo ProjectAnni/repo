@@ -1,0 +1,25 @@
+[album]
+album_id = "3642b22e-2cb4-46ba-98e8-f0e05ad4add5"
+title = "一分一秒君と僕の"
+artist = "HoneyWorks、スフィア（寿美菜子、高垣彩陽、戸松遥、豊崎愛生）"
+date = 2016-04-20
+type = "normal"
+catalog = "SMCL-426"
+tags = ["HoneyWorks", "スフィア"]
+
+[[discs]]
+catalog = "SMCL-426"
+
+[[discs.tracks]]
+title = "一分一秒君と僕の"
+
+[[discs.tracks]]
+title = "愛に出会い恋は続く"
+
+[[discs.tracks]]
+title = "一分一秒君と僕の (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "愛に出会い恋は続く (Off Vocal)"
+type = "instrumental"

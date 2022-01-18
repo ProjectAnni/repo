@@ -5,6 +5,7 @@ artist = "花咲くいろは"
 date = 2013-03-20
 type = "normal"
 catalog = "LACA-15278"
+tags = ["花咲くいろは"]
 
 [[discs]]
 catalog = "LACA-15278"

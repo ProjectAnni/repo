@@ -1,0 +1,33 @@
+[album]
+album_id = "20549aea-01ba-4419-a4d0-8c54e3affa6d"
+title = "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor"
+artist = "chicAAmor（高山紗代子（駒形友梨）、豊川風花（末柄里恵）、ジュリア（愛美）、二階堂千鶴（野村香菜子））"
+date = 2021-12-15
+type = "normal"
+catalog = "LACM-14905"
+tags = ["THE IDOLM@STER MILLION THE@TER WAVE"]
+
+[[discs]]
+catalog = "LACM-14905"
+
+[[discs.tracks]]
+title = "ドラマ『前菜：キッチンより愛を込めて』"
+type = "drama"
+
+[[discs.tracks]]
+title = "深紅のパシオン"
+
+[[discs.tracks]]
+title = "ドラマ『メインディッシュ１：混沌のトルティージャ』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ『メインディッシュ２：情熱のパエリア』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Paradox of LOVE"
+
+[[discs.tracks]]
+title = "ドラマ『デザート：お口直しをひとさじ』"
+type = "drama"

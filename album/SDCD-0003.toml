@@ -1,0 +1,51 @@
+[album]
+album_id = "bb0ab3a9-52a6-4a22-b79c-65f581d75739"
+title = "星之海StarOcean"
+artist = "星尘、海伊"
+date = 2018-05-11
+type = "normal"
+catalog = "SDCD-0003"
+tags = ["星尘", "海伊"]
+
+[[discs]]
+catalog = "SDCD-0003"
+
+[[discs.tracks]]
+title = "Awakening"
+artist = "Kide、星尘、海伊"
+
+[[discs.tracks]]
+title = "STOP"
+artist = "磁带君、海伊"
+
+[[discs.tracks]]
+title = "网一尾好梦"
+artist = "芹菜猪肉大馄饨、星尘"
+
+[[discs.tracks]]
+title = "涟漪（星海Ver.）"
+artist = "Zeno、星尘、海伊"
+
+[[discs.tracks]]
+title = "浅滩"
+artist = "Zeno、海伊"
+
+[[discs.tracks]]
+title = "记忆残片"
+artist = "小野道、星尘"
+
+[[discs.tracks]]
+title = "拂晓"
+artist = "Zoey、星尘"
+
+[[discs.tracks]]
+title = "绮云泽"
+artist = "MeLo、星尘、海伊"
+
+[[discs.tracks]]
+title = "Journey"
+artist = "战场原妖精、星尘"
+
+[[discs.tracks]]
+title = "浅滩（星海Ver.）"
+artist = "MeLo、星尘、海伊"

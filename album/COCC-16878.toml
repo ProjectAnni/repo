@@ -1,0 +1,26 @@
+[album]
+album_id = "0efd37cd-9f6e-422a-a69a-6c6996c8018e"
+title = "THE IDOLM@STER CINDERELLA MASTER 027 神谷奈緒"
+artist = "神谷奈緒（松井恵理子）"
+date = 2014-04-30
+type = "normal"
+catalog = "COCC-16878"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-16878"
+
+[[discs.tracks]]
+title = "2nd SIDE"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-神谷奈緒編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "2nd SIDE (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

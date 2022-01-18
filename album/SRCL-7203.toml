@@ -1,0 +1,28 @@
+[album]
+album_id = "eabf3679-14d9-49b2-a706-30ad402acbad"
+title = "さよならメモリーズ"
+artist = "supercell"
+date = 2010-02-10
+type = "normal"
+catalog = "SRCL-7203"
+tags = ["supercell", "nagi"]
+
+[[discs]]
+catalog = "SRCL-7203"
+
+[[discs.tracks]]
+title = "さよならメモリーズ"
+
+[[discs.tracks]]
+title = "教えてあげる"
+
+[[discs.tracks]]
+title = "約束をしよう"
+
+[[discs.tracks]]
+title = "さよならメモリーズ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "教えてあげる -Instrumental-"
+type = "instrumental"

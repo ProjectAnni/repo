@@ -1,6 +1,5 @@
 [[tag]]
 name = "Tokyo 7th シスターズ"
-alias = ["Tokyo 7th Sisters"]
 includes = [
   #
   # 七咲ニコル（水瀬いのり）
@@ -103,4 +102,7 @@ includes = [
   #
   # TODO
   "KARAKURI 2039",
+  #
+  # 桂木カヅミ（立花理香）
+  "桂木カヅミ",
 ]

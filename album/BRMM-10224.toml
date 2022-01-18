@@ -1,10 +1,12 @@
 [album]
 album_id = "948a52b1-35f7-4950-bd3e-6a3a398e4697"
-title = "イニシャル／夢を撃ち抜く瞬間に！【ドキドキVer.】"
+title = "イニシャル／夢を撃ち抜く瞬間に！"
+edition = "ドキドキVer."
 artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
 date = 2020-01-08
 type = "normal"
 catalog = "BRMM-10224"
+tags = ["Poppin'Party"]
 
 [[discs]]
 catalog = "BRMM-10224"

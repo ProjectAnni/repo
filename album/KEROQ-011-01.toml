@@ -5,6 +5,7 @@ artist = "Various Artists"
 date = 2010-05-03
 type = "absolute"
 catalog = "KEROQ-011-01"
+tags = ["素晴らしき日々"]
 
 [[discs]]
 catalog = "KEROQ-011-01-01"

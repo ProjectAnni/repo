@@ -1,0 +1,32 @@
+[album]
+album_id = "d0a2878d-dbac-47f8-9b67-78dc3ceb2062"
+title = "THE IDOLM@STER CINDERELLA MASTER Absolute NIne"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2015-07-29
+type = "normal"
+catalog = "COCC-17056"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
+
+[[discs]]
+catalog = "COCC-17056"
+
+[[discs.tracks]]
+title = "Absolute NIne"
+artist = "THE IDOLM@STER CINDERELLA GIRLS!!（塩見周子（ルゥティン）、高垣楓（早見沙織）、渋谷凛（福原綾香）、一ノ瀬志希（藍原ことみ）、島村卯月（大橋彩香）、相葉夕美（木村珠莉）、城ヶ崎美嘉（佳村はるか）、向井拓海（原優子））"
+
+[[discs.tracks]]
+title = "つぼみ"
+artist = "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（塩見周子（ルゥティン）、前川みく（高森奈津美）、高垣楓（早見沙織）、相葉夕美（木村珠莉）、一ノ瀬志希（藍原ことみ））"
+
+[[discs.tracks]]
+title = "ドラマパート"
+artist = "塩見周子（ルゥティン）、前川みく（高森奈津美）、高垣楓（早見沙織）、相葉夕美（木村珠莉）、一ノ瀬志希（藍原ことみ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Absolute NIne (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "つぼみ (オリジナル・カラオケ)"
+type = "instrumental"

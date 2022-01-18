@@ -1,0 +1,18 @@
+[album]
+album_id = "b05f8574-e85a-4213-85a2-92ff5b428d53"
+title = "恋セヨ乙女"
+artist = "桂木カヅミ（立花理香）"
+date = 2021-12-14
+type = "normal"
+catalog = "DN-152141"
+tags = ["桂木カヅミ"]
+
+[[discs]]
+catalog = "DN-152141"
+
+[[discs.tracks]]
+title = "恋セヨ乙女"
+
+[[discs.tracks]]
+title = "恋セヨ乙女 -OFF VOCAL-"
+type = "instrumental"

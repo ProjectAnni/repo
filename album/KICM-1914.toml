@@ -5,6 +5,7 @@ artist = "水瀬いのり"
 date = 2019-01-23
 type = "normal"
 catalog = "KICM-1914"
+tags = ["水瀬いのり"]
 
 [[discs]]
 catalog = "KICM-1914"

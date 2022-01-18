@@ -1,0 +1,33 @@
+[album]
+album_id = "67b8a8c8-b647-4771-a412-6536aea3ba7d"
+title = "透明な翼"
+edition = "アーティスト盤"
+artist = "大原ゆい子"
+date = 2017-05-24
+type = "normal"
+catalog = "THCS-60154"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60154"
+
+[[discs.tracks]]
+title = "透明な翼"
+
+[[discs.tracks]]
+title = "ねあと"
+
+[[discs.tracks]]
+title = "ノスタルジア"
+
+[[discs.tracks]]
+title = "透明な翼 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ねあと (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ノスタルジア (Instrumental)"
+type = "instrumental"

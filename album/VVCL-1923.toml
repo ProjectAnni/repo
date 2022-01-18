@@ -1,0 +1,24 @@
+[album]
+album_id = "681c0c2e-77c8-4223-ba7e-8ecb5e755162"
+title = "HADASHi NO STEP"
+artist = "LiSA"
+date = 2021-09-08
+type = "normal"
+catalog = "VVCL-1923"
+tags = ["LiSA"]
+
+[[discs]]
+catalog = "VVCL-1923"
+
+[[discs.tracks]]
+title = "HADASHi NO STEP"
+
+[[discs.tracks]]
+title = "rapid lady ハレーション"
+
+[[discs.tracks]]
+title = "た、い、せ、つ Pile up"
+
+[[discs.tracks]]
+title = "HADASHi NO STEP -Instrumental-"
+type = "instrumental"

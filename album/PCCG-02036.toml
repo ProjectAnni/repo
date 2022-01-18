@@ -1,0 +1,46 @@
+[album]
+album_id = "88d93eec-01fd-4f5f-a073-02372e560f50"
+title = "劇場版 少女☆歌劇 レヴュースタァライト 劇中歌アルバムVol.1"
+artist = "藤澤慶昌"
+date = 2021-07-21
+type = "absolute"
+catalog = "PCCG-02036"
+tags = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "PCCG-02036"
+
+[[discs.tracks]]
+title = "わがままハイウェイ"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+type = "normal"
+
+[[discs.tracks]]
+title = "MEDAL SUZDAL PANIC◎〇●"
+artist = "神楽ひかり（三森すずこ）、露崎まひる（岩田陽葵）"
+type = "normal"
+
+[[discs.tracks]]
+title = "美しき人 或いは其れは"
+artist = "天堂真矢（富田麻帆）、西條クロディーヌ（相羽あいな）"
+type = "normal"
+
+[[discs.tracks]]
+title = "蝶の舞う庭"
+
+[[discs.tracks]]
+title = "child stars"
+
+[[discs.tracks]]
+title = "ki-ringtrain"
+
+[[discs.tracks]]
+title = "世界は私たちの…"
+
+[[discs.tracks]]
+title = "キリンのためのレクイエム"
+
+[[discs.tracks]]
+title = "約束タワー ～echo～"
+artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
+type = "normal"

@@ -1,0 +1,71 @@
+[album]
+album_id = "b8fa755e-634b-42ba-99c7-c4a3ba11aa01"
+title = "東方妖々夢 ～ Perfect Cherry Blossm. サウンドトラック"
+artist = "上海アリス幻樂団"
+date = 2003-08-17
+type = "absolute"
+catalog = "@TH-07"
+tags = ["東方Project"]
+
+[[discs]]
+catalog = "@TH-07"
+
+[[discs.tracks]]
+title = "妖々夢　～ Snow or Cherry Petal"
+
+[[discs.tracks]]
+title = "無何有の郷　～ Deep Mountain"
+
+[[discs.tracks]]
+title = "クリスタライズシルバー"
+
+[[discs.tracks]]
+title = "遠野幻想物語"
+
+[[discs.tracks]]
+title = "ティアオイエツォン(withered leaf)"
+
+[[discs.tracks]]
+title = "ブクレシュティの人形師"
+
+[[discs.tracks]]
+title = "人形裁判　～ 人の形弄びし少女"
+
+[[discs.tracks]]
+title = "天空の花の都"
+
+[[discs.tracks]]
+title = "幽霊楽団　～ Phantom Ensemble"
+
+[[discs.tracks]]
+title = "東方妖々夢　～ Ancient Temple"
+
+[[discs.tracks]]
+title = "広有射怪鳥事　～ Till When?"
+
+[[discs.tracks]]
+title = "アルティメットトゥルース"
+
+[[discs.tracks]]
+title = "幽雅に咲かせ、墨染の桜　～ Border of Life"
+
+[[discs.tracks]]
+title = "ボーダーオブライフ"
+
+[[discs.tracks]]
+title = "妖々跋扈"
+
+[[discs.tracks]]
+title = "少女幻葬　～ Necro-Fantasy"
+
+[[discs.tracks]]
+title = "妖々跋扈　～ Who done it!"
+
+[[discs.tracks]]
+title = "ネクロファンタジア"
+
+[[discs.tracks]]
+title = "春風の夢"
+
+[[discs.tracks]]
+title = "さくらさくら　～ Japanize Dream..."

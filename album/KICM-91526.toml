@@ -1,0 +1,25 @@
+[album]
+album_id = "1cb1dac4-0677-46ae-af18-d6ca1d8220eb"
+title = "Tinkling Smile"
+artist = "小倉唯"
+date = 2014-08-13
+type = "normal"
+catalog = "KICM-91526"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91526"
+
+[[discs.tracks]]
+title = "Tinkling Smile"
+
+[[discs.tracks]]
+title = "thx!!"
+
+[[discs.tracks]]
+title = "Tinkling Smile (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "thx!! (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,44 @@
+[album]
+album_id = "d0c35bd2-487e-4c91-ba14-0374273d5678"
+title = "劇場版 少女☆歌劇 レヴュースタァライト 劇中歌アルバムVol.2"
+artist = "加藤達也"
+date = 2021-07-21
+type = "absolute"
+catalog = "PCCG-02037"
+tags = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "PCCG-02037"
+
+[[discs.tracks]]
+title = "wi(l)d-screen baroque"
+artist = "大場なな（小泉萌香）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ペン：力：刀"
+artist = "星見純那（佐藤日向）、大場なな（小泉萌香）"
+type = "normal"
+
+[[discs.tracks]]
+title = "スーパー スタァ スペクタクル"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+type = "normal"
+
+[[discs.tracks]]
+title = "color temperature"
+
+[[discs.tracks]]
+title = "station zero"
+
+[[discs.tracks]]
+title = "砂とアラベスク"
+
+[[discs.tracks]]
+title = "luminance"
+
+[[discs.tracks]]
+title = "focus"
+
+[[discs.tracks]]
+title = "キラキラ！キラミラ"

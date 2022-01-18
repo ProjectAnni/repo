@@ -1,0 +1,53 @@
+[album]
+album_id = "3ffa1c0d-9c72-4b71-a40a-41baf46d0ed3"
+title = "雨宮天 BEST ALBUM - BLUE -"
+artist = "雨宮天"
+date = 2022-01-05
+type = "normal"
+catalog = "SMCL-744"
+tags = ["雨宮天"]
+
+[[discs]]
+catalog = "SMCL-744"
+
+[[discs.tracks]]
+title = "This Hope"
+
+[[discs.tracks]]
+title = "Skyreach"
+
+[[discs.tracks]]
+title = "Marvelous scene"
+
+[[discs.tracks]]
+title = "Defiance"
+
+[[discs.tracks]]
+title = "Silent Sword"
+
+[[discs.tracks]]
+title = "Trust Your Mind"
+
+[[discs.tracks]]
+title = "永遠のAria"
+
+[[discs.tracks]]
+title = "Regeneration"
+
+[[discs.tracks]]
+title = "Absolute Blue"
+
+[[discs.tracks]]
+title = "Eternal"
+
+[[discs.tracks]]
+title = "Velvet Rays"
+
+[[discs.tracks]]
+title = "蒼天のシンフォニア"
+
+[[discs.tracks]]
+title = "PARADOX"
+
+[[discs.tracks]]
+title = "Song for"

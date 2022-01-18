@@ -1,7 +1,6 @@
 [[tag]]
 name = "THE IDOLM@STER Shiny Colors"
-alias = ["Shiny Colors"]
-included-by = ["THE IDOLM@STER"]
+included-by = ["アイドルマスターシリーズ"]
 includes = [
   # Series
   "THE IDOLM@STER SHINY COLORS BRILLI@NT WING",

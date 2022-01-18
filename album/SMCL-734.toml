@@ -1,0 +1,44 @@
+[album]
+album_id = "b14969e3-6341-42f6-9bc3-954b78fd68f4"
+title = "COVERS -Sora Amamiya favorite songs-"
+artist = "雨宮天"
+date = 2021-10-06
+type = "normal"
+catalog = "SMCL-734"
+tags = ["雨宮天"]
+
+[[discs]]
+catalog = "SMCL-734"
+
+[[discs.tracks]]
+title = "かもめが翔んだ日"
+
+[[discs.tracks]]
+title = "みずいろの雨"
+
+[[discs.tracks]]
+title = "フライディ・チャイナタウン"
+
+[[discs.tracks]]
+title = "たそがれマイ・ラブ"
+
+[[discs.tracks]]
+title = "時の過ぎゆくままに"
+
+[[discs.tracks]]
+title = "異邦人"
+
+[[discs.tracks]]
+title = "北ウイング"
+
+[[discs.tracks]]
+title = "悲しみがとまらない"
+
+[[discs.tracks]]
+title = "SWEET MEMORIES"
+
+[[discs.tracks]]
+title = "レイニー ブルー"
+
+[[discs.tracks]]
+title = "恋におちて -Fall in love-"

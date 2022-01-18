@@ -5,6 +5,7 @@ artist = "Key Sounds Label"
 date = 2019-09-18
 type = "normal"
 catalog = "KSLA-1001~50"
+tags = ["Key Sounds Label"]
 
 [[discs]]
 title = "Kanon・AIR・CLANNAD OST他より"

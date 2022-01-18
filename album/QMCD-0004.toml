@@ -1,0 +1,47 @@
+[album]
+album_id = "793195d1-22c8-4b8e-bb23-4d13a6a9aa52"
+title = "平行四界Quadimension 4"
+artist = "洛天依、乐正绫"
+date = 2015-12-12
+type = "normal"
+catalog = "QMCD-0004"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0004"
+
+[[discs.tracks]]
+title = "彩色旅途"
+artist = "ZOMiG、乐正绫、洛天依"
+
+[[discs.tracks]]
+title = "尘之旅"
+artist = "战场原妖精、洛天依、乐正绫"
+
+[[discs.tracks]]
+title = "Last Natsu"
+artist = "St.K4N3、洛天依"
+
+[[discs.tracks]]
+title = "钻石的回忆录"
+artist = "绛舞乱丸、乐正绫"
+
+[[discs.tracks]]
+title = "梦语"
+artist = "人形兎、乐正绫"
+
+[[discs.tracks]]
+title = "D!sorder"
+artist = "Zeno、洛天依"
+
+[[discs.tracks]]
+title = "GRAVITY"
+artist = "便器P、洛天依"
+
+[[discs.tracks]]
+title = "午后花园"
+artist = "泓、乐正绫"
+
+[[discs.tracks]]
+title = "草莓气泡"
+artist = "天钦、洛天依"

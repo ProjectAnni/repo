@@ -1,0 +1,26 @@
+[album]
+album_id = "566cf3c4-a6b7-4ad1-bbd9-38e86b865de9"
+title = "THE IDOLM@STER CINDERELLA MASTER 056 藤原肇"
+artist = "藤原肇（鈴木みのり）"
+date = 2020-04-22
+type = "normal"
+catalog = "COCC-17774"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17774"
+
+[[discs.tracks]]
+title = "あらかねの器"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －藤原肇編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "あらかねの器 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

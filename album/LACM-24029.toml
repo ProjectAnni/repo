@@ -5,6 +5,7 @@ artist = "上田麗奈"
 date = 2020-10-21
 type = "normal"
 catalog = "LACM-24029"
+tags = ["魔女の旅々"]
 
 [[discs]]
 catalog = "LACM-24029"

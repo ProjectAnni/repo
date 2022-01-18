@@ -5,6 +5,7 @@ artist = "ORESAMA"
 date = 2020-10-14
 type = "normal"
 catalog = "LAPS-4000"
+tags = ["魔王城でおやすみ"]
 
 [[discs]]
 catalog = "LAPS-4000"

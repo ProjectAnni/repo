@@ -1,0 +1,26 @@
+[album]
+album_id = "187713c7-fd33-4621-a6af-af9ca5471f1c"
+title = "言わないけどね。"
+edition = "アーティスト盤"
+artist = "大原ゆい子"
+date = 2018-02-14
+type = "normal"
+catalog = "THCS-60205"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60205"
+
+[[discs.tracks]]
+title = "言わないけどね。"
+
+[[discs.tracks]]
+title = "木星バット"
+
+[[discs.tracks]]
+title = "言わないけどね。 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "木星バット (Instrumental)"
+type = "instrumental"

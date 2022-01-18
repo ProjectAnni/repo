@@ -1,0 +1,49 @@
+[album]
+album_id = "c0bc9c9c-85da-4497-9abd-d574e57cb496"
+title = "MUSICALOID #38"
+edition = "此方乃サヤ盤"
+artist = "神田沙也加"
+date = 2018-03-07
+type = "normal"
+catalog = "QWCE-00674"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "QWCE-00674"
+
+[[discs.tracks]]
+title = "林檎売りの泡沫少女"
+
+[[discs.tracks]]
+title = "SECRET DVD"
+
+[[discs.tracks]]
+title = "てのひらワンダーランド"
+
+[[discs.tracks]]
+title = "路地裏ユニバース"
+
+[[discs.tracks]]
+title = "指切り"
+
+[[discs.tracks]]
+title = "シンクロサイクロトロン・スピリチュアライザー。"
+
+[[discs.tracks]]
+title = "シャルル"
+
+[[discs.tracks]]
+title = "kiss"
+
+[[discs.tracks]]
+title = "アイシテ"
+
+[[discs.tracks]]
+title = "潜水"
+
+[[discs.tracks]]
+title = "LUVORATORRRRRY!"
+
+[[discs.tracks]]
+title = "Crazy ∞ nighT"
+artist = "神田沙也、加速水奨、江口拓也、新田恵海"

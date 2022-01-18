@@ -1,0 +1,26 @@
+[album]
+album_id = "49d9dd56-5dee-4e8e-b3e2-dead8c8eee80"
+title = "THE IDOLM@STER CINDERELLA MASTER 035 市原仁奈"
+artist = "市原仁奈（久野美咲）"
+date = 2015-02-04
+type = "normal"
+catalog = "COCC-17005"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17005"
+
+[[discs.tracks]]
+title = "みんなのきもち"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -市原仁奈編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "みんなのきもち (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

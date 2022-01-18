@@ -1,0 +1,14 @@
+[album]
+album_id = "28d6e912-d19d-4305-837a-b000824fdeb3"
+title = "Clover's Cry ～神と神降ろしの少女～"
+artist = "横山奈緒（渡部優衣）、馬場このみ（髙橋ミナミ）、秋月律子（若林直美）、大神環（稲川英里）、木下ひなた（田村奈央）"
+date = 2022-01-11
+type = "normal"
+catalog = "LZC-2055"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LZC-2055"
+
+[[discs.tracks]]
+title = "Clover's Cry ～神と神降ろしの少女～"

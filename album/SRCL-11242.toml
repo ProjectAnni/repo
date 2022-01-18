@@ -1,10 +1,12 @@
 [album]
 album_id = "7a3c53e9-0b75-4937-9c6e-5b0d86ada262"
-title = "何もしてあげられない【初回仕様限定盤 Type-B】"
+title = "何もしてあげられない"
+edition = "初回仕様限定盤 Type-B"
 artist = "22/7"
 date = 2019-08-21
 type = "normal"
 catalog = "SRCL-11242"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-11242"

@@ -1,0 +1,32 @@
+[album]
+album_id = "60902814-f11f-4da7-874a-58bf1496e29a"
+title = "うたかた花火／星が瞬くこんな夜に"
+artist = "supercell"
+date = 2010-08-25
+type = "normal"
+catalog = "SRCL-7333"
+tags = ["supercell", "nagi"]
+
+[[discs]]
+catalog = "SRCL-7333"
+
+[[discs.tracks]]
+title = "うたかた花火"
+
+[[discs.tracks]]
+title = "星が瞬くこんな夜に"
+
+[[discs.tracks]]
+title = "Worldwide Love"
+
+[[discs.tracks]]
+title = "うたかた花火 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "星が瞬くこんな夜に -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Worldwide Love -Instrumental-"
+type = "instrumental"

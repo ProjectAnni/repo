@@ -1,0 +1,45 @@
+[album]
+album_id = "52f6a420-5525-4034-a701-2418391f439c"
+title = "THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 002"
+artist = "十時愛梨（原田ひとみ）、日野茜（赤﨑千夏）、高森藍子（金子有希）、星輝子（松田颯水）、堀裕子（鈴木絵理）"
+date = 2014-12-24
+type = "normal"
+catalog = "COCX-38968"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-38968"
+
+[[discs.tracks]]
+title = "絶対特権主張しますっ！"
+
+[[discs.tracks]]
+title = "ナンダカンダ"
+artist = "日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "じょいふる"
+artist = "堀堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "愛は元気です。"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "紅"
+artist = "星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "PURE SNOW"
+artist = "十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "ゴキゲンParty Night"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・パッション編"
+type = "drama"
+
+[[discs.tracks]]
+title = "絶対特権主張しますっ！(オリジナル・カラオケ)"
+type = "instrumental"

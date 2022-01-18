@@ -1,0 +1,57 @@
+[album]
+album_id = "185264e8-8a64-4d18-ae4a-1197d1817539"
+title = "盗作"
+artist = "ヨルシカ"
+date = 2020-07-29
+type = "normal"
+catalog = "UPCH-2209"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "UPCH-2209"
+
+[[discs.tracks]]
+title = "音楽泥棒の自白"
+type = "absolute"
+
+[[discs.tracks]]
+title = "昼鳶"
+
+[[discs.tracks]]
+title = "春ひさぎ"
+
+[[discs.tracks]]
+title = "爆弾魔"
+
+[[discs.tracks]]
+title = "青年期、空き巣"
+type = "absolute"
+
+[[discs.tracks]]
+title = "レプリカント"
+
+[[discs.tracks]]
+title = "花人局"
+
+[[discs.tracks]]
+title = "朱夏期、音楽泥棒"
+type = "absolute"
+
+[[discs.tracks]]
+title = "盗作"
+
+[[discs.tracks]]
+title = "思想犯"
+
+[[discs.tracks]]
+title = "逃亡"
+
+[[discs.tracks]]
+title = "幼年期、思い出の中"
+type = "absolute"
+
+[[discs.tracks]]
+title = "夜行"
+
+[[discs.tracks]]
+title = "花に亡霊"

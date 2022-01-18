@@ -1,0 +1,57 @@
+[album]
+album_id = "7462e60c-71e1-4734-850d-7eaa43bd428b"
+title = "エルマ"
+artist = "ヨルシカ"
+date = 2019-08-28
+type = "normal"
+catalog = "UPCH-7511"
+tags = ["ヨルシカ"]
+
+[[discs]]
+catalog = "UPCH-7511"
+
+[[discs.tracks]]
+title = "車窓"
+type = "absolute"
+
+[[discs.tracks]]
+title = "憂一乗"
+
+[[discs.tracks]]
+title = "夕凪、某、花惑い"
+
+[[discs.tracks]]
+title = "雨とカプチーノ"
+
+[[discs.tracks]]
+title = "湖の街"
+type = "absolute"
+
+[[discs.tracks]]
+title = "神様のダンス"
+
+[[discs.tracks]]
+title = "雨晴るる"
+
+[[discs.tracks]]
+title = "歩く"
+
+[[discs.tracks]]
+title = "心に穴が空いた"
+
+[[discs.tracks]]
+title = "森の教会"
+type = "absolute"
+
+[[discs.tracks]]
+title = "声"
+
+[[discs.tracks]]
+title = "エイミー"
+
+[[discs.tracks]]
+title = "海底、月明かり"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ノーチラス"

@@ -1,0 +1,39 @@
+[album]
+album_id = "f1c2047b-66a1-4326-9dc0-cc7439e46043"
+title = "拍手喝采歌合"
+artist = "supercell"
+date = 2013-06-12
+type = "normal"
+catalog = "SRCL-8284"
+tags = ["supercell", "こゑだ"]
+
+[[discs]]
+catalog = "SRCL-8284"
+
+[[discs.tracks]]
+title = "拍手喝采歌合"
+
+[[discs.tracks]]
+title = "M.K.O"
+
+[[discs.tracks]]
+title = "夕焼けブルース"
+
+[[discs.tracks]]
+title = "拍手喝采歌合 (TV Edit)"
+
+[[discs.tracks]]
+title = "拍手喝采歌合 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "M.K.O -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夕焼けブルース -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "拍手喝采歌合 (TV Edit) -Instrumental-"
+type = "instrumental"

@@ -5,6 +5,7 @@ artist = "Various Artists"
 date = 2020-11-28
 type = "normal"
 catalog = "KSLA-0174~5"
+tags = ["Kud Wafter"]
 
 [[discs]]
 catalog = "KSLA-0174"

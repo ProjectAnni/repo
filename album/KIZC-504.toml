@@ -1,0 +1,50 @@
+[album]
+album_id = "350ef7ce-48f5-4663-8701-eec83fb56823"
+title = "ホップ・ステップ・アップル"
+artist = "小倉唯"
+date = 2019-02-20
+type = "normal"
+catalog = "KIZC-504"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KIZC-504"
+
+[[discs.tracks]]
+title = "アップル・ガール"
+
+[[discs.tracks]]
+title = "Hop Step Jump!"
+
+[[discs.tracks]]
+title = "永遠少年"
+
+[[discs.tracks]]
+title = "君が好きです"
+
+[[discs.tracks]]
+title = "白く咲く花"
+
+[[discs.tracks]]
+title = "雨の森はウソつき"
+
+[[discs.tracks]]
+title = "Hopeful Days"
+
+[[discs.tracks]]
+title = "Love Me × Love Me"
+
+[[discs.tracks]]
+title = "Brand-New-Road"
+
+[[discs.tracks]]
+title = "FARAWAY"
+
+[[discs.tracks]]
+title = "ショコラ"
+
+[[discs.tracks]]
+title = "ピーナッツ！"
+
+[[discs.tracks]]
+title = "Reflect"

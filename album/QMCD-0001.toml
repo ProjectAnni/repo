@@ -1,0 +1,47 @@
+[album]
+album_id = "28b9c9af-2977-41e6-9afa-6cb4541a0bca"
+title = "平行四界Quadimension"
+artist = "洛天依"
+date = 2014-03-21
+type = "normal"
+catalog = "QMCD-0001"
+tags = ["平行四界Quadimension"]
+
+[[discs]]
+catalog = "QMCD-0001"
+
+[[discs.tracks]]
+title = "Intro - Lalala"
+artist = "ZOMiG、洛天依"
+
+[[discs.tracks]]
+title = "莫名的呕吐感"
+artist = "麦当叔劳劳、洛天依"
+
+[[discs.tracks]]
+title = "守护之翼"
+artist = "Ddickky、洛天依"
+
+[[discs.tracks]]
+title = "韶音赋 (Album Ver.)"
+artist = "战场原妖精、洛天依"
+
+[[discs.tracks]]
+title = "Signal Scream (Album Ver.)"
+artist = "ZOMiG、战场原妖精、洛天依"
+
+[[discs.tracks]]
+title = "造梦器"
+artist = "战场原妖精、洛天依"
+
+[[discs.tracks]]
+title = "对眼儿"
+artist = "麦当叔劳劳、洛天依"
+
+[[discs.tracks]]
+title = "染殇"
+artist = "Ddickky、洛天依"
+
+[[discs.tracks]]
+title = "Lalala. Refrain"
+artist = "ZOMiG、洛天依"

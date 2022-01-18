@@ -1,0 +1,47 @@
+[album]
+album_id = "dd7b98e2-5da2-48d5-bf16-b400df4f2532"
+title = "天方夜谭Fairyland"
+artist = "星尘、海伊、苍穹"
+date = 2019-05-05
+type = "normal"
+catalog = "M5CD-0002"
+tags = ["星尘", "海伊", "苍穹"]
+
+[[discs]]
+catalog = "M5CD-0002"
+
+[[discs.tracks]]
+title = "无色"
+artist = "Evalia、星尘、海伊、苍穹"
+
+[[discs.tracks]]
+title = "D!slodge"
+artist = "Zeno、苍穹、海伊"
+
+[[discs.tracks]]
+title = "Final⇆Endless"
+artist = "Zoey、苍穹、星尘"
+
+[[discs.tracks]]
+title = "胡旋姬"
+artist = "小野道、海伊"
+
+[[discs.tracks]]
+title = "诗人之血"
+artist = "磁带君、星尘、海伊"
+
+[[discs.tracks]]
+title = "六条御息所"
+artist = "erazedfx、苍穹、海伊"
+
+[[discs.tracks]]
+title = "飞花流去"
+artist = "黄雷基、Ibg、海伊、星尘"
+
+[[discs.tracks]]
+title = "绮物缘"
+artist = "MeLo、星尘、苍穹"
+
+[[discs.tracks]]
+title = "渡桥挽歌 ~soul leaving~"
+artist = "Kide、星尘"

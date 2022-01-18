@@ -1,0 +1,26 @@
+[album]
+album_id = "e9eb3c9d-d33d-43d3-8c6d-cd48a24932d4"
+title = "Honey♥Come!!"
+edition = "期間限定盤"
+artist = "小倉唯"
+date = 2015-08-12
+type = "normal"
+catalog = "KICM-91607"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91607"
+
+[[discs.tracks]]
+title = "Honey♥Come!!"
+
+[[discs.tracks]]
+title = "ガーリッシュエイジ"
+
+[[discs.tracks]]
+title = "Honey♥Come!! (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ガーリッシュエイジ (off vocal ver.)"
+type = "instrumental"

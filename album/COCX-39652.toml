@@ -1,0 +1,45 @@
+[album]
+album_id = "aae334c9-f898-47b0-b155-095346ccd575"
+title = "THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 003"
+artist = "姫川友紀（杜野まこ）、市原仁奈（久野美咲）、片桐早苗（和氣あず未）、大槻唯（山下七海）、相葉夕美（木村珠莉）"
+date = 2016-06-15
+type = "normal"
+catalog = "COCX-39652"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-39652"
+
+[[discs.tracks]]
+title = "きみにいっぱい☆"
+
+[[discs.tracks]]
+title = "Perseus-ペルセウス-"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "気分爽快"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "スターラブレイション"
+artist = "大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "ここにしか咲かない花"
+artist = "相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "にんげんっていいな"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "Near to You"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・パッション編"
+type = "drama"
+
+[[discs.tracks]]
+title = "きみにいっぱい☆ (オリジナル・カラオケ)"
+type = "instrumental"

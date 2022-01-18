@@ -1,0 +1,47 @@
+[album]
+album_id = "3f45529e-d8ec-4586-997e-e4b24d276837"
+title = "森罗万象Kaleido"
+artist = "星尘、海伊、赤羽"
+date = 2019-10-06
+type = "normal"
+catalog = "M5CD-0004"
+tags = ["星尘", "海伊", "赤羽", "平行四界 五维介质"]
+
+[[discs]]
+catalog = "M5CD-0004"
+
+[[discs.tracks]]
+title = "噩梦铺"
+artist = "Evalia、星尘、海伊、赤羽"
+
+[[discs.tracks]]
+title = "Requiem of Excalibur"
+artist = "Hoskey、海伊、赤羽"
+
+[[discs.tracks]]
+title = "四季"
+artist = "St.K4N3、海伊"
+
+[[discs.tracks]]
+title = "恒星坠落之时"
+artist = "Kide、星尘、赤羽"
+
+[[discs.tracks]]
+title = "静止时间"
+artist = "胧、赤羽"
+
+[[discs.tracks]]
+title = "带我逃跑"
+artist = "erazedfx、海伊"
+
+[[discs.tracks]]
+title = "Talking to the Rain"
+artist = "芹菜猪肉大馄饨、星尘、海伊"
+
+[[discs.tracks]]
+title = "尘埃"
+artist = "ANK、星尘"
+
+[[discs.tracks]]
+title = "斑驳"
+artist = "Zeno、星尘、海伊、赤羽"

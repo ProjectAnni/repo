@@ -1,0 +1,26 @@
+[album]
+album_id = "8703fc4b-08a7-4b69-a0b1-7344a13a0f30"
+title = "THE IDOLM@STER CINDERELLA MASTER 039 塩見周子"
+artist = "塩見周子（ルゥティン）"
+date = 2015-11-18
+type = "normal"
+catalog = "COCC-17094"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17094"
+
+[[discs.tracks]]
+title = "青の一番星"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！ -塩見周子編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "青の一番星 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

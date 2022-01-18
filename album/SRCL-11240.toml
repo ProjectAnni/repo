@@ -1,10 +1,12 @@
 [album]
 album_id = "125e899f-dea4-442b-8228-4652b702ee40"
-title = "何もしてあげられない【初回仕様限定盤 Type-A】"
+title = "何もしてあげられない"
+edition = "初回仕様限定盤 Type-A"
 artist = "22/7"
 date = 2019-08-21
 type = "normal"
 catalog = "SRCL-11240"
+tags = ["ナナブンノニジュウニ"]
 
 [[discs]]
 catalog = "SRCL-11240"

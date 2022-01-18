@@ -1,0 +1,35 @@
+[album]
+album_id = "b1d5d345-ed8b-4dfd-9b96-1c15333e0184"
+title = "セカイ／ワーワーワールド／群青讃歌"
+artist = "プロジェクトセカイ カラフルステージ！"
+date = 2021-12-08
+type = "normal"
+catalog = "BRMM-10482"
+tags = ["プロジェクトセカイ カラフルステージ！feat.初音ミク"]
+
+[[discs]]
+catalog = "BRMM-10482"
+
+[[discs.tracks]]
+title = "セカイ"
+artist = "初音ミク、星乃一歌（野口瑠璃子）、天馬司（廣瀬大介）、宵崎奏（楠木ともり）"
+
+[[discs.tracks]]
+title = "ワーワーワールド"
+artist = "初音ミク、花里みのり（小倉唯）、小豆沢こはね（秋奈）"
+
+[[discs.tracks]]
+title = "群青讃歌"
+artist = "初音ミク、星乃一歌（野口瑠璃子）、花里みのり（小倉唯）、小豆沢こはね（秋奈）、天馬司（廣瀬大介）、宵崎奏（楠木ともり）"
+
+[[discs.tracks]]
+title = "セカイ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ワーワーワールド (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "群青讃歌 (instrumental)"
+type = "instrumental"

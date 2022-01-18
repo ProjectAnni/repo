@@ -1,7 +1,6 @@
 [[tag]]
-name = "THE IDOLM@STER Million Live"
-alias = ["Million Live"]
-included-by = ["THE IDOLM@STER"]
+name = "THE IDOLM@STER MILLION LIVE"
+included-by = ["アイドルマスターシリーズ"]
 includes = [
   # 2014-2015
   "THE IDOLM@STER LIVE THE@TER HARMONY",
@@ -40,7 +39,7 @@ includes = [
 # 2013-2014
 [[tag]]
 name = "THE IDOLM@STER LIVE THE@TER PERFORMANCE"
-included-by = ["THE IDOLM@STER Million Live"]
+included-by = ["THE IDOLM@STER MILLION LIVE"]
 includes = [
   # 2021-2021
   "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix",

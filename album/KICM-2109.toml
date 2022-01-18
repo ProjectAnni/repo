@@ -1,0 +1,20 @@
+[album]
+album_id = "2b37dd4f-acd0-40f9-aa2b-9ff065a87629"
+title = "Get up! Shout!"
+artist = "水樹奈々"
+date = 2021-10-27
+type = "normal"
+catalog = "KICM-2109"
+tags = ["水樹奈々"]
+
+[[discs]]
+catalog = "KICM-2109"
+
+[[discs.tracks]]
+title = "Get up! Shout!"
+
+[[discs.tracks]]
+title = "Phase 21"
+
+[[discs.tracks]]
+title = "花、星、空 -reunion-"

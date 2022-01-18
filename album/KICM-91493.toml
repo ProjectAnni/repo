@@ -1,0 +1,25 @@
+[album]
+album_id = "dafd6773-5d42-4e3a-b3fa-26fe9d9d4d3b"
+title = "Charming Do!"
+artist = "小倉唯"
+date = 2014-01-29
+type = "normal"
+catalog = "KICM-91493"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91493"
+
+[[discs.tracks]]
+title = "Charming Do!"
+
+[[discs.tracks]]
+title = "パンドラ♡ショコラ"
+
+[[discs.tracks]]
+title = "Charming Do! (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パンドラ♡ショコラ (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,33 @@
+[album]
+album_id = "1008ee09-c95e-4131-91e9-806bbba580f0"
+title = "歩いていこう！"
+edition = "アニメ盤"
+artist = "東山奈央"
+date = 2020-02-05
+type = "normal"
+catalog = "VTCL-35313"
+tags = ["恋する小惑星", "東山奈央"]
+
+[[discs]]
+catalog = "VTCL-35313"
+
+[[discs.tracks]]
+title = "歩いていこう！"
+
+[[discs.tracks]]
+title = "Last season"
+
+[[discs.tracks]]
+title = "FLOWER"
+
+[[discs.tracks]]
+title = "歩いていこう！ Instrumental ver."
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Last Season Instrumental ver."
+type = "instrumental"
+
+[[discs.tracks]]
+title = "FLOWER Instrumental ver."
+type = "instrumental"

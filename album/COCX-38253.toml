@@ -1,0 +1,49 @@
+[album]
+album_id = "18949f85-59f1-4dc7-b57e-3a7851dab8cd"
+title = "THE IDOLM@STER CINDERELLA MASTER Cute jewelries! 001"
+artist = "双葉杏（五十嵐裕美）、前川みく（高森奈津美）、島村卯月（大橋彩香）、小日向美穂（津田美波）、安部菜々（三宅麻理恵）"
+date = 2013-10-09
+type = "normal"
+catalog = "COCX-38253"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-38253"
+
+[[discs.tracks]]
+title = "アタシポンコツアンドロイド"
+
+[[discs.tracks]]
+title = "気まぐれロマンティック"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "しっぽのきもち"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "碧いうさぎ"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "ルル"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "遠く遠く"
+artist = "小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "ススメ☆オトメ 〜jewel parade〜"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・キュートな収録後"
+type = "drama"
+
+[[discs.tracks]]
+title = "アタシポンコツアンドロイド (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ススメ☆オトメ 〜jewel parade〜 (オリジナル・カラオケ)"
+type = "instrumental"

@@ -1,0 +1,56 @@
+[album]
+album_id = "58129919-cc03-4e89-b37b-a60668e0099a"
+title = "平行四界Quadimension X-1"
+artist = "星尘、海伊、苍穹、赤羽、诗岸、牧心、Minus"
+date = 2021-06-04
+type = "normal"
+catalog = "QMCD-0007"
+tags = [
+  "平行四界 五维介质",
+  "星尘",
+  "海伊",
+  "苍穹",
+  "赤羽",
+  "诗岸",
+  "牧心",
+  "Minus",
+]
+
+[[discs]]
+catalog = "QMCD-0007"
+
+[[discs.tracks]]
+title = "光晕"
+artist = "胧、瑞安Ryan、牧心"
+
+[[discs.tracks]]
+title = "SAD星人"
+artist = "PoKeR、诗岸"
+
+[[discs.tracks]]
+title = "第一反应"
+artist = "磁带君、瑞安Ryan、海伊"
+
+[[discs.tracks]]
+title = "热伤风"
+artist = "ANK、瑞安Ryan、星尘、海伊、诗岸"
+
+[[discs.tracks]]
+title = "童铃谣"
+artist = "papaw泡泡、瑞安Ryan、苍穹、赤羽"
+
+[[discs.tracks]]
+title = "黑花鸢尾之歌"
+artist = "Evalia、瑞安Ryan、海伊"
+
+[[discs.tracks]]
+title = "悠久"
+artist = "公兔、坐标P、赤羽"
+
+[[discs.tracks]]
+title = "魔女之愿"
+artist = "Zeno、Minus"
+
+[[discs.tracks]]
+title = "种魂川上忽地笑"
+artist = "MeLo、瑞安Ryan、星尘"

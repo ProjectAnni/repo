@@ -1,0 +1,33 @@
+[album]
+album_id = "ba273d36-c27b-4479-80ac-8d38c85fd994"
+title = "ゼロセンチメートル"
+edition = "アーティスト盤"
+artist = "大原ゆい子"
+date = 2019-07-17
+type = "normal"
+catalog = "THCS-60245"
+tags = ["大原ゆい子"]
+
+[[discs]]
+catalog = "THCS-60245"
+
+[[discs.tracks]]
+title = "ゼロセンチメートル"
+
+[[discs.tracks]]
+title = "ラブビーム中"
+
+[[discs.tracks]]
+title = "チャンス"
+
+[[discs.tracks]]
+title = "ゼロセンチメートル (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブビーム中 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チャンス (Instrumental)"
+type = "instrumental"

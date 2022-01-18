@@ -1,0 +1,74 @@
+[album]
+album_id = "468b6712-38f9-43fa-8af4-06e659ed2c69"
+title = "東方永夜抄 ～ Imperishable Night. サウンドトラック"
+artist = "上海アリス幻樂団"
+date = 2004-08-14
+type = "absolute"
+catalog = "@TH-08"
+tags = ["東方Project"]
+
+[[discs]]
+catalog = "@TH-08"
+
+[[discs.tracks]]
+title = "永夜抄　～ Eastern Night."
+
+[[discs.tracks]]
+title = "幻視の夜　～ Ghostly Eyes"
+
+[[discs.tracks]]
+title = "蠢々秋月　～ Mooned Insect"
+
+[[discs.tracks]]
+title = "夜雀の歌声　～ Night Bird"
+
+[[discs.tracks]]
+title = "もう歌しか聞こえない"
+
+[[discs.tracks]]
+title = "懐かしき東方の血　～ Old World"
+
+[[discs.tracks]]
+title = "プレインエイジア"
+
+[[discs.tracks]]
+title = "永夜の報い　～ Imperishable Night."
+
+[[discs.tracks]]
+title = "少女綺想曲　～ Dream Battle"
+
+[[discs.tracks]]
+title = "恋色マスタースパーク"
+
+[[discs.tracks]]
+title = "シンデレラケージ　～ Kagome-Kagome"
+
+[[discs.tracks]]
+title = "狂気の瞳　～ Invisible Full Moon"
+
+[[discs.tracks]]
+title = "ヴォヤージュ1969"
+
+[[discs.tracks]]
+title = "千年幻想郷　～ History of the Moon"
+
+[[discs.tracks]]
+title = "竹取飛翔　～ Lunatic Princess"
+
+[[discs.tracks]]
+title = "ヴォヤージュ1970"
+
+[[discs.tracks]]
+title = "エクステンドアッシュ　～ 蓬莱人"
+
+[[discs.tracks]]
+title = "月まで届け、不死の煙"
+
+[[discs.tracks]]
+title = "月見草"
+
+[[discs.tracks]]
+title = "Eternal Dream　～ 幽玄の槭樹"
+
+[[discs.tracks]]
+title = "東方妖怪小町"

@@ -5,6 +5,7 @@ artist = "Petit Rabbit's with beans"
 date = 2016-06-03
 type = "normal"
 catalog = "GNXA-1776"
+tags = ["ご注文はうさぎですか？？"]
 
 [[discs]]
 catalog = "GNXA-1776"

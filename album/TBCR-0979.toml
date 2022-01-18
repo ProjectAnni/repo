@@ -1,0 +1,14 @@
+[album]
+album_id = "8a23495d-de2f-43fc-992b-21429a986646"
+title = 'DJCD「TVアニメ『からかい上手の高木さん』Presents からかい上手の高"橋"さんラジオ」'
+artist = "高橋李依"
+date = 2018-02-28
+type = "radio"
+catalog = "TBCR-0979"
+tags = ["からかい上手の高木さん"]
+
+[[discs]]
+catalog = "TBCR-0979"
+
+[[discs.tracks]]
+title = 'DJCD「TVアニメ『からかい上手の高木さん』Presents からかい上手の高"橋"さんラジオ」'

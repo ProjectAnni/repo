@@ -1,12 +1,277 @@
+#
+# Artist
+#
 [[tag]]
-name = ":"
-includes = [
-  # Artists
-  "遠藤ゆりか",
-  "東山奈央",
-  "ReoNa",
-  "岡咲美保",
-  # Anime
-  "100万の命の上に俺は立っている",
-  "白い砂のアクアトープ"
-]
+name = "遠藤ゆりか"
+
+[[tag]]
+name = "東山奈央"
+
+[[tag]]
+name = "ReoNa"
+
+[[tag]]
+name = "岡咲美保"
+
+[[tag]]
+name = "LiSA"
+
+[[tag]]
+name = "Aimer"
+
+[[tag]]
+name = "YOASOBI"
+
+[[tag]]
+name = "Liyuu"
+
+[[tag]]
+name = "茅野愛衣"
+
+[[tag]]
+name = "山崎はるか"
+
+[[tag]]
+name = "夏川椎菜"
+
+[[tag]]
+name = "富田美憂"
+
+[[tag]]
+name = "水瀬いのり"
+
+[[tag]]
+name = "中島由貴"
+
+[[tag]]
+name = "田所あずさ"
+
+[[tag]]
+name = "石原夏織"
+
+[[tag]]
+name = "上田麗奈"
+
+[[tag]]
+name = "樋口楓"
+
+[[tag]]
+name = "伊藤美来"
+
+[[tag]]
+name = "雨宮天"
+
+[[tag]]
+name = "内田彩"
+
+[[tag]]
+name = "高橋李依"
+
+[[tag]]
+name = "麻倉もも"
+
+[[tag]]
+name = "水樹奈々"
+
+[[tag]]
+name = "春奈るな"
+
+[[tag]]
+name = "沢井美空"
+
+[[tag]]
+name = "いとうかなこ"
+
+[[tag]]
+name = "高槻かなこ"
+
+[[tag]]
+name = "相沢梨紗"
+
+[[tag]]
+name = "洛天依"
+
+[[tag]]
+name = "乐正绫"
+
+[[tag]]
+name = "鈴木このみ"
+
+#
+# Group
+#
+[[tag]]
+name = "Morfonica"
+
+[[tag]]
+name = "Roselia"
+
+[[tag]]
+name = "少女☆歌劇 レヴュースタァライト"
+includes = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+[[tag]]
+name = "Lapis Re:LiGHTs"
+
+[[tag]]
+name = "ナナブンノニジュウニ"
+
+[[tag]]
+name = "Pyxis"
+
+[[tag]]
+name = "HoneyWorks"
+
+[[tag]]
+name = "ゆいかおり"
+
+[[tag]]
+name = "TrySail"
+
+[[tag]]
+name = "DIALOGUE+"
+
+[[tag]]
+name = "Poppin'Party"
+
+[[tag]]
+name = "でんぱ組.inc"
+
+[[tag]]
+name = "ClariS"
+
+[[tag]]
+name = "妄想キャリブレーション"
+
+[[tag]]
+name = "Kalafina"
+
+[[tag]]
+name = "ARCANA PROJECT"
+
+[[tag]]
+name = "Mia REGINA"
+
+[[tag]]
+name = "スフィア"
+
+[[tag]]
+name = "純情のアフィリア"
+includes = ["アフィリア・サーガ・イースト", "アフィリア・サーガ"]
+
+#
+# Anime
+#
+[[tag]]
+name = "100万の命の上に俺は立っている"
+
+[[tag]]
+name = "白い砂のアクアトープ"
+
+[[tag]]
+name = "宇宙よりも遠い場所"
+
+[[tag]]
+name = "High School Fleet"
+
+[[tag]]
+name = "ひげを剃る。そして女子高生を拾う。"
+
+[[tag]]
+name = "魔王城でおやすみ"
+
+[[tag]]
+name = "安達としまむら"
+
+[[tag]]
+name = "花咲くいろは"
+
+[[tag]]
+name = "恋する小惑星"
+
+[[tag]]
+name = "幼なじみが絶対に負けないラブコメ"
+
+[[tag]]
+name = "魔女の旅々"
+
+[[tag]]
+name = "回復術士のやり直し"
+
+[[tag]]
+name = "誰ガ為のアルケミスト"
+
+[[tag]]
+name = "少女終末旅行"
+
+[[tag]]
+name = "アサルトリリィ BOUQUET"
+
+#
+# Game
+#
+[[tag]]
+name = "ATRI -My Dear Moments-"
+
+[[tag]]
+name = "さくら、もゆ。-as the Night's, Reincarnation-"
+
+[[tag]]
+name = "ひまわり -Pebble in the Sky-"
+
+[[tag]]
+name = "ef - a fairy tale of the two."
+
+[[tag]]
+name = "明日方舟"
+
+[[tag]]
+name = "サクラノ詩-櫻の森の上を舞う-"
+
+[[tag]]
+name = "蒼の彼方のフォーリズム"
+
+[[tag]]
+name = "素晴らしき日々"
+
+[[tag]]
+name = "神田沙也加"
+includes = ["SAYAKA"]
+
+[[tag]]
+name = "東方Project"
+
+[[tag]]
+name = "Outer Wilds"
+
+[[tag]]
+name = "鈴木みのり"
+
+[[tag]]
+name = "supercell"
+
+[[tag]]
+name = "やなぎなぎ"
+includes = ["nagi"]
+
+[[tag]]
+name = "こゑだ"
+
+[[tag]]
+name = "chelly"
+includes = ["EGOIST"]
+
+[[tag]]
+name = "初音ミク"
+
+[[tag]]
+name = "小倉唯"
+
+[[tag]]
+name = "ぼくたちのリメイク"
+
+[[tag]]
+name = "大原ゆい子"
+
+[[tag]]
+name = "ヨルシカ"

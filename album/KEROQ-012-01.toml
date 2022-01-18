@@ -5,6 +5,7 @@ artist = "はな"
 date = 2010-05-03
 type = "normal"
 catalog = "KEROQ-012-01"
+tags = ["素晴らしき日々"]
 
 [[discs]]
 catalog = "KEROQ-012-01"

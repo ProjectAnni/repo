@@ -5,6 +5,7 @@ artist = "山崎はるか"
 date = 2019-08-28
 type = "normal"
 catalog = "GNCA-1557"
+tags = ["山崎はるか"]
 
 [[discs]]
 catalog = "GNCA-1557"

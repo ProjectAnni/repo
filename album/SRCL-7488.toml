@@ -1,0 +1,50 @@
+[album]
+album_id = "51fd7f17-4319-42ae-8a7e-7b05cfcb1eb4"
+title = "Today Is A Beautiful Day"
+artist = "supercell"
+date = 2011-03-16
+type = "normal"
+catalog = "SRCL-7488"
+tags = ["supercell", "nagi"]
+
+[[discs]]
+catalog = "SRCL-7488"
+
+[[discs.tracks]]
+title = "終わりへ向かう始まりの歌"
+
+[[discs.tracks]]
+title = "君の知らない物語"
+
+[[discs.tracks]]
+title = "ヒーロー"
+
+[[discs.tracks]]
+title = "Perfect Day"
+
+[[discs.tracks]]
+title = "復讐"
+
+[[discs.tracks]]
+title = "ロックンロールなんですの"
+
+[[discs.tracks]]
+title = "LOVE & ROLL"
+
+[[discs.tracks]]
+title = "Feel so good"
+
+[[discs.tracks]]
+title = "星が瞬くこんな夜に"
+
+[[discs.tracks]]
+title = "うたかた花火"
+
+[[discs.tracks]]
+title = "夜が明けるよ"
+
+[[discs.tracks]]
+title = "さよならメモリーズ"
+
+[[discs.tracks]]
+title = "私へ"

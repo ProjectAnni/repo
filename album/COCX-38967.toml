@@ -1,0 +1,45 @@
+[album]
+album_id = "48c905c3-722a-4ee1-889f-3bfa35b75eea"
+title = "THE IDOLM@STER CINDERELLA MASTER Cool jewelries! 002"
+artist = "川島瑞樹（東山奈央）、白坂小梅（桜咲千依）、アナスタシア（上坂すみれ）、神谷奈緒（松井恵理子）、北条加蓮（渕上舞）"
+date = 2014-12-17
+type = "normal"
+catalog = "COCX-38967"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-38967"
+
+[[discs.tracks]]
+title = "オルゴールの小箱"
+
+[[discs.tracks]]
+title = "大都会交響楽"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "メトロポリタン美術館"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "君の知らない物語"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "蛍火"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "見上げてごらん夜の星を"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "ゴキゲンParty Night"
+
+[[discs.tracks]]
+title = "ボーナスドラマ・クール編"
+type = "drama"
+
+[[discs.tracks]]
+title = "オルゴールの小箱 (オリジナル・カラオケ)"
+type = "instrumental"

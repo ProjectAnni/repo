@@ -5,6 +5,7 @@ artist = "Aimer"
 date = 2014-09-03
 type = "normal"
 catalog = "DFCL-2079"
+tags = ["Aimer"]
 
 [[discs]]
 catalog = "DFCL-2079"

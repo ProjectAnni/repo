@@ -5,6 +5,7 @@ artist = "松本文紀"
 date = 2020-10-28
 type = "absolute"
 catalog = "SVWC-70514"
+tags = ["ATRI -My Dear Moments-"]
 
 [[discs]]
 catalog = "SVWC-70514"
@@ -71,18 +72,28 @@ title = "親愛なるあの日々へ"
 
 [[discs.tracks]]
 title = "光放て!"
+type = "normal"
+artist = "柳麻美"
 
 [[discs.tracks]]
 title = "光放て! inst ver."
+type = "instrumental"
 
 [[discs.tracks]]
 title = "光放て! short ver."
+type = "normal"
+artist = "柳麻美"
 
 [[discs.tracks]]
 title = "Dear Moments"
+type = "normal"
+artist = "アトリ（赤尾ひかる）"
 
 [[discs.tracks]]
 title = "Dear Moments inst ver."
+type = "instrumental"
 
 [[discs.tracks]]
 title = "Dear Moments short ver."
+type = "normal"
+artist = "アトリ（赤尾ひかる）"

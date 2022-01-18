@@ -1,0 +1,29 @@
+[album]
+album_id = "75dc6d5f-5780-4f9e-998c-38d5cb4abc27"
+title = "Deep in Abyss"
+artist = "リコ（富田美憂）、レグ（伊瀬茉莉也）"
+date = 2017-08-23
+type = "normal"
+catalog = "ZMCZ-11305"
+tags = ["メイドインアビス"]
+
+[[discs]]
+catalog = "ZMCZ-11305"
+
+[[discs.tracks]]
+title = "Deep in Abyss"
+artist = "リコ（富田美憂）、レグ（伊瀬茉莉也）"
+
+[[discs.tracks]]
+title = "白笛の呼び声"
+artist = "リコ（富田美憂）"
+
+[[discs.tracks]]
+title = "Deep in Abyss (instrumental)"
+artist = "KanadeYUK（中川歌菜、安田悠基）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "白笛の呼び声 (instrumental)"
+artist = "KanadeYUK（中川歌菜、安田悠基）"
+type = "instrumental"

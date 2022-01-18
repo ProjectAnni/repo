@@ -1,0 +1,26 @@
+[album]
+album_id = "5add9fa5-6ec5-497a-860a-4ad61cc73601"
+title = "THE IDOLM@STER CINDERELLA MASTER 050 三船美優"
+artist = "三船美優（原田彩楓）"
+date = 2017-04-04
+type = "normal"
+catalog = "COCC-17438"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17438"
+
+[[discs.tracks]]
+title = "Last Kiss"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! -三船美優編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Last Kiss (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

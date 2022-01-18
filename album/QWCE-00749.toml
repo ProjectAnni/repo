@@ -1,0 +1,46 @@
+[album]
+album_id = "920a5a29-1b0e-4174-a85e-def333f5850a"
+title = "MUSICALOID #38 Act.2"
+edition = "此方乃サヤ盤"
+artist = "神田沙也加"
+date = 2019-08-07
+type = "normal"
+catalog = "QWCE-00749"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "QWCE-00749"
+
+[[discs.tracks]]
+title = "Good Morning, Polar Night"
+
+[[discs.tracks]]
+title = "リコレクションエンドロウル"
+
+[[discs.tracks]]
+title = "Alice in 冷凍庫"
+
+[[discs.tracks]]
+title = "Tómur"
+
+[[discs.tracks]]
+title = "ワールド・ランプシェード"
+
+[[discs.tracks]]
+title = "妄想感傷代償連盟"
+
+[[discs.tracks]]
+title = "ガランド"
+
+[[discs.tracks]]
+title = "銀河録"
+
+[[discs.tracks]]
+title = "Carry Me Off"
+
+[[discs.tracks]]
+title = "ロキ"
+artist = "神田沙也加、緒方恵美"
+
+[[discs.tracks]]
+title = "地球最後の告白を"

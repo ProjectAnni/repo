@@ -5,6 +5,7 @@ artist = "Various Artists"
 date = 2016-04-01
 type = "drama"
 catalog = "BNEI-00003"
+tags = ["THE IDOLM@STER MILLION LIVE"]
 
 [[discs]]
 catalog = "BNEI-00003-01"

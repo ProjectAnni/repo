@@ -1,0 +1,18 @@
+[album]
+album_id = "81c1929f-5897-41f7-a0d4-9428099eafb6"
+title = "神様は死んだ、って"
+artist = "斑鳩ルカ（川口莉奈）"
+date = 2021-12-20
+type = "normal"
+catalog = "LZC-2059"
+tags = ["THE IDOLM@STER Shiny Colors"]
+
+[[discs]]
+catalog = "LZC-2059"
+
+[[discs.tracks]]
+title = "神様は死んだ、って"
+
+[[discs.tracks]]
+title = "神様は死んだ、って (Off Vocal)"
+type = "instrumental"

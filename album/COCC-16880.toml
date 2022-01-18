@@ -1,0 +1,26 @@
+[album]
+album_id = "381d4a66-aeae-47e6-aa8a-6f08bcd5cf42"
+title = "THE IDOLM@STER CINDERELLA MASTER 029 小早川紗枝"
+artist = "小早川紗枝（立花理香）"
+date = 2014-04-30
+type = "normal"
+catalog = "COCC-16880"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-16880"
+
+[[discs.tracks]]
+title = "花簪 HANAKANZASHI"
+
+[[discs.tracks]]
+title = "ドラマ「目指せ！シンデレラNO.1！-小早川紗枝編-」"
+type = "drama"
+
+[[discs.tracks]]
+title = "花簪 HANAKANZASHI (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,25 @@
+[album]
+album_id = "738a0225-edb5-4255-8604-f1bb7f677ff6"
+title = "Raise"
+artist = "小倉唯"
+date = 2012-07-18
+type = "normal"
+catalog = "KICM-91397"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KICM-91397"
+
+[[discs.tracks]]
+title = "Raise"
+
+[[discs.tracks]]
+title = "PON de Fighting!"
+
+[[discs.tracks]]
+title = "Raise (off vocal ver.)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "PON de Fighting! (off vocal ver.)"
+type = "instrumental"

@@ -1,0 +1,26 @@
+[album]
+album_id = "e38e375c-dc5a-4ec9-ada2-e5c224f69d1f"
+title = "THE IDOLM@STER CINDERELLA MASTER 052 白菊ほたる"
+artist = "白菊ほたる（天野聡美）"
+date = 2019-05-15
+type = "normal"
+catalog = "COCC-17628"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-17628"
+
+[[discs.tracks]]
+title = "谷の底で咲く花は"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －白菊ほたる編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "谷の底で咲く花は (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,25 @@
+[album]
+album_id = "d1e47225-db3b-4b2d-a8a5-a692b9b2e1cb"
+title = "Great Distance"
+artist = "supercell"
+date = 2015-05-20
+type = "normal"
+catalog = "SRCL-8814"
+tags = ["supercell", "chelly"]
+
+[[discs]]
+catalog = "SRCL-8814"
+
+[[discs.tracks]]
+title = "Great Distance"
+
+[[discs.tracks]]
+title = "Last Song"
+
+[[discs.tracks]]
+title = "Great Distance -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Last Song -Instrumental-"
+type = "instrumental"

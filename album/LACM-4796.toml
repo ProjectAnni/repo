@@ -5,6 +5,7 @@ artist = "nano.RIPE"
 date = 2011-04-20
 type = "normal"
 catalog = "LACM-4796"
+tags = ["花咲くいろは"]
 
 [[discs]]
 catalog = "LACM-4796"

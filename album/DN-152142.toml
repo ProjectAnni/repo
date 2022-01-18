@@ -1,0 +1,18 @@
+[album]
+album_id = "2aa2133d-9ca4-4e0c-9faf-f7842c1952f8"
+title = "秋の空とこころ コスモス"
+artist = "七花少女（榎並マドカ（藤井アユ美）、前園リシュリ（ルゥティン）、夜舞サヲリ（稲川英里）、雲巻モナカ（桜木アミサ）、白鳥トモエ（宝木久美）、逢原ミウ（高野麻里佳）、シャオ・ヘイフォン（森千早都））"
+date = 2021-12-14
+type = "normal"
+catalog = "DN-152142"
+tags = ["七花少女"]
+
+[[discs]]
+catalog = "DN-152142"
+
+[[discs.tracks]]
+title = "秋の空とこころ コスモス"
+
+[[discs.tracks]]
+title = "秋の空とこころ コスモス -OFF VOCAL-"
+type = "instrumental"

@@ -1,0 +1,21 @@
+[album]
+album_id = "7335f9f5-ec20-4481-8acb-f1c1c304c366"
+title = "上弦の月"
+artist = "SAYAKA"
+date = 2005-01-19
+type = "normal"
+catalog = "SRCL-5847"
+tags = ["SAYAKA"]
+
+[[discs]]
+catalog = "SRCL-5847"
+
+[[discs.tracks]]
+title = "上弦の月"
+
+[[discs.tracks]]
+title = "ラヂオのじかん"
+
+[[discs.tracks]]
+title = "上弦の月 (Backing Track)"
+type = "instrumental"

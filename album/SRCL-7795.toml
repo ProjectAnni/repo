@@ -1,0 +1,39 @@
+[album]
+album_id = "8fb6a6e4-cda2-497d-8016-2402998a9205"
+title = "My Dearest"
+artist = "supercell"
+date = 2011-11-23
+type = "normal"
+catalog = "SRCL-7795"
+tags = ["supercell", "こゑだ"]
+
+[[discs]]
+catalog = "SRCL-7795"
+
+[[discs.tracks]]
+title = "My Dearest"
+
+[[discs.tracks]]
+title = "罪人"
+
+[[discs.tracks]]
+title = "大貧民"
+
+[[discs.tracks]]
+title = "My Dearest (TV Edit)"
+
+[[discs.tracks]]
+title = "My Dearest -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "罪人 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "大貧民 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "My Dearest (TV Edit) -Instrumental-"
+type = "instrumental"

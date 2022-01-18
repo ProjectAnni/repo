@@ -5,6 +5,7 @@ artist = "中野家の五つ子"
 date = 2019-03-06
 type = "normal"
 catalog = "PCCG-01759"
+tags = ["五等分の花嫁"]
 
 [[discs]]
 catalog = "PCCG-01759"

@@ -5,6 +5,7 @@ artist = "Various Artists"
 date = 2010-04-23
 type = "absolute"
 catalog = "SDCR-0030"
+tags = ["ひまわり -Pebble in the Sky-"]
 
 [[discs]]
 catalog = "SDCR-0030-01"
