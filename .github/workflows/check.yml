@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: docker-practice/actions-setup-docker@master
       - run: |
-          docker run ghcr.io/projectanni/anniv-check:latest -v $(pwd):/app/repo
+          docker run -v $(pwd):/app/repo --rm ghcr.io/projectanni/anniv-check:latest
