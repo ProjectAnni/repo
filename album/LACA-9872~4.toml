@@ -1,0 +1,187 @@
+[album]
+album_id = "5fd1cc93-eaa8-47e7-acf7-ece6197becdd"
+title = "THE IDOLM@STER SHINY COLORS OFF VOCAL COLLECTION 01"
+artist = "Various Artists"
+date = 2022-01-19
+type = "instrumental"
+catalog = "LACA-9872~4"
+tags = ["THE IDOLM@STER Shiny Colors"]
+
+[[discs]]
+catalog = "LACA-9872"
+
+[[discs.tracks]]
+title = "Spread the Wings!!（Off Vocal）"
+artist = "山口朗彦"
+
+[[discs.tracks]]
+title = "Multicolored Sky（Off Vocal）"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "ヒカリのdestination（Off Vocal）"
+artist = "中野領太 (onetrap)"
+
+[[discs.tracks]]
+title = "虹になれ（Off Vocal）"
+artist = "藤末樹"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス（Off Vocal）"
+artist = "南田健吾 (onetrap)"
+
+[[discs.tracks]]
+title = "幻惑SILHOUETTE（Off Vocal）"
+artist = "no_my"
+
+[[discs.tracks]]
+title = "夢咲きAfter school（Off Vocal）"
+artist = "南田健吾 (onetrap)"
+
+[[discs.tracks]]
+title = "太陽キッス（Off Vocal）"
+artist = "no_my"
+
+[[discs.tracks]]
+title = "アルストロメリア（Off Vocal）"
+artist = "森本貴大 (onetrap)"
+
+[[discs.tracks]]
+title = "ハピリリ（Off Vocal）"
+artist = "SHOW (Digz, Inc. Group)"
+
+[[discs]]
+catalog = "LACA-9873"
+
+[[discs.tracks]]
+title = "Ambitious Eve（Off Vocal）"
+artist = "山田智和"
+artists.composer = "山田智和"
+artists.arranger = "住谷翔平"
+
+[[discs.tracks]]
+title = "いつか Shiny Days（Off Vocal）"
+artist = "山田智和"
+artists.composer = "山田智和"
+artists.arranger = "長谷川智樹"
+
+[[discs.tracks]]
+title = "We can go now!（Off Vocal）"
+artist = "大西克巳"
+
+[[discs.tracks]]
+title = "トライアングル（Off Vocal）"
+artist = "Giz'Mo (from Jam9)、ArmySlick"
+artists.composer = "Giz'Mo (from Jam9)、ArmySlick"
+artists.arranger = "ArmySlick"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY（Off Vocal）"
+artist = "鍋谷卓摩 (luxis)"
+artists.composer = "鍋谷卓摩 (luxis)"
+artists.arranger = "遠藤ナオキ (HOVERBOARD,Inc.)"
+
+[[discs.tracks]]
+title = "ラビリンス・レジスタンス（Off Vocal）"
+artist = "家原正樹、Lauren Kaori"
+artists.composer = "家原正樹、Lauren Kaori"
+artists.arranger = "家原正樹"
+
+[[discs.tracks]]
+title = "ビーチブレイバー（Off Vocal）"
+artist = "GAKU"
+artists.composer = "GAKU"
+artists.arranger = "渡辺徹"
+
+[[discs.tracks]]
+title = "よりみちサンセット（Off Vocal）"
+artist = "小久保祐希、YUU for YOU"
+artists.composer = "小久保祐希、YUU for YOU"
+artists.arranger = "YUU for YOU"
+
+[[discs.tracks]]
+title = "Bloomy!（Off Vocal）"
+artist = "北ノ原凉"
+artists.composer = "北ノ原凉"
+artists.arranger = "伊藤立"
+
+[[discs.tracks]]
+title = "Love Addiction（Off Vocal）"
+artist = "家原正樹、Jam9"
+artists.composer = "家原正樹、Jam9"
+artists.arranger = "家原正樹"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser（Off Vocal）"
+artist = "小久保祐希、YUU for YOU"
+artists.composer = "小久保祐希、YUU for YOU"
+artists.arranger = "YUU for YOU"
+
+[[discs.tracks]]
+title = "Transcending The World（Off Vocal）"
+artist = "R·O·N"
+
+[[discs]]
+catalog = "LACA-9874"
+
+[[discs.tracks]]
+title = "シャイノグラフィ（Off Vocal）"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "Dye the sky.（Off Vocal）"
+artist = "ヒゲドライバー"
+
+[[discs.tracks]]
+title = "Twinkle way（Off Vocal）"
+artist = "鍋谷卓摩 (luxis)"
+artists.composer = "鍋谷卓摩 (luxis)"
+artists.arranger = "伊藤賢"
+
+[[discs.tracks]]
+title = "Happy Funny Lucky（Off Vocal）"
+artist = "中野領太 (onetrap)"
+
+[[discs.tracks]]
+title = "Black Reverie（Off Vocal）"
+artist = "本多友紀 (Arte Refact)"
+
+[[discs.tracks]]
+title = "純白トロイメライ（Off Vocal）"
+artist = "原田篤 (Arte Refact)"
+
+[[discs.tracks]]
+title = "五ツ座流星群（Off Vocal）"
+artist = "三浦誠司"
+
+[[discs.tracks]]
+title = "学祭革命夜明け前（Off Vocal）"
+artist = "佐々倉有吾"
+
+[[discs.tracks]]
+title = "ダブル・イフェクト（Off Vocal）"
+artist = "丸山真由子"
+artists.composer = "丸山真由子"
+artists.arranger = "ats-"
+
+[[discs.tracks]]
+title = "Anniversary（Off Vocal）"
+artist = "三好啓太"
+
+[[discs.tracks]]
+title = "Hide & Attack（Off Vocal）"
+artist = "本多友紀 (Arte Refact)"
+artists.composer = "本多友紀 (Arte Refact)"
+artists.arranger = "河合泰志 (Arte Refact)"
+
+[[discs.tracks]]
+title = "Destined Rival（Off Vocal）"
+artist = "大西克巳"
+
+[[discs.tracks]]
+title = "いつだって僕らは（Off Vocal）"
+artist = "秋浦智裕 (onetrap)"
+
+[[discs.tracks]]
+title = "あの花のように（Off Vocal）"
+artist = "Lantan"

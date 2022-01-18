@@ -1,0 +1,25 @@
+[album]
+album_id = "c9131c2b-b1ba-4a1c-bfa7-1a643cd376c8"
+title = "限りなく灰色へ／アイディスマイル"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、鏡音リン、メイコ"
+date = 2022-01-19
+type = "normal"
+catalog = "BRMM-10459"
+tags = ["25時、ナイトコードで。"]
+
+[[discs]]
+catalog = "BRMM-10459"
+
+[[discs.tracks]]
+title = "限りなく灰色へ"
+
+[[discs.tracks]]
+title = "アイディスマイル"
+
+[[discs.tracks]]
+title = "限りなく灰色へ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アイディスマイル (instrumental)"
+type = "instrumental"
