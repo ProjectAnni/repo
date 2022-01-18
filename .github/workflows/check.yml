@@ -1,12 +1,22 @@
-name: Build and publish a anniv-go
+name: Validate Metadata Repository
 on:
   pull_request:
 
 jobs:
-  check_repo:
+  validate_repo:
     runs-on: "ubuntu-20.04"
     steps:
-      - uses: actions/checkout@v2
-      - uses: docker-practice/actions-setup-docker@master
-      - run: |
-          docker run -v $(pwd):/app/repo --rm ghcr.io/projectanni/anniv-check:latest
+      - name: Setup | Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup | Download Artifact
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          repo: ProjectAnni/anni
+          workflow: build.yml
+          name: anni-x86_64-unknown-linux-musl.tar.gz
+
+      - name: Run | Validate Metadata
+        run: |
+          tar xzvf anni-x86_64-unknown-linux-musl.tar.gz && ANNI_REPO=$PWD ./anni repo validate
