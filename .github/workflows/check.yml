@@ -19,4 +19,4 @@ jobs:
 
       - name: Run | Validate Metadata
         run: |
-          tar xzvf anni-x86_64-unknown-linux-musl.tar.gz && ANNI_REPO=$PWD ./anni repo validate
+          tar xzvf anni-x86_64-unknown-linux-musl.tar.gz && ANNI_REPO=$PWD LANG=en_US ./anni repo validate
