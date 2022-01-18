@@ -1,0 +1,52 @@
+[album]
+album_id = "ad3e362f-55ad-4708-a8e3-dcc9f8c47360"
+title = "Rewrite arrange album 'crann mór'"
+artist = "Key Sounds Label"
+date = 2015-12-29
+type = "normal"
+catalog = "KSLA-0112"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0112"
+artist = "樋口秀樹"
+
+[[discs.tracks]]
+title = "旅"
+
+[[discs.tracks]]
+title = "芽吹き"
+
+[[discs.tracks]]
+title = "花蕾"
+
+[[discs.tracks]]
+title = "アサガオ"
+
+[[discs.tracks]]
+title = "ニリンソウ"
+
+[[discs.tracks]]
+title = "この木の下で"
+artist = "多田葵"
+type = "normal"
+
+[[discs.tracks]]
+title = "Raised Bed"
+
+[[discs.tracks]]
+title = "Remembrance"
+
+[[discs.tracks]]
+title = "Sorrowless"
+
+[[discs.tracks]]
+title = "揺葉"
+
+[[discs.tracks]]
+title = "ヒナギク"
+
+[[discs.tracks]]
+title = "Sleeping Forest"
+artist = "多田葵"
+type = "normal"

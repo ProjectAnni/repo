@@ -1,0 +1,31 @@
+[album]
+album_id = "72885b68-b117-4881-a5fe-4923935c5f2c"
+title = "Last Desire"
+artist = "Key Sounds Label"
+date = 2017-03-22
+type = "normal"
+catalog = "KSLA-0129"
+tags = ["TVアニメ「Rewrite」"]
+
+[[discs]]
+catalog = "KSLA-0129"
+artist = "黒崎真音"
+
+[[discs.tracks]]
+title = "Last Desire"
+
+[[discs.tracks]]
+title = "Ignis Memory"
+
+[[discs.tracks]]
+title = "Last Desire (TVsize)"
+
+[[discs.tracks]]
+title = "Last Desire (Instrumental)"
+artist = "折戸伸治"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Ignis Memory (Instrumental)"
+artist = "折戸伸治"
+type = "instrumental"

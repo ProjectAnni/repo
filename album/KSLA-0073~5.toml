@@ -1,0 +1,341 @@
+[album]
+album_id = "eeae9d38-275d-470f-a46c-7e97197a4aef"
+title = "Rewrite Original SoundTrack"
+artist = "Key Sounds Label"
+date = 2011-10-28
+type = "absolute"
+catalog = "KSLA-0073~5"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0073"
+
+[[discs.tracks]]
+title = "Philosophyz"
+artist = "水谷瑠奈"
+type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+artists.lyricist = "都乃河勇人"
+
+[[discs.tracks]]
+title = "旅"
+artist = "麻枝准"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
+
+[[discs.tracks]]
+title = "芽吹き"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "Fertilizer"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
+
+[[discs.tracks]]
+title = "花蕾"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "果実"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "Raised bed"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "ニリンソウ"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "アサガオ"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "アンスリウム"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "カーネーション"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
+
+[[discs.tracks]]
+title = "サンブライト"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "TERRA"
+
+[[discs.tracks]]
+title = "ヒナギク"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Honesty"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
+
+[[discs.tracks]]
+title = "深層森林"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Exploration"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "凍土"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "褐斑病"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "綿帽子"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "DIS is a pain"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Eruptible"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "闇の彼方へ"
+artist = "水谷瑠奈"
+type = "normal"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "塚越雄一朗"
+
+[[discs]]
+catalog = "KSLA-0074"
+
+[[discs.tracks]]
+title = "Rewrite"
+artist = "サイキックラバー"
+type = "normal"
+artists.vocal = "サイキックラバー"
+artists.composer = "YOFFY"
+artists.arranger = "大石憲一郎"
+artists.lyricist = "YOFFY"
+
+[[discs.tracks]]
+title = "Retribution"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Potted one"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "YO-SHI-NO"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Sorrowless"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
+
+[[discs.tracks]]
+title = "揺葉"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "井内舞子"
+
+[[discs.tracks]]
+title = "散花"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "幻境"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "刈り"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Scene of carnage"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Scene of carnage aggressiveness"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Phobic"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "Phobia"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "Scene shifts there"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "黒星病"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "枯死"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "Finale"
+artist = "井内舞子"
+
+[[discs.tracks]]
+title = "Reply"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "水月陵"
+
+[[discs.tracks]]
+title = "Toxoplasma"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "実り"
+artist = "水月陵"
+
+[[discs.tracks]]
+title = "Philosophy of ours"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
+
+[[discs.tracks]]
+title = "Philosophy of yours"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Exploration2 symphonic"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
+
+[[discs]]
+catalog = "KSLA-0075"
+
+[[discs.tracks]]
+title = "Philosophyz GT Ver."
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+
+[[discs.tracks]]
+title = "Rewrite instrumental"
+artist = "YOFFY"
+type = "instrumental"
+artists.composer = "YOFFY"
+artists.arranger = "大石憲一郎"
+
+[[discs.tracks]]
+title = "Remembrance"
+artist = "折戸伸治"
+artists.composer = "折戸伸治"
+artists.arranger = "三輪学"
+
+[[discs.tracks]]
+title = "大地"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "Radiance"
+artist = "細井聡司"
+
+[[discs.tracks]]
+title = "恋歌"
+artist = "折戸伸治"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "MANYO"
+
+[[discs.tracks]]
+title = "恋文"
+artist = "やなぎなぎ"
+type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "MANYO"
+artists.lyricist = "都乃河勇人"
+
+[[discs.tracks]]
+title = "偽らない君へ"
+artist = "やなぎなぎ"
+type = "normal"
+artists.vocal = "やなぎなぎ"
+artists.composer = "折戸伸治"
+artists.arranger = "森藤晶司"
+artists.lyricist = "竜騎士07"
+
+[[discs.tracks]]
+title = "渡りの詩"
+artist = "多田葵"
+type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
+artists.lyricist = "麻枝准"
+
+[[discs.tracks]]
+title = "CANOE"
+artist = "多田葵"
+type = "normal"
+artists.vocal = "多田葵"
+artists.composer = "麻枝准"
+artists.arranger = "ANANT-GARDE EYES"
+artists.lyricist = "麻枝准"
+
+[[discs.tracks]]
+title = "ヒナギク orgel Ver."
+artist = "井内舞子"
+artists.composer = "井内舞子"
+artists.arranger = "どんまる"
+
+[[discs.tracks]]
+title = "Philosophyz Game size Ver."
+artist = "水谷瑠奈"
+type = "normal"
+
+[[discs.tracks]]
+title = "Rewrite Game size Ver."
+artist = "サイキックラバー"
+type = "normal"
+
+[[discs.tracks]]
+title = "闇の彼方へ Game size Ver."
+artist = "水谷瑠奈"
+type = "normal"
+
+[[discs.tracks]]
+title = "恋文 Game size Ver."
+artist = "やなぎなぎ"
+type = "normal"
+
+[[discs.tracks]]
+title = "偽らない君へ Game size Ver."
+artist = "やなぎなぎ"
+type = "normal"
+
+[[discs.tracks]]
+title = "Bonus Track ～滅びの歌～"
+artist = "折戸伸治"
+
+[[discs.tracks]]
+title = "Bonus Track ～ルチア着信音～"
+artist = "折戸伸治"

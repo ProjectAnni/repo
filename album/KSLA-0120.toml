@@ -1,0 +1,31 @@
+[album]
+album_id = "db2006ec-eae9-4197-8911-41339eddbffe"
+title = "End of the World／へたくそな唄"
+artist = "Key Sounds Label"
+date = 2016-09-21
+type = "normal"
+catalog = "KSLA-0120"
+tags = ["TVアニメ「Rewrite」"]
+
+[[discs]]
+catalog = "KSLA-0120"
+artist = "熊木杏里"
+
+[[discs.tracks]]
+title = "End of the World"
+
+[[discs.tracks]]
+title = "へたくそな唄"
+
+[[discs.tracks]]
+title = "End of the World (TVsize)"
+
+[[discs.tracks]]
+title = "End of the World (Instrumental)"
+artist = "麻枝准"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "へたくそな唄 (Instrumental)"
+artist = "麻枝准"
+type = "instrumental"

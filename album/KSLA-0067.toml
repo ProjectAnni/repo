@@ -1,0 +1,42 @@
+[album]
+album_id = "ea643c53-cc45-49cc-b362-ea840db0ebb3"
+title = 'Rewrite Opening Theme song "Philosophyz"'
+artist = "Key Sounds Label"
+date = 2011-01-28
+type = "normal"
+catalog = "KSLA-0067"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0067"
+artist = "水谷瑠奈"
+
+[[discs.tracks]]
+title = "Philosophyz"
+artists.vocal = "水谷瑠奈"
+artists.composer = "折戸伸治"
+artists.arranger = "a2c"
+artists.lyricist = "都乃河勇人"
+
+[[discs.tracks]]
+title = "闇の彼方へ"
+artists.vocal = "水谷瑠奈"
+artists.composer = "塚越雄一朗"
+artists.arranger = "塚越雄一朗"
+artists.lyricist = "塚越雄一朗"
+
+[[discs.tracks]]
+title = "Philosophyz Game size Ver."
+
+[[discs.tracks]]
+title = "闇の彼方へ Game size Ver."
+
+[[discs.tracks]]
+title = "Philosophyz off vocal Ver."
+artist = "折戸伸治"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "闇の彼方へ off vocal Ver."
+artist = "塚越雄一朗"
+type = "instrumental"

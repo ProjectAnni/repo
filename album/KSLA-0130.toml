@@ -1,0 +1,31 @@
+[album]
+album_id = "96182581-1151-474e-bda3-91a8579b47b1"
+title = "Instincts"
+artist = "Key Sounds Label"
+date = 2017-03-22
+type = "normal"
+catalog = "KSLA-0130"
+tags = ["TVアニメ「Rewrite」"]
+
+[[discs]]
+catalog = "KSLA-0130"
+artist = "水谷瑠奈"
+
+[[discs.tracks]]
+title = "Instincts"
+
+[[discs.tracks]]
+title = "Cradles Tale"
+
+[[discs.tracks]]
+title = "Instincts (TVsize)"
+
+[[discs.tracks]]
+title = "Instincts (Instrumental)"
+artist = "どんまる"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Cradles Tale (Instrumental)"
+artist = "どんまる"
+type = "instrumental"

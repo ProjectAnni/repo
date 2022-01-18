@@ -1,0 +1,51 @@
+[album]
+album_id = "af6391ae-0fa7-4c9b-8c47-83beb6faace1"
+title = "Rewrite Arrange Album 'Soil'"
+artist = "Key Sounds Label"
+date = 2011-06-24
+type = "absolute"
+catalog = "KSLA-0070"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0070"
+
+[[discs.tracks]]
+title = "ヒナギク"
+artist = "井内啓二"
+
+[[discs.tracks]]
+title = "散花"
+artist = "なかやまらいでん"
+
+[[discs.tracks]]
+title = "綿帽子"
+artist = "土屋昇平"
+
+[[discs.tracks]]
+title = "Phobia"
+artist = "坂本昌一郎"
+
+[[discs.tracks]]
+title = "アサガオ"
+artist = "MANYO"
+
+[[discs.tracks]]
+title = "Exploration"
+artist = "桐丘麻季"
+
+[[discs.tracks]]
+title = "幻境～ニリンソウ"
+artist = "TECNOuchi"
+
+[[discs.tracks]]
+title = "Retribution"
+artist = "岡素世"
+
+[[discs.tracks]]
+title = "Reply"
+artist = "myu"
+
+[[discs.tracks]]
+title = "アンスリウム"
+artist = "坂本英城"

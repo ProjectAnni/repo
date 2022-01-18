@@ -1,0 +1,56 @@
+[album]
+album_id = "2fd3ecf2-fa7c-4251-af0b-13c181f2e407"
+title = "Rewrite Arrange Album 'Selene'"
+artist = "Key Sounds Label"
+date = 2016-07-29
+type = "absolute"
+catalog = "KSLA-0116"
+tags = ["Rewrite"]
+
+[[discs]]
+catalog = "KSLA-0116"
+
+[[discs.tracks]]
+title = "Philosphyz (溝口ゆうま remix)"
+artist = "溝口ゆうま(M.H.S)"
+
+[[discs.tracks]]
+title = "DIS is a pain (morbid Rock mix)"
+artist = "Irus(LiLA'c Records)"
+
+[[discs.tracks]]
+title = "Eruptible (Freezer Remix)"
+artist = "Freezer(Lilium Records)"
+
+[[discs.tracks]]
+title = "Quaesitor (Shouya Namai Remix)"
+artist = "Shouya Namai"
+
+[[discs.tracks]]
+title = "サンブライト (ALR REMIX)"
+artist = "北沢綾香"
+type = "normal"
+
+[[discs.tracks]]
+title = "Redemptor (Digital Universum ver)"
+artist = "しょうゆ"
+
+[[discs.tracks]]
+title = "Phobia (LU-I Remix)"
+artist = "LU-I(SERVANT KLANGZ)"
+
+[[discs.tracks]]
+title = "Finale (Kissing the Mirror Mix)"
+artist = "Wooming、Kenkawa、奈槻晃"
+
+[[discs.tracks]]
+title = "Retribution (MUZIK SERVANT & Freezer Remix)"
+artist = "MUZIK SERVANT(SERVANT KLANGZ)、Freezer(Lilium Records)"
+
+[[discs.tracks]]
+title = "Fight for nowhere (Kissing the Mirror Mix)"
+artist = "Wooming"
+
+[[discs.tracks]]
+title = "刈り (溝口ゆうま remix)"
+artist = "溝口ゆうま(M.H.S)"
