@@ -1,0 +1,56 @@
+[album]
+album_id = "30cd1e08-1f11-4a84-9e6f-47ff98a1b961"
+title = "宝石の国 スペシャルサウンドトラック後編"
+artist = "藤澤慶昌"
+date = 2018-01-17
+type = "absolute"
+catalog = "TBR27352D-2"
+tags = ["宝石の国"]
+
+[[discs]]
+catalog = "TBR27352D-2"
+
+[[discs.tracks]]
+title = "深海"
+
+[[discs.tracks]]
+title = "驚異"
+
+[[discs.tracks]]
+title = "Ground"
+
+[[discs.tracks]]
+title = "覚醒する力"
+
+[[discs.tracks]]
+title = "記憶"
+
+[[discs.tracks]]
+title = "金剛先生"
+
+[[discs.tracks]]
+title = "眠る季節"
+
+[[discs.tracks]]
+title = "冬の試練"
+
+[[discs.tracks]]
+title = "なにもできない"
+
+[[discs.tracks]]
+title = "冬の終わり"
+
+[[discs.tracks]]
+title = "目覚め"
+
+[[discs.tracks]]
+title = "始まり"
+
+[[discs.tracks]]
+title = "Night"
+
+[[discs.tracks]]
+title = "秘密"
+
+[[discs.tracks]]
+title = "あーもう！"
