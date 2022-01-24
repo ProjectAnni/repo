@@ -1,0 +1,372 @@
+[album]
+album_id = "dda16ed3-eae2-4dca-9c33-a84bddcc1ec9"
+title = "THE IDOLM@STER MASTER BOX catalog 08,09,11 COMPLETE"
+artist = "THE IDOLM@STER"
+date = 2009-05-22
+type = "normal"
+catalog = "SACX-1008~11"
+tags = ["THE IDOLM@STER MASTER BOX"]
+
+[[discs]]
+catalog = "SACX-1008"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A) (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A) (カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "SACX-1009"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B) (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B) (カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "SACX-1010"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-A)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-A)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "i (REMIX-A)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-A) (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "i (REMIX-A) (カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "SACX-1011"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "萩原雪歩（落合祐里香）"
+
+[[discs.tracks]]
+title = "shiny smile (REMIX-B)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Do-Dai (REMIX-B)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "i (REMIX-B)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "my song (REMIX-B) (カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "i (REMIX-B) (カラオケ)"
+type = "instrumental"
