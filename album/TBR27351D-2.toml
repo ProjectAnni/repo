@@ -1,0 +1,56 @@
+[album]
+album_id = "eb9e9c72-f931-4882-8fc9-ee69e62a0668"
+title = "宝石の国 スペシャルサウンドトラック前編"
+artist = "藤澤慶昌"
+date = 2017-12-20
+type = "absolute"
+catalog = "TBR27351D-2"
+tags = ["宝石の国"]
+
+[[discs]]
+catalog = "TBR27351D-2"
+
+[[discs.tracks]]
+title = "メインテーマ"
+
+[[discs.tracks]]
+title = "昼下がり"
+
+[[discs.tracks]]
+title = "アイデア"
+
+[[discs.tracks]]
+title = "フォスフォフィライト"
+
+[[discs.tracks]]
+title = "月人"
+
+[[discs.tracks]]
+title = "黒点"
+
+[[discs.tracks]]
+title = "戦い"
+
+[[discs.tracks]]
+title = "危機"
+
+[[discs.tracks]]
+title = "砕かれる"
+
+[[discs.tracks]]
+title = "ちょっとひと息"
+
+[[discs.tracks]]
+title = "なんなのさ！"
+
+[[discs.tracks]]
+title = "ウェントリコスス"
+
+[[discs.tracks]]
+title = "Sea"
+
+[[discs.tracks]]
+title = "孤高"
+
+[[discs.tracks]]
+title = "シンシャ"

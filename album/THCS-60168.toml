@@ -1,0 +1,26 @@
+[album]
+album_id = "6daa053c-3cb5-45b0-87e4-490098543f8f"
+title = "鏡面の波"
+edition = "アニメ盤"
+artist = "YURiKA"
+date = 2017-12-06
+type = "normal"
+catalog = "THCS-60168"
+tags = ["YURiKA", "宝石の国"]
+
+[[discs]]
+catalog = "THCS-60168"
+
+[[discs.tracks]]
+title = "鏡面の波"
+
+[[discs.tracks]]
+title = "Dive into the colors"
+
+[[discs.tracks]]
+title = "鏡面の波 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dive into the colors (Instrumental)"
+type = "instrumental"

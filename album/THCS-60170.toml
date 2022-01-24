@@ -1,0 +1,26 @@
+[album]
+album_id = "4c586601-a5f9-4d20-a2a1-552e6e406624"
+title = "煌めく浜辺"
+edition = "アニメ盤"
+artist = "大原ゆい子"
+date = 2017-12-06
+type = "normal"
+catalog = "THCS-60170"
+tags = ["大原ゆい子", "宝石の国"]
+
+[[discs]]
+catalog = "THCS-60170"
+
+[[discs.tracks]]
+title = "煌めく浜辺"
+
+[[discs.tracks]]
+title = "光の淵"
+
+[[discs.tracks]]
+title = "煌めく浜辺 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "光の淵 -Instrumental-"
+type = "instrumental"
