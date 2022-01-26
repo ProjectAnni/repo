@@ -1,0 +1,51 @@
+[album]
+album_id = "113cd969-37c4-4994-9c18-8205e49a288e"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04"
+artist = "Various Artists"
+date = 2022-01-26
+type = "normal"
+catalog = "LACA-15904"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15904"
+
+[[discs.tracks]]
+title = "DATE PARADE!"
+artist = "星井美希（長谷川明子）"
+artists.vocal = "星井美希（長谷川明子）"
+artists.composer = "Neko Hacker"
+artists.arranger = "Neko Hacker"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "週末だけのハーレクイン"
+artist = "百瀬莉緒（山口立花子）"
+artists.vocal = "百瀬莉緒（山口立花子）"
+artists.composer = "板垣祐介"
+artists.arranger = "板垣祐介"
+artists.lyricist = "唐沢美帆"
+
+[[discs.tracks]]
+title = "グローインミュージック！"
+artist = "矢吹可奈（木戸衣吹）"
+artists.vocal = "矢吹可奈（木戸衣吹）"
+artists.composer = "山口朗彦"
+artists.arranger = "山口朗彦"
+artists.lyricist = "こだまさおり"
+
+[[discs.tracks]]
+title = "折紙物語"
+artist = "白石紬（南早紀）"
+artists.vocal = "白石紬（南早紀）"
+artists.composer = "グシミヤギヒデユキ"
+artists.arranger = "グシミヤギヒデユキ"
+artists.lyricist = "中村彼方"
+
+[[discs.tracks]]
+title = "絵羽模様"
+artist = "エミリー スチュアート（郁原ゆう）"
+artists.vocal = "エミリー スチュアート（郁原ゆう）"
+artists.composer = "早川博隆"
+artists.arranger = "柿迫ヒカル、早川博隆"
+artists.lyricist = "真崎エリカ"
