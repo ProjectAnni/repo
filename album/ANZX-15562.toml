@@ -1,0 +1,35 @@
+[album]
+album_id = "6c5b7332-5751-438b-a1a8-56c2f1cc5e33"
+title = "マギアレコード魔法少女まどか☆マギカ外伝 2nd SEASON-覚醒前夜- オリジナル・サウンドトラック1"
+artist = "尾澤拓実"
+date = 2021-11-24
+type = "absolute"
+catalog = "ANZX-15562"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"]
+
+[[discs]]
+catalog = "ANZX-15562"
+
+[[discs.tracks]]
+title = "Vague Memory"
+
+[[discs.tracks]]
+title = "Conflictus Animi"
+
+[[discs.tracks]]
+title = "Perpetual Blossom"
+
+[[discs.tracks]]
+title = "to the FENTHOPE"
+
+[[discs.tracks]]
+title = "Fallen Memory"
+
+[[discs.tracks]]
+title = "Kebenaran dan Keberadaan"
+
+[[discs.tracks]]
+title = "Phantom Doll"
+
+[[discs.tracks]]
+title = "Battle of Obsession"

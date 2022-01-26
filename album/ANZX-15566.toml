@@ -1,0 +1,31 @@
+[album]
+album_id = "680ed92e-5877-4c90-8321-0d90a99b83cb"
+title = "マギアレコード魔法少女まどか☆マギカ外伝 2nd SEASON-覚醒前夜- オリジナル・サウンドトラック3"
+artist = "尾澤拓実"
+date = 2022-01-26
+type = "absolute"
+catalog = "ANZX-15566"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"]
+
+[[discs]]
+catalog = "ANZX-15566"
+
+[[discs.tracks]]
+title = "False me"
+
+[[discs.tracks]]
+title = "Share Dolor"
+
+[[discs.tracks]]
+title = "Distance of Feelings ～Oboe Ver～"
+
+[[discs.tracks]]
+title = "Quiero Salvarte!"
+
+[[discs.tracks]]
+title = "ENTITY of Embryo Eve"
+
+[[discs.tracks]]
+title = "閃光"
+type = "normal"
+artist = "シト"
