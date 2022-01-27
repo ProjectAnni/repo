@@ -1,0 +1,19 @@
+[album]
+album_id = "df0e1ed4-b980-48cf-86f0-fb95c1c5e4a2"
+title = "TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-」Theme Song Collection"
+artist = "Various Artists"
+date = 2021-08-08
+type = "normal"
+catalog = "VVXX-01055"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"]
+
+[[discs]]
+catalog = "VVXX-01055"
+
+[[discs.tracks]]
+title = "ケアレス"
+artist = "ClariS（クララ、カレン）"
+
+[[discs.tracks]]
+title = "Lapis"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"

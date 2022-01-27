@@ -1,0 +1,35 @@
+[album]
+album_id = "6c239855-7ba5-4252-ab69-477deb23963e"
+title = "マギアレコード魔法少女まどか☆マギカ外伝 2nd SEASON-覚醒前夜- オリジナル・サウンドトラック2"
+artist = "尾澤拓実"
+date = 2021-12-22
+type = "absolute"
+catalog = "ANZX-15564"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"]
+
+[[discs]]
+catalog = "ANZX-15564"
+
+[[discs.tracks]]
+title = "Witch Plant"
+
+[[discs.tracks]]
+title = "Doppel Threat"
+
+[[discs.tracks]]
+title = "Prendimi"
+
+[[discs.tracks]]
+title = "Facciamolo!"
+
+[[discs.tracks]]
+title = "Distance of Feelings"
+
+[[discs.tracks]]
+title = "Isolamento"
+
+[[discs.tracks]]
+title = "Clown and Strategist"
+
+[[discs.tracks]]
+title = "Arousal Strategy"
