@@ -1,0 +1,47 @@
+[album]
+album_id = "d225c367-62ff-4536-a97e-9767a75137ce"
+title = "Tarte"
+artist = "小倉唯"
+date = 2022-02-16
+type = "normal"
+catalog = "KIZC-657"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "KIZC-657"
+
+[[discs.tracks]]
+title = "ta・ta・tarte♪"
+
+[[discs.tracks]]
+title = "ハピネス*センセーション"
+
+[[discs.tracks]]
+title = "I・LOVE・YOU!!"
+
+[[discs.tracks]]
+title = "Fightin★Pose"
+
+[[discs.tracks]]
+title = "PRISM BEAT"
+
+[[discs.tracks]]
+title = "Very Merry Happy Christmas"
+
+[[discs.tracks]]
+title = "慈しみカンパニュラ"
+
+[[discs.tracks]]
+title = "Destiny"
+
+[[discs.tracks]]
+title = "Wish"
+
+[[discs.tracks]]
+title = "Clear Morning"
+
+[[discs.tracks]]
+title = "CiaoCiao Afternoon"
+
+[[discs.tracks]]
+title = "桜色ラビネス"

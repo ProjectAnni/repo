@@ -1,0 +1,83 @@
+[album]
+album_id = "6654ef16-d0ae-4c24-a3a9-d5b0e9a039f2"
+title = "星の消えた夜に"
+artist = "Aimer"
+date = 2022-01-26
+type = "normal"
+catalog = "VVCL-1961~2"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVCL-1961"
+
+[[discs.tracks]]
+title = "Run Riot"
+
+[[discs.tracks]]
+title = "Work it out"
+
+[[discs.tracks]]
+title = "Mine"
+
+[[discs.tracks]]
+title = "Ophelia"
+
+[[discs.tracks]]
+title = "スピカ"
+
+[[discs.tracks]]
+title = "夏草に君を想う"
+
+[[discs.tracks]]
+title = "tone"
+
+[[discs.tracks]]
+title = "悲しみの向こう側"
+
+[[discs.tracks]]
+title = "Blind to you"
+
+[[discs.tracks]]
+title = "my sweetest one"
+
+[[discs.tracks]]
+title = "今日から思い出"
+
+[[discs.tracks]]
+title = "Ash flame"
+
+[[discs.tracks]]
+title = "Daisy"
+
+[[discs.tracks]]
+title = "Even Heaven"
+
+[[discs.tracks]]
+title = "星の消えた夜に"
+
+[[discs]]
+catalog = "VVCL-1962"
+
+[[discs.tracks]]
+title = "ONE AND LAST"
+
+[[discs.tracks]]
+title = "トリル -starless night ver.-"
+
+[[discs.tracks]]
+title = "グレースノート"
+
+[[discs.tracks]]
+title = "星の消えた夜に -rit. ver.-"
+
+[[discs.tracks]]
+title = "セプテンバーさん"
+
+[[discs.tracks]]
+title = "Raining"
+
+[[discs.tracks]]
+title = "糸"
+
+[[discs.tracks]]
+title = "花束のかわりにメロディーを"

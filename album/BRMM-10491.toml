@@ -1,0 +1,59 @@
+[album]
+album_id = "37b26942-6cf0-421b-b880-f593988ad292"
+title = "ワンダーランズ×ショウタイム SEKAI ALBUM Vol.1"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、鏡音リン、鏡音レン、初音ミク"
+date = 2022-02-02
+type = "normal"
+catalog = "BRMM-10491"
+tags = ["ワンダーランズ×ショウタイム"]
+
+[[discs]]
+catalog = "BRMM-10491"
+
+[[discs.tracks]]
+title = "スイートマジック"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一）、鏡音リン"
+
+[[discs.tracks]]
+title = "ブリキノダンス"
+artist = "天馬司（廣瀬大介）、神代類（土岐隼一）、鏡音レン"
+
+[[discs.tracks]]
+title = "ぼうけんのしょがきえました！[Long ver.]"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、鏡音リン、鏡音レン"
+
+[[discs.tracks]]
+title = "脱法ロック"
+artist = "天馬司（廣瀬大介）、神代類（土岐隼一）、鏡音レン"
+
+[[discs.tracks]]
+title = "ミラクルペイント"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一）、鏡音リン"
+
+[[discs.tracks]]
+title = "ダンスロボットダンス"
+artist = "鳳えむ（木野日菜）、草薙寧々（Machico）、初音ミク"
+
+[[discs.tracks]]
+title = "チュルリラ・チュルリラ・ダッダッダ！"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類"
+
+[[discs.tracks]]
+title = "ポジティブ☆ダンスタイム"
+artist = "鳳えむ（木野日菜）、草薙寧々（Machico）、鏡音リン"
+
+[[discs.tracks]]
+title = "お気に召すまま"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一）、鏡音レン"
+
+[[discs.tracks]]
+title = "KING"
+artist = "天馬司（廣瀬大介）、神代類（土岐隼一）"
+
+[[discs.tracks]]
+title = "テレキャスタービーボーイ"
+artist = "天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一）、鏡音レン"
+
+[[discs.tracks]]
+title = "フィクサー"
+artist = "天馬司（廣瀬大介）、神代類（土岐隼一）"

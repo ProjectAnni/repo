@@ -1,0 +1,25 @@
+[album]
+album_id = "5e497a65-8b3b-44db-9f44-f8816496bb5a"
+title = "Day of Bright Sunshine"
+artist = "中島由貴"
+date = 2022-02-16
+type = "normal"
+catalog = "GNCA-0658"
+tags = ["中島由貴"]
+
+[[discs]]
+catalog = "GNCA-0658"
+
+[[discs.tracks]]
+title = "Day of Bright Sunshine"
+
+[[discs.tracks]]
+title = "Snow Tears"
+
+[[discs.tracks]]
+title = "Day of Bright Sunshine -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Snow Tears -instrumental-"
+type = "instrumental"
