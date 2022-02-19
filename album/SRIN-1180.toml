@@ -1,0 +1,47 @@
+[album]
+album_id = "7201ade9-67a9-4a8a-9ec1-fa2a2f0df470"
+title = "Seasonal Step"
+artist = "平山笑美"
+date = 2022-01-21
+type = "normal"
+catalog = "SRIN-1180"
+tags = ["平山笑美"]
+
+[[discs]]
+catalog = "SRIN-1180"
+
+[[discs.tracks]]
+title = "Endless Dreamer"
+
+[[discs.tracks]]
+title = "Happy End Valentine"
+
+[[discs.tracks]]
+title = "#BFF"
+
+[[discs.tracks]]
+title = "fly over the sky"
+
+[[discs.tracks]]
+title = "エンジェルラダーと青と蒼"
+
+[[discs.tracks]]
+title = "Detritus"
+
+[[discs.tracks]]
+title = "STARRY REPORT"
+
+[[discs.tracks]]
+title = "夏空のDiary"
+
+[[discs.tracks]]
+title = "echo"
+
+[[discs.tracks]]
+title = "夜を歩く猫"
+
+[[discs.tracks]]
+title = "星の彼方"
+
+[[discs.tracks]]
+title = "君が望む世界 〜stay true〜"
