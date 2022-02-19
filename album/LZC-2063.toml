@@ -1,0 +1,14 @@
+[album]
+album_id = "c8941b97-a2c1-4f2d-9019-7f95b66925d5"
+title = "箱庭の幸福"
+artist = "田所あずさ"
+date = 2022-01-05
+type = "normal"
+catalog = "LZC-2063"
+tags = ["田所あずさ"]
+
+[[discs]]
+catalog = "LZC-2063"
+
+[[discs.tracks]]
+title = "箱庭の幸福"

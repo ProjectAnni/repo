@@ -1,0 +1,14 @@
+[album]
+album_id = "00cad203-4afd-4fb9-8a6f-d62b6621acc6"
+title = "おもかげ (produced by Vaundy)"
+artist = "milet、Aimer、幾田りら"
+date = 2021-12-17
+type = "normal"
+catalog = "VVXX-01132B01A"
+tags = ["milet", "Aimer", "幾田りら"]
+
+[[discs]]
+catalog = "VVXX-01132B01A"
+
+[[discs.tracks]]
+title = "おもかげ (produced by Vaundy)"

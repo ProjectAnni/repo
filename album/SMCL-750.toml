@@ -1,0 +1,50 @@
+[album]
+album_id = "04ef9b36-d5f4-426a-ac42-ce5a498b46eb"
+title = "コンポジット"
+artist = "夏川椎菜"
+date = 2022-02-09
+type = "normal"
+catalog = "SMCL-750"
+tags = ["夏川椎菜"]
+
+[[discs]]
+catalog = "SMCL-750"
+
+[[discs.tracks]]
+title = "ハレノバテイクオーバー"
+
+[[discs.tracks]]
+title = "烏合讃歌"
+
+[[discs.tracks]]
+title = "アンチテーゼ"
+
+[[discs.tracks]]
+title = "トオボエ"
+
+[[discs.tracks]]
+title = "RUNNY NOSE"
+
+[[discs.tracks]]
+title = "サメルマデ"
+
+[[discs.tracks]]
+title = "奔放ストラテジー"
+
+[[discs.tracks]]
+title = "ミザントロープ"
+
+[[discs.tracks]]
+title = "ボクはゾンビ"
+
+[[discs.tracks]]
+title = "すーぱーだーりー"
+
+[[discs.tracks]]
+title = "That's All Right!"
+
+[[discs.tracks]]
+title = "ナイトフライトライト"
+
+[[discs.tracks]]
+title = "クラクトリトルプライド"

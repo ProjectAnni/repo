@@ -1,0 +1,41 @@
+[album]
+album_id = "c92156bd-2e5b-44a7-b296-023df651aeb5"
+title = "Fo(u)r YuU"
+artist = "Liyuu"
+date = 2022-02-09
+type = "normal"
+catalog = "LACA-35934"
+tags = ["Liyuu"]
+
+[[discs]]
+catalog = "LACA-35934"
+
+[[discs.tracks]]
+title = "Magic Words"
+
+[[discs.tracks]]
+title = "ルルカワイマ"
+
+[[discs.tracks]]
+title = "Endless Vacation"
+
+[[discs.tracks]]
+title = "めたもるふぉーぜ"
+
+[[discs.tracks]]
+title = "花鳥風月"
+
+[[discs.tracks]]
+title = "BLUE ROSE"
+
+[[discs.tracks]]
+title = "Ambition"
+
+[[discs.tracks]]
+title = "カラフルホライズン"
+
+[[discs.tracks]]
+title = "カルペ・ディエム"
+
+[[discs.tracks]]
+title = "Reply"
