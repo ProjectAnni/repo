@@ -1,0 +1,39 @@
+[album]
+album_id = "debffc8f-fd7f-45f7-930d-a2bf590b0292"
+title = "PIRAMIRiSTAR"
+artist = "平山笑美"
+date = 2020-07-31
+type = "normal"
+catalog = "SRIN-1170"
+tags = ["平山笑美"]
+
+[[discs]]
+catalog = "SRIN-1170"
+
+[[discs.tracks]]
+title = "スターサファイア"
+
+[[discs.tracks]]
+title = "Star trail"
+
+[[discs.tracks]]
+title = "Dead or ふたりきり♪ -Dolce Accordo -"
+
+[[discs.tracks]]
+title = "たどり着く未来へ ‒ Reprogram -"
+
+[[discs.tracks]]
+title = "スターサファイア [Off Vocal]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Star trail [Off Vocal]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dead or ふたりきり♪ -Dolce Accordo - [Off Vocal]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "たどり着く未来へ ‒ Reprogram - [Off Vocal]"
+type = "instrumental"

@@ -1,0 +1,47 @@
+[album]
+album_id = "10183746-e33e-47e3-b9ec-28d8720a4611"
+title = "PIRAMIRiSE"
+artist = "平山笑美"
+date = 2019-11-22
+type = "normal"
+catalog = "SRIN-1163"
+tags = ["平山笑美"]
+
+[[discs]]
+catalog = "SRIN-1163"
+
+[[discs.tracks]]
+title = "JUMP!"
+
+[[discs.tracks]]
+title = "for the Future"
+
+[[discs.tracks]]
+title = "Dead or ふたりきり♪"
+
+[[discs.tracks]]
+title = "フライング・ハイ！"
+
+[[discs.tracks]]
+title = "Maybe Maybe Maybe"
+
+[[discs.tracks]]
+title = "約束の空"
+
+[[discs.tracks]]
+title = "Secrets make shapes of the life"
+
+[[discs.tracks]]
+title = "たどり着く未来へ"
+
+[[discs.tracks]]
+title = "アゲハ"
+
+[[discs.tracks]]
+title = "Perfect Place"
+
+[[discs.tracks]]
+title = "サインポスト"
+
+[[discs.tracks]]
+title = "真夏のエモーション"
