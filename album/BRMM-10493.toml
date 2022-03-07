@@ -1,0 +1,47 @@
+[album]
+album_id = "e5659b0a-7163-4c95-ac6d-62822b6a5b3c"
+title = "MORE MORE JUMP！SEKAI ALBUM Vol.1"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、初音ミク、メイコ、巡音ルカ"
+date = 2022-03-02
+type = "normal"
+catalog = "BRMM-10493"
+tags = ["MORE MORE JUMP！"]
+
+[[discs]]
+catalog = "BRMM-10493"
+
+[[discs.tracks]]
+title = "ハッピーシンセサイザ"
+
+[[discs.tracks]]
+title = "ツギハギスタッカート"
+
+[[discs.tracks]]
+title = "Nostalogic"
+
+[[discs.tracks]]
+title = "ニア"
+
+[[discs.tracks]]
+title = "ビバハピ"
+
+[[discs.tracks]]
+title = "メルティランドナイトメア"
+
+[[discs.tracks]]
+title = "恋愛裁判"
+
+[[discs.tracks]]
+title = "ミルククラウン・オン・ソーネチカ"
+
+[[discs.tracks]]
+title = "どりーみんチュチュ"
+
+[[discs.tracks]]
+title = "ロミオとシンデレラ"
+
+[[discs.tracks]]
+title = "地球最後の告白を"
+
+[[discs.tracks]]
+title = "マシュマリー"

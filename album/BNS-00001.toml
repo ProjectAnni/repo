@@ -4,11 +4,11 @@ title = "THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 1巻 特典CD"
 artist = "七尾百合子（伊藤美来）、白石紬（南早紀）"
 date = 2018-10-31
 type = "normal"
-catalog = "ISBN-9784758016261"
+catalog = "BNS-00001"
 tags = ["THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song"]
 
 [[discs]]
-catalog = "ISBN-9784758016261"
+catalog = "BNS-00001"
 
 [[discs.tracks]]
 title = "地球儀にない国 -Live Sound Mix-"

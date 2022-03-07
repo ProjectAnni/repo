@@ -1,0 +1,63 @@
+[album]
+album_id = "fefa8620-f334-4c6c-b5aa-5126e800dd84"
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 09 Angel Stars"
+artist = "Various Artists"
+date = 2022-02-12
+type = "normal"
+catalog = "LACZ-10089"
+tags = ["THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10089"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "Special Wonderful Smile"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "Black★Party"
+artist = "北上麗花（平山笑美）"
+
+[[discs.tracks]]
+title = "ピコピコIIKO! インベーダー"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "フシギトラベラー"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "Get lol! Get lol! SONG"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+artist = "桜守歌織（香里有佐）"
+
+[[discs.tracks]]
+title = "旅立ちのコンパス"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+artist = "馬場このみ（髙橋ミナミ）"
+
+[[discs.tracks]]
+title = "ライラックにつつまれて"
+artist = "大神環（稲川英里）"
+
+[[discs.tracks]]
+title = "深紅のパシオン"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "brave HARMONY"
+artist = "篠宮可憐（近藤 唯）"
+
+[[discs.tracks]]
+title = "サンリズム・オーケストラ♪"
+artist = "伊吹 翼（Machico）"

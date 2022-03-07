@@ -5,10 +5,7 @@ artist = "シャイニーカラーズ"
 date = 2020-04-08
 type = "normal"
 catalog = "LACM-14982"
-tags = [
-  "THE IDOLM@STER Shiny Colors",
-  "THE IDOLM@STER SHINY COLORS GR@DATE WING"
-]
+tags = ["THE IDOLM@STER SHINY COLORS GR@DATE WING"]
 
 [[discs]]
 catalog = "LACM-14982"

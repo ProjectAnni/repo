@@ -1,0 +1,229 @@
+[album]
+album_id = "fee39d51-e86f-42ea-91a3-4a89499b01b9"
+title = "TVアニメ『白い砂のアクアトープ 』オリジナルサウンドトラック"
+artist = "出羽良彰"
+date = 2022-01-26
+type = "absolute"
+catalog = "LACA-9875~6"
+tags = ["白い砂のアクアトープ"]
+
+[[discs]]
+catalog = "LACA-9875"
+
+[[discs.tracks]]
+title = "まくとぅそーけ、なんくるないさ"
+
+[[discs.tracks]]
+title = "新しいスタート"
+
+[[discs.tracks]]
+title = "アクリルガラス"
+
+[[discs.tracks]]
+title = "くくる"
+
+[[discs.tracks]]
+title = "導かれるままに"
+
+[[discs.tracks]]
+title = "風花"
+
+[[discs.tracks]]
+title = "あきらめきれない夢"
+
+[[discs.tracks]]
+title = "アクアトープ"
+
+[[discs.tracks]]
+title = "がまがま水族館"
+
+[[discs.tracks]]
+title = "夏休み館長"
+
+[[discs.tracks]]
+title = "ひるまさん、、"
+
+[[discs.tracks]]
+title = "うどんちゃん"
+
+[[discs.tracks]]
+title = "くちばしの傷"
+
+[[discs.tracks]]
+title = "なくしかけてるくくるの夢"
+
+[[discs.tracks]]
+title = "夢を守るため"
+
+[[discs.tracks]]
+title = "ふたりの再出発"
+
+[[discs.tracks]]
+title = "ブルー"
+
+[[discs.tracks]]
+title = "フラッシュバック"
+
+[[discs.tracks]]
+title = "母と子"
+
+[[discs.tracks]]
+title = "バックヤード"
+
+[[discs.tracks]]
+title = "不審者"
+
+[[discs.tracks]]
+title = "隠せない動揺"
+
+[[discs.tracks]]
+title = "重なる心"
+
+[[discs.tracks]]
+title = "予感"
+
+[[discs.tracks]]
+title = "不穏な空気"
+
+[[discs.tracks]]
+title = "よんな～ よんな～"
+
+[[discs.tracks]]
+title = "まだ、大事な仕事が"
+
+[[discs.tracks]]
+title = "悲しみを堪えて"
+
+[[discs.tracks]]
+title = "ファーストペンギン"
+
+[[discs.tracks]]
+title = "久しぶりの休日"
+
+[[discs.tracks]]
+title = "真帆とくくる"
+
+[[discs.tracks]]
+title = "チョコ"
+
+[[discs.tracks]]
+title = "揺らぐ心"
+
+[[discs.tracks]]
+title = "漂流"
+
+[[discs.tracks]]
+title = "くくるの絶望"
+
+[[discs.tracks]]
+title = "夢の終わりと始まり"
+
+[[discs]]
+catalog = "LACA-9876"
+
+[[discs.tracks]]
+title = "Re_Start!!"
+
+[[discs.tracks]]
+title = "おそろいのキーホルダー"
+
+[[discs.tracks]]
+title = "アクアスフィア"
+
+[[discs.tracks]]
+title = "プランクトン"
+
+[[discs.tracks]]
+title = "タッチプール"
+
+[[discs.tracks]]
+title = "アクアリウム・ティンガーラ"
+
+[[discs.tracks]]
+title = "失敗の予感"
+
+[[discs.tracks]]
+title = "泣いてないよ、"
+
+[[discs.tracks]]
+title = "あなたがいるから"
+
+[[discs.tracks]]
+title = "レクリエーション"
+
+[[discs.tracks]]
+title = "ペンギンストライク"
+
+[[discs.tracks]]
+title = "OHANA"
+
+[[discs.tracks]]
+title = "ウミウシ採取"
+
+[[discs.tracks]]
+title = "カイシャ"
+
+[[discs.tracks]]
+title = "しらたま"
+
+[[discs.tracks]]
+title = "ここにいる理由"
+
+[[discs.tracks]]
+title = "限界かも、、"
+
+[[discs.tracks]]
+title = "知夢の憂鬱"
+
+[[discs.tracks]]
+title = "育児体験"
+
+[[discs.tracks]]
+title = "大事な一人息子"
+
+[[discs.tracks]]
+title = "知夢の告白"
+
+[[discs.tracks]]
+title = "海月風"
+
+[[discs.tracks]]
+title = "離島"
+
+[[discs.tracks]]
+title = "ルカの悩み"
+
+[[discs.tracks]]
+title = "積み重なるダメージ"
+
+[[discs.tracks]]
+title = "迷子のイルカ"
+
+[[discs.tracks]]
+title = "ウミガメの孵化"
+
+[[discs.tracks]]
+title = "イルカとの別れ"
+
+[[discs.tracks]]
+title = "未来へ"
+
+[[discs.tracks]]
+title = "たゆたえ、七色 (TV size)"
+artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
+type = "normal"
+
+[[discs.tracks]]
+title = "月海の揺り籠 (TV size)"
+artist = "Mia REGINA（霧島若歌、上花楓裏、ささかまリス子）"
+type = "normal"
+
+[[discs.tracks]]
+title = "とめどない潮騒に僕たちは何を歌うだろうか (TV size)"
+artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
+type = "normal"
+
+[[discs.tracks]]
+title = "新月のダ・カーポ (TV size)"
+artist = "相沢梨紗（でんぱ組.inc）"
+type = "normal"

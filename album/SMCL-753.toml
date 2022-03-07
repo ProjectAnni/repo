@@ -1,0 +1,25 @@
+[album]
+album_id = "1ab799bc-1663-4344-9fb6-05af5f56d38e"
+title = "彩色硝子"
+artist = "麻倉もも"
+date = 2022-03-02
+type = "normal"
+catalog = "SMCL-753"
+tags = ["麻倉もも"]
+
+[[discs]]
+catalog = "SMCL-753"
+
+[[discs.tracks]]
+title = "彩色硝子"
+
+[[discs.tracks]]
+title = "ネムイケド"
+
+[[discs.tracks]]
+title = "彩色硝子 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ネムイケド (Instrumental)"
+type = "instrumental"

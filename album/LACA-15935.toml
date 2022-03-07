@@ -1,0 +1,49 @@
+[album]
+album_id = "d89771c9-a939-4994-838f-a680ff73671c"
+title = "THE IDOLM@STER MILLION THE@TER SEASON CLEVER CLOVER"
+artist = "CLEVER CLOVER（箱崎星梨花（麻倉もも）、三浦あずさ（たかはし智秋）、高坂海美（上田麗奈）、ロコ（中村温姫）、菊地 真（平田宏美）、二階堂千鶴（野村香菜子）、島原エレナ（角元明日香）、真壁瑞希（阿部里果）、横山奈緒（渡部優衣）、馬場このみ（髙橋ミナミ）、秋月律子（若林直美）、大神環（稲川英里）、木下ひなた（田村奈央））"
+date = 2022-02-23
+type = "normal"
+catalog = "LACA-15935"
+tags = ["THE IDOLM@STER MILLION THE@TER SEASON"]
+
+[[discs]]
+catalog = "LACA-15935"
+
+[[discs.tracks]]
+title = "ドラマ『CLEVER CLOVER・再集合！』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Shamrock Vivace"
+
+[[discs.tracks]]
+title = "ドラマ『トークその１』"
+type = "drama"
+
+[[discs.tracks]]
+title = "産声とクラブ"
+artist = "箱崎星梨花（麻倉もも）、三浦あずさ（たかはし智秋）、高坂海美（上田麗奈）、ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "ドラマ『トークその２』"
+type = "drama"
+
+[[discs.tracks]]
+title = "トレフル・ド・ノエル"
+artist = "菊地真（平田宏美）、二階堂千鶴（野村香菜子）、島原エレナ（角元明日香）、真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "ドラマ『トーク（？）その３』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Clover's Cry ～神と神降ろしの少女～"
+artist = "横山奈緒（渡部優衣）、馬場このみ（髙橋ミナミ）、秋月律子（若林直美）、大神環（稲川英里）、木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "Harmony 4 You"
+
+[[discs.tracks]]
+title = "ドラマ『イベントの終わりに』"
+type = "drama"
