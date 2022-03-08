@@ -1,0 +1,21 @@
+[album]
+album_id = "53e2695d-1331-4261-b18e-07850782d63e"
+title = "THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 3巻 特典CD"
+artist = "七尾百合子（伊藤美来）、望月杏奈（夏川椎菜）"
+date = 2020-07-02
+type = "normal"
+catalog = "BNS-00003"
+tags = ["THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song"]
+
+[[discs]]
+catalog = "BNS-00003"
+
+[[discs.tracks]]
+title = "Large Size Party (Yuriko & Anna Vocal Ver.)"
+
+[[discs.tracks]]
+title = "Large Size Party (Yuriko & Anna Chorus Ver.)"
+
+[[discs.tracks]]
+title = "Large Size Party (Off Vocal Ver.)"
+type = "instrumental"

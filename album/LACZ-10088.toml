@@ -1,0 +1,63 @@
+[album]
+album_id = "96de031f-58c3-4af2-9de8-490bdf21c1e8"
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 09 Fairy Stars"
+artist = "Various Artists"
+date = 2022-02-12
+type = "normal"
+catalog = "LACZ-10088"
+tags = ["THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10088"
+
+[[discs.tracks]]
+title = "月曜日のクリームソーダ"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "絶対的Performer"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "I.D～EScape from Utopia～"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "矛盾の月"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "Cherry Colored Love"
+artist = "百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "FairyTaleじゃいられない"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "パンとフィルム"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "待ちぼうけのLacrima"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Arrive You 〜それが運命でも〜"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "White Vows"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "百花は月下に散りぬるを"
+artist = "白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "dans l'obscurité"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "Be proud"
+artist = "最上静香（田所あずさ）"

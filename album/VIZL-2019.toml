@@ -1,0 +1,34 @@
+[album]
+album_id = "57cab60a-27ba-48c6-b2d0-e7cbbb9f2b44"
+title = "Sound of the Bell／SUGAR×LEMONADE"
+edition = "初回限定盤B（シュガーポケッツ盤）"
+artist = "シュガーポケッツ、LiGHTs"
+date = 2022-02-23
+type = "normal"
+catalog = "VIZL-2019"
+tags = ["Lapis Re:LiGHTs", "シュガーポケッツ", "LiGHTs"]
+
+[[discs]]
+catalog = "VIZL-2019"
+
+[[discs.tracks]]
+title = "SUGAR×LEMONADE"
+artist = "シュガーポケッツ"
+
+[[discs.tracks]]
+title = "Sound of the Bell"
+artist = "LiGHTs"
+
+[[discs.tracks]]
+title = "SUGAR×LEMONADE -OFF VOCAL-"
+artist = "シュガーポケッツ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sound of the Bell -OFF VOCAL-"
+artist = "LiGHTs"
+type = "instrumental"
+
+[[discs.tracks]]
+title = '''シャノワール（ツカダタカシゲ's "Lapis Re:Toy Box" Remix）'''
+artist = "シュガーポケッツ"

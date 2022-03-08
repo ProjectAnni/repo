@@ -1,0 +1,29 @@
+[album]
+album_id = "6fed5b4e-bcf2-48d8-af16-92d75c0aed36"
+title = "花咲キオトメ"
+artist = "七花少女（榎並マドカ（藤井アユ美）、前園リシュリ（ルゥティン）、夜舞サヲリ（稲川英里）、雲巻モナカ（桜木アミサ）、白鳥トモエ（宝木久美）、逢原ミウ（高野麻里佳）、シャオ・ヘイフォン（森千早都））"
+date = 2019-03-20
+type = "normal"
+catalog = "VIZL-1562"
+tags = ["七花少女"]
+
+[[discs]]
+catalog = "VIZL-1562"
+
+[[discs.tracks]]
+title = "花咲キオトメ"
+
+[[discs.tracks]]
+title = "スノードロップ"
+
+[[discs.tracks]]
+title = "花咲キオトメ -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スノードロップ –OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "セブンデイズ・セブンフラワー（ドラマトラック）"
+type = "drama"

@@ -1,0 +1,29 @@
+[album]
+album_id = "d91b86ed-24ef-4c87-941d-164d1c0cef03"
+title = "マイ・グラデイション／SCARLET"
+artist = "七花少女、CASQUETTE’S"
+date = 2019-12-04
+type = "normal"
+catalog = "VIZL-1667"
+tags = ["七花少女", "CASQUETTE’S"]
+
+[[discs]]
+catalog = "VIZL-1667"
+
+[[discs.tracks]]
+title = "マイ・グラデイション"
+artist = "七花少女（榎並マドカ（藤井アユ美）、前園リシュリ（ルゥティン）、夜舞サヲリ（稲川英里）、雲巻モナカ（桜木アミサ）、白鳥トモエ（宝木久美）、逢原ミウ（高野麻里佳）、シャオ・ヘイフォン（森千早都））"
+
+[[discs.tracks]]
+title = "SCARLET"
+artist = "CASQUETTE’S（川澄シサラ（末柄里恵）、浅見ミワコ（優木かな）、鳳チャチャ（大地葉）、二川ミミ（齋藤綾））"
+
+[[discs.tracks]]
+title = "マイ・グラデイション -OFF VOCAL-"
+artist = "七花少女"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SCARLET -OFF VOCAL-"
+artist = "CASQUETTE’S"
+type = "instrumental"

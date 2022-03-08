@@ -1,0 +1,18 @@
+[album]
+album_id = "aaa9b9b0-ebf2-4c99-87a1-65e007a1233f"
+title = "THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 4巻 特典CD"
+artist = "佐竹美奈子（大関英里）、真壁瑞希（阿部里果）"
+date = 2021-07-09
+type = "normal"
+catalog = "BNS-00004"
+tags = ["THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song"]
+
+[[discs]]
+catalog = "BNS-00004"
+
+[[discs.tracks]]
+title = "Little Match Girl (Minako & Mizuki Vocal Ver.)"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+type = "drama"
