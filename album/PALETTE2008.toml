@@ -1,0 +1,188 @@
+[album]
+album_id = "35bc2ccd-c58a-4798-9f9d-ffc40fd0c438"
+title = "9-nine- Sound Premium Record"
+artist = "ぱれっと"
+date = 2020-08-15
+type = "normal"
+catalog = "PALETTE2008"
+tags = ["9-nine-"]
+
+[[discs]]
+catalog = "@PALETTE2008-01"
+
+[[discs.tracks]]
+title = "ReAliZe"
+
+[[discs.tracks]]
+title = "ふたり"
+
+[[discs.tracks]]
+title = "ソラノキオク"
+
+[[discs.tracks]]
+title = "ここにある空"
+
+[[discs.tracks]]
+title = "ハルトキ～Spring Moment～"
+
+[[discs.tracks]]
+title = "そして愛になる"
+
+[[discs.tracks]]
+title = "DEAR MY WAKER"
+
+[[discs.tracks]]
+title = "Squall"
+
+[[discs.tracks]]
+title = "Be braver!"
+
+[[discs]]
+catalog = "@PALETTE2008-02"
+type = "absolute"
+
+[[discs.tracks]]
+title = "drowsing morning"
+
+[[discs.tracks]]
+title = "as always as usual"
+
+[[discs.tracks]]
+title = "under the moon"
+
+[[discs.tracks]]
+title = "with sweetness"
+
+[[discs.tracks]]
+title = "dance! dance! dance!"
+
+[[discs.tracks]]
+title = "can't wait daybreak"
+
+[[discs.tracks]]
+title = "uneasiness"
+
+[[discs.tracks]]
+title = "scent of danger"
+
+[[discs.tracks]]
+title = "unavoidable"
+
+[[discs.tracks]]
+title = "I have you..."
+
+[[discs.tracks]]
+title = "make the heart grow fonder"
+
+[[discs.tracks]]
+title = "dream moments"
+
+[[discs.tracks]]
+title = "signpost"
+
+[[discs.tracks]]
+title = "ReAliZe (Piano ver.)"
+
+[[discs.tracks]]
+title = "Innocence!"
+
+[[discs.tracks]]
+title = "Lively so"
+
+[[discs.tracks]]
+title = "never forget"
+
+[[discs.tracks]]
+title = "The pea conflict"
+
+[[discs.tracks]]
+title = "sidedness breeze"
+
+[[discs.tracks]]
+title = "sacred Warmth"
+
+[[discs.tracks]]
+title = "Zepto EarnesT"
+
+[[discs.tracks]]
+title = "Sanity extraneous"
+
+[[discs.tracks]]
+title = "ソラノキオク (Piano ver.)"
+
+[[discs.tracks]]
+title = "ハルトキ (Piano ver.)"
+
+[[discs.tracks]]
+title = "Strict resT"
+
+[[discs.tracks]]
+title = "fellow assembly"
+
+[[discs.tracks]]
+title = "mile likelihood"
+
+[[discs.tracks]]
+title = "DEAR MY WAKER (Piano ver.)"
+
+[[discs]]
+catalog = "@PALETTE2008-03"
+
+[[discs.tracks]]
+title = "Lovesick Magic"
+
+[[discs.tracks]]
+title = "Sweet Pop"
+
+[[discs.tracks]]
+title = "floating Heart"
+
+[[discs.tracks]]
+title = "The Order…"
+
+[[discs.tracks]]
+title = "9-nine-キャラソン記念ドラマCD～ロイヤルスイート!?高級ホテルでお泊り会～"
+type = "drama"
+
+[[discs]]
+catalog = "@PALETTE2008-04"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ReAliZe (inst)"
+
+[[discs.tracks]]
+title = "ふたり (inst)"
+
+[[discs.tracks]]
+title = "ソラノキオク (inst)"
+
+[[discs.tracks]]
+title = "ここにある空 (inst)"
+
+[[discs.tracks]]
+title = "ハルトキ～Spring Moment～ (inst)"
+
+[[discs.tracks]]
+title = "そして愛になる (inst)"
+
+[[discs.tracks]]
+title = "DEAR MY WAKER (inst)"
+
+[[discs.tracks]]
+title = "Squall (inst)"
+
+[[discs.tracks]]
+title = "Be braver! (inst)"
+
+[[discs.tracks]]
+title = "Lovesick Magic (inst)"
+
+[[discs.tracks]]
+title = "Sweet Pop (inst)"
+
+[[discs.tracks]]
+title = "floating Heart (inst)"
+
+[[discs.tracks]]
+title = "The Order… (inst)"
