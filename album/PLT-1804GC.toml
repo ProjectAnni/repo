@@ -1,9 +1,11 @@
 [album]
+album_id = "7b29706e-f543-4491-a90f-222eac8f6bd7"
 title = "9-nine-そらいろそらうたそらのおと げっちゅ屋様限定有償特典 「天ちゃんと行く、焼肉食べ放題！」"
 artist = "新海天（沢澤砂羽（種﨑敦美））"
 date = 2018-04-27
 type = "drama"
 catalog = "PLT-1804GC"
+tags = ["9-nine-"]
 
 [[discs]]
 catalog = "PLT-1804GC"

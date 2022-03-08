@@ -1,9 +1,11 @@
 [album]
+album_id = "4e15dddc-c2b8-4d7d-98c9-f05544f5971b"
 title = "9-nine- ここのつここのかここのいろ オリジナルサウンドトラック"
 artist = "ぱれっと"
 date = 2017-08-11
 type = "absolute"
 catalog = "PALETTE1708"
+tags = ["9-nine-"]
 
 [[discs]]
 catalog = "PALETTE1708"

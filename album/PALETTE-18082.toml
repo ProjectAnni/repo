@@ -1,9 +1,11 @@
 [album]
+album_id = "8095f4b4-b95a-413b-aa4f-c84631bb6e2d"
 title = "9-nine-そらいろそらうたそらのおと C94グッズセット・スペシャルCD"
 artist = "ぱれっと"
 date = 2018-08-10
 type = "normal"
 catalog = "PALETTE-18082"
+tags = ["9-nine-"]
 
 [[discs]]
 catalog = "PALETTE-18082"
