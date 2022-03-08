@@ -13,16 +13,20 @@ catalog = "VIZL-2018"
 
 [[discs.tracks]]
 title = "Sound of the Bell"
+artist = "LiGHTs"
 
 [[discs.tracks]]
 title = "SUGAR×LEMONADE"
+artist = "シュガーポケッツ"
 
 [[discs.tracks]]
 title = "Sound of the Bell -OFF VOCAL-"
+artist = "LiGHTs"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "SUGAR×LEMONADE -OFF VOCAL-"
+artist = "シュガーポケッツ"
 type = "instrumental"
 
 [[discs.tracks]]
