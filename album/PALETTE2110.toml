@@ -1,0 +1,98 @@
+[album]
+album_id = "dcd2e88f-0b21-4c5b-837f-dc4ba2b24ec5"
+title = "9-nine- Symphonic Concert All Songs Collection"
+artist = "ぱれっと"
+date = 2021-10-17
+type = "normal"
+catalog = "PALETTE2110"
+tags = ["9-nine-"]
+
+[[discs]]
+catalog = "@PALETTE2110-01"
+artist = "アブカワオサム"
+type = "absolute"
+
+[[discs.tracks]]
+title = "drowsing morning"
+
+[[discs.tracks]]
+title = "dance! dance! dance!"
+
+[[discs.tracks]]
+title = "Lively so"
+
+[[discs.tracks]]
+title = "sidedness breeze"
+
+[[discs.tracks]]
+title = "Innocence!"
+
+[[discs.tracks]]
+title = "Sanity extraneous"
+
+[[discs.tracks]]
+title = "unavoidable"
+
+[[discs.tracks]]
+title = "The pea conflict"
+
+[[discs.tracks]]
+title = "can't wait daybreak"
+
+[[discs.tracks]]
+title = "with sweetness"
+
+[[discs.tracks]]
+title = "I have you..."
+
+[[discs.tracks]]
+title = "never forget"
+
+[[discs.tracks]]
+title = "Zepto EarnesT"
+
+[[discs.tracks]]
+title = "mile likelihood"
+
+[[discs.tracks]]
+title = "sacred Warmth"
+
+[[discs.tracks]]
+title = "under the moon"
+
+[[discs]]
+catalog = "@PALETTE2110-02"
+artist = "米仓千寻"
+
+[[discs.tracks]]
+title = "InFINITE Line"
+
+[[discs.tracks]]
+title = "ReAliZe"
+
+[[discs.tracks]]
+title = "ふたり"
+
+[[discs.tracks]]
+title = "ソラノキオク"
+
+[[discs.tracks]]
+title = "ここにある空"
+
+[[discs.tracks]]
+title = "ハルトキ～Spring Moment～"
+
+[[discs.tracks]]
+title = "そして愛になる"
+
+[[discs.tracks]]
+title = "DEAR MY WAKER"
+
+[[discs.tracks]]
+title = "Squall"
+
+[[discs.tracks]]
+title = "Be braver!"
+
+[[discs.tracks]]
+title = "InFINITE Line～Grand ver.～"

@@ -9,6 +9,7 @@ tags = ["9-nine-"]
 
 [[discs]]
 catalog = "@PALETTE2008-01"
+artist = "米仓千寻"
 
 [[discs.tracks]]
 title = "ReAliZe"
@@ -39,6 +40,7 @@ title = "Be braver!"
 
 [[discs]]
 catalog = "@PALETTE2008-02"
+artist = "山口たこ、田中俊裕"
 type = "absolute"
 
 [[discs.tracks]]
@@ -130,15 +132,19 @@ catalog = "@PALETTE2008-03"
 
 [[discs.tracks]]
 title = "Lovesick Magic"
+artists = "九条都（澤田なつ）"
 
 [[discs.tracks]]
 title = "Sweet Pop"
+artist = "新海天（沢澤砂羽）"
 
 [[discs.tracks]]
 title = "floating Heart"
+artist = "香坂春風（渚しろな）"
 
 [[discs.tracks]]
 title = "The Order…"
+artist = "結城希亜（夏和小）"
 
 [[discs.tracks]]
 title = "9-nine-キャラソン記念ドラマCD～ロイヤルスイート!?高級ホテルでお泊り会～"
