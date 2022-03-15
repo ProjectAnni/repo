@@ -1,0 +1,14 @@
+[album]
+album_id = "bb37df37-576e-401c-8ad5-0515607fb900"
+title = "9-nine- オリジナルドラマCD「第一回！チキチキ！たこ焼きパーティー」"
+artist = "九条都（澤田なつ（福圓美里））、新海天（沢澤砂羽（種﨑敦美））、香坂春風（渚しろな（山岡ゆり））、結城希亜（夏和小（藤田茜））"
+date = 2021-04-23
+type = "drama"
+catalog = "PALETTE2104-3"
+tags = ["9-nine-"]
+
+[[discs]]
+catalog = "PALETTE2104-3"
+
+[[discs.tracks]]
+title = "チキチキ！たこ焼きパーティー"
