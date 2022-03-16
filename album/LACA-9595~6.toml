@@ -123,6 +123,7 @@ title = "wind,glass,girls,"
 
 [[discs.tracks]]
 title = "girls,dance,staircase"
+type = "normal"
 
 [[discs]]
 catalog = "LACA-9596"
