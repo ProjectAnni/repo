@@ -1,0 +1,77 @@
+[album]
+album_id = "4e15dddc-c2b8-4d7d-98c9-f05544f5971b"
+title = "9-nine- ここのつここのかここのいろ オリジナルサウンドトラック"
+artist = "ぱれっと"
+date = 2017-08-11
+type = "absolute"
+catalog = "PALETTE1708"
+tags = ["9-nine-"]
+
+[[discs]]
+catalog = "PALETTE1708"
+
+[[discs.tracks]]
+title = "ReAliZe"
+artist = "米倉千尋"
+type = "normal"
+
+[[discs.tracks]]
+title = "drowsing morning"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "as always, as usual"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "under the moon"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "with sweetness"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "dance! dance! dance!"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "can't wait daybreak"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "uneasiness"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "scent of danger"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "unavoidable"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "signpost"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "I have you..."
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "make the heart grow fonder"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "dream moments"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "ReAliZe (Piano ver.)"
+artist = "山口たこ、田中俊裕"
+
+[[discs.tracks]]
+title = "ふたり"
+artist = "米倉千尋"
+type = "normal"
