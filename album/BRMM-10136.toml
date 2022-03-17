@@ -1,0 +1,25 @@
+[album]
+album_id = "3cb89fcb-597a-45d5-ad76-db52e5739046"
+title = "Don't be afraid!"
+artist = "Glitter*Green（牛込ゆり（三森すずこ）、鵜沢リィ（橘田いずみ）、鰐部七菜（佐々木未来）、二十騎ひなこ（徳井青空））"
+date = 2018-11-21
+type = "normal"
+catalog = "BRMM-10136"
+tags = ["Glitter*Green"]
+
+[[discs]]
+catalog = "BRMM-10136"
+
+[[discs.tracks]]
+title = "Don't be afraid!"
+
+[[discs.tracks]]
+title = "Glee! Glee! Glee!"
+
+[[discs.tracks]]
+title = "Don't be afraid! -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Glee! Glee! Glee! -instrumental-"
+type = "instrumental"
