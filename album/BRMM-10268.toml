@@ -1,0 +1,47 @@
+[album]
+album_id = "78778a70-204f-4369-837e-a1e62ed94323"
+title = "ERA"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+date = 2020-08-19
+type = "normal"
+catalog = "BRMM-10268"
+tags = ["RAISE A SUILEN"]
+
+[[discs]]
+catalog = "BRMM-10268"
+
+[[discs.tracks]]
+title = "Invincible Fighter"
+
+[[discs.tracks]]
+title = "A DECLARATION OF ×××"
+
+[[discs.tracks]]
+title = "SOUL SOLDIER"
+
+[[discs.tracks]]
+title = "UNSTOPPABLE"
+
+[[discs.tracks]]
+title = "HELL! or HELL?"
+
+[[discs.tracks]]
+title = "Beautiful Birthday"
+
+[[discs.tracks]]
+title = "Takin' my Heart"
+
+[[discs.tracks]]
+title = "DRIVE US CRAZY"
+
+[[discs.tracks]]
+title = "!NVADE SHOW!"
+
+[[discs.tracks]]
+title = "REIGNING"
+
+[[discs.tracks]]
+title = "EXPOSE 'Burn out!!!'"
+
+[[discs.tracks]]
+title = "R・I・O・T"

@@ -1,0 +1,71 @@
+[album]
+album_id = "0cd14fe5-e777-4198-8a9b-537b03e372fa"
+title = "RAISE A SUILEN Instrumental Collection 1"
+artist = "RAISE A SUILEN"
+date = 2022-01-15
+type = "instrumental"
+catalog = "BRMM-94127"
+tags = ["RAISE A SUILEN"]
+
+[[discs]]
+catalog = "BRMM-94127"
+
+[[discs.tracks]]
+title = "R・I・O・T -Instrumental-"
+
+[[discs.tracks]]
+title = "UNSTOPPABLE -Instrumental-"
+
+[[discs.tracks]]
+title = "A DECLARATION OF ××× -Instrumental-"
+
+[[discs.tracks]]
+title = "EXPOSE 'Burn out!!!' -Instrumental-"
+
+[[discs.tracks]]
+title = "Invincible Fighter -Instrumental-"
+
+[[discs.tracks]]
+title = "Takin' my Heart -Instrumental-"
+
+[[discs.tracks]]
+title = "DRIVE US CRAZY -Instrumental-"
+
+[[discs.tracks]]
+title = "HELL! or HELL? -Instrumental-"
+
+[[discs.tracks]]
+title = "SOUL SOLDIER -Instrumental-"
+
+[[discs.tracks]]
+title = "Beautiful Birthday -Instrumental-"
+
+[[discs.tracks]]
+title = "!NVADE SHOW! -Instrumental-"
+
+[[discs.tracks]]
+title = "Sacred world -Instrumental-"
+
+[[discs.tracks]]
+title = "REIGNING -Instrumental-"
+
+[[discs.tracks]]
+title = "mind of Prominence -Instrumental-"
+
+[[discs.tracks]]
+title = "JUST THE WAY I AM -Instrumental-"
+
+[[discs.tracks]]
+title = "EXIST -Instrumental-"
+
+[[discs.tracks]]
+title = "Embrace of light -Instrumental-"
+
+[[discs.tracks]]
+title = "OUTSIDER RODEO -Instrumental-"
+
+[[discs.tracks]]
+title = "Domination to world -Instrumental-"
+
+[[discs.tracks]]
+title = "灼熱 Bonfire! -Instrumental-"
