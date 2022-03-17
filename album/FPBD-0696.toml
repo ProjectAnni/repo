@@ -1,0 +1,14 @@
+[album]
+album_id = "f5c0dc96-d406-41e3-a7d5-af626e3a9bdf"
+title = "Easy Life, Easy Curry -カレーメシのうた-"
+artist = "亜咲花"
+date = 2022-03-11
+type = "normal"
+catalog = "FPBD-0696"
+tags = ["ゆるキャン△"]
+
+[[discs]]
+catalog = "FPBD-0696"
+
+[[discs.tracks]]
+title = "Easy Life, Easy Curry -カレーメシのうた-"
