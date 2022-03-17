@@ -1,0 +1,122 @@
+[album]
+album_id = "a7622b5d-71b0-487a-b288-5379cf56d811"
+title = "BanG Dream! Dreamer's Best"
+artist = "Various Artists"
+date = 2022-03-16
+type = "normal"
+catalog = "BRMM-10512"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "@BRMM-10512-01"
+
+[[discs.tracks]]
+title = "キズナミュージック♪"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "Returns"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "イニシャル"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "Y.O.L.O！！！！！"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+
+[[discs.tracks]]
+title = "Hey-day狂騒曲(カプリチオ)"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+
+[[discs.tracks]]
+title = "Sasanqua"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+
+[[discs.tracks]]
+title = "天下トーイツA to Z☆"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "もういちど ルミナス"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "ゆら・ゆらRing-Dong-Dance"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "クインティプル☆すまいる"
+artist = "戸山香澄（愛美）、美竹蘭（佐倉綾音）、丸山彩（前島亜美）、湊友希那（相羽あいな）、弦巻こころ（伊藤美来）"
+
+[[discs.tracks]]
+title = "TWiNKLE CiRCLE"
+artist = "戸山香澄（愛美）、美竹蘭（佐倉綾音）、丸山彩（前島亜美）、湊友希那（相羽あいな）、弦巻こころ（伊藤美来）"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！(3rd Season #13 Full Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））、Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））、RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "CiRCLE THANKS MUSiC♪"
+artist = "CiRCLE THANKS PARTY！スペシャルバンド（Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））、Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））、Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））、Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））、ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））、Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））、RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐））））"
+
+[[discs]]
+catalog = "@BRMM-10512-02"
+
+[[discs.tracks]]
+title = "FIRE BIRD"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+
+[[discs.tracks]]
+title = "R"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+
+[[discs.tracks]]
+title = "Ringing Bloom"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "うぃーきゃん☆フレフレっ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "キミがいなくちゃっ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "Daylight -デイライト-"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+
+[[discs.tracks]]
+title = "flame of hope"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+
+[[discs.tracks]]
+title = "ブルームブルーム"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+
+[[discs.tracks]]
+title = "EXPOSE 'Burn out!!!'"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "Beautiful Birthday"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "HELL! or HELL?"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "ひとりじゃないんだから"
+artist = "丸山彩（前島亜美）、青葉モカ（三澤紗千香）、今井リサ（中島由貴）、松原花音（豊田萌絵）、羽沢つぐみ（金元寿子）"
+
+[[discs.tracks]]
+title = "CATASTROPHE BANQUET"
+artist = "レイヤ（和奏レイ（Raychell））、氷川紗夜（工藤晴香）、山吹沙綾（大橋彩香）、ミッシェル（奥沢美咲（黒沢ともよ））、八潮瑠唯（Ayasa）"

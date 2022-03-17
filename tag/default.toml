@@ -101,12 +101,6 @@ name = "鈴木このみ"
 # Group
 #
 [[tag]]
-name = "Morfonica"
-
-[[tag]]
-name = "Roselia"
-
-[[tag]]
 name = "少女☆歌劇 レヴュースタァライト"
 includes = ["劇場版 少女☆歌劇 レヴュースタァライト"]
 
@@ -127,9 +121,6 @@ name = "TrySail"
 
 [[tag]]
 name = "DIALOGUE+"
-
-[[tag]]
-name = "Poppin'Party"
 
 [[tag]]
 name = "でんぱ組.inc"
