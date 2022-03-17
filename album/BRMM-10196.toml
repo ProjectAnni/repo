@@ -1,0 +1,25 @@
+[album]
+album_id = "ac296f0a-9bf8-44c6-ab94-8a2efa2887bb"
+title = "えがお・シング・あ・ソング"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2019-08-21
+type = "normal"
+catalog = "BRMM-10196"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10196"
+
+[[discs.tracks]]
+title = "えがお・シング・あ・ソング"
+
+[[discs.tracks]]
+title = "はれやか すこやか ぴかりんりん♪"
+
+[[discs.tracks]]
+title = "えがお・シング・あ・ソング -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "はれやか すこやか ぴかりんりん♪ -instrumental-"
+type = "instrumental"

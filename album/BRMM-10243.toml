@@ -1,0 +1,25 @@
+[album]
+album_id = "f410bdcd-27c0-49c7-a017-2b2fbd2f57dc"
+title = "にこ×にこ=ハイパースマイルパワー！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2020-03-18
+type = "normal"
+catalog = "BRMM-10243"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10243"
+
+[[discs.tracks]]
+title = "にこ×にこ=ハイパースマイルパワー！"
+
+[[discs.tracks]]
+title = "おもいでイルミネーション"
+
+[[discs.tracks]]
+title = "にこ×にこ=ハイパースマイルパワー！ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おもいでイルミネーション -instrumental-"
+type = "instrumental"

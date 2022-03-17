@@ -1,0 +1,29 @@
+[album]
+album_id = "29bd3807-7bbe-44a6-a0bd-e28d5de75f1b"
+title = "えがおのオーケストラっ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2017-08-02
+type = "normal"
+catalog = "BRMM-10093"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10093"
+
+[[discs.tracks]]
+title = "えがおのオーケストラっ！"
+
+[[discs.tracks]]
+title = "ハピネスっ！ハピィーマジカルっ♪"
+
+[[discs.tracks]]
+title = "えがおのオーケストラっ！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハピネスっ！ハピィーマジカルっ♪ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドラマパート「奇想天外!? 初めての作曲」"
+type = "drama"

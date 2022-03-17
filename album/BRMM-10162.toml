@@ -1,0 +1,25 @@
+[album]
+album_id = "79acb77f-e947-4e12-b7d9-e6ca18f3397f"
+title = "ハイファイブ∞あどべんちゃっ"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2019-02-20
+type = "normal"
+catalog = "BRMM-10162"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10162"
+
+[[discs.tracks]]
+title = "ハイファイブ∞あどべんちゃっ"
+
+[[discs.tracks]]
+title = "ふわふわ☆ゆめいろサンドイッチ"
+
+[[discs.tracks]]
+title = "ハイファイブ∞あどべんちゃっ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふわふわ☆ゆめいろサンドイッチ -instrumental-"
+type = "instrumental"

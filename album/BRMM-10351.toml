@@ -1,0 +1,44 @@
+[album]
+album_id = "d3a0eb80-8552-4b97-8fbf-fff3b2254991"
+title = "にこにこねくと！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2021-07-14
+type = "normal"
+catalog = "BRMM-10351"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10351"
+
+[[discs.tracks]]
+title = "キミがいなくちゃっ！"
+
+[[discs.tracks]]
+title = "ハイファイブ∞あどべんちゃっ"
+
+[[discs.tracks]]
+title = "スマイルブーケで た〜まや〜！"
+
+[[discs.tracks]]
+title = "えがお・シング・あ・ソング"
+
+[[discs.tracks]]
+title = "YAPPY！SCHOOL CARNIVAL☆彡"
+
+[[discs.tracks]]
+title = "にこ×にこ=ハイパースマイルパワー！"
+
+[[discs.tracks]]
+title = "ないすみちゅっ！"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！"
+
+[[discs.tracks]]
+title = "うぃーきゃん☆フレフレっ！"
+
+[[discs.tracks]]
+title = "えがおのオーケストラっ！"
+
+[[discs.tracks]]
+title = "にこにこねくと！"
