@@ -1,0 +1,29 @@
+[album]
+album_id = "7a0ed387-e63f-416f-8b63-5bf342798b43"
+title = "That Is How I Roll!"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2017-09-06
+type = "normal"
+catalog = "BRMM-10097"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "BRMM-10097"
+
+[[discs.tracks]]
+title = "That Is How I Roll!"
+
+[[discs.tracks]]
+title = "True color"
+
+[[discs.tracks]]
+title = "That Is How I Roll! -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "True color -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドラマパート「バラードってどうだろう？」"
+type = "drama"

@@ -1,0 +1,44 @@
+[album]
+album_id = "b49097c5-6b8d-44d1-9a15-041f5c72ce74"
+title = "ONE OF US"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2021-03-24
+type = "normal"
+catalog = "BRMM-10347"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "BRMM-10347"
+
+[[discs.tracks]]
+title = "ON YOUR MARK"
+
+[[discs.tracks]]
+title = "That is How I Roll!"
+
+[[discs.tracks]]
+title = "SENSENFUKOKU"
+
+[[discs.tracks]]
+title = "I knew it!"
+
+[[discs.tracks]]
+title = "ツナグ、ソラモヨウ"
+
+[[discs.tracks]]
+title = "Hey-day狂騒曲(カプリチオ)"
+
+[[discs.tracks]]
+title = "Easy come, Easy go！"
+
+[[discs.tracks]]
+title = "Sasanqua"
+
+[[discs.tracks]]
+title = "RED RED RED"
+
+[[discs.tracks]]
+title = "ONE OF US"
+
+[[discs.tracks]]
+title = "Y.O.L.O！！！！！"

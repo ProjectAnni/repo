@@ -1,0 +1,25 @@
+[album]
+album_id = "02734335-160d-4fbd-99c2-41dc00b3782a"
+title = "Y.O.L.O！！！！！"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2019-02-20
+type = "normal"
+catalog = "BRMM-10166"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "BRMM-10166"
+
+[[discs.tracks]]
+title = "Y.O.L.O！！！！！"
+
+[[discs.tracks]]
+title = "COMIC PANIC!!!"
+
+[[discs.tracks]]
+title = "Y.O.L.O！！！！！ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "COMIC PANIC!!! -instrumental-"
+type = "instrumental"
