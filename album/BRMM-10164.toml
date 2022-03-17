@@ -1,0 +1,25 @@
+[album]
+album_id = "f08dcb47-06ca-4319-9a77-29db4dc93453"
+title = "天下卜ーイツA to Z☆"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2019-02-20
+type = "normal"
+catalog = "BRMM-10164"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10164"
+
+[[discs.tracks]]
+title = "天下卜ーイツA to Z☆"
+
+[[discs.tracks]]
+title = "Wonderland Girl"
+
+[[discs.tracks]]
+title = "天下卜ーイツA to Z☆ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wonderland Girl -instrumental-"
+type = "instrumental"

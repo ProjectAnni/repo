@@ -1,0 +1,25 @@
+[album]
+album_id = "3185f3e6-05b0-4e35-96cd-a6a7e8ebb124"
+title = "ゆめゆめグラデーション"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2020-09-30
+type = "normal"
+catalog = "BRMM-10283"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10283"
+
+[[discs.tracks]]
+title = "ゆめゆめグラデーション"
+
+[[discs.tracks]]
+title = "Wonderful Sweet！"
+
+[[discs.tracks]]
+title = "ゆめゆめグラデーション -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wonderful Sweet！ -instrumental-"
+type = "instrumental"
