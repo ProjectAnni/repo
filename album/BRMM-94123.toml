@@ -1,7 +1,7 @@
 [album]
 album_id = "d81ce908-4d98-422a-9207-9db6c9b6dbe7"
 title = "Pastel＊Palettes Instrumental Collection 1"
-artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+artist = "Pastel＊Palettes"
 date = 2022-01-15
 type = "instrumental"
 catalog = "BRMM-94123"
@@ -12,6 +12,7 @@ catalog = "BRMM-94123"
 
 [[discs.tracks]]
 title = "しゅわりん☆どり～みん -Instrumental-"
+artist = "Pastel＊Palettes"
 
 [[discs.tracks]]
 title = "パスパレボリューションず☆ -Instrumental-"
