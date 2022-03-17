@@ -1,0 +1,47 @@
+[album]
+album_id = "45069ab3-e470-4a1a-9c8c-0dbc2d9b7a14"
+title = "シャッフル -Bright 3 Waves-"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2022-03-16
+type = "normal"
+catalog = "SMCL-708"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "SMCL-708"
+
+[[discs.tracks]]
+title = "Skyreach"
+artist = "麻倉もも"
+
+[[discs.tracks]]
+title = "パンプキン・ミート・パイ"
+artist = "雨宮天"
+
+[[discs.tracks]]
+title = "イエローフラッグ"
+artist = "麻倉もも、雨宮天"
+
+[[discs.tracks]]
+title = "Fanfare!!"
+artist = "夏川椎菜"
+
+[[discs.tracks]]
+title = "フワリ、コロリ、カラン、コロン"
+artist = "麻倉もも"
+
+[[discs.tracks]]
+title = "VIPER"
+artist = "麻倉もも、夏川椎菜"
+
+[[discs.tracks]]
+title = "Silent Sword"
+artist = "夏川椎菜"
+
+[[discs.tracks]]
+title = "ラブリルブラ"
+artist = "雨宮天"
+
+[[discs.tracks]]
+title = "ユメシンデレラ"
+artist = "雨宮天、夏川椎菜"

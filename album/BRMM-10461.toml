@@ -1,0 +1,25 @@
+[album]
+album_id = "26f3f48e-6b46-4e39-adee-2d7225e9bc06"
+title = "ニジイロストーリーズ／ワンスアポンアドリーム"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、メイコ、KAITO、鏡音レン"
+date = 2022-03-16
+type = "normal"
+catalog = "BRMM-10461"
+tags = ["ワンダーランズ×ショウタイム"]
+
+[[discs]]
+catalog = "BRMM-10461"
+
+[[discs.tracks]]
+title = "ニジイロストーリーズ"
+
+[[discs.tracks]]
+title = "ワンスアポンアドリーム"
+
+[[discs.tracks]]
+title = "ニジイロストーリーズ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ワンスアポンアドリーム (instrumental)"
+type = "instrumental"
