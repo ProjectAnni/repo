@@ -1,0 +1,14 @@
+[album]
+album_id = "c44822d1-d266-4220-8bb5-b62253d4c7bc"
+title = "前へススメ! オリジナルCD ～山吹沙綾ソロVer.～"
+artist = "山吹沙綾（大橋彩香）"
+date = 2017-11-22
+type = "normal"
+catalog = "TGCS-10390"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "TGCS-10390"
+
+[[discs.tracks]]
+title = "前へススメ! ～山吹沙綾ソロVer.～"

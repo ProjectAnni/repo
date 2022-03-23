@@ -1,0 +1,36 @@
+[album]
+album_id = "90cca85f-af4d-405c-b9ce-7dbc63319adb"
+title = "NO GIRL NO CRY"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））、SILENT SIREN（吉田菫、梅村妃奈子、山内あいな、黒坂優香子）"
+date = 2019-07-31
+type = "normal"
+catalog = "BRMM-10205"
+tags = ["Poppin'Party", "SILENT SIREN"]
+
+[[discs]]
+catalog = "BRMM-10205"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (Poppin'Party × SILENT SIREN ver.)"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (Poppin'Party ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (SILENT SIREN ver.)"
+artist = "SILENT SIREN（吉田菫、梅村妃奈子、山内あいな、黒坂優香子）"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (Poppin'Party × SILENT SIREN ver.) -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (Poppin'Party ver.) -instrumental-"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "NO GIRL NO CRY (SILENT SIREN ver.) -instrumental-"
+artist = "SILENT SIREN（吉田菫、梅村妃奈子、山内あいな、黒坂優香子）"
+type = "instrumental"

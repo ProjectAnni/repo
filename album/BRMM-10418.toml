@@ -1,0 +1,23 @@
+[album]
+album_id = "a0db6f3c-c1ef-4608-bfe9-d74df585c946"
+title = "BanG Dream! アルバム3タイトル連動購入特典CD Afterglow"
+artist = "Various Artists"
+date = 2021-07-14
+type = "normal"
+catalog = "BRMM-10418"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10418"
+
+[[discs.tracks]]
+title = "青い栞"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "ドリームパレード"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "太陽曰く燃えよカオス"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"

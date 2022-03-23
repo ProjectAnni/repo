@@ -1,0 +1,25 @@
+[album]
+album_id = "b0b7263c-567f-4ddb-ae84-d0020593852f"
+title = "ピコっと！パピっと！！ガルパ☆ピコ！！！"
+artist = "戸山香澄（愛美）、美竹蘭（佐倉綾音）、丸山彩（前島亜美）、湊友希那（相羽あいな）、弦巻こころ（伊藤美来）"
+date = 2018-08-22
+type = "normal"
+catalog = "BRMM-10131"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10131"
+
+[[discs.tracks]]
+title = "ピコっと！パピっと！！ガルパ☆ピコ！！！"
+
+[[discs.tracks]]
+title = "クインティプル☆すまいる"
+
+[[discs.tracks]]
+title = "ピコっと！パピっと！！ガルパ☆ピコ！！！ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "クインティプル☆すまいる-instrumental-"
+type = "instrumental"
