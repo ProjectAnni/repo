@@ -1,0 +1,32 @@
+[album]
+album_id = "0576acd3-f605-4b68-a2fe-a117b0b16de3"
+title = "Morfonica Instrumental Collection 1"
+artist = "Morfonica"
+date = 2022-01-15
+type = "instrumental"
+catalog = "BRMM-94126"
+tags = ["Morfonica"]
+
+[[discs]]
+catalog = "BRMM-94126"
+
+[[discs.tracks]]
+title = "Daylight -デイライト- -Instrumental-"
+
+[[discs.tracks]]
+title = "金色へのプレリュード -Instrumental-"
+
+[[discs.tracks]]
+title = "ブルームブルーム -Instrumental-"
+
+[[discs.tracks]]
+title = "flame of hope -Instrumental-"
+
+[[discs.tracks]]
+title = "ハーモニー・デイ -Instrumental-"
+
+[[discs.tracks]]
+title = "Sonorous -Instrumental-"
+
+[[discs.tracks]]
+title = "Fateful… -Instrumental-"
