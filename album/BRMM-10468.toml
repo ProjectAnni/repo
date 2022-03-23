@@ -1,0 +1,98 @@
+[album]
+album_id = "24bdf970-a9b5-47c0-8668-441ddb8522e6"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.6"
+artist = "Various Artists"
+date = 2021-11-10
+type = "normal"
+catalog = "BRMM-10468"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "@BRMM-10468-01"
+
+[[discs.tracks]]
+title = "空色デイズ"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "イエスタデイ"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "大河よ共に泣いてくれ"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "徒花ネクロマンシー"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "ノスタルジックレインフォール"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "夜に駆ける"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "シルエット"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "ノーポイッ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵））"
+
+[[discs.tracks]]
+title = "V.I.P"
+artist = "Morfonica（倉田ましろ（進藤あまね））"
+
+[[discs.tracks]]
+title = "CQCQ"
+artist = "Morfonica（倉田ましろ（進藤あまね））"
+
+[[discs.tracks]]
+title = "アゲハ蝶"
+artist = "Morfonica（倉田ましろ（進藤あまね））"
+
+[[discs]]
+catalog = "@BRMM-10468-02"
+
+[[discs.tracks]]
+title = '''Don't say "lazy"'''
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "サムライハート(Some Like It Hot!!)"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "ベノム"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "KING"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "Shangri-La"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "My Dearest"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "CORE PRIDE"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "DEPARTURES"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell）））"
+
+[[discs.tracks]]
+title = "DAYBREAK FRONTLINE"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell）））"

@@ -1,0 +1,59 @@
+[album]
+album_id = "c1c397fa-aabe-4c41-a55f-c492bfdc1fe5"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.3"
+artist = "Various Artists"
+date = 2019-12-18
+type = "normal"
+catalog = "BRMM-10208"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "BRMM-10208"
+
+[[discs.tracks]]
+title = "only my railgun"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "Daydream café"
+artist = "Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "瞬間センチメンタル"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "プライド革命"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "Fantastic future"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "奏 （かなで）"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "残酷な天使のテーゼ"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "This game"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "エイリアンエイリアン"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "回レ！雪月花"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "激動"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、チュチュ（珠手ちゆ（紡木吏佐）））"
+
+[[discs.tracks]]
+title = "1/3の純情な感情"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、チュチュ（珠手ちゆ（紡木吏佐）））"

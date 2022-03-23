@@ -1,0 +1,59 @@
+[album]
+album_id = "a2e2ec9c-ef43-4fd4-9fb3-37a8545033f9"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.2"
+artist = "Various Artists"
+date = 2019-03-16
+type = "normal"
+catalog = "BRMM-10176"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "BRMM-10176"
+
+[[discs.tracks]]
+title = "君じゃなきゃダメみたい"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "DAYS"
+artist = "Poppin'Party（戸山香澄（愛美）、山吹沙綾（大橋彩香））"
+
+[[discs.tracks]]
+title = "Redo"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "ロストワンの号哭"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "ハッピーシンセサイザ"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、白鷺千聖（上坂すみれ））"
+
+[[discs.tracks]]
+title = "世界は恋に落ちている"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "深愛"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "シャルル"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "GO! GO! MANIAC"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "Dragon Night"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "革命デュアリズム"
+artist = "Roselia（湊友希那（相羽あいな））、美竹蘭（佐倉綾音）"
+
+[[discs.tracks]]
+title = "檄！帝国華撃団"
+artist = "Poppin'Party（戸山香澄（愛美））、丸山彩（前島亜美）、弦巻こころ（伊藤美来）"

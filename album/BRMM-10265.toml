@@ -1,0 +1,59 @@
+[album]
+album_id = "aa5724b1-7a55-4d12-bb0d-4ae9e53c54f4"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.4"
+artist = "Various Artists"
+date = 2020-05-27
+type = "normal"
+catalog = "BRMM-10265"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "BRMM-10265"
+
+[[discs.tracks]]
+title = "ミュージック・アワー"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "ロミオとシンデレラ"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "天ノ弱"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "GO!!!"
+artist = "Afterglow（美竹蘭（佐倉綾音））、弦巻こころ（伊藤美来）"
+
+[[discs.tracks]]
+title = "Baby Sweet Berry Love"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "Q＆A リサイタル！"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "海色"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "六兆年と一夜物語"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "上海ハニー"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "恋愛裁判"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "ヒトリノ夜"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell）））"
+
+[[discs.tracks]]
+title = "chAngE"
+artist = "Morfonica（倉田ましろ（進藤あまね））"

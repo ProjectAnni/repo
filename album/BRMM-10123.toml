@@ -1,0 +1,51 @@
+[album]
+album_id = "a061a67f-ab72-4f8b-b32d-454e910c226e"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.1"
+artist = "Various Artists"
+date = 2018-06-27
+type = "normal"
+catalog = "BRMM-10123"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "BRMM-10123"
+
+[[discs.tracks]]
+title = "光るなら"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "千本桜"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "アスノヨゾラ哨戒班"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "READY STEADY GO"
+artist = "Afterglow（美竹蘭（佐倉綾音）、宇田川巴（日笠陽子））"
+
+[[discs.tracks]]
+title = "secret base ～君がくれたもの～"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "ふわふわ時間"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "魂のルフラン"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "ETERNAL BLAZE"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "いーあるふぁんくらぶ"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "ロメオ"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ））"

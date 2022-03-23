@@ -1,0 +1,67 @@
+[album]
+album_id = "33e7dcae-3126-4a49-9549-ce4048545562"
+title = "バンドリ！ガールズバンドパーティ！カバーコレクション Vol.5"
+artist = "Various Artists"
+date = 2021-02-24
+type = "normal"
+catalog = "BRMM-10345"
+tags = ["バンドリ！ガールズバンドパーティ！カバーコレクション"]
+
+[[discs]]
+catalog = "BRMM-10345"
+
+[[discs.tracks]]
+title = "チェリボム"
+artist = "Poppin'Party（戸山香澄（愛美））"
+
+[[discs.tracks]]
+title = "創聖のアクエリオン"
+artist = "Poppin'Party（戸山香澄（愛美））、湊友希那（相羽あいな）"
+
+[[discs.tracks]]
+title = "インフェルノ"
+artist = "Afterglow（美竹蘭（佐倉綾音））"
+
+[[discs.tracks]]
+title = "ドラマツルギー"
+artist = "Afterglow（美竹蘭（佐倉綾音））、戸山香澄（愛美）"
+
+[[discs.tracks]]
+title = "花ハ踊レヤいろはにほ"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "春擬き"
+artist = "Pastel＊Palettes（丸山彩（前島亜美））"
+
+[[discs.tracks]]
+title = "Paradisus-Paradoxum"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "甲賀忍法帖"
+artist = "Roselia（湊友希那（相羽あいな））"
+
+[[discs.tracks]]
+title = "ウィーアー！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来））"
+
+[[discs.tracks]]
+title = "おジャ魔女カーニバル!!"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "メリッサ"
+artist = "Morfonica（倉田ましろ（進藤あまね））"
+
+[[discs.tracks]]
+title = "Nevereverland"
+artist = "Morfonica（倉田ましろ（進藤あまね））"
+
+[[discs.tracks]]
+title = "恋しさとせつなさと心強さと"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell）））"
+
+[[discs.tracks]]
+title = "SAVIOR OF SONG"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell）））、湊友希那（相羽あいな）"
