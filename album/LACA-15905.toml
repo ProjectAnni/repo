@@ -1,0 +1,51 @@
+[album]
+album_id = "15e0efca-ab50-49d1-87a7-1bca1aef664c"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05"
+artist = "Various Artists"
+date = 2022-03-23
+type = "normal"
+catalog = "LACA-15905"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15905"
+
+[[discs.tracks]]
+title = "Cross the future"
+artist = "最上静香（田所あずさ）"
+artists.vocal = "最上静香（田所あずさ）"
+artists.composer = "橘亮祐、篠崎あやと"
+artists.arranger = "橘亮祐、篠崎あやと"
+artists.lyricist = "橘亮祐、篠崎あやと"
+
+[[discs.tracks]]
+title = "プルメリアの花"
+artist = "萩原雪歩（浅倉杏美）"
+artists.vocal = "萩原雪歩（浅倉杏美）"
+artists.composer = "XELIK"
+artists.arranger = "XELIK"
+artists.lyricist = "XELIK"
+
+[[discs.tracks]]
+title = "Collier De Perles"
+artist = "二階堂千鶴（野村香菜子）"
+artists.vocal = "二階堂千鶴（野村香菜子）"
+artists.composer = "CMJK"
+artists.arranger = "CMJK"
+artists.lyricist = "CMJK"
+
+[[discs.tracks]]
+title = "Beautiful Believer"
+artist = "所恵美（藤井ゆきよ）"
+artists.vocal = "所恵美（藤井ゆきよ）"
+artists.composer = "GRP、NIYA"
+artists.arranger = "GRP"
+artists.lyricist = "MEG.ME"
+
+[[discs.tracks]]
+title = "裏表深層心理"
+artist = "豊川風花（末柄里恵）"
+artists.vocal = "豊川風花（末柄里恵）"
+artists.composer = "グシミヤギヒデユキ"
+artists.arranger = "グシミヤギヒデユキ"
+artists.lyricist = "KOH"
