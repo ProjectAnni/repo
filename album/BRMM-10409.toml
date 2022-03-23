@@ -1,0 +1,38 @@
+[album]
+album_id = "b557e8fd-d441-4612-a038-7a5e567e3f6a"
+title = "劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs"
+artist = "Various Artists"
+date = 2021-08-25
+type = "normal"
+catalog = "BRMM-10409"
+tags = ["劇場版「BanG Dream! FILM LIVE 2nd Stage」"]
+
+[[discs]]
+catalog = "BRMM-10409"
+
+[[discs.tracks]]
+title = "絆色のアンサンブル"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））、Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））、Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+
+[[discs.tracks]]
+title = "競宴Red×Violet"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））、Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+
+[[discs.tracks]]
+title = "ラスハピーポー！"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））、ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+
+[[discs.tracks]]
+title = "絆色のアンサンブル -instrumental-"
+artist = "Poppin'Party、Pastel＊Palettes、Morfonica"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "競宴Red×Violet -instrumental-"
+artist = "Roselia、Afterglow"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラスハピーポー！-instrumental-"
+artist = "RAISE A SUILEN、ハロー、ハッピーワールド！"
+type = "instrumental"

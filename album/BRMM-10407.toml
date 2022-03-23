@@ -1,0 +1,27 @@
+[album]
+album_id = "a418d0b1-14b2-412e-bf9e-7c274f103231"
+title = "劇場版 BanG Dream! Episode of Roselia Theme Songs Collection"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+date = 2021-06-30
+type = "normal"
+catalog = "BRMM-10407"
+tags = ["劇場版「BanG Dream! Episode of Roselia」"]
+
+[[discs]]
+catalog = "BRMM-10407"
+
+[[discs.tracks]]
+title = "Proud of oneself"
+
+[[discs.tracks]]
+title = "overtuRe"
+
+[[discs.tracks]]
+title = "Sing Alive"
+
+[[discs.tracks]]
+title = 'Singing "OURS"'
+
+[[discs.tracks]]
+title = "雨上がりの夢"
+artist = "湊友希那（相羽あいな）"

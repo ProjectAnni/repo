@@ -4,6 +4,8 @@ includes = [
   #########################################################
   "TVアニメ「BanG Dream!」",
   "バンドリ！ガールズバンドパーティ！カバーコレクション",
+  "劇場版「BanG Dream! FILM LIVE」",
+  "劇場版「BanG Dream! FILM LIVE 2nd Stage」",
   #########################################################
   # Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））
   "Poppin'Party",
@@ -25,4 +27,12 @@ includes = [
   "Glitter*Green",
   # CHiSPA（海野夏希（福圓美里）、大湖里実（南早紀）、川端真結（本泉莉奈）、森文華（朝日奈丸佳））
   "CHiSPA"
+]
+
+[[tag]]
+name = "劇場版「BanG Dream! Episode of Roselia」"
+included-by = ["BanG Dream!"]
+includes = [
+  "劇場版「BanG Dream! Episode of Roselia Ⅰ : 約束」",
+  "劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」",
 ]
