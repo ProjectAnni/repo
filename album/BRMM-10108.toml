@@ -1,0 +1,32 @@
+[album]
+album_id = "1df255f0-8b62-4971-81e1-c0168e9b0226"
+title = "ゴーカ！ごーかい！？ファントムシーフ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2018-02-14
+type = "normal"
+catalog = "BRMM-10108"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10108"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！"
+
+[[discs.tracks]]
+title = "YAPPY！SCHOOL CARNIVAL☆彡"
+
+[[discs.tracks]]
+title = "せかいのっびのびトレジャー！"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "YAPPY！SCHOOL CARNIVAL☆彡 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "せかいのっびのびトレジャー！-instrumental-"
+type = "instrumental"

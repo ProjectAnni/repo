@@ -1,0 +1,29 @@
+[album]
+album_id = "df945a93-6546-40da-b267-3f419f09ca7e"
+title = "花園電気ギター！！！"
+artist = "花園たえ（大塚紗英）"
+date = 2017-06-21
+type = "normal"
+catalog = "BRMM-10080"
+tags = ["TVアニメ「BanG Dream!」"]
+
+[[discs]]
+catalog = "BRMM-10080"
+
+[[discs.tracks]]
+title = "花園電気ギター！！！"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに ～Acoustic Ver.～"
+
+[[discs.tracks]]
+title = "花園電気ギター！！！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "走り始めたばかりのキミに ～Acoustic Ver.～ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "たえのナイショ話"
+type = "drama"

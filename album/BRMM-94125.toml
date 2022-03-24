@@ -1,0 +1,65 @@
+[album]
+album_id = "ef493656-8272-4a39-8a97-8d04e4924385"
+title = "ハロー、ハッピーワールド！ Instrumental Collection 1"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2022-01-15
+type = "instrumental"
+catalog = "BRMM-94125"
+tags = ["ハロー、ハッピーワールド！", "BanG Dream! Instrumental Collection"]
+
+[[discs]]
+catalog = "BRMM-94125"
+
+[[discs.tracks]]
+title = "えがおのオーケストラっ！-Instrumental-"
+
+[[discs.tracks]]
+title = "ハピネスっ！ハピィーマジカルっ♪ -Instrumental-"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！-Instrumental-"
+
+[[discs.tracks]]
+title = "YAPPY！SCHOOL CARNIVAL☆彡 -instrumental-"
+
+[[discs.tracks]]
+title = "せかいのっびのびトレジャー！-Instrumental-"
+
+[[discs.tracks]]
+title = "キミがいなくちゃっ！-Instrumental-"
+
+[[discs.tracks]]
+title = "わちゃ・もちゃ・ぺったん行進曲 -Instrumental-"
+
+[[discs.tracks]]
+title = "ハイファイブ∞あどべんちゃっ -Instrumental-"
+
+[[discs.tracks]]
+title = "ふわふわ☆ゆめいろサンドイッチ -Instrumental-"
+
+[[discs.tracks]]
+title = "えがお・シング・あ・ソング -Instrumental-"
+
+[[discs.tracks]]
+title = "はれやか すこやか ぴかりんりん♪ -Instrumental-"
+
+[[discs.tracks]]
+title = "にこ×にこ=ハイパースマイルパワー！-Instrumental-"
+
+[[discs.tracks]]
+title = "おもいでイルミネーション -Instrumental-"
+
+[[discs.tracks]]
+title = "うぃーきゃん☆フレフレっ！-Instrumental-"
+
+[[discs.tracks]]
+title = "えがお、み～っけた！-instrumental-"
+
+[[discs.tracks]]
+title = "スマイルブーケで た～まや～！-instrumental-"
+
+[[discs.tracks]]
+title = "にこにこねくと！-Instrumental-"
+
+[[discs.tracks]]
+title = "ないすみちゅっ！-Instrumental-"

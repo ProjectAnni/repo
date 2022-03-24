@@ -1,0 +1,25 @@
+[album]
+album_id = "f91a9399-d8e0-412f-83d7-dc501ea83b19"
+title = "ツナグ、ソラモヨウ"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2018-10-31
+type = "normal"
+catalog = "BRMM-10133"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "BRMM-10133"
+
+[[discs.tracks]]
+title = "ツナグ、ソラモヨウ"
+
+[[discs.tracks]]
+title = "Jamboree！Journey！"
+
+[[discs.tracks]]
+title = "ツナグ、ソラモヨウ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Jamboree！Journey！ -instrumental-"
+type = "instrumental"

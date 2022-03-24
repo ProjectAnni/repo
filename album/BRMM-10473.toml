@@ -1,0 +1,73 @@
+[album]
+album_id = "eb49554f-2a8f-490c-a482-086bfaca2772"
+title = "劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」オリジナルサウンドトラック"
+artist = "Elements Garden"
+date = 2021-12-15
+type = "absolute"
+catalog = "BRMM-10473"
+tags = ["劇場版「BanG Dream! Episode of Roselia Ⅱ : Song I am.」"]
+
+[[discs]]
+catalog = "BRMM-10473"
+
+[[discs.tracks]]
+title = "Sprechchor"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+type = "normal"
+
+[[discs.tracks]]
+title = "静かな朝に"
+
+[[discs.tracks]]
+title = "いつもの風景"
+
+[[discs.tracks]]
+title = "柔らかなまなざし"
+
+[[discs.tracks]]
+title = "膨らむ期待"
+
+[[discs.tracks]]
+title = "紅葉狩り"
+
+[[discs.tracks]]
+title = "綴る言の葉"
+
+[[discs.tracks]]
+title = "クエストクリア"
+
+[[discs.tracks]]
+title = "心穏やかな時間"
+
+[[discs.tracks]]
+title = "傍にいてくれて"
+
+[[discs.tracks]]
+title = "彼女たちの絆"
+
+[[discs.tracks]]
+title = "超大魔姫 † 再降臨"
+
+[[discs.tracks]]
+title = "夢叶う時"
+
+[[discs.tracks]]
+title = "それぞれの約束"
+
+[[discs.tracks]]
+title = "五人の選択"
+
+[[discs.tracks]]
+title = "これまでとこれから"
+
+[[discs.tracks]]
+title = "静かな決意"
+
+[[discs.tracks]]
+title = "新たな世界へ"
+
+[[discs.tracks]]
+title = "一つの到達点"
+
+[[discs.tracks]]
+title = "LOUDER ～Piano Arrange Ver.～"

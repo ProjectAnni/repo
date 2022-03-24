@@ -1,0 +1,24 @@
+[album]
+album_id = "3ff6a75c-1bfa-42af-ac68-610410a6601a"
+title = "Sacred world"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+date = 2020-10-21
+type = "normal"
+catalog = "BRMM-10294"
+tags = ["RAISE A SUILEN"]
+
+[[discs]]
+catalog = "BRMM-10294"
+
+[[discs.tracks]]
+title = "Sacred world"
+
+[[discs.tracks]]
+title = "REIGNING～The Stage ver.～"
+
+[[discs.tracks]]
+title = "R・I・O・T～The Stage ver.～"
+
+[[discs.tracks]]
+title = "Sacred world -instrumental-"
+type = "instrumental"

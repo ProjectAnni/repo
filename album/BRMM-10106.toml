@@ -1,0 +1,25 @@
+[album]
+album_id = "a656e413-3111-488e-9ca4-5f8005ea72b0"
+title = "ゆら・ゆらRing-Dong-Dance"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2018-01-17
+type = "normal"
+catalog = "BRMM-10106"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10106"
+
+[[discs.tracks]]
+title = "ゆら・ゆらRing-Dong-Dance"
+
+[[discs.tracks]]
+title = "はなまる◎アンダンテ"
+
+[[discs.tracks]]
+title = "ゆら・ゆらRing-Dong-Dance -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "はなまる◎アンダンテ -instrumental-"
+type = "instrumental"

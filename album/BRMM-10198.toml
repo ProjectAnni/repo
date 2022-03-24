@@ -1,0 +1,25 @@
+[album]
+album_id = "d008e683-25dc-493b-a028-356014c781e7"
+title = "きゅ～まい＊flower"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2019-09-18
+type = "normal"
+catalog = "BRMM-10198"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10198"
+
+[[discs.tracks]]
+title = "きゅ～まい＊flower"
+
+[[discs.tracks]]
+title = "ゼッタイ宣言～Recital～"
+
+[[discs.tracks]]
+title = "きゅ～まい＊flower -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ゼッタイ宣言～Recital～ -instrumental-"
+type = "instrumental"

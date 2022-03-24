@@ -1,0 +1,58 @@
+[album]
+album_id = "d9f09fb6-b6ae-48fd-89ec-8142427588ab"
+title = "THE THIRD(仮) 1st ライブ"
+artist = "THE THIRD(仮)（Raychell、小原莉子、夏芽、倉知玲鳳）、大塚紗英"
+date = 2018-09-26
+type = "normal"
+catalog = "BRMM-10132"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10132"
+
+[[discs.tracks]]
+title = "That Is How I Roll!"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "しゅわりん☆どり～みん"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "パスパレボリューションず☆"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "えがおのオーケストラっ！"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "Don't be afraid!"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "ゆら・ゆらRing-Dong-Dance"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "Hey-Day狂騒曲"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "Scarlet Sky"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "ゴーカ！ごーかい！？ファントムシーフ！"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "R・I・O・T"
+artist = "Raychell、夏芽、倉知玲鳳"
+
+[[discs.tracks]]
+title = "That Is How I Roll!"
+artist = "Raychell、夏芽、倉知玲鳳、大塚紗英"
+
+[[discs.tracks]]
+title = "R・I・O・T"

@@ -1,0 +1,25 @@
+[album]
+album_id = "dc7d12bd-8587-46e8-b81c-6aec6541ca60"
+title = "もういちど ルミナス"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2018-08-08
+type = "normal"
+catalog = "BRMM-10129"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10129"
+
+[[discs.tracks]]
+title = "もういちど ルミナス"
+
+[[discs.tracks]]
+title = "SURVIVOR ねばーぎぶあっぷ！"
+
+[[discs.tracks]]
+title = "もういちど ルミナス -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SURVIVOR ねばーぎぶあっぷ！-instrumental-"
+type = "instrumental"

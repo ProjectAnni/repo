@@ -1,0 +1,14 @@
+[album]
+album_id = "26886a16-f8aa-4e2f-b5e1-1440312b06f3"
+title = "雨上がりの夢"
+artist = "湊友希那（相羽あいな）"
+date = 2021-12-15
+type = "normal"
+catalog = "BRMM-10501"
+tags = ["劇場版「BanG Dream! Episode of Roselia」"]
+
+[[discs]]
+catalog = "BRMM-10501"
+
+[[discs.tracks]]
+title = "雨上がりの夢 (湊友希那 幼少期Ver.)"

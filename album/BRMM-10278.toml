@@ -1,0 +1,25 @@
+[album]
+album_id = "a0f48f0c-5a13-4c8e-a0da-ef2eaf1bf439"
+title = "大盛り一丁！ガルパ☆ピコ"
+artist = "戸山香澄（愛美）、美竹蘭（佐倉綾音）、丸山彩（前島亜美）、湊友希那（相羽あいな）、弦巻こころ（伊藤美来）"
+date = 2020-08-12
+type = "normal"
+catalog = "BRMM-10278"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10278"
+
+[[discs.tracks]]
+title = "大盛り一丁！ガルパ☆ピコ"
+
+[[discs.tracks]]
+title = "TWiNKLE CiRCLE"
+
+[[discs.tracks]]
+title = "大盛り一丁！ガルパ☆ピコ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "TWiNKLE CiRCLE -instrumental-"
+type = "instrumental"

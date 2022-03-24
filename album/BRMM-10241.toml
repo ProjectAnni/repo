@@ -1,0 +1,25 @@
+[album]
+album_id = "35754ebe-7e33-4dc3-9b5b-7c3ee1bea521"
+title = "Easy come, Easy go！"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2020-03-11
+type = "normal"
+catalog = "BRMM-10241"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "BRMM-10241"
+
+[[discs.tracks]]
+title = "Easy come, Easy go！"
+
+[[discs.tracks]]
+title = "いつも通りのBrand new days"
+
+[[discs.tracks]]
+title = "Easy come, Easy go！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いつも通りのBrand new days -instrumental-"
+type = "instrumental"

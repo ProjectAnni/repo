@@ -1,0 +1,31 @@
+[album]
+album_id = "0170f1a5-635b-4f1c-845e-eee01a1718f6"
+title = "BanG Dream! 3月21日発売Single同時購入特典CD-黄"
+artist = "Various Artists"
+date = 2018-03-21
+type = "normal"
+catalog = "BRMM-10117"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10117"
+
+[[discs.tracks]]
+title = "千本桜 (Game Size Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+
+[[discs.tracks]]
+title = "READY STEADY GO (Game Size Ver.)"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Game Size Ver.)"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+
+[[discs.tracks]]
+title = "ETERNAL BLAZE (Game Size Ver.)"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（遠藤ゆりか）、宇田川あこ（櫻川めぐ）、白金燐子（明坂聡美））"
+
+[[discs.tracks]]
+title = "ロメオ (Game Size Ver.)"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"

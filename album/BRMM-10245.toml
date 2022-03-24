@@ -1,0 +1,236 @@
+[album]
+album_id = "8bd7c6ac-1078-4e2f-aa03-87c151ff7837"
+title = "アニメ「BanG Dream! 2nd＆3rd Season」オリジナル・サウンドトラック"
+artist = "Elements Garden（藤田淳平、藤間仁、藤永龍太郎）"
+date = 2020-04-08
+type = "absolute"
+catalog = "BRMM-10245"
+tags = ["TVアニメ「BanG Dream!」"]
+
+[[discs]]
+catalog = "@BRMM-10245-01"
+
+[[discs.tracks]]
+title = "始まりの季節"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "木漏れ日の下で"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "待ちきれない！"
+artist = "藤永龍太郎 （Elements Garden）"
+
+[[discs.tracks]]
+title = "のんびりタイム"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "秘めた実力"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "ガールズセッション"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "キラキラあるかな？"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "おちゃめトーク"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "Ambition"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "おもしろ大作戦"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "山吹色のお菓子"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "オカルト"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "待ってるね"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "みんなの想い"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "オレンジ色の空"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "寂しさとともに"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "ともだち"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "あの頃"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "募る思い"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "ハッピーお化け屋敷"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "張りつめた空気"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "御簾を上げろ！"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "シンキングタイム"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "みんなと一緒なら"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "ちびっこプロデューサー"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "超大魔姫 † 降臨"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "儚い..."
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "豪華客船へようこそ"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "武士道"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "幻想への旅"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs]]
+catalog = "@BRMM-10245-02"
+
+[[discs.tracks]]
+title = "Sorry."
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "かけがえのないもの"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "すれちがい"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "憂愁"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "対峙"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "遠い背中(Piano Ver.)"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "遠い背中(Violin Ver.)"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "日没までに"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "酔いしれて"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "DEATH GALAXY"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "和の風情"
+artist = "藤田淳平（Elements Garden）"
+
+[[discs.tracks]]
+title = "ハッピーバースデー"
+artist = "藤間仁（Elements Garden）"
+
+[[discs.tracks]]
+title = "序曲～黒き咆哮～"
+artist = "藤永龍太郎（Elements Garden）"
+
+[[discs.tracks]]
+title = "ナカナ イナ カナイ (2nd Season #7 Ver.)"
+artist = "花園たえ（大塚紗英）、レイヤ（和奏レイ（Raychell））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Returns (2nd Season #11 Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Beautiful Birthday (3rd Season #11 Ver.)"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+type = "normal"
+
+[[discs.tracks]]
+title = "キズナミュージック♪ (Short Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Jumpin' (Short Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "normal"
+
+[[discs.tracks]]
+title = "BRAVE JEWEL (Short Ver.)"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Safe and Sound (Short Ver.)"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+type = "normal"
+
+[[discs.tracks]]
+title = "イニシャル (Short Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "normal"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！(Short Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+type = "normal"
+
+[[discs.tracks]]
+title = "夢を撃ち抜く瞬間に！(3rd Season #13 Ver.)"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））、Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））、RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+type = "normal"

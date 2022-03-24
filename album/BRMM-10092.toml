@@ -1,0 +1,29 @@
+[album]
+album_id = "4aa88256-a588-4f47-800a-dbd8dd3db1fa"
+title = "しゅわりん☆どり～みん"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2017-07-12
+type = "normal"
+catalog = "BRMM-10092"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10092"
+
+[[discs.tracks]]
+title = "しゅわりん☆どり～みん"
+
+[[discs.tracks]]
+title = "パスパレボリューションず☆"
+
+[[discs.tracks]]
+title = "しゅわりん☆どり～みん -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パスパレボリューションず☆ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トラブル発生！？初めての合同練習"
+type = "drama"

@@ -1,0 +1,18 @@
+[album]
+album_id = "73c55326-2c27-450e-8cae-2623fe7a4ec2"
+title = "ナカナ イナ カナイ"
+artist = "花園たえ（大塚紗英）、レイヤ（和奏レイ（Raychell））"
+date = 2020-02-28
+type = "normal"
+catalog = "BRMM-10256"
+tags = ["BanG Dream!"]
+
+[[discs]]
+catalog = "BRMM-10256"
+
+[[discs.tracks]]
+title = "ナカナ イナ カナイ"
+
+[[discs.tracks]]
+title = "ナカナ イナ カナイ -instrumental-"
+type = "instrumental"

@@ -1,0 +1,32 @@
+[album]
+album_id = "1503b247-bf54-4951-8eb4-1e323d844894"
+title = "EXIST"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+date = 2021-04-21
+type = "normal"
+catalog = "BRMM-10372"
+tags = ["RAISE A SUILEN"]
+
+[[discs]]
+catalog = "BRMM-10372"
+
+[[discs.tracks]]
+title = "EXIST"
+
+[[discs.tracks]]
+title = "Embrace of light"
+
+[[discs.tracks]]
+title = "OUTSIDER RODEO"
+
+[[discs.tracks]]
+title = "EXIST -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Embrace of light -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "OUTSIDER RODEO -instrumental-"
+type = "instrumental"

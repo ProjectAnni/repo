@@ -1,0 +1,25 @@
+[album]
+album_id = "117be4bc-3d0c-435e-98dc-788da7568bcd"
+title = "うぃーきゃん☆フレフレっ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2020-11-25
+type = "normal"
+catalog = "BRMM-10285"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10285"
+
+[[discs.tracks]]
+title = "うぃーきゃん☆フレフレっ！"
+
+[[discs.tracks]]
+title = "えがお、み～っけた！"
+
+[[discs.tracks]]
+title = "うぃーきゃん☆フレフレっ！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "えがお、み～っけた！-instrumental-"
+type = "instrumental"

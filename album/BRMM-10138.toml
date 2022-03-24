@@ -1,0 +1,25 @@
+[album]
+album_id = "3183edf2-77be-4b83-9f3d-357d25b64053"
+title = "キミがいなくちゃっ！"
+artist = "ハロー、ハッピーワールド！（弦巻こころ（伊藤美来）、瀬田薫（田所あずさ）、北沢はぐみ（吉田有里）、松原花音（豊田萌絵）、ミッシェル（奥沢美咲（黒沢ともよ）））"
+date = 2018-12-05
+type = "normal"
+catalog = "BRMM-10138"
+tags = ["ハロー、ハッピーワールド！"]
+
+[[discs]]
+catalog = "BRMM-10138"
+
+[[discs.tracks]]
+title = "キミがいなくちゃっ！"
+
+[[discs.tracks]]
+title = "わちゃ・もちゃ・ぺったん行進曲"
+
+[[discs.tracks]]
+title = "キミがいなくちゃっ！-instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "わちゃ・もちゃ・ぺったん行進曲 -instrumental-"
+type = "instrumental"

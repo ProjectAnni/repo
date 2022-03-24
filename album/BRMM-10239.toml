@@ -1,0 +1,25 @@
+[album]
+album_id = "d60ee3e2-31c2-48af-970c-aaadceab1c94"
+title = "ワクワクmeetsトリップ"
+artist = "Pastel＊Palettes（丸山彩（前島亜美）、氷川日菜（小澤亜李）、白鷺千聖（上坂すみれ）、大和麻弥（中上育実）、若宮イヴ（秦佐和子））"
+date = 2020-03-04
+type = "normal"
+catalog = "BRMM-10239"
+tags = ["Pastel＊Palettes"]
+
+[[discs]]
+catalog = "BRMM-10239"
+
+[[discs.tracks]]
+title = "ワクワクmeetsトリップ"
+
+[[discs.tracks]]
+title = "ぎゅっDAYS♪"
+
+[[discs.tracks]]
+title = "ワクワクmeetsトリップ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぎゅっDAYS♪ -instrumental-"
+type = "instrumental"

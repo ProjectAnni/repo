@@ -1,0 +1,65 @@
+[album]
+album_id = "86aa81ba-706f-42fd-8186-ec8ae7868ac0"
+title = "Afterglow Instrumental Collection 1"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2022-01-15
+type = "instrumental"
+catalog = "BRMM-94122"
+tags = ["Afterglow", "BanG Dream! Instrumental Collection"]
+
+[[discs]]
+catalog = "BRMM-94122"
+
+[[discs.tracks]]
+title = "That Is How I Roll! -Instrumental-"
+
+[[discs.tracks]]
+title = "True color -Instrumental-"
+
+[[discs.tracks]]
+title = "Hey-day狂騒曲(カプリチオ) -Instrumental-"
+
+[[discs.tracks]]
+title = "Scarlet Sky -Instrumental-"
+
+[[discs.tracks]]
+title = "ツナグ、ソラモヨウ -Instrumental-"
+
+[[discs.tracks]]
+title = "Jamboree！Journey！-instrumental-"
+
+[[discs.tracks]]
+title = "Y.O.L.O！！！！！-instrumental-"
+
+[[discs.tracks]]
+title = "COMIC PANIC!!! -Instrumental-"
+
+[[discs.tracks]]
+title = "ON YOUR MARK -Instrumental-"
+
+[[discs.tracks]]
+title = "ランブリングメモリー -Instrumental-"
+
+[[discs.tracks]]
+title = "Easy come, Easy go！-instrumental-"
+
+[[discs.tracks]]
+title = "いつも通りのBrand new days -Instrumental-"
+
+[[discs.tracks]]
+title = "Sasanqua -Instrumental-"
+
+[[discs.tracks]]
+title = "I love your way！-instrumental-"
+
+[[discs.tracks]]
+title = "SENSENFUKOKU -Instrumental-"
+
+[[discs.tracks]]
+title = "I knew it! -Instrumental-"
+
+[[discs.tracks]]
+title = "RED RED RED -Instrumental-"
+
+[[discs.tracks]]
+title = "ONE OF US -Instrumental-"

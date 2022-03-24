@@ -1,0 +1,29 @@
+[album]
+album_id = "0d1c6ef9-2944-4cc6-a613-5cb91523935a"
+title = "チョコレイトの低音レシピ"
+artist = "牛込りみ（西本りみ）"
+date = 2017-06-21
+type = "normal"
+catalog = "BRMM-10081"
+tags = ["TVアニメ「BanG Dream!」"]
+
+[[discs]]
+catalog = "BRMM-10081"
+
+[[discs.tracks]]
+title = "チョコレイトの低音レシピ"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream! ～Acoustic Ver.～"
+
+[[discs.tracks]]
+title = "チョコレイトの低音レシピ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Yes! BanG_Dream! ～Acoustic Ver.～ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "りみのナイショ話"
+type = "drama"

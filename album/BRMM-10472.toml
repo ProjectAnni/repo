@@ -1,0 +1,108 @@
+[album]
+album_id = "6f6ad465-9de7-42c6-bf34-24af53281a90"
+title = "劇場版「BanG Dream! Episode of Roselia Ⅰ : 約束」オリジナルサウンドトラック"
+artist = "Elements Garden"
+date = 2021-12-15
+type = "absolute"
+catalog = "BRMM-10472"
+tags = ["劇場版「BanG Dream! Episode of Roselia Ⅰ : 約束」"]
+
+[[discs]]
+catalog = "BRMM-10472"
+
+[[discs.tracks]]
+title = "Keep Heart"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Original Call"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+type = "normal"
+
+[[discs.tracks]]
+title = "何事もない春"
+
+[[discs.tracks]]
+title = "Past days"
+
+[[discs.tracks]]
+title = "不穏な気配"
+
+[[discs.tracks]]
+title = "友希那の覚悟"
+
+[[discs.tracks]]
+title = "動揺の色"
+
+[[discs.tracks]]
+title = "黄昏れ時に"
+
+[[discs.tracks]]
+title = "響き合う心"
+
+[[discs.tracks]]
+title = "戦場にて"
+
+[[discs.tracks]]
+title = "針の筵"
+
+[[discs.tracks]]
+title = "青薔薇の道"
+
+[[discs.tracks]]
+title = "心安らかな時間"
+
+[[discs.tracks]]
+title = "危機と焦燥"
+
+[[discs.tracks]]
+title = "悲しみの淵"
+
+[[discs.tracks]]
+title = "夜想曲"
+
+[[discs.tracks]]
+title = "溢れる涙"
+
+[[discs.tracks]]
+title = "すべての始まり"
+
+[[discs.tracks]]
+title = "寄り添いたくて"
+
+[[discs.tracks]]
+title = "手探りでも前へ"
+
+[[discs.tracks]]
+title = "大切な場所"
+
+[[discs.tracks]]
+title = "告白"
+
+[[discs.tracks]]
+title = "伝えたい想い"
+
+[[discs.tracks]]
+title = "頂点へ"
+
+[[discs.tracks]]
+title = "On Stage"
+
+[[discs.tracks]]
+title = "満ち足りた夏"
+
+[[discs.tracks]]
+title = "忠告"
+
+[[discs.tracks]]
+title = "前を向いて"
+
+[[discs.tracks]]
+title = "紗夜と日菜"
+
+[[discs.tracks]]
+title = "シロツメクサの日々"
+
+[[discs.tracks]]
+title = "約束～Piano Arrange Ver.～"
