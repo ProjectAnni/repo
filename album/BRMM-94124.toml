@@ -1,11 +1,11 @@
 [album]
 album_id = "cd367973-df41-4c7c-aac3-3bc4d6c721ea"
 title = "Roselia Instrumental Collection 1"
-artist = "Roselia"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
 date = 2022-01-15
 type = "instrumental"
 catalog = "BRMM-94124"
-tags = ["Roselia"]
+tags = ["Roselia", "BanG Dream! Instrumental Collection"]
 
 [[discs]]
 catalog = "@BRMM-94124-01"

@@ -1,11 +1,11 @@
 [album]
 album_id = "86aa81ba-706f-42fd-8186-ec8ae7868ac0"
 title = "Afterglow Instrumental Collection 1"
-artist = "Afterglow"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
 date = 2022-01-15
 type = "instrumental"
 catalog = "BRMM-94122"
-tags = ["Afterglow"]
+tags = ["Afterglow", "BanG Dream! Instrumental Collection"]
 
 [[discs]]
 catalog = "BRMM-94122"

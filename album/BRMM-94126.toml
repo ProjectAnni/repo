@@ -1,11 +1,11 @@
 [album]
 album_id = "0576acd3-f605-4b68-a2fe-a117b0b16de3"
 title = "Morfonica Instrumental Collection 1"
-artist = "Morfonica"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
 date = 2022-01-15
 type = "instrumental"
 catalog = "BRMM-94126"
-tags = ["Morfonica"]
+tags = ["Morfonica", "BanG Dream! Instrumental Collection"]
 
 [[discs]]
 catalog = "BRMM-94126"

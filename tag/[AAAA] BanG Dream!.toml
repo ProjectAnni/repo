@@ -29,7 +29,9 @@ includes = [
   # Glitter*Green（牛込ゆり（三森すずこ）、鵜沢リィ（橘田いずみ）、鰐部七菜（佐々木未来）、二十騎ひなこ（徳井青空））
   "Glitter*Green",
   # CHiSPA（海野夏希（福圓美里）、大湖里実（南早紀）、川端真結（本泉莉奈）、森文華（朝日奈丸佳））
-  "CHiSPA"
+  "CHiSPA",
+  #########################################################
+  "BanG Dream! Instrumental Collection",
 ]
 
 [[tag]]
