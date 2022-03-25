@@ -1,0 +1,25 @@
+[album]
+album_id = "aceebd04-cb68-4ce6-9b63-770f0934fe3d"
+title = "ラヴ"
+artist = "DEATH DEVIL（山中さわ子（真田アサミ）、河口紀美（浅川悠））"
+date = 2010-06-23
+type = "normal"
+catalog = "PCCG-70076"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-70076"
+
+[[discs.tracks]]
+title = "ラヴ"
+
+[[discs.tracks]]
+title = "GENOM"
+
+[[discs.tracks]]
+title = "ラヴ （Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "GENOM （Instrumental）"
+type = "instrumental"

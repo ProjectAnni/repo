@@ -1,0 +1,25 @@
+[album]
+album_id = "7cb8e69a-61b3-4720-b0b0-31df9e02f2b6"
+title = "Listen!!"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2010-04-28
+type = "normal"
+catalog = "PCCG-70074"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-70074"
+
+[[discs.tracks]]
+title = "Listen!!"
+
+[[discs.tracks]]
+title = "Our MAGIC"
+
+[[discs.tracks]]
+title = "Listen!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Our MAGIC (Instrumental)"
+type = "instrumental"
