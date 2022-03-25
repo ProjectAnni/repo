@@ -1,0 +1,32 @@
+[album]
+album_id = "1b470855-1b9e-43c4-b941-a1aa7a331e6e"
+title = "TVアニメ「けいおん!」イメージソング　平沢唯"
+artist = "平沢唯（豊崎愛生）"
+date = 2009-06-17
+type = "normal"
+catalog = "PCCG-00981"
+tags = ["けいおん！"]
+
+[[discs]]
+catalog = "PCCG-00981"
+
+[[discs.tracks]]
+title = "ギー太に首ったけ"
+
+[[discs.tracks]]
+title = "Sunday Siesta"
+
+[[discs.tracks]]
+title = "『レッツゴー』(唯Ver.)"
+
+[[discs.tracks]]
+title = "ギー太に首ったけ(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sunday Siesta(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "『レッツゴー』(instrumental)"
+type = "instrumental"
