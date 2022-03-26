@@ -285,3 +285,6 @@ name = "9-nine-"
 [[tag]]
 name = "SILENT SIREN"
 includes = ["Silent Siren"]
+
+[[tag]]
+name = "BATON=RELAY"
