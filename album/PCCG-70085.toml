@@ -1,0 +1,25 @@
+[album]
+album_id = "08f6cafd-6018-4072-a374-59193c6245db"
+title = "Singing!"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2011-12-07
+type = "normal"
+catalog = "PCCG-70085"
+tags = ["映画「けいおん！」"]
+
+[[discs]]
+catalog = "PCCG-70085"
+
+[[discs.tracks]]
+title = "Singing!"
+
+[[discs.tracks]]
+title = "おはよう、またあした"
+
+[[discs.tracks]]
+title = "Singing! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おはよう、またあした (Instrumental)"
+type = "instrumental"

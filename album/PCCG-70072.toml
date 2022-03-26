@@ -1,0 +1,25 @@
+[album]
+album_id = "ba03ebdf-fbfd-48a3-9b3e-ca72a3a795a9"
+title = "GO! GO! MANIAC"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2010-04-28
+type = "normal"
+catalog = "PCCG-70072"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-70072"
+
+[[discs.tracks]]
+title = "GO! GO! MANIAC"
+
+[[discs.tracks]]
+title = "Genius…!?"
+
+[[discs.tracks]]
+title = "GO! GO! MANIAC (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Genius…!? (Instrumental)"
+type = "instrumental"

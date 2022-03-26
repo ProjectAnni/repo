@@ -1,0 +1,47 @@
+[album]
+album_id = "700de84b-011c-4ef9-91a2-10e04753ba7b"
+title = "ぴゅあぴゅあはーと"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2010-06-02
+type = "normal"
+catalog = "PCCG-70075"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-70075"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと"
+artist = "放課後ティータイム"
+
+[[discs.tracks]]
+title = "桜が丘女子高等学校校歌［Rock Ver.］"
+artist = "放課後ティータイム"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "桜が丘女子高等学校校歌［Rock Ver.］ （Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental 【-Guitar1】）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental 【-Guitar2】）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental 【-Keyboard】）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental 【-Bass】）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴゅあぴゅあはーと （Instrumental 【-Drums】）"
+type = "instrumental"

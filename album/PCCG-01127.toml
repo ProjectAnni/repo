@@ -1,0 +1,133 @@
+[album]
+album_id = "abe65735-2ecb-4b7f-b507-0678fd8df93f"
+title = "映画「けいおん!」オリジナルサウンドトラック"
+artist = "百石元"
+date = 2011-12-21
+type = "absolute"
+catalog = "PCCG-01127"
+tags = ["映画「けいおん！」"]
+
+[[discs]]
+catalog = "PCCG-01127"
+
+[[discs.tracks]]
+title = "Have some tea? (MOVIE Mix)"
+
+[[discs.tracks]]
+title = "白銀の朝"
+
+[[discs.tracks]]
+title = "干し芋の季節"
+
+[[discs.tracks]]
+title = "こなゆき"
+
+[[discs.tracks]]
+title = "ごり押しの理由"
+
+[[discs.tracks]]
+title = "茶箪笥のかほり"
+
+[[discs.tracks]]
+title = "二人の世界 (MOVIE Mix)"
+
+[[discs.tracks]]
+title = "茶柱運勢研究会"
+
+[[discs.tracks]]
+title = "Bossaでコーヒーを"
+
+[[discs.tracks]]
+title = "お化けの同窓会"
+
+[[discs.tracks]]
+title = "ガラスの向こう側"
+
+[[discs.tracks]]
+title = "正直者が考えた嘘"
+
+[[discs.tracks]]
+title = "その笑顔が好き"
+
+[[discs.tracks]]
+title = "海に行こうよ!"
+
+[[discs.tracks]]
+title = "水浴び大好きあひるちゃん"
+
+[[discs.tracks]]
+title = "地中海楽団"
+
+[[discs.tracks]]
+title = "Spilled tea"
+
+[[discs.tracks]]
+title = "Traditional tea"
+
+[[discs.tracks]]
+title = "Air of northern countries"
+
+[[discs.tracks]]
+title = "London E"
+
+[[discs.tracks]]
+title = "Yearning for the Far East"
+
+[[discs.tracks]]
+title = "Pleasant despair"
+
+[[discs.tracks]]
+title = "Train-D"
+type = "normal"
+artist = "Andrew Mackinlay"
+
+[[discs.tracks]]
+title = "私のきもち"
+
+[[discs.tracks]]
+title = "かりんとう男爵の一週間"
+
+[[discs.tracks]]
+title = "Fairies' Party"
+
+[[discs.tracks]]
+title = "退屈な時間"
+
+[[discs.tracks]]
+title = "結局今日も遅刻じゃないですか!"
+
+[[discs.tracks]]
+title = "そんな訳でタクシーで…、"
+
+[[discs.tracks]]
+title = "げげっ! 大渋滞!!"
+
+[[discs.tracks]]
+title = "お日様キラキラ散歩道"
+
+[[discs.tracks]]
+title = "Artificial Candy"
+
+[[discs.tracks]]
+title = "ごり押しの言い訳"
+
+[[discs.tracks]]
+title = "女子の集中力"
+
+[[discs.tracks]]
+title = "Red jacket"
+
+[[discs.tracks]]
+title = "Stylish mistake"
+
+[[discs.tracks]]
+title = "Winter night in a warm room"
+
+[[discs.tracks]]
+title = "一等賞"
+
+[[discs.tracks]]
+title = "Far distant past"
+
+[[discs.tracks]]
+title = "しあわせのかけら"

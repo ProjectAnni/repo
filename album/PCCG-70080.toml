@@ -1,0 +1,25 @@
+[album]
+album_id = "d1723c11-06f6-4733-9cbd-441334aaf112"
+title = "NO, Thank You!"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2010-08-04
+type = "normal"
+catalog = "PCCG-70080"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-70080"
+
+[[discs.tracks]]
+title = "NO,Thank You!"
+
+[[discs.tracks]]
+title = "Girls in Wonderland"
+
+[[discs.tracks]]
+title = "NO,Thank You! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Girls in Wonderland (Instrumental)"
+type = "instrumental"

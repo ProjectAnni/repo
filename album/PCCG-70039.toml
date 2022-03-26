@@ -1,0 +1,25 @@
+[album]
+album_id = "c966c1c9-4bad-4a6d-babc-70d2e368d60b"
+title = '''Don't say "lazy"'''
+artist = "桜高軽音部（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子））"
+date = 2009-04-22
+type = "normal"
+catalog = "PCCG-70039"
+tags = ["けいおん！"]
+
+[[discs]]
+catalog = "PCCG-70039"
+
+[[discs.tracks]]
+title = '''Don't say "lazy"'''
+
+[[discs.tracks]]
+title = "Sweet Bitter Beauty Song"
+
+[[discs.tracks]]
+title = '''Don't say "lazy" (Instrumental)'''
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sweet Bitter Beauty Song (Instrumental)"
+type = "instrumental"

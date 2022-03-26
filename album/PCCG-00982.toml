@@ -1,0 +1,32 @@
+[album]
+album_id = "9a53bc93-356e-4944-a5dc-4c54417ad5ca"
+title = "TVアニメ「けいおん!」イメージソング 秋山澪"
+artist = "秋山澪（日笠陽子）"
+date = 2009-06-17
+type = "normal"
+catalog = "PCCG-00982"
+tags = ["けいおん！"]
+
+[[discs]]
+catalog = "PCCG-00982"
+
+[[discs.tracks]]
+title = "Heart Goes Boom!!"
+
+[[discs.tracks]]
+title = "Hello Little Girl"
+
+[[discs.tracks]]
+title = "『レッツゴー』(澪Ver.)"
+
+[[discs.tracks]]
+title = "Heart Goes Boom!!(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Hello Little Girl(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "『レッツゴー』(Instrumental)"
+type = "instrumental"

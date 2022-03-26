@@ -1,0 +1,25 @@
+[album]
+album_id = "f7dab797-671a-4747-a38c-c0d024935f59"
+title = "Unmei♪wa♪Endless!"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2011-12-07
+type = "normal"
+catalog = "PCCG-70083"
+tags = ["映画「けいおん！」"]
+
+[[discs]]
+catalog = "PCCG-70083"
+
+[[discs.tracks]]
+title = "Unmei♪wa♪Endless！"
+
+[[discs.tracks]]
+title = "いちばんいっぱい"
+
+[[discs.tracks]]
+title = "Unmei♪wa♪Endless！ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いちばんいっぱい (Instrumental)"
+type = "instrumental"

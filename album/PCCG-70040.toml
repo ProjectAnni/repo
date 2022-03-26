@@ -1,0 +1,41 @@
+[album]
+album_id = "038642a5-eeaa-4650-a377-c04a5c0ca07c"
+title = "ふわふわ時間"
+artist = "桜高軽音部（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子））"
+date = 2009-05-20
+type = "normal"
+catalog = "PCCG-70040"
+tags = ["けいおん！"]
+
+[[discs]]
+catalog = "PCCG-70040"
+
+[[discs.tracks]]
+title = "ふわふわ時間"
+
+[[discs.tracks]]
+title = "翼をください"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "翼をください (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Instrumental【-Guitar】)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Instrumental【-Keyboard】)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Instrumental【-Bass】)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふわふわ時間 (Instrumental【-Drums】)"
+type = "instrumental"

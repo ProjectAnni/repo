@@ -1,0 +1,75 @@
+[album]
+album_id = "650a4631-f64c-4b90-9354-ed76964f7202"
+title = "TVアニメ「けいおん!!」オリジナルサウンドトラック Vol.1"
+artist = "百石元"
+date = 2010-07-21
+type = "absolute"
+catalog = "PCCG-01062"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-01062"
+
+[[discs.tracks]]
+title = "one more tea?"
+
+[[discs.tracks]]
+title = "朝日を浴びて"
+
+[[discs.tracks]]
+title = "二人の世界"
+
+[[discs.tracks]]
+title = "Dance of pickled scallion"
+
+[[discs.tracks]]
+title = "Temptation with rain"
+
+[[discs.tracks]]
+title = "Tostada"
+
+[[discs.tracks]]
+title = "京都の朝"
+
+[[discs.tracks]]
+title = "Doragon God"
+
+[[discs.tracks]]
+title = "ハムスターのダンス"
+
+[[discs.tracks]]
+title = "あの日の帰り道"
+
+[[discs.tracks]]
+title = "玉虫厨子と三角定規"
+
+[[discs.tracks]]
+title = "Digital fancy doll"
+
+[[discs.tracks]]
+title = "ガッテンだ!"
+
+[[discs.tracks]]
+title = "Tea with you"
+
+[[discs.tracks]]
+title = "Reason that doesn't develop"
+
+[[discs.tracks]]
+title = "Cherry's feelings"
+
+[[discs.tracks]]
+title = "Worry of cherry"
+
+[[discs.tracks]]
+title = "Happy rainy day"
+
+[[discs.tracks]]
+title = "あめふり"
+type = "normal"
+artist = "平沢唯（豊崎愛生）、平沢憂（米澤円）"
+
+[[discs.tracks]]
+title = "うさぎとかめ"
+type = "normal"
+artist = "平沢唯（豊崎愛生）"

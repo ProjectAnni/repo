@@ -1,0 +1,75 @@
+[album]
+album_id = "795160c1-1152-456e-8968-aab450773212"
+title = "TVアニメ「けいおん!!」オリジナルサウンドトラック Vol.2"
+artist = "百石元"
+date = 2010-10-06
+type = "absolute"
+catalog = "PCCG-01064"
+tags = ["けいおん！！"]
+
+[[discs]]
+catalog = "PCCG-01064"
+
+[[discs.tracks]]
+title = "Early tea"
+
+[[discs.tracks]]
+title = "My dearest Baumkuchen"
+
+[[discs.tracks]]
+title = "お菓子のメリーゴーランド"
+
+[[discs.tracks]]
+title = "Pasadena Fwy"
+
+[[discs.tracks]]
+title = "な・い・しょ!"
+
+[[discs.tracks]]
+title = "タリラリラン!"
+
+[[discs.tracks]]
+title = "潮騒と夕日"
+
+[[discs.tracks]]
+title = "セピア色の日記"
+
+[[discs.tracks]]
+title = "天ぷら君"
+
+[[discs.tracks]]
+title = "Hard luck girl"
+
+[[discs.tracks]]
+title = "Autumn breeze with you"
+
+[[discs.tracks]]
+title = "Fine rain in afternoon"
+
+[[discs.tracks]]
+title = "Cherry's toy box"
+
+[[discs.tracks]]
+title = "抜き足差し足忍び足"
+
+[[discs.tracks]]
+title = "人魚の片思い"
+
+[[discs.tracks]]
+title = "階段の怪談"
+
+[[discs.tracks]]
+title = "U&I ～夕日の綺麗なあの丘で～"
+
+[[discs.tracks]]
+title = "雲上茶屋"
+
+[[discs.tracks]]
+title = "ふでペン ～ボールペン～ (ゆいあずVer.)"
+type = "normal"
+artist = "平沢唯（豊崎愛生）、中野梓（竹达彩奈）"
+
+[[discs.tracks]]
+title = "桜が丘女子高等学校校歌"
+type = "normal"
+artist = "桜高3-2、桜高2-1（伊藤実華、陰山真寿美、片岡あづさ、北村妙子、寿美菜子、佐藤有世、佐藤聡美、杉浦奈保子、竹達彩奈、豊崎愛生、永田依子、中村知子、七沢心、日笠陽子、平野妹、藤田麻美、藤東知夏、MAKO、山村響、米澤円）"
