@@ -1,0 +1,14 @@
+[album]
+album_id = "a5ec74ed-422d-41e5-b49c-0a5cc9e7b3e5"
+title = "シンドバッド"
+artist = "SILENT SIREN"
+date = 2017-11-13
+type = "normal"
+catalog = "@LIMITED-3131"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "@LIMITED-3131"
+
+[[discs.tracks]]
+title = "シンドバッド"
