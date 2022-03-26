@@ -1,0 +1,20 @@
+[album]
+album_id = "d0bf5862-8f6e-4230-9904-c86a6a980308"
+title = "I×U"
+artist = "Silent Siren"
+date = 2013-10-30
+type = "normal"
+catalog = "MUCD-5241"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5241"
+
+[[discs.tracks]]
+title = "I×U"
+
+[[discs.tracks]]
+title = "LOVE FIGHTER！"
+
+[[discs.tracks]]
+title = "まだ見ぬ明日を"

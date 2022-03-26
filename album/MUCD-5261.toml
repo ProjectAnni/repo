@@ -1,0 +1,25 @@
+[album]
+album_id = "d4385cda-6d4e-4bb2-9d17-9fbeae3efb55"
+title = "ラッキーガール"
+edition = "初回限定ひなんちゅ盤"
+artist = "Silent Siren"
+date = 2014-06-18
+type = "normal"
+catalog = "MUCD-5261"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5261"
+
+[[discs.tracks]]
+title = "ラッキーガール"
+
+[[discs.tracks]]
+title = "恋花"
+
+[[discs.tracks]]
+title = "LOST.W"
+
+[[discs.tracks]]
+title = "ひなんちゅ SPECIAL TALK"
+type = "vocal"
