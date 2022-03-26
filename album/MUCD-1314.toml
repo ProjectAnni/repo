@@ -1,0 +1,48 @@
+[album]
+album_id = "9713361d-22d5-4a8c-9057-944958b9330a"
+title = "サイレントサイレン"
+artist = "Silent Siren"
+date = 2015-02-25
+type = "normal"
+catalog = "MUCD-1314"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-1314"
+
+[[discs.tracks]]
+title = "無音の警告"
+type = "absolute"
+
+[[discs.tracks]]
+title = "KAKUMEI"
+
+[[discs.tracks]]
+title = "BANG!BANG!BANG!"
+
+[[discs.tracks]]
+title = "Routine"
+
+[[discs.tracks]]
+title = "爽快ロック"
+
+[[discs.tracks]]
+title = "手をつないで"
+
+[[discs.tracks]]
+title = "ラッキーガール"
+
+[[discs.tracks]]
+title = "DanceMusiQ"
+
+[[discs.tracks]]
+title = "恋い雪"
+
+[[discs.tracks]]
+title = "女子校戦争"
+
+[[discs.tracks]]
+title = "曖昧 me mine"
+
+[[discs.tracks]]
+title = "ストロベリームーン"

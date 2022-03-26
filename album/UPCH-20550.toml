@@ -1,0 +1,51 @@
+[album]
+album_id = "8a2094fe-2deb-4d32-a0a6-88a3ef419a0e"
+title = "mix10th"
+artist = "SILENT SIREN"
+date = 2020-09-02
+type = "normal"
+catalog = "UPCH-20550"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-20550"
+
+[[discs.tracks]]
+title = "HERO"
+
+[[discs.tracks]]
+title = "sun moon"
+
+[[discs.tracks]]
+title = "Up To You feat. 愛美 from Poppin'Party"
+artist = "SILENT SIREN、愛美"
+
+[[discs.tracks]]
+title = "聞かせてwow wowを"
+
+[[discs.tracks]]
+title = "mate"
+
+[[discs.tracks]]
+title = "四月の風"
+
+[[discs.tracks]]
+title = "てのひら"
+
+[[discs.tracks]]
+title = "OVER DRIVE"
+
+[[discs.tracks]]
+title = "she"
+
+[[discs.tracks]]
+title = "世界で一番不器用なラブソング"
+
+[[discs.tracks]]
+title = "CONNECT"
+
+[[discs.tracks]]
+title = "cheer up!"
+
+[[discs.tracks]]
+title = "Answer"

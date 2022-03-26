@@ -1,0 +1,48 @@
+[album]
+album_id = "be203a5c-2610-41dd-a918-3189d97129b2"
+title = "Start→"
+artist = "Silent Siren"
+date = 2013-04-10
+type = "normal"
+catalog = "MUCD-1279"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-1279"
+
+[[discs.tracks]]
+title = "start"
+type = "absolute"
+
+[[discs.tracks]]
+title = "→"
+
+[[discs.tracks]]
+title = "Sweet Pop!"
+
+[[discs.tracks]]
+title = "URARA"
+
+[[discs.tracks]]
+title = "ユメオイ"
+
+[[discs.tracks]]
+title = "ねぇ"
+
+[[discs.tracks]]
+title = "Remember"
+
+[[discs.tracks]]
+title = "want CHU♡"
+
+[[discs.tracks]]
+title = "ずっと..."
+
+[[discs.tracks]]
+title = "Soda"
+
+[[discs.tracks]]
+title = "stella☆"
+
+[[discs.tracks]]
+title = "甘草"

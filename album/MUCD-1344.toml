@@ -1,0 +1,50 @@
+[album]
+album_id = "d347eeae-3fe9-4c29-8316-d06ceced2d4f"
+title = "S"
+artist = "Silent Siren"
+date = 2016-03-02
+type = "normal"
+catalog = "MUCD-1344"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-1344"
+
+[[discs.tracks]]
+title = "チェリボム"
+
+[[discs.tracks]]
+title = "八月の夜"
+
+[[discs.tracks]]
+title = "milk boy"
+
+[[discs.tracks]]
+title = "ハピマリ"
+
+[[discs.tracks]]
+title = "Love install"
+
+[[discs.tracks]]
+title = "hikari"
+
+[[discs.tracks]]
+title = "吉田さん"
+
+[[discs.tracks]]
+title = "レイラ"
+
+[[discs.tracks]]
+title = "alarm"
+
+[[discs.tracks]]
+title = "nukumor"
+
+[[discs.tracks]]
+title = "C.A.F.E."
+
+[[discs.tracks]]
+title = "スローモーニング"
+
+[[discs.tracks]]
+title = "secret base ～君がくれたもの～"

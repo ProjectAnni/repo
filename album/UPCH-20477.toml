@@ -1,0 +1,50 @@
+[album]
+album_id = "4c1518b8-798b-4a41-91bb-218377bb83bb"
+title = "GIRLS POWER"
+artist = "SILENT SIREN"
+date = 2017-12-27
+type = "normal"
+catalog = "UPCH-20477"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-20477"
+
+[[discs.tracks]]
+title = "フジヤマディスコ"
+
+[[discs.tracks]]
+title = "merry-go-round"
+
+[[discs.tracks]]
+title = "KNiFE"
+
+[[discs.tracks]]
+title = "Love Balloon"
+
+[[discs.tracks]]
+title = "パパヤパヤパ"
+
+[[discs.tracks]]
+title = "ジャストミート"
+
+[[discs.tracks]]
+title = "AKANE"
+
+[[discs.tracks]]
+title = "フユメグ"
+
+[[discs.tracks]]
+title = "さくら咲く青い春"
+
+[[discs.tracks]]
+title = "Kaleidoscope"
+
+[[discs.tracks]]
+title = "ODOREmotion"
+
+[[discs.tracks]]
+title = "さよなら日比谷"
+
+[[discs.tracks]]
+title = "タイトルなし"
