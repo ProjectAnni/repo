@@ -63,7 +63,6 @@ title = "Spilled tea"
 
 [[discs.tracks]]
 title = "Traditional tea"
-artist = "Andrew Mackinlay"
 
 [[discs.tracks]]
 title = "Air of northern countries"
@@ -79,6 +78,8 @@ title = "Pleasant despair"
 
 [[discs.tracks]]
 title = "Train-D"
+type = "normal"
+artist = "Andrew Mackinlay"
 
 [[discs.tracks]]
 title = "私のきもち"
