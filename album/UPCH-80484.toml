@@ -1,0 +1,17 @@
+[album]
+album_id = "88c9b7d4-e046-49f8-b2e0-51db5d1b95d7"
+title = "ジャストミート"
+artist = "SILENT SIREN"
+date = 2017-10-11
+type = "normal"
+catalog = "UPCH-80484"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-80484"
+
+[[discs.tracks]]
+title = "ジャストミート"
+
+[[discs.tracks]]
+title = "フユメグ"

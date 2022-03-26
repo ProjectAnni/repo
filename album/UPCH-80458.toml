@@ -1,0 +1,23 @@
+[album]
+album_id = "550af599-00ea-4db3-9b90-7087a14a898b"
+title = "フジヤマディスコ"
+artist = "SILENT SIREN"
+date = 2017-03-01
+type = "normal"
+catalog = "UPCH-80458"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-80458"
+
+[[discs.tracks]]
+title = "フジヤマディスコ"
+
+[[discs.tracks]]
+title = "Love Balloon"
+
+[[discs.tracks]]
+title = "Pandora"
+
+[[discs.tracks]]
+title = "Days."

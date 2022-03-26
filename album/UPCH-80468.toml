@@ -1,0 +1,20 @@
+[album]
+album_id = "09e511a9-1d83-4cc6-9e1b-7e55eda8c760"
+title = "AKANE／あわあわ"
+artist = "SILENT SIREN"
+date = 2017-05-24
+type = "normal"
+catalog = "UPCH-80468"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-80468"
+
+[[discs.tracks]]
+title = "AKANE"
+
+[[discs.tracks]]
+title = "あわあわ"
+
+[[discs.tracks]]
+title = "Kaleidoscope"
