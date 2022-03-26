@@ -1,0 +1,41 @@
+[album]
+album_id = "188df6a4-d4c3-4878-87e6-2d7c752c317e"
+title = "放課後ティータイム in MOVIE"
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+date = 2012-01-18
+type = "normal"
+catalog = "PCCG-01128"
+tags = ["映画けいおん！"]
+
+[[discs]]
+artist = "放課後ティータイム（平沢唯（豊崎愛生）、秋山澪（日笠陽子）、田井中律（佐藤聡美）、琴吹紬（寿美菜子）、中野梓（竹达彩奈））"
+catalog = "PCCG-01128-1"
+
+[[discs.tracks]]
+title = "カレーのちライス"
+
+[[discs.tracks]]
+title = "ごはんはおかず"
+
+[[discs.tracks]]
+title = "五月雨２０ラブ"
+
+[[discs.tracks]]
+title = "Ｕ＆Ｉ"
+
+[[discs.tracks]]
+title = "天使にふれたよ！"
+
+[[discs.tracks]]
+title = "ふわふわ時間（タイム）"
+
+[[discs]]
+artist = "DEATH DEVIL（山中さわ子（真田アサミ）、河口紀美（浅川悠）、ジェーン、デラ）"
+catalog = "PCCG-01128-2"
+
+[[discs.tracks]]
+title = "光"
+
+[[discs.tracks]]
+title = "光（Instrumental）"
+type = "instrumental"
