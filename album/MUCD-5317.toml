@@ -1,0 +1,18 @@
+[album]
+album_id = "0436f574-c187-476a-95ee-fe2d7f419610"
+title = "alarm"
+edition = "通常盤A"
+artist = "Silent Siren"
+date = 2015-11-04
+type = "normal"
+catalog = "MUCD-5317"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5317"
+
+[[discs.tracks]]
+title = "alarm"
+
+[[discs.tracks]]
+title = "hikari"

@@ -1,0 +1,17 @@
+[album]
+album_id = "a7740c26-9a7b-4d8b-b542-73f8bc0cd11a"
+title = "KAKUMEI"
+artist = "Silent Siren"
+date = 2015-01-14
+type = "normal"
+catalog = "MUCD-5292"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5292"
+
+[[discs.tracks]]
+title = "KAKUMEI"
+
+[[discs.tracks]]
+title = "チラナイハナ (Live Ver.)"

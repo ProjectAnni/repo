@@ -1,0 +1,17 @@
+[album]
+album_id = "de91a794-e7e3-4fd1-a26e-8e55cbfd8a77"
+title = "八月の夜"
+artist = "Silent Siren"
+date = 2015-08-05
+type = "normal"
+catalog = "MUCD-5304"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5304"
+
+[[discs.tracks]]
+title = "八月の夜"
+
+[[discs.tracks]]
+title = "secret base～君がくれたもの～"

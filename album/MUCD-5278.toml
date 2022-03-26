@@ -1,0 +1,21 @@
+[album]
+album_id = "885eb683-f7e7-4c48-adfa-1f804c6700c6"
+title = "BANG!BANG!BANG!"
+edition = "通常盤"
+artist = "Silent Siren"
+date = 2014-08-13
+type = "normal"
+catalog = "MUCD-5278"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5278"
+
+[[discs.tracks]]
+title = "BANG!BANG!BANG!"
+
+[[discs.tracks]]
+title = "What show is it?"
+
+[[discs.tracks]]
+title = "Star drops"

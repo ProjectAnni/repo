@@ -1,0 +1,18 @@
+[album]
+album_id = "e61f7bc3-37ec-4888-97c5-72779b6b888f"
+title = "alarm"
+edition = "通常盤B"
+artist = "Silent Siren"
+date = 2015-11-04
+type = "normal"
+catalog = "MUCD-5318"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5318"
+
+[[discs.tracks]]
+title = "alarm"
+
+[[discs.tracks]]
+title = "キミスキスマイル"

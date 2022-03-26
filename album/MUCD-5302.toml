@@ -1,0 +1,17 @@
+[album]
+album_id = "1b99d48a-0651-4ca1-babc-7fab1807a669"
+title = "ハピマリ"
+artist = "Silent Siren"
+date = 2015-06-10
+type = "normal"
+catalog = "MUCD-5302"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5302"
+
+[[discs.tracks]]
+title = "ハピマリ"
+
+[[discs.tracks]]
+title = "clap!!!"
