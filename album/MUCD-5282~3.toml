@@ -1,0 +1,24 @@
+[album]
+album_id = "5ee4205f-98c3-4229-a460-a81bd8e43f98"
+title = "恋い雪"
+artist = "Silent Siren"
+date = 2014-12-03
+type = "normal"
+catalog = "MUCD-5282~3"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5282~3"
+
+[[discs.tracks]]
+title = "恋い雪"
+
+[[discs.tracks]]
+title = "爽快ロック"
+
+[[discs.tracks]]
+title = "チャイナキッス"
+
+[[discs.tracks]]
+title = "メンバー全員のSPECIAL TALK ~濃度高めのスマッシュキッスで聴いちゃいな~"
+type = "vocal"

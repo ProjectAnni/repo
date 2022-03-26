@@ -1,0 +1,51 @@
+[album]
+album_id = "faa72797-14e3-4a93-8a20-a103d9bb4b4e"
+title = "31Wonderland"
+artist = "Silent Siren"
+date = 2014-02-12
+type = "normal"
+catalog = "MUCD-1293"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-1293"
+
+[[discs.tracks]]
+title = "31Entrance"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Ring Ring Ring"
+
+[[discs.tracks]]
+title = "ビーサン"
+
+[[discs.tracks]]
+title = "「Are you Ready?」"
+
+[[discs.tracks]]
+title = "LOVE FIGHTER！"
+
+[[discs.tracks]]
+title = "アンチノミー"
+
+[[discs.tracks]]
+title = "Delay"
+
+[[discs.tracks]]
+title = "I×U"
+
+[[discs.tracks]]
+title = "Limited"
+
+[[discs.tracks]]
+title = "マイルストーン"
+
+[[discs.tracks]]
+title = "雨降りフリル"
+
+[[discs.tracks]]
+title = "ぐるぐるワンダーランド"
+
+[[discs.tracks]]
+title = "タイトルなし"

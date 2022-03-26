@@ -1,0 +1,21 @@
+[album]
+album_id = "27eb4516-9f25-4f2b-b223-facac5ca294e"
+title = "ラッキーガール"
+edition = "通常盤"
+artist = "Silent Siren"
+date = 2014-06-18
+type = "normal"
+catalog = "MUCD-5264"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5264"
+
+[[discs.tracks]]
+title = "ラッキーガール"
+
+[[discs.tracks]]
+title = "恋花"
+
+[[discs.tracks]]
+title = "LOST.W"

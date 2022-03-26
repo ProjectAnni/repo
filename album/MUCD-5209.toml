@@ -1,0 +1,17 @@
+[album]
+album_id = "be6b5eea-63f9-46f8-a04a-0450e9adce50"
+title = "Sweet Pop!"
+artist = "Silent Siren"
+date = 2012-11-14
+type = "normal"
+catalog = "MUCD-5209"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5209"
+
+[[discs.tracks]]
+title = "Sweet Pop!"
+
+[[discs.tracks]]
+title = "Crazy Lady"

@@ -1,0 +1,32 @@
+[album]
+album_id = "5d5052ac-c7e3-40f2-9694-a55d206589b9"
+title = "ラブシル"
+artist = "Silent Siren"
+date = 2012-07-04
+type = "normal"
+catalog = "BNSS-0002"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "BNSS-0002"
+
+[[discs.tracks]]
+title = "LOVEのしるし"
+
+[[discs.tracks]]
+title = "イブニングスター"
+
+[[discs.tracks]]
+title = "Milky☆Way"
+
+[[discs.tracks]]
+title = "初恋記念日"
+
+[[discs.tracks]]
+title = "escape"
+
+[[discs.tracks]]
+title = "Goodbye3"
+
+[[discs.tracks]]
+title = "キミがスキ"

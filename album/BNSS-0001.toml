@@ -1,0 +1,32 @@
+[album]
+album_id = "a19279a5-d6c2-4548-b55d-c3b94a192449"
+title = "サイサイ"
+artist = "Silent Siren"
+date = 2012-02-08
+type = "normal"
+catalog = "BNSS-0001"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "BNSS-0001"
+
+[[discs.tracks]]
+title = "ランジェリー"
+
+[[discs.tracks]]
+title = "恋哀"
+
+[[discs.tracks]]
+title = "キミハテンキ"
+
+[[discs.tracks]]
+title = "チラナイハナ"
+
+[[discs.tracks]]
+title = "セピア"
+
+[[discs.tracks]]
+title = "サイレン"
+
+[[discs.tracks]]
+title = 'All Right ～"今"を懸ける～'

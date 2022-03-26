@@ -1,0 +1,17 @@
+[album]
+album_id = "0e9200ae-6d8f-4a62-bcd3-606c92c400f1"
+title = "stella☆"
+artist = "Silent Siren"
+date = 2013-02-20
+type = "normal"
+catalog = "MUCD-5214"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5214"
+
+[[discs.tracks]]
+title = "stella☆"
+
+[[discs.tracks]]
+title = "フィルター"

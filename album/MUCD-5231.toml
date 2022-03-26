@@ -1,0 +1,17 @@
+[album]
+album_id = "598ceda6-25c6-4bbe-af32-d750126a2233"
+title = "ビーサン"
+artist = "Silent Siren"
+date = 2013-08-14
+type = "normal"
+catalog = "MUCD-5231"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5231"
+
+[[discs.tracks]]
+title = "ビーサン"
+
+[[discs.tracks]]
+title = "Starmine"

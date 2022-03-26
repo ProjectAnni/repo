@@ -1,0 +1,110 @@
+[album]
+album_id = "17c61537-3c7c-4f64-92f6-22eebcb02a21"
+title = "SILENT"
+artist = "SILENT SIREN"
+date = 2021-12-15
+type = "normal"
+catalog = "UPCH-20608~9"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-20608"
+
+[[discs.tracks]]
+title = "ランジェリー"
+
+[[discs.tracks]]
+title = "セピア"
+
+[[discs.tracks]]
+title = "All Right ～“今”を懸ける～"
+
+[[discs.tracks]]
+title = "LOVEのしるし"
+
+[[discs.tracks]]
+title = "Sweet Pop!"
+
+[[discs.tracks]]
+title = "stella☆"
+
+[[discs.tracks]]
+title = "ビーサン"
+
+[[discs.tracks]]
+title = "Starmine"
+
+[[discs.tracks]]
+title = "ぐるぐるワンダーランド"
+
+[[discs.tracks]]
+title = "ラッキーガール"
+
+[[discs.tracks]]
+title = "恋花"
+
+[[discs.tracks]]
+title = "BANG!BANG!BANG!"
+
+[[discs.tracks]]
+title = "恋い雪"
+
+[[discs.tracks]]
+title = "ハピマリ"
+
+[[discs.tracks]]
+title = "alarm"
+
+[[discs.tracks]]
+title = "チェリボム"
+
+[[discs]]
+catalog = "UPCH-20609"
+
+[[discs.tracks]]
+title = "milk boy"
+
+[[discs.tracks]]
+title = "吉田さん"
+
+[[discs.tracks]]
+title = "nukumor"
+
+[[discs.tracks]]
+title = "Love Balloon"
+
+[[discs.tracks]]
+title = "AKANE"
+
+[[discs.tracks]]
+title = "ジャストミート"
+
+[[discs.tracks]]
+title = "さよなら日比谷"
+
+[[discs.tracks]]
+title = "19 summer note."
+
+[[discs.tracks]]
+title = "Go Way!"
+
+[[discs.tracks]]
+title = "Melty"
+
+[[discs.tracks]]
+title = "恋のエスパー"
+
+[[discs.tracks]]
+title = "無重力ダンス"
+
+[[discs.tracks]]
+title = "卒業"
+
+[[discs.tracks]]
+title = "四月の風"
+
+[[discs.tracks]]
+title = "CONNECT"
+
+[[discs.tracks]]
+title = "FAMILIA"

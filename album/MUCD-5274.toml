@@ -1,0 +1,25 @@
+[album]
+album_id = "7e0fa541-1f3e-43cc-a190-d0af4e1b7f09"
+title = "BANG!BANG!BANG!"
+edition = "初回生産限定すぅ盤"
+artist = "Silent Siren"
+date = 2014-08-13
+type = "normal"
+catalog = "MUCD-5274"
+tags = ["Silent Siren"]
+
+[[discs]]
+catalog = "MUCD-5274"
+
+[[discs.tracks]]
+title = "BANG!BANG!BANG!"
+
+[[discs.tracks]]
+title = "What show is it?"
+
+[[discs.tracks]]
+title = "Star drops"
+
+[[discs.tracks]]
+title = "すぅ SPECIAL TALK"
+type = "vocal"

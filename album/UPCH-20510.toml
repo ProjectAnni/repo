@@ -1,0 +1,50 @@
+[album]
+album_id = "a5d83993-5b35-4b29-bf75-ff99d8f9865e"
+title = "31313"
+artist = "SILENT SIREN"
+date = 2019-03-13
+type = "normal"
+catalog = "UPCH-20510"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-20510"
+
+[[discs.tracks]]
+title = "恋のエスパー"
+
+[[discs.tracks]]
+title = "無重力ダンス"
+
+[[discs.tracks]]
+title = "Go Way!"
+
+[[discs.tracks]]
+title = "ALC.Monster"
+
+[[discs.tracks]]
+title = "天下一品のテーマ"
+
+[[discs.tracks]]
+title = "クリームソーダ"
+
+[[discs.tracks]]
+title = "REBORN"
+
+[[discs.tracks]]
+title = "卒業"
+
+[[discs.tracks]]
+title = "19 summer note."
+
+[[discs.tracks]]
+title = "Attack"
+
+[[discs.tracks]]
+title = "渇かない涙"
+
+[[discs.tracks]]
+title = "Letter"
+
+[[discs.tracks]]
+title = "Happy Song For You"

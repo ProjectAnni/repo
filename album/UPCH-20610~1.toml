@@ -1,0 +1,110 @@
+[album]
+album_id = "1f5f4cdc-77ee-44bf-b41d-562b2feedf86"
+title = "SIREN"
+artist = "SILENT SIREN"
+date = 2021-12-15
+type = "normal"
+catalog = "UPCH-20610~1"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-20610"
+
+[[discs.tracks]]
+title = "チラナイハナ"
+
+[[discs.tracks]]
+title = "サイレン"
+
+[[discs.tracks]]
+title = "Milky☆Way"
+
+[[discs.tracks]]
+title = "まだ見ぬ明日を"
+
+[[discs.tracks]]
+title = "Limited"
+
+[[discs.tracks]]
+title = "LOST.W"
+
+[[discs.tracks]]
+title = "What show is it?"
+
+[[discs.tracks]]
+title = "爽快ロック"
+
+[[discs.tracks]]
+title = "チャイナキッス"
+
+[[discs.tracks]]
+title = "KAKUMEI"
+
+[[discs.tracks]]
+title = "Routine"
+
+[[discs.tracks]]
+title = "DanceMusiQ"
+
+[[discs.tracks]]
+title = "女子校戦争"
+
+[[discs.tracks]]
+title = "八月の夜"
+
+[[discs.tracks]]
+title = "Love install"
+
+[[discs.tracks]]
+title = "スローモーニング"
+
+[[discs]]
+catalog = "UPCH-20611"
+
+[[discs.tracks]]
+title = "フジヤマディスコ"
+
+[[discs.tracks]]
+title = "Pandora"
+
+[[discs.tracks]]
+title = "Days."
+
+[[discs.tracks]]
+title = "Kaleidoscope"
+
+[[discs.tracks]]
+title = "merry-go-round"
+
+[[discs.tracks]]
+title = "KNiFE"
+
+[[discs.tracks]]
+title = "ODOREmotion"
+
+[[discs.tracks]]
+title = "天下一品のテーマ"
+
+[[discs.tracks]]
+title = "クリームソーダ"
+
+[[discs.tracks]]
+title = "ALC.Monster"
+
+[[discs.tracks]]
+title = "REBORN"
+
+[[discs.tracks]]
+title = "Attack"
+
+[[discs.tracks]]
+title = "HERO"
+
+[[discs.tracks]]
+title = "聞かせてwow wowを"
+
+[[discs.tracks]]
+title = "Answer"
+
+[[discs.tracks]]
+title = "恋爛漫"

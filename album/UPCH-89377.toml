@@ -1,0 +1,23 @@
+[album]
+album_id = "5a66866b-a404-4a46-a7c5-4f2d242a1e29"
+title = "19 summer note."
+artist = "SILENT SIREN"
+date = 2018-07-11
+type = "normal"
+catalog = "UPCH-89377"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-89377"
+
+[[discs.tracks]]
+title = "19 summer note."
+
+[[discs.tracks]]
+title = "天下一品のテーマ"
+
+[[discs.tracks]]
+title = "Kaleidoscope（ライブ音源 from 『天下一品 presents SILENT SIREN LIVE TOUR 2018 ～”Girls will be Bears”TOUR～』）"
+
+[[discs.tracks]]
+title = "ODOREmotion（ライブ音源 from 『天下一品 presents SILENT SIREN LIVE TOUR 2018 ～”Girls will be Bears”TOUR～』）"

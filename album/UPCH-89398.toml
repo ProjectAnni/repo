@@ -1,0 +1,24 @@
+[album]
+album_id = "6bd9eff3-9988-4c88-af61-759ea596769a"
+title = "Go Way!"
+artist = "SILENT SIREN"
+date = 2018-11-14
+type = "normal"
+catalog = "UPCH-89398"
+tags = ["SILENT SIREN"]
+
+[[discs]]
+catalog = "UPCH-89398"
+
+[[discs.tracks]]
+title = "Go Way!"
+
+[[discs.tracks]]
+title = "クリームソーダ"
+
+[[discs.tracks]]
+title = "Melty"
+
+[[discs.tracks]]
+title = "Go Way!（カラオケ・バージョン）"
+type = "instrumental"
