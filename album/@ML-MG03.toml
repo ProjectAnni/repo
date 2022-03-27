@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! 3 オリジナルCD"
 artist = "伊吹翼（Machico）、ジュリア（愛美）、真壁瑞希（阿部里果）"
 date = 2016-01-12
 type = "drama"
-catalog = "ISBN-9784091592217"
+catalog = "@ML-MG03"
 tags = ["THE IDOLM@STER MILLION LIVE! オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784091592217"
+catalog = "@ML-MG03"
 
 [[discs.tracks]]
 title = "ドラマパート1"

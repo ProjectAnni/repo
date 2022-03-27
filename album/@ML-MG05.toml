@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! 5 オリジナルCD"
 artist = "Various Artists"
 date = 2016-12-09
 type = "normal"
-catalog = "ISBN-9784099418847"
+catalog = "@ML-MG05"
 tags = ["THE IDOLM@STER MILLION LIVE! オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784099418847"
+catalog = "@ML-MG05"
 
 [[discs.tracks]]
 title = "君との明日を願うから"

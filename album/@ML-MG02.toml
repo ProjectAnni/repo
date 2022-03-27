@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! 2 オリジナルCD"
 artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）、望月杏奈（夏川椎菜）、馬場このみ（高橋未奈美）"
 date = 2015-08-12
 type = "drama"
-catalog = "ISBN-9784091592132"
+catalog = "@ML-MG02"
 tags = ["THE IDOLM@STER MILLION LIVE! オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784091592132"
+catalog = "@ML-MG02"
 
 [[discs.tracks]]
 title = "ドラマパート1"
