@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! Blooming Clover 5 オ�
 artist = "Various Artists"
 date = 2019-06-27
 type = "normal"
-catalog = "ISBN-9784049124668"
+catalog = "@ML-BC05"
 tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784049124668"
+catalog = "@ML-BC05"
 
 [[discs.tracks]]
 title = "Clover Days"

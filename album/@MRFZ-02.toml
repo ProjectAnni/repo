@@ -4,11 +4,11 @@ title = "明日方舟OST2"
 artist = "Monster Siren Records"
 date = 2021-01-21
 type = "absolute"
-catalog = "ISBN-9787884181841"
+catalog = "@MRFZ-02"
 tags = ["明日方舟"]
 
 [[discs]]
-catalog = "ISBN-9787884181841"
+catalog = "@MRFZ-02"
 
 [[discs.tracks]]
 title = "0:00:01"

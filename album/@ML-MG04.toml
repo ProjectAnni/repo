@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! 4 オリジナルCD"
 artist = "Various Artists"
 date = 2016-07-12
 type = "normal"
-catalog = "ISBN-9784091592354"
+catalog = "@ML-MG04"
 tags = ["THE IDOLM@STER MILLION LIVE! オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784091592354"
+catalog = "@ML-MG04"
 
 [[discs.tracks]]
 title = "Flooding"

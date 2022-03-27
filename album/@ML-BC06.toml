@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! Blooming Clover 6 オ�
 artist = "Various Artists"
 date = 2020-03-27
 type = "normal"
-catalog = "ISBN-9784049129304"
+catalog = "@ML-BC06"
 tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784049129304"
+catalog = "@ML-BC06"
 
 [[discs.tracks]]
 title = "自転車"

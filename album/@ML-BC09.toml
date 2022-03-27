@@ -1,0 +1,24 @@
+[album]
+album_id = "388a4727-e33e-42b3-8328-70132fe8e072"
+title = "アイドルマスター ミリオンライブ! Blooming Clover 9 オリジナルCD"
+artist = "Various Artists"
+date = 2021-07-27
+type = "normal"
+catalog = "@ML-BC09"
+tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
+
+[[discs]]
+catalog = "@ML-BC09"
+
+[[discs.tracks]]
+title = "アマテラス (M@STER VERSION)"
+artist = "エミリー スチュアート（郁原ゆう）、木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "カーテンコール"
+artist = "天空橋朋花（小岩井ことり）、百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、北沢志保（雨宮天）、エミリー スチュアート（郁原ゆう）、木下ひなた（田村奈央）"
+type = "drama"

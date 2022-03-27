@@ -4,11 +4,11 @@ title = "アイドルマスター ミリオンライブ! Blooming Clover 4 オ�
 artist = "Various Artists"
 date = 2018-12-27
 type = "normal"
-catalog = "ISBN-9784049121049"
+catalog = "@ML-BC04"
 tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
 
 [[discs]]
-catalog = "ISBN-9784049121049"
+catalog = "@ML-BC04"
 
 [[discs.tracks]]
 title = "チェリー"
