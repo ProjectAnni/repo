@@ -1,0 +1,128 @@
+[album]
+album_id = "5b36057e-df18-4f3b-a66b-be8fabd7211a"
+title = "μ's Best Album Best Live! collection"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+date = 2013-01-09
+type = "normal"
+catalog = "LACA-39260~1"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACA-39260"
+
+[[discs.tracks]]
+title = "僕らのLIVE 君とのLIFE"
+
+[[discs.tracks]]
+title = "友情ノーチェンジ"
+
+[[discs.tracks]]
+title = "Snow halation"
+
+[[discs.tracks]]
+title = "baby maybe 恋のボタン"
+
+[[discs.tracks]]
+title = "Love marginal"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+
+[[discs.tracks]]
+title = "sweet&sweet holiday"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+
+[[discs.tracks]]
+title = "ダイヤモンドプリンセスの憂鬱"
+artist = "BiBi（絢瀬絵里（南條愛乃）、西木野真姫（Pile）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "ラブノベルス"
+artist = "BiBi（絢瀬絵里（南條愛乃）、西木野真姫（Pile）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "知らないLove＊教えてLove"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+
+[[discs.tracks]]
+title = "あ.の.ね.が.ん.ば.れ!"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+
+[[discs.tracks]]
+title = "夏色えがおで1,2,Jump!"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.1"
+
+[[discs.tracks]]
+title = "もぎゅっと“love”で接近中!"
+
+[[discs.tracks]]
+title = "愛してるばんざーい!"
+
+[[discs]]
+catalog = "LACA-39261"
+
+[[discs.tracks]]
+title = "Wonderful Rush"
+
+[[discs.tracks]]
+title = "Oh, Love & Peace!"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.2～Passionate～"
+artist = "高坂穂乃果（新田恵海）、星空凛（飯田里穂）"
+
+[[discs.tracks]]
+title = "Someday of my life"
+artist = "高坂穂乃果（新田恵海）"
+
+[[discs.tracks]]
+title = "恋のシグナルRin rin rin!"
+artist = "星空凛（飯田里穂）"
+
+[[discs.tracks]]
+title = "乙女式れんあい塾"
+artist = "矢澤にこ（徳井青空）、東條希（楠田亜衣奈）"
+
+[[discs.tracks]]
+title = "まほうつかいはじめました!"
+artist = "矢澤にこ（徳井青空）"
+
+[[discs.tracks]]
+title = "純愛レンズ"
+artist = "東條希（楠田亜衣奈）"
+
+[[discs.tracks]]
+title = "告白日和、です！"
+artist = "南ことり（内田彩）、小泉花陽（久保ユリカ）"
+
+[[discs.tracks]]
+title = "ぶる～べりぃとれいん"
+artist = "南ことり（内田彩）"
+
+[[discs.tracks]]
+title = "孤独なHeaven"
+artist = "小泉花陽（久保ユリカ）"
+
+[[discs.tracks]]
+title = "soldier game"
+artist = "西木野真姫（Pile）、園田海未（三森すずこ）、絢瀬絵里（南條愛乃）"
+
+[[discs.tracks]]
+title = "Daring!!"
+artist = "西木野真姫（Pile）"
+
+[[discs.tracks]]
+title = "勇気のReason"
+artist = "園田海未（三森すずこ）"
+
+[[discs.tracks]]
+title = "ありふれた悲しみの果て"
+artist = "絢瀬絵里（南條愛乃）"
+
+[[discs.tracks]]
+title = "Listen to my heart!!"
+artist = "にこりんぱな（矢澤にこ（徳井青空）、星空 凛（飯田里穂）、小泉花陽（久保ユリカ））"
+
+[[discs.tracks]]
+title = "after school NAVIGATORS"
+artist = "にこりんぱな（矢澤にこ（徳井青空）、星空 凛（飯田里穂）、小泉花陽（久保ユリカ））"
