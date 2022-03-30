@@ -1,0 +1,25 @@
+[album]
+album_id = "f94b223f-50f1-47ba-a210-4727543e7403"
+title = "どんなときもずっと"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+date = 2014-05-08
+type = "normal"
+catalog = "LACM-14230"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACM-14230"
+
+[[discs.tracks]]
+title = "どんなときもずっと"
+
+[[discs.tracks]]
+title = "COLORFUL VOICE"
+
+[[discs.tracks]]
+title = "どんなときもずっと(Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "COLORFUL VOICE(Off Vocal)"
+type = "instrumental"

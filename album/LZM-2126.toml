@@ -1,0 +1,18 @@
+[album]
+album_id = "03887f2c-3669-4ab8-8297-abcc8989fdcf"
+title = "MUSEUMでどうしたい？"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+date = 2015-05-23
+type = "normal"
+catalog = "LZM-2126"
+tags = ["Printemps"]
+
+[[discs]]
+catalog = "LZM-2126"
+
+[[discs.tracks]]
+title = "MUSEUMでどうしたい？"
+
+[[discs.tracks]]
+title = "MUSEUMでどうしたい？ (Off Vocal)"
+type = "instrumental"

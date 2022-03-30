@@ -1,0 +1,49 @@
+[album]
+album_id = "8f7070da-9bd0-41f9-bb63-03394db48efa"
+title = "soldier game"
+artist = "西木野真姫（Pile）、園田海未（三森すずこ）、絢瀬絵里（南條愛乃）"
+date = 2012-07-25
+type = "normal"
+catalog = "LACM-4961"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACM-4961"
+
+[[discs.tracks]]
+title = "soldier game"
+
+[[discs.tracks]]
+title = "Darling!!"
+artist = "西木野真姫（Pile）"
+
+[[discs.tracks]]
+title = "勇気のReason"
+artist = "園田海未（三森すずこ）"
+
+[[discs.tracks]]
+title = "ありふれた悲しみの果て"
+artist = "絢瀬絵里（南條愛乃）"
+
+[[discs.tracks]]
+title = "soldier game(Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Darling!!(Off Vocal)"
+artist = "西木野真姫（Pile）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "勇気のReason(Off Vocal)"
+artist = "園田海未（三森すずこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ありふれた悲しみの果て(Off Vocal)"
+artist = "絢瀬絵里（南條愛乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まきうみえり、お勉強会しにきました！（ミニドラマ）"
+type = "drama"

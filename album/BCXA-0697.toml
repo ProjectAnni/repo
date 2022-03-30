@@ -1,0 +1,18 @@
+[album]
+album_id = "d35c99d1-4831-4212-9325-c828a852a89d"
+title = "夢なき夢は夢じゃない"
+artist = "高坂穂乃果（新田恵海）"
+date = 2013-03-22
+type = "normal"
+catalog = "BCXA-0697"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0697"
+
+[[discs.tracks]]
+title = "夢なき夢は夢じゃない"
+
+[[discs.tracks]]
+title = "夢なき夢は夢じゃない(Off Vocal)"
+type = "instrumental"

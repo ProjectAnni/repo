@@ -1,0 +1,25 @@
+[album]
+album_id = "afe5aec1-aa7a-4c17-961e-1b6bab4c3a88"
+title = "WAO-WAO Powerful day!"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+date = 2015-11-25
+type = "normal"
+catalog = "LACM-14413"
+tags = ["Printemps"]
+
+[[discs]]
+catalog = "LACM-14413"
+
+[[discs.tracks]]
+title = "WAO-WAO Powerful day!"
+
+[[discs.tracks]]
+title = "NO EXIT ORION"
+
+[[discs.tracks]]
+title = "WAO-WAO Powerful day! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "NO EXIT ORION (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,18 @@
+[album]
+album_id = "347304a8-8c6b-466c-91d3-163f965b727c"
+title = "乙姫心で恋宮殿"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+date = 2015-05-23
+type = "normal"
+catalog = "LZM-2128"
+tags = ["lily white"]
+
+[[discs]]
+catalog = "LZM-2128"
+
+[[discs.tracks]]
+title = "乙姫心で恋宮殿"
+
+[[discs.tracks]]
+title = "乙姫心で恋宮殿 (Off Vocal)"
+type = "instrumental"

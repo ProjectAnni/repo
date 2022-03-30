@@ -1,0 +1,18 @@
+[album]
+album_id = "d90bb29c-d3e5-4219-afac-d7dd3548cf49"
+title = "ぷわぷわーお！"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+date = 2013-09-25
+type = "normal"
+catalog = "BEPC-0004"
+tags = ["Printemps"]
+
+[[discs]]
+catalog = "BEPC-0004"
+
+[[discs.tracks]]
+title = "ぷわぷわーお！"
+
+[[discs.tracks]]
+title = "ぷわぷわーお！(Off Vocal)"
+type = "instrumental"

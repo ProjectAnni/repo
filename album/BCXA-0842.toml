@@ -1,0 +1,18 @@
+[album]
+album_id = "88c99b6c-e183-40c3-a942-f6d31199f02c"
+title = "Storm in Lover"
+artist = "園田海未（三森すずこ）、絢瀬絵里（南條愛乃）"
+date = 2014-09-24
+type = "normal"
+catalog = "BCXA-0842"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0842"
+
+[[discs.tracks]]
+title = "Storm in Lover"
+
+[[discs.tracks]]
+title = "Storm in Lover(Off Vocal)"
+type = "instrumental"

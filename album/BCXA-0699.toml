@@ -1,0 +1,18 @@
+[album]
+album_id = "3b8aad62-47e7-4fb3-847f-02371d8edbe2"
+title = "なわとび"
+artist = "小泉花陽（久保ユリカ）"
+date = 2013-05-28
+type = "normal"
+catalog = "BCXA-0699"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0699"
+
+[[discs.tracks]]
+title = "なわとび"
+
+[[discs.tracks]]
+title = "なわとび(Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,25 @@
+[album]
+album_id = "b12d46ca-c46d-4970-9566-3fd68272b50a"
+title = "思い出以上になりたくて"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+date = 2015-12-23
+type = "normal"
+catalog = "LACM-14414"
+tags = ["lily white"]
+
+[[discs]]
+catalog = "LACM-14414"
+
+[[discs.tracks]]
+title = "思い出以上になりたくて"
+
+[[discs.tracks]]
+title = "春情ロマンティック"
+
+[[discs.tracks]]
+title = "思い出以上になりたくて（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "春情ロマンティック（Off Vocal）"
+type = "instrumental"

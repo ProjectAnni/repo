@@ -1,0 +1,30 @@
+[album]
+album_id = "58871f69-f02f-486c-b15e-1590bcecab06"
+title = "微熱からMystery"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+date = 2013-06-26
+type = "normal"
+catalog = "LACM-14101"
+tags = ["lily white"]
+
+[[discs]]
+catalog = "LACM-14101"
+
+[[discs.tracks]]
+title = "微熱からMystery"
+
+[[discs.tracks]]
+title = "キミのくせに！"
+
+[[discs.tracks]]
+title = "微熱からMystery (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミのくせに！ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プールでトレーニング！？ (ミニドラマ)"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+type = "drama"

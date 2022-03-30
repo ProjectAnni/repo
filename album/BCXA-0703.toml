@@ -1,0 +1,18 @@
+[album]
+album_id = "0ee82688-36d5-4d5a-8a41-6dcd5b048530"
+title = "LONELIEST BABY"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+date = 2013-09-25
+type = "normal"
+catalog = "BCXA-0703"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0703"
+
+[[discs.tracks]]
+title = "LONELIEST BABY"
+
+[[discs.tracks]]
+title = "LONELIEST BABY(off vocal)"
+type = "instrumental"

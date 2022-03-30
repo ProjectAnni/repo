@@ -1,0 +1,25 @@
+[album]
+album_id = "e4209ffc-43fc-4b0f-893b-03a2a1a64f67"
+title = "ススメ→トゥモロウ／START：DASH!!"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）"
+date = 2013-02-20
+type = "normal"
+catalog = "LACM-14055"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACM-14055"
+
+[[discs.tracks]]
+title = "ススメ→トゥモロウ"
+
+[[discs.tracks]]
+title = "START：DASH!!"
+
+[[discs.tracks]]
+title = "ススメ→トゥモロウ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "START：DASH!! (Off Vocal)"
+type = "instrumental"

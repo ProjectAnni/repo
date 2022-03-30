@@ -1,0 +1,18 @@
+[album]
+album_id = "3d1a81f8-3535-4c67-99ef-cb8a84e66cd6"
+title = "硝子の花園"
+artist = "絢瀬絵里（南條愛乃）・東條希（楠田亜衣奈）"
+date = 2013-08-28
+type = "normal"
+catalog = "BCXA-0702"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0702"
+
+[[discs.tracks]]
+title = "硝子の花園"
+
+[[discs.tracks]]
+title = "硝子の花園（Off Vocal）"
+type = "instrumental"

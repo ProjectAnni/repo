@@ -1,0 +1,29 @@
+[album]
+album_id = "96db93a4-e4cb-4ed2-8129-03dc957f19e1"
+title = "ラブライ部 ラジオ課外活動 にこりんぱな テーマソングDJCD"
+artist = "にこりんぱな（矢澤にこ（徳井青空）、星空 凛（飯田里穂）、小泉花陽（久保ユリカ））"
+date = 2012-10-17
+type = "normal"
+catalog = "LACA-15244"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACA-15244"
+
+[[discs.tracks]]
+title = "Listen to my heart!!"
+
+[[discs.tracks]]
+title = "after school NAVIGATORS"
+
+[[discs.tracks]]
+title = "Listen to my heart!!（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "after school NAVIGATORS（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブライ部　テーマソングDJCDでもラジオ課外活動～にこりんぱな～[DJトラック]"
+type = "radio"

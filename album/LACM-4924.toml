@@ -1,0 +1,40 @@
+[album]
+album_id = "13d8bc58-00dc-4475-86bc-f378529dfa74"
+title = "Mermaid festa vol.2 ～Passionate～"
+artist = "高坂穂乃果（新田恵海）、星空凛（飯田里穂）"
+date = 2012-04-25
+type = "normal"
+catalog = "LACM-4924"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACM-4924"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.2 ～Passionate～"
+
+[[discs.tracks]]
+title = "Someday of my life"
+artist = "高坂穂乃果（新田恵海）"
+
+[[discs.tracks]]
+title = "恋のシグナルRin rin rin!"
+artist = "星空凛（飯田里穂）"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.2 ～Passionate～(Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Someday of my life(Off Vocal)"
+artist = "高坂穂乃果（新田恵海）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "恋のシグナルRin rin rin(Off Vocal)"
+artist = "星空凛（飯田里穂）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ほのりん、あなたを起こしに来ました！（ミニドラマ）"
+type = "drama"
