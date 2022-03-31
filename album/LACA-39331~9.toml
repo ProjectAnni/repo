@@ -1,25 +1,25 @@
 [album]
 album_id = "9c9dbf70-8812-4d5f-81d5-bca91333945b"
-title = "Solo Live! collection Memorial BOX II"
+title = "ラブライブ！Solo Live! collection Memorial BOX II"
 artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
 date = 2014-04-02
 type = "normal"
-catalog = "LACA-39331~39"
+catalog = "LACA-39331~9"
 tags = ["μ's"]
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 高坂穂乃果 orange cheers!"
+title = "ラブライブ！Solo Live! from μ's 高坂穂乃果 orange cheers!"
 artist = "高坂穂乃果（新田恵海）"
 catalog = "LACA-39331"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (HONOKA Mix)"
+title = "もぎゅっと“love”で接近中！(HONOKA Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (HONOKA Mix)"
+title = "愛してるばんざーい！(HONOKA Mix)"
 
 [[discs.tracks]]
-title = "Mermaid festa vol.2 ~Passionate~ (HONOKA Mix)"
+title = "Mermaid festa vol.2 ～Passionate～ (HONOKA Mix)"
 
 [[discs.tracks]]
 title = "Wonderful Rush (HONOKA Mix)"
@@ -55,15 +55,15 @@ title = "No brand girls (HONOKA Mix)"
 title = "START：DASH!! (HONOKA Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 絢瀬絵里 アイス・ブルーの瞬間"
+title = "ラブライブ！Solo Live! from μ's 絢瀬絵里 アイス・ブルーの瞬間"
 artist = "絢瀬絵里（南條愛乃）"
 catalog = "LACA-39332"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (ELI Mix)"
+title = "もぎゅっと“love”で接近中！(ELI Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (ELI Mix)"
+title = "愛してるばんざーい！(ELI Mix)"
 
 [[discs.tracks]]
 title = "soldier game (ELI Mix)"
@@ -96,18 +96,18 @@ title = "No brand girls (ELI Mix)"
 title = "START：DASH!! (ELI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 南ことり 純白ロマンス"
+title = "ラブライブ！Solo Live! from μ's 南ことり 純白ロマンス"
 artist = "南ことり（内田彩）"
 catalog = "LACA-39333"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (KOTORI Mix)"
+title = "もぎゅっと“love”で接近中！(KOTORI Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (KOTORI Mix)"
+title = "愛してるばんざーい！(KOTORI Mix)"
 
 [[discs.tracks]]
-title = "告白日和、です！ (KOTORI Mix)"
+title = "告白日和、です！(KOTORI Mix)"
 
 [[discs.tracks]]
 title = "Wonderful Rush (KOTORI Mix)"
@@ -143,15 +143,15 @@ title = "No brand girls (KOTORI Mix)"
 title = "START：DASH!! (KOTORI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 園田海未 蒼の神話"
+title = "ラブライブ！Solo Live! from μ's 園田海未 蒼の神話"
 artist = "園田海未（三森すずこ）"
 catalog = "LACA-39334"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (UMI Mix)"
+title = "もぎゅっと“love”で接近中！(UMI Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (UMI Mix)"
+title = "愛してるばんざーい！(UMI Mix)"
 
 [[discs.tracks]]
 title = "soldier game (UMI Mix)"
@@ -190,18 +190,18 @@ title = "No brand girls (UMI Mix)"
 title = "START：DASH!! (UMI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 星空凛 Ring a yellow bell"
+title = "ラブライブ！Solo Live! from μ's 星空凛 Ring a yellow bell"
 artist = "星空凛（飯田里穂）"
 catalog = "LACA-39335"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (RIN Mix)"
+title = "もぎゅっと“love”で接近中！(RIN Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (RIN Mix)"
+title = "愛してるばんざーい！(RIN Mix)"
 
 [[discs.tracks]]
-title = "Mermaid festa vol.2 ~Passionate~ (RIN Mix)"
+title = "Mermaid festa vol.2 ～Passionate～ (RIN Mix)"
 
 [[discs.tracks]]
 title = "Wonderful Rush (RIN Mix)"
@@ -240,15 +240,15 @@ title = "No brand girls (RIN Mix)"
 title = "START：DASH!! (RIN Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 西木野真姫 SCARLET PRINCESS"
+title = "ラブライブ！Solo Live! from μ's 西木野真姫 SCARLET PRINCESS"
 artist = "西木野真姫（Pile）"
 catalog = "LACA-39336"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (MAKI Mix)"
+title = "もぎゅっと“love”で接近中！(MAKI Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (MAKI Mix)"
+title = "愛してるばんざーい！(MAKI Mix)"
 
 [[discs.tracks]]
 title = "soldier game (MAKI Mix)"
@@ -284,15 +284,15 @@ title = "No brand girls (MAKI Mix)"
 title = "START：DASH!! (MAKI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 東條希 バイオレットムーン"
+title = "ラブライブ！Solo Live! from μ's 東條希 バイオレットムーン"
 artist = "東條希（楠田亜衣奈）"
 catalog = "LACA-39337"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (NOZOMI Mix)"
+title = "もぎゅっと“love”で接近中！(NOZOMI Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (NOZOMI Mix)"
+title = "愛してるばんざーい！(NOZOMI Mix)"
 
 [[discs.tracks]]
 title = "乙女式れんあい塾 (NOZOMI Mix)"
@@ -325,18 +325,18 @@ title = "No brand girls (NOZOMI Mix)"
 title = "START：DASH!! (NOZOMI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 小泉花陽 若草のSeason"
+title = "ラブライブ！Solo Live! from μ's 小泉花陽 若草のSeason"
 artist = "小泉花陽（久保ユリカ）"
 catalog = "LACA-39338"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (HANAYO Mix)"
+title = "もぎゅっと“love”で接近中！(HANAYO Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (HANAYO Mix)"
+title = "愛してるばんざーい！(HANAYO Mix)"
 
 [[discs.tracks]]
-title = "告白日和、です！ (HANAYO Mix)"
+title = "告白日和、です！(HANAYO Mix)"
 
 [[discs.tracks]]
 title = "Wonderful Rush (HANAYO Mix)"
@@ -375,15 +375,15 @@ title = "No brand girls (HANAYO Mix)"
 title = "START：DASH!! (HANAYO Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 矢澤にこ ももいろ♡えがお"
+title = "ラブライブ！Solo Live! from μ's 矢澤にこ ももいろ♡えがお"
 artist = "矢澤にこ（徳井青空）"
 catalog = "LACA-39339"
 
 [[discs.tracks]]
-title = "もぎゅっと“love”で接近中！ (NICO Mix)"
+title = "もぎゅっと“love”で接近中！(NICO Mix)"
 
 [[discs.tracks]]
-title = "愛してるばんざーい！ (NICO Mix)"
+title = "愛してるばんざーい！(NICO Mix)"
 
 [[discs.tracks]]
 title = "乙女式れんあい塾 (NICO Mix)"
