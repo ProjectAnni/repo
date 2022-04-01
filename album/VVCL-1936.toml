@@ -1,0 +1,39 @@
+[album]
+album_id = "5138fd63-a40e-47ea-af7a-f12860e5077c"
+title = "narrow"
+artist = "楠木ともり"
+date = 2021-11-10
+type = "normal"
+catalog = "VVCL-1936"
+tags = ["楠木ともり"]
+
+[[discs]]
+catalog = "VVCL-1936"
+
+[[discs.tracks]]
+title = "narrow"
+
+[[discs.tracks]]
+title = "よりみち"
+
+[[discs.tracks]]
+title = "熾火"
+
+[[discs.tracks]]
+title = "タルヒ"
+
+[[discs.tracks]]
+title = "narrow -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "よりみち -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "熾火 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "タルヒ -Instrumental-"
+type = "instrumental"

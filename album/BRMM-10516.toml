@@ -1,0 +1,29 @@
+[album]
+album_id = "b6944d5b-4731-431e-aceb-9954d426e8a4"
+title = "fly with the night"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2022-03-30
+type = "normal"
+catalog = "BRMM-10516"
+tags = ["Morfonica"]
+
+[[discs]]
+catalog = "BRMM-10516"
+
+[[discs.tracks]]
+title = "fly with the night"
+
+[[discs.tracks]]
+title = "Secret Dawn"
+
+[[discs.tracks]]
+title = "fly with the night -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Secret Dawn -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "朗読劇「Andante」"
+type = "drama"
