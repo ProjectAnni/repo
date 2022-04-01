@@ -1,6 +1,6 @@
 [album]
 album_id = "81e3fba3-ec54-4070-81c4-1f78a14d5e73"
-title = "Solo Live! collection Memorial BOX I"
+title = "ラブライブ！μ's Memorial BOX I Solo Live! Collection"
 artist = "東條希（楠田亜衣奈）、矢澤にこ（徳井青空）、西木野真姫（Pile）、絢瀬絵里（南條愛乃）、星空凛（飯田里穂）、小泉花陽（久保ユリカ）"
 date = 2012-02-19
 type = "normal"
@@ -8,7 +8,7 @@ catalog = "LZM-2057~62"
 tags = ["μ's"]
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 東條希 ノゾミ♪カナエテ"
+title = "ラブライブ！Solo Live! from μ's 東條希 ノゾミ♪カナエテ"
 artist = "東條希（楠田亜衣奈）"
 catalog = "LZM-2057"
 
@@ -28,7 +28,7 @@ title = "baby maybe 恋のボタン (NOZOMI Mix)"
 title = "知らないLove＊教えてLove (NOZOMI Mix)"
 
 [[discs.tracks]]
-title = "あ・の・ね・が・ん・ば・れ！ (NOZOMI Mix)"
+title = "あ・の・ね・が・ん・ば・れ！(NOZOMI Mix)"
 
 [[discs.tracks]]
 title = "夏色えがおで1,2,Jump! (NOZOMI Mix)"
@@ -37,7 +37,7 @@ title = "夏色えがおで1,2,Jump! (NOZOMI Mix)"
 title = "Mermaid festa vol.1 (NOZOMI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 矢澤にこ スマイル・フォー・ユー"
+title = "ラブライブ！Solo Live! from μ's 矢澤にこ スマイル・フォー・ユー"
 artist = "矢澤にこ（徳井青空）"
 catalog = "LZM-2058"
 
@@ -66,7 +66,7 @@ title = "夏色えがおで1,2,Jump! (NICO Mix)"
 title = "Mermaid festa vol.1 (NICO Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 西木野真姫 TRUE DIVA"
+title = "ラブライブ！Solo Live! from μ's 西木野真姫 TRUE DIVA"
 artist = "西木野真姫（Pile）"
 catalog = "LZM-2059"
 
@@ -95,7 +95,7 @@ title = "夏色えがおで1,2,Jump! (MAKI Mix)"
 title = "Mermaid festa vol.1 (MAKI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 絢瀬絵里 Beloved Ellie"
+title = "ラブライブ！Solo Live! from μ's 絢瀬絵里 Beloved Ellie"
 artist = "絢瀬絵里（南條愛乃）"
 catalog = "LZM-2060"
 
@@ -124,7 +124,7 @@ title = "夏色えがおで1,2,Jump! (ELI Mix)"
 title = "Mermaid festa vol.1 (ELI Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 星空凛 THE BRILLIANT STAR☆"
+title = "ラブライブ！Solo Live! from μ's 星空凛 THE BRILLIANT STAR☆"
 artist = "星空凛（飯田里穂）"
 catalog = "LZM-2061"
 
@@ -153,7 +153,7 @@ title = "夏色えがおで1,2,Jump! (RIN Mix)"
 title = "Mermaid festa vol.1 (RIN Mix)"
 
 [[discs]]
-title = "ラブライブ！ Solo Live! from μ's 小泉花陽 あなただけの太陽になりたい"
+title = "ラブライブ！Solo Live! from μ's 小泉花陽 あなただけの太陽になりたい"
 artist = "小泉花陽（久保ユリカ）"
 catalog = "LZM-2062"
 
