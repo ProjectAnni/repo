@@ -1,0 +1,14 @@
+[album]
+album_id = "6118285b-ac5b-4b7f-aee7-27296475ef20"
+title = "山荷葉"
+artist = "楠木ともり"
+date = 2022-03-31
+type = "normal"
+catalog = "VVXX-01176"
+tags = ["楠木ともり"]
+
+[[discs]]
+catalog = "VVXX-01176"
+
+[[discs.tracks]]
+title = "山荷葉"

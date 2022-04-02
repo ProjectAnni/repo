@@ -1,0 +1,39 @@
+[album]
+album_id = "9bd5bd06-db15-419c-bfea-480a5a987e05"
+title = "ハミダシモノ"
+artist = "楠木ともり"
+date = 2020-08-19
+type = "normal"
+catalog = "VVCL-1660"
+tags = ["楠木ともり"]
+
+[[discs]]
+catalog = "VVCL-1660"
+
+[[discs.tracks]]
+title = "ハミダシモノ"
+
+[[discs.tracks]]
+title = "眺めの空"
+
+[[discs.tracks]]
+title = "ロマンロン"
+
+[[discs.tracks]]
+title = "僕の見る世界、君の見る世界"
+
+[[discs.tracks]]
+title = "ハミダシモノ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "眺めの空 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ロマンロン -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕の見る世界、君の見る世界 -Instrumental-"
+type = "instrumental"
