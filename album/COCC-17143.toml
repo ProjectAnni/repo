@@ -1,0 +1,42 @@
+[album]
+album_id = "fe679429-59e9-4045-a243-270002baa5ed"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 03 ハイファイ☆デイズ"
+artist = "Various Artists"
+date = 2016-06-22
+type = "normal"
+catalog = "COCC-17143"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17143"
+
+[[discs.tracks]]
+title = "ハイファイ☆デイズ (M@STER VERSION)"
+artist = "佐々木千枝（今井麻夏）、櫻井桃華（照井春佳）、市原仁奈（久野美咲）、龍崎薫（春瀬なつみ）、赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "SUPERLOVE☆"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "NUDIE★"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "ハイファイ☆デイズ (M@STER VERSION) オリジナル・カラオケ"
+artist = "佐々木千枝（今井麻夏）、櫻井桃華（照井春佳）、市原仁奈（久野美咲）、龍崎薫（春瀬なつみ）、赤城みりあ（黒沢ともよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SUPERLOVE☆ オリジナル・カラオケ"
+artist = "城ヶ崎莉嘉（山本希望）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "NUDIE★ オリジナル・カラオケ"
+artist = "城ヶ崎莉嘉（山本希望）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハイファイ☆デイズ (GAME VERSION)"
+artist = "佐々木千枝（今井麻夏）、櫻井桃華（照井春佳）、市原仁奈（久野美咲）、龍崎薫（春瀬なつみ）、赤城みりあ（黒沢ともよ）"

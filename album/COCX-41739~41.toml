@@ -1,0 +1,125 @@
+[album]
+album_id = "deaaafd7-a2cb-4bc6-94de-c390704e6ff7"
+title = "THE IDOLM@STER CINDERELLA MASTER キセキの証 & Let's Sail Away!!! & ココカラミライヘ！"
+artist = "THE IDOLM@STER CINDERELLA GIRLS"
+date = 2022-01-26
+type = "normal"
+catalog = "COCX-41739~41"
+tags = []
+
+[[discs]]
+title = "THE IDOLM@STER CINDERELLA MASTER キセキの証"
+catalog = "COCX-41739"
+artist = "THE IDOLM@STER CINDERELLA GIRLS for BEST5!（鷺沢文香（M・A・O）、一ノ瀬志希（藍原ことみ）、神谷奈緒（松井恵理子）、高森藍子（金子有希）、佐久間まゆ（牧野由依））"
+
+[[discs.tracks]]
+title = "キセキの証"
+
+[[discs.tracks]]
+title = "キセキの証 鷺沢文香 ソロ・リミックス"
+artist = "鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "キセキの証 一ノ瀬志希 ソロ・リミックス"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "キセキの証 神谷奈緒 ソロ・リミックス"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "キセキの証 高森藍子 ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "キセキの証 佐久間まゆ ソロ・リミックス"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "キセキの証 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キセキの証（GAME VERSION）"
+
+[[discs]]
+title = "THE IDOLM@STER CINDERELLA MASTER Let's Sail Away!!!"
+catalog = "COCX-41740"
+artist = "浅利七海（井上ほの花）、西園寺琴歌（安齋由香里）、八神マキノ（二ノ宮ゆい）"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!!"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!! 浅利七海 ソロ・リミックス"
+artist = "浅利七海（井上ほの花）"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!! 西園寺琴歌 ソロ・リミックス"
+artist = "西園寺琴歌（安齋由香里）"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!! 八神マキノ ソロ・リミックス"
+artist = "八神マキノ（二ノ宮ゆい）"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!! (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Let's Sail Away!!!（GAME VERSION）"
+
+[[discs]]
+title = "THE IDOLM@STER CINDERELLA MASTER ココカラミライヘ！"
+catalog = "COCX-41741"
+artist = "十時愛梨（原田ひとみ）、神崎蘭子（内田真礼）、渋谷凛（福原綾香）、塩見周子（ルゥティン）、島村卯月（大橋彩香）、高垣楓（早見沙織）、安部菜々（三宅麻理恵）、本田未央（原紗友里）、北条加蓮（渕上舞）、鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！十時愛梨 ソロ・リミックス"
+artist = "十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！神崎蘭子 ソロ・リミックス"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！渋谷凛 ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！塩見周子 ソロ・リミックス"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！島村卯月 ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！高垣楓 ソロ・リミックス"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！安部菜々 ソロ・リミックス"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！本田未央 ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！北条加蓮 ソロ・リミックス"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！鷺沢文香 ソロ・リミックス"
+artist = "鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！(オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ココカラミライヘ！（Game Version）"

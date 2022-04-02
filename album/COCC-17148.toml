@@ -1,0 +1,42 @@
+[album]
+album_id = "f051a2d1-72c6-4d57-a168-b17bf9965a39"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 08 BEYOND THE STARLIGHT"
+artist = "Various Artists"
+date = 2017-02-01
+type = "normal"
+catalog = "COCC-17148"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17148"
+
+[[discs.tracks]]
+title = "BEYOND THE STARLIGHT (M@STER VERSION)"
+artist = "城ヶ崎莉嘉（山本希望）、緒方智絵里（大空直美）、北条加蓮（渕上舞）、川島瑞樹（東山奈央）、大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "スローライフ・ファンタジー"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "Frozen Tears"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "BEYOND THE STARLIGHT (M@STER VERSION) オリジナル・カラオケ"
+artist = "城ヶ崎莉嘉（山本希望）、緒方智絵里（大空直美）、北条加蓮（渕上舞）、川島瑞樹（東山奈央）、大槻唯（山下七海）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スローライフ・ファンタジー オリジナル・カラオケ"
+artist = "双葉杏（五十嵐裕美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Frozen Tears オリジナル・カラオケ"
+artist = "北条加蓮（渕上舞）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BEYOND THE STARLIGHT (GAME VERSION)"
+artist = "城ヶ崎莉嘉（山本希望）、緒方智絵里（大空直美）、北条加蓮（渕上舞）、川島瑞樹（東山奈央）、大槻唯（山下七海）"

@@ -1,0 +1,42 @@
+[album]
+album_id = "23293b78-604c-4508-87b8-e028974edb28"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 09 ラブレター"
+artist = "Various Artists"
+date = 2017-03-01
+type = "normal"
+catalog = "COCC-17149"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17149"
+
+[[discs.tracks]]
+title = "ラブレター (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "メルヘン∞メタモルフォーゼ！"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "薄紅"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "ラブレター (M@STER VERSION) オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メルヘン∞メタモルフォーゼ！オリジナル・カラオケ"
+artist = "安部菜々（三宅麻理恵）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "薄紅 オリジナル・カラオケ"
+artist = "小早川紗枝（立花理香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブレター (GAME VERSION)"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"

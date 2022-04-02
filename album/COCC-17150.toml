@@ -1,0 +1,42 @@
+[album]
+album_id = "54859ed3-37b7-4a5c-94e2-3af3a08d4a5e"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 10 Jet to the Future"
+artist = "Various Artists"
+date = 2017-04-19
+type = "normal"
+catalog = "COCC-17150"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17150"
+
+[[discs.tracks]]
+title = "Jet to the Future (M@STER VERSION)"
+artist = "多田李衣菜（青木瑠璃子）、木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "たくさん！"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "Flip Flop"
+artist = "日野茜（赤﨑千夏）、高森藍子（金子有希）、及川雫（のぐちゆり）、脇山珠美（嘉山未紗）、道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "Jet to the Future (M@STER VERSION) オリジナル・カラオケ"
+artist = "多田李衣菜（青木瑠璃子）、木村夏樹（安野希世乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "たくさん！オリジナル・カラオケ"
+artist = "アナスタシア（上坂すみれ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Flip Flop オリジナル・カラオケ"
+artist = "日野茜（赤﨑千夏）、高森藍子（金子有希）、及川雫（のぐちゆり）、脇山珠美（嘉山未紗）、道明寺歌鈴（新田ひより）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Jet to the Future (GAME VERSION)"
+artist = "多田李衣菜（青木瑠璃子）、木村夏樹（安野希世乃）"
