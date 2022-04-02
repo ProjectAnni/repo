@@ -1,0 +1,42 @@
+[album]
+album_id = "52aac57d-1481-4eba-81a4-75ab08c0a1f2"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 13 Sweet Witches' Night ～6人目はだぁれ～"
+artist = "Various Artists"
+date = 2017-09-13
+type = "normal"
+catalog = "COCC-17153"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17153"
+
+[[discs.tracks]]
+title = "Sweet Witches' Night ～6人目はだぁれ～ (M@STER VERSION)"
+artist = "三村かな子（大坪由佳）、十時愛梨（原田ひとみ）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）、及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "わたぐも"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "shabon song"
+artist = "小日向美穂（津田美波）、城ヶ崎美嘉（佳村はるか）、相葉夕美（木村珠莉）、上条春菜（長島光那）、赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "Sweet Witches' Night ～6人目はだぁれ～ (M@STER VERSION) オリジナル・カラオケ"
+artist = "三村かな子（大坪由佳）、十時愛梨（原田ひとみ）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）、及川雫（のぐちゆり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "わたぐも オリジナル・カラオケ"
+artist = "赤城みりあ（黒沢ともよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "shabon song オリジナル・カラオケ"
+artist = "小日向美穂（津田美波）、城ヶ崎美嘉（佳村はるか）、相葉夕美（木村珠莉）、上条春菜（長島光那）、赤城みりあ（黒沢ともよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sweet Witches' Night ～6人目はだぁれ～ (GAME VERSION)"
+artist = "三村かな子（大坪由佳）、十時愛梨（原田ひとみ）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）、及川雫（のぐちゆり）"

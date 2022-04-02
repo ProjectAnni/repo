@@ -1,0 +1,42 @@
+[album]
+album_id = "7ba3c5c7-370d-4182-8b9e-d670123cd13f"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 20 リトルリドル"
+artist = "Various Artists"
+date = 2018-08-22
+type = "normal"
+catalog = "COCC-17160"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17160"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION)"
+artist = "双葉杏（五十嵐裕美）、城ヶ崎莉嘉（山本希望）、二宮飛鳥（青木志貴）、白坂小梅（桜咲千依）、早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "アツアツ♪マカロニグラタン"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "Private Sign"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) オリジナル・カラオケ"
+artist = "双葉杏（五十嵐裕美）、城ヶ崎莉嘉（山本希望）、二宮飛鳥（青木志貴）、白坂小梅（桜咲千依）、早坂美玲（朝井彩加）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アツアツ♪マカロニグラタン オリジナル・カラオケ"
+artist = "五十嵐響子（種﨑敦美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Private Sign オリジナル・カラオケ"
+artist = "塩見周子（ルゥティン）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リトルリドル (GAME VERSION)"
+artist = "双葉杏（五十嵐裕美）、城ヶ崎莉嘉（山本希望）、二宮飛鳥（青木志貴）、白坂小梅（桜咲千依）、早坂美玲（朝井彩加）"

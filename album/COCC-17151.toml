@@ -1,0 +1,42 @@
+[album]
+album_id = "69272452-3170-404e-a8cd-0cdd11617883"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 11 あんきら！？狂騒曲"
+artist = "Various Artists"
+date = 2017-05-31
+type = "normal"
+catalog = "COCC-17151"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17151"
+
+[[discs.tracks]]
+title = "あんきら！？狂騒曲 (M@STER VERSION)"
+artist = "双葉杏（五十嵐裕美）、諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "Neo Beautiful Pain"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "あいくるしい (Starlight Master Version)"
+artist = "佐久間まゆ（牧野由依）、小早川紗枝（立花理香）、水本ゆかり（藤田茜）、三村かな子（大坪由佳）、速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "あんきら！？狂騒曲 (M@STER VERSION) オリジナル・カラオケ"
+artist = "双葉杏（五十嵐裕美）、諸星きらり（松嵜麗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Neo Beautiful Pain オリジナル・カラオケ"
+artist = "神谷奈緒（松井恵理子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あいくるしい オリジナル・カラオケ"
+artist = "佐久間まゆ（牧野由依）、小早川紗枝（立花理香）、水本ゆかり（藤田茜）、三村かな子（大坪由佳）、速水奏（飯田友子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あんきら！？狂騒曲 (GAME VERSION)"
+artist = "双葉杏（五十嵐裕美）、諸星きらり（松嵜麗）"
