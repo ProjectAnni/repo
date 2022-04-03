@@ -1,10 +1,14 @@
 [[tag]]
 name = "アイドルマスターシリーズ"
+type = "project"
+includes.game = ["THE IDOLM@STER STARLIT SEASON", "THE IDOLM@STER POPLINKS"]
 
 [[tag]]
 name = "THE IDOLM@STER"
+type = "project"
 included-by = ["アイドルマスターシリーズ"]
-includes = [
+# 这里用 default，具体更新等 PR 合入
+includes.default = [
   #
   # [x] THE IDOLM@STER MASTERPIECE 01 (2005/09/28)
   # [x] THE IDOLM@STER MASTERPIECE 02 (2005/11/02)
@@ -387,6 +391,4 @@ includes = [
   # [x] THE IDOLM@STER MASTER ARTIST 4 12 水瀬伊織
   # [x] THE IDOLM@STER MASTER ARTIST 4 13 双海真美
   "THE IDOLM@STER MASTER ARTIST 4",
-  "THE IDOLM@STER STARLIT SEASON",
-  "THE IDOLM@STER POPLINKS"
 ]

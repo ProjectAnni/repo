@@ -1,11 +1,13 @@
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA GIRLS"
+type = "project"
 included-by = ["アイドルマスターシリーズ"]
 
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA MASTER"
+type = "series"
 included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
-includes = [
+includes.series = [
   "THE IDOLM@STER CINDERELLA MASTER (ソロCD)",
   "THE IDOLM@STER CINDERELLA MASTER (ユニットCD)",
   "THE IDOLM@STER CINDERELLA MASTER Jewelries!",

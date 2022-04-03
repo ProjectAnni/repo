@@ -1,10 +1,5 @@
 [[tag]]
 name = "CHAOS;CHILD"
-includes = [
-  # Game LCC
-  "CHAOS;CHILD らぶchu☆chu!!",
-  # Anime
-  "アニメ「CHAOS;CHILD」",
-  # Anime Silent Sky
-  "CHAOS;CHILD SILENT SKY"
-]
+type = "game"
+includes.game = ["CHAOS;CHILD らぶchu☆chu!!"]
+includes.animation = ["アニメ「CHAOS;CHILD」", "CHAOS;CHILD SILENT SKY"]

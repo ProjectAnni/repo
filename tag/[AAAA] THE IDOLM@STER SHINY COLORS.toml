@@ -1,8 +1,8 @@
 [[tag]]
 name = "THE IDOLM@STER Shiny Colors"
+type = "project"
 included-by = ["アイドルマスターシリーズ"]
-includes = [
-  # Series
+includes.series = [
   "THE IDOLM@STER SHINY COLORS BRILLI@NT WING",
   "THE IDOLM@STER SHINY COLORS FR@GMENT WING",
   "THE IDOLM@STER SHINY COLORS GR@DATE WING",
@@ -11,7 +11,8 @@ includes = [
   "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
   "THE IDOLM@STER SHINY COLORS PANOR@MA WING",
   "THE IDOLM@STER SHINY COLORS Synthe-Side",
-  # Groups
+]
+includes.group = [
   "イルミネーションスターズ",
   "アンティーカ",
   "放課後クライマックスガールズ",

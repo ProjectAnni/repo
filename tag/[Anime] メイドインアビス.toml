@@ -1,6 +1,4 @@
 [[tag]]
 name = "TVアニメ「メイドインアビス」"
-includes = [
-  "メイドインアビス",
-  "メイドインアビス 深き魂の黎明",
-]
+type = "animation"
+includes.animation = ["メイドインアビス", "メイドインアビス 深き魂の黎明"]
