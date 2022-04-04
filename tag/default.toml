@@ -390,3 +390,18 @@ type = "project"
 name = "少女☆歌劇 レヴュースタァライト"
 type = "project"
 includes.animation = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+################################################################################
+# Category
+#
+[[tag]]
+name = "OP"
+type = "category"
+
+[[tag]]
+name = "ED"
+type = "category"
+
+[[tag]]
+name = "OST"
+type = "category"
