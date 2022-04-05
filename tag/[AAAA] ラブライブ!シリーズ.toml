@@ -1,10 +1,7 @@
 [[tag]]
 name = "ラブライブ!シリーズ"
-
-[[tag]]
-name = "ラブライブ!"
-included-by = ["ラブライブ!シリーズ"]
-includes = [
+type = "project"
+includes.group = [
     # μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））
     "μ's",
     # Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））
@@ -15,8 +12,8 @@ includes = [
     "BiBi",
     # A-RISE（綺羅ツバサ（桜川めぐ）、統堂英玲奈（松永真穂）、優木あんじゅ（大橋歩夕））
     "A-RISE",
-
-    # Anime
+]
+includes.animation = [
     "TVアニメ「ラブライブ！」",
     "ラブライブ! The School Idol Movie"
 ]
