@@ -1,3 +1,4 @@
 [[tag]]
 name = "IDOLY PRIDE"
-includes = ["サニーピース", "月のテンペスト", "TRINITYAiLE", "LizNoir"]
+type = "project"
+includes.group = ["サニーピース", "月のテンペスト", "TRINITYAiLE", "LizNoir"]

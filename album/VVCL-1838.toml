@@ -1,0 +1,39 @@
+[album]
+album_id = "82226828-f448-406c-9fa7-956589e9eae9"
+title = "Forced Shutdown"
+artist = "楠木ともり"
+date = 2021-04-28
+type = "normal"
+catalog = "VVCL-1838"
+tags = ["楠木ともり"]
+
+[[discs]]
+catalog = "VVCL-1838"
+
+[[discs.tracks]]
+title = "Forced Shutdown"
+
+[[discs.tracks]]
+title = "sketchbook"
+
+[[discs.tracks]]
+title = "アカトキ"
+
+[[discs.tracks]]
+title = "バニラ"
+
+[[discs.tracks]]
+title = "Forced Shutdown -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "sketchbook -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アカトキ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バニラ -Instrumental-"
+type = "instrumental"

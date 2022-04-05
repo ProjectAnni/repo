@@ -1,290 +1,407 @@
-#
+################################################################################
 # Artist
 #
 [[tag]]
 name = "遠藤ゆりか"
+type = "artist"
 
 [[tag]]
 name = "東山奈央"
+type = "artist"
 
 [[tag]]
 name = "ReoNa"
+type = "artist"
 
 [[tag]]
 name = "岡咲美保"
+type = "artist"
 
 [[tag]]
 name = "LiSA"
+type = "artist"
 
 [[tag]]
 name = "Aimer"
+type = "artist"
 
 [[tag]]
 name = "YOASOBI"
+type = "artist"
 
 [[tag]]
 name = "Liyuu"
+type = "artist"
 
 [[tag]]
 name = "茅野愛衣"
+type = "artist"
 
 [[tag]]
 name = "山崎はるか"
+type = "artist"
 
 [[tag]]
 name = "夏川椎菜"
+type = "artist"
 
 [[tag]]
 name = "富田美憂"
+type = "artist"
 
 [[tag]]
 name = "水瀬いのり"
+type = "artist"
 
 [[tag]]
 name = "中島由貴"
+type = "artist"
 
 [[tag]]
 name = "田所あずさ"
+type = "artist"
 
 [[tag]]
 name = "石原夏織"
+type = "artist"
 
 [[tag]]
 name = "上田麗奈"
+type = "artist"
 
 [[tag]]
 name = "樋口楓"
+type = "artist"
 
 [[tag]]
 name = "伊藤美来"
+type = "artist"
 
 [[tag]]
 name = "雨宮天"
+type = "artist"
 
 [[tag]]
 name = "内田彩"
+type = "artist"
 
 [[tag]]
 name = "高橋李依"
+type = "artist"
 
 [[tag]]
 name = "麻倉もも"
+type = "artist"
 
 [[tag]]
 name = "水樹奈々"
+type = "artist"
 
 [[tag]]
 name = "春奈るな"
+type = "artist"
 
 [[tag]]
 name = "沢井美空"
+type = "artist"
 
 [[tag]]
 name = "いとうかなこ"
+type = "artist"
 
 [[tag]]
 name = "高槻かなこ"
+type = "artist"
 
 [[tag]]
 name = "相沢梨紗"
+type = "artist"
 
 [[tag]]
 name = "洛天依"
+type = "artist"
 
 [[tag]]
 name = "乐正绫"
+type = "artist"
 
 [[tag]]
 name = "鈴木このみ"
+type = "artist"
 
-#
+[[tag]]
+name = "平山笑美"
+type = "artist"
+
+[[tag]]
+name = "渡部恵子"
+type = "artist"
+
+[[tag]]
+name = "楠木ともり"
+type = "artist"
+
+[[tag]]
+name = "神田沙也加"
+type = "artist"
+includes.artist = ["SAYAKA"]
+
+[[tag]]
+name = "鈴木みのり"
+type = "artist"
+
+[[tag]]
+name = "やなぎなぎ"
+type = "artist"
+includes.artist = ["nagi"]
+
+[[tag]]
+name = "こゑだ"
+type = "artist"
+
+[[tag]]
+name = "chelly"
+type = "artist"
+includes.artist = ["EGOIST"]
+
+[[tag]]
+name = "初音ミク"
+type = "artist"
+
+[[tag]]
+name = "小倉唯"
+type = "artist"
+
+[[tag]]
+name = "大原ゆい子"
+type = "artist"
+
+[[tag]]
+name = "ヨルシカ"
+type = "artist"
+
+[[tag]]
+name = "YURiKA"
+type = "artist"
+
+[[tag]]
+name = "milet"
+type = "artist"
+
+[[tag]]
+name = "幾田りら"
+type = "artist"
+
+################################################################################
 # Group
 #
 [[tag]]
-name = "少女☆歌劇 レヴュースタァライト"
-includes = ["劇場版 少女☆歌劇 レヴュースタァライト"]
-
-[[tag]]
 name = "ナナブンノニジュウニ"
+type = "group"
 
 [[tag]]
 name = "Pyxis"
+type = "group"
 
 [[tag]]
 name = "HoneyWorks"
+type = "group"
 
 [[tag]]
 name = "ゆいかおり"
+type = "group"
 
 [[tag]]
 name = "TrySail"
+type = "group"
 
 [[tag]]
 name = "DIALOGUE+"
+type = "group"
 
 [[tag]]
 name = "でんぱ組.inc"
+type = "group"
 
 [[tag]]
 name = "ClariS"
+type = "group"
 
 [[tag]]
 name = "妄想キャリブレーション"
+type = "group"
 
 [[tag]]
 name = "Kalafina"
+type = "group"
 
 [[tag]]
 name = "ARCANA PROJECT"
+type = "group"
 
 [[tag]]
 name = "Mia REGINA"
+type = "group"
 
 [[tag]]
 name = "スフィア"
+type = "group"
 
 [[tag]]
 name = "純情のアフィリア"
-includes = ["アフィリア・サーガ・イースト", "アフィリア・サーガ"]
+type = "group"
+includes.group = ["アフィリア・サーガ・イースト", "アフィリア・サーガ"]
 
-#
-# Anime
+[[tag]]
+name = "SILENT SIREN"
+type = "group"
+includes.group = ["Silent Siren"]
+
+[[tag]]
+name = "BATON=RELAY"
+type = "group"
+
+[[tag]]
+name = "supercell"
+type = "group"
+
+################################################################################
+# Animation
 #
 [[tag]]
 name = "100万の命の上に俺は立っている"
+type = "animation"
 
 [[tag]]
 name = "白い砂のアクアトープ"
+type = "animation"
 
 [[tag]]
 name = "宇宙よりも遠い場所"
+type = "animation"
 
 [[tag]]
 name = "High School Fleet"
+type = "animation"
 
 [[tag]]
 name = "ひげを剃る。そして女子高生を拾う。"
+type = "animation"
 
 [[tag]]
 name = "魔王城でおやすみ"
+type = "animation"
 
 [[tag]]
 name = "安達としまむら"
+type = "animation"
 
 [[tag]]
 name = "花咲くいろは"
+type = "animation"
 
 [[tag]]
 name = "恋する小惑星"
+type = "animation"
 
 [[tag]]
 name = "幼なじみが絶対に負けないラブコメ"
+type = "animation"
 
 [[tag]]
 name = "魔女の旅々"
+type = "animation"
 
 [[tag]]
 name = "回復術士のやり直し"
+type = "animation"
 
 [[tag]]
 name = "誰ガ為のアルケミスト"
+type = "animation"
 
 [[tag]]
 name = "少女終末旅行"
+type = "animation"
 
 [[tag]]
 name = "アサルトリリィ BOUQUET"
+type = "animation"
 
-#
+[[tag]]
+name = "宝石の国"
+type = "animation"
+
+[[tag]]
+name = "ぼくたちのリメイク"
+type = "animation"
+
+################################################################################
 # Game
 #
 [[tag]]
 name = "ATRI -My Dear Moments-"
+type = "game"
 
 [[tag]]
 name = "さくら、もゆ。-as the Night's, Reincarnation-"
+type = "game"
 
 [[tag]]
 name = "ひまわり -Pebble in the Sky-"
+type = "game"
 
 [[tag]]
 name = "ef - a fairy tale of the two."
+type = "game"
 
 [[tag]]
 name = "明日方舟"
+type = "game"
 
 [[tag]]
 name = "サクラノ詩-櫻の森の上を舞う-"
+type = "game"
 
 [[tag]]
 name = "蒼の彼方のフォーリズム"
+type = "game"
 
 [[tag]]
 name = "素晴らしき日々"
-
-[[tag]]
-name = "神田沙也加"
-includes = ["SAYAKA"]
-
-[[tag]]
-name = "東方Project"
+type = "game"
 
 [[tag]]
 name = "Outer Wilds"
-
-[[tag]]
-name = "鈴木みのり"
-
-[[tag]]
-name = "supercell"
-
-[[tag]]
-name = "やなぎなぎ"
-includes = ["nagi"]
-
-[[tag]]
-name = "こゑだ"
-
-[[tag]]
-name = "chelly"
-includes = ["EGOIST"]
-
-[[tag]]
-name = "初音ミク"
-
-[[tag]]
-name = "小倉唯"
-
-[[tag]]
-name = "ぼくたちのリメイク"
-
-[[tag]]
-name = "大原ゆい子"
-
-[[tag]]
-name = "ヨルシカ"
-
-[[tag]]
-name = "YURiKA"
-
-[[tag]]
-name = "宝石の国"
-
-[[tag]]
-name = "milet"
-
-[[tag]]
-name = "幾田りら"
-
-[[tag]]
-name = "平山笑美"
+type = "game"
 
 [[tag]]
 name = "9-nine-"
+type = "game"
+
+################################################################################
+# Project
+#
+[[tag]]
+name = "東方Project"
+type = "project"
 
 [[tag]]
-name = "SILENT SIREN"
-includes = ["Silent Siren"]
+name = "少女☆歌劇 レヴュースタァライト"
+type = "project"
+includes.animation = ["劇場版 少女☆歌劇 レヴュースタァライト"]
+
+################################################################################
+# Category
+#
+[[tag]]
+name = "OP"
+type = "category"
 
 [[tag]]
-name = "BATON=RELAY"
+name = "ED"
+type = "category"
+
+[[tag]]
+name = "OST"
+type = "category"

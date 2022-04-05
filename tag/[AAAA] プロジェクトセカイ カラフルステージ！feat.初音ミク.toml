@@ -1,6 +1,7 @@
 [[tag]]
 name = "プロジェクトセカイ カラフルステージ！feat.初音ミク"
-includes = [
+type = "project"
+includes.group = [
   "Leo/need",
   "MORE MORE JUMP！",
   "Vivid BAD SQUAD",

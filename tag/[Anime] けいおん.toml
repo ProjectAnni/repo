@@ -1,7 +1,4 @@
 [[tag]]
 name = "けいおん"
-includes = [
-  "けいおん！",
-  "けいおん！！",
-  "映画「けいおん！」",
-]
+type = "animation"
+includes.animation = ["けいおん！", "けいおん！！", "映画「けいおん！」"]

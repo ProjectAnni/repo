@@ -1,0 +1,14 @@
+[album]
+album_id = "b249eb7f-0707-4a8b-9623-4e9c6fa3c51c"
+title = "ALIVE"
+artist = "渡部恵子"
+date = 2022-03-29
+type = "normal"
+catalog = "@KEIKO-01"
+tags = ["渡部恵子"]
+
+[[discs]]
+catalog = "@KEIKO-01"
+
+[[discs.tracks]]
+title = "ALIVE"
