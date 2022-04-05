@@ -1,7 +1,5 @@
 [[tag]]
 name = "ゆるキャン△"
-includes = [
-  "へやキャン△",
-  "ゆるキャン△ SEASON2",
-  "ゆるキャン△ Have a nice day!",
-]
+type = "animation"
+includes.animation = ["へやキャン△", "ゆるキャン△ SEASON2"]
+includes.game = ["ゆるキャン△ Have a nice day!"]

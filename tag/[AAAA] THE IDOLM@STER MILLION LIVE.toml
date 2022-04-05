@@ -1,9 +1,8 @@
 [[tag]]
 name = "THE IDOLM@STER MILLION LIVE"
+type = "project"
 included-by = ["アイドルマスターシリーズ"]
-includes = [
-  # 2014-2015
-  "THE IDOLM@STER LIVE THE@TER HARMONY",
+includes.series = [
   # 2015-2016
   "THE IDOLM@STER LIVE THE@TER DREAMERS",
   # 2015-2016
@@ -41,10 +40,23 @@ includes = [
 # 2013-2014
 [[tag]]
 name = "THE IDOLM@STER LIVE THE@TER PERFORMANCE"
+type = "series"
 included-by = ["THE IDOLM@STER MILLION LIVE"]
-includes = [
-  # 2021-2021
+includes.series = [
+  # 2021
   "THE IDOLM@STER LIVE THE@TER PERFORMANCE Remix",
-  # 2021-2021
+  # 2021
   "THE IDOLM@STER LIVE THE@TER PERFORMANCE Instrumental",
+]
+
+# 2014-2015
+[[tag]]
+name = "THE IDOLM@STER LIVE THE@TER HARMONY"
+type = "series"
+included-by = ["THE IDOLM@STER MILLION LIVE"]
+includes.series = [
+  # 2022
+  "THE IDOLM@STER LIVE THE@TER HARMONY Remix",
+  # 2022
+  "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental",
 ]

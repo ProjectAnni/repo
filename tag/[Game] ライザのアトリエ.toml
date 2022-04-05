@@ -1,3 +1,4 @@
 [[tag]]
 name = "ライザのアトリエ"
-includes = ["ライザのアトリエ2"]
+type = "game"
+includes.game = ["ライザのアトリエ2"]

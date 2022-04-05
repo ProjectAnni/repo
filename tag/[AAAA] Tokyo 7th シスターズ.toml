@@ -1,6 +1,7 @@
 [[tag]]
 name = "Tokyo 7th シスターズ"
-includes = [
+type = "project"
+includes.group = [
   #
   # 七咲ニコル（水瀬いのり）
   # 羽生田ミト（渕上舞）
