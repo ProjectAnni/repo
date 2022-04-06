@@ -1,0 +1,256 @@
+[album]
+album_id = "2e1c83e7-8649-41f0-832a-829702213dec"
+title = "TVアニメ『ラブライブ！』オリジナルサウンドトラック Notes of School idol days"
+artist = "藤澤慶昌"
+date = 2013-04-10
+type = "absolute"
+catalog = "LACA-9281~2"
+tags = ["μ's", "TVアニメ「ラブライブ！」"]
+
+[[discs]]
+catalog = "LACA-9281"
+
+[[discs.tracks]]
+title = "始まりの朝"
+
+[[discs.tracks]]
+title = "（絶望）"
+
+[[discs.tracks]]
+title = "僕らは今のなかで (TVサイズ) [オープニングテーマ]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "ルンルン↑どんより↓"
+
+[[discs.tracks]]
+title = "ゆったりお昼休み"
+
+[[discs.tracks]]
+title = "ん？？？"
+
+[[discs.tracks]]
+title = "過ぎ去りし日々"
+
+[[discs.tracks]]
+title = "朝練"
+
+[[discs.tracks]]
+title = "Private Wars [第1話挿入歌]"
+type = "normal"
+artist = "A-RISE（綺羅ツバサ（桜川めぐ）、統堂英玲奈（松永真穂）、優木あんじゅ（大橋歩夕））"
+
+[[discs.tracks]]
+title = "理事長への談判"
+
+[[discs.tracks]]
+title = "愛してるばんざーい！[第1話挿入歌]"
+type = "normal"
+artist = "西木野真姫（Pile）"
+
+[[discs.tracks]]
+title = "幼き日の夕陽"
+
+[[discs.tracks]]
+title = "ススメ→トゥモロウ (TVサイズ) [第1話挿入歌]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）"
+
+[[discs.tracks]]
+title = "前回のラブライブ！"
+
+[[discs.tracks]]
+title = "チグハグ"
+
+[[discs.tracks]]
+title = "気まずい空気"
+
+[[discs.tracks]]
+title = "作戦会議"
+
+[[discs.tracks]]
+title = "チェイス"
+
+[[discs.tracks]]
+title = "きらめき"
+
+[[discs.tracks]]
+title = "憂いの夕暮れ"
+
+[[discs.tracks]]
+title = "桜並木の通学路"
+
+[[discs.tracks]]
+title = "真剣な眼差し"
+
+[[discs.tracks]]
+title = "START：DASH!! (Prepro Piano Mix) [第2話挿入歌]"
+type = "normal"
+artist = "西木野真姫（Pile）"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・ことほのうみ) [第2話エンディングテーマ]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）"
+
+[[discs.tracks]]
+title = "トホホ…"
+
+[[discs.tracks]]
+title = "友情"
+
+[[discs.tracks]]
+title = "作戦開始"
+
+[[discs.tracks]]
+title = "誰もいない"
+
+[[discs.tracks]]
+title = "START：DASH!! (TVサイズ) [第3話挿入歌]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）"
+
+[[discs.tracks]]
+title = "悲しみの夜"
+
+[[discs.tracks]]
+title = "軽やかな昼下がり"
+
+[[discs.tracks]]
+title = "花陽の決意"
+
+[[discs.tracks]]
+title = "楽しい部活"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・まきりんぱな) [第4話エンディングテーマ]"
+type = "normal"
+artist = "星空凛（飯田里穂）、西木野真姫（Pile）、小泉花陽（久保ユリカ）"
+
+[[discs]]
+catalog = "LACA-9282"
+
+[[discs.tracks]]
+title = "不審者、にこ"
+
+[[discs.tracks]]
+title = "＞ω＜/"
+
+[[discs.tracks]]
+title = "説明しましょう！"
+
+[[discs.tracks]]
+title = "強き者"
+
+[[discs.tracks]]
+title = "にこの過去"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・にこソロ) [第5話エンディングテーマ]"
+type = "normal"
+artist = "矢澤にこ（徳井青空）"
+
+[[discs.tracks]]
+title = "これからのSomeday (TVサイズ) [第6話挿入歌]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空）"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・にこりんぱなまきことほのうみ) [第6話エンディングテーマ]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空）"
+
+[[discs.tracks]]
+title = "ラブライブ！開催！！"
+
+[[discs.tracks]]
+title = "亜里沙"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・えりのぞ) [第7話挿入歌]"
+type = "normal"
+artist = "絢瀬絵里（南條愛乃）、東條希（楠田亜衣奈）"
+
+[[discs.tracks]]
+title = "明日の勝利のために"
+
+[[discs.tracks]]
+title = "絵里のやりたいこと"
+
+[[discs.tracks]]
+title = "μ'sのはじまり"
+
+[[discs.tracks]]
+title = "僕らのLIVE 君とのLIFE (TVサイズ) [第8話挿入歌]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "メイド喫茶"
+
+[[discs.tracks]]
+title = "ミナリンスキー"
+
+[[discs.tracks]]
+title = "大切なもの"
+
+[[discs.tracks]]
+title = "Wonder zone (TVサイズ) [第9話挿入歌]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・ことりソロ) [第9話エンディングテーマ]"
+type = "normal"
+artist = "南ことり（内田彩）"
+
+[[discs.tracks]]
+title = "アブないMermaid festa"
+
+[[discs.tracks]]
+title = "ドタバタコメディ"
+
+[[discs.tracks]]
+title = "逆境からのスタート"
+
+[[discs.tracks]]
+title = "No brand girls (TVサイズ) [第11話挿入歌]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "嵐の予感"
+
+[[discs.tracks]]
+title = "未練"
+
+[[discs.tracks]]
+title = "はなればなれ"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ・穂乃果ソロ) [第12話挿入歌]"
+type = "normal"
+artist = "高坂穂乃果（新田恵海）"
+
+[[discs.tracks]]
+title = "新しい場所へ"
+
+[[discs.tracks]]
+title = "アキバ探訪"
+
+[[discs.tracks]]
+title = "アキバの日常"
+
+[[discs.tracks]]
+title = "Dance! Dance! Dance!"
+
+[[discs.tracks]]
+title = "START：DASH!! (TVサイズ) [第13話挿入歌]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+
+[[discs.tracks]]
+title = "きっと青春が聞こえる (TVサイズ) [第3・8・10・11・13話エンディングテーマ]"
+type = "normal"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"

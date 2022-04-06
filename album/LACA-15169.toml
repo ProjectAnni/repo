@@ -1,0 +1,42 @@
+[album]
+album_id = "0ad5cdcb-8e21-47b5-9c36-0c4ef4e5eee5"
+title = "ラブライブ！Solo Live! from μ's 南ことり ことりLovin' you"
+artist = "南ことり（内田彩）"
+date = 2011-12-14
+type = "normal"
+catalog = "LACA-15169"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACA-15169"
+
+[[discs.tracks]]
+title = "スピカテリブル"
+
+[[discs.tracks]]
+title = "僕らのLIVE 君とのLIFE（KOTORI Mix）"
+
+[[discs.tracks]]
+title = "友情ノーチェンジ（KOTORI Mix）"
+
+[[discs.tracks]]
+title = "Snow halation（KOTORI MIX）"
+
+[[discs.tracks]]
+title = "baby maybe 恋のボタン（KOTORI MIX）"
+
+[[discs.tracks]]
+title = "Love marginal（KOTORI Mix）"
+
+[[discs.tracks]]
+title = "sweet&sweet holiday（KOTORI Mix）"
+
+[[discs.tracks]]
+title = "夏色えがおで1,2,Jump!（KOTORI MIX）"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.1（KOTORI MIX）"
+
+[[discs.tracks]]
+title = "光輝く遊園地～Date with ことり～"
+type = "drama"

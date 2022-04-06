@@ -1,0 +1,18 @@
+[album]
+album_id = "64dd4fdf-02b5-49ca-a1da-edbb63c26db3"
+title = "同じ星が見たい"
+artist = "lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））"
+date = 2014-12-25
+type = "normal"
+catalog = "BEPC-0013"
+tags = ["lily white"]
+
+[[discs]]
+catalog = "BEPC-0013"
+
+[[discs.tracks]]
+title = "同じ星が見たい"
+
+[[discs.tracks]]
+title = "同じ星が見たい (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,30 @@
+[album]
+album_id = "0dd53277-a84c-4ba2-b025-efe1bbb5d524"
+title = "Pure girls project"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+date = 2013-08-21
+type = "normal"
+catalog = "LACM-14103"
+tags = ["Printemps"]
+
+[[discs]]
+catalog = "LACM-14103"
+
+[[discs.tracks]]
+title = "Pure girls project"
+
+[[discs.tracks]]
+title = "UNBALANCED LOVE"
+
+[[discs.tracks]]
+title = "Pure girls project (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "UNBALANCED LOVE (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プールでオンステージ！"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+type = "drama"

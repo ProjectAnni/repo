@@ -1,0 +1,42 @@
+[album]
+album_id = "5e2bcf9f-98db-437e-a84c-2db76f471f03"
+title = "ラブライブ！Solo Live! from μ's 園田海未 海色少女に魅せられて"
+artist = "園田海未（三森すずこ）"
+date = 2011-11-23
+type = "normal"
+catalog = "LACA-15168"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACA-15168"
+
+[[discs.tracks]]
+title = "私たちは未来の花"
+
+[[discs.tracks]]
+title = "僕らのLIVE 君とのLIFE（UMI MIX）"
+
+[[discs.tracks]]
+title = "友情ノーチェンジ（UMI MIX）"
+
+[[discs.tracks]]
+title = "Snow halation（UMI MIX）"
+
+[[discs.tracks]]
+title = "baby maybe 恋のボタン（UMI MIX）"
+
+[[discs.tracks]]
+title = "知らないLove＊教えてLove（UMI MIX）"
+
+[[discs.tracks]]
+title = "あ・の・ね・が・ん・ば・れ！（UMI MIX）"
+
+[[discs.tracks]]
+title = "夏色えがおで1,2,Jump!（UMI MIX）"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.1（UMI MIX）"
+
+[[discs.tracks]]
+title = "冬の海辺にて～Date with 海未～"
+type = "drama"
