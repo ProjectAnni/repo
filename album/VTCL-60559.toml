@@ -6,7 +6,7 @@ date = 2022-04-06
 type = "normal"
 edition = "初回限定デルタ盤"
 catalog = "VTCL-60559"
-tags = []
+tags = ["マクロスシリーズ", "ワルキューレ"]
 
 [[discs]]
 catalog = "VTCL-60559"
@@ -17,7 +17,7 @@ artist = "シェリル・ノーム（May'n）、ランカ・リー（中島愛�
 
 [[discs.tracks]]
 title = "ライオン"
-artist = "ワルキューレ"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
 
 [[discs.tracks]]
 title = "いけないボーダーライン"
