@@ -1,0 +1,28 @@
+[album]
+album_id = "73f59741-8359-4892-97d9-7a797e7d6f7a"
+title = "虹色Passions!"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2020-10-21
+type = "normal"
+catalog = "LACM-24050"
+tags = [
+    "虹ヶ咲学園スクールアイドル同好会",
+    "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"
+]
+
+[[discs]]
+catalog = "LACM-24050"
+
+[[discs.tracks]]
+title = "虹色Passions!"
+
+[[discs.tracks]]
+title = "Sweet Eyes"
+
+[[discs.tracks]]
+title = "虹色Passions! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sweet Eyes (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,57 @@
+[album]
+album_id = "31502a98-95ce-42ff-bc40-501397dbced0"
+title = "Just Believe!!!"
+artist = "虹ヶ咲学園スクールアイドル同好会（三船栞子（小泉萌香）、朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2020-09-02
+type = "normal"
+catalog = "LACA-15840"
+tags = ["虹ヶ咲学園スクールアイドル同好会"]
+
+[[discs]]
+catalog = "LACA-15840"
+
+[[discs.tracks]]
+title = "Say Good-Bye 涙"
+artist = "上原歩夢（大西亜玖璃）"
+
+[[discs.tracks]]
+title = "Margaret"
+artist = "中須かすみ（相良茉優）"
+
+[[discs.tracks]]
+title = "やがてひとつの物語"
+artist = "桜坂しずく（前田佳織里）"
+
+[[discs.tracks]]
+title = "Fire Bird"
+artist = "朝香果林（久保田未夢）"
+
+[[discs.tracks]]
+title = "楽しいの天才"
+artist = "宮下愛（村上奈津実）"
+
+[[discs.tracks]]
+title = "Märchen Star"
+artist = "近江彼方（鬼頭明里）"
+
+[[discs.tracks]]
+title = "LIKE IT! LOVE IT!"
+artist = "優木せつ菜（楠木ともり）"
+
+[[discs.tracks]]
+title = "哀温ノ詩"
+artist = "エマ・ヴェルデ（指出毬亜）"
+
+[[discs.tracks]]
+title = "アナログハート"
+artist = "天王寺璃奈（田中ちえ美）"
+
+[[discs.tracks]]
+title = "決意の光"
+artist = "三船栞子（小泉萌香）"
+
+[[discs.tracks]]
+title = "TOKIMEKI Runners (スクスタストーリー17章挿入歌Ver.)"
+
+[[discs.tracks]]
+title = "Just Believe!!!"

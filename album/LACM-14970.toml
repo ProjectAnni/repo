@@ -1,0 +1,29 @@
+[album]
+album_id = "a25bc8f8-947b-4836-aef9-646433433cdd"
+title = "SUPER NOVA"
+artist = "DiverDiva（朝香果林（久保田未夢）、宮下愛（村上奈津実））"
+date = 2020-02-12
+type = "normal"
+catalog = "LACM-14970"
+tags = ["DiverDiva"]
+
+[[discs]]
+catalog = "LACM-14970"
+
+[[discs.tracks]]
+title = "SUPER NOVA"
+
+[[discs.tracks]]
+title = "Love Triangle"
+
+[[discs.tracks]]
+title = "SUPER NOVA (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Love Triangle (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DiverDivaにお任せ!!"
+type = "drama"

@@ -1,0 +1,50 @@
+[album]
+album_id = "ea6880d1-3213-40f3-8cea-67c49155eb1b"
+title = "TOKIMEKI Runners"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2018-11-21
+type = "normal"
+catalog = "LACA-15770"
+tags = ["虹ヶ咲学園スクールアイドル同好会"]
+
+[[discs]]
+catalog = "LACA-15770"
+
+[[discs.tracks]]
+title = "TOKIMEKI Runners"
+
+[[discs.tracks]]
+title = "夢への一歩"
+artist = "上原歩夢（大西亜玖璃）"
+
+[[discs.tracks]]
+title = "ダイアモンド"
+artist = "中須かすみ（相良茉優）"
+
+[[discs.tracks]]
+title = "あなたの理想のヒロイン"
+artist = "桜坂しずく（前田佳織里）"
+
+[[discs.tracks]]
+title = "Starlight"
+artist = "朝香果林（久保田未夢）"
+
+[[discs.tracks]]
+title = "めっちゃGoing!!"
+artist = "宮下愛（村上奈津実）"
+
+[[discs.tracks]]
+title = "眠れる森に行きたいな"
+artist = "近江彼方（鬼頭明里）"
+
+[[discs.tracks]]
+title = "CHASE!"
+artist = "優木せつ菜（楠木ともり）"
+
+[[discs.tracks]]
+title = "Evergreen"
+artist = "エマ・ヴェルデ（指出毬亜）"
+
+[[discs.tracks]]
+title = "ドキピポ☆エモーション"
+artist = "天王寺璃奈（田中ちえ美）"

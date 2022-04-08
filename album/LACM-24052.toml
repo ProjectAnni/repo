@@ -1,0 +1,42 @@
+[album]
+album_id = "f1240308-b681-41b1-b608-8fa1c7b54bb8"
+title = "Dream with You／Poppin' Up!／DIVE!"
+artist = "上原歩夢（大西亜玖璃）、中須かすみ（相良茉優）、優木せつ菜（楠木ともり）"
+date = 2020-11-18
+type = "normal"
+edition = "上原歩夢盤"
+catalog = "LACM-24052"
+tags = [
+    "虹ヶ咲学園スクールアイドル同好会",
+    "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"
+]
+
+[[discs]]
+catalog = "LACM-24052"
+
+[[discs.tracks]]
+title = "Dream with You"
+artist = "上原歩夢（大西亜玖璃）"
+
+[[discs.tracks]]
+title = "Poppin' Up!"
+artist = "中須かすみ（相良茉優）"
+
+[[discs.tracks]]
+title = "DIVE!"
+artist = "優木せつ菜（楠木ともり）"
+
+[[discs.tracks]]
+title = "Dream with You (Off Vocal)"
+artist = "上原歩夢（大西亜玖璃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Poppin' Up! (Off Vocal)"
+artist = "中須かすみ（相良茉優）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DIVE! (Off Vocal)"
+artist = "優木せつ菜（楠木ともり）"
+type = "instrumental"

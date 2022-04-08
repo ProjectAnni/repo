@@ -1,0 +1,54 @@
+[album]
+album_id = "a4c005dd-02d8-411a-aff8-6967a0bb8882"
+title = "Love U my friends"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2019-10-02
+type = "normal"
+catalog = "LACA-15800"
+tags = ["虹ヶ咲学園スクールアイドル同好会"]
+
+[[discs]]
+catalog = "LACA-15800"
+
+[[discs.tracks]]
+title = "開花宣言"
+artist = "上原歩夢（大西亜玖璃）"
+
+[[discs.tracks]]
+title = "☆ワンダーランド☆"
+artist = "中須かすみ（相良茉優）"
+
+[[discs.tracks]]
+title = "オードリー"
+artist = "桜坂しずく（前田佳織里）"
+
+[[discs.tracks]]
+title = "Wish"
+artist = "朝香果林（久保田未夢）"
+
+[[discs.tracks]]
+title = "友 & 愛"
+artist = "宮下愛（村上奈津実）"
+
+[[discs.tracks]]
+title = "My Own Fairy-Tale"
+artist = "近江彼方（鬼頭明里）"
+
+[[discs.tracks]]
+title = "MELODY"
+artist = "優木せつ菜（楠木ともり）"
+
+[[discs.tracks]]
+title = "声繋ごうよ"
+artist = "エマ・ヴェルデ（指出毬亜）"
+
+[[discs.tracks]]
+title = "テレテレパシー"
+artist = "天王寺璃奈（田中ちえ美）"
+
+[[discs.tracks]]
+title = "Love U my friends"
+
+[[discs.tracks]]
+title = "彼方と璃奈の体育祭大作戦"
+type = "drama"

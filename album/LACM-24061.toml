@@ -1,0 +1,30 @@
+[album]
+album_id = "65fd2291-2d39-4c97-aa49-1c9fbb8021e4"
+title = "Awakening Promise／夢がここからはじまるよ"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2021-01-13
+type = "normal"
+catalog = "LACM-24061"
+tags = [
+    "虹ヶ咲学園スクールアイドル同好会",
+    "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"
+]
+
+[[discs]]
+catalog = "LACM-24061"
+
+[[discs.tracks]]
+title = "Awakening Promise"
+artist = "上原歩夢（大西亜玖璃）"
+
+[[discs.tracks]]
+title = "夢がここからはじまるよ"
+
+[[discs.tracks]]
+title = "Awakening Promise (Off Vocal)"
+artist = "上原歩夢（大西亜玖璃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢がここからはじまるよ (Off Vocal)"
+type = "instrumental"
