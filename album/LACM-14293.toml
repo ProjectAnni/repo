@@ -1,0 +1,30 @@
+[album]
+album_id = "dbdc58bd-92e0-4f6e-bfbf-eb937f9d3ace"
+title = "冬がくれた予感"
+artist = "BiBi（絢瀬絵里（南條愛乃）、西木野真姫（Pile）、矢澤にこ（徳井青空））"
+date = 2014-12-24
+type = "normal"
+catalog = "LACM-14293"
+tags = ["BiBi"]
+
+[[discs]]
+catalog = "LACM-14293"
+
+[[discs.tracks]]
+title = "冬がくれた予感"
+
+[[discs.tracks]]
+title = "Trouble Busters"
+
+[[discs.tracks]]
+title = "冬がくれた予感 (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Trouble Busters (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢にときめけ! 今にふりつけ!"
+type = "drama"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"

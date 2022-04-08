@@ -1,0 +1,18 @@
+[album]
+album_id = "2115db93-235d-4b39-b832-d24f84d619f6"
+title = "くるりんMIRACLE"
+artist = "星空凛（飯田里穂）"
+date = 2014-08-27
+type = "normal"
+catalog = "BCXA-0841"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0841"
+
+[[discs.tracks]]
+title = "くるりんMIRACLE"
+
+[[discs.tracks]]
+title = "くるりんMIRACLE (Off Vocal)"
+type = "instrumental"

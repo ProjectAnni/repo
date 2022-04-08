@@ -1,0 +1,25 @@
+[album]
+album_id = "7856967f-0d66-4241-83b9-1907dbcb797d"
+title = "Love wing bell／Dancing stars on me!"
+artist = "μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））"
+date = 2014-06-11
+type = "normal"
+catalog = "LACM-14242"
+tags = ["μ's", "TVアニメ「ラブライブ！」"]
+
+[[discs]]
+catalog = "LACM-14242"
+
+[[discs.tracks]]
+title = "Love wing bell"
+
+[[discs.tracks]]
+title = "Dancing stars on me!"
+
+[[discs.tracks]]
+title = "Love wing bell (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dancing stars on me! (Off Vocal)"
+type = "instrumental"

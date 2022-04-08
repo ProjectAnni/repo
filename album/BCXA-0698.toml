@@ -1,0 +1,18 @@
+[album]
+album_id = "00ba0468-f311-43d9-bd04-f29182f446ce"
+title = "Anemone heart"
+artist = "南ことり（内田彩）、園田海未（三森すずこ）"
+date = 2013-04-24
+type = "normal"
+catalog = "BCXA-0698"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0698"
+
+[[discs.tracks]]
+title = "Anemone heart"
+
+[[discs.tracks]]
+title = "Anemone heart (Off Vocal)"
+type = "instrumental"

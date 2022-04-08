@@ -1,0 +1,18 @@
+[album]
+album_id = "887a997b-1145-47b5-9f07-cb15e39ce8ab"
+title = "CheerDay CheerGirl!"
+artist = "Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））"
+date = 2014-12-25
+type = "normal"
+catalog = "BEPC-0012"
+tags = ["Printemps"]
+
+[[discs]]
+catalog = "BEPC-0012"
+
+[[discs.tracks]]
+title = "CheerDay CheerGirl!"
+
+[[discs.tracks]]
+title = "CheerDay CheerGirl! (Off Vocal)"
+type = "instrumental"

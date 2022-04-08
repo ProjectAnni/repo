@@ -1,0 +1,45 @@
+[album]
+album_id = "d39cbc8c-dd77-460e-9454-aefd9f2a1160"
+title = "ラブライブ！Solo Live! from μ's 高坂穂乃果 ほんのり穂乃果色！"
+artist = "高坂穂乃果（新田恵海）"
+date = 2012-01-25
+type = "normal"
+catalog = "LACA-15170"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "LACA-15170"
+
+[[discs.tracks]]
+title = "愛は太陽じゃない？"
+
+[[discs.tracks]]
+title = "もうひとりじゃないよ"
+
+[[discs.tracks]]
+title = "僕らのLIVE 君とのLIFE（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "友情ノーチェンジ（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "Snow halation（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "baby maybe 恋のボタン（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "Love marginal（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "sweet&sweet holiday（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "夏色えがおで1、2、Jump!（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "Mermaid festa vol.1（HONOKA Mix）"
+
+[[discs.tracks]]
+title = "ハッピーピクニック！～Date with 穂乃果～"
+type = "drama"

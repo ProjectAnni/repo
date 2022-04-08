@@ -1,0 +1,18 @@
+[album]
+album_id = "8548e0ed-68b4-4aa2-9501-6d8445fa42f7"
+title = "Beat in Angel"
+artist = "西木野真姫（Pile）、星空凛（飯田里穂）"
+date = 2013-06-21
+type = "normal"
+catalog = "BCXA-0700"
+tags = ["μ's"]
+
+[[discs]]
+catalog = "BCXA-0700"
+
+[[discs.tracks]]
+title = "Beat in Angel"
+
+[[discs.tracks]]
+title = "Beat in Angel (Off Vocal)"
+type = "instrumental"
