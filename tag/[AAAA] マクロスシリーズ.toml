@@ -1,4 +1,12 @@
 [[tag]]
 name = "マクロスシリーズ"
 type = "project"
+
+[[tag]]
+name = "マクロスF"
+type = "project"
+
+[[tag]]
+name = "マクロスΔ"
+type = "project"
 includes.group = ["ワルキューレ"]
