@@ -1,0 +1,47 @@
+[album]
+album_id = "783e1244-5891-41e9-87a1-f69767ffe8ff"
+title = "Talk about everything"
+artist = "AiRBLUE（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈）、天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ）、夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗）、丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+date = 2021-04-21
+type = "normal"
+catalog = "PCCG-01995"
+tags = ["AiRBLUE"]
+
+[[discs]]
+catalog = "PCCG-01995"
+
+[[discs.tracks]]
+title = "さよならレディーメイド"
+
+[[discs.tracks]]
+title = "beautiful tomorrow"
+
+[[discs.tracks]]
+title = "CUTE♡CUTE♡CUTE♡"
+
+[[discs.tracks]]
+title = "ミライキャンバス"
+
+[[discs.tracks]]
+title = "Colorful"
+
+[[discs.tracks]]
+title = "our song"
+
+[[discs.tracks]]
+title = "Radio is a Friend!"
+
+[[discs.tracks]]
+title = "マイサスティナー"
+
+[[discs.tracks]]
+title = "最高の魔法"
+
+[[discs.tracks]]
+title = "雫の結晶"
+
+[[discs.tracks]]
+title = "カレイドスコープ"
+
+[[discs.tracks]]
+title = "Forever Friends"

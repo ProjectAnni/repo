@@ -1,0 +1,459 @@
+[album]
+album_id = "49f16a7e-209a-419c-888a-1357e2444de5"
+title = "戦姫絶唱シンフォギア キャラクターソングコンプリートBOX"
+artist = "Various Artists"
+date = 2022-03-23
+type = "normal"
+catalog = "KICA-92595~603"
+tags = ["戦姫絶唱シンフォギア"]
+
+[[discs]]
+catalog = "KICA-92595"
+
+[[discs.tracks]]
+title = "逆光のフリューゲル"
+artist = "ツヴァイウィング（風鳴翼（水樹奈々）、天羽奏（高山みなみ））"
+
+[[discs.tracks]]
+title = "ORBITAL BEAT"
+artist = "ツヴァイウィング（風鳴翼（水樹奈々）、天羽奏（高山みなみ））"
+
+[[discs.tracks]]
+title = "撃槍・ガングニール"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "私ト云ウ 音響キ ソノ先ニ"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "絶刀・天羽々斬"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "FLIGHT FEATHERS"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "魔弓・イチイバル"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "繋いだ手だけが紡ぐもの"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "君ト云ウ 音奏デ 尽キルマデ"
+artist = "天羽奏（高山みなみ）"
+
+[[discs.tracks]]
+title = "陽だまりメモリア"
+artist = "小日向未来（井口裕香）"
+
+[[discs.tracks]]
+title = "FIRST LOVE SONG"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+
+[[discs]]
+catalog = "KICA-92596"
+
+[[discs.tracks]]
+title = "不死鳥のフランメ"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）、風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "正義を信じて、握り締めて"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "Rainbow Flower"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "烈槍・ガングニール"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "Dark Oblivion"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "月煌ノ剣"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "恋の桶狭間"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "鏖鋸・シュルシャガナ"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "PRACTICE MODE"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "Bye-Bye Lullaby"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "教室モノクローム"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "獄鎌・イガリマ"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "手紙"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "歪鏡・シェンショウジン"
+artist = "小日向未来（井口裕香）"
+
+[[discs.tracks]]
+title = "かばんの隠し事"
+artist = "小日向未来（井口裕香）"
+
+
+[[discs]]
+catalog = "KICA-92597"
+
+[[discs.tracks]]
+title = "現着ッ!電光刑事バン (Ver. 秋桜祭)"
+artist = "板場弓美（赤﨑千夏）、寺島詩織（東山奈央）、安藤創世（小松未可子）"
+
+[[discs.tracks]]
+title = "ORBITAL BEAT (Ver. ZABABA)"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "現着ッ!電光刑事バン"
+artist = "石川英郎"
+
+[[discs.tracks]]
+title = "英雄故事 (Ver. Training Day)"
+artist = "風鳴弦十郎（石川英郎）、立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "Edge Works of Goddess ZABABA"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "始まりの歌(バベル)"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "虹色のフリューゲル"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）、天羽奏（高山みなみ）"
+
+
+[[discs]]
+catalog = "KICA-92598"
+
+[[discs.tracks]]
+title = "星天ギャラクシィクロス"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）、風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "限界突破 G-beat"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "リトルミラクル -Grip it tight-"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "Beyond the BLADE"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "空へ…"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "TRUST HEART"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "放課後キーホルダー"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "オーバーキルサイズ・ヘル"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "おきてがみ"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "ジェノサイドソウ・ヘヴン"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "SENSE OF DISTANCE"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "銀腕・アガートラーム"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "純白イノセント"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "殲琴・ダウルダブラ"
+artist = "キャロル・マールス・ディーンハイム（水瀬いのり）"
+
+[[discs.tracks]]
+title = "tomorrow"
+artist = "キャロル・マールス・ディーンハイム（水瀬いのり）"
+
+
+[[discs]]
+catalog = "KICA-92599"
+
+[[discs.tracks]]
+title = "RADIANT FORCE"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "Just Loving X-Edge"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "BAYONET CHARGE"
+artist = "風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "RADIANT FORCE (IGNITED Arrangement)"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "いつかの虹、花の想い出"
+artist = "立花響（悠木碧）、小日向未来（井口裕香）"
+
+[[discs.tracks]]
+title = "銀腕・アガートラーム (IGNITED Arrangement)"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "Just Loving X-Edge (IGNITED Arrangement)"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "Beyond the BLADE (IGNITED Arrangement)"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "TRUST HEART (IGNITED Arrangement)"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "「ありがとう」を唄いながら"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "限界突破 G-beat (IGNITED Arrangement)"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "グリーングリーン"
+artist = "キャロル・マールス・ディーンハイム（水瀬いのり）"
+
+
+[[discs]]
+catalog = "KICA-92600"
+
+[[discs.tracks]]
+title = "負けない愛が拳(ここ)にある"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "花咲く勇気"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "Stand up! Ready!!"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "Stand up! Lady!!"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "月下美刃"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "ルミナスゲイト"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "GUN BULLET XXX"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "とどけHappy♡うたずきん!"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "デンジャラス・サンシャイン"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "はっぴー すまいる ばけいしょん"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "メロディアス・ムーンライト"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "Draft folder"
+artist = "月読調（南條愛乃）"
+
+
+[[discs]]
+catalog = "KICA-92601"
+
+[[discs.tracks]]
+title = "激唱インフィニティ"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "旋律ソロリティ"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "激唱インフィニティ (IGNITED Arrangement)"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "旋律ソロリティ (IGNITED Arrangement)"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "ギザギザギラリ☆フルスロットル"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "Change the Future"
+artist = "雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "風月ノ疾双"
+artist = "風鳴翼（水樹奈々）、月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "必愛デュオシャウト"
+artist = "立花響（悠木碧）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "死灯 -エイヴィヒカイト-"
+artist = "サンジェルマン（寿美菜子）、カリオストロ（蒼井翔太）、プレラーティ（日高里菜）"
+
+[[discs.tracks]]
+title = "アクシアの風"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+
+[[discs]]
+catalog = "KICA-92602"
+
+[[discs.tracks]]
+title = "ALL LOVES BLAZING"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "キミだけに"
+artist = "立花響（悠木碧）"
+
+[[discs.tracks]]
+title = "未完成愛Mapputatsu!"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "はっぴーばーすでーのうた"
+artist = "暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "未熟少女Buttagiri!"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "君が泣かない世界に"
+artist = "月読調（南條愛乃）"
+
+[[discs.tracks]]
+title = "Take this! “All loaded”"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "あしたのあたし"
+artist = "雪音クリス（高垣彩陽）"
+
+[[discs.tracks]]
+title = "白銀(しろがね)の炎 -keep the faith-"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "此の今を生きるヒカリ"
+artist = "マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "Defender'Z Brand!"
+artist = "風鳴翼（水樹奈々）"
+
+[[discs.tracks]]
+title = "風のあなたに"
+artist = "風鳴翼（水樹奈々）"
+
+
+[[discs]]
+catalog = "KICA-92603"
+
+[[discs.tracks]]
+title = "六花繚乱"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "Angelic Remnant"
+artist = "風鳴翼（水樹奈々）、マリア・カデンツァヴナ・イヴ（日笠陽子）"
+
+[[discs.tracks]]
+title = "花咲く勇気 Ver. Amalgam"
+artist = "立花響（悠木碧）、サンジェルマン（寿美菜子）"
+
+[[discs.tracks]]
+title = "また逢う日まで"
+artist = "エルフナイン（久野美咲）"
+
+[[discs.tracks]]
+title = "スフォルツァンドの残響"
+artist = "キャロル・マールス・ディーンハイム（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Cutting Edge×2 Ready Go!"
+artist = "月読調（南條愛乃）、暁切歌（茅野愛衣）"
+
+[[discs.tracks]]
+title = "PERFECT SYMPHONY"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）、キャロル・マールス・ディーンハイム（水瀬いのり）"
+
+[[discs.tracks]]
+title = "Xtreme Vibes"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）、小日向未来（井口裕香）"
+
+[[discs.tracks]]
+title = "FOR THE FUTURE"
+artist = "小日向未来（井口裕香）"
+
+[[discs.tracks]]
+title = "未来(あした)へのフリューゲル"
+artist = "立花響（悠木碧）、風鳴翼（水樹奈々）、雪音クリス（高垣彩陽）、マリア・カデンツァヴナ・イヴ（日笠陽子）、月読調（南條愛乃）、暁切歌（茅野愛衣）、小日向未来（井口裕香）"
