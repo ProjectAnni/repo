@@ -1,0 +1,29 @@
+[album]
+album_id = "b620df26-5c40-455b-9254-327f72b51e0c"
+title = "Sing & Smile!!"
+artist = "QU4RTZ（近江彼方（鬼頭明里）、中須かすみ（相良茉優）、天王寺璃奈（田中ちえ美）、エマ・ヴェルデ（指出毬亜））"
+date = 2020-02-12
+type = "normal"
+catalog = "LACM-14972"
+tags = ["QU4RTZ"]
+
+[[discs]]
+catalog = "LACM-14972"
+
+[[discs.tracks]]
+title = "Sing & Smile!!"
+
+[[discs.tracks]]
+title = "Beautiful Moonlight"
+
+[[discs.tracks]]
+title = "Sing & Smile!! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Beautiful Moonlight (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バレンタインパーティー"
+type = "drama"

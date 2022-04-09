@@ -1,0 +1,39 @@
+[album]
+album_id = "80295b1c-e08c-4f67-803c-318563dedeef"
+title = "サイコーハート／La Bella Patria／ツナガルコネクト"
+artist = "宮下愛（村上奈津実）、エマ・ヴェルデ（指出毬亜）、天王寺璃奈（田中ちえ美）"
+date = 2020-12-02
+type = "normal"
+edition = "天王寺璃奈盤"
+catalog = "LACM-24057"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"]
+
+[[discs]]
+catalog = "LACM-24057"
+
+[[discs.tracks]]
+title = "サイコーハート"
+artist = "宮下愛（村上奈津実）"
+
+[[discs.tracks]]
+title = "La Bella Patria"
+artist = "エマ・ヴェルデ（指出毬亜）"
+
+[[discs.tracks]]
+title = "ツナガルコネクト"
+artist = "天王寺璃奈（田中ちえ美）"
+
+[[discs.tracks]]
+title = "サイコーハート (Off Vocal)"
+artist = "宮下愛（村上奈津実）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "La Bella Patria (Off Vocal)"
+artist = "エマ・ヴェルデ（指出毬亜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ツナガルコネクト (Off Vocal)"
+artist = "天王寺璃奈（田中ちえ美）"
+type = "instrumental"

@@ -1,0 +1,39 @@
+[album]
+album_id = "8ca2a850-5683-49d0-8513-e079382b4cbc"
+title = "Butterfly／Solitude Rain／VIVID WORLD"
+artist = "近江彼方（鬼頭明里）、桜坂しずく（前田佳織里）、朝香果林（久保田未夢）"
+date = 2020-12-16
+type = "normal"
+edition = "近江彼方盤"
+catalog = "LACM-24058"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"]
+
+[[discs]]
+catalog = "LACM-24058"
+
+[[discs.tracks]]
+title = "Butterfly"
+artist = "近江彼方（鬼頭明里）"
+
+[[discs.tracks]]
+title = "Solitude Rain"
+artist = "桜坂しずく（前田佳織里）"
+
+[[discs.tracks]]
+title = "VIVID WORLD"
+artist = "朝香果林（久保田未夢）"
+
+[[discs.tracks]]
+title = "Butterfly (Off Vocal)"
+artist = "近江彼方（鬼頭明里）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Solitude Rain (Off Vocal)"
+artist = "桜坂しずく（前田佳織里）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VIVID WORLD (Off Vocal)"
+artist = "朝香果林（久保田未夢）"
+type = "instrumental"
