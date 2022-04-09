@@ -4,9 +4,11 @@ type = "project"
 
 [[tag]]
 name = "マクロスF"
+included-by = ["マクロスシリーズ"]
 type = "project"
 
 [[tag]]
 name = "マクロスΔ"
+included-by = ["マクロスシリーズ"]
 type = "project"
 includes.group = ["ワルキューレ"]
