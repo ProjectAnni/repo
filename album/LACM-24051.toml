@@ -12,6 +12,7 @@ catalog = "LACM-24051"
 
 [[discs.tracks]]
 title = "NEO SKY, NEO MAP!"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "全速ドリーマー"

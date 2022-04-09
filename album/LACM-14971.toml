@@ -1,6 +1,6 @@
 [album]
 album_id = "670281ed-4136-4e18-a4e6-b9bcd9322da7"
-title = "Dream Land!Dream World!"
+title = "Dream Land！Dream World！"
 artist = "A・ZU・NA（桜坂しずく（前田佳織里）、上原歩夢（大西亜玖璃）、優木せつ菜（楠木ともり））"
 date = 2020-02-12
 type = "normal"
@@ -11,13 +11,13 @@ tags = ["A・ZU・NA"]
 catalog = "LACM-14971"
 
 [[discs.tracks]]
-title = "Dream Land!Dream World!"
+title = "Dream Land！Dream World！"
 
 [[discs.tracks]]
 title = "Cheer for you!!"
 
 [[discs.tracks]]
-title = "Dream Land!Dream World! (Off Vocal)"
+title = "Dream Land！Dream World！(Off Vocal)"
 type = "instrumental"
 
 [[discs.tracks]]
