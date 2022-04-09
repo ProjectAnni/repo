@@ -1,7 +1,7 @@
 [album]
 album_id = "bc2bcac4-5a98-4cac-9024-1dbe5562f431"
 title = "THE IDOLM@STER STELLA MASTER 03 そしてぼくらは旅にでる"
-artist = "THE IDOLM@STER"
+artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
 date = 2018-04-18
 type = "normal"
 catalog = "COCC-17404"
@@ -12,11 +12,9 @@ catalog = "COCC-17404"
 
 [[discs.tracks]]
 title = "そしてぼくらは旅にでる (M@STER VERSION)"
-artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
 
 [[discs.tracks]]
 title = "そしてぼくらは旅にでる オリジナル・ドラマ"
-artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
 type = "drama"
 
 [[discs.tracks]]
@@ -26,7 +24,6 @@ type = "drama"
 
 [[discs.tracks]]
 title = "そしてぼくらは旅にでる オリジナル・ドラマ おまけトーク その2"
-artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
 type = "drama"
 
 [[discs.tracks]]
@@ -39,4 +36,5 @@ artist = "天海春香（中村繪里子）、菊地真（平田宏美）、双�
 
 [[discs.tracks]]
 title = "咲きませ！！乙女塾 オリジナル・カラオケ"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）、双海真美（下田麻美）"
 type = "instrumental"

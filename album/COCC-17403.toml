@@ -1,7 +1,7 @@
 [album]
 album_id = "61941641-6711-4171-a711-95733e8164a0"
 title = "THE IDOLM@STER STELLA MASTER 02 星彩ステッパー"
-artist = "THE IDOLM@STER"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
 date = 2018-03-14
 type = "normal"
 catalog = "COCC-17403"
@@ -12,11 +12,9 @@ catalog = "COCC-17403"
 
 [[discs.tracks]]
 title = "星彩ステッパー (M@STER VERSION)"
-artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
 
 [[discs.tracks]]
 title = "星彩ステッパー オリジナル・ドラマ"
-artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
 type = "drama"
 
 [[discs.tracks]]
@@ -26,7 +24,6 @@ type = "drama"
 
 [[discs.tracks]]
 title = "星彩ステッパー オリジナル・ドラマ おまけトーク その2"
-artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
 type = "drama"
 
 [[discs.tracks]]
@@ -39,4 +36,5 @@ artist = "高槻やよい（仁後真耶子）、秋月律子（若林直美）"
 
 [[discs.tracks]]
 title = "恋するTwist＆Shout オリジナル・カラオケ"
+artist = "高槻やよい（仁後真耶子）、秋月律子（若林直美）"
 type = "instrumental"

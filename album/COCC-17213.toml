@@ -20,6 +20,7 @@ type = "drama"
 
 [[discs.tracks]]
 title = "アマテラス(M@STER VERSION) オリジナル・カラオケ"
+artist = "萩原雪歩（浅倉杏美）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、秋月律子（若林直美）"
 type = "instrumental"
 
 [[discs.tracks]]
@@ -33,4 +34,5 @@ artist = "音無小鳥（滝田樹里）、高木順二朗（大塚芳忠）"
 
 [[discs.tracks]]
 title = "飛べない鳥は夜に鳴く オリジナル・カラオケ"
+artist = "音無小鳥（滝田樹里）、高木順二朗（大塚芳忠）"
 type = "instrumental"
