@@ -1,0 +1,25 @@
+[album]
+album_id = "d45d08ca-5c0c-4477-b3f5-0bcf6dfdb966"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 05 LET’S GO HAPPY!!"
+artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、諸星きらり（松嵜麗））"
+date = 2015-04-08
+type = "normal"
+catalog = "COCC-17025"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCC-17025"
+
+[[discs.tracks]]
+title = "LET'S GO HAPPY!!"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -凸レーション リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワー凸レーション特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "LET'S GO HAPPY!! (オリジナル・カラオケ)"
+type = "instrumental"

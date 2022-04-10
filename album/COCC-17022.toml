@@ -1,0 +1,25 @@
+[album]
+album_id = "569d6ca5-3302-4173-8c16-97a5dbba91a1"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 02 Memories"
+artist = "LOVE LAIKA（アナスタシア（上坂すみれ）、新田美波（洲崎綾））"
+date = 2015-03-18
+type = "normal"
+catalog = "COCC-17022"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCC-17022"
+
+[[discs.tracks]]
+title = "Memories"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -LOVE LAIKA リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワー LOVE LAIKA特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Memories (オリジナル・カラオケ)"
+type = "instrumental"

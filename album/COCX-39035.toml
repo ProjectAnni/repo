@@ -1,0 +1,70 @@
+[album]
+album_id = "5dd20384-31a4-45ad-9c79-af9b641d7415"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST"
+artist = "CINDERELLA PROJECT（赤城みりあ（黒沢ともよ）、アナスタシア（上坂すみれ）、双葉杏（五十嵐裕美）、本田未央（原紗友里）、城ヶ崎莉嘉（山本希望）、神崎蘭子（内田真礼）、前川みく（高森奈津美）、三村かな子（大坪由佳）、諸星きらり（松嵜麗）、新田美波（洲崎綾）、緒方智絵里（大空直美）、渋谷凛（福原綾香）、島村卯月（大橋彩香）、多田李衣菜（青木瑠璃子））"
+date = 2015-01-21
+type = "normal"
+catalog = "COCX-39035"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCX-39035"
+
+[[discs.tracks]]
+title = "Never say never"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "あんずのうた"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "ショコラ・ティアラ"
+artist = "三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "DOKIDOKIリズム"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "華蕾夢ミル狂詩曲～魂ノ導～"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "おねだり Shall We ～？"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "ましゅまろ☆キッス"
+artist = "諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "S(mile)ING!"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "Twilight Sky"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "ミツボシ☆☆★"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Romantic Now"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "ヴィーナスシンドローム"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "風色メロディ"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "You’re stars shine on me"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "ススメ☆オトメ ～jewel parade～"
