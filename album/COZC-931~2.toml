@@ -1,0 +1,47 @@
+[album]
+album_id = "26898cf1-da56-4fdc-8535-2138c9dd3377"
+title = "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』エンディング・テーマ 虹色ミラクル"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2014-08-13
+type = "normal"
+catalog = "COZC-931~2"
+tags = ["劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』"]
+
+[[discs]]
+catalog = "COZC-931"
+
+[[discs.tracks]]
+title = "虹色ミラクル"
+
+[[discs.tracks]]
+title = "Fate of the World"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "ボーナスドラマ 〜眠り姫編〜"
+type = "drama"
+
+[[discs.tracks]]
+title = "虹色ミラクル (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Fate of the World (オリジナル・カラオケ)"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）"
+type = "instrumental"
+
+[[discs]]
+catalog = "COZC-932"
+
+[[discs.tracks]]
+title = "虹色ミラクル"
+
+[[discs.tracks]]
+title = "Fate of the World"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "CHANGE!!!! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "私たちはずっと…でしょう？"
