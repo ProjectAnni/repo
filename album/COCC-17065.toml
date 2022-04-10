@@ -1,0 +1,34 @@
+[album]
+album_id = "0cb73246-29aa-4080-857d-cd1547ca0e55"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 05"
+artist = "Triad Primus（渋谷凛（福原綾香）、神谷奈緒（松井恵理子）、北条加蓮（渕上舞））"
+date = 2015-10-14
+type = "normal"
+catalog = "COCC-17065"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCC-17065"
+
+[[discs.tracks]]
+title = "Trancing Pulse"
+
+[[discs.tracks]]
+title = "Nebula Sky"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "Trancing Pulse (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nebula Sky (オリジナル・カラオケ)"
+artist = "アナスタシア（上坂すみれ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢色ハーモニー -LOVE LAIKAリミックス-"
+artist = "LOVE LAIKA（アナスタシア（上坂すみれ）、新田美波（洲崎綾））"
+
+[[discs.tracks]]
+title = "できたてEvo! Revo! Generation!"

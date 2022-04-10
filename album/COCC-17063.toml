@@ -1,0 +1,35 @@
+[album]
+album_id = "28ca0a68-4c0a-49e7-9458-4a006ecce84d"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 03"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））、なつなな（安部菜々（三宅麻理恵）、木村夏樹（安野希世乃））"
+date = 2015-09-30
+type = "normal"
+catalog = "COCC-17063"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCC-17063"
+
+[[discs.tracks]]
+title = "Wonder goes on!!"
+
+[[discs.tracks]]
+title = "Rockin' Emotion"
+artist = "木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "Wonder goes on!! (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rockin' Emotion (オリジナル・カラオケ)"
+artist = "木村夏樹（安野希世乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢色ハーモニー -＊(Asterisk) リミックス-"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"
+
+[[discs.tracks]]
+title = "We're the friends! -＊(Asterisk) リミックス-"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"

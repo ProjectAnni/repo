@@ -1,0 +1,37 @@
+[album]
+album_id = "7d7eb27b-31f1-4da1-9142-727015e5d6bf"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 02"
+artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、諸星きらり（松嵜麗））、CANDY ISLAND（輿水幸子（竹達彩奈））"
+date = 2015-09-23
+type = "normal"
+catalog = "COCC-17062"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+
+[[discs]]
+catalog = "COCC-17062"
+
+[[discs.tracks]]
+title = "私色ギフト"
+artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、諸星きらり（松嵜麗））、CANDY ISLAND（輿水幸子（竹達彩奈））、城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "Heart Voice"
+artist = "CANDY ISLAND（双葉杏（五十嵐裕美）、三村かな子（大坪由佳）、緒方智絵里（大空直美））、輿水幸子（竹達彩奈）"
+
+[[discs.tracks]]
+title = "私色ギフト (オリジナル・カラオケ)"
+artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、諸星きらり（松嵜麗））、CANDY ISLAND（輿水幸子（竹達彩奈））、城ヶ崎美嘉（佳村はるか）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Heart Voice (オリジナル・カラオケ)"
+artist = "CANDY ISLAND（双葉杏（五十嵐裕美）、三村かな子（大坪由佳）、緒方智絵里（大空直美））、輿水幸子（竹達彩奈）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢色ハーモニー -凸レーション リミックス-"
+artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、諸星きらり（松嵜麗））"
+
+[[discs.tracks]]
+title = "夢色ハーモニー -CANDY ISLANDリミックス-"
+artist = "CANDY ISLAND（双葉杏（五十嵐裕美）、三村かな子（大坪由佳）、緒方智絵里（大空直美））"
