@@ -1,0 +1,27 @@
+[album]
+album_id = "da8d554f-a553-4462-8f8d-8a48f0e9bb1f"
+title = "346Pro IDOL selection vol.2"
+artist = "Various Artists"
+date = 2015-07-23
+type = "normal"
+catalog = "ANZX-11906"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS ボーカルCD"]
+
+[[discs]]
+catalog = "ANZX-11906"
+
+[[discs.tracks]]
+title = "shabon song"
+artist = "城ヶ崎美嘉（佳村はるか）、小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "Never say never ～For Anastasia rearrange MIX～"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "ミツボシ☆☆★ ～For Minami rearrange MIX～"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "風色メロディ ～For Mio rearrange MIX～"
+artist = "本田未央（原紗友里）"

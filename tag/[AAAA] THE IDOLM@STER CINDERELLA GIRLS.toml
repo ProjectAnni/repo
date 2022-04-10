@@ -17,3 +17,8 @@ includes.series = [
 name = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"
 type = "series"
 included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[tag]]
+name = "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD"
+type = "series"
+included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
