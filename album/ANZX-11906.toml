@@ -5,7 +5,10 @@ artist = "Various Artists"
 date = 2015-07-23
 type = "normal"
 catalog = "ANZX-11906"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS ボーカルCD"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
 
 [[discs]]
 catalog = "ANZX-11906"

@@ -5,7 +5,10 @@ artist = "new generations（本田未央（原紗友里）、渋谷凛（福原�
 date = 2015-04-22
 type = "normal"
 catalog = "COCC-17027"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
 
 [[discs]]
 catalog = "COCC-17027"

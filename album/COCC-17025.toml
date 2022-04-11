@@ -5,7 +5,10 @@ artist = "凸レーション（赤城みりあ（黒沢ともよ）、城ヶ崎�
 date = 2015-04-08
 type = "normal"
 catalog = "COCC-17025"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
 
 [[discs]]
 catalog = "COCC-17025"

@@ -22,3 +22,8 @@ included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
 name = "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD"
 type = "series"
 included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[tag]]
+name = "TVアニメ「アイドルマスター シンデレラガールズ」"
+type = "animation"
+included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]

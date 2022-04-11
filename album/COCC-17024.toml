@@ -5,7 +5,10 @@ artist = "CANDY ISLAND（双葉杏（五十嵐裕美）、三村かな子（大�
 date = 2015-04-01
 type = "normal"
 catalog = "COCC-17024"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
 
 [[discs]]
 catalog = "COCC-17024"

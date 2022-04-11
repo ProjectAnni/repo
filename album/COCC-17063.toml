@@ -5,7 +5,10 @@ artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（
 date = 2015-09-30
 type = "normal"
 catalog = "COCC-17063"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
 
 [[discs]]
 catalog = "COCC-17063"
