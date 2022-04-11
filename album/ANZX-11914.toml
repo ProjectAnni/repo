@@ -1,0 +1,30 @@
+[album]
+album_id = "932f28ee-91cb-476c-935c-9bc452263b10"
+title = "346Pro IDOL selection vol.4"
+artist = "Various Artists"
+date = 2015-12-23
+type = "normal"
+catalog = "ANZX-11914"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "ANZX-11914"
+
+[[discs.tracks]]
+title = "Lunatic Show"
+artist = "星輝子（松田颯水）、白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "華蕾夢ミル狂詩曲～魂ノ導～ ～For Anzu rearrange MIX～"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "ましゅまろ☆キッス ～For Riina rearrange MIX～"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "おねだり Shall We ～？ ～For Kanako rearrange MIX～"
+artist = "三村かな子（大坪由佳）"

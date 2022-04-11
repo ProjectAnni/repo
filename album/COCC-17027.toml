@@ -1,0 +1,28 @@
+[album]
+album_id = "1eae541e-a073-4ba3-9bd6-0285ba7e7556"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 07 できたてEvo! Revo! Generation!"
+artist = "new generations（本田未央（原紗友里）、渋谷凛（福原綾香）、島村卯月（大橋彩香））"
+date = 2015-04-22
+type = "normal"
+catalog = "COCC-17027"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17027"
+
+[[discs.tracks]]
+title = "できたてEvo! Revo! Generation!"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -new generations リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワーnew generations特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "できたてEvo! Revo! Generation! (オリジナル・カラオケ)"
+type = "instrumental"

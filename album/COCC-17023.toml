@@ -1,0 +1,28 @@
+[album]
+album_id = "8595b187-6cb4-4099-944c-4e5fcbf676ad"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 03 -LEGNE- 仇なす剣 光の旋律"
+artist = "Rosenburg Engel（神崎蘭子（内田真礼））"
+date = 2015-03-25
+type = "normal"
+catalog = "COCC-17023"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17023"
+
+[[discs.tracks]]
+title = "-LEGNE- 仇なす剣 光の旋律"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -Rosenburg Engel リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワー Rosenburg Engel特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "-LEGNE- 仇なす剣 光の旋律 (オリジナル・カラオケ)"
+type = "instrumental"

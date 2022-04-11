@@ -1,0 +1,30 @@
+[album]
+album_id = "8eddf258-0e57-4f39-a7dc-69adb66205c6"
+title = "346Pro IDOL selection vol.3"
+artist = "Various Artists"
+date = 2015-09-25
+type = "normal"
+catalog = "ANZX-11910"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "ANZX-11910"
+
+[[discs.tracks]]
+title = "あいくるしい"
+artist = "佐久間まゆ（牧野由依）、小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "ショコラ・ティアラ ～For Miria rearrange MIX～"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "ヴィーナスシンドローム ～For Ranko rearrange MIX～"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "DOKIDOKIリズム ～For Chieri rearrange MIX～"
+artist = "緒方智絵里（大空直美）"

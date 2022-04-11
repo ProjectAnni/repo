@@ -1,0 +1,30 @@
+[album]
+album_id = "5af3f401-f692-40bd-bf44-5a9ce8f4ba92"
+title = "346Pro IDOL selection vol.5"
+artist = "Various Artists"
+date = 2016-02-25
+type = "normal"
+catalog = "ANZX-11918"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "ANZX-11918"
+
+[[discs.tracks]]
+title = "Flip Flop"
+artist = "日野茜（赤﨑千夏）、高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "You're stars shine on me ～For Miku rearrange MIX～"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "あんずのうた ～For Kirari rearranged MIX～"
+artist = "諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "Twilight Sky ～For Rika rearranged MIX～"
+artist = "城ヶ崎莉嘉（山本希望）"

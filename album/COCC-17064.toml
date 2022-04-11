@@ -1,0 +1,40 @@
+[album]
+album_id = "04605d91-a42c-403e-ac23-b9d16957c31a"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 04"
+artist = "LOVE LAIKA（アナスタシア（上坂すみれ）、新田美波（洲崎綾））、Rosenburg Engel（神崎蘭子（内田真礼））、＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"
+date = 2015-10-07
+type = "normal"
+catalog = "COCC-17064"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17064"
+
+[[discs.tracks]]
+title = "この空の下"
+artist = "LOVE LAIKA（アナスタシア（上坂すみれ）、新田美波（洲崎綾））、Rosenburg Engel（神崎蘭子（内田真礼））"
+
+[[discs.tracks]]
+title = "ØωØver!! -Heart Beat Version-"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"
+
+[[discs.tracks]]
+title = "この空の下 (オリジナル・カラオケ)"
+artist = "LOVE LAIKA（アナスタシア（上坂すみれ）、新田美波（洲崎綾））、Rosenburg Engel（神崎蘭子（内田真礼））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ØωØver!! -Heart Beat Version- (オリジナル・カラオケ)"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢色ハーモニー -Rosenburg Engel リミックス-"
+artist = "Rosenburg Engel（神崎蘭子（内田真礼））"
+
+[[discs.tracks]]
+title = "Memories"
+artist = "アナスタシア（上坂すみれ）、神崎蘭子（内田真礼）"

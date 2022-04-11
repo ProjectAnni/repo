@@ -1,0 +1,34 @@
+[album]
+album_id = "4507de33-4f0a-4afb-990b-7dead2624536"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 07 M@GIC☆"
+artist = "CINDERELLA PROJECT（赤城みりあ（黒沢ともよ）、アナスタシア（上坂すみれ）、双葉杏（五十嵐裕美）、本田未央（原紗友里）、城ヶ崎莉嘉（山本希望）、神崎蘭子（内田真礼）、前川みく（高森奈津美）、三村かな子（大坪由佳）、諸星きらり（松嵜麗）、新田美波（洲崎綾）、緒方智絵里（大空直美）、渋谷凛（福原綾香）、島村卯月（大橋彩香）、多田李衣菜（青木瑠璃子））"
+date = 2015-11-25
+type = "normal"
+catalog = "COCC-17067"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17067"
+
+[[discs.tracks]]
+title = "M@GIC☆"
+
+[[discs.tracks]]
+title = "夢色ハーモニー"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "S(mile)ING! -LIVE MIX-"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "M@GIC (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢色ハーモニー (オリジナル・カラオケ)"
+type = "instrumental"
+tags = ["ED"]

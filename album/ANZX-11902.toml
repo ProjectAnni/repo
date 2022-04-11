@@ -1,0 +1,26 @@
+[album]
+album_id = "edc85669-321b-4996-b58e-73dd5aecbd3a"
+title = "346Pro IDOL selection vol.1"
+artist = "Various Artists"
+date = 2015-04-23
+type = "normal"
+catalog = "ANZX-11902"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "ANZX-11902"
+
+[[discs.tracks]]
+title = "Nocturne"
+artist = "高垣楓（早見沙織）、川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "S(mile)ING! ～For Rin rearrange MIX～"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Romantic Now ～For Uzuki rearrange MIX～"
+artist = "島村卯月（大橋彩香）"

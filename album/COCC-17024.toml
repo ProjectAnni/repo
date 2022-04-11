@@ -1,0 +1,28 @@
+[album]
+album_id = "10a84522-df63-42ae-963c-0f0fa2017042"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 04 Happy×2 Days"
+artist = "CANDY ISLAND（双葉杏（五十嵐裕美）、三村かな子（大坪由佳）、緒方智絵里（大空直美））"
+date = 2015-04-01
+type = "normal"
+catalog = "COCC-17024"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17024"
+
+[[discs.tracks]]
+title = "Happy×2 Days"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -CANDY ISLAND リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワー CANDY ISLAND特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Happy×2 Days (オリジナル・カラオケ)"
+type = "instrumental"

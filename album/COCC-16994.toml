@@ -1,0 +1,31 @@
+[album]
+album_id = "23408c86-1e3e-4a8c-b50f-f6bb431e8bd5"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 01 Star!!"
+artist = "CINDERELLA PROJECT（赤城みりあ（黒沢ともよ）、アナスタシア（上坂すみれ）、双葉杏（五十嵐裕美）、本田未央（原紗友里）、城ヶ崎莉嘉（山本希望）、神崎蘭子（内田真礼）、前川みく（高森奈津美）、三村かな子（大坪由佳）、諸星きらり（松嵜麗）、新田美波（洲崎綾）、緒方智絵里（大空直美）、渋谷凛（福原綾香）、島村卯月（大橋彩香）、多田李衣菜（青木瑠璃子））"
+date = 2015-02-18
+type = "normal"
+catalog = "COCC-16994"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-16994"
+
+[[discs.tracks]]
+title = "Star!!"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "お願い!シンデレラ"
+artist = "高垣楓（早見沙織）、城ヶ崎美嘉（佳村はるか）、小日向美穂（津田美波）、十時愛梨（原田ひとみ）、川島瑞樹（東山奈央）、日野茜（赤﨑千夏）、輿水幸子（竹達彩奈）、佐久間まゆ（牧野由依）、白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "メッセージ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Star!! (オリジナル・カラオケ)"
+type = "instrumental"
+tags = ["OP"]

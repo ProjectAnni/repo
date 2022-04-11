@@ -1,0 +1,28 @@
+[album]
+album_id = "6d8c1bd1-a805-4e19-9948-65311f9b2d92"
+title = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 06 ØωØver!!"
+artist = "＊(Asterisk)（前川みく（高森奈津美）、多田李衣菜（青木瑠璃子））"
+date = 2015-04-15
+type = "normal"
+catalog = "COCC-17026"
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT",
+    "TVアニメ「アイドルマスター シンデレラガールズ」"
+]
+
+[[discs]]
+catalog = "COCC-17026"
+
+[[discs.tracks]]
+title = "ØωØver!!"
+
+[[discs.tracks]]
+title = "夕映えプレゼント -＊(Asterisk) リミックス-"
+
+[[discs.tracks]]
+title = "ボーナスドラマ「マジックアワー＊(Asterisk)特別編」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ØωØver!! (オリジナル・カラオケ)"
+type = "instrumental"
