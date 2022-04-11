@@ -15,6 +15,7 @@ title = "M@GIC☆"
 
 [[discs.tracks]]
 title = "夢色ハーモニー"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "S(mile)ING! -LIVE MIX-"
@@ -27,3 +28,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "夢色ハーモニー (オリジナル・カラオケ)"
 type = "instrumental"
+tags = ["ED"]

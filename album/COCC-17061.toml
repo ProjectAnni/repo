@@ -12,6 +12,7 @@ catalog = "COCC-17061"
 
 [[discs.tracks]]
 title = "Shine!!"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "とどけ!アイドル"
@@ -23,6 +24,7 @@ title = "お願い!シンデレラ"
 [[discs.tracks]]
 title = "Shine!! (オリジナル・カラオケ)"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "とどけ!アイドル (オリジナル・カラオケ)"

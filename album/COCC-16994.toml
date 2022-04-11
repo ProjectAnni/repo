@@ -12,6 +12,7 @@ catalog = "COCC-16994"
 
 [[discs.tracks]]
 title = "Star!!"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "お願い!シンデレラ"
@@ -24,3 +25,4 @@ artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田�
 [[discs.tracks]]
 title = "Star!! (オリジナル・カラオケ)"
 type = "instrumental"
+tags = ["OP"]
