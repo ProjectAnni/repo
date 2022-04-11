@@ -1,0 +1,48 @@
+[album]
+album_id = "dd348f8e-4269-4909-93f9-e4830f6388af"
+title = "NANA ACOUSTIC ONLINE"
+artist = "水樹奈々"
+date = 2020-11-15
+type = "normal"
+catalog = "NOPA-2442"
+tags = ["水樹奈々"]
+
+[[discs]]
+catalog = "NOPA-2442"
+
+[[discs.tracks]]
+title = "エデン (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "Invisible Heat (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "マーガレット (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "Nostalgia (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "ONE (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "愛の星 -two hearts- (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "宝物 (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "COSMIC LOVE (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "ドラマティックラブ (NANA ACOUSTIC ONLINE Ver.)"
+type = "drama"
+
+[[discs.tracks]]
+title = "NEVER SURRENDER (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "Sing Forever (NANA ACOUSTIC ONLINE Ver.)"
+
+[[discs.tracks]]
+title = "No Rain, No Rainbow (NANA ACOUSTIC ONLINE Ver.)"
