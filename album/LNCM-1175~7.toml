@@ -2,6 +2,8 @@
 album_id = "394252f0-6c64-45dd-9a69-bc555dffa9f5"
 title = "PERSONA5 Original Soundtrack"
 artist = "アトラスサウンドチーム"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 date = 2017-01-17
 type = "absolute"
 catalog = "LNCM-1175~7"
