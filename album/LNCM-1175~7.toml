@@ -645,6 +645,8 @@ artists.lyricist = "Benjamin Franklin"
 [[discs.tracks]]
 title = "傲慢の崩壊"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "自由と安心"
