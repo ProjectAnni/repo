@@ -1,0 +1,41 @@
+[album]
+album_id = "3b08fabb-6800-45d5-b0f2-958d097453fd"
+title = "Ever17 シングルコレクション Action2 茜ヶ崎空"
+artist = "茜ヶ崎空（笠原弘子）"
+date = 2003-02-19
+type = "normal"
+catalog = "SCDC-00246"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00246"
+
+[[discs.tracks]]
+title = "NEVER-NEVER SKY～架空の空～"
+
+[[discs.tracks]]
+title = "連続ドラマ第2話 梅雨空の詩"
+type = "drama"
+
+[[discs.tracks]]
+title = "Karussell Dolphine 茜ヶ崎 空イメージBGM"
+artist = "阿保剛"
+artists.composer = "阿保剛"
+artists.arranger = "阿保剛"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Karussell Dolphine 茜ヶ崎 空イメージBGM"
+artist = "細江慎治"
+artists.composer = "阿保剛"
+artists.arranger = "細江慎治"
+type = "absolute"
+
+[[discs.tracks]]
+title = "笠原弘子と茜ヶ崎空の関係学"
+artist = "笠原弘子"
+type = "vocal"
+
+[[discs.tracks]]
+title = "NEVER-NEVER SKY～架空の空～ (カラオケ)"
+type = "instrumental"
