@@ -1,0 +1,31 @@
+[album]
+album_id = "54e02381-7229-4c25-b36d-5b5baed1c4f6"
+title = "Lapis"
+edition = "通常盤"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2022-04-06
+type = "normal"
+catalog = "VVCL-1994"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "VVCL-1994"
+
+[[discs.tracks]]
+title = "Lapis"
+
+[[discs.tracks]]
+title = "オルゴール"
+artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
+
+[[discs.tracks]]
+title = "オルゴール -TrySail ver.-"
+
+[[discs.tracks]]
+title = "Lapis -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オルゴール -Instrumental-"
+artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
+type = "instrumental"

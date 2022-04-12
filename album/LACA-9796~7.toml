@@ -1,0 +1,255 @@
+[album]
+album_id = "efaae6fa-5947-4806-9853-0ef6cf3c7e24"
+title = "TVアニメ『ラブライブ! 虹ヶ咲学園スクールアイドル同好会』オリジナルサウンドトラック Sound of TOKIMEKI"
+artist = "遠藤ナオキ"
+date = 2021-01-27
+type = "absolute"
+catalog = "LACA-9796~7"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」"]
+
+[[discs]]
+catalog = "LACA-9796"
+
+[[discs.tracks]]
+title = "色とりどりの虹 (メインテーマ)"
+
+[[discs.tracks]]
+title = "虹色Passions! [オープニング主題歌] (TV size)"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+type = "normal"
+
+[[discs.tracks]]
+title = "スクールアイドルとは"
+
+[[discs.tracks]]
+title = "隠れた本心"
+
+[[discs.tracks]]
+title = "CHASE! (Short size)"
+artist = "優木せつ菜（楠木ともり）"
+type = "normal"
+
+[[discs.tracks]]
+title = "トキメキへ!"
+
+[[discs.tracks]]
+title = "芽吹いたキモチ"
+
+[[discs.tracks]]
+title = "夢中になれるもの"
+
+[[discs.tracks]]
+title = "トキメキを求めて"
+
+[[discs.tracks]]
+title = "サガシモノ"
+
+[[discs.tracks]]
+title = "胸のざわめき"
+
+[[discs.tracks]]
+title = "夕凪に吹かれて"
+
+[[discs.tracks]]
+title = "あなたと私と私たちの夢"
+
+[[discs.tracks]]
+title = "想い、花ひらく時"
+
+[[discs.tracks]]
+title = "「大好き!!!」"
+
+[[discs.tracks]]
+title = "Dream with You (TV size)"
+artist = "上原歩夢（大西亜玖璃）"
+type = "normal"
+
+[[discs.tracks]]
+title = "胸をよぎる不安"
+
+[[discs.tracks]]
+title = "アヤシイ人影"
+
+[[discs.tracks]]
+title = "謎めいて、コソ泥"
+
+[[discs.tracks]]
+title = "How..."
+
+[[discs.tracks]]
+title = "かすみんです!!!"
+
+[[discs.tracks]]
+title = "あつまれ!同好会"
+
+[[discs.tracks]]
+title = "伝える相手はだれなのかしら？"
+
+[[discs.tracks]]
+title = "モヤモヤ、ぐぬぬぬ"
+
+[[discs.tracks]]
+title = "悩んだ先に"
+
+[[discs.tracks]]
+title = "吹っ切れた想い、前をむいて"
+
+[[discs.tracks]]
+title = "Poppin' Up! (TV size)"
+artist = "中須かすみ（相良茉優）"
+type = "normal"
+
+[[discs.tracks]]
+title = "キャッチミー!"
+
+[[discs.tracks]]
+title = "届かぬ想い"
+
+[[discs.tracks]]
+title = "それぞれの想い"
+
+[[discs.tracks]]
+title = "DIVE! (TV size)"
+artist = "優木せつ菜（楠木ともり）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ウキウキワクワクスクールライフ"
+
+[[discs.tracks]]
+title = "夕陽"
+
+[[discs.tracks]]
+title = "朝陽"
+
+[[discs.tracks]]
+title = "サイコーハート (TV size)"
+artist = "宮下愛（村上奈津実）"
+type = "normal"
+
+[[discs]]
+catalog = "LACA-9797"
+
+[[discs.tracks]]
+title = "友情の芽生え"
+
+[[discs.tracks]]
+title = "かわいさ無敵級"
+
+[[discs.tracks]]
+title = "ミッション!"
+
+[[discs.tracks]]
+title = "かわいいかな？"
+
+[[discs.tracks]]
+title = "ちぐはぐ"
+
+[[discs.tracks]]
+title = "潮風のリズム"
+
+[[discs.tracks]]
+title = "La Bella Patria (TV size)"
+artist = "エマ・ヴェルデ（指出毬亜）"
+type = "normal"
+
+[[discs.tracks]]
+title = "つながりたい心"
+
+[[discs.tracks]]
+title = "始まれ!"
+
+[[discs.tracks]]
+title = "ツナガルコネクト (TV size)"
+artist = "天王寺璃奈（田中ちえ美）"
+type = "normal"
+
+[[discs.tracks]]
+title = "やさしさをあなたに"
+
+[[discs.tracks]]
+title = "プレッシャー"
+
+[[discs.tracks]]
+title = "くもり模様"
+
+[[discs.tracks]]
+title = "Butterfly (TV size)"
+artist = "近江彼方（鬼頭明里）"
+type = "normal"
+
+[[discs.tracks]]
+title = "つながった心"
+
+[[discs.tracks]]
+title = "私と私～1～"
+
+[[discs.tracks]]
+title = "はれ模様"
+
+[[discs.tracks]]
+title = "私と私～2～"
+
+[[discs.tracks]]
+title = "私と私～3～"
+
+[[discs.tracks]]
+title = "自分をさらけ出せ"
+
+[[discs.tracks]]
+title = "私と私～4～"
+
+[[discs.tracks]]
+title = "Solitude Rain (TV size)"
+artist = "桜坂しずく（前田佳織里）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Look at me."
+
+[[discs.tracks]]
+title = "仲間でライバル"
+
+[[discs.tracks]]
+title = "わたしとスクールアイドル"
+
+[[discs.tracks]]
+title = "夜の帳の中で"
+
+[[discs.tracks]]
+title = "ライバル、だけど、仲間"
+
+[[discs.tracks]]
+title = "VIVID WORLD (TV size)"
+artist = "朝香果林（久保田未夢）"
+type = "normal"
+
+[[discs.tracks]]
+title = "色とりどりの虹 (EDM ver.)"
+
+[[discs.tracks]]
+title = "手を取り合って"
+
+[[discs.tracks]]
+title = "雨上がり、差す光"
+
+[[discs.tracks]]
+title = "Awakening Promise (TV size)"
+artist = "上原歩夢（大西亜玖璃）"
+type = "normal"
+
+[[discs.tracks]]
+title = "2つのヴァイオリンのためのソナタ"
+
+[[discs.tracks]]
+title = "虹のふもと"
+
+[[discs.tracks]]
+title = "夢がここからはじまるよ (Short size)"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+type = "normal"
+
+[[discs.tracks]]
+title = "NEO SKY, NEO MAP! [エンディング主題歌] (TV size)"
+artist = "虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+type = "normal"

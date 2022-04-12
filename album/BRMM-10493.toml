@@ -1,7 +1,7 @@
 [album]
 album_id = "e5659b0a-7163-4c95-ac6d-62822b6a5b3c"
 title = "MORE MORE JUMP！SEKAI ALBUM Vol.1"
-artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、初音ミク、メイコ、巡音ルカ"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、初音ミク、MEIKO、巡音ルカ"
 date = 2022-03-02
 type = "normal"
 catalog = "BRMM-10493"
@@ -12,36 +12,48 @@ catalog = "BRMM-10493"
 
 [[discs.tracks]]
 title = "ハッピーシンセサイザ"
+artist = "花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈）"
 
 [[discs.tracks]]
 title = "ツギハギスタッカート"
+artist = "桃井愛莉（降幡愛）、日野森雫（本泉莉奈）、初音ミク"
 
 [[discs.tracks]]
 title = "Nostalogic"
+artist = "桐谷遥（吉岡茉祐）、日野森雫（本泉莉奈）、MEIKO"
 
 [[discs.tracks]]
 title = "ニア"
+artist = "花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、初音ミク"
 
 [[discs.tracks]]
 title = "ビバハピ"
+artist = "花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈）、初音ミク"
 
 [[discs.tracks]]
 title = "メルティランドナイトメア"
+artist = "花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈）、初音ミク"
 
 [[discs.tracks]]
 title = "恋愛裁判"
+artist = "花里みのり（小倉唯）、桃井愛莉（降幡愛）、初音ミク"
 
 [[discs.tracks]]
 title = "ミルククラウン・オン・ソーネチカ"
+artist = "花里みのり（小倉唯）、日野森雫（本泉莉奈）、初音ミク"
 
 [[discs.tracks]]
 title = "どりーみんチュチュ"
+artist = "花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈）、巡音ルカ"
 
 [[discs.tracks]]
 title = "ロミオとシンデレラ"
+artist = "桃井愛莉（降幡愛）、日野森雫（本泉莉奈）、初音ミク"
 
 [[discs.tracks]]
 title = "地球最後の告白を"
+artist = "桐谷遥（吉岡茉祐）、日野森雫（本泉莉奈）、巡音ルカ"
 
 [[discs.tracks]]
 title = "マシュマリー"
+artist = "花里みのり（小倉唯）、桃井愛莉（降幡愛）、初音ミク"
