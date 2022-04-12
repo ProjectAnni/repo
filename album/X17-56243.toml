@@ -1,0 +1,110 @@
+[album]
+album_id = "aa2192da-620f-423a-93ed-82160fadbcfc"
+title = "Ever17 ORIGINAL SOUND TRACKS"
+artist = "阿保剛"
+date = 2011-12-01
+type = "absolute"
+catalog = "X17-56243"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "@X17-56243-01"
+
+[[discs.tracks]]
+title = "Insel Null"
+
+[[discs.tracks]]
+title = "Ersteboden"
+
+[[discs.tracks]]
+title = "Zweitestock"
+
+[[discs.tracks]]
+title = "Drittestock"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine"
+
+[[discs.tracks]]
+title = "Kosmisher Wal"
+
+[[discs.tracks]]
+title = "Qualle"
+
+[[discs.tracks]]
+title = "Karussell Delphine"
+
+[[discs.tracks]]
+title = "Weißer Hund"
+
+[[discs.tracks]]
+title = "Hologramm"
+
+[[discs.tracks]]
+title = "IBF Notfall"
+
+[[discs.tracks]]
+title = "Kopfsprung"
+
+[[discs.tracks]]
+title = "Traum In Der Dunkelheit"
+
+[[discs.tracks]]
+title = "Das Absuchen"
+
+[[discs.tracks]]
+title = "Gedächtnisschwund"
+
+[[discs.tracks]]
+title = "Klamauk"
+
+[[discs.tracks]]
+title = "Karma"
+
+[[discs]]
+catalog = "@X17-56243-02"
+
+[[discs.tracks]]
+title = "Der Kern -Je Nach-"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine -Klavier-"
+
+[[discs.tracks]]
+title = "Kosmisher Wal -Klavier-"
+
+[[discs.tracks]]
+title = "Qualle -Klavier-"
+
+[[discs.tracks]]
+title = "Delphine -Klavier-"
+
+[[discs.tracks]]
+title = "Weißer Hund -Klavier-"
+
+[[discs.tracks]]
+title = "Heilmittel"
+
+[[discs.tracks]]
+title = "Tief Blau"
+
+[[discs.tracks]]
+title = "Drittes Auge"
+
+[[discs.tracks]]
+title = "Der Mond Das Meer"
+
+[[discs.tracks]]
+title = "Karma -Klavier-"
+
+[[discs.tracks]]
+title = "Drittes Auge Nehmen"
+
+[[discs.tracks]]
+title = "Wiedergeburt"
+
+[[discs.tracks]]
+title = "Je Nach"
+
+[[discs.tracks]]
+title = "SYSTEM SE COLLECTION"

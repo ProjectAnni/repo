@@ -1,0 +1,25 @@
+[album]
+album_id = "38db1416-1312-4557-a47c-64ccd9af9717"
+title = "レムリアに捧ぐ／キミがボクなら"
+artist = "KOKOMI"
+date = 2011-09-21
+type = "normal"
+catalog = "FVCG-1166"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "FVCG-1166"
+
+[[discs.tracks]]
+title = "レムリアに捧ぐ"
+
+[[discs.tracks]]
+title = "キミがボクなら"
+
+[[discs.tracks]]
+title = "レムリアに捧ぐ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミがボクなら　(Off Vocal)"
+type = "instrumental"
