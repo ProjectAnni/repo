@@ -1,0 +1,49 @@
+[album]
+album_id = "a67885b2-5029-4ba2-b94a-4ddac74aad5f"
+title = "Ever17 -The Out of Infinity- ボーカルコレクション"
+artist = "Various Artists"
+date = 2003-08-06
+type = "normal"
+catalog = "SCDC-00283"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00283"
+
+[[discs.tracks]]
+title = "LeMU ～遥かなるレムリア大陸～"
+artist = "KAORI"
+
+[[discs.tracks]]
+title = "Aqua Stripe"
+artist = "笠原弘子"
+
+[[discs.tracks]]
+title = "Shynny Boy"
+artist = "田中優美清春香菜（下屋則子）"
+
+[[discs.tracks]]
+title = "NEVER-NEVER SKY ～架空の空～"
+artist = "茜ヶ崎空（笠原弘子）"
+
+[[discs.tracks]]
+title = "squall rise above"
+artist = "小町つぐみ（浅川悠）"
+
+[[discs.tracks]]
+title = "時空のカケラ"
+artist = "八神ココ（望月久代）"
+
+[[discs.tracks]]
+title = "涙の子守唄"
+artist = "松永沙羅（植田佳奈）"
+
+[[discs.tracks]]
+title = "LeMU ～遥かなるレムリア大陸～（カラオケ）"
+artist = "KAORI"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Aqua Stripe（カラオケ）"
+artist = "笠原弘子"
+type = "instrumental"

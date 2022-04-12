@@ -1,0 +1,93 @@
+[album]
+album_id = "a1bc1cb9-fbaf-4355-b8e2-6128393b6c89"
+title = "Ever17 ~the out of infinity~ サウンドコレクション"
+artist = "阿保剛（KID）"
+date = 2002-09-04
+type = "absolute"
+catalog = "SCDC-00204"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00204"
+
+[[discs.tracks]]
+title = "LeMU～遥かなるレムリア大陸～"
+artist = "KAORI"
+type = "normal"
+
+[[discs.tracks]]
+title = "Insel Null"
+
+[[discs.tracks]]
+title = "Ersteboden"
+
+[[discs.tracks]]
+title = "Zweitestock"
+
+[[discs.tracks]]
+title = "Drittestock"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine"
+
+[[discs.tracks]]
+title = "Kosmisher Wal"
+
+[[discs.tracks]]
+title = "Qualle"
+
+[[discs.tracks]]
+title = "Karussell Delphine"
+
+[[discs.tracks]]
+title = "Weißer Hund"
+
+[[discs.tracks]]
+title = "IBF Notfall"
+
+[[discs.tracks]]
+title = "Tief Blau"
+
+[[discs.tracks]]
+title = "Kopfsprung"
+
+[[discs.tracks]]
+title = "Traum In Der Dunkelheit"
+
+[[discs.tracks]]
+title = "Hologramm"
+
+[[discs.tracks]]
+title = "Das Absuchen"
+
+[[discs.tracks]]
+title = "Gedächtnisschwund"
+
+[[discs.tracks]]
+title = "Drittes Auge"
+
+[[discs.tracks]]
+title = "Klamauk"
+
+[[discs.tracks]]
+title = "Heilmittel"
+
+[[discs.tracks]]
+title = "Wiedergeburt"
+
+[[discs.tracks]]
+title = "Karma"
+
+[[discs.tracks]]
+title = "Der Mond Das Meer"
+
+[[discs.tracks]]
+title = "Je Nach"
+
+[[discs.tracks]]
+title = "Drittes Auge Nehmen"
+
+[[discs.tracks]]
+title = "Aqua Stripe"
+artist = "笠原弘子"
+type = "normal"

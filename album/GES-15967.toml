@@ -1,0 +1,25 @@
+[album]
+album_id = "ef4e1371-8455-4f24-a0da-4a1e0a40f4b6"
+title = "朝焼けは黄金色 THE IDOLM@STER 5巻特装版 CD"
+artist = "音無小鳥（滝田樹里）"
+date = 2022-03-26
+type = "normal"
+catalog = "GES-15967"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "GES-15967"
+
+[[discs.tracks]]
+title = "翼"
+
+[[discs.tracks]]
+title = "想い出は永遠に"
+
+[[discs.tracks]]
+title = "翼 (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "想い出は永遠に (オリジナル・カラオケ)"
+type = "instrumental"

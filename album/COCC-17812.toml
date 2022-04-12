@@ -1,0 +1,35 @@
+[album]
+album_id = "4d7d7dd3-7ca0-40ea-97e8-6e9d73ab2282"
+title = "なんどでも笑おう"
+edition = "765PRO ALLSTARS盤"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2020-09-30
+type = "normal"
+catalog = "COCC-17812"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "COCC-17812"
+
+[[discs.tracks]]
+title = "なんどでも笑おう"
+
+[[discs.tracks]]
+title = "なんどでも笑おう (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なんどでも笑おう -765PRO ALLSTARS バージョン-"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 天海春香ソロ・リミックス"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 如月千早ソロ・リミックス"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 星井美希ソロ・リミックス"
+artist = "星井美希（長谷川明子）"

@@ -275,6 +275,7 @@ type = "animation"
 [[tag]]
 name = "白い砂のアクアトープ"
 type = "animation"
+includes.series = ["白い砂のアクアトープ がまがま水族館 館内放送局"]
 
 [[tag]]
 name = "宇宙よりも遠い場所"
@@ -381,6 +382,10 @@ type = "game"
 
 [[tag]]
 name = "Persona 5"
+type = "game"
+
+[[tag]]
+name = "Ever17"
 type = "game"
 
 ################################################################################
