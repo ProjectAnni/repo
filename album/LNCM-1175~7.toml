@@ -2,8 +2,6 @@
 album_id = "394252f0-6c64-45dd-9a69-bc555dffa9f5"
 title = "PERSONA5 Original Soundtrack"
 artist = "アトラスサウンドチーム"
-artists.composer = "目黒将司"
-artists.arranger = "目黒将司"
 date = 2017-01-17
 type = "absolute"
 catalog = "LNCM-1175~7"
@@ -24,6 +22,8 @@ artists.lyricist = "Benjamin Franklin"
 [[discs.tracks]]
 title = "Phantom"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "脱出"
@@ -48,6 +48,8 @@ artists.arranger = "小西利樹"
 [[discs.tracks]]
 title = "尋問室"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "回想～暗示"
@@ -65,35 +67,51 @@ artists.arranger = "目黒将司"
 [[discs.tracks]]
 title = "Beneath the Mask -instrumental version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "出会い"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "異世界へ"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "緊迫"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "覚醒"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Will Power"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "王と王妃と奴隷 -another version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "王と王妃と奴隷"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Last Surprise"
@@ -107,18 +125,26 @@ artists.lyricist = "Benjamin Franklin"
 [[discs.tracks]]
 title = "Talk"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "勝利"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Tokyo Emergency"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "告白/秘密"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "告白/秘密 -piano version-"
@@ -129,27 +155,39 @@ artists.arranger = "小西利樹"
 [[discs.tracks]]
 title = "Layer Cake"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Life Will Change -instrumental version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Blood of Villain"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Blooming Villain"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Regret"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "色欲の崩壊"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Beneath the Mask"
@@ -163,30 +201,44 @@ artists.lyricist = "Benjamin Franklin"
 [[discs.tracks]]
 title = "終わらない日々"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "スターフォルネウス"
 artist = "土屋憲一"
+artists.composer = "土屋憲一"
+artists.arranger = "土屋憲一"
 
 [[discs.tracks]]
 title = "パンチdeアウチ"
 artist = "土屋憲一"
+artists.composer = "土屋憲一"
+artists.arranger = "土屋憲一"
 
 [[discs.tracks]]
 title = "垢太郎鉄道"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "豪血寺一味"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "はったれ五右衛門"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "プロゴルファー猿田彦"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs]]
 catalog = "LNCM-1176"
@@ -194,46 +246,68 @@ catalog = "LNCM-1176"
 [[discs.tracks]]
 title = "Tokyo Daylight"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Butterfly Kiss"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "メメントス"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Have a Short Rest"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Suspicious Person"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "My Homie"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Wicked Plan"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "A Woman"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "A Woman -another version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Sunset Bridge"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Days of Sisters"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Beneath the Mask -rain-"
@@ -247,34 +321,50 @@ artists.lyricist = "Benjamin Franklin"
 [[discs.tracks]]
 title = "BAR にゅぅカマー"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "疑惑"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "High Pressure"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Price"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Price -another version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Keeper of Lust"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Life Goes On"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "夏の日の思い出"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "灼熱の砂漠を往く"
@@ -285,82 +375,122 @@ artists.arranger = "小西利樹"
 [[discs.tracks]]
 title = "母のいた日々 -another version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "母のいた日々"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Alleycat"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "憤怒の崩壊"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Alright -elp version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "New Beginning"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Hawaii"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Alright"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Break it Down -elp version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "The Spirit"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "What's Going On?"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Sweet"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "ビッグバン・バーガーのマーチ"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "TRIPLE SEVEN"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "クレーンゲーム"
 artist = "小塚良太"
+artists.composer = "小塚良太"
+artists.arranger = "小塚良太"
 
 [[discs.tracks]]
 title = "プラネタリウム"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "家電量販店"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "おかえりなさいませ! ご主人様♡"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "懺悔のお時間"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "デスティニー・ランド"
 artist = "喜多條敦志"
+artists.composer = "喜多條敦志"
+artists.arranger = "喜多條敦志"
 
 [[discs.tracks]]
 title = "闇ネットたなか"
@@ -374,35 +504,51 @@ catalog = "LNCM-1177"
 [[discs.tracks]]
 title = "Beneath the Mask -rain, instrumental version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Break it Down"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "つまらない"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "廃人化"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Sweatshop"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Sweatshop -another version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "RUN,RUN,RUN!"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "放送事故"
 artist = "土屋憲一"
+artists.composer = "土屋憲一"
+artists.arranger = "土屋憲一"
 
 [[discs.tracks]]
 title = "不穏"
@@ -434,22 +580,32 @@ artists.arranger = "小西利樹"
 [[discs.tracks]]
 title = "Betrayer"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Nothingness…?"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Trick"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "底知れぬ傲慢"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "方舟"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "次期総理の船路に捧げる即興曲"
@@ -460,16 +616,22 @@ artists.arranger = "小塚良太"
 [[discs.tracks]]
 title = "Wake Up, Get Up, Get Out There -instrumental version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Rivers In the Desert -instrumental version-"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 type = "instrumental"
 
 [[discs.tracks]]
 title = "欲望"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Rivers In the Desert"
@@ -487,6 +649,8 @@ artist = "小西利樹"
 [[discs.tracks]]
 title = "自由と安心"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Erosion"
@@ -497,18 +661,26 @@ artists.arranger = "小西利樹"
 [[discs.tracks]]
 title = "対峙"
 artist = "小西利樹"
+artists.composer = "小西利樹"
+artists.arranger = "小西利樹"
 
 [[discs.tracks]]
 title = "Jaldabaoth"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Swear to My Bones"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "Our Beginning"
 artist = "目黒将司"
+artists.composer = "目黒将司"
+artists.arranger = "目黒将司"
 
 [[discs.tracks]]
 title = "星と僕らと -piano version-"
