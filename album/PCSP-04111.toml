@@ -1,0 +1,45 @@
+[album]
+album_id = "4cc5962b-ecdf-4b68-9252-5c054b15f60f"
+title = "僕らが愚かだなんて誰が言った"
+artist = "DIALOGUE+（稗田寧々、飯塚麻結、宮原颯希、守屋亨香、村上まなつ、緒方佑奈、鷹村彩花、内山悠里菜）"
+date = 2022-04-13
+type = "normal"
+edition = "デジタル"
+catalog = "PCSP-04111"
+tags = ["DIALOGUE+", "骸骨騎士様、只今異世界へお出掛け中"]
+
+[[discs]]
+catalog = "PCSP-04111"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った"
+
+[[discs.tracks]]
+title = "パンケーキいいな"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った (TVサイズ)"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パンケーキいいな (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DIALOGUE+ 5th Single Situation Voice 1 緒方佑奈"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIALOGUE+ 5th Single Situation Voice 2 稗田寧々"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIALOGUE+ 5th Single Situation Voice 3 飯塚麻結"
+type = "drama"
+
+[[discs.tracks]]
+title = "DIALOGUE+ 5th Single Situation Voice 4 鷹村彩花"
+type = "drama"
