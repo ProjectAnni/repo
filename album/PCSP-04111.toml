@@ -30,16 +30,20 @@ type = "instrumental"
 
 [[discs.tracks]]
 title = "DIALOGUE+ 5th Single Situation Voice 1 緒方佑奈"
+artist = "緒方佑奈"
 type = "drama"
 
 [[discs.tracks]]
 title = "DIALOGUE+ 5th Single Situation Voice 2 稗田寧々"
+artist = "稗田寧々"
 type = "drama"
 
 [[discs.tracks]]
 title = "DIALOGUE+ 5th Single Situation Voice 3 飯塚麻結"
+artist = "飯塚麻結"
 type = "drama"
 
 [[discs.tracks]]
 title = "DIALOGUE+ 5th Single Situation Voice 4 鷹村彩花"
+artist = "鷹村彩花"
 type = "drama"
