@@ -1,0 +1,41 @@
+[album]
+album_id = "0600d77b-2b7e-4b4b-8f30-02c98fc51992"
+title = "Ever17 シングルコレクション Action4 八神ココ"
+artist = "八神ココ（望月久代）"
+date = 2003-04-23
+type = "normal"
+catalog = "SCDC-00258"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00258"
+
+[[discs.tracks]]
+title = "時空のカケラ"
+
+[[discs.tracks]]
+title = "連続ドラマ第4話 虚に立つ者"
+type = "drama"
+
+[[discs.tracks]]
+title = "Weiβer Hund 八神ココイメージBGM"
+artist = "阿保剛"
+artists.composer = "阿保剛"
+artists.arranger = "阿保剛"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Weiβer Hund 八神ココイメージBGM"
+artist = "細江慎治"
+artists.composer = "阿保剛"
+artists.arranger = "細江慎治"
+type = "absolute"
+
+[[discs.tracks]]
+title = "八神ココと望月久代の関係学"
+artist = "望月久代"
+type = "vocal"
+
+[[discs.tracks]]
+title = "時空のカケラ (カラオケ)"
+type = "instrumental"

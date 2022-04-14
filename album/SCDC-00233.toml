@@ -1,0 +1,29 @@
+[album]
+album_id = "d22b69df-6819-4083-b255-3b43f80b6c85"
+title = "Ever17 ドラマCD「2035」"
+artist = "田中優美清春香菜（下屋則子）、小町つぐみ（浅川悠）、茜ヶ崎空（笠原弘子）、松永沙羅（植田佳奈）、八神ココ（望月久代）、倉成武（保志総一朗）"
+date = 2002-11-18
+type = "drama"
+catalog = "SCDC-00233"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00233"
+
+[[discs.tracks]]
+title = "Ahnung"
+
+[[discs.tracks]]
+title = "Gast"
+
+[[discs.tracks]]
+title = "Reisende"
+
+[[discs.tracks]]
+title = "Regenbogen"
+
+[[discs.tracks]]
+title = "Traum"
+
+[[discs.tracks]]
+title = "キャストロール"

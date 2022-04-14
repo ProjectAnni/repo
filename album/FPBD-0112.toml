@@ -1,0 +1,93 @@
+[album]
+album_id = "2d25a991-953f-478d-ae4e-4308c9aa691a"
+title = "Ever17 -the out of infinity- Premium Edition SoundTrack"
+artist = "阿保剛"
+date = 2009-03-27
+type = "absolute"
+catalog = "FPBD-0112"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "FPBD-0112"
+
+[[discs.tracks]]
+title = "It's a fine day"
+artist = "今井麻美"
+type = "normal"
+
+[[discs.tracks]]
+title = "Insel null"
+
+[[discs.tracks]]
+title = "Ersteboden"
+
+[[discs.tracks]]
+title = "Zweitestock"
+
+[[discs.tracks]]
+title = "Drittestock"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine"
+
+[[discs.tracks]]
+title = "Kosmisher Wal"
+
+[[discs.tracks]]
+title = "Qualle"
+
+[[discs.tracks]]
+title = "Karussell Delphine"
+
+[[discs.tracks]]
+title = "Weißer Hund"
+
+[[discs.tracks]]
+title = "IBF Notfall"
+
+[[discs.tracks]]
+title = "Tief Blau"
+
+[[discs.tracks]]
+title = "Kopfsprung"
+
+[[discs.tracks]]
+title = "Traum in der Dunkelheit"
+
+[[discs.tracks]]
+title = "Hologramm"
+
+[[discs.tracks]]
+title = "Das Absuchen"
+
+[[discs.tracks]]
+title = "Gedächtnisschwund"
+
+[[discs.tracks]]
+title = "Drittes Auge"
+
+[[discs.tracks]]
+title = "Klamauk"
+
+[[discs.tracks]]
+title = "Heilmittel"
+
+[[discs.tracks]]
+title = "Wiedergeburt"
+
+[[discs.tracks]]
+title = "Karma"
+
+[[discs.tracks]]
+title = "Der Mond Das Meer"
+
+[[discs.tracks]]
+title = "Je Nach"
+
+[[discs.tracks]]
+title = "Drittes Auge Nehmen"
+
+[[discs.tracks]]
+title = "The Azure ～碧の記憶～"
+artist = "今井麻美"
+type = "normal"

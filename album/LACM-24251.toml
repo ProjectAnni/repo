@@ -1,0 +1,31 @@
+[album]
+album_id = "0574f197-d0bb-4819-a949-3a3eef7e51f2"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 01"
+artist = "シャイニーカラーズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優）、月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月）、小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ）、大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子）、芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香）、浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保）、七草にちか（紫月杏朱彩）、緋田美琴（山根綺））"
+date = 2022-04-13
+type = "normal"
+catalog = "LACM-24251"
+tags = ["THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24251"
+
+[[discs.tracks]]
+title = "虹の行方"
+
+[[discs.tracks]]
+title = "Daybreak Age"
+
+[[discs.tracks]]
+title = "虹の行方 (Off Vocal)"
+artists.composer = "三好啓太"
+artists.arranger = "三好啓太"
+artists.lyricist = "古屋真"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Daybreak Age (Off Vocal)"
+artists.composer = "桑原佑介"
+artists.arranger = "桑原佑介"
+artists.lyricist = "真崎エリカ"
+type = "instrumental"

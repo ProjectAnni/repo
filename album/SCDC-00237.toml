@@ -1,0 +1,41 @@
+[album]
+album_id = "ab52fdc2-857d-49ea-a5ce-3f26e9b98862"
+title = "Ever17 シングルコレクション Action1 田中優美清春香菜"
+artist = "田中優美清春香菜（下屋則子）"
+date = 2003-02-19
+type = "normal"
+catalog = "SCDC-00237"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00237"
+
+[[discs.tracks]]
+title = "Shynny Boy"
+
+[[discs.tracks]]
+title = "連続ドラマ第1話 春往きて"
+type = "drama"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine 田中優美清春香菜イメージBGM"
+artist = "阿保剛"
+artists.composer = "阿保剛"
+artists.arranger = "阿保剛"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Lemurianische Ruine 田中優美清春香菜イメージBGM"
+artist = "細江慎治"
+artists.composer = "阿保剛"
+artists.arranger = "細江慎治"
+type = "absolute"
+
+[[discs.tracks]]
+title = "下屋則子と田中優美清春香菜の関係学"
+artist = "下屋則子"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Shynny Boy (カラオケ)"
+type = "instrumental"

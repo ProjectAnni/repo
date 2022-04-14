@@ -1,0 +1,41 @@
+[album]
+album_id = "52ab0b45-992d-4c3b-a08b-b59d0ceed64e"
+title = "Ever17 シングルコレクション Action3 小町つぐみ"
+artist = "小町つぐみ（浅川悠）"
+date = 2003-03-19
+type = "normal"
+catalog = "SCDC-00256"
+tags = ["Ever17"]
+
+[[discs]]
+catalog = "SCDC-00256"
+
+[[discs.tracks]]
+title = "squall rise above"
+
+[[discs.tracks]]
+title = "連続ドラマ第3話 欠けていく月"
+type = "drama"
+
+[[discs.tracks]]
+title = "Qualle 小町つぐみイメージBGM"
+artist = "阿保剛"
+artists.composer = "阿保剛"
+artists.arranger = "阿保剛"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Qualle 小町つぐみイメージBGM"
+artist = "細江慎治"
+artists.composer = "阿保剛"
+artists.arranger = "細江慎治"
+type = "absolute"
+
+[[discs.tracks]]
+title = "小町つぐみと浅川悠の関係学"
+artist = "浅川悠"
+type = "vocal"
+
+[[discs.tracks]]
+title = "squall rise above (カラオケ)"
+type = "instrumental"

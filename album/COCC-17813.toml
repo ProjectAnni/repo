@@ -1,0 +1,35 @@
+[album]
+album_id = "c2d076ff-d78a-4057-988c-e077a2c46ede"
+title = "なんどでも笑おう"
+edition = "シンデレラガールズ盤"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2020-09-30
+type = "normal"
+catalog = "COCC-17813"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[discs]]
+catalog = "COCC-17813"
+
+[[discs.tracks]]
+title = "なんどでも笑おう"
+
+[[discs.tracks]]
+title = "なんどでも笑おう オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なんどでも笑おう -シンデレラガールズ バージョン-"
+artist = "CINDERELLA GIRLS（島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里））"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "なんどでも笑おう 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
