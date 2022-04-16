@@ -1,0 +1,47 @@
+[album]
+album_id = "e7595e26-15b3-483f-9d15-b8e18070a3d0"
+title = "WINGS"
+artist = "大橋彩香"
+date = 2020-12-16
+type = "normal"
+catalog = "LACA-15850"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-15850"
+
+[[discs.tracks]]
+title = "START DASH"
+
+[[discs.tracks]]
+title = "ハイライト"
+
+[[discs.tracks]]
+title = "ダイスキ。"
+
+[[discs.tracks]]
+title = "HOWL"
+
+[[discs.tracks]]
+title = "Winding Road"
+
+[[discs.tracks]]
+title = "MASK"
+
+[[discs.tracks]]
+title = "NOISY LOVE POWER☆"
+
+[[discs.tracks]]
+title = "キミがいないクリスマスなんて"
+
+[[discs.tracks]]
+title = "NOT YET"
+
+[[discs.tracks]]
+title = "like the melody"
+
+[[discs.tracks]]
+title = "お月さま"
+
+[[discs.tracks]]
+title = "Give Me Five!!!!! ～Thanks my family♡～"

@@ -1,0 +1,47 @@
+[album]
+album_id = "1c69c73b-1f10-4727-aa79-f99ffbccdad7"
+title = "起動 ～Start Up!～"
+artist = "大橋彩香"
+date = 2016-05-18
+type = "normal"
+catalog = "LACA-15543"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-15543"
+
+[[discs.tracks]]
+title = "ABSOLUTE YELL"
+
+[[discs.tracks]]
+title = "YES!!"
+
+[[discs.tracks]]
+title = "勇気のツバサ"
+
+[[discs.tracks]]
+title = "おしえてブルースカイ"
+
+[[discs.tracks]]
+title = "ジャスミン"
+
+[[discs.tracks]]
+title = "裸足のままでもこわくない"
+
+[[discs.tracks]]
+title = "ENERGY☆SMILE"
+
+[[discs.tracks]]
+title = "RED SEED"
+
+[[discs.tracks]]
+title = "No Surrender"
+
+[[discs.tracks]]
+title = "明日の風よ"
+
+[[discs.tracks]]
+title = "ヒトツニナリタイ"
+
+[[discs.tracks]]
+title = "流星タンバリン"

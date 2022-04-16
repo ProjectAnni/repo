@@ -1,0 +1,29 @@
+[album]
+album_id = "2c9e3d50-dd5d-4f84-8888-0c243ed6e592"
+title = "犬と猫と彩香"
+edition = "彩香盤"
+artist = "大橋彩香"
+date = 2021-01-13
+type = "normal"
+catalog = "LACM-24073"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-24073"
+
+[[discs.tracks]]
+title = "にゃんだーわんだーデイズ"
+
+[[discs.tracks]]
+title = "Lovely Days"
+
+[[discs.tracks]]
+title = "Lovely Days (Acoustic Ver.)"
+
+[[discs.tracks]]
+title = "にゃんだーわんだーデイズ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lovely Days (Off Vocal)"
+type = "instrumental"

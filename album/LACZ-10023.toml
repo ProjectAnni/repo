@@ -1,0 +1,21 @@
+[album]
+album_id = "e9f1e0a4-f0b0-48ba-8ee2-fdb99df896b9"
+title = "Give Me Five!!!!! ～Thanks my family♡～"
+artist = "大橋彩香"
+date = 2019-09-29
+type = "normal"
+catalog = "LACZ-10023"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACZ-10023"
+
+[[discs.tracks]]
+title = "Give Me Five!!!!! ～Thanks my family♡～"
+
+[[discs.tracks]]
+title = "Give Me Five!!!!! ～Thanks my family♡～ (Acoustic ver.)"
+
+[[discs.tracks]]
+title = "Give Me Five!!!!! ～Thanks my family♡～ (Off Vocal)"
+type = "instrumental"

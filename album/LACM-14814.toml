@@ -1,0 +1,26 @@
+[album]
+album_id = "7624c260-34fa-4e97-8ecf-22a8a143fab9"
+title = "ハイライト"
+edition = "彩香盤"
+artist = "大橋彩香"
+date = 2018-11-21
+type = "normal"
+catalog = "LACM-14814"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-14814"
+
+[[discs.tracks]]
+title = "ハイライト"
+
+[[discs.tracks]]
+title = "Finding Lover"
+
+[[discs.tracks]]
+title = "ハイライト (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Finding Lover (Off Vocal)"
+type = "instrumental"
