@@ -1,0 +1,33 @@
+[album]
+album_id = "c9535c80-46e4-4d33-a023-dd0ffaa1ba8c"
+title = "ヒトツニナリタイ"
+artist = "大橋彩香"
+edition = "彩香盤"
+date = 2015-12-09
+type = "normal"
+catalog = "LACM-14428"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-14428"
+
+[[discs.tracks]]
+title = "ヒトツニナリタイ"
+
+[[discs.tracks]]
+title = "Super dreaming days"
+
+[[discs.tracks]]
+title = "にゃんダフルらいふ"
+
+[[discs.tracks]]
+title = "ヒトツニナリタイ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Super dreaming days (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "にゃんダフルらいふ (Off Vocal)"
+type = "instrumental"

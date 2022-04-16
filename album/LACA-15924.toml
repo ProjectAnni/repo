@@ -1,0 +1,32 @@
+[album]
+album_id = "aa51b272-aea2-4266-858a-6cdc08b2f13f"
+title = "Lumière"
+artist = "大橋彩香"
+date = 2021-12-22
+type = "normal"
+catalog = "LACA-15924"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-15924"
+
+[[discs.tracks]]
+title = "明日の風よ"
+
+[[discs.tracks]]
+title = "ダイスキ。"
+
+[[discs.tracks]]
+title = "YES!!"
+
+[[discs.tracks]]
+title = "ワガママMIRROR HEART"
+
+[[discs.tracks]]
+title = "キミがいないクリスマスなんて"
+
+[[discs.tracks]]
+title = "流星タンバリン"
+
+[[discs.tracks]]
+title = "Esprit De Lumière"

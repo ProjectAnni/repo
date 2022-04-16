@@ -1,0 +1,33 @@
+[album]
+album_id = "759de8dd-c52c-4199-ba39-50f0cadbffab"
+title = "ユー&アイ"
+edition = "彩香盤"
+artist = "大橋彩香"
+date = 2017-08-02
+type = "normal"
+catalog = "LACM-14643"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-14643"
+
+[[discs.tracks]]
+title = "ユー&アイ"
+
+[[discs.tracks]]
+title = "ハッピーメリーゴーランド!"
+
+[[discs.tracks]]
+title = "Break My Jail"
+
+[[discs.tracks]]
+title = "ユー&アイ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハッピーメリーゴーランド! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Break My Jail (Off Vocal)"
+type = "instrumental"

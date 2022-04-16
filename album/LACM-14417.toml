@@ -1,0 +1,33 @@
+[album]
+album_id = "6613434a-8e68-4e6f-b337-f1bf64c7d25d"
+title = "おしえてブルースカイ"
+artist = "大橋彩香"
+edition = "彩香盤"
+date = 2015-11-11
+type = "normal"
+catalog = "LACM-14417"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-14417"
+
+[[discs.tracks]]
+title = "おしえてブルースカイ"
+
+[[discs.tracks]]
+title = "裸足のままでもこわくない"
+
+[[discs.tracks]]
+title = "CHANGE"
+
+[[discs.tracks]]
+title = "おしえてブルースカイ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "裸足のままでもこわくない (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "CHANGE (Off Vocal)"
+type = "instrumental"

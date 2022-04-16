@@ -1,0 +1,44 @@
+[album]
+album_id = "ba53a665-7bcc-4255-99cf-ff4f213833b9"
+title = "PROGRESS"
+artist = "大橋彩香"
+date = 2018-05-23
+type = "normal"
+catalog = "LACA-15719"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-15719"
+
+[[discs.tracks]]
+title = "シンガロン進化論"
+
+[[discs.tracks]]
+title = "Maiden Innocence"
+
+[[discs.tracks]]
+title = "Break a Liar"
+
+[[discs.tracks]]
+title = "ユー&アイ"
+
+[[discs.tracks]]
+title = "希望フォトグラム"
+
+[[discs.tracks]]
+title = "ハッピーメリーゴーランド!"
+
+[[discs.tracks]]
+title = "うたたねのラブソング"
+
+[[discs.tracks]]
+title = "彩りPlace"
+
+[[discs.tracks]]
+title = "バカだなぁ"
+
+[[discs.tracks]]
+title = "ワガママMIRROR HEART"
+
+[[discs.tracks]]
+title = "Sentimen-Truth"
