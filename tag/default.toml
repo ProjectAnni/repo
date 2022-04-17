@@ -404,6 +404,10 @@ type = "game"
 name = "Ever17"
 type = "game"
 
+[[tag]]
+name = "Stellaris"
+type = "game"
+
 ################################################################################
 # Project
 #
