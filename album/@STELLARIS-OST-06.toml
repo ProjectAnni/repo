@@ -1,0 +1,21 @@
+[album]
+album_id = "0a159a16-fb51-46f4-8cf1-e05002db0b9a"
+title = "Stellaris: Synthethic Dawn"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-06"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-06"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Synthetic Dawn Main Theme"
+
+[[discs.tracks]]
+title = "Robo Sapiens"
+
+[[discs.tracks]]
+title = "Synthetic God"

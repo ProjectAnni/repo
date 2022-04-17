@@ -1,0 +1,24 @@
+[album]
+album_id = "922d3a6b-f6d7-4ff7-9c48-cdd8d3952a55"
+title = "Stellaris: Federations"
+artist = "Paradox Interactive"
+date = 2020-04-10
+type = "absolute"
+catalog = "@STELLARIS-OST-09"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-09"
+artist = "Meyer"
+
+[[discs.tracks]]
+title = "A Brighter Tomorrow"
+
+[[discs.tracks]]
+title = "Hegemonic Dominion"
+
+[[discs.tracks]]
+title = "Call to Assembly"
+
+[[discs.tracks]]
+title = "Unity and Paperwork"
