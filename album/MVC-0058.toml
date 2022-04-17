@@ -1,0 +1,14 @@
+[album]
+album_id = "55b50b72-26fb-4c16-af5d-8a755560ba09"
+title = "Animelo Summer Live 2020-21 -COLORS- テーマソング「なんてカラフルな世界!」"
+artist = "オーイシマサヨシ、KISHOW（GRANRODEO）、i☆Ris、亜咲花、雨宮天、東山奈央、幹葉（スピラ・スピカ）、鈴木愛奈、仲村宗悟、伊藤昌弘（Argonavis）"
+date = 2020-06-12
+type = "normal"
+catalog = "MVC-0058"
+tags = ["Animelo Summer Live"]
+
+[[discs]]
+catalog = "MVC-0058"
+
+[[discs.tracks]]
+title = "なんてカラフルな世界!"

@@ -1,0 +1,63 @@
+[album]
+album_id = "cec64fd2-dca6-47b1-afd1-40b559055894"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Remix 02"
+artist = "Various Artists"
+date = 2022-03-14
+type = "normal"
+catalog = "LACZ-10103"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Remix"]
+
+[[discs]]
+catalog = "LACZ-10103"
+
+[[discs.tracks]]
+title = "カーニヴァル・ジャパネスク (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "サマ☆トリ ～Summer trip～ (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "プリティ～～～ッ→ニャンニャンッ！ (BEATNINE Remix)"
+artist = "BEATNINE"
+
+[[discs.tracks]]
+title = "夢色トレイン (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "Eternal Harmony (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "プラリネ (Dummy Dog Remix)"
+artist = "Dummy Dog"
+
+[[discs.tracks]]
+title = "Shooting Stars (BEATNINE Remix)"
+artist = "BEATNINE"
+
+[[discs.tracks]]
+title = "Catch my dream (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "君だけの欠片 (Dummy Dog Remix)"
+artist = "Dummy Dog"
+
+[[discs.tracks]]
+title = "Just be myself!! (Dummy Dog Remix)"
+artist = "Dummy Dog"
+
+[[discs.tracks]]
+title = "絵本 (BEATNINE Remix)"
+artist = "BEATNINE"
+
+[[discs.tracks]]
+title = "bitter sweet (チバニャン Remix)"
+artist = "チバニャン"
+
+[[discs.tracks]]
+title = "Welcome!! (チバニャン Remix)"
+artist = "チバニャン"

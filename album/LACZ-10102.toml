@@ -1,0 +1,52 @@
+[album]
+album_id = "626091fb-30e3-40ad-bd51-f53aac57bb85"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Remix 01"
+artist = "Various Artists"
+date = 2022-03-14
+type = "normal"
+catalog = "LACZ-10102"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Remix"]
+
+[[discs]]
+catalog = "LACZ-10102"
+artist = "TeddyLoid"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！(TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Believe my change! (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "ストロベリー・キューピッド (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "未来飛行 (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "タイムマシンに飛び乗って！(TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "smiley days (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "地球ミラーボウル (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Growing Storm! (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Liar's good bye (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "空想文学少女 (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "VIVID イマジネーション (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "...In The Name Of。 ...LOVE? (TeddyLoid Remix)"
+
+[[discs.tracks]]
+title = "Welcome!! (TeddyLoid & tofubeats Remix)"
+artist = "TeddyLoid、tofubeats"

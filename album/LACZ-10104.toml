@@ -1,0 +1,63 @@
+[album]
+album_id = "2faf78bd-84c2-4ccf-9a7f-3678e7362146"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Remix 03"
+artist = "Various Artists"
+date = 2022-03-14
+type = "normal"
+catalog = "LACZ-10104"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Remix"]
+
+[[discs]]
+catalog = "LACZ-10104"
+
+[[discs.tracks]]
+title = "ホントウノワタシ (y0c1e Remix)"
+artist = "y0c1e"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて (4sk Remix)"
+artist = "4sk"
+
+[[discs.tracks]]
+title = "フローズン・ワード (y0c1e Remix)"
+artist = "y0c1e"
+
+[[discs.tracks]]
+title = "MY STYLE! OUR STYLE!!!! (KO3 Remix)"
+artist = "KO3"
+
+[[discs.tracks]]
+title = "Up!10sion♪Pleeeeeeeeease! (Getty Remix)"
+artist = "Getty"
+
+[[discs.tracks]]
+title = "BOUNCING♪ SMILE! (DJ WILDPARTY Remix)"
+artist = "DJ WILDPARTY"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP (Batsu Remix)"
+artist = "Batsu"
+
+[[discs.tracks]]
+title = "初恋バタフライ (NARUMI HELVETICA Remix)"
+artist = "NARUMI HELVETICA"
+
+[[discs.tracks]]
+title = "恋愛ロードランナー (yuzen Remix)"
+artist = "yuzen"
+
+[[discs.tracks]]
+title = "Super Lover (Hylen Remix)"
+artist = "Hylen"
+
+[[discs.tracks]]
+title = "キミがいて夢になる (fu_mou Remix)"
+artist = "fu_mou"
+
+[[discs.tracks]]
+title = "求ムVSマイ・フューチャー (DJ Genki Remix)"
+artist = "DJ Genki"
+
+[[discs.tracks]]
+title = "Welcome!! (y0c1e Remix)"
+artist = "y0c1e"
