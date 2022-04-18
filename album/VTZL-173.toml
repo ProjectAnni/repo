@@ -1,0 +1,28 @@
+[album]
+album_id = "b7d7f3bd-43d9-4aab-a3a7-0072663d33bf"
+title = "未来はオンナのためにある"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2020-05-27
+type = "normal"
+catalog = "VTZL-173"
+tags = ["ワルキューレ", "劇場版マクロスΔ 絶対LIVE!!!!!!"]
+
+[[discs]]
+catalog = "VTZL-173"
+
+[[discs.tracks]]
+title = "未来はオンナのためにある"
+
+[[discs.tracks]]
+title = "ルンに花咲く恋もある"
+
+[[discs.tracks]]
+title = "恋! ハレイション THE WAR～extended version～(2020 NEW MIX)"
+
+[[discs.tracks]]
+title = "未来はオンナのためにある -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ルンに花咲く恋もある -Instrumental-"
+type = "instrumental"

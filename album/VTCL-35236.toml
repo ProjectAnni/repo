@@ -1,0 +1,46 @@
+[album]
+album_id = "f5bb7bad-2532-45c7-9f31-36fdb037ef61"
+title = "絶対零度θノヴァティック／破滅の純情"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2016-08-10
+type = "normal"
+catalog = "VTCL-35236"
+tags = ["ワルキューレ", "TVアニメ「マクロスΔ」"]
+
+[[discs]]
+catalog = "VTCL-35236"
+
+[[discs.tracks]]
+title = "絶対零度θノヴァティック"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "破滅の純情"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "風は予告なく吹く"
+
+[[discs.tracks]]
+title = "GIRAFFE BLUES ～Freyja Solo～"
+artist = "フレイア・ヴィオン（鈴木みのり）"
+
+[[discs.tracks]]
+title = "GIRAFFE BLUES ～Mikumo Solo～"
+artist = "美雲・ギンヌメール（JUNNA）"
+
+[[discs.tracks]]
+title = "絶対零度θノヴァティック -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "破滅の純情 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "風は予告なく吹く -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "GIRAFFE BLUES -Instrumental-"
+type = "instrumental"

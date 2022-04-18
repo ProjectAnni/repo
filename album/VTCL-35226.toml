@@ -1,0 +1,34 @@
+[album]
+album_id = "936a1ae7-9e12-4b94-b162-ac6d4744b0d5"
+title = "一度だけの恋なら／ルンがピカッと光ったら"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2016-05-11
+type = "normal"
+catalog = "VTCL-35226"
+tags = ["ワルキューレ", "TVアニメ「マクロスΔ」"]
+
+[[discs]]
+catalog = "VTCL-35226"
+
+[[discs.tracks]]
+title = "一度だけの恋なら"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ルンがピカッと光ったら～album version～"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "いけないボーダーライン"
+
+[[discs.tracks]]
+title = "一度だけの恋なら (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ルンがピカッと光ったら (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いけないボーダーライン (Instrumental)"
+type = "instrumental"

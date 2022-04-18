@@ -1,0 +1,48 @@
+[album]
+album_id = "269caa30-93aa-4b1c-a077-0bb762a1b949"
+title = "Walküre Reborn!"
+artist = "ワルキューレ"
+date = 2021-10-13
+type = "normal"
+catalog = "VTZL-186"
+tags = ["ワルキューレ", "劇場版マクロスΔ 絶対LIVE!!!!!!"]
+
+[[discs]]
+catalog = "VTZL-186"
+
+[[discs.tracks]]
+title = "唇の凍傷"
+
+[[discs.tracks]]
+title = "未来はオンナのためにある -movie edition-"
+
+[[discs.tracks]]
+title = "無限大DRIVE"
+
+[[discs.tracks]]
+title = "キキワケナイ!"
+
+[[discs.tracks]]
+title = "マダマニア"
+
+[[discs.tracks]]
+title = "キズナ→スパイラル"
+
+[[discs.tracks]]
+title = "愛してる"
+
+[[discs.tracks]]
+title = "つらみ現在進行形"
+
+[[discs.tracks]]
+title = "ワルキューレはあきらめない"
+
+[[discs.tracks]]
+title = "ALIVE～祈りの唄～"
+
+[[discs.tracks]]
+title = "宇宙のかけら"
+
+[[discs.tracks]]
+title = "ルンに花咲く恋もある -movie edition-"
+tags = ["ED"]

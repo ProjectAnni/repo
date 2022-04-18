@@ -1,0 +1,41 @@
+[album]
+album_id = "594a8751-973d-430d-8734-0177cf2b0846"
+title = "ワルキューレがとまらない"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2017-01-25
+type = "normal"
+catalog = "VTCL-60444"
+tags = ["ワルキューレ", "マクロスΔ"]
+
+[[discs]]
+catalog = "VTCL-60444"
+
+[[discs.tracks]]
+title = "ようこそ! ワルキューレ・ワールドへ"
+
+[[discs.tracks]]
+title = "涙目爆発音～with Claire～"
+artist = "カナメ・バッカニア（安野希世乃）、クレア・パドル（日笠陽子）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見）"
+
+[[discs.tracks]]
+title = "星間飛行～Freyja Ver.～"
+artist = "フレイア・ヴィオン（鈴木みのり）"
+
+[[discs.tracks]]
+title = "僕らの戦場～Freyja Solo Edition～"
+artist = "フレイア・ヴィオン（鈴木みのり）"
+
+[[discs.tracks]]
+title = "ダイアモンド クレバス～Mikumo Ver.～"
+artist = "美雲・ギンヌメール（JUNNA）"
+
+[[discs.tracks]]
+title = "僕らの戦場～Mikumo Solo～"
+artist = "美雲・ギンヌメール（JUNNA）"
+
+[[discs.tracks]]
+title = "GIRAFFE BLUES～Kaname Solo Requiem～"
+artist = "カナメ・バッカニア（安野希世乃）"
+
+[[discs.tracks]]
+title = "ワルキューレがとまらない"
