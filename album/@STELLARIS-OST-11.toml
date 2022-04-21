@@ -1,0 +1,21 @@
+[album]
+album_id = "e2954ebf-99c5-4436-a1f5-5f935834b44c"
+title = "Stellaris: Nemesis"
+artist = "Paradox Interactive"
+date = 2021-05-14
+type = "normal"
+catalog = "@STELLARIS-OST-11"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-11"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Coronation of the Dark Emperor"
+
+[[discs.tracks]]
+title = "Nemesis Main Theme"
+
+[[discs.tracks]]
+title = "Supermassive Fleet"
