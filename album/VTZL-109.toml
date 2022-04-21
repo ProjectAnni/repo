@@ -1,0 +1,48 @@
+[album]
+album_id = "a41cb7d3-176c-430e-af5a-129aa3bb665f"
+title = "Walküre Attack!"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2016-07-06
+type = "normal"
+catalog = "VTZL-109"
+tags = ["ワルキューレ", "TVアニメ「マクロスΔ」"]
+
+[[discs]]
+catalog = "VTZL-109"
+
+[[discs.tracks]]
+title = "恋! ハレイション THE WAR～without Freyja～"
+artist = "美雲・ギンヌメール（JUNNA）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見）"
+
+[[discs.tracks]]
+title = "一度だけの恋なら"
+
+[[discs.tracks]]
+title = "ジリティック♡BEGINNER"
+
+[[discs.tracks]]
+title = "不確定性☆COSMIC MOVEMENT"
+
+[[discs.tracks]]
+title = "僕らの戦場"
+
+[[discs.tracks]]
+title = "NEO STREAM"
+
+[[discs.tracks]]
+title = "AXIA～ダイスキでダイキライ～"
+
+[[discs.tracks]]
+title = "GIRAFFE BLUES"
+
+[[discs.tracks]]
+title = "Walküre Attack!"
+
+[[discs.tracks]]
+title = "ルンがピカッと光ったら～album version～"
+
+[[discs.tracks]]
+title = "いけないボーダーライン～album version～"
+
+[[discs.tracks]]
+title = "恋! ハレイション THE WAR～album version～"

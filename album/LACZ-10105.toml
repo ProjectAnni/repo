@@ -1,0 +1,63 @@
+[album]
+album_id = "8138d56b-f053-4baf-905c-d8920b4cda06"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Remix 04"
+artist = "Various Artists"
+date = 2022-03-14
+type = "normal"
+catalog = "LACZ-10105"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Remix"]
+
+[[discs]]
+catalog = "LACZ-10105"
+
+[[discs.tracks]]
+title = "SUPER SIZE LOVE!! (YUC'e Remix)"
+artist = "YUC'e"
+
+[[discs.tracks]]
+title = "おまじない (picco Remix)"
+artist = "picco"
+
+[[discs.tracks]]
+title = "りんごのマーチ (COR!S Remix)"
+artist = "COR!S"
+
+[[discs.tracks]]
+title = "WOW! I NEED!! ～シンギングモンキー 歌唱拳～ (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "ユニゾン☆ビート (picco Remix)"
+artist = "picco"
+
+[[discs.tracks]]
+title = "Birth of Color (KiWi Remix)"
+artist = "KiWi"
+
+[[discs.tracks]]
+title = "Impervious Resolution (TORIENA Remix)"
+artist = "TORIENA"
+
+[[discs.tracks]]
+title = "WORLD WIDE DANCE!!! (KiWi Remix)"
+artist = "KiWi"
+
+[[discs.tracks]]
+title = "月のほとりで (COR!S Remix)"
+artist = "COR!S"
+
+[[discs.tracks]]
+title = "水中キャンディ (picco Remix)"
+artist = "picco"
+
+[[discs.tracks]]
+title = "ドリームトラベラー (picco Remix)"
+artist = "picco"
+
+[[discs.tracks]]
+title = "アニマル☆ステイション！(YUC'e Remix)"
+artist = "YUC'e"
+
+[[discs.tracks]]
+title = "Welcome!! (Giga Remix)"
+artist = "Giga"

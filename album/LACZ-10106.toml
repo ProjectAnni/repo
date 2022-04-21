@@ -1,0 +1,63 @@
+[album]
+album_id = "b71d3d40-0ce9-4865-a233-6d7f2710038c"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Remix 05"
+artist = "Various Artists"
+date = 2022-03-14
+type = "normal"
+catalog = "LACZ-10106"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Remix"]
+
+[[discs]]
+catalog = "LACZ-10106"
+
+[[discs.tracks]]
+title = "STANDING ALIVE (Nor Remix)"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "WHY? (nyankobrq Remix)"
+artist = "nyankobrq"
+
+[[discs.tracks]]
+title = "vivid color (yukiyanagi Remix)"
+artist = "yukiyanagi"
+
+[[discs.tracks]]
+title = "STEREOPHONIC ISOTONIC (nyankobrq Remix)"
+artist = "nyankobrq"
+
+[[discs.tracks]]
+title = "FAKE SELF×TRUE SELF (Sober Bear Remix)"
+artist = "Sober Bear"
+
+[[discs.tracks]]
+title = "ファンタジスタ・カーニバル (Tsubusare BOZZ Remix)"
+artist = "Tsubusare BOZZ"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア (5u5h1 Remix)"
+artist = "5u5h1"
+
+[[discs.tracks]]
+title = "Day After “Yesterday” (yukiyanagi Remix)"
+artist = "yukiyanagi"
+
+[[discs.tracks]]
+title = "鳥籠スクリプチュア (5u5h1 Remix)"
+artist = "5u5h1"
+
+[[discs.tracks]]
+title = "恋の音色ライン (KOUKIISH Remix)"
+artist = "KOUKIISH"
+
+[[discs.tracks]]
+title = "addicted (Snail's House Remix)"
+artist = "Snail's House"
+
+[[discs.tracks]]
+title = "夕風のメロディー (KOTONOHOUSE Remix)"
+artist = "KOTONOHOUSE"
+
+[[discs.tracks]]
+title = "Welcome!! (Snail's House Remix)"
+artist = "Snail's House"

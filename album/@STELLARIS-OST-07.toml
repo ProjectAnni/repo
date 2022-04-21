@@ -1,0 +1,30 @@
+[album]
+album_id = "f8ef6ee8-cc23-4258-8518-de5de663c0be"
+title = "Stellaris: Utopia"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-07"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-07"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Utopia Main Title"
+
+[[discs.tracks]]
+title = "A New Dawn"
+
+[[discs.tracks]]
+title = "Towards Utopia"
+
+[[discs.tracks]]
+title = "The Imperial Fleet"
+
+[[discs.tracks]]
+title = "Cradle of the Galaxy"
+
+[[discs.tracks]]
+title = "In Memoriam of Mercedez Romero"

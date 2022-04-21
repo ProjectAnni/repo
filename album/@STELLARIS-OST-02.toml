@@ -1,0 +1,27 @@
+[album]
+album_id = "920f8ba5-d031-46e2-9781-66a0cddccc32"
+title = "Stellaris: Apocalypse"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-02"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-02"
+
+[[discs.tracks]]
+title = "Then Comes Light"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Doomsday"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Hostile Fleet Detected"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "For as Long as I Shall Live"
+artist = "Meyer"

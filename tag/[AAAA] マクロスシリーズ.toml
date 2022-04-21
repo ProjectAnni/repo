@@ -4,11 +4,16 @@ type = "project"
 
 [[tag]]
 name = "マクロスF"
-included-by = ["マクロスシリーズ"]
 type = "project"
+included-by = ["マクロスシリーズ"]
 
 [[tag]]
 name = "マクロスΔ"
-included-by = ["マクロスシリーズ"]
 type = "project"
+included-by = ["マクロスシリーズ"]
 includes.group = ["ワルキューレ"]
+includes.animation = [
+  "TVアニメ「マクロスΔ」",
+  "劇場版マクロスΔ 激情のワルキューレ",
+  "劇場版マクロスΔ 絶対LIVE!!!!!!",
+]

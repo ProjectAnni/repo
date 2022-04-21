@@ -1,0 +1,27 @@
+[album]
+album_id = "c8ab02e6-2479-4a63-8bcd-d58f794ce715"
+title = "Stellaris: Leviathans"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-05"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-05"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Dragon Breath"
+
+[[discs.tracks]]
+title = "Assembling The Fleet"
+
+[[discs.tracks]]
+title = "The Awakened"
+
+[[discs.tracks]]
+title = "The Titan"
+
+[[discs.tracks]]
+title = "The Last Stand"

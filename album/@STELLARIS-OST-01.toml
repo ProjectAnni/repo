@@ -1,0 +1,84 @@
+[album]
+album_id = "3c2f33e0-2e4c-4139-b862-afa648e28e23"
+title = "Stellaris Original Soundtrack"
+artist = "Paradox Interactive"
+date = 2016-05-09
+type = "absolute"
+catalog = "@STELLARIS-OST-01"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-01"
+artist = "Andreas Waldetoft"
+
+[[discs.tracks]]
+title = "Stellaris Suite - Creation & Beyond"
+
+[[discs.tracks]]
+title = "Faster Than Light - Feat. Mia Stegmar"
+
+[[discs.tracks]]
+title = "Deep Space Travels"
+
+[[discs.tracks]]
+title = "To the Ends of the Galaxy - Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "In Search of Life"
+
+[[discs.tracks]]
+title = "Spatial Lullaby"
+
+[[discs.tracks]]
+title = "Gravitational Constant"
+
+[[discs.tracks]]
+title = "Alpha Centauri"
+
+[[discs.tracks]]
+title = "Genesis"
+
+[[discs.tracks]]
+title = "The Celestial City"
+
+[[discs.tracks]]
+title = "Infinite Being"
+
+[[discs.tracks]]
+title = "Pillars of Creation"
+
+[[discs.tracks]]
+title = "Distant Nebula - Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sigma Tauri"
+
+[[discs.tracks]]
+title = "Journey Through the Galaxy"
+
+[[discs.tracks]]
+title = "Riding the Solar Wind"
+
+[[discs.tracks]]
+title = "The Birth of a Star"
+
+[[discs.tracks]]
+title = "Luminescence"
+
+[[discs.tracks]]
+title = "Distant Nebula - Feat. Mia Stegmar"
+
+[[discs.tracks]]
+title = "Faster Than Light - Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Battle For Supremacy - Bonus Track"
+
+[[discs.tracks]]
+title = "Infinite Being - Alternative Version"
+
+[[discs.tracks]]
+title = "To the Ends of the Galaxy - Alternative Version"

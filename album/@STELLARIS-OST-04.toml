@@ -1,0 +1,21 @@
+[album]
+album_id = "412ee9c3-5b77-4b77-b951-4e0ebe23270d"
+title = "Stellaris: Humanoids"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-04"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-04"
+artist = "Meyer"
+
+[[discs.tracks]]
+title = "The Imperial Fleet (Second Coming)"
+
+[[discs.tracks]]
+title = "In Memoriam of Mercedez Romero (Luminous Flux)"
+
+[[discs.tracks]]
+title = "Towards Utopia (Nova Flare)"

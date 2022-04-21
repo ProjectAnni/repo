@@ -1,0 +1,40 @@
+[album]
+album_id = "ace192a4-385f-4d60-bdc5-bd3a24d1516b"
+title = "ワルキューレは裏切らない"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2018-02-14
+type = "normal"
+catalog = "VTCL-35269"
+tags = ["ワルキューレ", "劇場版マクロスΔ 激情のワルキューレ"]
+
+[[discs]]
+catalog = "VTCL-35269"
+
+[[discs.tracks]]
+title = "ワルキューレは裏切らない"
+
+[[discs.tracks]]
+title = "チェンジ!!!!!"
+
+[[discs.tracks]]
+title = "Dancing in the Moonlight"
+
+[[discs.tracks]]
+title = "ワルキューレがとまらない～without Freyja～"
+artist = "美雲・ギンヌメール（JUNNA）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見）"
+
+[[discs.tracks]]
+title = "ワルキューレは裏切らない -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チェンジ!!!!! -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dancing in the Moonlight -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ワルキューレがとまらない -Instrumental-"
+type = "instrumental"

@@ -1,0 +1,24 @@
+[album]
+album_id = "b2278e66-aff0-46fe-b658-6dc9ad0a7acd"
+title = "Stellaris: Ancient Relics"
+artist = "Paradox Interactive"
+date = 2020-04-10
+type = "absolute"
+catalog = "@STELLARIS-OST-08"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-08"
+artist = "Meyer"
+
+[[discs.tracks]]
+title = "Among The Ruins"
+
+[[discs.tracks]]
+title = "Finding Sanctuary"
+
+[[discs.tracks]]
+title = "Abyss"
+
+[[discs.tracks]]
+title = "Our Heritage"

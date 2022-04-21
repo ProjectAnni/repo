@@ -1,0 +1,49 @@
+[album]
+album_id = "2b11368b-91a4-4492-8d88-0864978a98d9"
+title = "Walküre Trap!"
+artist = "ワルキューレ（美雲・ギンヌメール（JUNNA）、フレイア・ヴィオン（鈴木みのり）、カナメ・バッカニア（安野希世乃）、レイナ・プラウラー（東山奈央）、マキナ・中島（西田望見））"
+date = 2016-09-28
+type = "normal"
+catalog = "VTZL-115"
+tags = ["ワルキューレ", "TVアニメ「マクロスΔ」"]
+
+[[discs]]
+catalog = "VTZL-115"
+
+[[discs.tracks]]
+title = "Absolute 5"
+
+[[discs.tracks]]
+title = "絶対零度θノヴァティック"
+
+[[discs.tracks]]
+title = "おにゃの子☆girl"
+
+[[discs.tracks]]
+title = "LOVE! THUNDER GLOW"
+
+[[discs.tracks]]
+title = "Silent Hacker"
+
+[[discs.tracks]]
+title = "破滅の純情～Mikumo Solo～"
+artist = "美雲・ギンヌメール（JUNNA）"
+
+[[discs.tracks]]
+title = "Hear The Universe"
+
+[[discs.tracks]]
+title = "涙目爆発音"
+
+[[discs.tracks]]
+title = "ワルキューレのバースデイソング"
+
+[[discs.tracks]]
+title = "God Bless You"
+
+[[discs.tracks]]
+title = "風は予告なく吹く～Freyja Solo～"
+artist = "フレイア・ヴィオン（鈴木みのり）"
+
+[[discs.tracks]]
+title = "愛・おぼえていますか"

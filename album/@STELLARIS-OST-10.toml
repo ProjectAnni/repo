@@ -1,0 +1,24 @@
+[album]
+album_id = "bd25da53-c16b-4b74-a6db-d113d9608741"
+title = "Stellaris: Megacorp"
+artist = "Paradox Interactive"
+date = 2020-09-25
+type = "absolute"
+catalog = "@STELLARIS-OST-10"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-10"
+artist = "Mrtin Hall"
+
+[[discs.tracks]]
+title = "Hidden Motives"
+
+[[discs.tracks]]
+title = "Dark Minds"
+
+[[discs.tracks]]
+title = "The Master Plan"
+
+[[discs.tracks]]
+title = "The March Of Profits"

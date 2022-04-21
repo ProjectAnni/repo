@@ -1,0 +1,24 @@
+[album]
+album_id = "ac83277b-eea7-4fb4-9f87-fee59fb0c450"
+title = "Stellaris: Distant Stars"
+artist = "Paradox Interactive"
+date = 2019-04-12
+type = "absolute"
+catalog = "@STELLARIS-OST-03"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-03"
+artist = "Meyer"
+
+[[discs.tracks]]
+title = "One Galaxy"
+
+[[discs.tracks]]
+title = "Adagio Stellar"
+
+[[discs.tracks]]
+title = "Into The Dark"
+
+[[discs.tracks]]
+title = "Distant Stars Trailer Theme"
