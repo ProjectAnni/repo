@@ -1,0 +1,27 @@
+[album]
+album_id = "91f3555f-9746-4667-b161-c8706ec81647"
+title = "THE IDOLM@STER CINDERELLA MASTER 062 久川颯"
+artist = "久川颯（長江里加）"
+date = 2022-04-20
+type = "normal"
+catalog = "COCC-18009"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18009"
+
+[[discs.tracks]]
+title = "Packing Her Favorite"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －久川颯編－」"
+artist = "久川颯（長江里加）、ナターリア（生田輝）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Packing Her Favorite オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

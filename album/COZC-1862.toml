@@ -1,0 +1,25 @@
+[album]
+album_id = "bbef996c-8f05-4ebf-a968-0bbed36b37b3"
+title = "OveR"
+artist = "富田美憂"
+date = 2022-04-20
+type = "normal"
+catalog = "COZC-1862"
+tags = ["富田美憂"]
+
+[[discs]]
+catalog = "COZC-1862"
+
+[[discs.tracks]]
+title = "OveR"
+
+[[discs.tracks]]
+title = "ねえ、君に"
+
+[[discs.tracks]]
+title = "OveR (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ねえ、君に (Instrumental)"
+type = "instrumental"

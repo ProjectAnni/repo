@@ -1,0 +1,27 @@
+[album]
+album_id = "91f3555f-9746-4667-b161-c8706ec81647"
+title = "THE IDOLM@STER CINDERELLA MASTER 061 辻野あかり"
+artist = "辻野あかり（梅澤めぐ）"
+date = 2022-04-20
+type = "normal"
+catalog = "COCC-18008"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18008"
+
+[[discs.tracks]]
+title = "トキメキは赤くて甘い"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －辻野あかり編－」"
+artist = "辻野あかり（梅澤めぐ）、久川颯（長江里加）"
+type = "drama"
+
+[[discs.tracks]]
+title = "トキメキは赤くて甘い オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,35 @@
+[album]
+album_id = "373d9815-7c96-4cd7-9e58-23f60cc99e5e"
+title = "Delight to me！"
+edition = "エーデル ver."
+artist = "シークフェルト音楽学院（雪代晶（野本ほたる）、鳳ミチル（尾崎由香）、リュウ・メイファン（竹内夢）、鶴姫やちよ（工藤晴香）、夢大路栞（遠野ひかる））"
+date = 2022-04-20
+type = "normal"
+catalog = "BRMM-10535"
+tags = ["少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "BRMM-10535"
+
+[[discs.tracks]]
+title = "Delight to me！"
+
+[[discs.tracks]]
+title = "Everlasting Show to the SHOW！～エーデル ver.～"
+
+[[discs.tracks]]
+title = "シークレット☆リトルスタァズ"
+artist = "シークフェルト音楽学院中等部（高千穂ステラ（青木陽菜）、大賀美詩呂（松澤可苑）、小鳩良子（深川瑠華）、海辺みんく（久家心）、森保クイナ（佐當友莉亜））"
+
+[[discs.tracks]]
+title = "Delight to me！-Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Everlasting Show to the SHOW！-Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シークレット☆リトルスタァズ -Instrumental-"
+artist = "シークフェルト音楽学院中等部（高千穂ステラ（青木陽菜）、大賀美詩呂（松澤可苑）、小鳩良子（深川瑠華）、海辺みんく（久家心）、森保クイナ（佐當友莉亜））"
+type = "instrumental"
