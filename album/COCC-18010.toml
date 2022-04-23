@@ -1,0 +1,27 @@
+[album]
+album_id = "91f3555f-9746-4667-b161-c8706ec81647"
+title = "THE IDOLM@STER CINDERELLA MASTER 063 ナターリア"
+artist = "ナターリア（生田輝）"
+date = 2022-04-20
+type = "normal"
+catalog = "COCC-18010"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18010"
+
+[[discs.tracks]]
+title = "ソウソウ"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1! －ナターリア編－」"
+artist = "ナターリア（生田輝）、辻野あかり（梅澤めぐ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ソウソウ オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"
