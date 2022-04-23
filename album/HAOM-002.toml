@@ -1,0 +1,69 @@
+[album]
+album_id = "40af8efb-6d3b-42cb-bf3c-f080071c4f87"
+title = "藍の華"
+artist = "HIMEHINA（鈴木ヒナ、田中ヒメ）"
+date = 2020-04-15
+type = "normal"
+edition = "通常盤"
+catalog = "HAOM-002"
+tags = ["HIMEHINA"]
+
+[[discs]]
+catalog = "HAOM-002"
+
+[[discs.tracks]]
+title = "約束の血"
+
+[[discs.tracks]]
+title = "Int：Existence"
+
+[[discs.tracks]]
+title = "藍の華"
+
+[[discs.tracks]]
+title = "ヒトガタRock"
+
+[[discs.tracks]]
+title = "ヒバリ (Laugh-In)"
+
+[[discs.tracks]]
+title = "ライライラビットテイル"
+
+[[discs.tracks]]
+title = "Int：Electron"
+
+[[discs.tracks]]
+title = "琥珀の身体 (Message-In)"
+
+[[discs.tracks]]
+title = "Int：Honey"
+
+[[discs.tracks]]
+title = "溺れるほど愛した花"
+
+[[discs.tracks]]
+title = "夢景色"
+
+[[discs.tracks]]
+title = "うたかたよいかないで (Message-In)"
+
+[[discs.tracks]]
+title = "Int：Dream Away"
+
+[[discs.tracks]]
+title = "ララ"
+
+[[discs.tracks]]
+title = "Int：NamidaGanges"
+
+[[discs.tracks]]
+title = "アダムとマダム"
+
+[[discs.tracks]]
+title = "ヒトガタ"
+
+[[discs.tracks]]
+title = "Int：What i am"
+
+[[discs.tracks]]
+title = "My Dear"

@@ -1,0 +1,54 @@
+[album]
+album_id = "ffd95e24-7646-4b85-b9af-0b00e2238831"
+title = "なんどだって約束!"
+artist = "Aqours（国木田花丸（高槻かなこ）、黒澤ダイヤ（小宮有紗）、黒澤ルビィ（降幡愛）、松浦果南（諏訪ななか）、小原鞠莉（鈴木愛奈）、桜内梨子（逢田梨香子）、高海千歌（伊波杏樹）、津島善子（小林愛香）、渡辺曜（斉藤朱夏））"
+date = 2022-04-13
+type = "normal"
+catalog = "LACM-24260"
+tags = ["Aqours"]
+
+[[discs]]
+catalog = "LACM-24260"
+
+[[discs.tracks]]
+title = "なんどだって約束!"
+
+[[discs.tracks]]
+title = "なんどだって約束! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なんどだって約束! (高海千歌 Solo Ver.)"
+artist = "高海千歌（伊波杏樹）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (桜内梨子 Solo Ver.)"
+artist = "桜内梨子（逢田梨香子）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (松浦果南 Solo Ver.)"
+artist = "松浦果南（諏訪ななか）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (黒澤ダイヤ Solo Ver.)"
+artist = "黒澤ダイヤ（小宮有紗）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (渡辺 曜 Solo Ver.)"
+artist = "渡辺曜（斉藤朱夏）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (津島善子 Solo Ver.)"
+artist = "津島善子（小林愛香）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (国木田花丸 Solo Ver.)"
+artist = "国木田花丸（高槻かなこ）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (小原鞠莉 Solo Ver.)"
+artist = "小原鞠莉（鈴木愛奈）"
+
+[[discs.tracks]]
+title = "なんどだって約束! (黒澤ルビィ Solo Ver.)"
+artist = "黒澤ルビィ（降幡愛）"

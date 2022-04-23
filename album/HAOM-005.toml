@@ -1,0 +1,70 @@
+[album]
+album_id = "d8f1aa00-3d96-4c1f-86bb-b548b2ccc37e"
+title = "相対二等心"
+artist = "HIMEHINA（鈴木ヒナ、田中ヒメ）"
+date = 2022-02-14
+type = "normal"
+edition = "初回生産限定豪華盤"
+catalog = "HAOM-005"
+tags = ["HIMEHINA"]
+
+[[discs]]
+catalog = "HAOM-005"
+
+[[discs.tracks]]
+title = "キセキ色"
+artist = "田中ヒメ"
+
+[[discs.tracks]]
+title = "ユメミテル"
+artist = "鈴木ヒナ"
+
+[[discs.tracks]]
+title = "花れ話れ"
+artist = "田中ヒメ"
+
+[[discs.tracks]]
+title = "Resistance!"
+artist = "鈴木ヒナ"
+
+[[discs.tracks]]
+title = "Get out!!"
+artist = "田中ヒメ"
+
+[[discs.tracks]]
+title = "君と奏でる五線譜"
+artist = "鈴木ヒナ"
+
+[[discs.tracks]]
+title = "キセキ色 -instrumental-"
+artist = "田中ヒメ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ユメミテル -instrumental-"
+artist = "鈴木ヒナ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "花れ話れ -instrumental-"
+artist = "田中ヒメ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Resistance! -instrumental-"
+artist = "鈴木ヒナ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Get out!! -instrumental-"
+artist = "田中ヒメ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君と奏でる五線譜 -instrumental-"
+artist = "鈴木ヒナ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Voice Drama チャイムがなるまで"
+type = "drama"
