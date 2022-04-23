@@ -1,7 +1,7 @@
 [album]
 album_id = "0700e95a-f554-4ffb-af76-f73884e1bbc4"
 title = "よいまちカンターレ"
-artist = "コーロまちカド（吉田優子（小原好美）、千代田桃（鬼头明里）、リリス（高桥未奈美）、陽夏木ミカン（高柳知叶））"
+artist = "コーロまちカド（吉田優子（小原好美）、千代田桃（鬼頭明里）、リリス（高橋未奈美）、陽夏木ミカン（高柳知葉））"
 date = 2019-08-07
 type = "normal"
 catalog = "PCCG-01809"
@@ -16,7 +16,7 @@ tags = ["ED"]
 
 [[discs.tracks]]
 title = "町かどタンジェント"
-artist = "shami momo（吉田优子（小原好美）、千代田桃（鬼头明里））"
+artist = "shami momo（吉田優子（小原好美）、千代田桃（鬼頭明里））"
 tags = ["OP"]
 
 [[discs.tracks]]
@@ -27,7 +27,7 @@ tags = ["ED"]
 [[discs.tracks]]
 title = "町かどタンジェント (instrumental)"
 type = "instrumental"
-artist = "shami momo（吉田优子（小原好美）、千代田桃（鬼头明里））"
+artist = "shami momo（吉田優子（小原好美）、千代田桃（鬼頭明里））"
 tags = ["OP"]
 
 [[discs.tracks]]
