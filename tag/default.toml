@@ -424,6 +424,11 @@ includes.animation = ["劇場版 少女☆歌劇 レヴュースタァライト"
 name = "Animelo Summer Live"
 type = "project"
 
+[[tag]]
+name = "デート・ア・ライブ"
+type = "project"
+includes.animation = ["デート・ア・ライブIV"]
+
 ################################################################################
 # Category
 #
