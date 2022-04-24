@@ -1,0 +1,43 @@
+[album]
+album_id = "61cc09b0-ae67-45b7-927f-6d4c1f11b407"
+title = "乙女理論とその後の周辺 -Belle Epoque- COMPLETE SOUNDTRACK"
+artist = "Arte Refact"
+date = 2016-05-01
+type = "absolute"
+catalog = "NVGS-0438"
+tags = ["乙女理論とその後の周辺", "OST"]
+
+[[discs]]
+catalog = "NVGS-0438"
+
+[[discs.tracks]]
+title = "Rainbow Blossom"
+artist = "美郷あき"
+type = "normal"
+
+[[discs.tracks]]
+title = "Dream Bridge"
+artist = "橋本みゆき"
+type = "normal"
+
+[[discs.tracks]]
+title = "アントワープの4人"
+
+[[discs.tracks]]
+title = "透きとおるような曇天の下で"
+
+[[discs.tracks]]
+title = "よあけのないみち"
+
+[[discs.tracks]]
+title = "Philia Paris Collection in Tokyo"
+
+[[discs.tracks]]
+title = "Rainbow Blossom -Instrumental-"
+artist = "美郷あき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dream Bridge -Instrumental-"
+artist = "橋本みゆき"
+type = "instrumental"

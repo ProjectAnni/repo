@@ -1,0 +1,134 @@
+[album]
+album_id = "043c581e-dadf-4f52-9e32-50f733072799"
+title = "月に寄りそう乙女の作法 COMPLETE SOUNDTRACK"
+artist = "Arte Refact"
+date = 2012-12-28
+type = "absolute"
+catalog = "NVGS-0308"
+tags = ["月に寄りそう乙女の作法", "OST"]
+
+[[discs]]
+catalog = "@NVGS-0308-01"
+
+[[discs.tracks]]
+title = "DESIRE"
+artist = "美郷あき"
+type = "normal"
+
+[[discs.tracks]]
+title = "屋根裏王子とその聖母"
+
+[[discs.tracks]]
+title = "おひさまの詩"
+
+[[discs.tracks]]
+title = "月見桜"
+
+[[discs.tracks]]
+title = "それ行けレベル1お嬢様"
+
+[[discs.tracks]]
+title = "ですわポルテ"
+
+[[discs.tracks]]
+title = "いとこの好きな口笛なんです"
+
+[[discs.tracks]]
+title = "桜屋敷のやんごとなき朝"
+
+[[discs.tracks]]
+title = "流れる雲とか瞬く星とか"
+
+[[discs.tracks]]
+title = "放課後キャットウォーク"
+
+[[discs.tracks]]
+title = "あまりに乙女的なサロン"
+
+[[discs.tracks]]
+title = "乙女理論とその周辺"
+
+[[discs.tracks]]
+title = "渋谷区 道玄坂 恋とか夢とか集まる所"
+
+[[discs.tracks]]
+title = "夏のお嬢サマー"
+
+[[discs.tracks]]
+title = "BWKのSZMは良いSZM"
+
+[[discs.tracks]]
+title = "乙女だてらにスウィングしましょ"
+
+[[discs.tracks]]
+title = "ルナティック・ピープル"
+
+[[discs.tracks]]
+title = "なんですのこの空気"
+
+[[discs.tracks]]
+title = "ハイソサエティ斜陽組"
+
+[[discs.tracks]]
+title = "愛を拒み覇道をゆく天才のテーマ"
+
+[[discs]]
+catalog = "@NVGS-0308-02"
+
+[[discs.tracks]]
+title = "SHINY MOON"
+artist = "橋本みゆき"
+type = "normal"
+
+[[discs.tracks]]
+title = "桜小路を陽が照らす"
+
+[[discs.tracks]]
+title = "夜をあおぐ"
+
+[[discs.tracks]]
+title = "Gray Moon"
+
+[[discs.tracks]]
+title = "ごみ箱の底のブレス"
+
+[[discs.tracks]]
+title = "令嬢疾駆"
+
+[[discs.tracks]]
+title = "愛と追憶のなにか"
+
+[[discs.tracks]]
+title = "バニラキャラメルガムシロップ"
+
+[[discs.tracks]]
+title = "月に寄りそう乙女の夜の作法"
+
+[[discs.tracks]]
+title = "Philia X'mas Collection"
+
+[[discs.tracks]]
+title = "さよならメイド服"
+
+[[discs.tracks]]
+title = "「ああ楽しかった！」"
+
+[[discs.tracks]]
+title = "泣き虫Baby・弱虫Baby"
+artist = "佐咲紗花"
+type = "normal"
+
+[[discs.tracks]]
+title = "DESIRE -Instrumental-"
+artist = "美郷あき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SHINY MOON -Instrumental-"
+artist = "橋本みゆき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "泣き虫Baby・弱虫Baby -Instrumental-"
+artist = "佐咲紗花"
+type = "instrumental"
