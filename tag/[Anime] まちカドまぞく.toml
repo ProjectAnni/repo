@@ -1,0 +1,7 @@
+[[tag]]
+name = "TVアニメ「まちカドまぞく」"
+type = "animation"
+includes.animation = [
+  "まちカドまぞく",
+  "まちカドまぞく 2丁目"
+]

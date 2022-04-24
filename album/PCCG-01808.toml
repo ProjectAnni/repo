@@ -1,0 +1,34 @@
+[album]
+album_id = "1ae2593c-2c85-4f8f-b4ed-a1992d9187fe"
+title = "町かどタンジェント"
+artist = "shami momo（吉田優子（小原好美）、千代田桃（鬼頭明里））"
+date = 2019-08-07
+type = "normal"
+catalog = "PCCG-01808"
+tags = ["まちカドまぞく"]
+
+[[discs]]
+catalog = "PCCG-01808"
+
+[[discs.tracks]]
+title = "町かどタンジェント"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "よいまちカンターレ"
+artist = "コーロまちカド（吉田優子（小原好美）、千代田桃（鬼頭明里）、リリス（高橋未奈美）、陽夏木ミカン（高柳知葉））"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "町かどタンジェント (instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "よいまちカンターレ (instrumental)"
+artist = "コーロまちカド（吉田優子（小原好美）、千代田桃（鬼頭明里）、リリス（高橋未奈美）、陽夏木ミカン（高柳知葉））"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "町かどタンジェント (TV size edit)"
+tags = ["OP"]
