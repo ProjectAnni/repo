@@ -1,0 +1,36 @@
+[album]
+album_id = "0b7545f1-2405-4d2b-a767-6701084a0359"
+title = "月に寄りそう乙女の作法2.2 A×L+SA!! SOUNDTRACK"
+artist = "Arte Refact"
+date = 2018-05-31
+type = "absolute"
+catalog = "NVGS-0475"
+tags = ["月に寄りそう乙女の作法2.2 A×L+SA!!", "OST"]
+
+[[discs]]
+catalog = "NVGS-0475"
+
+[[discs.tracks]]
+title = "散りゆく桜に願いをこめて"
+artist = "美郷あき"
+type = "normal"
+
+[[discs.tracks]]
+title = "雪見桜"
+
+[[discs.tracks]]
+title = "『月に寄りそう私の作法』"
+
+[[discs.tracks]]
+title = "Sound Luminarie"
+
+[[discs.tracks]]
+title = "12 Etudes pour le Piano, 2. Pour les tierces"
+
+[[discs.tracks]]
+title = "12 Etudes pour le Piano, 5. Pour les octaves"
+
+[[discs.tracks]]
+title = "散りゆく桜に願いをこめて -Instrumental-"
+artist = "美郷あき"
+type = "instrumental"

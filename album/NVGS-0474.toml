@@ -1,0 +1,43 @@
+[album]
+album_id = "2d1bdda6-6c3e-42e0-b349-9c2af6584767"
+title = "月に寄りそう乙女の作法2.1 E×S×PAR!! SOUNDTRACK"
+artist = "矢鴇つかさ"
+date = 2017-08-10
+type = "absolute"
+catalog = "NVGS-0474"
+tags = ["月に寄りそう乙女の作法2.1 E×S×PAR!!"]
+
+[[discs]]
+catalog = "NVGS-0474"
+
+[[discs.tracks]]
+title = "Chosen Road"
+artist = "美郷あき"
+type = "normal"
+
+[[discs.tracks]]
+title = "未来永劫"
+artist = "佐咲紗花"
+type = "normal"
+
+[[discs.tracks]]
+title = "愛を拒み覇道をゆく若き天才のテーマ"
+
+[[discs.tracks]]
+title = "アドリア海の白い宝石"
+
+[[discs.tracks]]
+title = "こんがり夕焼け色ベルギーワッフル"
+
+[[discs.tracks]]
+title = "ア・ラ・ブトロニカ"
+
+[[discs.tracks]]
+title = "Chosen Road -Instrumental-"
+artist = "美郷あき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "未来永劫 -Instrumental-"
+artist = "佐咲紗花"
+type = "instrumental"

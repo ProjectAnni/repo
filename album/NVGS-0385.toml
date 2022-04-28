@@ -1,0 +1,137 @@
+[album]
+album_id = "6277cd49-0b31-49a3-b909-0480bede3d0e"
+title = "月に寄りそう乙女の作法2 COMPLETE SOUNDTRACK"
+artist = "Arte Refact"
+date = 2015-03-27
+type = "absolute"
+catalog = "NVGS-0385"
+tags = ["月に寄りそう乙女の作法2", "OST"]
+
+[[discs]]
+catalog = "@NVGS-0385-01"
+
+[[discs.tracks]]
+title = "Glitter"
+artist = "美郷あき"
+type = "normal"
+
+[[discs.tracks]]
+title = "歓びの詩"
+
+[[discs.tracks]]
+title = "Moonlit glas"
+
+[[discs.tracks]]
+title = "九十九ノ日"
+
+[[discs.tracks]]
+title = "ぐっどろもーにんぐす"
+
+[[discs.tracks]]
+title = '"Ohayou Gozaimas"'
+
+[[discs.tracks]]
+title = "Sound Illumination"
+
+[[discs.tracks]]
+title = "君ね、信仰のない動物を人間と呼べますか"
+
+[[discs.tracks]]
+title = "みんなの好きな朝陽が昇るよ"
+
+[[discs.tracks]]
+title = "この美しきジャパネスクを"
+
+[[discs.tracks]]
+title = "天井の星を見上げて"
+
+[[discs.tracks]]
+title = "素敵な主人の育て方"
+
+[[discs.tracks]]
+title = "水曜日午後の秘密のお茶会"
+
+[[discs.tracks]]
+title = "おなかすいちゃったウフフ"
+
+[[discs.tracks]]
+title = "女装しながら助走をつけて"
+
+[[discs.tracks]]
+title = "ミシンの音を響かせながら"
+
+[[discs.tracks]]
+title = "舞台の袖で立ちつくす"
+
+[[discs.tracks]]
+title = "Love Slave"
+artist = "橋本みゆき"
+type = "normal"
+
+[[discs]]
+catalog = "@NVGS-0385-02"
+
+[[discs.tracks]]
+title = '"Piano arrange"'
+
+[[discs.tracks]]
+title = "Golden Moon"
+
+[[discs.tracks]]
+title = "銀光赤火"
+
+[[discs.tracks]]
+title = "拝啓、お父様"
+
+[[discs.tracks]]
+title = "前略、お母様"
+
+[[discs.tracks]]
+title = "三度目のオルゴール"
+
+[[discs.tracks]]
+title = "月が綺麗ですね"
+
+[[discs.tracks]]
+title = "あの日の僕が後ろで見てる"
+
+[[discs.tracks]]
+title = "C'est parti!"
+
+[[discs.tracks]]
+title = "S/E Collection"
+
+[[discs.tracks]]
+title = "『白銀の君』"
+
+[[discs.tracks]]
+title = "ショパン Chopin Ballard No.1, Op.23"
+
+[[discs.tracks]]
+title = "踊ろう楽しいアイリッシュダンス"
+
+[[discs.tracks]]
+title = "屋根裏部屋の子守唄"
+
+[[discs.tracks]]
+title = "「ただいま！」"
+
+[[discs.tracks]]
+title = "Moon night Destiny"
+artist = "佐咲紗花"
+type = "normal"
+
+[[discs.tracks]]
+title = "Glitter -Instrumental-"
+artist = "美郷あき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Love Slave -Instrumental-"
+artist = "橋本みゆき"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Moon night Destiny -Instrumental-"
+artist = "佐咲紗花"
+type = "instrumental"
