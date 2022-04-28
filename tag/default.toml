@@ -273,6 +273,14 @@ type = "group"
 name = "supercell"
 type = "group"
 
+[[tag]]
+name = "まねきケチャ"
+type = "group"
+
+[[tag]]
+name = "HIMEHINA"
+type = "group"
+
 ################################################################################
 # Animation
 #

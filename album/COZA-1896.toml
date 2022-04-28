@@ -1,0 +1,46 @@
+[album]
+album_id = "8680beb0-e0cc-4390-8e47-3157ff09de29"
+title = "Awesome!"
+artist = "まねきケチャ（中川美優、松下玲緒菜、深瀬美桜、宮内凛、篠原葵）"
+date = 2022-04-20
+type = "normal"
+edition = "Type-A"
+catalog = "COZA-1896"
+tags = ["まねきケチャ"]
+
+[[discs]]
+catalog = "COZA-1896"
+
+[[discs.tracks]]
+title = "Awesome!"
+
+[[discs.tracks]]
+title = "めんどくせー"
+
+[[discs.tracks]]
+title = "狂気 (中川美優、松下玲緒菜、深瀬美桜 Vocal Ver.)"
+artist = "中川美優、松下玲緒菜、深瀬美桜"
+
+[[discs.tracks]]
+title = "Awesome! (宮内凛、篠原葵 Vocal Ver.)"
+artist = "宮内凛、篠原葵"
+
+[[discs.tracks]]
+title = "狂気 (中川美優 Vocal Ver.)"
+artist = "中川美優"
+
+[[discs.tracks]]
+title = "Awesome! (宮内凛 Vocal Ver.)"
+artist = "宮内凛"
+
+[[discs.tracks]]
+title = "狂気 (松下玲緒菜 Vocal Ver.)"
+artist = "松下玲緒菜"
+
+[[discs.tracks]]
+title = "狂気 (深瀬美桜 Vocal Ver.)"
+artist = "深瀬美桜"
+
+[[discs.tracks]]
+title = "Awesome! (篠原葵 Vocal Ver.)"
+artist = "篠原葵"

@@ -24,6 +24,15 @@ includes.animation = [
 ]
 
 [[tag]]
+name = "ラブライブ!サンシャイン!!"
+type = "project"
+included-by = ["ラブライブ!シリーズ"]
+includes.group = [
+    # Aqours（国木田花丸（高槻かなこ）、黒澤ダイヤ（小宮有紗）、黒澤ルビィ（降幡愛）、松浦果南（諏訪ななか）、小原鞠莉（鈴木愛奈）、桜内梨子（逢田梨香子）、高海千歌（伊波杏樹）、津島善子（小林愛香）、渡辺曜（斉藤朱夏））
+    "Aqours"
+]
+
+[[tag]]
 name = "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
 type = "project"
 included-by = ["ラブライブ!シリーズ"]

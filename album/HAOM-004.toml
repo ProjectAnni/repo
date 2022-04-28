@@ -1,0 +1,69 @@
+[album]
+album_id = "8025a162-4b36-475e-a0c1-307fb11fb64d"
+title = "希織歌"
+artist = "HIMEHINA（鈴木ヒナ、田中ヒメ）"
+date = 2021-07-21
+type = "normal"
+edition = "通常盤"
+catalog = "HAOM-004"
+tags = ["HIMEHINA"]
+
+[[discs]]
+catalog = "HAOM-004"
+
+[[discs.tracks]]
+title = "黙劇"
+
+[[discs.tracks]]
+title = "Int：Hope"
+
+[[discs.tracks]]
+title = "キリカ"
+
+[[discs.tracks]]
+title = "Mr.VIRTUALIZER"
+
+[[discs.tracks]]
+title = "相思相愛リフレクション"
+
+[[discs.tracks]]
+title = "3分ガール"
+
+[[discs.tracks]]
+title = "Int：抜ケ駆ケ07&11"
+
+[[discs.tracks]]
+title = "ボクラハ&ナイデ"
+
+[[discs.tracks]]
+title = "Int：待宵のプラハ"
+
+[[discs.tracks]]
+title = "氷少女と陥落街"
+
+[[discs.tracks]]
+title = "Int：入電「オシリフリフリ」"
+
+[[discs.tracks]]
+title = "フリコドウル"
+
+[[discs.tracks]]
+title = "Int：Farewell"
+
+[[discs.tracks]]
+title = "テト"
+
+[[discs.tracks]]
+title = "流れ行く命"
+
+[[discs.tracks]]
+title = "こだましがみ"
+
+[[discs.tracks]]
+title = "Int：雨ノチハレリ"
+
+[[discs.tracks]]
+title = "水たまりロンド"
+
+[[discs.tracks]]
+title = "あどけない世界に止まない歌を"
