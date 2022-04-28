@@ -1,0 +1,27 @@
+[album]
+album_id = "9ec48027-f073-4efd-892a-fafeb9dea20a"
+title = "夢が僕らの太陽さ"
+artist = "虹ヶ咲学園スクールアイドル同好会（三船栞子（小泉萌香）、ミア・テイラー（内田秀）、鐘嵐珠（法元明菜）、朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2022-04-27
+type = "normal"
+catalog = "LACM-24250"
+tags = ["TVアニメ」ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期"]
+
+[[discs]]
+catalog = "LACM-24250"
+
+[[discs.tracks]]
+title = "夢が僕らの太陽さ"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "繚乱!ビクトリーロード"
+
+[[discs.tracks]]
+title = "夢が僕らの太陽さ (Off Vocal)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "繚乱!ビクトリーロード (Off Vocal)"
+type = "instrumental"

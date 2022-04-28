@@ -1,0 +1,32 @@
+[album]
+album_id = "d30d6686-4114-4f6a-83fb-3c0041b94549"
+title = "Étoile"
+artist = "大橋彩香"
+date = 2022-04-27
+type = "normal"
+catalog = "LACA-15949"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-15949"
+
+[[discs.tracks]]
+title = "ハイライト"
+
+[[discs.tracks]]
+title = "ロンリーサンシャイン"
+
+[[discs.tracks]]
+title = "Break My Jail"
+
+[[discs.tracks]]
+title = "Winding Road"
+
+[[discs.tracks]]
+title = "バカだなぁ"
+
+[[discs.tracks]]
+title = "NOT YET"
+
+[[discs.tracks]]
+title = "Étoile"
