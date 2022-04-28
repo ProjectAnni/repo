@@ -1,0 +1,34 @@
+[album]
+album_id = "52500081-85b8-4aa8-8c5f-5488a6e74a4b"
+title = "やじるし→"
+artist = "ぽかぽかイオン（東山奈央、安野希世乃）"
+date = 2022-03-02
+type = "normal"
+catalog = "VTCL-35343"
+edition = "アニメ通常盤"
+tags = ["SLOW LOOP"]
+
+[[discs]]
+catalog = "VTCL-35343"
+
+[[discs.tracks]]
+title = "やじるし→"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "僕の宝物"
+
+[[discs.tracks]]
+title = "やじるし→ (TVサイズ)"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "僕の宝物 (Instrumental)"
+type = "instrumental"
+artist = "椿山日南子"
+
+[[discs.tracks]]
+title = "やじるし→ (Instrumental)"
+type = "instrumental"
+artist = "山下宏明"
+tags = ["OP"]

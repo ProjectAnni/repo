@@ -353,6 +353,10 @@ type = "animation"
 name = "このヒーラー、めんどくさい"
 type = "animation"
 
+[[tag]]
+name = "SLOW LOOP"
+type = "animation"
+
 ################################################################################
 # Game
 #

@@ -1,0 +1,176 @@
+[album]
+album_id = "06c40f2c-bd9b-4d35-a590-a3a903d375d5"
+title = "シュワシュワ"
+artist = "Three∞Loop（久住琳、日岡なつみ、嶺内ともみ）"
+date = 2022-02-23
+type = "normal"
+catalog = "VTZL-197"
+edition = "初回限定盤"
+tags = ["SLOW LOOP"]
+
+[[discs]]
+catalog = "VTCL-35339"
+
+[[discs.tracks]]
+title = "シュワシュワ"
+artist = "Three∞Loop"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ゆるゆらりる"
+artist = "Three∞Loop"
+
+[[discs.tracks]]
+title = "シュワシュワ (instrumental)"
+artist = "杏沙子、石崎光"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ゆるゆらりる (instrumental)"
+artist = "田渕夏海"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "シュワシュワ (TV ver.)"
+artist = "Three∞Loop"
+tags = ["ED"]
+
+[[discs]]
+title = "｢スローループ｣ 劇伴集"
+artist = "伊賀拓郎"
+type = "absolute"
+catalog = "VTCY-140"
+tags = ["OST"]
+
+[[discs.tracks]]
+title = "SLOW LOOP I"
+
+[[discs.tracks]]
+title = "アンニュイ"
+
+[[discs.tracks]]
+title = "うみー!"
+
+[[discs.tracks]]
+title = "EyeCatch I"
+
+[[discs.tracks]]
+title = "Subtitle"
+
+[[discs.tracks]]
+title = "自然に"
+
+[[discs.tracks]]
+title = "興味津々"
+
+[[discs.tracks]]
+title = "説明"
+
+[[discs.tracks]]
+title = "家族"
+
+[[discs.tracks]]
+title = "父の思い出"
+
+[[discs.tracks]]
+title = "準備"
+
+[[discs.tracks]]
+title = "気まずい空気"
+
+[[discs.tracks]]
+title = "あれ～?"
+
+[[discs.tracks]]
+title = "固まる小春"
+
+[[discs.tracks]]
+title = "英国紳士投げ"
+
+[[discs.tracks]]
+title = "近づく気持ち"
+
+[[discs.tracks]]
+title = "Koharu's キッチン"
+
+[[discs.tracks]]
+title = "楽しい会話"
+
+[[discs.tracks]]
+title = "ワクワク"
+
+[[discs.tracks]]
+title = "自然に II"
+
+[[discs.tracks]]
+title = "緊張のひより"
+
+[[discs.tracks]]
+title = "釣り中毒"
+
+[[discs.tracks]]
+title = "ヤキモチ"
+
+[[discs.tracks]]
+title = "姉妹の絆"
+
+[[discs.tracks]]
+title = "SLOW LOOP II"
+
+[[discs.tracks]]
+title = "Wedding CM"
+
+[[discs.tracks]]
+title = "EyeCatch II"
+
+[[discs.tracks]]
+title = "出船"
+
+[[discs.tracks]]
+title = "レクチャー"
+
+[[discs.tracks]]
+title = "きた!"
+
+[[discs.tracks]]
+title = "優しさ"
+
+[[discs.tracks]]
+title = "達成感"
+
+[[discs.tracks]]
+title = "かっこいい!"
+
+[[discs.tracks]]
+title = "梅干しのジンクス"
+
+[[discs.tracks]]
+title = "いただきます!"
+
+[[discs.tracks]]
+title = "ご飯係はお父さん"
+
+[[discs.tracks]]
+title = "懐かしさ"
+
+[[discs.tracks]]
+title = "必要なのは'キンリョク'"
+
+[[discs.tracks]]
+title = "イソメの恐怖"
+
+[[discs.tracks]]
+title = "なんかやな予感"
+
+[[discs.tracks]]
+title = "ゆるくまったり"
+
+[[discs.tracks]]
+title = "真面目に"
+
+[[discs.tracks]]
+title = "一歩踏み出して"
+
+[[discs.tracks]]
+title = "SLOW LOOP -piano solo-"
