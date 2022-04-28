@@ -1,0 +1,31 @@
+[album]
+album_id = "ba1e7379-b898-4c36-9cce-7afdfc6feacb"
+title = "Cherish"
+artist = "石原夏織"
+date = 2022-04-27
+type = "normal"
+catalog = "PCCG-02108"
+tags = ["石原夏織", "社畜さんは幼女幽霊に癒されたい。"]
+
+[[discs]]
+catalog = "PCCG-02108"
+
+[[discs.tracks]]
+title = "Cherish"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Remember Heart, Remember Love"
+
+[[discs.tracks]]
+title = "Cherish (TV size ver.)"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Cherish (Instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Remember Heart, Remember Love (Instrumental)"
+type = "instrumental"

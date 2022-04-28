@@ -1,0 +1,68 @@
+[album]
+album_id = "dc317a84-ca2d-42c2-b38c-94b0c661c1a7"
+title = "KAGUYA ♡ ULTRA BEST"
+artist = "Various Artists"
+date = 2022-04-27
+type = "normal"
+edition = "期間生産限定盤"
+catalog = "SVWC-70584"
+tags = ["かぐや様は告らせたい～天才たちの恋愛頭脳戦～"]
+
+[[discs]]
+catalog = "SVWC-70584"
+
+[[discs.tracks]]
+title = "ラブ・ドラマティック"
+artist = "鈴木雅之、伊原六花"
+
+[[discs.tracks]]
+title = "センチメンタルクライシス"
+artist = "halca"
+
+[[discs.tracks]]
+title = "DADDY ! DADDY ! DO !"
+artist = "鈴木雅之、鈴木愛理"
+
+[[discs.tracks]]
+title = "風に吹かれて"
+artist = "福原遥"
+
+[[discs.tracks]]
+title = "チカっとチカ千花っ♡"
+artist = "藤原千花（小原好美）"
+
+[[discs.tracks]]
+title = "答え合わせ"
+artist = "四宮かぐや（古賀葵）"
+
+[[discs.tracks]]
+title = "翼をあげたい"
+artist = "藤原千花（小原好美）"
+
+[[discs.tracks]]
+title = "オセロ"
+artist = "伊井野ミコ（富田美憂）"
+
+[[discs.tracks]]
+title = "アオハル"
+artist = "鈴木崚汰"
+
+[[discs.tracks]]
+title = "春色リップ"
+artist = "花守ゆみり"
+
+[[discs.tracks]]
+title = "ありがとう。"
+artist = "日高里菜"
+
+[[discs.tracks]]
+title = "ラブ・ドラマティック"
+artist = "白銀御行（古川慎）、四宮かぐや（古賀葵）"
+
+[[discs.tracks]]
+title = "DADDY ! DADDY ! DO !"
+artist = "石上優（鈴木崚汰）、伊井野ミコ（富田美憂）"
+
+[[discs.tracks]]
+title = "センチメンタルクライシス"
+artist = "四宮かぐや（古賀葵）"
