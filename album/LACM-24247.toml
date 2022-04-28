@@ -1,0 +1,26 @@
+[album]
+album_id = "7c4b535b-4cac-4b0c-9877-3b9e495bb09e"
+title = "Be My Friend!!!"
+artist = "大橋彩香"
+date = 2022-04-27
+type = "normal"
+edition = "彩香盤"
+catalog = "LACM-24247"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACM-24247"
+
+[[discs.tracks]]
+title = "Be My Friend!!!"
+
+[[discs.tracks]]
+title = "Nobody Knows"
+
+[[discs.tracks]]
+title = "Be My Friend!!! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nobody Knows (Off Vocal)"
+type = "instrumental"
