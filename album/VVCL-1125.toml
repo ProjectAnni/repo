@@ -1,0 +1,26 @@
+[album]
+album_id = "b72ca51f-a80c-4879-ab70-ddbebfd72292"
+title = "KOE"
+artist = "ASCA"
+date = 2017-11-22
+type = "normal"
+catalog = "VVCL-1125"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1125"
+
+[[discs.tracks]]
+title = "KOE"
+tags = ["Fate/Apocrypha", "ED"]
+
+[[discs.tracks]]
+title = "リインカネーション"
+
+[[discs.tracks]]
+title = "最低な朝と名付けたのは"
+
+[[discs.tracks]]
+title = "KOE -Instrumental-"
+tags = ["Fate/Apocrypha", "ED"]
+type = "instrumental"

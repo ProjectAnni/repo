@@ -1,0 +1,26 @@
+[album]
+album_id = "54df6d57-b669-4b8f-a9f8-1248f518eaa8"
+title = "CHAIN"
+artist = "ASCA"
+date = 2020-02-26
+type = "normal"
+catalog = "VVCL-1602"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1602"
+
+[[discs.tracks]]
+title = "CHAIN"
+tags = ["ダーウィンズゲーム", "OP"]
+
+[[discs.tracks]]
+title = "いかれた世界だろ構わないぜ"
+
+[[discs.tracks]]
+title = "Don't disturb"
+
+[[discs.tracks]]
+title = "CHAIN -Instrumental-"
+type = "instrumental"
+tags = ["ダーウィンズゲーム", "OP"]

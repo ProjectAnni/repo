@@ -1,0 +1,59 @@
+[album]
+album_id = "73d1f325-aff9-4ae2-a3b1-0b82a136f668"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 06"
+artist = "Various Artists"
+date = 2022-04-27
+type = "normal"
+catalog = "LACA-15906"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15906"
+
+[[discs.tracks]]
+title = "ユニーク・スター・プレイヤー！"
+artist = "双海真美（下田麻美）"
+artists.vocal = "双海真美（下田麻美）"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "わたしルネサンス"
+artist = "ロコ（中村温姫）"
+artists.vocal = "ロコ（中村温姫）"
+artists.composer = "白戸佑輔"
+artists.arranger = "白戸佑輔"
+artists.lyricist = "ZAQ"
+
+[[discs.tracks]]
+title = "交わる季節"
+artist = "四条貴音（原由実）"
+artists.vocal = "四条貴音（原由実）"
+artists.composer = "in the blue shirt"
+artists.arranger = "in the blue shirt"
+artists.lyricist = "in the blue shirt"
+
+[[discs.tracks]]
+title = "泣き空、のち"
+artist = "伊吹翼（Machico）"
+artists.vocal = "伊吹翼（Machico）"
+artists.composer = "清水哲平"
+artists.arranger = "清水哲平"
+artists.lyricist = "こだまさおり"
+
+[[discs.tracks]]
+title = "シャル・ウィー・ダンス？"
+artist = "徳川まつり（諏訪彩花）"
+artists.vocal = "徳川まつり（諏訪彩花）"
+artists.composer = "廣中トキワ"
+artists.arranger = "家原正樹"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Moonrise Belief"
+artist = "天空橋朋花（小岩井ことり）"
+artists.vocal = "天空橋朋花（小岩井ことり）"
+artists.composer = "大和"
+artists.arranger = "大和"
+artists.lyricist = "真崎エリカ"

@@ -1,0 +1,39 @@
+[album]
+album_id = "fbbc24f0-80b1-4813-adaf-d00c03da9359"
+title = "RUST／雲雀／光芒"
+artist = "ASCA"
+date = 2019-09-04
+type = "normal"
+catalog = "VVCL-1507"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1507"
+
+[[discs.tracks]]
+title = "RUST"
+
+[[discs.tracks]]
+title = "雲雀"
+tags = ["ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-", "ED"]
+
+[[discs.tracks]]
+title = "光芒"
+tags = ["東京クロノス"]
+
+[[discs.tracks]]
+title = "KOE -unplugged ver.-"
+
+[[discs.tracks]]
+title = "RUST -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "雲雀 -Instrumental-"
+type = "instrumental"
+tags = ["ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-", "ED"]
+
+[[discs.tracks]]
+title = "光芒 -Instrumental-"
+type = "instrumental"
+tags = ["東京クロノス"]

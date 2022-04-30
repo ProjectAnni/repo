@@ -200,6 +200,15 @@ type = "artist"
 name = "大橋彩香"
 type = "artist"
 
+[[tag]]
+name = "ASCA"
+type = "artist"
+includes.artist = ["大倉明日香"]
+
+[[tag]]
+name = "西川貴教"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -373,6 +382,46 @@ type = "animation"
 name = "かぐや様は告らせたい～天才たちの恋愛頭脳戦～"
 type = "animation"
 
+[[tag]]
+name = "白猫プロジェクト ZERO CHRONICLE"
+type = "animation"
+
+[[tag]]
+name = "Fate/Apocrypha"
+type = "animation"
+
+[[tag]]
+name = "グランクレスト戦記"
+type = "animation"
+
+[[tag]]
+name = "ソードアート・オンライン アリシゼーション"
+type = "animation"
+
+[[tag]]
+name = "ダーウィンズゲーム"
+type = "animation"
+
+[[tag]]
+name = "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-"
+type = "animation"
+
+[[tag]]
+name = "ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 特別編"
+type = "animation"
+
+[[tag]]
+name = "すばらしきこのせかい The Animation"
+type = "animation"
+
+[[tag]]
+name = "魔法科高校の劣等生 来訪者編"
+type = "animation"
+
+[[tag]]
+name = "さくら荘のペットな彼女"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -426,6 +475,14 @@ type = "game"
 
 [[tag]]
 name = "Stellaris"
+type = "game"
+
+[[tag]]
+name = "東京クロノス"
+type = "game"
+
+[[tag]]
+name = "ソードアート・オンライン アンリーシュ・ブレイディング"
 type = "game"
 
 ################################################################################

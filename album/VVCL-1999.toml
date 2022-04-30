@@ -1,0 +1,43 @@
+[album]
+album_id = "cbcff2c9-69ae-4a5b-9285-612913f85577"
+title = "君が見た夢の物語"
+artist = "ASCA"
+date = 2022-01-26
+type = "normal"
+catalog = "VVCL-1999"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1999"
+
+[[discs.tracks]]
+title = "君が見た夢の物語"
+tags = ["ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 特別編"]
+
+[[discs.tracks]]
+title = "逆境スペクトル"
+tags = ["ソードアート・オンライン アンリーシュ・ブレイディング"]
+
+[[discs.tracks]]
+title = "雲雀 -winter whisper version-"
+
+[[discs.tracks]]
+title = "金木犀"
+
+[[discs.tracks]]
+title = "君が見た夢の物語 -Instrumental-"
+type = "instrumental"
+tags = ["ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note- 特別編"]
+
+[[discs.tracks]]
+title = "逆境スペクトル -Instrumental-"
+type = "instrumental"
+tags = ["ソードアート・オンライン アンリーシュ・ブレイディング"]
+
+[[discs.tracks]]
+title = "雲雀 -winter whisper version Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "金木犀 -Instrumental-"
+type = "instrumental"

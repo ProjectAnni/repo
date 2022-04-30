@@ -1,0 +1,55 @@
+[album]
+album_id = "f50c6927-265e-4325-9cfa-0a9f19d2b98e"
+title = "百歌繚乱"
+artist = "ASCA"
+date = 2019-11-06
+type = "normal"
+catalog = "VVCL-1529"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1529"
+
+[[discs.tracks]]
+title = "Profusion"
+type = "absolute"
+
+[[discs.tracks]]
+title = "凛"
+
+[[discs.tracks]]
+title = "RESISTER"
+
+[[discs.tracks]]
+title = "雲雀"
+
+[[discs.tracks]]
+title = "セルフロンティア"
+
+[[discs.tracks]]
+title = "偽物の恋にさようなら with 分島花音"
+artist = "ASCA、分島花音"
+
+[[discs.tracks]]
+title = "PLEDGE"
+
+[[discs.tracks]]
+title = "アインソフオウル with Ayasa"
+artist = "ASCA、Ayasa"
+
+[[discs.tracks]]
+title = "KOE"
+
+[[discs.tracks]]
+title = "Suspected, Confused and Action"
+artist = "ASCA、ぼくのりりっくのぼうよ"
+
+[[discs.tracks]]
+title = "NO FAKE"
+
+[[discs.tracks]]
+title = "Unti-L〈100S-R2〉with mizuki"
+artist = "ASCA、mizuki"
+
+[[discs.tracks]]
+title = "このメロディに乗せて"
