@@ -1,0 +1,51 @@
+[album]
+album_id = "d4aab2dd-02b3-49b3-bf4d-1116032a9bee"
+title = "百希夜行"
+artist = "ASCA"
+date = 2021-01-27
+type = "normal"
+catalog = "VVCL-1817"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1817"
+
+[[discs.tracks]]
+title = "進化論"
+tags = ["ソードアート・オンライン アンリーシュ・ブレイディング"]
+
+[[discs.tracks]]
+title = "CHAIN"
+tags = ["ダーウィンズゲーム", "OP"]
+
+[[discs.tracks]]
+title = "Howling"
+tags = ["魔法科高校の劣等生 来訪者編", "OP"]
+
+[[discs.tracks]]
+title = "regain"
+
+[[discs.tracks]]
+title = "SAYONARA"
+
+[[discs.tracks]]
+title = "曖・アイ・愛"
+
+[[discs.tracks]]
+title = "天秤 -Libra- 百希夜行 ver."
+artist = "ASCA、西川貴教"
+tags = ["白猫プロジェクト ZERO CHRONICLE", "OP"]
+
+[[discs.tracks]]
+title = "DESIRE"
+tags = ["ALTDEUS: Beyond Chronos"]
+
+[[discs.tracks]]
+title = "命に嫌われている。"
+
+[[discs.tracks]]
+title = "君の街へ"
+
+[[discs.tracks]]
+title = "Wings to fly feat. 足立佳奈, MaRuRi, mizuki"
+artist = "ASCA、足立佳奈、MaRuRi、mizuki"

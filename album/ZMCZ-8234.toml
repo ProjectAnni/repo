@@ -1,0 +1,25 @@
+[album]
+album_id = "5bc846a7-2ce7-4146-9405-6eb036882af8"
+title = "Prime number ～君と出会える日～"
+artist = "大倉明日香"
+date = 2013-02-27
+type = "normal"
+catalog = "ZMCZ-8234"
+tags = ["大倉明日香", "さくら荘のペットな彼女", "ED"]
+
+[[discs]]
+catalog = "ZMCZ-8234"
+
+[[discs.tracks]]
+title = "Prime number ～君と出会える日～"
+
+[[discs.tracks]]
+title = "Prime number ～君と出会える日～ (Blue Sky VER.)"
+
+[[discs.tracks]]
+title = "Prime number ～君と出会える日～ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Prime number ～君と出会える日～ (Blue Sky VER.) (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,26 @@
+[album]
+album_id = "075f67e2-ed83-4584-a8d9-5e29a9fa0e44"
+title = "カルペディエム／ヴィラン"
+artist = "ASCA"
+date = 2021-06-02
+type = "normal"
+catalog = "VVCL-1882"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1882"
+
+[[discs.tracks]]
+title = "カルペディエム"
+tags = ["すばらしきこのせかい The Animation", "ED"]
+
+[[discs.tracks]]
+title = "ヴィラン"
+
+[[discs.tracks]]
+title = "Carpe Diem -seize the day-"
+
+[[discs.tracks]]
+title = "カルペディエム -Instrumental-"
+tags = ["すばらしきこのせかい The Animation", "ED"]
+type = "instrumental"

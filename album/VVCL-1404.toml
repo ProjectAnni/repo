@@ -1,0 +1,30 @@
+[album]
+album_id = "5c0654d6-3cc9-4622-8a4c-53a29dc18e21"
+title = "RESISTER"
+edition = "初回生産限定盤"
+artist = "ASCA"
+date = 2019-02-27
+type = "normal"
+catalog = "VVCL-1404"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1404"
+
+[[discs.tracks]]
+title = "RESISTER"
+tags = ["ソードアート・オンライン アリシゼーション", "OP"]
+
+[[discs.tracks]]
+title = "道シルベ"
+
+[[discs.tracks]]
+title = "Mirage"
+
+[[discs.tracks]]
+title = "ただいま。"
+
+[[discs.tracks]]
+title = "RESISTER -Instrumental-"
+tags = ["ソードアート・オンライン アリシゼーション", "OP"]
+type = "instrumental"

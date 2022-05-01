@@ -1,0 +1,23 @@
+[album]
+album_id = "fbd1fbf0-ed65-4243-9cde-0f9077f268ff"
+title = "天秤-Libra-"
+artist = "西川貴教、ASCA"
+date = 2020-05-27
+type = "normal"
+catalog = "ESCL-5407"
+tags = ["西川貴教", "ASCA", "白猫プロジェクト ZERO CHRONICLE"]
+
+[[discs]]
+catalog = "ESCL-5407"
+
+[[discs.tracks]]
+title = "天秤-Libra-"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "天秤-Libra- (Add'l ZERO CHRONICLE)"
+
+[[discs.tracks]]
+title = "天秤-Libra- (Instrumental)"
+type = "instrumental"
+tags = ["OP"]

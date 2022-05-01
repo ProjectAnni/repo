@@ -1,0 +1,26 @@
+[album]
+album_id = "74415d03-e0cf-4269-bc41-b0ae169582cc"
+title = "凛"
+artist = "ASCA"
+date = 2018-05-09
+type = "normal"
+catalog = "VVCL-1215"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1215"
+
+[[discs.tracks]]
+title = "凛"
+tags = ["グランクレスト戦記", "OP"]
+
+[[discs.tracks]]
+title = "サルベージ with EMO Strings"
+
+[[discs.tracks]]
+title = "Don't leave me"
+
+[[discs.tracks]]
+title = "凛 -Instrumental-"
+tags = ["グランクレスト戦記", "OP"]
+type = "instrumental"

@@ -1,0 +1,26 @@
+[album]
+album_id = "7ba620e2-73d9-4a06-844b-f1b15c230d8f"
+title = "Howling"
+artist = "ASCA"
+date = 2020-11-04
+type = "normal"
+catalog = "VVCL-1765"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1765"
+
+[[discs.tracks]]
+title = "Howling"
+tags = ["魔法科高校の劣等生 来訪者編", "OP"]
+
+[[discs.tracks]]
+title = "ハイドレンジア"
+
+[[discs.tracks]]
+title = "OVERDRIVE"
+
+[[discs.tracks]]
+title = "Howling -Instrumental-"
+type = "instrumental"
+tags = ["魔法科高校の劣等生 来訪者編", "OP"]

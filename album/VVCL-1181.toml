@@ -1,0 +1,26 @@
+[album]
+album_id = "1b2fdeb9-7d49-4bf3-9363-84fef202b8da"
+title = "PLEDGE"
+artist = "ASCA"
+date = 2018-02-21
+type = "normal"
+catalog = "VVCL-1181"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-1181"
+
+[[discs.tracks]]
+title = "PLEDGE"
+tags = ["グランクレスト戦記", "ED"]
+
+[[discs.tracks]]
+title = "悠遠"
+
+[[discs.tracks]]
+title = "グラヴィティ with fox capture plan"
+
+[[discs.tracks]]
+title = "PLEDGE -Instrumental-"
+type = "instrumental"
+tags = ["グランクレスト戦記", "ED"]
