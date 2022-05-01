@@ -16,12 +16,15 @@ type = "absolute"
 
 [[discs.tracks]]
 title = "凛"
+tags = ["グランクレスト戦記", "OP"]
 
 [[discs.tracks]]
 title = "RESISTER"
+tags = ["ソードアート・オンライン アリシゼーション", "OP"]
 
 [[discs.tracks]]
 title = "雲雀"
+tags = ["ロード・エルメロイII世の事件簿 -魔眼蒐集列車 Grace note-", "ED"]
 
 [[discs.tracks]]
 title = "セルフロンティア"
@@ -32,6 +35,7 @@ artist = "ASCA、分島花音"
 
 [[discs.tracks]]
 title = "PLEDGE"
+tags = ["グランクレスト戦記", "ED"]
 
 [[discs.tracks]]
 title = "アインソフオウル with Ayasa"
@@ -39,6 +43,7 @@ artist = "ASCA、Ayasa"
 
 [[discs.tracks]]
 title = "KOE"
+tags = ["Fate/Apocrypha", "ED"]
 
 [[discs.tracks]]
 title = "Suspected, Confused and Action"
