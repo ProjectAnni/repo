@@ -1,0 +1,42 @@
+[album]
+album_id = "77996d2b-8ae1-4a0c-8648-1fc9d2b361bb"
+title = "アイドルマスター バースデーシリーズ Vol.4 天海春香 アン・ハッピーバースデー？"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+date = 2006-04-24
+type = "drama"
+catalog = "765PRO-0002"
+tags = ["THE IDOLM@STER Birthday Series"]
+
+[[discs]]
+catalog = "765PRO-0002"
+
+[[discs.tracks]]
+title = "新作ケーキ、完成目前ですよ！"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "うっうー！やよいでーっす！"
+
+[[discs.tracks]]
+title = "春香さんのプレゼント、最高ですー！"
+
+[[discs.tracks]]
+title = "ごめんなさい、春香さん…"
+
+[[discs.tracks]]
+title = "私って、どうしてこうドジなの…"
+
+[[discs.tracks]]
+title = "やよいのプレゼントも最高だよ！"
+
+[[discs.tracks]]
+title = "あの子から電話です！"
+
+[[discs.tracks]]
+title = "物資が投下されました！"
+
+[[discs.tracks]]
+title = "やよい化計画"
+
+[[discs.tracks]]
+title = "売り込みにレッツゴー♪"

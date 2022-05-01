@@ -1,0 +1,35 @@
+[album]
+album_id = "f5d5b8a7-35c5-461d-b175-4f53b4629fb9"
+title = "THE IDOLM@STER SUMMER VAC@TION REMIX!!"
+artist = "Various Artists"
+date = 2013-08-04
+type = "absolute"
+catalog = "TGCS-7730"
+tags = ["劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』"]
+
+[[discs]]
+catalog = "TGCS-7730"
+
+[[discs.tracks]]
+title = "神SUMMER!!（BGM Ver.）"
+artist = "田中秀和"
+artists.composer = "田中秀和"
+artists.arranger = "高田龍一"
+artists.piano = "高田龍一"
+
+[[discs.tracks]]
+title = "自分REST@RT（BGM Ver.）"
+artist = "田中秀和"
+artists.composer = "田中秀和"
+artists.arranger = "高田龍一"
+artists.cello = "樋口泰世"
+artists.mixer = "淺野浩伸"
+
+[[discs.tracks]]
+title = "私たちはずっと…でしょう？（BGM Ver.）"
+artist = "佐々木宏人"
+artists.composer = "佐々木宏人"
+artists.arranger = "高田龍一"
+artists.guitar = "飯室博"
+artists.electoric-piano = "みすみゆり"
+artists.mixer = "淺野浩伸"

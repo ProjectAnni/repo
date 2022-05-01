@@ -1,0 +1,35 @@
+[album]
+album_id = "df6e17fa-7b9c-43c9-afeb-6b23c685215c"
+title = "VOY@GER"
+edition = "シンデレラガールズ盤"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2021-08-04
+type = "normal"
+catalog = "COCC-17912"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[discs]]
+catalog = "COCC-17912"
+
+[[discs.tracks]]
+title = "VOY@GER"
+
+[[discs.tracks]]
+title = "VOY@GER (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VOY@GER シンデレラガールズバージョン"
+artist = "CINDERELLA GIRLS（塩見周子（ルゥティン）、新田美波（洲崎綾）、久川颯（長江里加））"
+
+[[discs.tracks]]
+title = "VOY@GER 塩見周子ソロ・リミックス"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "VOY@GER 新田美波ソロ・リミックス"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "VOY@GER 久川颯ソロ・リミックス"
+artist = "久川颯（長江里加）"

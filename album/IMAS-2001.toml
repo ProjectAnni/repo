@@ -1,0 +1,14 @@
+[album]
+album_id = "04d1dc5b-2cc3-456f-af58-fa2d2f27de71"
+title = "THE IDOLM@STER LAWSON ORIGINAL DRAMA DISK"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、四条貴音（原由実）、萩原雪歩（浅倉杏美）、音無小鳥（滝田樹里）、軽口哲也（細井治）、番組ディレクター（竹内栄治）"
+date = 2014-03-06
+type = "drama"
+catalog = "IMAS-2001"
+tags = ["劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』"]
+
+[[discs]]
+catalog = "IMAS-2001"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER LAWSON ORIGINAL DRAMA DISK"

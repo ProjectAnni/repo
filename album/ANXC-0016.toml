@@ -1,0 +1,14 @@
+[album]
+album_id = "3b7d50a9-3b9a-4a04-add4-8c39df2d2158"
+title = "765プロ入社説明CD"
+artist = "高木順二朗（大塚芳忠）、プロデューサー（赤羽根健治）、音無小鳥（滝田樹里）"
+date = 2013-03-30
+type = "drama"
+catalog = "ANXC-0016"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "ANXC-0016"
+
+[[discs.tracks]]
+title = "765プロ入社説明"

@@ -7,8 +7,7 @@ includes.game = ["THE IDOLM@STER STARLIT SEASON", "THE IDOLM@STER POPLINKS"]
 name = "THE IDOLM@STER"
 type = "project"
 included-by = ["アイドルマスターシリーズ"]
-# 这里用 default，具体更新等 PR 合入
-includes.default = [
+includes.series = [
   #
   # [x] THE IDOLM@STER MASTERPIECE 01 (2005/09/28)
   # [x] THE IDOLM@STER MASTERPIECE 02 (2005/11/02)
@@ -25,14 +24,13 @@ includes.default = [
   # [ ] THE IDOLM@STER ドラマCD Scene.06 EXTRA STAGE 2 (2006/07/21)
   "THE IDOLM@STER ドラマCD",
   #
-  # [ ] Gratitude (2006/04/24)
-  # [ ] アン・ハッピーバースデー？ (2006年9月)
-  # [x] THE IDOLM@STER YOUR SONG (2007/01/18)
+  # [x] Gratitude (2006/04/24)
+  # [x] アン・ハッピーバースデー？ (2006年9月)
   # [x] Ami＆Mami’s Super Birthday! (2007年2月)
   # [x] Gratitude アニメイト版 (2007/04/24)
   # [x] Sound of Raindrops (2007年6月)
   # [x] 晴れ時々曇り後台風、後晴れ (2008年1月)
-  "765ショップ",
+  "THE IDOLM@STER Birthday Series",
   #
   # [x] THE IDOLM@STER MASTER BOX I (2006/07/19)
   # [x] THE IDOLM@STER MASTER BOX II (2007/04/04)
@@ -41,9 +39,9 @@ includes.default = [
   # [x] THE IDOLM@STER MASTER BOX IV (2008/09/24)
   # [x] THE IDOLM@STER MASTER BOX V (2009/03/18)
   # [x] THE IDOLM@STER MASTER BOX catalog 08,09,11 COMPLETE (2009年5月)
-  # [ ] THE IDOLM@STER MASTER BOX VI (2010/03/31)
-  # [ ] THE IDOLM@STER MASTER BOX VII (2011/06/25)
-  # [ ] THE IDOLM@STER MASTER BOX VIII (2013/02/09)
+  # [x] THE IDOLM@STER MASTER BOX VI (2010/03/31)
+  # [x] THE IDOLM@STER MASTER BOX VII (2011/06/25)
+  # [x] THE IDOLM@STER MASTER BOX VIII (2013/02/09)
   "THE IDOLM@STER MASTER BOX",
   #
   # [ ] THE IDOLM@STER RADIO スタジオコースト出蝶版！ (2006/07/23)

@@ -1,0 +1,35 @@
+[album]
+album_id = "ac4156ad-5705-48c1-b9ae-e0b6e6930795"
+title = "VOY@GER"
+edition = "765PRO ALLSTARS盤"
+artist = "THE IDOLM@STER FIVE STARS!!!!!"
+date = 2021-08-04
+type = "normal"
+catalog = "COCC-17911"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "COCC-17911"
+
+[[discs.tracks]]
+title = "VOY@GER"
+
+[[discs.tracks]]
+title = "VOY@GER (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VOY@GER 765PRO ALLSTARSバージョン"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、菊地真（平田宏美）、四条貴音（原由実））"
+
+[[discs.tracks]]
+title = "VOY@GER 天海春香ソロ・リミックス"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "VOY@GER 菊地真ソロ・リミックス"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "VOY@GER 四条貴音ソロ・リミックス"
+artist = "四条貴音（原由実）"

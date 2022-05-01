@@ -1,0 +1,127 @@
+[album]
+album_id = "037e46f1-4712-4c04-9dad-4fee169918c2"
+title = "THE IDOLM@STER 2 765pro H@PPINESS NEW YE@R P@RTY!! 2011"
+artist = "Various Artists"
+date = 2011-01-10
+type = "normal"
+catalog = "SACX-1013~4"
+tags = ["THE IDOLM@STER 2"]
+
+[[discs]]
+catalog = "SACX-1013"
+
+[[discs.tracks]]
+title = "Large Size Party"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Large Size Party"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Large Size Party"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Large Size Party オリジナル・カラオケ"
+artist = "宮島律子"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あったかな雪"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "あったかな雪"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "あったかな雪"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "あったかな雪 オリジナル・カラオケ"
+artist = "糀谷拓土"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "チェリー"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "チェリー オリジナル・カラオケ"
+artist = "Funta7"
+type = "instrumental"
+
+[[discs]]
+catalog = "SACX-1014"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "サニー"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "サニー オリジナル・カラオケ"
+artist = "Funta"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "メリー"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "メリー オリジナル・カラオケ"
+artist = "Funta"
+type = "instrumental"
