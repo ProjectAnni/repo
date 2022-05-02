@@ -157,8 +157,8 @@ includes.series = [
   # [ ] アイドルマスターブレイク！第4巻 限定版特製CD (2011/03/04)
   "アイドルマスターブレイク！",
   #
-  # [ ] THE IDOLM@STER Vocal Collection 01 (2010/02/24)
-  # [ ] THE IDOLM@STER Vocal Collection 02 (2010/04/21)
+  # [x] THE IDOLM@STER Vocal Collection 01 (2010/02/24)
+  # [x] THE IDOLM@STER Vocal Collection 02 (2010/04/21)
   "THE IDOLM@STER Vocal Collection",
   #
   # [ ] THE IDOLM@STER STATION!!! FIRST TRAVEL (2010/03/24)
