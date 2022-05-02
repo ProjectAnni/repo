@@ -1,0 +1,24 @@
+[album]
+album_id = "dc2e4068-d76c-4568-be8c-1eacfbae93e9"
+title = "まほろばアスタリスク"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2021-11-10
+type = "normal"
+edition = "Special Edition"
+catalog = "NOPA-2828"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "NOPA-2828"
+
+[[discs.tracks]]
+title = "まほろばアスタリスク"
+
+[[discs.tracks]]
+title = "好きだ!!!"
+
+[[discs.tracks]]
+title = "ワタシアクセント"
+
+[[discs.tracks]]
+title = "誰もいない森の奥で一本の木が倒れたら音はするか？"

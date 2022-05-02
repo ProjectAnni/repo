@@ -1,0 +1,42 @@
+[album]
+album_id = "b251d068-6f27-4c1d-ace4-9e5c43a21ac5"
+title = "The 5th"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）"
+date = 2021-12-15
+type = "normal"
+edition = "Type-D"
+catalog = "VVCL-1982"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1982"
+
+[[discs.tracks]]
+title = "The 5th"
+
+[[discs.tracks]]
+title = "お姫様にしてよ！"
+
+[[discs.tracks]]
+title = "Poison Girl"
+
+[[discs.tracks]]
+title = "BPM170の君へ"
+artist = "大場花菜、高松瞳、瀧脇笙古、野口衣織、山本杏奈"
+
+[[discs.tracks]]
+title = "The 5th (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "お姫様にしてよ！(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Poison Girl (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BPM170の君へ (instrumental)"
+type = "instrumental"
+artist = "大場花菜、高松瞳、瀧脇笙古、野口衣織、山本杏奈"

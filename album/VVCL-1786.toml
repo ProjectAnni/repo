@@ -1,0 +1,44 @@
+[album]
+album_id = "72503b95-bb07-4066-901c-e3086c86ef5b"
+title = "青春“サブリミナル”"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2020-11-25
+type = "normal"
+edition = "Type-D"
+catalog = "VVCL-1786"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1786"
+
+[[discs.tracks]]
+title = "青春“サブリミナル”"
+
+[[discs.tracks]]
+title = "しゅきぴ"
+
+[[discs.tracks]]
+title = "流星群"
+artist = "齊藤なぎさ、髙松瞳"
+
+[[discs.tracks]]
+title = "P.I.C."
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+
+[[discs.tracks]]
+title = "青春“サブリミナル” (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "しゅきぴ (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "流星群 (instrumental)"
+type = "instrumental"
+artist = "齊藤なぎさ、髙松瞳"
+
+[[discs.tracks]]
+title = "P.I.C. (instrumental)"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+type = "instrumental"

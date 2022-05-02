@@ -1,0 +1,46 @@
+[album]
+album_id = "54ac135a-cf1e-42ac-84cb-82ca19298c6a"
+title = "ズルいよ ズルいね"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2019-10-30
+type = "normal"
+edition = "Type-D"
+catalog = "VVCL-1566"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1566"
+
+[[discs.tracks]]
+title = "ズルいよ ズルいね"
+
+[[discs.tracks]]
+title = "Sweetest girl"
+artist = "大谷映美里、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、諸橋沙夏"
+
+[[discs.tracks]]
+title = "推しのいる世界"
+artist = "大場花菜、佐々木舞香、佐竹のん乃、瀧脇笙古、野口衣織、山本杏奈"
+
+[[discs.tracks]]
+title = "「君の音だったんだ」"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+
+[[discs.tracks]]
+title = "ズルいよ ズルいね (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sweetest girl (instrumental)"
+type = "instrumental"
+artist = "大谷映美里、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、諸橋沙夏"
+
+[[discs.tracks]]
+title = "推しのいる世界 (instrumental)"
+type = "instrumental"
+artist = "大場花菜、佐々木舞香、佐竹のん乃、瀧脇笙古、野口衣織、山本杏奈"
+
+[[discs.tracks]]
+title = "「君の音だったんだ」 (instrumental)"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+type = "instrumental"
