@@ -1,0 +1,26 @@
+[album]
+album_id = "df8a33ec-3d2e-425a-8230-ed51184b9228"
+title = "THE IDOLM@STER ANIM@TION MASTER 01 READY!!"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2011-08-10
+type = "normal"
+catalog = "COZC-583"
+tags = ["THE IDOLM@STER ANIM@TION MASTER"]
+
+[[discs]]
+catalog = "COZC-583"
+
+[[discs.tracks]]
+title = "READY!!(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "おとなのはじまり"
+artist = "水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "おもいでのはじまり"
+artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "READY!!(M@STER VERSION) Instrumental"
+type = "instrumental"
