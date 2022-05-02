@@ -1,0 +1,66 @@
+[album]
+album_id = "eba9d133-af77-44cc-82c2-7ff15de85acb"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 02"
+artist = "竜宮小町（水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美））"
+date = 2012-09-05
+type = "normal"
+catalog = "COCX-37414"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37414"
+
+[[discs.tracks]]
+title = "生っすか第二部OPトーク"
+type = "drama"
+
+[[discs.tracks]]
+title = "七彩ボタン (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "あずさチャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "イタズラなKISS"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "恋とマシンガン"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "う・ふ・ふ・ふ"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "伊織チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "リフレクティア"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "歩いて帰ろう"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "ホウキ雲"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "亜美チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "初恋 ～二章 告白の花火～"
+
+[[discs.tracks]]
+title = "閑話休題"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美）、秋月律子（若林直美）、プロデューサー（赤羽根健治）"
+type = "drama"
+
+[[discs.tracks]]
+title = "七彩ボタン (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"

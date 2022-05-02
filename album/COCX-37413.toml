@@ -1,0 +1,66 @@
+[album]
+album_id = "1bc19b79-f982-498d-b7a6-c18c42dbe516"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 01"
+artist = "星井美希（長谷川明子）、四条貴音（原由実）、我那覇響（沼倉愛美）"
+date = 2012-08-15
+type = "normal"
+catalog = "COCX-37413"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37413"
+
+[[discs.tracks]]
+title = "生っすか第一部OPトーク"
+type = "drama"
+
+[[discs.tracks]]
+title = "きゅんっ！ヴァンパイアガール (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "貴音チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "ね～え？"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Believe"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "魂のルフラン"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "響チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "亜熱帯 ガール"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "かたちあるもの"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "夢で逢えたら"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "美希チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "初恋 ～一章 片想いの桜～"
+
+[[discs.tracks]]
+title = "閑話休題"
+artist = "星井美希（長谷川明子）、四条貴音（原由実）、我那覇響（沼倉愛美）、三浦あずさ（たかはし智秋）、プロデューサー（赤羽根健治）"
+type = "drama"
+
+[[discs.tracks]]
+title = "きゅんっ！ヴァンパイアガール (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
