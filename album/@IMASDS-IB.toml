@@ -1,0 +1,23 @@
+[album]
+album_id = "827c35a6-e6af-4dee-9978-92b2298354ca"
+title = "アイドルマスター Innocent Blue 第3巻 限定版 特典ドラマCD"
+artist = "水谷絵理（花澤香菜）、日高愛（戸松遥）、秋月涼（三瓶由布子）、サイネリア（ゆりん）、尾崎玲子（浅川悠）"
+date = 2011-07-27
+type = "drama"
+catalog = "@IMASDS-IB"
+tags = ["THE IDOLM@STER Dearly Stars"]
+
+[[discs]]
+catalog = "@IMASDS-IB"
+
+[[discs.tracks]]
+title = "ドラマ 01"
+
+[[discs.tracks]]
+title = "ドラマ 02"
+
+[[discs.tracks]]
+title = "ドラマ 03"
+
+[[discs.tracks]]
+title = "ドラマ 04"

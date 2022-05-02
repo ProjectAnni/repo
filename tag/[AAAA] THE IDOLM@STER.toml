@@ -152,12 +152,6 @@ includes.series = [
   # [ ] DJCD アイドルマスター P.S.プロデューサー Vol.3 (2009/10/28)
   "アイドルマスター P.S.プロデューサー",
   #
-  # [x] THE IDOLM@STER DREAM SYMPHONY 00 (2009/09/09)
-  # [x] THE IDOLM@STER DREAM SYMPHONY 01 (2009/10/14)
-  # [x] THE IDOLM@STER DREAM SYMPHONY 02 (2009/11/04)
-  # [x] THE IDOLM@STER DREAM SYMPHONY 03 (2009/12/02)
-  "THE IDOLM@STER DREAM SYMPHONY",
-  #
   # [ ] アイドルマスターブレイク！第2巻 限定版特製CD (2009/10/02)
   # [ ] アイドルマスターブレイク！第3巻 限定版特製CD (2010/06/04)
   # [ ] アイドルマスターブレイク！第4巻 限定版特製CD (2011/03/04)
@@ -384,4 +378,17 @@ includes.series = [
   # [x] THE IDOLM@STER MASTER ARTIST 4 12 水瀬伊織
   # [x] THE IDOLM@STER MASTER ARTIST 4 13 双海真美
   "THE IDOLM@STER MASTER ARTIST 4",
+]
+
+[[tag]]
+name = "THE IDOLM@STER Dearly Stars"
+type = "project"
+included-by = ["アイドルマスターシリーズ"]
+includes.series = [
+  #
+  # [x] THE IDOLM@STER DREAM SYMPHONY 00 (2009/09/09)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 01 (2009/10/14)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 02 (2009/11/04)
+  # [x] THE IDOLM@STER DREAM SYMPHONY 03 (2009/12/02)
+  "THE IDOLM@STER DREAM SYMPHONY",
 ]
