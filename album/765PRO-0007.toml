@@ -4,7 +4,7 @@ title = "アイドルマスター バースデーシリーズ Vol.2 如月千早
 edition = "アニメイト独占販売"
 artist = "如月千早（今井麻美）"
 date = 2007-04-24
-type = "normal"
+type = "drama"
 catalog = "765PRO-0007"
 tags = ["THE IDOLM@STER Birthday Series"]
 
@@ -14,46 +14,43 @@ catalog = "765PRO-0007"
 [[discs.tracks]]
 title = "開幕"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "オリビアを聴きながら"
+type = "normal"
 
 [[discs.tracks]]
 title = "幕間その1 ～苦悩～"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "空へ…"
+type = "normal"
 
 [[discs.tracks]]
 title = "幕間その2 ～問題発生！？～"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "Jupiter"
+type = "normal"
 
 [[discs.tracks]]
 title = "閉幕 ～感謝～"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "付随 ～如月千早の考察～"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "蛇"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
 
 [[discs.tracks]]
 title = "ふたりのもじぴったん"
+type = "normal"
 
 [[discs.tracks]]
 title = "足"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-type = "drama"
