@@ -1,0 +1,33 @@
+[album]
+album_id = "093323ea-b4ae-424d-9b1b-315cba341969"
+title = "手遅れcaution"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2018-05-16
+type = "normal"
+edition = "Type-C"
+catalog = "VVCL-1241"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1241"
+
+[[discs.tracks]]
+title = "手遅れcaution"
+
+[[discs.tracks]]
+title = "「部活中に目が合うなって思ってたんだ」"
+
+[[discs.tracks]]
+title = "樹愛羅、助けに来たぞ"
+
+[[discs.tracks]]
+title = "手遅れcaution (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "「部活中に目が合うなって思ってたんだ」 (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "樹愛羅、助けに来たぞ (instrumental)"
+type = "instrumental"

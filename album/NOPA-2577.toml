@@ -1,0 +1,40 @@
+[album]
+album_id = "da7dd00f-2d45-49b4-b5a4-ba1820881aa8"
+title = "君はこの夏、恋をする"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2021-07-14
+type = "normal"
+edition = "Special Edition"
+catalog = "NOPA-2577"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "NOPA-2577"
+
+[[discs.tracks]]
+title = "君はこの夏、恋をする"
+
+[[discs.tracks]]
+title = "ミラクル!"
+
+[[discs.tracks]]
+title = "薄明光線"
+
+[[discs.tracks]]
+title = "超絶ヒロイン"
+
+[[discs.tracks]]
+title = "君はこの夏、恋をする off vocal ver."
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミラクル! off vocal ver."
+type = "instrumental"
+
+[[discs.tracks]]
+title = "薄明光線 off vocal ver."
+type = "instrumental"
+
+[[discs.tracks]]
+title = "超絶ヒロイン off vocal ver."
+type = "instrumental"

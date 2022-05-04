@@ -1,0 +1,33 @@
+[album]
+album_id = "61d5b492-8e17-4ca4-9583-8313ecf9878b"
+title = "=LOVE"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2017-09-06
+type = "normal"
+edition = "Type-C"
+catalog = "VVCL-1112"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1112"
+
+[[discs.tracks]]
+title = "=LOVE"
+
+[[discs.tracks]]
+title = "記憶のどこかで"
+
+[[discs.tracks]]
+title = "スタート！"
+
+[[discs.tracks]]
+title = "=LOVE (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "記憶のどこかで (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スタート！ (instrumental)"
+type = "instrumental"

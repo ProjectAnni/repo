@@ -1,0 +1,44 @@
+[album]
+album_id = "19d888d0-e244-43dc-9c45-670c056643a4"
+title = "CAMEO"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2020-07-08
+type = "normal"
+edition = "Type-D"
+catalog = "VVCL-1656"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1656"
+
+[[discs.tracks]]
+title = "CAMEO"
+
+[[discs.tracks]]
+title = "「君と私の歌」"
+
+[[discs.tracks]]
+title = "My Voice Is For You"
+artist = "諸橋沙夏"
+
+[[discs.tracks]]
+title = "「君と僕の歌」"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+
+[[discs.tracks]]
+title = "CAMEO (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "「君と私の歌」 (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "My Voice Is For You (instrumental)"
+type = "instrumental"
+artist = "諸橋沙夏"
+
+[[discs.tracks]]
+title = "「君と僕の歌」 (instrumental)"
+type = "instrumental"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"

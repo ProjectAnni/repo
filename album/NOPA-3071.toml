@@ -1,0 +1,24 @@
+[album]
+album_id = "1aa43bba-b96d-4e55-be58-5c9e85b72ebf"
+title = "チョコレートメランコリー"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2022-02-16
+type = "normal"
+edition = "Special Edition"
+catalog = "NOPA-3071"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "NOPA-3071"
+
+[[discs.tracks]]
+title = "チョコレートメランコリー"
+
+[[discs.tracks]]
+title = "君はスパークル"
+
+[[discs.tracks]]
+title = "虹が架かる瞬間"
+
+[[discs.tracks]]
+title = "#おふしょるにっと"

@@ -1,0 +1,63 @@
+[album]
+album_id = "fce6085a-8e7c-4ea7-8004-4517a02eecd3"
+title = "Cipher"
+artist = "fhána（towana、kevin mitsunaga、佐藤純一、yuxuki waga）"
+date = 2022-04-27
+type = "normal"
+edition = "通常盤"
+catalog = "LACA-15946"
+tags = ["fhána"]
+
+[[discs]]
+catalog = "LACA-15946"
+
+[[discs.tracks]]
+title = "Cipher."
+
+[[discs.tracks]]
+title = "Air"
+
+[[discs.tracks]]
+title = "愛のシュプリーム!"
+
+[[discs.tracks]]
+title = "nameless color"
+
+[[discs.tracks]]
+title = "Unplugged"
+
+[[discs.tracks]]
+title = "真っ白"
+
+[[discs.tracks]]
+title = "GIVE ME LOVE (fhána Rainy Flow Ver.)"
+
+[[discs.tracks]]
+title = "星をあつめて"
+
+[[discs.tracks]]
+title = "Logos"
+
+[[discs.tracks]]
+title = "Pathos"
+
+[[discs.tracks]]
+title = "世界を変える夢を見て"
+
+[[discs.tracks]]
+title = "where you are"
+
+[[discs.tracks]]
+title = "願い事 –Album Ver.-"
+
+[[discs.tracks]]
+title = "僕を見つけて"
+
+[[discs.tracks]]
+title = "Choir Caravan with fhánamily"
+
+[[discs.tracks]]
+title = "Ethos"
+
+[[discs.tracks]]
+title = "Zero"

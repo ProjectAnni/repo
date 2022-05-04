@@ -1,0 +1,33 @@
+[album]
+album_id = "21056699-7a4a-4ef5-af14-ddc1ea2de31f"
+title = "僕らの制服クリスマス"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈、佐竹のん乃）"
+date = 2017-12-06
+type = "normal"
+edition = "Type-C"
+catalog = "VVCL-1139"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1139"
+
+[[discs.tracks]]
+title = "僕らの制服クリスマス"
+
+[[discs.tracks]]
+title = "届いてLOVE YOU♡"
+
+[[discs.tracks]]
+title = "ようこそ!イコラブ沼"
+
+[[discs.tracks]]
+title = "僕らの制服クリスマス (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "届いてLOVE YOU♡(instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ようこそ!イコラブ沼 (instrumental)"
+type = "instrumental"

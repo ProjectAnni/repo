@@ -1,0 +1,61 @@
+[album]
+album_id = "a5ab8f0b-23eb-4f19-ba96-3fd772d5a0b7"
+title = "全部、内緒。"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、齊藤なぎさ、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）"
+date = 2021-05-12
+type = "normal"
+edition = "Type-B"
+catalog = "VVCL-1858"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-1858"
+
+[[discs.tracks]]
+title = "Overture"
+type = "absolute"
+
+[[discs.tracks]]
+title = "桜の咲く音がした"
+
+[[discs.tracks]]
+title = "探せ ダイヤモンドリリー"
+
+[[discs.tracks]]
+title = "Oh! Darling"
+
+[[discs.tracks]]
+title = "青春“サブリミナル”"
+
+[[discs.tracks]]
+title = "セノビーインラブ"
+
+[[discs.tracks]]
+title = "CAMEO"
+
+[[discs.tracks]]
+title = "手遅れcaution"
+
+[[discs.tracks]]
+title = "ズルいよ ズルいね"
+
+[[discs.tracks]]
+title = "拝啓 貴方様"
+
+[[discs.tracks]]
+title = "24/7"
+
+[[discs.tracks]]
+title = "お姉さんじゃダメですか？"
+
+[[discs.tracks]]
+title = "Want you! Want you!"
+
+[[discs.tracks]]
+title = "cinema"
+
+[[discs.tracks]]
+title = "僕らの制服クリスマス"
+
+[[discs.tracks]]
+title = "=LOVE"

@@ -1,0 +1,40 @@
+[album]
+album_id = "5fb3d474-f1a9-4ea9-8b23-491080622e13"
+title = "超特急 ≠ME行き"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2021-04-07
+type = "normal"
+edition = "初回限定盤"
+catalog = "KICS-93996"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "KICS-93996"
+
+[[discs.tracks]]
+title = "Overture"
+type = "absolute"
+
+[[discs.tracks]]
+title = "「君の音だったんだ」"
+
+[[discs.tracks]]
+title = "「君と僕の歌」"
+
+[[discs.tracks]]
+title = "クルクルかき氷"
+
+[[discs.tracks]]
+title = "空白の花"
+
+[[discs.tracks]]
+title = "P.I.C."
+
+[[discs.tracks]]
+title = "自分賛歌"
+
+[[discs.tracks]]
+title = "秘密インシデント"
+
+[[discs.tracks]]
+title = "≠ME"
