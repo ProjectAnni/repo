@@ -1,0 +1,43 @@
+[album]
+album_id = "6c336259-295b-43c1-9ba1-16fbcc7d4d16"
+title = "THE IDOLM@STER MOVIE 輝きの向こう側へ! 特典CD「PERFECT IDOL THE MOVIE」"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、我那覇響（沼倉愛美）、秋月律子（若林直美）、プロデューサー（赤羽根健治）、矢吹可奈（木戸衣吹）、佐竹美奈子（大関英里）、横山奈緒（渡部優衣）、七尾百合子（伊藤美来）、北沢志保（雨宮天）、望月杏奈（夏川椎菜）、箱崎星梨花（麻倉もも）"
+date = 2014-10-08
+type = "normal"
+catalog = "ANZX-11504"
+tags = ["劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』"]
+
+[[discs]]
+catalog = "ANZX-11504"
+
+[[discs.tracks]]
+title = "M@STERPIECE -CLUB BOSSA NOVA Rearrange Mix-"
+artist = "水瀬伊織（釘宮理恵）、星井美希（長谷川明子）、三浦あずさ（たかはし智秋）、双海真美（下田麻美）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "虹色ミラクル -JAZZ FUSION Rearrange Mix-"
+artist = "萩原雪歩（浅倉杏美）、菊地真（平田宏美）、高槻やよい（仁後真耶子）、双海真美（下田麻美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "ラムネ色 青春 -CROSSOVER Rearrange Mix-"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ドラマ「765PROアリーナライブ『輝きの向こう側へ!』アンコール」#01"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ「765PROアリーナライブ『輝きの向こう側へ!』アンコール」#02"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ「765PROアリーナライブ『輝きの向こう側へ!』アンコール」#03"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ「765PROアリーナライブ『輝きの向こう側へ!』アンコール」#04"
+type = "drama"
+
+[[discs.tracks]]
+title = "ドラマ「765PROアリーナライブ『輝きの向こう側へ!』アンコール」#05"
+type = "drama"

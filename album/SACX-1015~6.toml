@@ -1,0 +1,279 @@
+[album]
+album_id = "d5262310-7473-4f76-91cc-32aebacc9c16"
+title = "THE IDOLM@STER MASTER BOX VII"
+artist = "Various Artists"
+date = 2011-06-25
+type = "normal"
+catalog = "SACX-1015~6"
+tags = ["THE IDOLM@STER MASTER BOX"]
+
+[[discs]]
+catalog = "SACX-1015"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "Colorful Days (オリジナル・カラオケ)"
+artist = "NBGI（佐々木宏人）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミはメロディ (オリジナル・カラオケ)"
+artist = "NBGI（内田哲也）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "またね (オリジナル・カラオケ)"
+artist = "NBGI（Yoshi）"
+type = "instrumental"
+
+[[discs]]
+catalog = "SACX-1016"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Colorful Days"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "キミはメロディ"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "またね"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "オーバーマスター"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "オーバーマスター (オリジナル・カラオケ)"
+artist = "NBGI（中川浩二）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "L・O・B・M (オリジナル・カラオケ)"
+artist = "NBGI（高田龍一）"
+type = "instrumental"

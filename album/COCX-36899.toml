@@ -1,0 +1,115 @@
+[album]
+album_id = "e8f2553f-ce20-4571-a35e-f53e50cf7811"
+title = "THE IDOLM@STER ANIM@TION MASTER 02"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2011-09-07
+type = "normal"
+catalog = "COCX-36899"
+tags = ["THE IDOLM@STER ANIM@TION MASTER"]
+
+[[discs]]
+catalog = "COCX-36899"
+
+[[discs.tracks]]
+title = "レッスン"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "READY!! (TV Size)"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "少女たち"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "The world is all one !! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "友情"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "私はアイドル♥ (M@STER VERSION)"
+artist = "水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "うれしい気持ち"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ポジティブ！ (M@STER VERSION)"
+artist = "水瀬伊織（釘宮理恵）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "なかよし"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ALRIGHT*"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "夢見るアイドル"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "First Stage (M@STER VERSION)"
+artist = "萩原雪歩（浅倉杏美）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "気乗りしない…"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "乙女よ大志を抱け！！"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "明るく楽しく"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "蒼い鳥 (M@STER VERSION) ～TV ARRANGE～"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "多忙な日々"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ゲンキです"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "神SUMMER!!"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）、萩原雪歩（浅倉杏美）、水瀬伊織（釘宮理恵）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "いつもの空"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "i (Piano Instrumental Version)"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "MOONY"
+artist = "如月千早（今井麻美）、三浦あずさ（たかはし智秋）、菊地真（平田宏美）、星井美希（長谷川明子）、我那覇響（沼倉愛美）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "音無小鳥の765プロ秘密レポート ～激動編～"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）、萩原雪歩（浅倉杏美）、音無小鳥（滝田樹里）"
+type = "drama"

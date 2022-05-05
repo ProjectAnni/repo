@@ -1,0 +1,17 @@
+[album]
+album_id = "fb351f0d-ed6a-45c3-af09-9e876fb01b89"
+title = "THE IDOLM@STER レンタル限定特別版CD"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2011-08-24
+type = "normal"
+catalog = "COCR-100"
+tags = ["THE IDOLM@STER ANIM@TION MASTER"]
+
+[[discs]]
+catalog = "COCR-100"
+
+[[discs.tracks]]
+title = "READY!! (TV size)"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER NON STOP HIT SONGS MEDLEY"

@@ -1,0 +1,27 @@
+[album]
+album_id = "8d71a8c7-8841-413e-8d8c-a8346da4d0b8"
+title = "THE IDOLM@STER ANIM@TION MASTER 04 CHANGE!!!!"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2011-11-09
+type = "normal"
+catalog = "COZC-597"
+tags = ["THE IDOLM@STER ANIM@TION MASTER"]
+
+[[discs]]
+catalog = "COZC-597"
+
+[[discs.tracks]]
+title = "CHANGE!!!! (M@STER VERSION)"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "We just started"
+artist = "星井美希（長谷川明子）、四条貴音（原由実）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "今 スタート！"
+artist = "如月千早（今井麻美）、三浦あずさ（たかはし智秋）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "CHANGE!!!! (M@STER VERSION) Instrumental"
+type = "instrumental"

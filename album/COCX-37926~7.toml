@@ -1,0 +1,109 @@
+[album]
+album_id = "bac5f150-5044-4977-b500-ac97c9046708"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 弦楽四重奏 初恋組曲"
+artist = "Various Artists"
+date = 2013-04-10
+type = "normal"
+catalog = "COCX-37926~7"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37926"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 序章"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 一章 片思いの桜"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 二章 告白の花火"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 三章 幸せの紅葉"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 四章 運命のイヴ"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 五章 永遠のクリスマス"
+
+[[discs.tracks]]
+title = "弦楽四重奏「初恋組曲」 終章"
+
+[[discs.tracks]]
+title = "初恋 ～一章 片思いの桜～ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初恋 ～二章 告白の花火～ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初恋 ～三章 幸せの紅葉～ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初恋 ～四章 運命のイヴ～ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初恋 ～五章 永遠のクリスマス～ (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs]]
+catalog = "COCX-37927"
+
+[[discs.tracks]]
+title = "初恋 ～一章 片思いの桜～ (美希ソロ・リミックス)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "初恋 ～一章 片思いの桜～ (貴音ソロ・リミックス)"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "初恋 ～一章 片思いの桜～ (響ソロ・リミックス)"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "初恋 ～二章 告白の花火～ (亜美ソロ・リミックス)"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "初恋 ～二章 告白の花火～ (伊織ソロ・リミックス)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "初恋 ～二章 告白の花火～ (あずさソロ・リミックス)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "初恋 ～三章 幸せの紅葉～ (やよいソロ・リミックス)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "初恋 ～三章 幸せの紅葉～ (律子ソロ・リミックス)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "初恋 ～四章 運命のイヴ～ (春香ソロ・リミックス)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "初恋 ～四章 運命のイヴ～ (真ソロ・リミックス)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "初恋 ～四章 運命のイヴ～ (真美ソロ・リミックス)"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "初恋 ～五章 永遠のクリスマス～ (千早ソロ・リミックス)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "初恋 ～五章 永遠のクリスマス～ (雪歩ソロ・リミックス)"
+artist = "萩原雪歩（浅倉杏美）"

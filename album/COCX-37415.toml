@@ -1,0 +1,72 @@
+[album]
+album_id = "11a8a665-9768-48af-8415-ae1bc6da8532"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 03"
+artist = "秋月律子（若林直美）、高槻やよい（仁後真耶子）"
+date = 2012-09-26
+type = "normal"
+catalog = "COCX-37415"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37415"
+
+[[discs.tracks]]
+title = "生っすか第三部OPトーク"
+type = "drama"
+
+[[discs.tracks]]
+title = "愛LIKEハンバーガー (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "やよいチャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "らびゅらびゅ"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Brand New Wave Upper Ground"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "スペシャルゲスト呼び込み"
+type = "drama"
+
+[[discs.tracks]]
+title = "YELL～エール～"
+artist = "プロデューサー（赤羽根健治）"
+
+[[discs.tracks]]
+title = "プロデューサーチャレンジのコーナー"
+artist = "秋月律子（若林直美）、高槻やよい（仁後真耶子）、プロデューサー（赤羽根健治）"
+type = "drama"
+
+[[discs.tracks]]
+title = "明日があるさ(ジョージアで行きましょう編)"
+artist = "プロデューサー（赤羽根健治）"
+
+[[discs.tracks]]
+title = "会いたい気持"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "トイレの神様"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "律子チャレンジのコーナー"
+artist = "秋月律子（若林直美）、高槻やよい（仁後真耶子）、プロデューサー（赤羽根健治）"
+type = "drama"
+
+[[discs.tracks]]
+title = "初恋 ～三章 幸せの紅葉～"
+
+[[discs.tracks]]
+title = "閑話休題"
+artist = "音無小鳥（滝田樹里）、菊地真（平田宏美）、プロデューサー（赤羽根健治）、秋月律子（若林直美）、高槻やよい（仁後真耶子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "愛LIKEハンバーガー(M@STER VERSION) オリジナル.カラオケ"
+type = "instrumental"

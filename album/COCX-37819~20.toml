@@ -1,0 +1,88 @@
+[album]
+album_id = "7f0a2b9e-231a-4e4a-b2e7-9e55120b3edb"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL CURTAIN CALL"
+artist = "Various Artists"
+date = 2013-01-30
+type = "normal"
+catalog = "COCX-37819~20"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37819"
+
+[[discs.tracks]]
+title = "生っすかカーテンコールOPトーク"
+artist = "天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、我那覇響（沼倉愛美）、秋月律子（若林直美）、音無小鳥（滝田樹里）"
+type = "drama"
+
+[[discs.tracks]]
+title = "We Have A Dream (M@STER VERSION)"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "We just started (美希ソロ・リミックス)"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "I'm so free! (あずさソロ・リミックス)"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "今 スタート！ (千早ソロ・リミックス)"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Slapp Happy!!! (やよいソロ・リミックス)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "君のままで (春香ソロ・リミックス)"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "First Step"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs]]
+catalog = "COCX-37820"
+
+[[discs.tracks]]
+title = "コーヒー1杯のイマージュ (響ソロ・リミックス)"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "おとなのはじまり (亜美ソロ・リミックス)"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "おもいでのはじまり (真ソロ・リミックス)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "神SUMMER!! (真美ソロ・リミックス)"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "MOONY (律子ソロ・リミックス)"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Happy Christmas (貴音ソロ・リミックス)"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "My Wish (伊織ソロ・リミックス)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "幸"
+artist = "音無小鳥（滝田樹里）"
+
+[[discs.tracks]]
+title = "カーテンコール"
+artist = "菊地真（平田宏美）、水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、秋月律子（若林直美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "ボーナストラック"
+artist = "プロデューサー（赤羽根健治）、天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、我那覇響（沼倉愛美）、秋月律子（若林直美）、音無小鳥（滝田樹里）"
+type = "drama"

@@ -1,0 +1,339 @@
+[album]
+album_id = "1081a369-edb5-4020-b3ff-86f124f02f6c"
+title = "THE IDOLM@STER No Make!"
+artist = "Various Artists"
+date = 2012-06-23
+type = "drama"
+catalog = "SACX-1017~8"
+tags = ["アニメ「アイドルマスター」"]
+
+[[discs]]
+catalog = "SACX-1017"
+
+# Episode 1「これからが彼女たちのはじまり」
+[[discs.tracks]]
+title = "取材終了後の天海春香"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "響とハム蔵の反省会"
+artist = "我那覇響（沼倉愛美）、秋月律子（若林直美）、ハム蔵"
+
+[[discs.tracks]]
+title = "律子と美希の日常"
+artist = "星井美希（長谷川明子）、秋月律子（若林直美）"
+
+# Episode 2「"準備"をはじめた少女たち」
+[[discs.tracks]]
+title = "クマやよい"
+artist = "高槻やよい（仁後真耶子）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "宣材撮影後の控え室"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "春香たちのその後"
+artist = "天海春香（中村繪里子）、如月千早（今井麻美）"
+
+# Episode 3「すべては一歩の勇気から」
+[[discs.tracks]]
+title = "夏祭りのワンシーン"
+artist = "四条貴音（原由実）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "雪歩はいったいどこ？"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "雪歩、着替え中"
+artist = "萩原雪歩（浅倉杏美）、秋月律子（若林直美）"
+
+# Episode 4「自分を変えるということ」
+[[discs.tracks]]
+title = "ゲロゲロキッチン、収録前夜"
+artist = "我那覇響（沼倉愛美）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "真&亜美真美、ゲロゲロキッチン視聴中"
+artist = "菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "打ち上げはスイーツで？"
+artist = "星井美希（長谷川明子）、萩原雪歩（浅倉杏美）"
+
+# Episode 5「みんなとすごす夏休み」
+[[discs.tracks]]
+title = "海辺の2人"
+artist = "三浦あずさ（たかはし智秋）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "BBQでの決意"
+artist = "高槻やよい（仁後真耶子）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "月夜の真実"
+artist = "四条貴音（原由実）、天海春香（中村繪里子）"
+
+# Episode 6「先に進むという選択」
+[[discs.tracks]]
+title = "竜宮小町・忙しい日々①"
+artist = "双海亜美（下田麻美）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "竜宮小町・忙しい日々②"
+artist = "三浦あずさ（たかはし智秋）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "雪歩、奮闘中"
+artist = "萩原雪歩（浅倉杏美）"
+
+# Episode 7「大好きなもの、大切なもの」
+[[discs.tracks]]
+title = "やよいのお財布"
+artist = "我那覇響（沼倉愛美）、高槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "TVを見ている春香と雪歩"
+artist = "萩原雪歩（浅倉杏美）、天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "TV放送後の反響"
+artist = "菊地真（平田宏美）、水瀬伊織（釘宮理恵）"
+
+# Episode 8「しあわせへの回り道」
+[[discs.tracks]]
+title = "撮影前日"
+artist = "三浦あずさ（たかはし智秋）、双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "真の心配事"
+artist = "菊地真（平田宏美）、星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "雑誌発売後、事務所でのひととき"
+artist = "星井美希（長谷川明子）、秋月律子（若林直美）、四条貴音（原由実）"
+
+# Episode 9「ふたりだから出来ること」
+[[discs.tracks]]
+title = "事件の前に～亜美と真美の欲しいモノ"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "事件の中心～伊織がプリンを買ったワケ"
+artist = "水瀬伊織（釘宮理恵）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "事件の余所に～仕事中の千早と美希"
+artist = "如月千早（今井麻美）、星井美希（長谷川明子）"
+
+# Episode 10「みんなで、少しでも前へ」
+[[discs.tracks]]
+title = "真と雪歩のRoad to 運動会!"
+artist = "菊地真（平田宏美）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "真とあずさのRoad to 運動会!"
+artist = "菊地真（平田宏美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "真と美希のRoad to 運動会!"
+artist = "菊地真（平田宏美）、星井美希（長谷川明子）"
+
+# Episode 11「期待、不安、そして予兆」
+[[discs.tracks]]
+title = "美希、全力でレッスン中!"
+artist = "星井美希（長谷川明子）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "影の功労者"
+artist = "高槻やよい（仁後真耶子）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "響と真美の帰り道"
+artist = "我那覇響（沼倉愛美）、双海真美（下田麻美）"
+
+# Episode 12「一方通行の終着点」
+[[discs.tracks]]
+title = "新しい衣装、新しい目標"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "ハム蔵のお悩み相談室"
+artist = "秋月律子（若林直美）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "千早の思い"
+artist = "如月千早（今井麻美）、萩原雪歩（浅倉杏美）"
+
+# Episode 13「そして、彼女たちはきらめくステージへ」
+[[discs.tracks]]
+title = "Are You Ready !? ①"
+artist = "天海春香（中村繪里子）、双海真美（下田麻美）、菊地真（平田宏美）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "Are You Ready !? ②"
+artist = "如月千早（今井麻美）、星井美希（長谷川明子）、高槻やよい（仁後真耶子）、我那覇響（沼倉愛美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Are You Ready !? ③"
+artist = "星井美希（長谷川明子）、天海春香（中村繪里子）"
+
+[[discs]]
+catalog = "SACX-1018"
+
+# Episode 14「変わりはじめた世界!」
+[[discs.tracks]]
+title = "CHANGE!!!! ①"
+artist = "如月千早（今井麻美）、萩原雪歩（浅倉杏美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "CHANGE!!!! ②"
+artist = "天海春香（中村繪里子）、高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "CHANGE!!!! ③"
+artist = "菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、我那覇響（沼倉愛美）、星井美希（長谷川明子）"
+
+# Episode 15「みんな揃って、生放送ですよ生放送!」
+[[discs.tracks]]
+title = "あずさのヒラメキ"
+artist = "水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "響に迫る黒い影"
+artist = "我那覇響（沼倉愛美）、ハム蔵"
+
+[[discs.tracks]]
+title = "続・菊地真改造計画"
+artist = "萩原雪歩（浅倉杏美）、菊地真（平田宏美）、星井美希（長谷川明子）"
+
+# Episode 16「ひとりぼっちの気持ち」
+[[discs.tracks]]
+title = "雪歩といぬ美"
+artist = "萩原雪歩（浅倉杏美）、天海春香（中村繪里子）、秋月律子（若林直美）、双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "亜美と真美"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）、秋月律子（若林直美）、天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "踏切にて"
+artist = "如月千早（今井麻美）、高槻やよい（仁後真耶子）"
+
+# Episode 17「真、まことの王子様」
+[[discs.tracks]]
+title = "ニアミス"
+artist = "我那覇響（沼倉愛美）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "恐怖のメール"
+artist = "天海春香（中村繪里子）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "大人の魅力"
+artist = "高槻やよい（仁後真耶子）、三浦あずさ（たかはし智秋）"
+
+# Episode 18「たくさんの、いっぱい」
+[[discs.tracks]]
+title = "お見舞い"
+artist = "三浦あずさ（たかはし智秋）、如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "立場逆転"
+artist = "秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、天海春香（中村繪里子）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "サプライズ大作戦"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、双海真美（下田麻美）、星井美希（長谷川明子）"
+
+# Episode 19「雲間に隠れる月の如く」
+[[discs.tracks]]
+title = "1日署長、その後"
+artist = "四条貴音（原由実）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "ダブルリボンと唐揚"
+artist = "四条貴音（原由実）、天海春香（中村繪里子）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "響の秘密？"
+artist = "四条貴音（原由実）、我那覇響（沼倉愛美）、高槻やよい（仁後真耶子）"
+
+# Episode 20「約束」
+[[discs.tracks]]
+title = "千早のために ①"
+artist = "天海春香（中村繪里子）、水瀬伊織（釘宮理恵）、菊地真（平田宏美）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "千早のために ②"
+artist = "四条貴音（原由実）、星井美希（長谷川明子）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "千早のために ③"
+artist = "高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）"
+
+# Episode 21「まるで花が咲くように」
+[[discs.tracks]]
+title = "大人になるということ"
+artist = "双海亜美（下田麻美）、高槻やよい（仁後真耶子）、秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "あまとう？"
+artist = "水瀬伊織（釘宮理恵）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "たどり着きたい未来"
+artist = "四条貴音（原由実）、三浦あずさ（たかはし智秋）"
+
+# Episode 22「聖夜の夜に」
+[[discs.tracks]]
+title = "クリスマスは家族と一緒に"
+artist = "菊地真（平田宏美）、我那覇響（沼倉愛美）、高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "竜宮小町のプレゼント選び"
+artist = "水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "クリスマスバースデイ"
+artist = "萩原雪歩（浅倉杏美）、双海真美（下田麻美）、如月千早（今井麻美）"
+
+# Episode 23「私」
+[[discs.tracks]]
+title = "電話 ①"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "電話 ②"
+artist = "我那覇響（沼倉愛美）、ハム蔵"
+
+[[discs.tracks]]
+title = "電話 ③"
+artist = "秋月律子（若林直美）"
+
+# Episode 24「夢」
+[[discs.tracks]]
+title = "あなたの代わりに ①"
+artist = "音無小鳥（滝田樹里）、高槻やよい（仁後真耶子）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "あなたの代わりに ②"
+artist = "音無小鳥（滝田樹里）、菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "あなたの代わりに ③"
+artist = "音無小鳥（滝田樹里）、プロデューサー（赤羽根健治）"
+
+# Episode 25「みんなと、いっしょに！」
+[[discs.tracks]]
+title = "私たちのプロデューサーさんへ ①"
+artist = "我那覇響（沼倉愛美）、水瀬伊織（釘宮理恵）、双海亜美（下田麻美）、天海春香（中村繪里子）、四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "私たちのプロデューサーさんへ ②"
+artist = "萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海真美（下田麻美）、双海亜美（下田麻美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "私たちのプロデューサーさんへ ③"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"

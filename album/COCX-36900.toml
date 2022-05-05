@@ -1,0 +1,117 @@
+[album]
+album_id = "07e18f62-5a59-4454-b60f-462c039085ed"
+title = "THE IDOLM@STER ANIM@TION MASTER 03"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2011-10-05
+type = "normal"
+catalog = "COCX-36900"
+tags = ["THE IDOLM@STER ANIM@TION MASTER"]
+
+[[discs]]
+catalog = "COCX-36900"
+
+[[discs.tracks]]
+title = "真剣なまなざし"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "SMOKY THRILL (M@STER VERSION)"
+artist = "竜宮小町（水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美））"
+
+[[discs.tracks]]
+title = "プロデューサー、走る！"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER"
+
+[[discs.tracks]]
+title = "いつも明るい"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "キラメキラリ"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "心情"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "おはよう！！朝ご飯 (M@STER VERSION)"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "緊迫感"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "晴れ色"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "エージェント夜を往く (M@STER VERSION)"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "迷走Mind"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "shiny smile (REM@STER-A)"
+artist = "菊地真（平田宏美）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ガンバル…"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ハニカミ！ファーストバイト"
+artist = "竜宮小町（水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、双海亜美（下田麻美））"
+
+[[discs.tracks]]
+title = "トラブル"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Next Life (Instrumental)"
+artist = "NBGI（遠山明孝）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "感情ダウン"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "黎明スターライン"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER(BGM Version)"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "L・O・B・M"
+
+[[discs.tracks]]
+title = "がんばるアイドルたち"
+artist = "高田龍一"
+type = "absolute"
+
+[[discs.tracks]]
+title = "GO MY WAY!!"
+artist = "765+876PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵）、日高愛（戸松遥）、水谷絵理（花澤香菜）、秋月涼（三瓶由布子））"
+
+[[discs.tracks]]
+title = "音無小鳥の765プロ秘密レポート～世紀末救世主編～"
+artist = "槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）、音無小鳥（滝田樹里）"
+type = "drama"

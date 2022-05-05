@@ -1,15 +1,14 @@
 [album]
-album_id = "4f4ebd6b-1de1-472f-9d06-1c6cbb1b0ecc"
+album_id = "7a346969-d7b2-45aa-9af1-b39f52a351ca"
 title = "アイドルマスター バースデーシリーズ Vol.2 如月千早 Gratitude"
-edition = "アニメイト独占販売"
 artist = "如月千早（今井麻美）"
-date = 2007-04-24
+date = 2006-04-24
 type = "drama"
-catalog = "765PRO-0007"
+catalog = "765PRO-0001"
 tags = ["THE IDOLM@STER Birthday Series"]
 
 [[discs]]
-catalog = "765PRO-0007"
+catalog = "765PRO-0001"
 
 [[discs.tracks]]
 title = "開幕"
@@ -41,16 +40,4 @@ artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
 
 [[discs.tracks]]
 title = "付随 ～如月千早の考察～"
-artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-
-[[discs.tracks]]
-title = "蛇"
-artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"
-
-[[discs.tracks]]
-title = "ふたりのもじぴったん"
-type = "normal"
-
-[[discs.tracks]]
-title = "足"
 artist = "如月千早（今井麻美）、音無小鳥（滝田樹里）"

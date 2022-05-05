@@ -1,0 +1,67 @@
+[album]
+album_id = "e25ed8d4-9c16-4f75-9519-7912672a73d4"
+title = "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 04"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）、双海真美（下田麻美）"
+date = 2012-10-17
+type = "normal"
+catalog = "COCX-37416"
+tags = ["THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL"]
+
+[[discs]]
+catalog = "COCX-37416"
+
+[[discs.tracks]]
+title = "生っすか第四部OPトーク"
+type = "drama"
+
+[[discs.tracks]]
+title = "Honey Heartbeat (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "春香チャレンジのコーナー"
+artist = "天海春香（中村繪里子）、菊地真（平田宏美）、双海真美（下田麻美）、双海亜美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "天使のゆびきり"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Groovin' Magic"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "可能性ガール"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "真美チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "未来の地図"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "TOMORROW"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "未来予想図II"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "真チャレンジのコーナー"
+type = "drama"
+
+[[discs.tracks]]
+title = "初恋 ～四章 運命のイヴ～"
+
+[[discs.tracks]]
+title = "閑話休題"
+artist = "プロデューサー（赤羽根健治）、音無小鳥（滝田樹里）、萩原雪歩（浅倉杏美）、天海春香（中村繪里子）、菊地真（平田宏美）、双海真美（下田麻美）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Honey Heartbeat (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"

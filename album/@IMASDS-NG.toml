@@ -1,0 +1,23 @@
+[album]
+album_id = "1787c3ec-f6ed-4d82-8b3d-48c44029fb04"
+title = "アイドルマスター Neue Green 第3巻 限定版 特典ドラマCD"
+artist = "秋月涼（三瓶由布子）、日高愛（戸松遥）、水谷絵理（花澤香菜）、桜井夢子（矢作紗友里）、武田蒼一（鈴木達央）"
+date = 2011-07-27
+type = "drama"
+catalog = "@IMASDS-NG"
+tags = ["THE IDOLM@STER Dearly Stars"]
+
+[[discs]]
+catalog = "@IMASDS-NG"
+
+[[discs.tracks]]
+title = "ドラマ 01"
+
+[[discs.tracks]]
+title = "ドラマ 02"
+
+[[discs.tracks]]
+title = "ドラマ 03"
+
+[[discs.tracks]]
+title = "ドラマ 04"
