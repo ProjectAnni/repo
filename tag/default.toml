@@ -526,6 +526,13 @@ type = "project"
 includes.animation = ["デート・ア・ライブIV"]
 
 [[tag]]
+name = "歴史秘話ヒストリア"
+type = "project"
+
+################################################################################
+# Organization
+#
+[[tag]]
 name = "Navel"
 type = "organization"
 includes.game = [
