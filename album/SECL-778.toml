@@ -1,0 +1,95 @@
+[album]
+album_id = "428f205b-f907-4009-95aa-5fc57d6992ab"
+title = "歴史秘話ヒストリア オリジナル・サウンドトラック"
+artist = "梶浦由記"
+date = 2009-08-26
+type = "absolute"
+catalog = "SECL-778"
+tags = ["歴史秘話ヒストリア"]
+
+[[discs]]
+catalog = "SECL-778"
+
+[[discs.tracks]]
+title = "Historia:opening theme"
+
+[[discs.tracks]]
+title = "secret episodes"
+
+[[discs.tracks]]
+title = "one morning...."
+
+[[discs.tracks]]
+title = "frenetic"
+
+[[discs.tracks]]
+title = "dawn is falling"
+
+[[discs.tracks]]
+title = "dance of the time"
+
+[[discs.tracks]]
+title = "where I stand"
+
+[[discs.tracks]]
+title = "tears～op theme #2"
+
+[[discs.tracks]]
+title = "looking for something"
+
+[[discs.tracks]]
+title = "complications"
+
+[[discs.tracks]]
+title = "despair"
+
+[[discs.tracks]]
+title = "remember me"
+
+[[discs.tracks]]
+title = "for this day"
+
+[[discs.tracks]]
+title = "tell me more～op theme #3"
+
+[[discs.tracks]]
+title = "ordinary dream"
+
+[[discs.tracks]]
+title = "innocent days"
+
+[[discs.tracks]]
+title = "ominous"
+
+[[discs.tracks]]
+title = "where my story begins～op theme #4"
+
+[[discs.tracks]]
+title = "walk on your destiny"
+
+[[discs.tracks]]
+title = "where are you now?"
+
+[[discs.tracks]]
+title = "dreamcatcher"
+
+[[discs.tracks]]
+title = "the moving era"
+
+[[discs.tracks]]
+title = "going against your mind"
+
+[[discs.tracks]]
+title = "homecoming"
+
+[[discs.tracks]]
+title = "faith"
+
+[[discs.tracks]]
+title = "into the light"
+
+[[discs.tracks]]
+title = "peace in my mind"
+
+[[discs.tracks]]
+title = "Historia:closing theme"

@@ -1,0 +1,93 @@
+[album]
+album_id = "04239717-fe21-430b-aa75-53d4b0e7e68e"
+title = "歴史秘話ヒストリア オリジナル・サウンドトラック2"
+artist = "梶浦由記"
+date = 2011-04-13
+type = "absolute"
+catalog = "SECL-962"
+tags = ["歴史秘話ヒストリア"]
+
+[[discs]]
+catalog = "SECL-962"
+
+[[discs.tracks]]
+title = "until you find a light ～op theme #5"
+
+[[discs.tracks]]
+title = "one small life"
+
+[[discs.tracks]]
+title = "storia"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+type = "normal"
+
+[[discs.tracks]]
+title = "chaotic"
+
+[[discs.tracks]]
+title = "jubilee"
+
+[[discs.tracks]]
+title = "noisy and unrest"
+
+[[discs.tracks]]
+title = "a forced march"
+
+[[discs.tracks]]
+title = "the coming ruin"
+
+[[discs.tracks]]
+title = "I am a small boat on a river"
+
+[[discs.tracks]]
+title = "a will to go ～op theme #6"
+
+[[discs.tracks]]
+title = "a reckless passion"
+
+[[discs.tracks]]
+title = "the outbreak"
+
+[[discs.tracks]]
+title = "you can go your own way"
+
+[[discs.tracks]]
+title = "foreboding"
+
+[[discs.tracks]]
+title = "mysterious"
+
+[[discs.tracks]]
+title = "looking back to the past"
+
+[[discs.tracks]]
+title = "bad things that should happen"
+
+[[discs.tracks]]
+title = "town of vigor"
+
+[[discs.tracks]]
+title = "creative power"
+
+[[discs.tracks]]
+title = "break down the door"
+
+[[discs.tracks]]
+title = "must go ahead, somehow"
+
+[[discs.tracks]]
+title = "the breath of the era"
+
+[[discs.tracks]]
+title = "a fruitless love"
+
+[[discs.tracks]]
+title = "to the next door ～op theme #7"
+
+[[discs.tracks]]
+title = "a tiny light"
+
+[[discs.tracks]]
+title = "symphonia TV ver."
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+type = "normal"

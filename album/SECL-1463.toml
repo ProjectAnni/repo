@@ -1,0 +1,78 @@
+[album]
+album_id = "06b32173-8e3e-4818-8dd8-22608afdc32d"
+title = "歴史秘話ヒストリア オリジナル・サウンドトラック3"
+artist = "梶浦由記"
+date = 2014-02-19
+type = "absolute"
+catalog = "SECL-1463"
+tags = ["歴史秘話ヒストリア"]
+
+[[discs]]
+catalog = "SECL-1463"
+
+[[discs.tracks]]
+title = "storia TV ver."
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+type = "normal"
+
+[[discs.tracks]]
+title = "forgotten stories"
+
+[[discs.tracks]]
+title = "tender days"
+
+[[discs.tracks]]
+title = "rising up"
+
+[[discs.tracks]]
+title = "make your resolution"
+
+[[discs.tracks]]
+title = "you are here"
+
+[[discs.tracks]]
+title = "a door to the past"
+
+[[discs.tracks]]
+title = "dancing in the age of war"
+
+[[discs.tracks]]
+title = "forgotten stories #2"
+
+[[discs.tracks]]
+title = "tidbit"
+
+[[discs.tracks]]
+title = "yoshiwara"
+
+[[discs.tracks]]
+title = "a long goodbye"
+
+[[discs.tracks]]
+title = "make up your mind"
+
+[[discs.tracks]]
+title = "data-war"
+
+[[discs.tracks]]
+title = "deadlock"
+
+[[discs.tracks]]
+title = "fight it out"
+
+[[discs.tracks]]
+title = "progress"
+
+[[discs.tracks]]
+title = "my land"
+
+[[discs.tracks]]
+title = "distant memories"
+
+[[discs.tracks]]
+title = "what she has left"
+
+[[discs.tracks]]
+title = "夢の大地"
+artist = "Kalafina（Wakana、Keiko、Hikaru）"
+type = "normal"
