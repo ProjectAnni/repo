@@ -1,0 +1,15 @@
+[album]
+album_id = "cad17e26-9573-4bb7-9da4-2bcde71a0594"
+title = "REAL-EYES"
+artist = "水瀬いのり"
+date = 2022-01-09
+type = "normal"
+catalog = "NOPA-2803"
+tags = ["水瀬いのり", "TVアニメ「現実主義勇者の王国再建記」第二部"]
+
+[[discs]]
+catalog = "NOPA-2803"
+
+[[discs.tracks]]
+title = "REAL-EYES"
+tags = ["OP"]
