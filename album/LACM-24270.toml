@@ -1,0 +1,25 @@
+[album]
+album_id = "b8d481db-4a51-4529-9dcc-c1b40ac7aff3"
+title = "ENJOY IT!"
+artist = "QU4RTZ（近江彼方（鬼頭明里）、中須かすみ（相良茉優）、天王寺璃奈（田中ちえ美）、エマ・ヴェルデ（指出毬亜））"
+date = 2022-05-11
+type = "normal"
+catalog = "LACM-24270"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期"]
+
+[[discs]]
+catalog = "LACM-24270"
+
+[[discs.tracks]]
+title = "ENJOY IT!"
+
+[[discs.tracks]]
+title = "4 SEASONS"
+
+[[discs.tracks]]
+title = "ENJOY IT! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "4 SEASONS (Off Vocal)"
+type = "instrumental"
