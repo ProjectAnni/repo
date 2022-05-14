@@ -1,0 +1,23 @@
+[album]
+album_id = "f4d7b04e-d6ef-4ace-a77d-9c074d0aee14"
+title = "Love-Evidence"
+artist = "雨宮天"
+date = 2022-05-11
+type = "normal"
+edition = "通常盤"
+catalog = "SMCL-763"
+tags = ["雨宮天", "理系が恋に落ちたので証明してみた"]
+
+[[discs]]
+catalog = "SMCL-763"
+
+[[discs.tracks]]
+title = "Love-Evidence"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "SOS"
+
+[[discs.tracks]]
+title = "Love-Evidence (Instrumental)"
+type = "instrumental"
