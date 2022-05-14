@@ -1,0 +1,29 @@
+[album]
+album_id = "23342661-6c2d-4877-a25a-7c6a7fc17fc1"
+title = "ODDS&ENDS"
+artist = "初音ミク"
+date = 2012-08-29
+type = "normal"
+catalog = "MHCL-2133"
+tags = ["初音ミク"]
+
+[[discs]]
+catalog = "MHCL-2133"
+
+[[discs.tracks]]
+title = "ODDS&ENDS"
+tags = ["ryo"]
+
+[[discs.tracks]]
+title = "Sky of Beginning"
+tags = ["じん"]
+
+[[discs.tracks]]
+title = "ODDS&ENDS (Instrumental)"
+type = "instrumental"
+tags = ["ryo"]
+
+[[discs.tracks]]
+title = "Sky of Beginning (Instrumental)"
+type = "instrumental"
+tags = ["じん"]
