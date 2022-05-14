@@ -1,0 +1,38 @@
+[album]
+album_id = "934655d9-9132-457f-a1cc-01ce27a3a570"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 02"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+date = 2022-05-11
+type = "normal"
+catalog = "LACM-24252"
+tags = ["イルミネーションスターズ", "THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24252"
+
+[[discs.tracks]]
+title = "FELICE"
+
+[[discs.tracks]]
+title = "イルミネイトコンサート"
+
+[[discs.tracks]]
+title = "虹の行方 (イルミネーションスターズVer.)"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「結構なお点前で」"
+type = "drama"
+
+[[discs.tracks]]
+title = "FELICE (Off Vocal)"
+artists.composer = "丸山真由子"
+artists.arranger = "清水武仁"
+artists.lyricist = "渡邊亜希子"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "イルミネイトコンサート (Off Vocal)"
+artists.composer = "渡辺徹"
+artists.arranger = "渡辺徹"
+artists.lyricist = "渡邊亜希子"
+type = "instrumental"

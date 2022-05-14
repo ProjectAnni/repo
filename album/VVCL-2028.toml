@@ -1,0 +1,39 @@
+[album]
+album_id = "71744d42-95e8-4d7d-907e-2c28d5ce03cf"
+title = "Naked"
+artist = "ReoNa"
+date = 2022-05-11
+type = "normal"
+catalog = "VVCL-2028"
+tags = ["ReoNa"]
+
+[[discs]]
+catalog = "VVCL-2028"
+
+[[discs.tracks]]
+title = "ライフ・イズ・ビューティフォー"
+
+[[discs.tracks]]
+title = "テディ"
+
+[[discs.tracks]]
+title = "Someday"
+
+[[discs.tracks]]
+title = "ANIMA -Naked Style.-"
+
+[[discs.tracks]]
+title = "ライフ・イズ・ビューティフォー -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "テディ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Someday -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ANIMA -Naked Style.- -Instrumental-"
+type = "instrumental"

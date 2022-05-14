@@ -1,0 +1,59 @@
+[album]
+album_id = "42978022-5b58-4ca8-9126-7394204b42b9"
+title = "Leo／need SEKAI ALBUM vol.1"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、初音ミク"
+date = 2022-05-11
+type = "normal"
+catalog = "BRMM-10497"
+tags = ["Leo/need"]
+
+[[discs]]
+catalog = "BRMM-10497"
+
+[[discs.tracks]]
+title = "ロキ"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "テオ"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "ヒバナ -Reloaded-"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "アスノヨゾラ哨戒班"
+artist = "星乃一歌（野口瑠璃子）"
+
+[[discs.tracks]]
+title = "青く駆けろ！"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "ウミユリ海底譚"
+artist = "星乃一歌（野口瑠璃子）、望月穂波（上田麗奈）、初音ミク"
+
+[[discs.tracks]]
+title = "ドラマツルギー"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "タイムマシン"
+artist = "星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、初音ミク"
+
+[[discs.tracks]]
+title = "from Y to Y"
+artist = "星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴）、初音ミク"
+
+[[discs.tracks]]
+title = "いかないで"
+artist = "星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、初音ミク"
+
+[[discs.tracks]]
+title = "六兆年と一夜物語"
+artist = "星乃一歌（野口瑠璃子）、初音ミク"
+
+[[discs.tracks]]
+title = "カゲロウデイズ"
+artist = "星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴）、初音ミク"
