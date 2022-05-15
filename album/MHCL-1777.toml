@@ -12,18 +12,22 @@ catalog = "MHCL-1777"
 
 [[discs.tracks]]
 title = "こっち向いて Baby"
+artist = "ryo、初音ミク"
 tags = ["ryo"]
 
 [[discs.tracks]]
 title = "Yellow"
+artist = "kz、初音ミク"
 tags = ["kz"]
 
 [[discs.tracks]]
 title = "ブラック★ロックシューター 2M MIX"
+artist = "ryo、初音ミク"
 tags = ["ryo"]
 
 [[discs.tracks]]
 title = "I Wanna Be Your World"
+artist = "kz、初音ミク"
 tags = ["kz"]
 
 [[discs.tracks]]

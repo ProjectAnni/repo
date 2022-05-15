@@ -12,10 +12,12 @@ catalog = "MHCL-2133"
 
 [[discs.tracks]]
 title = "ODDS&ENDS"
+artist = "ryo、初音ミク"
 tags = ["ryo"]
 
 [[discs.tracks]]
 title = "Sky of Beginning"
+artist = "じん、初音ミク"
 tags = ["じん"]
 
 [[discs.tracks]]
