@@ -1,0 +1,18 @@
+[album]
+album_id = "920d57fa-b342-45a1-ba7e-7cf790e81d6e"
+title = "ご注文は魔法少女ですか？イメージソング 魔法少女チノ"
+artist = "魔法少女チノ（水瀬いのり）"
+date = 2015-08-14
+type = "normal"
+catalog = "@GCUS-C88"
+tags = ["ご注文はうさぎですか？"]
+
+[[discs]]
+catalog = "@GCUS-C88"
+
+[[discs.tracks]]
+title = "魔法少女チノ"
+
+[[discs.tracks]]
+title = "魔法少女チノ (Inst.)"
+type = "instrumental"
