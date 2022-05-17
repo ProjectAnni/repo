@@ -5,10 +5,9 @@ artist = ""
 date = 2022-01-05
 type = "normal"
 catalog = "PCCG-02079"
-tags = ["平家物語", "牛尾憲輔", "後藤幸浩"]
+tags = ["平家物語"]
 
 [[discs]]
-title = "Disc 1 [PCCG-02079-1]"
 catalog = "PCCG-02079"
 
 [[discs.tracks]]
@@ -132,7 +131,6 @@ title = "requiem phases"
 artist = ""
 
 [[discs]]
-title = "Disc 2 [PCCG-02079-2]"
 catalog = "PCCG-02079"
 
 [[discs.tracks]]
@@ -142,46 +140,57 @@ artist = ""
 [[discs.tracks]]
 title = "horsemen encounter the regent (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "Gio (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "petitioning with sacred palanquins (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the matter of Shunkan (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the battle at the bridge (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "Owada Harbor"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "Fuji river (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the descent into Kurikara (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the death of Atsumori (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the battle at Dan no ura (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "the drowning of the former emperor (inst)"
 artist = ""
+type = "instrumental"
 
 [[discs.tracks]]
 title = "purple clouds"

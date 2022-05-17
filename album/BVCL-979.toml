@@ -1,126 +1,166 @@
 [album]
 album_id = "252b18f8-c405-48b3-8eb2-7992eac06295"
 title = "HELLO WORLD ORIGINAL MOTION PICTURE SOUNDTRACK"
-artist = ""
+artist = "2027Sound"
 date = 2019-09-18
-type = "normal"
+type = "absolute"
 catalog = "BVCL-979"
 tags = ["HELLO WORLD"]
 
 [[discs]]
-title = "Disc 1"
 catalog = "BVCL-979"
 
 [[discs.tracks]]
 title = "オープニングテーマ feat.AAAMYYY"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "弱気な直実"
+artist = "BRIAN SHINSEKAI"
 
 [[discs.tracks]]
 title = "直実の楽しい時間"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "三本足のカラス"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "謎の男・逃げる直実"
+artist = "オカモトレイジ"
 
 [[discs.tracks]]
 title = "クロニクル京都"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "謎の男の正体"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "マイペースな瑠璃"
+artist = "BRIAN SHINSEKAI"
 
 [[discs.tracks]]
 title = "ナオミの目的"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "特訓I 不思議な手袋"
+artist = "STUTS、ハマ・オカモト"
 
 [[discs.tracks]]
 title = "グッドデザイン"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "イエスタデイ (Movie ver.)"
+artist = "Official髭男dism"
+type = "normal"
 
 [[discs.tracks]]
 title = "特訓II 成長"
+artist = "STUTS、ハマ・オカモト"
 
 [[discs.tracks]]
 title = "恋の予感"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "特訓III 銅から金へ"
+artist = "STUTS、ハマ・オカモト"
 
 [[discs.tracks]]
 title = "古本集め"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "A Time For Love"
+artist = "BRIAN SHINSEKAI"
 
 [[discs.tracks]]
 title = "図書委員たちと本運び"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "瑠璃のために"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "倒れる直実"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "直実告白、両思いに"
+artist = "Official髭男dism"
 
 [[discs.tracks]]
 title = "宇治川花火大会"
+artist = "オカモトレイジ"
 
 [[discs.tracks]]
 title = "直実 vs 狐面"
+artist = "OBKR,STUTS、ハマ・オカモトオカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "キス!?"
+artist = "Official髭男dism"
 
 [[discs.tracks]]
 title = "ナオミの本当の目的"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "ナオミの回想"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "一縷の望み"
+artist = "STUTS、ハマ・オカモト"
 
 [[discs.tracks]]
 title = "瑠璃を取り戻したい"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "狐面 異物の排除"
+artist = "OBKR"
 
 [[discs.tracks]]
 title = "瑠璃を守る"
+artist = "Yaffle"
 
 [[discs.tracks]]
 title = "急げ!大階段へ!"
+artist = "Yaffle"
 
 [[discs.tracks]]
 title = "ナオミ、瑠璃との別れ"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "直実とナオミのバディ"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "九尾狐"
+artist = "OBKR"
 
 [[discs.tracks]]
 title = "Lost Game (Movie ver.)"
+artist = "Nulbarich"
+type = "normal"
 
 [[discs.tracks]]
 title = "CREATION OF THE WORLD"
+artist = "BRIAN SHINSEKAI"
 
 [[discs.tracks]]
 title = "HELLO WORLD"
+artist = "オカモトショウ、オカモトコウキ"
 
 [[discs.tracks]]
 title = "新世界"
+artist = "OKAMOTO’S"
+type = "normal"
