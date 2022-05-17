@@ -1,0 +1,34 @@
+[album]
+album_id = "cee9d50f-4c78-4871-961f-2263d4b4f614"
+title = "銀閃の風"
+edition = "DVD付初回限定盤"
+artist = "鈴木このみ"
+date = 2014-11-19
+type = "normal"
+catalog = "ZMCZ-9717"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9717"
+
+[[discs.tracks]]
+title = "銀閃の風"
+tags = ["魔弾の王と戦姫", "OP"]
+
+[[discs.tracks]]
+title = "竜星鎮魂歌"
+tags = ["魔弾の王と戦姫", "ED"]
+
+[[discs.tracks]]
+title = "オラシオン"
+tags = ["ノーゲーム・ノーライフ", "ED"]
+
+[[discs.tracks]]
+title = "銀閃の風 (Instrumental)"
+type = "instrumental"
+tags = ["魔弾の王と戦姫", "OP"]
+
+[[discs.tracks]]
+title = "竜星鎮魂歌 (Instrumental)"
+type = "instrumental"
+tags = ["魔弾の王と戦姫", "ED"]

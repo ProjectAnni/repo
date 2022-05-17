@@ -1,0 +1,31 @@
+[album]
+album_id = "44aae7b6-2f17-4a52-a9f9-5c4c7f71f8d8"
+title = "Love is MY RAIL"
+edition = "通常盤"
+artist = "鈴木このみ"
+date = 2016-08-03
+type = "normal"
+catalog = "ZMCZ-10788"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-10788"
+
+[[discs.tracks]]
+title = "Love is MY RAIL"
+tags = ["アンジュ・ヴィエルジュ", "OP"]
+
+[[discs.tracks]]
+title = "Tears BREAKER with piano"
+
+[[discs.tracks]]
+title = "miss blue"
+
+[[discs.tracks]]
+title = "Love is MY RAIL (Instrumental)"
+type = "instrumental"
+tags = ["アンジュ・ヴィエルジュ", "OP"]
+
+[[discs.tracks]]
+title = "miss blue (Instrumental)"
+type = "instrumental"

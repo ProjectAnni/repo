@@ -1,0 +1,50 @@
+[album]
+album_id = "4c214347-14a1-414b-9938-715e4cdda290"
+title = "lead"
+artist = "鈴木このみ"
+date = 2017-03-08
+type = "normal"
+catalog = "ZMCZ-10978"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-10978"
+
+[[discs.tracks]]
+title = "Love is MY RAIL"
+
+[[discs.tracks]]
+title = "「わたし」をくれたみんなへ"
+
+[[discs.tracks]]
+title = "yell! ～くちびるからはじまる魔法～"
+
+[[discs.tracks]]
+title = "One day sky"
+
+[[discs.tracks]]
+title = "Tears BREAKER with piano -inst-"
+
+[[discs.tracks]]
+title = "MY SHINING RAY"
+
+[[discs.tracks]]
+title = "BE THE ONE"
+
+[[discs.tracks]]
+title = "Absolute Soul"
+
+[[discs.tracks]]
+title = "東のシンドバッド"
+
+[[discs.tracks]]
+title = "Beat your Heart"
+
+[[discs.tracks]]
+title = "Redo"
+
+[[discs.tracks]]
+title = "Moment"
+
+[[discs.tracks]]
+title = "全部君がいたから知ったんだ"

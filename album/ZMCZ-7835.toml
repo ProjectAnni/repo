@@ -1,0 +1,27 @@
+[album]
+album_id = "275edad9-cf2d-4a54-bcb6-c653696ca951"
+title = "CHOIR JAIL"
+artist = "鈴木このみ"
+date = 2012-04-25
+type = "normal"
+catalog = "ZMCZ-7835"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-7835"
+
+[[discs.tracks]]
+title = "CHOIR JAIL"
+tags = ["黄昏乙女×アムネジア", "OP"]
+
+[[discs.tracks]]
+title = "残像未来"
+
+[[discs.tracks]]
+title = "CHOIR JAIL (Instrumental)"
+type = "instrumental"
+tags = ["黄昏乙女×アムネジア", "OP"]
+
+[[discs.tracks]]
+title = "残像未来 (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,28 @@
+[album]
+album_id = "a882b2e5-5be2-429f-8468-dd1edf9d8ae9"
+title = "Blow out"
+edition = "初回限定盤"
+artist = "鈴木このみ"
+date = 2017-05-24
+type = "normal"
+catalog = "ZMCZ-11125"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-11125"
+
+[[discs.tracks]]
+title = "Blow out"
+tags = ["ロクでなし魔術講師と禁忌教典", "OP"]
+
+[[discs.tracks]]
+title = "Join us"
+
+[[discs.tracks]]
+title = "Blow out (Instrumental)"
+type = "instrumental"
+tags = ["ロクでなし魔術講師と禁忌教典", "OP"]
+
+[[discs.tracks]]
+title = "Join us (Instrumental)"
+type = "instrumental"

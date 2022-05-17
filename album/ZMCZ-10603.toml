@@ -1,0 +1,33 @@
+[album]
+album_id = "74e9ef19-d251-4a80-b7df-3339967e3e09"
+title = "Redo"
+edition = "DVD付初回限定盤"
+artist = "鈴木このみ"
+date = 2016-05-11
+type = "normal"
+catalog = "ZMCZ-10603"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-10603"
+
+[[discs.tracks]]
+title = "Redo"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "メビウス"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "夢の続き (Acoustic ver)"
+
+[[discs.tracks]]
+title = "Redo (Instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "メビウス (Instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活", "OP"]

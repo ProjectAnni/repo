@@ -305,6 +305,10 @@ type = "group"
 name = "≠ME"
 type = "group"
 
+[[tag]]
+name = "キバオブアキバ"
+type = "group"
+
 ################################################################################
 # Animation
 #
@@ -445,6 +449,78 @@ type = "animation"
 name = "理系が恋に落ちたので証明してみた"
 type = "animation"
 
+[[tag]]
+name = "アンジュ・ヴィエルジュ"
+type = "animation"
+
+[[tag]]
+name = "フリージング ヴァイブレーション"
+type = "animation"
+
+[[tag]]
+name = "私がモテないのはどう考えてもお前らが悪い!"
+type = "animation"
+
+[[tag]]
+name = "ノーゲーム・ノーライフ"
+type = "animation"
+
+[[tag]]
+name = "黄昏乙女×アムネジア"
+type = "animation"
+
+[[tag]]
+name = "アブソリュート・デュオ"
+type = "animation"
+
+[[tag]]
+name = "魔弾の王と戦姫"
+type = "animation"
+
+[[tag]]
+name = "Re:ゼロから始める異世界生活"
+type = "animation"
+
+[[tag]]
+name = "ブブキ・ブランキ"
+type = "animation"
+
+[[tag]]
+name = "LOST SONG"
+type = "animation"
+
+[[tag]]
+name = "恋とプロデューサー～EVOL×LOVE"
+type = "animation"
+
+[[tag]]
+name = "ロクでなし魔術講師と禁忌教典"
+type = "animation"
+
+[[tag]]
+name = "蜘蛛ですが、なにか?"
+type = "animation"
+
+[[tag]]
+name = "ソラとウミのアイダ"
+type = "animation"
+
+[[tag]]
+name = "この世の果てで恋を唄う少女 YU-NO"
+type = "animation"
+
+[[tag]]
+name = "ひぐらしのなく頃に 卒"
+type = "animation"
+
+[[tag]]
+name = "デカダンス"
+type = "animation"
+
+[[tag]]
+name = "ディープインサニティ ザ・ロストチャイルド"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -512,6 +588,10 @@ type = "game"
 name = "ALTDEUS: Beyond Chronos"
 type = "game"
 
+[[tag]]
+name = "Re:ゼロから始める異世界生活 Lost in Memories"
+type = "game"
+
 ################################################################################
 # Project
 #
@@ -535,6 +615,10 @@ includes.animation = ["デート・ア・ライブIV"]
 
 [[tag]]
 name = "歴史秘話ヒストリア"
+type = "project"
+
+[[tag]]
+name = "どっぷりアプリ"
 type = "project"
 
 ################################################################################

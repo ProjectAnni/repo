@@ -1,0 +1,28 @@
+[album]
+album_id = "48334c04-bae2-4f6a-9f90-b7de5cb6a2e2"
+title = "Missing Promise"
+edition = "通常盤"
+artist = "鈴木このみ"
+date = 2021-08-25
+type = "normal"
+catalog = "USSW-0309"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "USSW-0309"
+
+[[discs.tracks]]
+title = "Missing Promise"
+tags = ["ひぐらしのなく頃に 卒", "ED"]
+
+[[discs.tracks]]
+title = "Reset"
+
+[[discs.tracks]]
+title = "Missing Promise (Instrumental)"
+type = "instrumental"
+tags = ["ひぐらしのなく頃に 卒", "ED"]
+
+[[discs.tracks]]
+title = "Reset (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,28 @@
+[album]
+album_id = "0155030d-578b-408d-81af-56d101df4c66"
+title = "歌えばそこに君がいるから"
+edition = "アーティスト盤"
+artist = "鈴木このみ"
+date = 2018-05-23
+type = "normal"
+catalog = "USSW-0094"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "USSW-0094"
+
+[[discs.tracks]]
+title = "歌えばそこに君がいるから"
+tags = ["LOST SONG", "OP"]
+
+[[discs.tracks]]
+title = "Sky Blue OASIS"
+
+[[discs.tracks]]
+title = "歌えばそこに君がいるから (Instrumental)"
+type = "instrumental"
+tags = ["LOST SONG", "OP"]
+
+[[discs.tracks]]
+title = "Sky Blue OASIS (Instrumental)"
+type = "instrumental"

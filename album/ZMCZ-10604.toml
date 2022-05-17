@@ -1,0 +1,33 @@
+[album]
+album_id = "16053d11-b1c2-4010-b711-8168234b3325"
+title = "Redo"
+edition = "通常盤"
+artist = "鈴木このみ"
+date = 2016-05-11
+type = "normal"
+catalog = "ZMCZ-10604"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-10604"
+
+[[discs.tracks]]
+title = "Redo"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "メビウス"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "世界は疵を抱きしめる (Acoustic ver)"
+
+[[discs.tracks]]
+title = "Redo (Instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "メビウス (Instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活", "OP"]

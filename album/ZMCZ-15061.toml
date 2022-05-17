@@ -1,0 +1,36 @@
+[album]
+album_id = "6dc9b855-2b3c-4fc1-9151-4da45c3c36f4"
+title = "命の灯火"
+artist = "鈴木このみ"
+date = 2021-11-05
+type = "normal"
+catalog = "ZMCZ-15061"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-15061"
+
+[[discs.tracks]]
+title = "命の灯火"
+tags = ["ディープインサニティ ザ・ロストチャイルド", "OP"]
+
+[[discs.tracks]]
+title = "Mirror,Mirror,Mirror"
+tags = ["Re:ゼロから始める異世界生活 Lost in Memories"]
+
+[[discs.tracks]]
+title = "Sanctuary"
+
+[[discs.tracks]]
+title = "命の灯火 (instrumental)"
+type = "instrumental"
+tags = ["ディープインサニティ ザ・ロストチャイルド", "OP"]
+
+[[discs.tracks]]
+title = "Mirror,Mirror,Mirror (instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活 Lost in Memories"]
+
+[[discs.tracks]]
+title = "Sanctuary (instrumental)"
+type = "instrumental"

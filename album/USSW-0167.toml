@@ -1,0 +1,28 @@
+[album]
+album_id = "cd96c80d-de14-4942-b271-cb455af58179"
+title = "真理の鏡、剣乃ように"
+edition = "アニメ盤"
+artist = "鈴木このみ"
+date = 2019-05-08
+type = "normal"
+catalog = "USSW-0167"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "USSW-0167"
+
+[[discs.tracks]]
+title = "真理の鏡、剣乃ように"
+tags = ["この世の果てで恋を唄う少女 YU-NO", "ED"]
+
+[[discs.tracks]]
+title = "Curiosity"
+
+[[discs.tracks]]
+title = "真理の鏡、剣乃ように (Instrumental)"
+type = "instrumental"
+tags = ["この世の果てで恋を唄う少女 YU-NO", "ED"]
+
+[[discs.tracks]]
+title = "Curiosity (Instrumental)"
+type = "instrumental"

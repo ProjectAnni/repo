@@ -1,0 +1,50 @@
+[album]
+album_id = "0a63a04a-a797-41a1-9432-e818b07ef01b"
+title = "Shake Up!"
+artist = "鈴木このみ"
+date = 2019-11-06
+type = "normal"
+catalog = "USSW-0207"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "USSW-0207"
+
+[[discs.tracks]]
+title = "シアワセスパイス"
+
+[[discs.tracks]]
+title = "Sparking light"
+
+[[discs.tracks]]
+title = "Humming Flight!"
+
+[[discs.tracks]]
+title = "真理の鏡、剣乃ように"
+
+[[discs.tracks]]
+title = "ANOTHER REAL"
+
+[[discs.tracks]]
+title = "アルカテイル"
+
+[[discs.tracks]]
+title = "p.u.p.a."
+
+[[discs.tracks]]
+title = "Relight"
+
+[[discs.tracks]]
+title = "MOTHER"
+
+[[discs.tracks]]
+title = "歌えばそこに君がいるから"
+
+[[discs.tracks]]
+title = "My Days"
+
+[[discs.tracks]]
+title = "蒼の彼方"
+
+[[discs.tracks]]
+title = "あなたが笑えば"
