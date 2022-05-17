@@ -1,0 +1,30 @@
+[album]
+album_id = "b05f86a8-05b6-46ae-bf1c-5c673ed4a25f"
+title = "ねぐせ"
+artist = "北白川たまこ (洲崎綾)"
+date = 2013-01-25
+type = "normal"
+catalog = "PCCG-70173"
+tags = ["たまこまーけっと"]
+
+[[discs]]
+title = "Disc 1"
+catalog = "PCCG-70173"
+
+[[discs.tracks]]
+title = "ねぐせ"
+artist = "北白川たまこ (洲崎綾)"
+
+[[discs.tracks]]
+title = "キミの魔法"
+artist = "北白川たまこ (洲崎綾)"
+
+[[discs.tracks]]
+title = "ねぐせ (Instrumental)"
+artist = "北白川たまこ (洲崎綾)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キミの魔法 (Instrumental)"
+artist = "北白川たまこ (洲崎綾)"
+type = "instrumental"

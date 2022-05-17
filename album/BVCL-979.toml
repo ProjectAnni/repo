@@ -1,0 +1,126 @@
+[album]
+album_id = "252b18f8-c405-48b3-8eb2-7992eac06295"
+title = "HELLO WORLD ORIGINAL MOTION PICTURE SOUNDTRACK"
+artist = ""
+date = 2019-09-18
+type = "normal"
+catalog = "BVCL-979"
+tags = ["HELLO WORLD"]
+
+[[discs]]
+title = "Disc 1"
+catalog = "BVCL-979"
+
+[[discs.tracks]]
+title = "オープニングテーマ feat.AAAMYYY"
+
+[[discs.tracks]]
+title = "弱気な直実"
+
+[[discs.tracks]]
+title = "直実の楽しい時間"
+
+[[discs.tracks]]
+title = "三本足のカラス"
+
+[[discs.tracks]]
+title = "謎の男・逃げる直実"
+
+[[discs.tracks]]
+title = "クロニクル京都"
+
+[[discs.tracks]]
+title = "謎の男の正体"
+
+[[discs.tracks]]
+title = "マイペースな瑠璃"
+
+[[discs.tracks]]
+title = "ナオミの目的"
+
+[[discs.tracks]]
+title = "特訓I 不思議な手袋"
+
+[[discs.tracks]]
+title = "グッドデザイン"
+
+[[discs.tracks]]
+title = "イエスタデイ (Movie ver.)"
+
+[[discs.tracks]]
+title = "特訓II 成長"
+
+[[discs.tracks]]
+title = "恋の予感"
+
+[[discs.tracks]]
+title = "特訓III 銅から金へ"
+
+[[discs.tracks]]
+title = "古本集め"
+
+[[discs.tracks]]
+title = "A Time For Love"
+
+[[discs.tracks]]
+title = "図書委員たちと本運び"
+
+[[discs.tracks]]
+title = "瑠璃のために"
+
+[[discs.tracks]]
+title = "倒れる直実"
+
+[[discs.tracks]]
+title = "直実告白、両思いに"
+
+[[discs.tracks]]
+title = "宇治川花火大会"
+
+[[discs.tracks]]
+title = "直実 vs 狐面"
+
+[[discs.tracks]]
+title = "キス!?"
+
+[[discs.tracks]]
+title = "ナオミの本当の目的"
+
+[[discs.tracks]]
+title = "ナオミの回想"
+
+[[discs.tracks]]
+title = "一縷の望み"
+
+[[discs.tracks]]
+title = "瑠璃を取り戻したい"
+
+[[discs.tracks]]
+title = "狐面 異物の排除"
+
+[[discs.tracks]]
+title = "瑠璃を守る"
+
+[[discs.tracks]]
+title = "急げ!大階段へ!"
+
+[[discs.tracks]]
+title = "ナオミ、瑠璃との別れ"
+
+[[discs.tracks]]
+title = "直実とナオミのバディ"
+
+[[discs.tracks]]
+title = "九尾狐"
+
+[[discs.tracks]]
+title = "Lost Game (Movie ver.)"
+
+[[discs.tracks]]
+title = "CREATION OF THE WORLD"
+
+[[discs.tracks]]
+title = "HELLO WORLD"
+
+[[discs.tracks]]
+title = "新世界"

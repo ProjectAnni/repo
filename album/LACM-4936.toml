@@ -1,0 +1,28 @@
+[album]
+album_id = "fdca4c2a-fee5-44c6-b409-1e27de0c10df"
+title = "まどろみの約束"
+artist = "千反田える（佐藤聡美）＆伊原摩耶花（茅野愛衣）"
+date = 2012-05-23
+type = "normal"
+catalog = "LACM-4936"
+tags = ["氷菓", "茅野愛衣", "佐藤聡美"]
+
+[[discs]]
+title = "Disc 1"
+catalog = "LACM-4936"
+
+[[discs.tracks]]
+title = "まどろみの約束"
+artist = "千反田える (佐藤聡美) & 伊原摩耶花 (茅野愛衣)"
+
+[[discs.tracks]]
+title = "ロマンスはまだ早い"
+artist = "千反田える (佐藤聡美) & 伊原摩耶花 (茅野愛衣)"
+
+[[discs.tracks]]
+title = "まどろみの約束 (Inst.)"
+artist = "千反田える (佐藤聡美) & 伊原摩耶花 (茅野愛衣)"
+
+[[discs.tracks]]
+title = "ロマンスはまだ早い (Inst.)"
+artist = "千反田える (佐藤聡美) & 伊原摩耶花 (茅野愛衣)"
