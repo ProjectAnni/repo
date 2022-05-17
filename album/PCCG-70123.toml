@@ -1,0 +1,25 @@
+[album]
+album_id = "3df5fad0-ce76-444c-a4c9-c602c111cf15"
+title = "ゆるゆりのうたシリーズ♪03 ミラクるゆるくる1・2・3"
+artist = "歳納京子（大坪由佳）"
+date = 2011-09-07
+type = "normal"
+catalog = "PCCG-70123"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70123"
+
+[[discs.tracks]]
+title = "ミラクるゆるくる1・2・3"
+
+[[discs.tracks]]
+title = "キラキラ☆everyday"
+
+[[discs.tracks]]
+title = "ミラクるゆるくる1・2・3 [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キラキラ☆everyday [からおけ]"
+type = "instrumental"

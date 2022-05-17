@@ -1,0 +1,25 @@
+[album]
+album_id = "afa09722-d832-4a04-ba0b-39f164d41f0f"
+title = "ゆるゆりのうたシリーズ♪02 ごゆるりワールド"
+artist = "船見結衣（津田美波）"
+date = 2011-08-17
+type = "normal"
+catalog = "PCCG-70122"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70122"
+
+[[discs.tracks]]
+title = "ごゆるりワールド"
+
+[[discs.tracks]]
+title = "クールナンバー"
+
+[[discs.tracks]]
+title = "ごゆるりワールド [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "クールナンバー [からおけ]"
+type = "instrumental"

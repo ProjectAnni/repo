@@ -1,0 +1,25 @@
+[album]
+album_id = "0bd89a94-11ea-4e36-84ee-989c7f8e5ff1"
+title = "ゆるゆりのうたシリーズ♪06 Day by day"
+artist = "古谷向日葵（三森すずこ）"
+date = 2011-09-21
+type = "normal"
+catalog = "PCCG-70126"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70126"
+
+[[discs.tracks]]
+title = "Day by day"
+
+[[discs.tracks]]
+title = "お願い Catch Me"
+
+[[discs.tracks]]
+title = "Day by day [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "お願い Catch Me [からおけ]"
+type = "instrumental"

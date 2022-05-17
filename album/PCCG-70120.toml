@@ -1,0 +1,27 @@
+[album]
+album_id = "1468a51b-3c02-4993-ae48-b83246e3efdb"
+title = "マイペースでいきましょう"
+artist = "七森中☆ごらく部（赤座あかり（三上枝織）、歳納京子（大坪由佳）、船見結衣（津田美波）、吉川ちなつ（大久保瑠美））"
+date = 2011-07-20
+type = "normal"
+catalog = "PCCG-70120"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70120"
+
+[[discs.tracks]]
+title = "マイペースでいきましょう"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Precious Friends"
+
+[[discs.tracks]]
+title = "マイペースでいきましょう [からおけ]"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Precious Friends [からおけ]"
+type = "instrumental"

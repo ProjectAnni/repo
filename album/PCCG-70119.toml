@@ -1,0 +1,25 @@
+[album]
+album_id = "9e03709d-81e3-419b-b4db-715053425df6"
+title = "ゆりゆららららゆるゆり大事件"
+artist = "七森中☆ごらく部（赤座あかり（三上枝織）、歳納京子（大坪由佳）、船見結衣（津田美波）、吉川ちなつ（大久保瑠美））"
+date = 2011-07-20
+type = "normal"
+catalog = "PCCG-70119"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70119"
+
+[[discs.tracks]]
+title = "ゆりゆららららゆるゆり大事件"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ゆるゆり I U"
+
+[[discs.tracks]]
+title = "ゆりゆららららゆるゆり大事件 [からおけ]"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ゆるゆり I U [からおけ]"

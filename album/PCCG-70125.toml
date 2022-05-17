@@ -1,0 +1,25 @@
+[album]
+album_id = "22d02514-362c-485e-9169-7438bf308ac6"
+title = "ゆるゆりのうたシリーズ♪05 きらいじゃないもん"
+artist = "大室櫻子（加藤英美里）"
+date = 2011-09-21
+type = "normal"
+catalog = "PCCG-70125"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70125"
+
+[[discs.tracks]]
+title = "きらいじゃないもん"
+
+[[discs.tracks]]
+title = "365コ"
+
+[[discs.tracks]]
+title = "きらいじゃないもん [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "365コ [からおけ]"
+type = "instrumental"

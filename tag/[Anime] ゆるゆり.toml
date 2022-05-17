@@ -1,0 +1,4 @@
+[[tag]]
+name = "TVアニメ「ゆるゆり」"
+type = "animation"
+includes.animation = ["ゆるゆり"]

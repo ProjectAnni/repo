@@ -1,0 +1,25 @@
+[album]
+album_id = "58a1254d-4492-47ee-9e01-8190ed946a6d"
+title = "ゆるゆりのうたシリーズ♪00 魔女っ娘ミラクるん♪"
+artist = "魔女っ娘ミラクるん（竹達彩奈）"
+date = 2011-08-12
+type = "normal"
+catalog = "BRCG-00004"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "BRCG-00004"
+
+[[discs.tracks]]
+title = "魔女っ娘ミラクるん♪"
+
+[[discs.tracks]]
+title = "ミラクる～ん♪"
+
+[[discs.tracks]]
+title = "魔女っ娘ミラクるん♪ [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミラクる～ん♪ [からおけ]"
+type = "instrumental"

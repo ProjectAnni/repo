@@ -1,0 +1,25 @@
+[album]
+album_id = "253c8fff-4078-42f2-b578-108ece41eaf5"
+title = "ゆるゆりのうたシリーズ♪07 恋の罰金バッキンガム!"
+artist = "杉浦綾乃（藤田咲）"
+date = 2011-10-05
+type = "normal"
+catalog = "PCCG-70127"
+tags = ["ゆるゆり"]
+
+[[discs]]
+catalog = "PCCG-70127"
+
+[[discs.tracks]]
+title = "恋の罰金バッキンガム！"
+
+[[discs.tracks]]
+title = "片想い授業中"
+
+[[discs.tracks]]
+title = "恋の罰金バッキンガム！ [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "片想い授業中 [からおけ]"
+type = "instrumental"
