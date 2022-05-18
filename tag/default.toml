@@ -213,14 +213,6 @@ type = "artist"
 name = "佐藤聡美"
 type = "artist"
 
-[[tag]]
-name = "牛尾憲輔"
-type = "artist"
-
-[[tag]]
-name = "後藤幸浩"
-type = "artist"
-
 ################################################################################
 # Group
 #
@@ -451,10 +443,6 @@ type = "animation"
 
 [[tag]]
 name = "さくら荘のペットな彼女"
-type = "animation"
-
-[[tag]]
-name = "CAROLE & TUESDAY"
 type = "animation"
 
 [[tag]]
