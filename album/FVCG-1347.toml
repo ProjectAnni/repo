@@ -1,0 +1,32 @@
+[album]
+album_id = "15d0258f-2aad-406c-93a0-5fef3ace1025"
+title = "シンギュラリティ"
+artist = "いとうかなこ"
+date = 2015-07-22
+type = "normal"
+catalog = "FVCG-1347"
+tags = ["いとうかなこ", "CHAOS;CHILD"]
+
+[[discs]]
+catalog = "FVCG-1347"
+
+[[discs.tracks]]
+title = "シンギュラリティ"
+
+[[discs.tracks]]
+title = "silent wind bell (Another Ver.)"
+
+[[discs.tracks]]
+title = "TRUE QUALIA"
+
+[[discs.tracks]]
+title = "シンギュラリティ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "silent wind bell (Another Ver.) (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "TRUE QUALIA (Off Vocal)"
+type = "instrumental"
