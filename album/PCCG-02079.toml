@@ -105,6 +105,7 @@ catalog = "PCCG-02079"
 
 [[discs.tracks]]
 title = "Gion shoja (inst)"
+type = "instrumental"
 
 [[discs.tracks]]
 title = "horsemen encounter the regent (inst)"
@@ -128,7 +129,8 @@ type = "instrumental"
 
 [[discs.tracks]]
 title = "Owada Harbor"
-type = "instrumental"
+# needs further investigation (this track probably appears in ep.5)
+# type = "instrumental"
 
 [[discs.tracks]]
 title = "Fuji river (inst)"
