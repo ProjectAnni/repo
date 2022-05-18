@@ -1,7 +1,7 @@
 [album]
 album_id = "26587b7d-1cc0-41e7-a61a-58667c6822f3"
 title = "君の名は。"
-artist = "RADWIMPS"
+artist = "RADWIMPS（野田洋次郎、桑原彰、武田祐介）"
 date = 2016-08-24
 type = "absolute"
 catalog = "UPCH-20423"
@@ -12,6 +12,7 @@ catalog = "UPCH-20423"
 
 [[discs.tracks]]
 title = "夢灯籠"
+type = "normal"
 
 [[discs.tracks]]
 title = "三葉の通学"
@@ -33,6 +34,7 @@ title = "ふたりの異変"
 
 [[discs.tracks]]
 title = "前前前世 (movie ver.)"
+type = "normal"
 
 [[discs.tracks]]
 title = "御神体"
@@ -78,6 +80,7 @@ title = "見えないふたり"
 
 [[discs.tracks]]
 title = "かたわれ時"
+type = "normal"
 
 [[discs.tracks]]
 title = "スパークル (movie ver.)"
@@ -87,6 +90,8 @@ title = "デート2"
 
 [[discs.tracks]]
 title = "なんでもないや (movie edit)"
+type = "normal"
 
 [[discs.tracks]]
 title = "なんでもないや (movie ver.)"
+type = "normal"

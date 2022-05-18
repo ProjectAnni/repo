@@ -1,9 +1,9 @@
 [album]
 album_id = "0101753f-e876-46ef-85e7-71f144a5d918"
 title = "TVアニメ 平家物語 オリジナル・サウンドトラック 諸行鎮魂位相 requiem phases +"
-artist = ""
+artist = "牛尾憲輔、後藤幸浩"
 date = 2022-01-05
-type = "normal"
+type = "absolute"
 catalog = "PCCG-02079"
 tags = ["平家物語"]
 
@@ -12,186 +12,143 @@ catalog = "PCCG-02079"
 
 [[discs.tracks]]
 title = "the beginning"
-artist = ""
 
 [[discs.tracks]]
 title = "vortex"
-artist = ""
 
 [[discs.tracks]]
 title = "visions"
-artist = ""
 
 [[discs.tracks]]
 title = "boy's own"
-artist = ""
 
 [[discs.tracks]]
 title = "unknown plan"
-artist = ""
 
 [[discs.tracks]]
 title = "children"
-artist = ""
 
 [[discs.tracks]]
 title = "sal blossoms"
-artist = ""
 
 [[discs.tracks]]
 title = "the day after tomorrow"
-artist = ""
 
 [[discs.tracks]]
 title = "clap your hands"
-artist = ""
 
 [[discs.tracks]]
 title = "ladies"
-artist = ""
 
 [[discs.tracks]]
 title = "vague light"
-artist = ""
 
 [[discs.tracks]]
 title = "sign"
-artist = ""
 
 [[discs.tracks]]
 title = "courtesy"
-artist = ""
 
 [[discs.tracks]]
 title = "sorrow"
-artist = ""
 
 [[discs.tracks]]
 title = "nothing"
-artist = ""
 
 [[discs.tracks]]
 title = "pray with hands"
-artist = ""
 
 [[discs.tracks]]
 title = "Kiyotsune, Atsumori"
-artist = ""
 
 [[discs.tracks]]
 title = "moonlight"
-artist = ""
 
 [[discs.tracks]]
 title = "conspiracy"
-artist = ""
 
 [[discs.tracks]]
 title = "war situation"
-artist = ""
 
 [[discs.tracks]]
 title = "east saburahi"
-artist = ""
 
 [[discs.tracks]]
 title = "bad boy Yoshi"
-artist = ""
 
 [[discs.tracks]]
 title = "cresc."
-artist = ""
 
 [[discs.tracks]]
 title = "maternal"
-artist = ""
 
 [[discs.tracks]]
 title = "cats"
-artist = ""
 
 [[discs.tracks]]
 title = "once in a lifetime"
-artist = ""
 
 [[discs.tracks]]
 title = "snowscape"
-artist = ""
 
 [[discs.tracks]]
 title = "Yoshitsune attacks"
-artist = ""
 
 [[discs.tracks]]
 title = "the battle"
-artist = ""
 
 [[discs.tracks]]
 title = "requiem phases"
-artist = ""
 
 [[discs]]
 catalog = "PCCG-02079"
 
 [[discs.tracks]]
 title = "Gion shoja (inst)"
-artist = ""
 
 [[discs.tracks]]
 title = "horsemen encounter the regent (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Gio (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "petitioning with sacred palanquins (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the matter of Shunkan (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the battle at the bridge (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Owada Harbor"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "Fuji river (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the descent into Kurikara (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the death of Atsumori (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the battle at Dan no ura (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "the drowning of the former emperor (inst)"
-artist = ""
 type = "instrumental"
 
 [[discs.tracks]]
 title = "purple clouds"
-artist = ""
