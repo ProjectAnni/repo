@@ -9,6 +9,7 @@ tags = ["ryo", "初音ミク"]
 
 [[discs]]
 catalog = "MELT01"
+artist = "ryo、初音ミク"
 
 [[discs.tracks]]
 title = "メルト"
