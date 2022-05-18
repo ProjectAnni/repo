@@ -1,0 +1,56 @@
+[album]
+album_id = "c6a97c4f-a862-4555-9fef-3f3825eb22af"
+title = "平行四界Quadimension X-3"
+artist = "星尘、海伊、苍穹、赤羽、诗岸、牧心、星尘Infinity"
+date = 2022-04-03
+type = "normal"
+catalog = "QMCD-X003"
+tags = ["平行四界 五维介质"]
+
+[[discs]]
+catalog = "QMCD-X003"
+
+[[discs.tracks]]
+title = "东之阙"
+artist = "MeLo、瑞安Ryan、星尘、海伊、苍穹、赤羽、诗岸"
+tags = ["星尘", "海伊", "苍穹", "赤羽", "诗岸"]
+
+[[discs.tracks]]
+title = "下个夏天的烟火"
+artist = "磁带君、瑞安Ryan、海伊"
+tags = ["海伊"]
+
+[[discs.tracks]]
+title = "爆燃"
+artist = "Kide、坐标P、赤羽"
+tags = ["赤羽"]
+
+[[discs.tracks]]
+title = "苦若吞沙"
+artist = "Zeno、诗岸"
+tags = ["诗岸"]
+
+[[discs.tracks]]
+title = "烈阳"
+artist = "胧、瑞安Ryan、牧心"
+tags = ["牧心"]
+
+[[discs.tracks]]
+title = "深红"
+artist = "公兔、顾令、赤羽"
+tags = ["赤羽"]
+
+[[discs.tracks]]
+title = "红颜侠客"
+artist = "PoKeR、Creuzer、苍穹"
+tags = ["苍穹"]
+
+[[discs.tracks]]
+title = "远溯"
+artist = "Evalia、陌生来访、海伊"
+tags = ["海伊"]
+
+[[discs.tracks]]
+title = "最终祈愿"
+artist = "胧、瑞安Ryan、星尘Infinity"
+tags = ["星尘Infinity"]
