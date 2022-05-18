@@ -462,10 +462,6 @@ name = "私がモテないのはどう考えてもお前らが悪い!"
 type = "animation"
 
 [[tag]]
-name = "ノーゲーム・ノーライフ"
-type = "animation"
-
-[[tag]]
 name = "黄昏乙女×アムネジア"
 type = "animation"
 
@@ -503,10 +499,6 @@ type = "animation"
 
 [[tag]]
 name = "ソラとウミのアイダ"
-type = "animation"
-
-[[tag]]
-name = "この世の果てで恋を唄う少女 YU-NO"
 type = "animation"
 
 [[tag]]
@@ -624,6 +616,22 @@ type = "project"
 [[tag]]
 name = "どっぷりアプリ"
 type = "project"
+
+[[tag]]
+name = "この世の果てで恋を唄う少女YU-NO"
+type = "project"
+includes.animation = [
+  "アニメ「この世の果てで恋を唄う少女YU-NO」現世編",
+  "アニメ「この世の果てで恋を唄う少女YU-NO」異世界編"
+]
+
+[[tag]]
+name = "ノーゲーム・ノーライフ"
+type = "project"
+includes.animation = [
+  "アニメ「ノーゲーム・ノーライフ」",
+  "映画「ノーゲーム・ノーライフ ゼロ」",
+]
 
 ################################################################################
 # Organization

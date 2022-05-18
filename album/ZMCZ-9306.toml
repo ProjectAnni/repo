@@ -13,7 +13,7 @@ catalog = "ZMCZ-9306"
 
 [[discs.tracks]]
 title = "This game"
-tags = ["ノーゲーム・ノーライフ", "OP"]
+tags = ["アニメ「ノーゲーム・ノーライフ」", "OP"]
 
 [[discs.tracks]]
 title = "Delighting"
@@ -24,7 +24,7 @@ title = "サイバーサンダーサイダー"
 [[discs.tracks]]
 title = "This game (Instrumental)"
 type = "instrumental"
-tags = ["ノーゲーム・ノーライフ", "OP"]
+tags = ["アニメ「ノーゲーム・ノーライフ」", "OP"]
 
 [[discs.tracks]]
 title = "Delighting (Instrumental)"
