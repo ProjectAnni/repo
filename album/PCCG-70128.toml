@@ -1,0 +1,25 @@
+[album]
+album_id = "e3c2c2c3-f6c8-4530-a5d6-e34b3dc4d73a"
+title = "ゆるゆりのうたシリーズ♪08 あなたのシアワセ うちのシアワセ"
+artist = "池田千歳（豊崎愛生）"
+date = 2011-10-05
+type = "normal"
+catalog = "PCCG-70128"
+tags = ["アニメ「ゆるゆり」"]
+
+[[discs]]
+catalog = "PCCG-70128"
+
+[[discs.tracks]]
+title = "あなたのシアワセ うちのシアワセ"
+
+[[discs.tracks]]
+title = "うちを芯まで漬け込んで"
+
+[[discs.tracks]]
+title = "あなたのシアワセ うちのシアワセ [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "うちを芯まで漬け込んで [からおけ]"
+type = "instrumental"

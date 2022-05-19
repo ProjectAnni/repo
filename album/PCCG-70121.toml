@@ -1,0 +1,25 @@
+[album]
+album_id = "479d80e5-6c62-444c-93de-99167eaae027"
+title = "ゆるゆりのうたシリーズ♪01 私、主役の赤座あかりです"
+artist = "赤座あかり（三上枝織）"
+date = 2011-08-17
+type = "normal"
+catalog = "PCCG-70121"
+tags = ["アニメ「ゆるゆり」"]
+
+[[discs]]
+catalog = "PCCG-70121"
+
+[[discs.tracks]]
+title = "私、主役の赤座あかりです"
+
+[[discs.tracks]]
+title = "背景"
+
+[[discs.tracks]]
+title = "私、主役の赤座あかりです [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "背景 [からおけ]"
+type = "instrumental"

@@ -1,0 +1,25 @@
+[album]
+album_id = "8beeb989-893c-4983-959e-cba9e055824f"
+title = "ゆるゆりのうたシリーズ♪04 まるごと!"
+artist = "吉川ちなつ（大久保瑠美）"
+date = 2011-09-07
+type = "normal"
+catalog = "PCCG-70124"
+tags = ["アニメ「ゆるゆり」"]
+
+[[discs]]
+catalog = "PCCG-70124"
+
+[[discs.tracks]]
+title = "まるごと！"
+
+[[discs.tracks]]
+title = "Lovely"
+
+[[discs.tracks]]
+title = "まるごと！ [からおけ]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lovely [からおけ]"
+type = "instrumental"
