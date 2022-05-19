@@ -1,0 +1,40 @@
+[album]
+album_id = "05da412e-3ac3-46d8-a493-aaddba3d665c"
+title = "私がモテないのはどう考えてもお前らが悪い／Tears BREAKER"
+edition = "DVD付初回限定盤"
+artist = "鈴木このみ n' キバオブアキバ（鈴木このみ、キバオブアキバ）"
+date = 2013-08-28
+type = "normal"
+catalog = "ZMCZ-8798"
+tags = ["鈴木このみ", "キバオブアキバ"]
+
+[[discs]]
+catalog = "ZMCZ-8798"
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い"
+tags = ["私がモテないのはどう考えてもお前らが悪い!", "OP"]
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い （鈴木このみぼっちver.）"
+artist = "鈴木このみ"
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い （キバオブアキバぼっちver.）"
+artist = "キバオブアキバ"
+
+[[discs.tracks]]
+title = "Tears BREAKER"
+artist = "鈴木このみ"
+tags = ["アンジュ・ヴィエルジュ"]
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い (Instrumental)"
+type = "instrumental"
+tags = ["私がモテないのはどう考えてもお前らが悪い!", "OP"]
+
+[[discs.tracks]]
+title = "Tears BREAKER (Instrumental)"
+artist = "鈴木このみ"
+type = "instrumental"
+tags = ["アンジュ・ヴィエルジュ"]

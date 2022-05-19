@@ -1,0 +1,32 @@
+[album]
+album_id = "7724c5c4-1766-44b4-a116-f3552ae2b4ff"
+title = "AVENGE WORLD／世界は疵を抱きしめる"
+artist = "鈴木このみ"
+date = 2013-11-27
+type = "normal"
+catalog = "ZMCZ-8911"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-8911"
+
+[[discs.tracks]]
+title = "AVENGE WORLD"
+tags = ["フリージング ヴァイブレーション", "OP"]
+
+[[discs.tracks]]
+title = "世界は疵を抱きしめる"
+tags = ["フリージング ヴァイブレーション", "ED"]
+
+[[discs.tracks]]
+title = "シャントラ -絶対依存の歌姫- より Op.0"
+
+[[discs.tracks]]
+title = "AVENGE WORLD (Instrumental)"
+type = "instrumental"
+tags = ["フリージング ヴァイブレーション", "OP"]
+
+[[discs.tracks]]
+title = "世界は疵を抱きしめる (Instrumental)"
+type = "instrumental"
+tags = ["フリージング ヴァイブレーション", "ED"]

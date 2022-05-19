@@ -1,0 +1,30 @@
+[album]
+album_id = "31476f8e-d690-4ca7-980a-a249964a8532"
+title = "舞い降りてきた雪"
+artist = "恋とプロデューサー featuring Konomi Suzuki"
+date = 2020-09-02
+type = "normal"
+catalog = "DDCD-0001"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "DDCD-0001"
+artist = "鈴木このみ"
+
+[[discs.tracks]]
+title = "舞い降りてきた雪"
+tags = ["恋とプロデューサー～EVOL×LOVE", "ED"]
+
+[[discs.tracks]]
+title = "Live it up!"
+tags = ["どっぷりアプリ"]
+
+[[discs.tracks]]
+title = "舞い降りてきた雪 (Instrumental)"
+type = "instrumental"
+tags = ["恋とプロデューサー～EVOL×LOVE", "ED"]
+
+[[discs.tracks]]
+title = "Live it up! (Instrumental)"
+type = "instrumental"
+tags = ["どっぷりアプリ"]

@@ -1,0 +1,33 @@
+[album]
+album_id = "a4482b65-33dd-4cbc-bf4c-c127a6bdcee5"
+title = "銀閃の風"
+edition = "通常盤"
+artist = "鈴木このみ"
+date = 2014-11-19
+type = "normal"
+catalog = "ZMCZ-9718"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9718"
+
+[[discs.tracks]]
+title = "銀閃の風"
+tags = ["魔弾の王と戦姫", "OP"]
+
+[[discs.tracks]]
+title = "竜星鎮魂歌"
+tags = ["魔弾の王と戦姫", "ED"]
+
+[[discs.tracks]]
+title = "Born to be"
+
+[[discs.tracks]]
+title = "銀閃の風 (Instrumental)"
+type = "instrumental"
+tags = ["魔弾の王と戦姫", "OP"]
+
+[[discs.tracks]]
+title = "竜星鎮魂歌 (Instrumental)"
+type = "instrumental"
+tags = ["魔弾の王と戦姫", "ED"]

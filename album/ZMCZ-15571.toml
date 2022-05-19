@@ -1,0 +1,51 @@
+[album]
+album_id = "1cfd889f-7de5-46c8-a4cb-cd45004c16aa"
+title = "ULTRA FLASH"
+edition = "初回限定盤"
+artist = "鈴木このみ"
+date = 2022-05-25
+type = "normal"
+catalog = "ZMCZ-15571"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-15571"
+
+[[discs.tracks]]
+title = "Bursty Greedy Spider"
+
+[[discs.tracks]]
+title = "ULTRA FLASH"
+
+[[discs.tracks]]
+title = "ダメージ小でした"
+
+[[discs.tracks]]
+title = "Missing Promise"
+
+[[discs.tracks]]
+title = "Glorious Day"
+
+[[discs.tracks]]
+title = "HELLO"
+
+[[discs.tracks]]
+title = "PROUD STARS"
+
+[[discs.tracks]]
+title = "舞い降りてきた雪"
+
+[[discs.tracks]]
+title = "Theater of Life"
+
+[[discs.tracks]]
+title = "命の灯火"
+
+[[discs.tracks]]
+title = "Realize"
+
+[[discs.tracks]]
+title = "メロディックロードムービー"
+
+[[discs.tracks]]
+title = "Ordinary Wish"

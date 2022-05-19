@@ -1,14 +1,15 @@
 [album]
-album_id = "ccd6ab67-9d14-4e04-9692-6946afb95100"
+album_id = "0b4e4ccf-9ffb-4025-ac4b-1aa6a58c626d"
 title = "カオスシンドローム"
+edition = "初回限定盤"
 artist = "鈴木このみ"
 date = 2017-02-22
 type = "normal"
-catalog = "ZMCZ-10967"
+catalog = "ZMCZ-10966"
 tags = ["鈴木このみ"]
 
 [[discs]]
-catalog = "ZMCZ-10967"
+catalog = "ZMCZ-10966"
 
 [[discs.tracks]]
 title = "カオスシンドローム"

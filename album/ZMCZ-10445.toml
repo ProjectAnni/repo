@@ -1,0 +1,31 @@
+[album]
+album_id = "ffa0b332-273e-4fe6-8c05-86d82db84b2a"
+title = "Beat your Heart"
+edition = "DVD付初回限定盤"
+artist = "鈴木このみ"
+date = 2016-01-27
+type = "normal"
+catalog = "ZMCZ-10445"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-10445"
+
+[[discs.tracks]]
+title = "Beat your Heart"
+tags = ["ブブキ・ブランキ", "OP"]
+
+[[discs.tracks]]
+title = "I to I"
+
+[[discs.tracks]]
+title = "This game (鈴木このみ1stLiveTour2015 ～Nice to Me CHU!!!～ 東京公演)"
+
+[[discs.tracks]]
+title = "Beat your Heart (instrumental)"
+type = "instrumental"
+tags = ["ブブキ・ブランキ", "OP"]
+
+[[discs.tracks]]
+title = "I to I (instrumental)"
+type = "instrumental"

@@ -1,0 +1,50 @@
+[album]
+album_id = "132190d3-6dad-4951-a4a7-9db12f8187e7"
+title = "18 -Colorful Gift-"
+artist = "鈴木このみ"
+date = 2015-03-04
+type = "normal"
+catalog = "ZMCZ-9900"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9900"
+
+[[discs.tracks]]
+title = "Absolute Soul (ALBUM Ver.)"
+
+[[discs.tracks]]
+title = "This game"
+
+[[discs.tracks]]
+title = "銀閃の風"
+
+[[discs.tracks]]
+title = "思い遣り"
+
+[[discs.tracks]]
+title = "NOT PYGMALION"
+
+[[discs.tracks]]
+title = "Tomorrow's best"
+
+[[discs.tracks]]
+title = "Fly to the stars 2015"
+
+[[discs.tracks]]
+title = "フラジャイルな君"
+
+[[discs.tracks]]
+title = "LLL: CONNECTION"
+
+[[discs.tracks]]
+title = "私がオバさんになっても"
+
+[[discs.tracks]]
+title = "I believe"
+
+[[discs.tracks]]
+title = "卒業写真"
+
+[[discs.tracks]]
+title = "鈴木このみアニサマ10thSPメドレー (Studio REC Ver.)"

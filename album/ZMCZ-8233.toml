@@ -1,0 +1,27 @@
+[album]
+album_id = "031b8851-5c33-44c2-84f8-d16d8c4b8a46"
+title = "夢の続き"
+artist = "鈴木このみ"
+date = 2013-02-27
+type = "normal"
+catalog = "ZMCZ-8233"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-8233"
+
+[[discs.tracks]]
+title = "夢の続き"
+tags = ["さくら荘のペットな彼女", "OP"]
+
+[[discs.tracks]]
+title = "囚人 -Paradox 2013-"
+
+[[discs.tracks]]
+title = "夢の続き (Instrumental)"
+type = "instrumental"
+tags = ["さくら荘のペットな彼女", "OP"]
+
+[[discs.tracks]]
+title = "囚人 -Paradox 2013- (Instrumental)"
+type = "instrumental"

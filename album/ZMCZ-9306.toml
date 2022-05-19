@@ -1,0 +1,31 @@
+[album]
+album_id = "23d81126-7188-4fa7-86d9-8fbd5d8d89d4"
+title = "This game"
+edition = "DVD付初回限定盤"
+artist = "鈴木このみ"
+date = 2014-05-21
+type = "normal"
+catalog = "ZMCZ-9306"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9306"
+
+[[discs.tracks]]
+title = "This game"
+tags = ["アニメ「ノーゲーム・ノーライフ」", "OP"]
+
+[[discs.tracks]]
+title = "Delighting"
+
+[[discs.tracks]]
+title = "サイバーサンダーサイダー"
+
+[[discs.tracks]]
+title = "This game (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「ノーゲーム・ノーライフ」", "OP"]
+
+[[discs.tracks]]
+title = "Delighting (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,27 @@
+[album]
+album_id = "e930780b-7c17-4644-932f-a3f84977e252"
+title = "DAYS of DASH"
+artist = "鈴木このみ"
+date = 2012-11-21
+type = "normal"
+catalog = "ZMCZ-8232"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-8232"
+
+[[discs.tracks]]
+title = "DAYS of DASH"
+tags = ["さくら荘のペットな彼女", "ED"]
+
+[[discs.tracks]]
+title = "Fly to the stars"
+
+[[discs.tracks]]
+title = "DAYS of DASH (Instrumental)"
+type = "instrumental"
+tags = ["さくら荘のペットな彼女", "ED"]
+
+[[discs.tracks]]
+title = "Fly to the stars (Instrumental)"
+type = "instrumental"

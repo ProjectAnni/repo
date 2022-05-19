@@ -1,0 +1,27 @@
+[album]
+album_id = "c02ca233-3016-4ea6-ac32-05f44905bf37"
+title = "Bursty Greedy Spider"
+artist = "鈴木このみ"
+date = 2021-05-07
+type = "normal"
+catalog = "ZMCZ-14787"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-14787"
+
+[[discs.tracks]]
+title = "Bursty Greedy Spider"
+tags = ["蜘蛛ですが、なにか?", "OP"]
+
+[[discs.tracks]]
+title = "Crossroads"
+
+[[discs.tracks]]
+title = "Bursty Greedy Spider (instrumental)"
+type = "instrumental"
+tags = ["蜘蛛ですが、なにか?", "OP"]
+
+[[discs.tracks]]
+title = "Crossroads (instrumental)"
+type = "instrumental"

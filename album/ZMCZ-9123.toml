@@ -1,0 +1,57 @@
+[album]
+album_id = "222081f7-e576-44e1-ac8b-50a62b4728ca"
+title = "17"
+artist = "鈴木このみ"
+date = 2014-02-26
+type = "normal"
+catalog = "ZMCZ-9123"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9123"
+
+[[discs.tracks]]
+title = "DAYS of DASH"
+
+[[discs.tracks]]
+title = "夢の続き"
+
+[[discs.tracks]]
+title = "CHOIR JAIL"
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い"
+artist = "鈴木このみ n' キバオブアキバ（鈴木このみ、キバオブアキバ）"
+
+[[discs.tracks]]
+title = "運命のEngagement"
+
+[[discs.tracks]]
+title = "AVENGE WORLD (Album Ver.)"
+
+[[discs.tracks]]
+title = "囚人 -Paradox 2013-"
+
+[[discs.tracks]]
+title = "世界は疵を抱きしめる (Album Ver.)"
+
+[[discs.tracks]]
+title = "あなたに"
+
+[[discs.tracks]]
+title = "約束の続き"
+
+[[discs.tracks]]
+title = "Tears BREAKER (Album Ver.)"
+
+[[discs.tracks]]
+title = "追憶の黒き魔剣士 (2014MIX Ver.)"
+
+[[discs.tracks]]
+title = 'I say "Happy day!"'
+
+[[discs.tracks]]
+title = "Open Heart"
+
+[[discs.tracks]]
+title = "DAYS of DASH (Pf Ver.)"

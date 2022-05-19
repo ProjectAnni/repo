@@ -1,0 +1,27 @@
+[album]
+album_id = "76e7b7e3-c07c-4463-8fe0-83f1dccae18e"
+title = "蒼の彼方"
+artist = "鈴木このみ"
+date = 2018-10-24
+type = "normal"
+catalog = "USSW-0131"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "USSW-0131"
+
+[[discs.tracks]]
+title = "蒼の彼方"
+tags = ["ソラとウミのアイダ", "ED"]
+
+[[discs.tracks]]
+title = "Weak and Brave"
+
+[[discs.tracks]]
+title = "蒼の彼方 (Instrumental)"
+type = "instrumental"
+tags = ["ソラとウミのアイダ", "ED"]
+
+[[discs.tracks]]
+title = "Weak and Brave (Instrumental)"
+type = "instrumental"

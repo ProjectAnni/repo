@@ -1,0 +1,27 @@
+[album]
+album_id = "4fffb272-3579-4c79-a66b-7a9125752e09"
+title = "Realize"
+artist = "鈴木このみ"
+date = 2020-08-26
+type = "normal"
+catalog = "ZMCZ-14011"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-14011"
+
+[[discs.tracks]]
+title = "Realize"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "A Beautiful Mistake"
+
+[[discs.tracks]]
+title = "Realize (Instrumental)"
+type = "instrumental"
+tags = ["Re:ゼロから始める異世界生活", "OP"]
+
+[[discs.tracks]]
+title = "A Beautiful Mistake (Instrumental)"
+type = "instrumental"

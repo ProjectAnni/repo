@@ -1,0 +1,60 @@
+[album]
+album_id = "3e8baea9-d65b-4ec3-90b3-dd1cb35c7aaa"
+title = "LIFE of DASH"
+artist = "鈴木このみ"
+date = 2017-12-20
+type = "normal"
+catalog = "ZMCZ-11835"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-11835"
+
+[[discs.tracks]]
+title = "CHOIR JAIL"
+
+[[discs.tracks]]
+title = "DAYS of DASH"
+
+[[discs.tracks]]
+title = "夢の続き"
+
+[[discs.tracks]]
+title = "私がモテないのはどう考えてもお前らが悪い"
+artist = "鈴木このみ n' キバオブアキバ（鈴木このみ、キバオブアキバ）"
+
+[[discs.tracks]]
+title = "AVENGE WORLD"
+
+[[discs.tracks]]
+title = "世界は疵を抱きしめる"
+
+[[discs.tracks]]
+title = "This game"
+
+[[discs.tracks]]
+title = "銀閃の風"
+
+[[discs.tracks]]
+title = "Absolute Soul"
+
+[[discs.tracks]]
+title = "Beat your Heart"
+
+[[discs.tracks]]
+title = "Redo"
+
+[[discs.tracks]]
+title = "Love is MY RAIL -running start-"
+
+[[discs.tracks]]
+title = "カオスシンドローム"
+
+[[discs.tracks]]
+title = "Blow out"
+
+[[discs.tracks]]
+title = "THERE IS A REASON"
+
+[[discs.tracks]]
+title = "夢へ繋ぐ今"

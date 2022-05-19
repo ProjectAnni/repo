@@ -1,0 +1,37 @@
+[album]
+album_id = "81a77117-039b-4cec-b3fb-acd97d113d2e"
+title = "Absolute Soul"
+edition = "DVD付初回限定盤-blade-"
+artist = "鈴木このみ"
+date = 2015-02-18
+type = "normal"
+catalog = "ZMCZ-9897"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-9897"
+
+[[discs.tracks]]
+title = "Absolute Soul"
+tags = ["アブソリュート・デュオ", "OP"]
+
+[[discs.tracks]]
+title = "Absolute Soul -blade-"
+artist = "鈴木このみ、奥井雅美"
+
+[[discs.tracks]]
+title = "Deep red heart"
+
+[[discs.tracks]]
+title = "Absolute Soul (Instrumental)"
+type = "instrumental"
+tags = ["アブソリュート・デュオ", "OP"]
+
+[[discs.tracks]]
+title = "Absolute Soul -blade- (Instrumental)"
+artist = "鈴木このみ、奥井雅美"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Deep red heart (Instrumental)"
+type = "instrumental"

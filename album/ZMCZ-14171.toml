@@ -1,0 +1,27 @@
+[album]
+album_id = "6439a507-84e3-41fb-91d5-0ca2d45b9d81"
+title = "Theater of Life"
+artist = "鈴木このみ"
+date = 2020-07-29
+type = "normal"
+catalog = "ZMCZ-14171"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-14171"
+
+[[discs.tracks]]
+title = "Theater of Life"
+tags = ["デカダンス", "OP"]
+
+[[discs.tracks]]
+title = "明けない夜に"
+
+[[discs.tracks]]
+title = "Theater of Life (instrumental)"
+type = "instrumental"
+tags = ["デカダンス", "OP"]
+
+[[discs.tracks]]
+title = "明けない夜に (instrumental)"
+type = "instrumental"
