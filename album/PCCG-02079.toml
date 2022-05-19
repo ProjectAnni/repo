@@ -1,0 +1,154 @@
+[album]
+album_id = "0101753f-e876-46ef-85e7-71f144a5d918"
+title = "TVアニメ 平家物語 オリジナル・サウンドトラック 諸行鎮魂位相 requiem phases +"
+artist = "牛尾憲輔、後藤幸浩"
+date = 2022-01-05
+type = "absolute"
+catalog = "PCCG-02079"
+tags = ["平家物語"]
+
+[[discs]]
+catalog = "PCCG-02079"
+
+[[discs.tracks]]
+title = "the beginning"
+
+[[discs.tracks]]
+title = "vortex"
+
+[[discs.tracks]]
+title = "visions"
+
+[[discs.tracks]]
+title = "boy's own"
+
+[[discs.tracks]]
+title = "unknown plan"
+
+[[discs.tracks]]
+title = "children"
+
+[[discs.tracks]]
+title = "sal blossoms"
+
+[[discs.tracks]]
+title = "the day after tomorrow"
+
+[[discs.tracks]]
+title = "clap your hands"
+
+[[discs.tracks]]
+title = "ladies"
+
+[[discs.tracks]]
+title = "vague light"
+
+[[discs.tracks]]
+title = "sign"
+
+[[discs.tracks]]
+title = "courtesy"
+
+[[discs.tracks]]
+title = "sorrow"
+
+[[discs.tracks]]
+title = "nothing"
+
+[[discs.tracks]]
+title = "pray with hands"
+
+[[discs.tracks]]
+title = "Kiyotsune, Atsumori"
+
+[[discs.tracks]]
+title = "moonlight"
+
+[[discs.tracks]]
+title = "conspiracy"
+
+[[discs.tracks]]
+title = "war situation"
+
+[[discs.tracks]]
+title = "east saburahi"
+
+[[discs.tracks]]
+title = "bad boy Yoshi"
+
+[[discs.tracks]]
+title = "cresc."
+
+[[discs.tracks]]
+title = "maternal"
+
+[[discs.tracks]]
+title = "cats"
+
+[[discs.tracks]]
+title = "once in a lifetime"
+
+[[discs.tracks]]
+title = "snowscape"
+
+[[discs.tracks]]
+title = "Yoshitsune attacks"
+
+[[discs.tracks]]
+title = "the battle"
+
+[[discs.tracks]]
+title = "requiem phases"
+
+[[discs]]
+catalog = "PCCG-02079"
+
+[[discs.tracks]]
+title = "Gion shoja (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "horsemen encounter the regent (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Gio (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "petitioning with sacred palanquins (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the matter of Shunkan (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the battle at the bridge (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Owada Harbor"
+
+[[discs.tracks]]
+title = "Fuji river (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the descent into Kurikara (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the death of Atsumori (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the battle at Dan no ura (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "the drowning of the former emperor (inst)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "purple clouds"

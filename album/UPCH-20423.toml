@@ -1,0 +1,97 @@
+[album]
+album_id = "26587b7d-1cc0-41e7-a61a-58667c6822f3"
+title = "君の名は。"
+artist = "RADWIMPS（野田洋次郎、桑原彰、武田祐介）"
+date = 2016-08-24
+type = "absolute"
+catalog = "UPCH-20423"
+tags = ["君の名は。"]
+
+[[discs]]
+catalog = "UPCH-20423"
+
+[[discs.tracks]]
+title = "夢灯籠"
+type = "normal"
+
+[[discs.tracks]]
+title = "三葉の通学"
+
+[[discs.tracks]]
+title = "糸守高校"
+
+[[discs.tracks]]
+title = "はじめての、東京"
+
+[[discs.tracks]]
+title = "憧れカフェ"
+
+[[discs.tracks]]
+title = "奥寺先輩のテーマ"
+
+[[discs.tracks]]
+title = "ふたりの異変"
+
+[[discs.tracks]]
+title = "前前前世 (movie ver.)"
+type = "normal"
+
+[[discs.tracks]]
+title = "御神体"
+
+[[discs.tracks]]
+title = "デート"
+
+[[discs.tracks]]
+title = "秋祭り"
+
+[[discs.tracks]]
+title = "記憶を呼び起こす瀧"
+
+[[discs.tracks]]
+title = "飛騨探訪"
+
+[[discs.tracks]]
+title = "消えた町"
+
+[[discs.tracks]]
+title = "図書館"
+
+[[discs.tracks]]
+title = "旅館の夜"
+
+[[discs.tracks]]
+title = "御神体へ再び"
+
+[[discs.tracks]]
+title = "口噛み酒トリップ"
+
+[[discs.tracks]]
+title = "作戦会議"
+
+[[discs.tracks]]
+title = "町長説得"
+
+[[discs.tracks]]
+title = "三葉のテーマ"
+
+[[discs.tracks]]
+title = "見えないふたり"
+
+[[discs.tracks]]
+title = "かたわれ時"
+
+[[discs.tracks]]
+title = "スパークル (movie ver.)"
+type = "normal"
+
+[[discs.tracks]]
+title = "デート2"
+
+[[discs.tracks]]
+title = "なんでもないや (movie edit)"
+type = "normal"
+
+[[discs.tracks]]
+title = "なんでもないや (movie ver.)"
+type = "normal"

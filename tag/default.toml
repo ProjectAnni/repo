@@ -209,6 +209,10 @@ includes.artist = ["大倉明日香"]
 name = "西川貴教"
 type = "artist"
 
+[[tag]]
+name = "佐藤聡美"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -303,6 +307,10 @@ type = "group"
 # ≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）
 [[tag]]
 name = "≠ME"
+type = "group"
+
+[[tag]]
+name = "RADWIMPS"
 type = "group"
 
 ################################################################################
@@ -435,6 +443,26 @@ type = "animation"
 
 [[tag]]
 name = "さくら荘のペットな彼女"
+type = "animation"
+
+[[tag]]
+name = "HELLO WORLD"
+type = "animation"
+
+[[tag]]
+name = "氷菓"
+type = "animation"
+
+[[tag]]
+name = "たまこまーけっと"
+type = "animation"
+
+[[tag]]
+name = "君の名は。"
+type = "animation"
+
+[[tag]]
+name = "平家物語"
 type = "animation"
 
 [[tag]]
