@@ -118,14 +118,6 @@ name = "相沢梨紗"
 type = "artist"
 
 [[tag]]
-name = "洛天依"
-type = "artist"
-
-[[tag]]
-name = "乐正绫"
-type = "artist"
-
-[[tag]]
 name = "鈴木このみ"
 type = "artist"
 
@@ -163,10 +155,6 @@ type = "artist"
 name = "chelly"
 type = "artist"
 includes.artist = ["EGOIST"]
-
-[[tag]]
-name = "初音ミク"
-type = "artist"
 
 [[tag]]
 name = "小倉唯"

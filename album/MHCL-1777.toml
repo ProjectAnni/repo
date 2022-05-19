@@ -1,0 +1,43 @@
+[album]
+album_id = "9d6d41b0-bd9f-4f1f-9e8d-408083fe8a11"
+title = "こっち向いてBaby／Yellow"
+artist = "初音ミク"
+date = 2010-07-14
+type = "normal"
+catalog = "MHCL-1777"
+tags = ["初音ミク"]
+
+[[discs]]
+catalog = "MHCL-1777"
+
+[[discs.tracks]]
+title = "こっち向いて Baby"
+artist = "ryo、初音ミク"
+tags = ["ryo"]
+
+[[discs.tracks]]
+title = "Yellow"
+artist = "kz、初音ミク"
+tags = ["kz"]
+
+[[discs.tracks]]
+title = "ブラック★ロックシューター 2M MIX"
+artist = "ryo、初音ミク"
+tags = ["ryo"]
+
+[[discs.tracks]]
+title = "I Wanna Be Your World"
+artist = "kz、初音ミク"
+tags = ["kz"]
+
+[[discs.tracks]]
+title = "こっち向いて Baby (instrumental)"
+artist = "ryo、初音ミク"
+type = "instrumental"
+tags = ["ryo"]
+
+[[discs.tracks]]
+title = "Yellow (instrumental)"
+artist = "kz、初音ミク"
+type = "instrumental"
+tags = ["kz"]

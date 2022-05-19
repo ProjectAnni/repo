@@ -1,0 +1,24 @@
+[album]
+album_id = "591bdce2-42d8-4a50-9eb4-b9d5225ea044"
+title = "メルト"
+artist = "ryo、初音ミク"
+date = 2007-12-31
+type = "normal"
+catalog = "MELT01"
+tags = ["ryo", "初音ミク"]
+
+[[discs]]
+catalog = "MELT01"
+
+[[discs.tracks]]
+title = "メルト"
+
+[[discs.tracks]]
+title = "メルト カラオケver"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "きみをわすれない"
+
+[[discs.tracks]]
+title = "きみをわすれない アレンジver"
