@@ -1,4 +1,4 @@
 [[tag]]
-name = "TVアニメ「ゆるゆり」"
+name = "ゆるゆり"
 type = "animation"
-includes.animation = ["ゆるゆり"]
+includes.animation = ["アニメ「ゆるゆり」"]
