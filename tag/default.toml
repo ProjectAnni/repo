@@ -209,6 +209,10 @@ includes.artist = ["大倉明日香"]
 name = "西川貴教"
 type = "artist"
 
+[[tag]]
+name = "佐藤聡美"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -307,6 +311,10 @@ type = "group"
 
 [[tag]]
 name = "キバオブアキバ"
+type = "group"
+
+[[tag]]
+name = "RADWIMPS"
 type = "group"
 
 ################################################################################
@@ -439,6 +447,26 @@ type = "animation"
 
 [[tag]]
 name = "さくら荘のペットな彼女"
+type = "animation"
+
+[[tag]]
+name = "HELLO WORLD"
+type = "animation"
+
+[[tag]]
+name = "氷菓"
+type = "animation"
+
+[[tag]]
+name = "たまこまーけっと"
+type = "animation"
+
+[[tag]]
+name = "君の名は。"
+type = "animation"
+
+[[tag]]
+name = "平家物語"
 type = "animation"
 
 [[tag]]
