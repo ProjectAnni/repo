@@ -1,0 +1,14 @@
+[album]
+album_id = "773adc7e-a0c1-4b55-9527-ded3faee6afe"
+title = "予感のぴんぽん聞こえたら"
+artist = "Petit Rabbit's"
+date = "2021-03"
+type = "normal"
+catalog = "@GCUS-ATX"
+tags = ["ご注文はうさぎですか？BLOOM"]
+
+[[discs]]
+catalog = "@GCUS-ATX"
+
+[[discs.tracks]]
+title = "予感のぴんぽん聞こえたら"
