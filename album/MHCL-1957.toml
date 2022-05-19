@@ -1,7 +1,7 @@
 [album]
 album_id = "48a1ed92-cfe7-4c42-8a93-029203d61a33"
 title = "積乱雲グラフィティ／Fallin' Fallin' Fallin'"
-artist = "初音ミク"
+artist = "ryo、初音ミク"
 date = 2011-08-31
 type = "normal"
 catalog = "MHCL-1957"
@@ -12,7 +12,6 @@ catalog = "MHCL-1957"
 
 [[discs.tracks]]
 title = "積乱雲グラフィティ"
-artist = "ryo、初音ミク"
 tags = ["ryo"]
 
 [[discs.tracks]]
@@ -22,14 +21,15 @@ tags = ["Dixie Flatline"]
 
 [[discs.tracks]]
 title = "積乱雲グラフィティ (Remixed by baker)"
-artist = "ryo、baker、初音ミク"
+tags = ["ryo"]
 
 [[discs.tracks]]
 title = "積乱雲グラフィティ (Instrumental)"
-artist = "ryo"
 type = "instrumental"
+tags = ["ryo"]
 
 [[discs.tracks]]
 title = "Fallin' Fallin' Fallin' (Instrumental)"
-artist = "Dixie Flatline"
+artist = "Dixie Flatline、初音ミク"
 type = "instrumental"
+tags = ["Dixie Flatline"]

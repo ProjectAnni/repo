@@ -22,10 +22,12 @@ tags = ["じん"]
 
 [[discs.tracks]]
 title = "ODDS&ENDS (Instrumental)"
+artist = "ryo、初音ミク"
 type = "instrumental"
 tags = ["ryo"]
 
 [[discs.tracks]]
 title = "Sky of Beginning (Instrumental)"
+artist = "じん、初音ミク"
 type = "instrumental"
 tags = ["じん"]
