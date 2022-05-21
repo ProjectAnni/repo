@@ -1,0 +1,66 @@
+[album]
+album_id = "9ec41899-891a-4725-9e08-b6e460ce8085"
+title = "キャロル&チューズデイ Supporting Tracks Vol.1"
+artist = "Mocky、☆Taku Takahashi（m-flo）"
+date = 2019-10-30
+type = "absolute"
+catalog = "VTCY-119"
+tags = ["キャロル＆チューズデイ"]
+
+[[discs]]
+catalog = "VTCY-119"
+
+[[discs.tracks]]
+title = "The Loneliest Girl Street Scene"
+
+[[discs.tracks]]
+title = "The Loneliest Girl Room Scene"
+type = "normal"
+
+[[discs.tracks]]
+title = "The Loneliest Girl Hall Scene"
+type = "normal"
+
+[[discs.tracks]]
+title = "Round & Laundry Laundry Scene"
+type = "normal"
+
+[[discs.tracks]]
+title = "Move Mountains a cappella Scene"
+type = "normal"
+
+[[discs.tracks]]
+title = "オメガ"
+
+[[discs.tracks]]
+title = "Round & Laundry Cydonia Festival Scene"
+type = "normal"
+
+[[discs.tracks]]
+title = "イデア"
+
+[[discs.tracks]]
+title = "インコメタルおばさん"
+
+[[discs.tracks]]
+title = "シャーロット"
+
+[[discs.tracks]]
+title = "シャミ・センドリックス"
+
+[[discs.tracks]]
+title = "ネイティブ火星人"
+
+[[discs.tracks]]
+title = "ファットガール"
+type = "normal"
+
+[[discs.tracks]]
+title = "メガターバン"
+
+[[discs.tracks]]
+title = "ヨーデル男"
+
+[[discs.tracks]]
+title = "Lost My Way Mars' Brightest Scene"
+type = "normal"

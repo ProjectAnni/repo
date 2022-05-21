@@ -1,0 +1,51 @@
+[album]
+album_id = "9d4e2694-61e6-4646-85ae-05fd3a148b66"
+title = "キャロル&チューズデイ Supporting Tracks Vol.2"
+artist = "Mocky、☆Taku Takahashi（m-flo）"
+date = 2020-01-22
+type = "absolute"
+catalog = "VTCY-120"
+tags = ["キャロル＆チューズデイ"]
+
+[[discs]]
+catalog = "VTCY-120"
+
+[[discs.tracks]]
+title = "More Lonely"
+
+[[discs.tracks]]
+title = "Me Too You Too"
+
+[[discs.tracks]]
+title = "Girls Talk"
+
+[[discs.tracks]]
+title = "Suspense Three"
+
+[[discs.tracks]]
+title = "Creation Myths"
+
+[[discs.tracks]]
+title = "Homesick on the moon"
+
+[[discs.tracks]]
+title = "A Late night drama"
+type = "drama"
+
+[[discs.tracks]]
+title = "More Suspense Robot Nightmares"
+
+[[discs.tracks]]
+title = "Near Of Far"
+
+[[discs.tracks]]
+title = "One For All"
+
+[[discs.tracks]]
+title = "Mars Bars Lounge"
+
+[[discs.tracks]]
+title = "Me Too Otherside"
+
+[[discs.tracks]]
+title = "Streamophone Awards"
