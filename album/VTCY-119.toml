@@ -1,9 +1,9 @@
 [album]
 album_id = "9ec41899-891a-4725-9e08-b6e460ce8085"
 title = "キャロル&チューズデイ Supporting Tracks Vol.1"
-artist = "Benny Sings、津野米咲、Lido、吉田一郎不可触世界、富永恵介、y0c1e、寂空、Singman、Jen Wood"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）、アンジェラ(Vo. Alisa)、イデア(Vo. 佐武宇綺)、インコメタルおばさん(Vo. Florence McNair)、シャーロット(Vo. Florence McNair)、ネイティブ火星人(Vo. Singman)、ファットガール(Vo. Florence McNair)、メガターバン(Vo. Singman)、ヨーデル男(Vo. Singman)"
 date = 2019-10-30
-type = "absolute"
+type = "normal"
 catalog = "VTCY-119"
 tags = ["キャロル＆チューズデイ"]
 
@@ -12,71 +12,66 @@ catalog = "VTCY-119"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Street Scene"
-artist = "Benny Sings"
+artist = "キャロル（Vo. Nai Br.XX）"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Room Scene"
-artist = "キャロル（Vo. Nai Br.XX）"
-type = "normal"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Hall Scene"
-artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
-type = "normal"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）"
 
 [[discs.tracks]]
 title = "Round & Laundry Laundry Scene"
-artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
-type = "normal"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）"
 
 [[discs.tracks]]
 title = "Move Mountains a cappella Scene"
 artist = "アンジェラ（Vo. Alisa）"
-type = "normal"
 
 [[discs.tracks]]
 title = "オメガ"
 artist = "吉田一郎不可触世界"
+type = "absolute"
 
 [[discs.tracks]]
 title = "Round & Laundry Cydonia Festival Scene"
-artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
-type = "normal"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）"
 
 [[discs.tracks]]
 title = "イデア"
-artist = "富永恵介"
+artist = "イデア（Vo. 佐武宇綺）"
 
 [[discs.tracks]]
 title = "インコメタルおばさん"
-artist = "y0c1e"
+artist = "インコメタルおばさん（Vo. Florence McNair）"
 
 [[discs.tracks]]
 title = "シャーロット"
-artist = "y0c1e"
+artist = "シャーロット（Vo. Florence McNair）"
 
 [[discs.tracks]]
 title = "シャミ・センドリックス"
 artist = "寂空"
+type = "absolute"
 
 [[discs.tracks]]
 title = "ネイティブ火星人"
-artist = "y0c1e"
+artist = "ネイティブ火星人（Vo. Singman）"
 
 [[discs.tracks]]
 title = "ファットガール"
 artist = "ファットガール（Vo. Florence McNair）"
-type = "normal"
 
 [[discs.tracks]]
 title = "メガターバン"
-artist = "y0c1e"
+artist = "メガターバン（Vo. Singman）"
 
 [[discs.tracks]]
 title = "ヨーデル男"
-artist = "Singman"
+artist = "ヨーデル男（Vo. Singman）"
 
 [[discs.tracks]]
 title = "Lost My Way Mars' Brightest Scene"
-artist = "キャロル＆チューズデイ（Vo.Nai Br.XX、Celeina Ann）"
-type = "normal"
+artist = "キャロル（Vo. Nai Br.XX）、チューズデイ（Vo. Celeina Ann）"
