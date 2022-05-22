@@ -1,7 +1,7 @@
 [album]
 album_id = "9ec41899-891a-4725-9e08-b6e460ce8085"
 title = "キャロル&チューズデイ Supporting Tracks Vol.1"
-artist = "Mocky、☆Taku Takahashi（m-flo）"
+artist = "Benny Sings、津野米咲、Lido、吉田一郎不可触世界、富永恵介、y0c1e、寂空、Singman、Jen Wood"
 date = 2019-10-30
 type = "absolute"
 catalog = "VTCY-119"
@@ -12,55 +12,71 @@ catalog = "VTCY-119"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Street Scene"
+artist = "Benny Sings"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Room Scene"
+artist = "キャロル（Vo. Nai Br.XX）"
 type = "normal"
 
 [[discs.tracks]]
 title = "The Loneliest Girl Hall Scene"
+artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
 type = "normal"
 
 [[discs.tracks]]
 title = "Round & Laundry Laundry Scene"
+artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
 type = "normal"
 
 [[discs.tracks]]
 title = "Move Mountains a cappella Scene"
+artist = "アンジェラ（Vo. Alisa）"
 type = "normal"
 
 [[discs.tracks]]
 title = "オメガ"
+artist = "吉田一郎不可触世界"
 
 [[discs.tracks]]
 title = "Round & Laundry Cydonia Festival Scene"
+artist = "キャロル＆チューズデイ（Vo. Nai Br.XX、Celeina Ann）"
 type = "normal"
 
 [[discs.tracks]]
 title = "イデア"
+artist = "富永恵介"
 
 [[discs.tracks]]
 title = "インコメタルおばさん"
+artist = "y0c1e"
 
 [[discs.tracks]]
 title = "シャーロット"
+artist = "y0c1e"
 
 [[discs.tracks]]
 title = "シャミ・センドリックス"
+artist = "寂空"
 
 [[discs.tracks]]
 title = "ネイティブ火星人"
+artist = "y0c1e"
 
 [[discs.tracks]]
 title = "ファットガール"
+artist = "ファットガール（Vo. Florence McNair）"
 type = "normal"
 
 [[discs.tracks]]
 title = "メガターバン"
+artist = "y0c1e"
 
 [[discs.tracks]]
 title = "ヨーデル男"
+artist = "Singman"
 
 [[discs.tracks]]
 title = "Lost My Way Mars' Brightest Scene"
+artist = "キャロル＆チューズデイ（Vo.Nai Br.XX、Celeina Ann）"
 type = "normal"
