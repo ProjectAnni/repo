@@ -1,0 +1,127 @@
+[album]
+album_id = "1178e13b-f661-49db-98db-28a04c5583b7"
+title = "「サマーゴースト」 オリジナルサウンドトラック"
+artist = "小瀬村晶、HIDEYA KOJIMA（小島英也）、Guiano、当真伊都子"
+date = 2022-03-25
+type = "absolute"
+catalog = "EYXA-13700B"
+tags = ["サマーゴースト"]
+
+[[discs]]
+catalog = "EYXA-13700B"
+
+[[discs.tracks]]
+title = "Prologue"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "One Year Later"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "What Is \"Summer Ghost\" ?"
+artist = "HIDEYA KOJIMA（小島英也）"
+
+[[discs.tracks]]
+title = "Runway"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Landing"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Ayane Is Here"
+artist = "Guiano"
+
+[[discs.tracks]]
+title = "Aoi's Pain"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Frozen In Time"
+artist = "HIDEYA KOJIMA（小島英也）"
+
+[[discs.tracks]]
+title = "Ryo's Days"
+artist = "Guiano"
+
+[[discs.tracks]]
+title = "Three"
+artist = "Guiano"
+
+[[discs.tracks]]
+title = "Tomoya's Monologue"
+artist = "Guiano"
+
+[[discs.tracks]]
+title = "Takeoff"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "In Your Heart"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "My Museum"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Secret"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Reality"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Don't"
+artist = "HIDEYA KOJIMA（小島英也）"
+
+[[discs.tracks]]
+title = "Still Alive"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Four"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Suitcase"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "You and Me"
+artist = "小瀬村晶"
+
+[[discs.tracks]]
+title = "Pass Away"
+artist = "HIDEYA KOJIMA（小島英也）"
+
+[[discs.tracks]]
+title = "Reborn"
+artist = "小瀬村晶、当真伊都子"
+
+[[discs.tracks]]
+title = "Will"
+artist = "小瀬村晶、当真伊都子"
+
+[[discs.tracks]]
+title = "Sayonara"
+artist = "当真伊都子"
+
+[[discs.tracks]]
+title = "Epilogue"
+artist = "HIDEYA KOJIMA（小島英也）"
+
+[[discs.tracks]]
+title = "Just A Little More"
+artist = "小瀬村晶、当真伊都子"
+
+[[discs.tracks]]
+title = "Dawn"
+artist = "当真伊都子"
+
+[[discs.tracks]]
+title = "Summer Ghost"
+artist = "小瀬村晶"
