@@ -1,0 +1,101 @@
+[album]
+album_id = "c548c4a0-d577-45d3-be2f-944c14446a8a"
+title = "TVアニメ「キャロル&チューズデイ」オリジナルサウンドトラック"
+artist = "Mocky"
+date = 2019-10-30
+type = "absolute"
+catalog = "VTCL-60508"
+tags = ["キャロル＆チューズデイ"]
+
+[[discs]]
+catalog = "VTCL-60508"
+
+[[discs.tracks]]
+title = "PRE OPENING"
+
+[[discs.tracks]]
+title = "TWO OF US"
+
+[[discs.tracks]]
+title = "ALBA CITY BEATS"
+
+[[discs.tracks]]
+title = "LAZY MOON"
+
+[[discs.tracks]]
+title = "WARM GROOVE"
+
+[[discs.tracks]]
+title = "MIDNIGHT RAMBLER"
+
+[[discs.tracks]]
+title = "RATE OF CONVERSION"
+
+[[discs.tracks]]
+title = "REMEMBERING YESTERDAYS"
+
+[[discs.tracks]]
+title = "IN THE YARDBIRD SUITE"
+
+[[discs.tracks]]
+title = "FUNNY WALKING"
+
+[[discs.tracks]]
+title = "A.I. LABO"
+
+[[discs.tracks]]
+title = "MARS BRIGHTEST THEME"
+
+[[discs.tracks]]
+title = "MUSIC BRAINS"
+
+[[discs.tracks]]
+title = "YEARNING FOR THE CITY"
+
+[[discs.tracks]]
+title = "SAD WINDOW"
+
+[[discs.tracks]]
+title = "FIVE MINUTES IN ZERO GRAVITY"
+
+[[discs.tracks]]
+title = "NEW AGE OF MARS"
+
+[[discs.tracks]]
+title = "SPACE RINGS"
+
+[[discs.tracks]]
+title = "WHEN GIRLS TALK"
+
+[[discs.tracks]]
+title = "EVERY LONELY GIRL"
+
+[[discs.tracks]]
+title = "HOPE AND DREAM"
+
+[[discs.tracks]]
+title = "MIDNIGHT RENDEZVOUS"
+
+[[discs.tracks]]
+title = "FUNKY PLAYING"
+
+[[discs.tracks]]
+title = "HAWAII BOUNCE"
+
+[[discs.tracks]]
+title = "ASTEROID DREAMS"
+
+[[discs.tracks]]
+title = "SUNSET RIVER"
+
+[[discs.tracks]]
+title = "LIGHTS OF THE CITY"
+
+[[discs.tracks]]
+title = "RAGTIME ENDING"
+
+[[discs.tracks]]
+title = "LAID BACK TIME"
+
+[[discs.tracks]]
+title = "BIRDS OF A.I."
