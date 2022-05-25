@@ -537,6 +537,10 @@ type = "animation"
 name = "キャロル＆チューズデイ"
 type = "animation"
 
+[[tag]]
+name = "TVアニメ「SPY×FAMILY」"
+type = "animation"
+
 ################################################################################
 # Game
 #
