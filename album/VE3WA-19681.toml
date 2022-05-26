@@ -12,4 +12,4 @@ catalog = "VE3WA-19681"
 
 [[discs.tracks]]
 title = "喜劇"
-type = "ED"
+tags = ["ED"]
