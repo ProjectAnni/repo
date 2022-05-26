@@ -1,0 +1,15 @@
+[album]
+album_id = "cec553d7-8640-4804-9a80-dae4aab362de"
+title = "喜劇"
+artist = "星野源"
+date = 2022-04-08
+type = "normal"
+catalog = "VE3WA-19681"
+tags = ["TVアニメ「SPY×FAMILY」"]
+
+[[discs]]
+catalog = "VE3WA-19681"
+
+[[discs.tracks]]
+title = "喜劇"
+type = "ED"
