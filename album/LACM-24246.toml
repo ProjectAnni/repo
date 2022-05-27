@@ -1,0 +1,50 @@
+[album]
+album_id = "eff1fc74-0938-4b8b-9c7c-a93847c76304"
+title = "THE IDOLM@STER SHINY COLORS Synthe-Side 03"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））、アルストロメリア（大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子））、シーズ（七草にちか（紫月杏朱彩）、緋田美琴（山根綺））"
+date = 2022-04-23
+type = "normal"
+catalog = "LACM-24246"
+tags = ["THE IDOLM@STER SHINY COLORS Synthe-Side"]
+
+[[discs]]
+catalog = "LACM-24246"
+
+[[discs.tracks]]
+title = "Secret utopIA"
+
+[[discs.tracks]]
+title = "Secret utopIA（櫻木真乃Ver.）"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "Secret utopIA（風野灯織Ver.）"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "Secret utopIA（八宮めぐるVer.）"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "Secret utopIA（大崎甘奈Ver.）"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "Secret utopIA（大崎甜花Ver.）"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "Secret utopIA（桑山千雪Ver.）"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "Secret utopIA（七草にちかVer.）"
+artist = "七草にちか（紫月杏朱彩）"
+
+[[discs.tracks]]
+title = "Secret utopIA（緋田美琴Ver.）"
+artist = "緋田美琴（山根綺）"
+
+[[discs.tracks]]
+title = "Secret utopIA（Off Vocal）"
+type = "instrumental"
