@@ -1,0 +1,26 @@
+[album]
+album_id = "0c5266ad-14be-4fd1-8d3f-2f3db81a6cb2"
+title = "Stellaris: Overlord"
+artist = "Andreas Waldetoft"
+date = 2022-05-12
+type = "absolute"
+catalog = "@STELLARIS-OST-12"
+tags = ["Stellaris"]
+
+[[discs]]
+catalog = "@STELLARIS-OST-12"
+
+[[discs.tracks]]
+title = "Stargazer"
+
+[[discs.tracks]]
+title = "Beyond"
+
+[[discs.tracks]]
+title = "Methonos"
+
+[[discs.tracks]]
+title = "Gather the Fleet"
+
+[[discs.tracks]]
+title = "Overlord Menu Music"
