@@ -1,0 +1,40 @@
+[album]
+album_id = "ff342119-8ab9-4257-9380-8cbded4c296e"
+title = "あの子コンプレックス"
+artist = "=LOVE"
+date = 2022-05-25
+type = "normal"
+edition = "Type-D"
+catalog = "VVCL-2039"
+tags = ["=LOVE"]
+
+[[discs]]
+catalog = "VVCL-2039"
+
+[[discs.tracks]]
+title = "あの子コンプレックス"
+
+[[discs.tracks]]
+title = "笑顔のレシピ"
+
+[[discs.tracks]]
+title = "知らんけど"
+
+[[discs.tracks]]
+title = "僕のヒロイン"
+
+[[discs.tracks]]
+title = "あの子コンプレックス -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "笑顔のレシピ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "知らんけど -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕のヒロイン -Instrumental-"
+type = "instrumental"

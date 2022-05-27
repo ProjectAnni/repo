@@ -1,0 +1,26 @@
+[album]
+album_id = "b4fb76fe-4058-4e8f-81a4-fb7f59aed3a0"
+title = "Route BLUE"
+artist = "中島由貴"
+date = 2022-05-25
+type = "normal"
+edition = "初回限定盤"
+catalog = "GNCA-0669"
+tags = ["中島由貴"]
+
+[[discs]]
+catalog = "GNCA-0669"
+
+[[discs.tracks]]
+title = "Route BLUE"
+
+[[discs.tracks]]
+title = "うつろいと君"
+
+[[discs.tracks]]
+title = "Route BLUE (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "うつろいと君 (instrumental)"
+type = "instrumental"
