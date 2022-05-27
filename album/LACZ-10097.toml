@@ -1,0 +1,59 @@
+[album]
+album_id = "62ba6d72-9ff3-4906-9e17-a504c9a57012"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental 01"
+artist = "Various Artists"
+date = 2022-03-14
+type = "instrumental"
+catalog = "LACZ-10097"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10097"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！"
+artist = "酒井拓也 (Arte Refact)"
+
+[[discs.tracks]]
+title = "地球ミラーボウル"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "ストロベリー・キューピッド"
+artist = "河田貴央"
+
+[[discs.tracks]]
+title = "Liar's good bye"
+artist = "原田篤 (Arte Refact)"
+
+[[discs.tracks]]
+title = "タイムマシンに飛び乗って！"
+artist = "矢鴇つかさ (Arte Refact)"
+
+[[discs.tracks]]
+title = "smiley days"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "...In The Name Of。 ...LOVE?"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "VIVID イマジネーション"
+artist = "桑原聖 (Arte Refact)"
+
+[[discs.tracks]]
+title = "空想文学少女"
+artist = "福富雅之"
+
+[[discs.tracks]]
+title = "Believe my change!"
+artist = "西添健、桑原聖 (Arte Refact)"
+
+[[discs.tracks]]
+title = "未来飛行"
+artist = "板垣祐介"

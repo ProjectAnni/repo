@@ -1,0 +1,59 @@
+[album]
+album_id = "8e06658c-9765-4062-bae3-a5cfaa7e4da9"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental 05"
+artist = "Various Artists"
+date = 2022-03-14
+type = "instrumental"
+catalog = "LACZ-10101"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10101"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア"
+artist = "EFFY"
+
+[[discs.tracks]]
+title = "FAKE SELF×TRUE SELF"
+artist = "山口朗彦"
+
+[[discs.tracks]]
+title = "恋の音色ライン"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "Day After “Yesterday”"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "鳥籠スクリプチュア"
+artist = "酒井拓也 (Arte Refact)"
+
+[[discs.tracks]]
+title = "vivid color"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "ファンタジスタ・カーニバル"
+artist = "桑原聖 (Arte Refact)"
+
+[[discs.tracks]]
+title = "WHY?"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "STEREOPHONIC ISOTONIC"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "addicted"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "夕風のメロディー"
+artist = "野井洋児"

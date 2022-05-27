@@ -1,0 +1,51 @@
+[album]
+album_id = "57c0b5bb-eb5e-4fb1-93d6-d043f9111a39"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 07"
+artist = "Various Artists"
+date = 2022-05-25
+type = "normal"
+catalog = "LACA-15907"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15907"
+
+[[discs.tracks]]
+title = "Play GO! Round"
+artist = "大神環（稲川英里）"
+artists.vocal = "大神環（稲川英里）"
+artists.composer = "藤井健太郎(HANO)"
+artists.arranger = "藤井健太郎(HANO)"
+artists.lyricist = "藤井健太郎(HANO)"
+
+[[discs.tracks]]
+title = "Super Funky Piece!!"
+artist = "我那覇響（沼倉愛美）"
+artists.vocal = "我那覇響（沼倉愛美）"
+artists.composer = "ダンス☆マン"
+artists.arranger = "ダンス☆マン"
+artists.lyricist = "ダンス☆マン"
+
+[[discs.tracks]]
+title = "it's me"
+artist = "馬場このみ（髙橋ミナミ）"
+artists.vocal = "馬場このみ（髙橋ミナミ）"
+artists.composer = "KOH"
+artists.arranger = "KOH"
+artists.lyricist = "KOH"
+
+[[discs.tracks]]
+title = "パーフェクトゲーム"
+artist = "永吉昴（斉藤佑圭）"
+artists.vocal = "永吉昴（斉藤佑圭）"
+artists.composer = "重永亮介"
+artists.arranger = "重永亮介"
+artists.lyricist = "重永亮介"
+
+[[discs.tracks]]
+title = "しあわせエンドロール"
+artist = "春日未来（山崎はるか）"
+artists.vocal = "春日未来（山崎はるか）"
+artists.composer = "原田篤 (Arte Refact)"
+artists.arranger = "原田篤 (Arte Refact)"
+artists.lyricist = "唐沢美帆"
