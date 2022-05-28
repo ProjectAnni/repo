@@ -1,0 +1,59 @@
+[album]
+album_id = "c6d0d616-64b0-4798-ac35-d84cae31baae"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental 04"
+artist = "Various Artists"
+date = 2022-03-14
+type = "instrumental"
+catalog = "LACZ-10100"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10100"
+
+[[discs.tracks]]
+title = "Birth of Color"
+artist = "EFFY"
+
+[[discs.tracks]]
+title = "WORLD WIDE DANCE!!!"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "ユニゾン☆ビート"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "月のほとりで"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "Impervious Resolution"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "おまじない"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "ドリームトラベラー"
+artist = "藤本記子"
+
+[[discs.tracks]]
+title = "SUPER SIZE LOVE!!"
+artist = "酒井拓也 (Arte Refact)"
+
+[[discs.tracks]]
+title = "アニマル☆ステイション！"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "りんごのマーチ"
+artist = "菊池達也"
+
+[[discs.tracks]]
+title = "WOW! I NEED!! ～シンギングモンキー 歌唱拳～"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "水中キャンディ"
+artist = "KOH"

@@ -1,0 +1,59 @@
+[album]
+album_id = "1c105b53-f44d-4977-9f52-6e255f602a1c"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental 02"
+artist = "Various Artists"
+date = 2022-03-14
+type = "instrumental"
+catalog = "LACZ-10098"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10098"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "矢鴇つかさ (Arte Refact)"
+
+[[discs.tracks]]
+title = "夢色トレイン"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "サマ☆トリ ~Summer trip~"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "プリティ～～～ッ→ニャンニャンッ！"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "絵本"
+artist = "増谷賢"
+
+[[discs.tracks]]
+title = "Catch my dream"
+artist = "中土智博"
+
+[[discs.tracks]]
+title = "Eternal Harmony"
+artist = "Mitsuyuki Miyake、K's、TAKAROT"
+
+[[discs.tracks]]
+title = "カーニヴァル・ジャパネスク"
+artist = "松井洋平"
+
+[[discs.tracks]]
+title = "プラリネ"
+artist = "佐々木淳"
+
+[[discs.tracks]]
+title = "bitter sweet"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "君だけの欠片"
+artist = "藤本記子"
+
+[[discs.tracks]]
+title = "Just be myself!!"
+artist = "山口朗彦"

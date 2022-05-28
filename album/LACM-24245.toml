@@ -1,0 +1,54 @@
+[album]
+album_id = "fae507ea-294b-467b-bef3-198567981717"
+title = "THE IDOLM@STER SHINY COLORS Synthe-Side 02"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））、ノクチル（浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保））"
+date = 2022-04-23
+type = "normal"
+catalog = "LACM-24245"
+tags = ["THE IDOLM@STER SHINY COLORS Synthe-Side"]
+
+[[discs]]
+catalog = "LACM-24245"
+
+[[discs.tracks]]
+title = "相合学舎"
+
+[[discs.tracks]]
+title = "相合学舎（小宮果穂Ver.）"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "相合学舎（園田智代子Ver.）"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "相合学舎（西城樹里Ver.）"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "相合学舎（杜野凛世Ver.）"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "相合学舎（有栖川夏葉Ver.）"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs.tracks]]
+title = "相合学舎（浅倉 透Ver.）"
+artist = "浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "相合学舎（樋口円香Ver.）"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "相合学舎（福丸小糸Ver.）"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "相合学舎（市川雛菜Ver.）"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "相合学舎（Off Vocal）"
+type = "instrumental"

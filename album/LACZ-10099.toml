@@ -1,0 +1,59 @@
+[album]
+album_id = "d5fe19bb-0006-4fa9-8417-b79ab9c3b4c2"
+title = "THE IDOLM@STER LIVE THE@TER HARMONY Instrumental 03"
+artist = "Various Artists"
+date = 2022-03-14
+type = "instrumental"
+catalog = "LACZ-10099"
+tags = ["THE IDOLM@STER LIVE THE@TER HARMONY Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10099"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "MY STYLE! OUR STYLE!!!!"
+artist = "前山田健一"
+
+[[discs.tracks]]
+title = "Super Lover"
+artist = "サイトウヨシヒロ"
+
+[[discs.tracks]]
+title = "求ム VS マイ・フューチャー"
+artist = "藤本記子"
+
+[[discs.tracks]]
+title = "Up!10sion♪Pleeeeeeeeease!"
+artist = "AstroNoteS"
+
+[[discs.tracks]]
+title = "キミがいて夢になる"
+artist = "高田暁"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+artist = "増田武史"
+
+[[discs.tracks]]
+title = "恋愛ロードランナー"
+artist = "石田秀登"
+
+[[discs.tracks]]
+title = "BOUNCING♪ SMILE!"
+artist = "石田秀登"
+
+[[discs.tracks]]
+title = "初恋バタフライ"
+artist = "石井健太郎"
+
+[[discs.tracks]]
+title = "フローズン・ワード"
+artist = "桑原聖 (Arte Refact)"
+
+[[discs.tracks]]
+title = "ホントウノワタシ"
+artist = "野井洋児"
