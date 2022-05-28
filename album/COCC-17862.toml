@@ -1,0 +1,44 @@
+[album]
+album_id = "67de1998-e26a-4705-870a-f4c1ca794f26"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION! Great Journey"
+artist = "Various Artists"
+date = 2021-03-03
+type = "normal"
+catalog = "COCC-17862"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!"]
+
+[[discs]]
+catalog = "COCC-17862"
+
+[[discs.tracks]]
+title = "Great Journey (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Lost Princess"
+artist = "十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "Connecting Happy!!"
+artist = "久川凪（立花日菜）、久川颯（長江里加）"
+
+[[discs.tracks]]
+title = "Great Journey (M@STER VERSION) オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Great Journey (M@STER VERSION) 島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "Great Journey (M@STER VERSION) 渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Great Journey (M@STER VERSION) 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Great Journey (Game Version)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
