@@ -5,7 +5,6 @@ artist = "スタァライト九九組（愛城華恋（小山百代）、神楽�
 date = 2019-08-07
 type = "normal"
 catalog = "PCCG-01788"
-tags = ["少女☆歌劇 レヴュースタァライト"]
 
 [[discs]]
 catalog = "PCCG-01788"
@@ -15,9 +14,11 @@ title = "Star Diamond"
 
 [[discs.tracks]]
 title = "舞台少女体操"
+tags = ["少女☆寸劇 オールスタァライト", "ED"]
 
 [[discs.tracks]]
 title = "舞台少女体操（Short Ver.）"
+tags = ["少女☆寸劇 オールスタァライト", "ED"]
 
 [[discs.tracks]]
 title = "Star Diamond［Instrumental］"
@@ -26,3 +27,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "舞台少女体操［Instrumental］"
 type = "instrumental"
+tags = ["少女☆寸劇 オールスタァライト", "ED"]
