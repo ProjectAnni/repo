@@ -11,21 +11,21 @@ tags = ["THE IDOLM@STER CINDERELLA MASTER (ユニットCD)"]
 catalog = "COCC-17458"
 
 [[discs.tracks]]
-title = "イリュージョニスタ！(M＠STER VERSION)"
+title = "イリュージョニスタ！(M@STER VERSION)"
 artist = "本田未央（原紗友里）、佐久間まゆ（牧野由依）、鷺沢文香（M・A・O）、輿水幸子（竹達彩奈）、新田美波（洲崎綾）"
 
 [[discs.tracks]]
-title = "Yes! Party Time!! (M＠STER VERSION)"
+title = "Yes! Party Time!! (M@STER VERSION)"
 artist = "佐々木千枝（今井麻夏）、龍崎薫（春瀬なつみ）、櫻井桃華（照井春佳）、赤城みりあ（黒沢ともよ）、市原仁奈（久野美咲）"
 
 [[discs.tracks]]
-title = "イリュージョニスタ！(M＠STER VERSION) (オリジナル・カラオケ)"
+title = "イリュージョニスタ！(M@STER VERSION) (オリジナル・カラオケ)"
 type = "instrumental"
 
 [[discs.tracks]]
-title = "イリュージョニスタ！(Game Version)"
+title = "イリュージョニスタ！(GAME VERSION)"
 artist = "本田未央（原紗友里）、佐久間まゆ（牧野由依）、鷺沢文香（M・A・O）、輿水幸子（竹達彩奈）、新田美波（洲崎綾）"
 
 [[discs.tracks]]
-title = "Yes! Party Time!! (Game Version)"
+title = "Yes! Party Time!! (GAME VERSION)"
 artist = "佐々木千枝（今井麻夏）、龍崎薫（春瀬なつみ）、櫻井桃華（照井春佳）、赤城みりあ（黒沢ともよ）、市原仁奈（久野美咲）"
