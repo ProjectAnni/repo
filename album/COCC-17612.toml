@@ -1,0 +1,44 @@
+[album]
+album_id = "0eecf80c-4483-46c6-888e-8857a077cdc0"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! Max Beat"
+artist = "Various Artists"
+date = 2019-05-22
+type = "normal"
+catalog = "COCC-17612"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17612"
+
+[[discs.tracks]]
+title = "Max Beat"
+artist = "高垣楓（早見沙織）、鷹富士茄子（森下来奈）、二宮飛鳥（青木志貴）、松永涼（千菅春香）、大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "Max Beat 高垣楓ソロ・リミックス"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "Max Beat 鷹富士茄子ソロ・リミックス"
+artist = "鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "Max Beat 二宮飛鳥ソロ・リミックス"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "Max Beat 松永涼ソロ・リミックス"
+artist = "松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "Max Beat 大和亜季ソロ・リミックス"
+artist = "大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "Max Beat オリジナル・カラオケ"
+artist = "高垣楓（早見沙織）、鷹富士茄子（森下来奈）、二宮飛鳥（青木志貴）、松永涼（千菅春香）、大和亜季（村中知）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "実用音楽その2 安眠とやすらぎの音楽 シューベルトの子守歌"
+artist = "三船美優（原田彩楓）"

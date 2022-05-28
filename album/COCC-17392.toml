@@ -1,0 +1,48 @@
+[album]
+album_id = "b262f9c5-1168-4af0-ac1e-aaa6a7f6221e"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! 秋めいて Ding Dong Dang!"
+artist = "Various Artists"
+date = 2017-12-06
+type = "normal"
+catalog = "COCC-17392"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17392"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang!"
+artist = "アナスタシア（上坂すみれ）、佐々木千枝（今井麻夏）、速水奏（飯田友子）、北条加蓮（渕上舞）、新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! アナスタシアソロ・リミックス"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! 佐々木千枝ソロ・リミックス"
+artist = "佐々木千枝（今井麻夏）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! 速水奏ソロ・リミックス"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! 北条加蓮ソロ・リミックス"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! 新田美波ソロ・リミックス"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "秋めいて Ding Dong Dang! オリジナル・カラオケ"
+artist = "アナスタシア（上坂すみれ）、佐々木千枝（今井麻夏）、速水奏（飯田友子）、北条加蓮（渕上舞）、新田美波（洲崎綾）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "輝く世界の魔法 - しんげきRemix-"
+artist = "アナスタシア（上坂すみれ）、渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "EVERMORE - しんげきRemix -"
+artist = "神崎蘭子（内田真礼）、二宮飛鳥（青木志貴）"

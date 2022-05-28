@@ -1,0 +1,44 @@
+[album]
+album_id = "871b68c3-c9a0-41a8-9529-3b6fa5a9cb2e"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! エチュードは1曲だけ"
+artist = "Various Artists"
+date = 2017-05-24
+type = "normal"
+catalog = "COCC-17312"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17312"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ"
+artist = "渋谷凛（福原綾香）、上条春菜（長島光那）、神谷奈緒（松井恵理子）、神崎蘭子（内田真礼）、三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ 渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ 上条春菜ソロ・リミックス"
+artist = "上条春菜（長島光那）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ 神谷奈緒ソロ・リミックス"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ 神崎蘭子ソロ・リミックス"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ 三船美優ソロ・リミックス"
+artist = "三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "エチュードは1曲だけ オリジナル・カラオケ"
+artist = "渋谷凛（福原綾香）、上条春菜（長島光那）、神谷奈緒（松井恵理子）、神崎蘭子（内田真礼）、三船美優（原田彩楓）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "lilac time ピクニックライブ・アコースティックVer"
+artist = "相葉夕美（木村珠莉）"

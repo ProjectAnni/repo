@@ -1,0 +1,48 @@
+[album]
+album_id = "61164743-b125-4804-8c15-4bbcd707e0f9"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! Blooming Days"
+artist = "Various Artists"
+date = 2017-11-01
+type = "normal"
+catalog = "COCC-17391"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17391"
+
+[[discs.tracks]]
+title = "Blooming Days"
+artist = "安部菜々（三宅麻理恵）、五十嵐響子（種﨑敦美）、緒方智絵里（大空直美）、道明寺歌鈴（新田ひより）、早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "Blooming Days 安部菜々ソロ・リミックス"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "Blooming Days 五十嵐響子ソロ・リミックス"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "Blooming Days 緒方智絵里ソロ・リミックス"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "Blooming Days 道明寺歌鈴ソロ・リミックス"
+artist = "道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "Blooming Days 早坂美玲ソロ・リミックス"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "Blooming Days オリジナル・カラオケ"
+artist = "安部菜々（三宅麻理恵）、五十嵐響子（種﨑敦美）、緒方智絵里（大空直美）、道明寺歌鈴（新田ひより）、早坂美玲（朝井彩加）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "お願い！シンデレラ - しんげきRemix -"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "メッセージ - しんげきRemix -"
+artist = "安部菜々（三宅麻理恵）、緒方智絵里（大空直美）"

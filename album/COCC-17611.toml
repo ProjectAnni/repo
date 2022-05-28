@@ -1,0 +1,45 @@
+[album]
+album_id = "131bbd7a-02a8-49a7-844c-541dccb088f4"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! きゅん・きゅん・まっくす"
+artist = "Various Artists"
+date = 2019-04-17
+type = "normal"
+catalog = "COCC-17611"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17611"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす"
+artist = "一ノ瀬志希（藍原ことみ）、乙倉悠貴（中島由貴）、椎名法子（都丸ちよ）、前川みく（高森奈津美）、棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす 一ノ瀬志希ソロ・リミックス"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす 乙倉悠貴ソロ・リミックス"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす 椎名法子ソロ・リミックス"
+artist = "椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす 前川みくソロ・リミックス"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす 棟方愛海ソロ・リミックス"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "きゅん・きゅん・まっくす オリジナル・カラオケ"
+artist = "一ノ瀬志希（藍原ことみ）、乙倉悠貴（中島由貴）、椎名法子（都丸ちよ）、前川みく（高森奈津美）、棟方愛海（藤本彩花）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "実用音楽その1 閉店の音楽 別れのワルツ（蛍の光）"
+artist = "白菊ほたる（天野聡美）"
+type = "vocal"

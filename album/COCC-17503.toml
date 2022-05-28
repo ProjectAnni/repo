@@ -1,0 +1,44 @@
+[album]
+album_id = "9d5e6a1b-7578-4401-a23c-3c1be06cc90d"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! さよならアロハ"
+artist = "Various Artists"
+date = 2018-10-10
+type = "normal"
+catalog = "COCC-17503"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17503"
+
+[[discs.tracks]]
+title = "さよならアロハ"
+artist = "木村夏樹（安野希世乃）、十時愛梨（原田ひとみ）、中野有香（下地紫野）、藤本里奈（金子真由美）、宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "さよならアロハ 木村夏樹ソロ・リミックス"
+artist = "木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "さよならアロハ 十時愛梨ソロ・リミックス"
+artist = "十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "さよならアロハ 中野有香ソロ・リミックス"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "さよならアロハ 藤本里奈ソロ・リミックス"
+artist = "藤本里奈（金子真由美）"
+
+[[discs.tracks]]
+title = "さよならアロハ 宮本フレデリカソロ・リミックス"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "さよならアロハ オリジナル・カラオケ"
+artist = "木村夏樹（安野希世乃）、十時愛梨（原田ひとみ）、中野有香（下地紫野）、藤本里奈（金子真由美）、宮本フレデリカ（髙野麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dreaming Star"
+artist = "相葉夕美（木村珠莉）"
