@@ -12,6 +12,7 @@ catalog = "GNCA-0622"
 
 [[discs.tracks]]
 title = "なかよし！〇！なかよし！"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "ワオワオ動物園"
@@ -31,6 +32,7 @@ artist = "メグ（村川梨衣）"
 [[discs.tracks]]
 title = "なかよし！〇！なかよし！(Instrumental)"
 type = "instrumental"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "ワオワオ動物園 (Instrumental)"
