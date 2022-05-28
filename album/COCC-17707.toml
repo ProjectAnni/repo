@@ -1,0 +1,29 @@
+[album]
+album_id = "0d851f63-0e94-49bb-92f5-8180fa6b1b72"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 07 Gaze and Gaze"
+artist = "川島瑞樹（東山奈央）、村上巴（花井美春）"
+date = 2020-04-22
+type = "normal"
+catalog = "COCC-17707"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17707"
+
+[[discs.tracks]]
+title = "Gaze and Gaze (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Gaze and Gaze (M@STER VERSION) 川島瑞樹ソロ・リミックス"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "Gaze and Gaze (M@STER VERSION) 村上巴ソロ・リミックス"
+artist = "村上巴（花井美春）"
+
+[[discs.tracks]]
+title = "Gaze and Gaze (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Gaze and Gaze (Game Version)"

@@ -1,0 +1,29 @@
+[album]
+album_id = "1e72dee5-c6c0-4f6c-8262-95b3f2801357"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 08 輝け！ビートシューター"
+artist = "結城晴（小市眞琴）、的場梨沙（集貝はな）"
+date = 2020-04-29
+type = "normal"
+catalog = "COCC-17708"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17708"
+
+[[discs.tracks]]
+title = "輝け！ビートシューター (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "輝け！ビートシューター (M@STER VERSION) 結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "輝け！ビートシューター (M@STER VERSION) 的場梨沙ソロ・リミックス"
+artist = "的場梨沙（集貝はな）"
+
+[[discs.tracks]]
+title = "輝け！ビートシューター (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "輝け！ビートシューター (Game Version)"

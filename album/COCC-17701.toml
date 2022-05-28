@@ -1,0 +1,57 @@
+[album]
+album_id = "c8a964c1-982b-4ebd-abb2-f27bb9fc6000"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 01 TRUE COLORS"
+artist = "城ヶ崎美嘉（佳村はるか）、高森藍子（金子有希）、アナスタシア（上坂すみれ）、藤原肇（鈴木みのり）、乙倉悠貴（中島由貴）、黒埼ちとせ（佐倉薫）、白雪千夜（関口理咲）、久川颯（長江里加）、久川凪（立花日菜）"
+date = 2019-10-23
+type = "normal"
+catalog = "COCC-17701"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17701"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 城ヶ崎美嘉 ソロ・リミックス"
+artist = "城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 高森藍子 ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) アナスタシア ソロ・リミックス"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 藤原肇 ソロ・リミックス"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 乙倉悠貴 ソロ・リミックス"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 黒埼ちとせ ソロ・リミックス"
+artist = "黒埼ちとせ（佐倉薫）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 白雪千夜 ソロ・リミックス"
+artist = "白雪千夜（関口理咲）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 久川颯 ソロ・リミックス"
+artist = "久川颯（長江里加）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) 久川凪 ソロ・リミックス"
+artist = "久川凪（立花日菜）"
+
+[[discs.tracks]]
+title = "TRUE COLORS (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "TRUE COLORS (Game Version)"

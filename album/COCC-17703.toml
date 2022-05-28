@@ -1,0 +1,33 @@
+[album]
+album_id = "8090f969-265d-467c-abf7-814c35ac221a"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 03 Gossip Club"
+artist = "大槻唯（山下七海）、藤本里奈（金子真由美）、城ヶ崎美嘉（佳村はるか）"
+date = 2019-11-20
+type = "normal"
+catalog = "COCC-17703"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17703"
+
+[[discs.tracks]]
+title = "Gossip Club (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Gossip Club (M@STER VERSION) 大槻唯ソロ・リミックス"
+artist = "大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "Gossip Club (M@STER VERSION) 藤本里奈ソロ・リミックス"
+artist = "藤本里奈（金子真由美）"
+
+[[discs.tracks]]
+title = "Gossip Club (M@STER VERSION) 城ヶ崎美嘉ソロ・リミックス"
+artist = "城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "Gossip Club (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Gossip Club (Game Version)"
