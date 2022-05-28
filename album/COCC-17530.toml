@@ -1,0 +1,36 @@
+[album]
+album_id = "38b25a51-efce-4ad1-9972-233403832b86"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 40 バベル"
+artist = "Various Artists"
+date = 2020-07-15
+type = "normal"
+catalog = "COCC-17530"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17530"
+
+[[discs.tracks]]
+title = "バベル (M@STER VERSION)"
+artist = "一ノ瀬志希（藍原ことみ）、二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "STAR"
+artist = "道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "君の青春は輝いているか"
+artist = "南条光（神谷早矢佳）"
+
+[[discs.tracks]]
+title = "風になりたい"
+artist = "依田芳乃（高田憂希）、藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "バベル (M@STER VERSION) オリジナル・カラオケ"
+artist = "一ノ瀬志希（藍原ことみ）、二宮飛鳥（青木志貴）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バベル (Game Version)"
+artist = "一ノ瀬志希（藍原ことみ）、二宮飛鳥（青木志貴）"

@@ -1,0 +1,37 @@
+[album]
+album_id = "74117c71-f088-48aa-bd7a-c6e91780e7cd"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 32 アンデッド・ダンスロック"
+artist = "Various Artists"
+date = 2019-09-18
+type = "normal"
+catalog = "COCC-17522"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17522"
+
+[[discs.tracks]]
+title = "アンデッド・ダンスロック (M@STER VERSION)"
+artist = "松永涼（千菅春香）、白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "サニードロップ"
+artist = "大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "夏色"
+artist = "城ヶ崎美嘉（佳村はるか）、城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "アンデッド・ダンスロック (M@STER VERSION) オリジナル・カラオケ"
+artist = "松永涼（千菅春香）、白坂小梅（桜咲千依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サニードロップ オリジナル・カラオケ"
+artist = "大槻唯（山下七海）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アンデッド・ダンスロック (Game Version)"
+artist = "松永涼（千菅春香）、白坂小梅（桜咲千依）"

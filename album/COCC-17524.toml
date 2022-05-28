@@ -1,0 +1,37 @@
+[album]
+album_id = "634c98cf-b730-45a1-bbc6-e7da1730f4e7"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 34 Sunshine See May"
+artist = "Various Artists"
+date = 2019-12-11
+type = "normal"
+catalog = "COCC-17524"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17524"
+
+[[discs.tracks]]
+title = "Sunshine See May (M@STER VERSION)"
+artist = "依田芳乃（高田憂希）、藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "Blessing"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "サヨナラバス"
+artist = "橘ありす（佐藤亜美菜）、速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "Sunshine See May (M@STER VERSION) オリジナル・カラオケ"
+artist = "依田芳乃（高田憂希）、藤原肇（鈴木みのり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Blessing オリジナル・カラオケ"
+artist = "高垣楓（早見沙織）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sunshine See May (Game Version)"
+artist = "依田芳乃（高田憂希）、藤原肇（鈴木みのり）"

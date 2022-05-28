@@ -1,0 +1,36 @@
+[album]
+album_id = "22b00c05-0b9d-46bf-a95d-268a0df171b8"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 35 Palette"
+artist = "Various Artists"
+date = 2020-01-08
+type = "normal"
+catalog = "COCC-17525"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17525"
+
+[[discs.tracks]]
+title = "Palette (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "友達の唄"
+artist = "喜多見柚（武田羅梨沙多胡）、堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "COLORS"
+artist = "上条春菜（長島光那）、荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "モザイクカケラ"
+artist = "三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "Palette (M@STER VERSION) オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Palette (Game Version)"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）"

@@ -1,0 +1,36 @@
+[album]
+album_id = "976059cd-6cad-4cb2-b029-4743e4af55ef"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 36 義勇忍侠花吹雪"
+artist = "Various Artists"
+date = 2020-02-19
+type = "normal"
+catalog = "COCC-17526"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17526"
+
+[[discs.tracks]]
+title = "義勇忍侠花吹雪 (M@STER VERSION)"
+artist = "浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）、道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "虹"
+artist = "北条加蓮（渕上舞）、神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "O2"
+artist = "星輝子（松田颯水）、向井拓海（原優子）、村上巴（花井美春）"
+
+[[discs.tracks]]
+title = "リバイブ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "義勇忍侠花吹雪 (M@STER VERSION) オリジナル・カラオケ"
+artist = "浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）、道明寺歌鈴（新田ひより）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "義勇忍侠花吹雪 (Game Version)"
+artist = "浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）、道明寺歌鈴（新田ひより）"
