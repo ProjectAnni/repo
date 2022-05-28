@@ -1,0 +1,46 @@
+[album]
+album_id = "83a5b422-0a4e-49f4-a2cf-7667bbae7189"
+title = "11という名の永遠の素数"
+artist = "22/7（佐藤麗華（海乃るり）、戸田ジュン（宮瀬玲奈）、藤間桜（天城サリー）、河野都（倉岡水巴）、斎藤ニコル（河瀬詩）、立川絢香（宮瀬玲奈）、滝川みう（西條和）、柊つぼみ（武田愛奈）、東条悠希（高辻麗）、神木みかみ（涼花萌）、丸山あかね（白沢かなえ））"
+date = 2021-07-14
+type = "normal"
+edition = "通常盤"
+catalog = "SRCL-11792"
+tags = ["ナナブンノニジュウニ"]
+
+[[discs]]
+catalog = "SRCL-11792"
+
+[[discs.tracks]]
+title = "Overture"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕は存在していなかった"
+
+[[discs.tracks]]
+title = "シャンプーの匂いがした"
+
+[[discs.tracks]]
+title = "理解者"
+
+[[discs.tracks]]
+title = "何もしてあげられない"
+
+[[discs.tracks]]
+title = "ムズイ"
+
+[[discs.tracks]]
+title = "風は吹いてるか？"
+
+[[discs.tracks]]
+title = "僕が持ってるものなら"
+
+[[discs.tracks]]
+title = "ヒヤシンス"
+
+[[discs.tracks]]
+title = "空を飛んでみよう"
+
+[[discs.tracks]]
+title = "11人が集まった理由"
