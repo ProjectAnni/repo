@@ -1,0 +1,42 @@
+[album]
+album_id = "85e3acf9-2275-4e5d-a8bb-cccccbc3b243"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 25 Happy New Yeah!"
+artist = "Various Artists"
+date = 2019-01-23
+type = "normal"
+catalog = "COCC-17515"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17515"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、佐藤心（花守ゆみり）、三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "ヒトトキトキメキ"
+artist = "十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "Nocturne ～For SS3A Rearrange Mix～"
+artist = "三船美優（原田彩楓）、藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、佐藤心（花守ゆみり）、三村かな子（大坪由佳）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ヒトトキトキメキ オリジナル・カラオケ"
+artist = "十時愛梨（原田ひとみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nocturne ～For SS3A Rearrange Mix～ オリジナル・カラオケ"
+artist = "三船美優（原田彩楓）、藤原肇（鈴木みのり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (Game Version)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、佐藤心（花守ゆみり）、三村かな子（大坪由佳）"

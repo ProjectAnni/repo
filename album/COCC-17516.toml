@@ -1,0 +1,42 @@
+[album]
+album_id = "71f31e22-c43b-4329-b181-3c4fc259b470"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 26 美に入り彩を穿つ"
+artist = "Various Artists"
+date = 2019-02-20
+type = "normal"
+catalog = "COCC-17516"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17516"
+
+[[discs.tracks]]
+title = "美に入り彩を穿つ (M@STER VERSION)"
+artist = "小早川紗枝（立花理香）、塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "夢幻ノ救憐唱 ～堕チル星ノ調ベ～"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "あいくるしい ～For SS3A rearrange Mix～"
+artist = "関裕美（会沢紗弥）、森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "美に入り彩を穿つ (M@STER VERSION) オリジナル・カラオケ"
+artist = "小早川紗枝（立花理香）、塩見周子（ルゥティン）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢幻ノ救憐唱 ～堕チル星ノ調ベ～ オリジナル・カラオケ"
+artist = "神崎蘭子（内田真礼）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "あいくるしい ～For SS3A rearrange Mix～ オリジナル・カラオケ"
+artist = "関裕美（会沢紗弥）、森久保乃々（高橋花林）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "美に入り彩を穿つ (Game Version)"
+artist = "小早川紗枝（立花理香）、塩見周子（ルゥティン）"
