@@ -1,0 +1,37 @@
+[album]
+album_id = "7d07df6c-0d43-42e4-9fc4-6650b5a9ed8c"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 31 Pretty Liar"
+artist = "Various Artists"
+date = 2019-08-14
+type = "normal"
+catalog = "COCC-17521"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17521"
+
+[[discs.tracks]]
+title = "Pretty Liar (M@STER VERSION)"
+artist = "高垣楓（早見沙織）、速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "ヒカリ→シンコキュウ→ミライ"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "Stage Bye Stage"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、五十嵐響子（種﨑敦美）、渋谷凛（福原綾香）、北条加蓮（渕上舞）、神谷奈緒（松井恵理子）、本田未央（原紗友里）、日野茜（赤﨑千夏）、高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "Pretty Liar (M@STER VERSION) オリジナル・カラオケ"
+artist = "高垣楓（早見沙織）、速水奏（飯田友子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ヒカリ→シンコキュウ→ミライ オリジナル・カラオケ"
+artist = "中野有香（下地紫野）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Pretty Liar (GAME VERSION)"
+artist = "高垣楓（早見沙織）、速水奏（飯田友子）"

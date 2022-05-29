@@ -1,0 +1,42 @@
+[album]
+album_id = "4e567d95-0cda-47a0-aee1-1ce719f3ed88"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 07 サマカニ!!"
+artist = "Various Artists"
+date = 2016-12-07
+type = "normal"
+catalog = "COCC-17147"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17147"
+
+[[discs.tracks]]
+title = "サマカニ！！(M@STER VERSION)"
+artist = "川島瑞樹（東山奈央）、日野茜（赤﨑千夏）、堀裕子（鈴木絵理）、上田鈴帆（春野ななみ）、難波笑美（伊達朱里紗）"
+
+[[discs.tracks]]
+title = "にょわにょわーるど☆"
+artist = "諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "cherry＊merry＊cherry"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "サマカニ！！(M@STER VERSION) オリジナル・カラオケ"
+artist = "川島瑞樹（東山奈央）、日野茜（赤﨑千夏）、堀裕子（鈴木絵理）、上田鈴帆（春野ななみ）、難波笑美（伊達朱里紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "にょわにょわーるど☆ オリジナル・カラオケ"
+artist = "諸星きらり（松嵜麗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "cherry＊merry＊cherry オリジナル・カラオケ"
+artist = "緒方智絵里（大空直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サマカニ！！(GAME VERSION)"
+artist = "川島瑞樹（東山奈央）、日野茜（赤﨑千夏）、堀裕子（鈴木絵理）、上田鈴帆（春野ななみ）、難波笑美（伊達朱里紗）"

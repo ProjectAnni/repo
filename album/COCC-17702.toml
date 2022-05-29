@@ -1,0 +1,33 @@
+[album]
+album_id = "748628c9-9aa1-4b6a-9463-69a5527b4d64"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 02 ステップ&スキップ"
+artist = "関裕美（会沢紗弥）、白菊ほたる（天野聡美）、森久保乃々（高橋花林）"
+date = 2019-11-13
+type = "normal"
+catalog = "COCC-17702"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17702"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (M@STER VERSION) 関裕美ソロ・リミックス"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (M@STER VERSION) 白菊ほたるソロ・リミックス"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (M@STER VERSION) 森久保乃々ソロ・リミックス"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ステップ&スキップ (GAME VERSION)"

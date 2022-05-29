@@ -1,0 +1,36 @@
+[album]
+album_id = "99f5abf5-b8d6-47de-9081-3d47d14ce941"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 37 Needle Light"
+artist = "Various Artists"
+date = 2020-03-18
+type = "normal"
+catalog = "COCC-17527"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17527"
+
+[[discs.tracks]]
+title = "Needle Light (M@STER VERSION)"
+artist = "上条春菜（長島光那）、荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "タッタ"
+artist = "多田李衣菜（青木瑠璃子）、木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "LIFE"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "RAGE OF DUST"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "Needle Light (M@STER VERSION) オリジナル・カラオケ"
+artist = "上条春菜（長島光那）、荒木比奈（田辺留依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Needle Light (GAME VERSION)"
+artist = "上条春菜（長島光那）、荒木比奈（田辺留依）"

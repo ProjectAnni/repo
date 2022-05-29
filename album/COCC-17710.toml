@@ -1,0 +1,29 @@
+[album]
+album_id = "2560c4ca-05ff-4e33-b02a-c8de1288a8c6"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 10 ほほえみDiary"
+artist = "高森藍子（金子有希）、道明寺歌鈴（新田ひより）"
+date = 2020-08-12
+type = "normal"
+catalog = "COCC-17710"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17710"
+
+[[discs.tracks]]
+title = "ほほえみDiary (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ほほえみDiary (M@STER VERSION) 高森藍子ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "ほほえみDiary (M@STER VERSION) 道明寺歌鈴ソロ・リミックス"
+artist = "道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "ほほえみDiary (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ほほえみDiary (GAME VERSION)"

@@ -1,0 +1,44 @@
+[album]
+album_id = "66fb4dca-ff0b-4808-b66f-57acf2161e26"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! TAKAMARI☆CLIMAXXX!!!!!"
+artist = "Various Artists"
+date = 2019-06-19
+type = "normal"
+catalog = "COCC-17613"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17613"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!!"
+artist = "喜多日菜子（深川芹亜）、喜多見柚（武田羅梨沙多胡）、南条光（神谷早矢佳）、日野茜（赤﨑千夏）、姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! 喜多日菜子ソロ・リミックス"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! 喜多見柚ソロ・リミックス"
+artist = "喜多見柚（武田羅梨沙多胡）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! 南条光ソロ・リミックス"
+artist = "南条光（神谷早矢佳）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! 日野茜ソロ・リミックス"
+artist = "日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! 姫川友紀ソロ・リミックス"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "TAKAMARI☆CLIMAXXX!!!!! オリジナル・カラオケ"
+artist = "喜多日菜子（深川芹亜）、喜多見柚（武田羅梨沙多胡）、南条光（神谷早矢佳）、日野茜（赤﨑千夏）、姫川友紀（杜野まこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "実用音楽その3 祝賀の日本伝統音楽 高砂"
+artist = "依田芳乃（高田憂希）"

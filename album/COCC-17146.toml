@@ -1,0 +1,42 @@
+[album]
+album_id = "07ab953d-bd6e-4659-8607-2db759b12e1a"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 06 Love∞Destiny"
+artist = "Various Artists"
+date = 2016-10-26
+type = "normal"
+catalog = "COCC-17146"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17146"
+
+[[discs.tracks]]
+title = "Love∞Destiny (M@STER VERSION)"
+artist = "佐久間まゆ（牧野由依）、北条加蓮（渕上舞）、小日向美穂（津田美波）、多田李衣菜（青木瑠璃子）、緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "青空リレーション"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "PANDEMIC ALONE"
+artist = "星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "Love∞Destiny (M@STER VERSION) オリジナル・カラオケ"
+artist = "佐久間まゆ（牧野由依）、北条加蓮（渕上舞）、小日向美穂（津田美波）、多田李衣菜（青木瑠璃子）、緒方智絵里（大空直美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "青空リレーション オリジナル・カラオケ"
+artist = "高森藍子（金子有希）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "PANDEMIC ALONE オリジナル・カラオケ"
+artist = "星輝子（松田颯水）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Love∞Destiny (GAME VERSION)"
+artist = "佐久間まゆ（牧野由依）、北条加蓮（渕上舞）、小日向美穂（津田美波）、多田李衣菜（青木瑠璃子）、緒方智絵里（大空直美）"

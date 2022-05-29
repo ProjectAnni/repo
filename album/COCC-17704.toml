@@ -1,0 +1,29 @@
+[album]
+album_id = "a3bfb712-02d9-450f-8776-e561ced9e8af"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 04 Secret Daybreak"
+artist = "速水奏（飯田友子）、新田美波（洲崎綾）"
+date = 2019-12-25
+type = "normal"
+catalog = "COCC-17704"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17704"
+
+[[discs.tracks]]
+title = "Secret Daybreak (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Secret Daybreak (M@STER VERSION) 速水奏ソロ・リミックス"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "Secret Daybreak (M@STER VERSION) 新田美波ソロ・リミックス"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "Secret Daybreak (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Secret Daybreak (GAME VERSION)"

@@ -1,0 +1,42 @@
+[album]
+album_id = "43a1edc3-903d-42db-921b-abfdb5972c4d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 16 ∀NSWER"
+artist = "Various Artists"
+date = 2018-04-18
+type = "normal"
+catalog = "COCC-17156"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17156"
+
+[[discs.tracks]]
+title = "∀NSWER (M@STER VERSION)"
+artist = "早坂美玲（朝井彩加）、森久保乃々（高橋花林）、星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "Dreaming of you"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "Voyage"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "∀NSWER (M@STER VERSION) オリジナル・カラオケ"
+artist = "早坂美玲（朝井彩加）、森久保乃々（高橋花林）、星輝子（松田颯水）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dreaming of you オリジナル・カラオケ"
+artist = "川島瑞樹（東山奈央）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Voyage オリジナル・カラオケ"
+artist = "新田美波（洲崎綾）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "∀NSWER (GAME VERSION)"
+artist = "早坂美玲（朝井彩加）、森久保乃々（高橋花林）、星輝子（松田颯水）"

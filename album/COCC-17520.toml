@@ -1,0 +1,37 @@
+[album]
+album_id = "797bd6e4-52c6-4dd5-93b5-917ee7fbcbd5"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 30 ガールズ・イン・ザ・フロンティア"
+artist = "Various Artists"
+date = 2019-07-17
+type = "normal"
+catalog = "COCC-17520"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17520"
+
+[[discs.tracks]]
+title = "ガールズ・イン・ザ・フロンティア (M@STER VERSION)"
+artist = "渋谷凛（福原綾香）、早坂美玲（朝井彩加）、木村夏樹（安野希世乃）、小日向美穂（津田美波）、塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "おねえちゃんデスコ"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "青空エール"
+artist = "結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、脇山珠美（嘉山未紗）、緒方智絵里（大空直美）、城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "ガールズ・イン・ザ・フロンティア (M@STER VERSION) オリジナル・カラオケ"
+artist = "渋谷凛（福原綾香）、早坂美玲（朝井彩加）、木村夏樹（安野希世乃）、小日向美穂（津田美波）、塩見周子（ルゥティン）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おねえちゃんデスコ オリジナル・カラオケ"
+artist = "市原仁奈（久野美咲）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ガールズ・イン・ザ・フロンティア (GAME VERSION)"
+artist = "渋谷凛（福原綾香）、早坂美玲（朝井彩加）、木村夏樹（安野希世乃）、小日向美穂（津田美波）、塩見周子（ルゥティン）"

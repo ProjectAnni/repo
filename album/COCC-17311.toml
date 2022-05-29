@@ -1,0 +1,42 @@
+[album]
+album_id = "182811d8-7aa1-4990-ab0d-9ebf20ae3379"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! キラッ！満開スマイル"
+artist = "島村卯月（大橋彩香）、小日向美穂（津田美波）、佐久間まゆ（牧野由依）、櫻井桃華（照井春佳）、双葉杏（五十嵐裕美）"
+date = 2017-04-26
+type = "normal"
+catalog = "COCC-17311"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17311"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル 島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル 小日向美穂ソロ・リミックス"
+artist = "小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル 佐久間まゆソロ・リミックス"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル 櫻井桃華ソロ・リミックス"
+artist = "櫻井桃華（照井春佳）"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル 双葉杏ソロ・リミックス"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "キラッ！満開スマイル オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぴにゃこら太絵かき歌"
+artist = "島村卯月（大橋彩香）"

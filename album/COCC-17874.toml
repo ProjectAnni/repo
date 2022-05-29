@@ -1,0 +1,35 @@
+[album]
+album_id = "ec336c07-dc90-470b-a46e-d24f4bde3330"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION! ハーモニクス"
+artist = "Various Artists"
+date = 2021-03-17
+type = "normal"
+catalog = "COCC-17874"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!"]
+
+[[discs]]
+catalog = "COCC-17874"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+artist = "ジュリア（愛美）、最上静香（田所あずさ）、木村夏樹（安野希世乃）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Jet to the Future (M@STER VERSION)"
+artist = "最上静香（田所あずさ）、ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+artist = "木村夏樹（安野希世乃）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Jet to the Future (M@STER VERSION)"
+artist = "最上静香（田所あずさ）、ジュリア（愛美）、木村夏樹（安野希世乃）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "虹色letters 一ノ瀬志希 ソロ・リミックス"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "虹色letters 宮本フレデリカ ソロ・リミックス"
+artist = "宮本フレデリカ（髙野麻美）"

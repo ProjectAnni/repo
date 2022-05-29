@@ -1,0 +1,42 @@
+[album]
+album_id = "fc04733e-d73f-4b19-8ac2-7df27b0c90b3"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 18 モーレツ★世直しギルティ！"
+artist = "Various Artists"
+date = 2018-06-20
+type = "normal"
+catalog = "COCC-17158"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17158"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！(M@STER VERSION)"
+artist = "堀裕子（鈴木絵理）、片桐早苗（和氣あず未）、及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "if"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "踊りまくろ☆ダンシング・ナイト"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！(M@STER VERSION) オリジナル・カラオケ"
+artist = "堀裕子（鈴木絵理）、片桐早苗（和氣あず未）、及川雫（のぐちゆり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "if オリジナル・カラオケ"
+artist = "速水奏（飯田友子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "踊りまくろ☆ダンシング・ナイト オリジナル・カラオケ"
+artist = "片桐早苗（和氣あず未）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！(GAME VERSION)"
+artist = "堀裕子（鈴木絵理）、片桐早苗（和氣あず未）、及川雫（のぐちゆり）"

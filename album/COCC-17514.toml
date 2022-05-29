@@ -1,0 +1,30 @@
+[album]
+album_id = "a0a599ae-b1c1-4996-9bc1-f6ed40afaba3"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 24 Trinity Field"
+artist = "渋谷凛（福原綾香）、北条加蓮（渕上舞）、神谷奈緒（松井恵理子）"
+date = 2018-12-12
+type = "normal"
+catalog = "COCC-17514"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17514"
+
+[[discs.tracks]]
+title = "Trinity Field (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Trinity Field (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "輝く世界の魔法 -Magical Step Forward Remix-"
+
+[[discs.tracks]]
+title = "ゴキゲンParty Night -Dance!!!!!!!!!!!!!!! Remix-"
+
+[[discs.tracks]]
+title = "Near to You -PicoPico D'n'B Remix-"
+
+[[discs.tracks]]
+title = "Trinity Field (GAME VERSION)"

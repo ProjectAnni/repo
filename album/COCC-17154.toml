@@ -1,0 +1,42 @@
+[album]
+album_id = "97a76f9d-d8aa-400f-ae4e-4d68fb4e0c9e"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 14 情熱ファンファンファーレ"
+artist = "Various Artists"
+date = 2017-11-08
+type = "normal"
+catalog = "COCC-17154"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17154"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (M@STER VERSION)"
+artist = "本田未央（原紗友里）、日野茜（赤﨑千夏）、高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "サイキック！ぱーりーないと☆"
+artist = "堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "Nocturne"
+artist = "高垣楓（早見沙織）、川島瑞樹（東山奈央）、松永涼（千菅春香）、速水奏（飯田友子）、新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (M@STER VERSION) オリジナル・カラオケ"
+artist = "本田未央（原紗友里）、日野茜（赤﨑千夏）、高森藍子（金子有希）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サイキック！ぱーりーないと☆ オリジナル・カラオケ"
+artist = "堀裕子（鈴木絵理）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nocturne オリジナル・カラオケ"
+artist = "高垣楓（早見沙織）、川島瑞樹（東山奈央）、松永涼（千菅春香）、速水奏（飯田友子）、新田美波（洲崎綾）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (GAME VERSION)"
+artist = "本田未央（原紗友里）、日野茜（赤﨑千夏）、高森藍子（金子有希）"

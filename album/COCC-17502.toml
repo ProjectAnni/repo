@@ -1,0 +1,45 @@
+[album]
+album_id = "4f6edd7f-935d-4a0b-9ee3-180ecb385e59"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! なつっこ音頭"
+artist = "Various Artists"
+date = 2018-09-12
+type = "normal"
+catalog = "COCC-17502"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17502"
+
+[[discs.tracks]]
+title = "なつっこ音頭"
+artist = "赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、橘ありす（佐藤亜美菜）、結城晴（小市眞琴）、龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 赤城みりあソロ・リミックス"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 城ヶ崎莉嘉ソロ・リミックス"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 橘ありすソロ・リミックス"
+artist = "橘ありす（佐藤亜美菜）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 龍崎薫ソロ・リミックス"
+artist = "龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "なつっこ音頭 オリジナル・カラオケ"
+artist = "赤城みりあ（黒沢ともよ）、城ヶ崎莉嘉（山本希望）、橘ありす（佐藤亜美菜）、結城晴（小市眞琴）、龍崎薫（春瀬なつみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラジオ体操第二"
+artist = "新田美波（洲崎綾）"
+type = "drama"
