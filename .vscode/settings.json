@@ -1,5 +1,24 @@
 {
   "[toml]": {
     "editor.defaultFormatter": "bodil.prettier-toml"
+  },
+  "highlight.regexes": {
+    "(〜)": [
+      {
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderColor": "yellow",
+        "color": "red"
+      }
+    ],
+    "([·•])": [
+      {
+        "borderWidth": "1px",
+        "borderStyle": "solid",
+        "borderColor": "yellow",
+        "color": "red"
+      }
+    ],
+    "([·᛫‧∘∙⋅◦⦁⸰⸱･𐄁])": [{ "color": "yellow" }]
   }
 }
