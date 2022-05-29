@@ -12,6 +12,7 @@ catalog = "GNCA-0400"
 
 [[discs.tracks]]
 title = "ノーポイッ！"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "なんとなくミライ"
@@ -39,6 +40,7 @@ artist = "シャロ（内田真礼）"
 [[discs.tracks]]
 title = "ノーポイッ！(Instrumental)"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "なんとなくミライ (Instrumental)"

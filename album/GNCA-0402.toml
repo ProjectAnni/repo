@@ -12,6 +12,7 @@ catalog = "GNCA-0402"
 
 [[discs.tracks]]
 title = "ときめきポポロン♪"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "ときめきLOOPにのって"
@@ -31,6 +32,7 @@ artist = "メグ（村川梨衣）"
 [[discs.tracks]]
 title = "ときめきポポロン♪(Instrumental)"
 type = "instrumental"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "ときめきLOOPにのって (Instrumental)"
