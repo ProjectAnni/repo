@@ -624,11 +624,6 @@ name = "東方Project"
 type = "project"
 
 [[tag]]
-name = "少女☆歌劇 レヴュースタァライト"
-type = "project"
-includes.animation = ["劇場版 少女☆歌劇 レヴュースタァライト"]
-
-[[tag]]
 name = "Animelo Summer Live"
 type = "project"
 

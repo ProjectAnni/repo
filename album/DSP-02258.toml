@@ -1,0 +1,41 @@
+[album]
+album_id = "22d4803f-8b7d-4d65-94dc-0cc5af996bfd"
+title = "再生産レヴュー曲 Instrumental Album"
+artist = "Project Revue Starlight"
+date = 2020-09-09
+type = "instrumental"
+catalog = "DSP-02258"
+tags = ["少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"]
+
+[[discs]]
+catalog = "DSP-02258"
+
+[[discs.tracks]]
+title = "世界を灰にするまで (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "誇りと驕り (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "The Star Knows ～Another～ Instrumental"
+
+[[discs.tracks]]
+title = "恋の魔球(7回裏) Instrumental"
+
+[[discs.tracks]]
+title = "宵・花咲か唄 Instrumental"
+
+[[discs.tracks]]
+title = "RE:CREATE (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "星々の絆 (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "Star Diamond (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "スタァライト (movie ver.) Instrumental"
+
+[[discs.tracks]]
+title = "再生讃美曲 (movie ver.) Instrumental"
