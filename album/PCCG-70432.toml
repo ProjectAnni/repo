@@ -12,7 +12,7 @@ catalog = "PCCG-70432"
 
 [[discs.tracks]]
 title = "星のダイアローグ"
-tags = ["アニメ「少女☆歌劇 レヴュースタァライト」", "OP"]
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "OP"]
 
 [[discs.tracks]]
 title = "ディスカバリー！"
@@ -24,4 +24,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "ディスカバリー！［Instrumental］"
 type = "instrumental"
-tags = ["アニメ「少女☆歌劇 レヴュースタァライト」", "OP"]
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "OP"]

@@ -12,7 +12,7 @@ catalog = "PCCG-01703"
 
 [[discs.tracks]]
 title = "Fly Me to the Star"
-tags = ["アニメ「少女☆歌劇 レヴュースタァライト」", "ED"]
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "ED"]
 
 [[discs.tracks]]
 title = "よろしく九九組"
@@ -23,7 +23,7 @@ title = "ロマンティッククルージン"
 [[discs.tracks]]
 title = "Fly Me to the Star［Instrumental］"
 type = "instrumental"
-tags = ["アニメ「少女☆歌劇 レヴュースタァライト」", "ED"]
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "ED"]
 
 [[discs.tracks]]
 title = "よろしく九九組［Instrumental］"
