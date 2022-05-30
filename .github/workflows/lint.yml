@@ -1,4 +1,4 @@
-name: Validate Metadata Repository
+name: Lint Repository
 on:
   pull_request:
 
@@ -16,7 +16,12 @@ jobs:
           repo: ProjectAnni/anni
           workflow: build.yaml
           name: anni-x86_64-unknown-linux-musl.tar.gz
+        
+      - name: Setup | ReviewDog
+        uses: reviewdog/action-setup@v1
 
-      - name: Run | Validate Metadata
+      - name: Run | Lint Repository
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          tar xzvf anni-x86_64-unknown-linux-musl.tar.gz && ANNI_REPO=$PWD LANG=en_US ./anni repo lint
+          tar xzvf anni-x86_64-unknown-linux-musl.tar.gz && ANNI_REPO=$PWD LANG=en_US ./anni repo lint -f rdjsonl | reviewdog -name=anni-repo-lint -f=rdjsonl -reporter=github-pr-review
