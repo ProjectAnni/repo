@@ -1,0 +1,29 @@
+[album]
+album_id = "c1111996-91c2-4d57-9954-e493d03cf003"
+title = "Feel You, Heal You／Believe like Singing."
+artist = "ヒーラーガールズ（礒部花凜、熊田茜音、堀内まり菜、吉武千颯）"
+date = 2022-05-25
+type = "normal"
+catalog = "LACM-24265"
+tags = ["ヒーラーガールズ", "アニメ「ヒーラー・ガール」"]
+
+[[discs]]
+catalog = "LACM-24265"
+
+[[discs.tracks]]
+title = "Feel You, Heal You"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Believe like Singing."
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Feel You, Heal You (Instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Believe like Singing. (Instrumental)"
+type = "instrumental"
+tags = ["ED"]
