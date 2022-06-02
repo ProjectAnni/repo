@@ -1,0 +1,39 @@
+[album]
+album_id = "61260104-6bf6-45c0-8ca6-74108ed2841f"
+title = "遣らずの雨"
+artist = "楠木ともり"
+date = 2022-06-01
+type = "normal"
+catalog = "VVCL-2046"
+tags = ["楠木ともり"]
+
+[[discs]]
+catalog = "VVCL-2046"
+
+[[discs.tracks]]
+title = "遣らずの雨"
+
+[[discs.tracks]]
+title = "山荷葉"
+
+[[discs.tracks]]
+title = "もうひとくち"
+
+[[discs.tracks]]
+title = "alive"
+
+[[discs.tracks]]
+title = "遣らずの雨 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "山荷葉 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "もうひとくち -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "alive -Instrumental-"
+type = "instrumental"
