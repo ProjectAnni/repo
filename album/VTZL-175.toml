@@ -1,0 +1,48 @@
+[album]
+album_id = "68826dde-1fae-4abd-9458-6c894630d385"
+title = "上ミノ"
+edition = "初回限定盤"
+artist = "鈴木みのり"
+date = 2020-08-26
+type = "normal"
+catalog = "VTZL-175"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTZL-175"
+
+[[discs.tracks]]
+title = "Now Is The Time!"
+
+[[discs.tracks]]
+title = "ダメハダメ (Album Ver.)"
+
+[[discs.tracks]]
+title = "わからないのよBABY"
+
+[[discs.tracks]]
+title = "まいっちゃう"
+
+[[discs.tracks]]
+title = "最果てのハロー"
+
+[[discs.tracks]]
+title = "まぼろし"
+
+[[discs.tracks]]
+title = "月夜の夢"
+
+[[discs.tracks]]
+title = "夜空"
+
+[[discs.tracks]]
+title = "gloria"
+
+[[discs.tracks]]
+title = "こいもよう"
+
+[[discs.tracks]]
+title = "茜空、私がいた街"
+
+[[discs.tracks]]
+title = "エフェメラをあつめて"

@@ -1,0 +1,28 @@
+[album]
+album_id = "bd8d5508-75c8-4639-a8b0-83c118556ec7"
+title = "サイハテ"
+artist = "鈴木みのり"
+date = 2021-11-10
+type = "normal"
+catalog = "VTZL-191"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTZL-191"
+
+[[discs.tracks]]
+title = "サイハテ"
+
+[[discs.tracks]]
+title = "リナリア"
+
+[[discs.tracks]]
+title = "サイハテ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リナリア (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サイハテ (TV EDIT)"

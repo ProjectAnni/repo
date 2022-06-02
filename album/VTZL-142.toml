@@ -1,0 +1,28 @@
+[album]
+album_id = "cab74197-d2bb-480a-8fe5-57b67e62c5a5"
+title = "FEELING AROUND"
+artist = "鈴木みのり"
+date = 2018-01-24
+type = "normal"
+catalog = "VTZL-142"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTZL-142"
+
+[[discs.tracks]]
+title = "FEELING AROUND"
+
+[[discs.tracks]]
+title = "好きなものは好き！"
+
+[[discs.tracks]]
+title = "20才の約束"
+
+[[discs.tracks]]
+title = "FEELING AROUND -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "好きなものは好き！-Instrumental-"
+type = "instrumental"
