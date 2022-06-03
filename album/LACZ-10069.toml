@@ -1,0 +1,26 @@
+[album]
+album_id = "ec6e6b87-caac-49c7-b8f8-7dd6ff02a392"
+title = "Voices vol.2 ～アニソンコーラスカバーアルバム～"
+artist = "ヒーラーガールズ（礒部花凜、熊田茜音、堀内まり菜、吉武千颯）"
+date = 2021-07-30
+type = "normal"
+catalog = "LACZ-10069"
+tags = ["ヒーラーガールズ"]
+
+[[discs]]
+catalog = "LACZ-10069"
+
+[[discs.tracks]]
+title = "Feel You, Heal You ～sêrênité～"
+
+[[discs.tracks]]
+title = "シュガーソングとビターステップ"
+
+[[discs.tracks]]
+title = "もってけ！セーラーふく"
+
+[[discs.tracks]]
+title = "secret base ～君がくれたもの～"
+
+[[discs.tracks]]
+title = "ハレ晴レユカイ"
