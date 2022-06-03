@@ -1,0 +1,38 @@
+[album]
+album_id = "bccd8874-71e5-4413-ade3-aea7a09a5d06"
+title = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 02"
+artist = "澤野弘之"
+date = 2012-04-25
+type = "absolute"
+catalog = "ANZX-3808"
+tags = ["TVアニメ「ギルティクラウン」"]
+
+[[discs]]
+catalog = "ANZX-3808"
+
+[[discs.tracks]]
+title = "pF-AdLibⅠ"
+
+[[discs.tracks]]
+title = "gT→pF"
+
+[[discs.tracks]]
+title = "pF-AdLibⅡ"
+
+[[discs.tracks]]
+title = "fUE+p@D+hArP→pF"
+
+[[discs.tracks]]
+title = "sT+hRN+tRB+tUba"
+
+[[discs.tracks]]
+title = "pF-AdLibⅢ"
+
+[[discs.tracks]]
+title = "1616"
+
+[[discs.tracks]]
+title = "gT→sYnTH"
+
+[[discs.tracks]]
+title = "pF-AdLibⅣ"

@@ -1,0 +1,97 @@
+[album]
+album_id = "ce794fa9-93bb-4c0c-8b5c-760f371cc779"
+title = "ギルティクラウン オリジナルサウンドトラック"
+artist = "小林未郁、David Whitaker、mpi、本田みちよ、Aimee Blackschleger、Leina、Cyua"
+date = 2012-01-25
+type = "normal"
+catalog = "SVWC-7817"
+tags = ["TVアニメ「ギルティクラウン」"]
+
+[[discs]]
+catalog = "SVWC-7817"
+
+[[discs.tracks]]
+title = "βίος"
+artist = "小林未郁"
+
+[[discs.tracks]]
+title = "α"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Ω"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Ready to Go <feat.David Whitaker>"
+artist = "David Whitaker"
+
+[[discs.tracks]]
+title = "friends"
+artist = "mpi"
+
+[[discs.tracks]]
+title = "VOiD"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "gエ19"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "θεοί"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "close your eyes <feat.Michiyo Honda>"
+artist = "小林未郁"
+
+[[discs.tracks]]
+title = "Βασιλεύς"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "π"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Release My Soul"
+artist = "Aimee Blackschleger"
+
+[[discs.tracks]]
+title = "κr0nё"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Hill Of Sorrow <feat.mpi>"
+artist = "mpi"
+
+[[discs.tracks]]
+title = "Απōκάλυψις"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Home ～in this corner～"
+artist = "Leina"
+
+[[discs.tracks]]
+title = "Genesi§"
+artist = "澤野弘之"
+type = "absolute"
+
+[[discs.tracks]]
+title = "βίος-δ <feat.Mika Kobayashi>"
+artist = "小林未郁"
+
+[[discs.tracks]]
+title = "Rё∀˥ <feat.Cyua>"
+artist = "Cyua"

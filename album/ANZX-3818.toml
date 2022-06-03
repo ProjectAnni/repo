@@ -1,0 +1,29 @@
+[album]
+album_id = "efbc16cf-29f5-41c0-a5f1-4f585580f5d4"
+title = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 03"
+artist = "澤野弘之"
+date = 2012-09-26
+type = "absolute"
+catalog = "ANZX-3818"
+tags = ["TVアニメ「ギルティクラウン」"]
+
+[[discs]]
+catalog = "ANZX-3818"
+
+[[discs.tracks]]
+title = "Egg"
+
+[[discs.tracks]]
+title = "Garlic"
+
+[[discs.tracks]]
+title = "Olibe Oil"
+
+[[discs.tracks]]
+title = "Idaho Potato"
+
+[[discs.tracks]]
+title = "Salt"
+
+[[discs.tracks]]
+title = "Tamanegi"

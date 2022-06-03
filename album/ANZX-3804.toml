@@ -1,0 +1,39 @@
+[album]
+album_id = "d10d2418-841d-49b2-8953-394bb3fac409"
+title = "GUILTY CROWN SOUNDTRACK ANOTHER SIDE 01"
+artist = "澤野弘之"
+date = 2012-02-22
+type = "absolute"
+catalog = "ANZX-3804"
+tags = ["TVアニメ「ギルティクラウン」"]
+
+[[discs]]
+catalog = "ANZX-3804"
+
+[[discs.tracks]]
+title = "kEっ1000"
+
+[[discs.tracks]]
+title = "Miss手リAs"
+
+[[discs.tracks]]
+title = "刺U"
+
+[[discs.tracks]]
+title = "血Con-儀"
+
+[[discs.tracks]]
+title = "鎖スPen$"
+
+[[discs.tracks]]
+title = "Oノ存ξ"
+
+[[discs.tracks]]
+title = "Gエ19 <FullSize>"
+
+[[discs.tracks]]
+title = "Vぉ1℃→Ki母∪"
+
+[[discs.tracks]]
+title = "美♂-K+$タすpAd"
+artist = "小林未郁"
