@@ -1,0 +1,204 @@
+[album]
+album_id = "77f79e34-488d-4e16-a86e-356d662ce311"
+title = "アリスサウンドアルバム Vol.33 ドーナドーナ いっしょにわるいことをしよう"
+artist = "水夏える、cittan*、江口孝宏"
+date = 2020-11-27
+type = "absolute"
+catalog = "ASS-038"
+tags = ["ドーナドーナ いっしょにわるいことをしよう"]
+
+[[discs]]
+catalog = "ASS-038"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた（Game size）"
+artist = "月乃"
+type = "normal"
+
+[[discs.tracks]]
+title = "rambling pleat"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "キルタイム"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "プレパララ"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "comer"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "soft drive"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "6000rpm"
+artist = "cittan*、江口孝宏"
+
+[[discs.tracks]]
+title = "GO！ HITOKARI"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "SPARKs"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "メガテリウム"
+artist = "cittan*"
+
+[[discs.tracks]]
+title = "Whatcha；Whatcha Doin’"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "VILE/VAN"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "easy as pie"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "comer（uniq）"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "とかなんとか"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "Chuccura*Chuccura"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "遅れて動く影"
+artist = "江口孝宏"
+
+[[discs.tracks]]
+title = "dndndn.dn"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "首振り式扇風機"
+artist = "江口孝宏"
+
+[[discs.tracks]]
+title = "Breakthru＞＞＞"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "after the"
+artist = "水夏える"
+
+[[discs]]
+catalog = "ASS-038"
+
+[[discs.tracks]]
+title = "fla†††"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "HARD DRIVE"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "斑"
+artist = "cittan*"
+
+[[discs.tracks]]
+title = "あかときやみから"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "＃ヒロピン"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "キルヒホッフの第五法則"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "アセヌ愁色"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "濡羽色GUSTYWIND"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "玉響時間"
+artist = "cittan*、江口孝宏"
+
+[[discs.tracks]]
+title = "Tight Fever"
+artist = "江口孝宏"
+
+[[discs.tracks]]
+title = "pICARESq"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "absolute A"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "Desastre"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "Shoot for the Moon"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "悪い意味のヤバい"
+artist = "cittan*、江口孝宏"
+
+[[discs.tracks]]
+title = "クロウラ・オーヴァスピード"
+artist = "cittan*"
+
+[[discs.tracks]]
+title = "喉首"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "Doo-Yah-Roo-Yoh"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "明るい未来"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "Fに続く"
+artist = "水夏える"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた"
+artist = "月乃"
+type = "normal"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた（Inst）"
+artist = "月乃"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた（Karaoke）"
+artist = "月乃"
+type = "normal"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた（Game size Inst）"
+artist = "月乃"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドーナドーナのうた（Game size Karaoke）"
+artist = "月乃"
+type = "normal"
