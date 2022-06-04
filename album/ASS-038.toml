@@ -191,7 +191,7 @@ type = "instrumental"
 [[discs.tracks]]
 title = "ドーナドーナのうた（Karaoke）"
 artist = "月乃"
-type = "normal"
+type = "instrumental"
 
 [[discs.tracks]]
 title = "ドーナドーナのうた（Game size Inst）"
@@ -201,4 +201,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "ドーナドーナのうた（Game size Karaoke）"
 artist = "月乃"
-type = "normal"
+type = "instrumental"
