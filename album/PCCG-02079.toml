@@ -8,7 +8,7 @@ catalog = "PCCG-02079"
 tags = ["平家物語"]
 
 [[discs]]
-catalog = "PCCG-02079"
+catalog = "PCCG-02079-1"
 
 [[discs.tracks]]
 title = "the beginning"
@@ -101,7 +101,7 @@ title = "the battle"
 title = "requiem phases"
 
 [[discs]]
-catalog = "PCCG-02079"
+catalog = "PCCG-02079-2"
 
 [[discs.tracks]]
 title = "Gion shoja (inst)"
