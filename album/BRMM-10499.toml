@@ -1,0 +1,59 @@
+[album]
+album_id = "0d575bae-886b-4541-866d-a8000e637c96"
+title = "Vivid BAD SQUAD SEKAI ALBUM Vol.1"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音リン、鏡音レン、KAITO、巡音ルカ"
+date = 2022-06-01
+type = "normal"
+catalog = "BRMM-10499"
+tags = ["Vivid BAD SQUAD"]
+
+[[discs]]
+catalog = "BRMM-10499"
+
+[[discs.tracks]]
+title = "フラジール"
+artist = "東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "劣等上等"
+artist = "鏡音リン、鏡音レン、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）"
+
+[[discs.tracks]]
+title = "ドクター＝ファンクビート"
+artist = "KAITO、東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "Just Be Friends"
+artist = "小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、巡音ルカ"
+
+[[discs.tracks]]
+title = "夜咄ディセイブ"
+artist = "東雲彰人（今井文也）、青柳冬弥（伊東健人）、鏡音レン"
+
+[[discs.tracks]]
+title = "ECHO"
+artist = "巡音ルカ、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "drop pop candy"
+artist = "鏡音リン、巡音ルカ、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）"
+
+[[discs.tracks]]
+title = "威風堂々"
+artist = "KAITO、東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "幽霊東京"
+artist = "東雲彰人（今井文也）、青柳冬弥（伊東健人）、KAITO"
+
+[[discs.tracks]]
+title = "トラフィック・ジャム"
+artist = "鏡音リン、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "チルドレンレコード"
+artist = "鏡音レン、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人）"
+
+[[discs.tracks]]
+title = "悪魔の踊り方"
+artist = "鏡音リン、小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人）"

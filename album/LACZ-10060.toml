@@ -1,0 +1,26 @@
+[album]
+album_id = "0827b514-c3e6-4f65-8f94-7635cff4d513"
+title = "Voices vol.1 ～アニソンコーラスカバーアルバム～"
+artist = "ヒーラーガールズ（礒部花凜、熊田茜音、堀内まり菜、吉武千颯）"
+date = 2021-03-26
+type = "normal"
+catalog = "LACZ-10060"
+tags = ["ヒーラーガールズ"]
+
+[[discs]]
+catalog = "LACZ-10060"
+
+[[discs.tracks]]
+title = "God knows..."
+
+[[discs.tracks]]
+title = "WALK"
+
+[[discs.tracks]]
+title = "Snow halation"
+
+[[discs.tracks]]
+title = "優しい忘却"
+
+[[discs.tracks]]
+title = "DREAM SOLISTER"
