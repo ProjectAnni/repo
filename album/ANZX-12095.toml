@@ -1,0 +1,38 @@
+[album]
+album_id = "8026d24b-a56e-4612-bd76-52547d56f39f"
+title = "GUILTY CROWN REARRANGE CD"
+artist = "mpi、Aimee Blackschleger"
+date = 2016-04-27
+type = "normal"
+catalog = "ANZX-12095"
+tags = ["TVアニメ「ギルティクラウン」"]
+
+[[discs]]
+catalog = "ANZX-12095"
+
+[[discs.tracks]]
+title = "friends <MOD>"
+artist = "mpi"
+
+[[discs.tracks]]
+title = "Release My Soul <MOD>"
+artist = "Aimee Blackschleger"
+
+[[discs.tracks]]
+title = "Hill Of Sorrow <MOD>"
+artist = "mpi"
+
+[[discs.tracks]]
+title = "friends <MOD> -Instrumental-"
+artist = "mpi"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Release My Soul <MOD> -Instrumental-"
+artist = "Aimee Blackschleger"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Hill Of Sorrow <MOD> -Instrumental-"
+artist = "mpi"
+type = "instrumental"

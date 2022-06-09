@@ -1,0 +1,39 @@
+[album]
+album_id = "22e00752-548e-435a-aa88-822ae02773fd"
+title = "The Everlasting Guilty Crown"
+artist = "EGOIST（ryo、chelly）"
+date = 2012-03-07
+type = "normal"
+catalog = "SVWC-7834"
+tags = ["TVアニメ「ギルティクラウン」", "EGOIST"]
+
+[[discs]]
+catalog = "SVWC-7834"
+
+[[discs.tracks]]
+title = "The Everlasting Guilty Crown"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "キミソラキセキ"
+
+[[discs.tracks]]
+title = "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)"
+
+[[discs.tracks]]
+title = "The Everlasting Guilty Crown -TV Edit-"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "The Everlasting Guilty Crown ～Instrumental～"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "キミソラキセキ ～Instrumental～"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "The Everlasting Guilty Crown (TV Edit) ～Instrumental～"
+type = "instrumental"
+tags = ["OP"]

@@ -1,0 +1,39 @@
+[album]
+album_id = "d40cd0d6-6c8b-495a-bec9-06000e6b8128"
+title = "Departures ～あなたにおくるアイの歌～"
+artist = "EGOIST（ryo、chelly）"
+date = 2011-11-30
+type = "normal"
+catalog = "SVWC-7798"
+tags = ["TVアニメ「ギルティクラウン」", "EGOIST"]
+
+[[discs]]
+catalog = "SVWC-7798"
+
+[[discs.tracks]]
+title = "Departures ～あなたにおくるアイの歌～"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "エウテルペ"
+
+[[discs.tracks]]
+title = "Departures ～あなたにおくるアイの歌～ （TV Edit）"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Departures ～あなたにおくるアイの歌～ BOOM BOOM SATELLITES Remix -meteoric rain-"
+
+[[discs.tracks]]
+title = "Departures ～あなたにおくるアイの歌～ -Instrumental-"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "エウテルペ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Departures ～あなたにおくるアイの歌～ （TV Edit） -Instrumental-"
+type = "instrumental"
+tags = ["ED"]
