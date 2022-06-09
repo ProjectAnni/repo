@@ -1,0 +1,45 @@
+[album]
+album_id = "dc0d9856-3345-4a25-acb8-fccc7b959e3e"
+title = "VARIETY"
+edition = "CD"
+artist = "竹内まりや"
+date = 1986-12-21
+type = "normal"
+catalog = "32XM-28"
+tags = ["竹内まりや"]
+
+[[discs]]
+catalog = "32XM-28"
+
+[[discs.tracks]]
+title = "もう一度"
+
+[[discs.tracks]]
+title = "゚プラスティック・ラブ"
+
+[[discs.tracks]]
+title = "本気でオンリーユー (Let's Get Married)"
+
+[[discs.tracks]]
+title = "ONE NIGHT STAND"
+
+[[discs.tracks]]
+title = "BROKEN HEART"
+
+[[discs.tracks]]
+title = "アンフィシアターの夜"
+
+[[discs.tracks]]
+title = "とどかぬ想い"
+
+[[discs.tracks]]
+title = "マージービートで唄わせて"
+
+[[discs.tracks]]
+title = "水とあなたと太陽と"
+
+[[discs.tracks]]
+title = "ふたりはステディ"
+
+[[discs.tracks]]
+title = "シェットランドに頬をうずめて"
