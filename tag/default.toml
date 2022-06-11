@@ -541,6 +541,10 @@ type = "animation"
 name = "TVアニメ「SPY×FAMILY」"
 type = "animation"
 
+[[tag]]
+name = "TVアニメ「阿波連さんははかれない」"
+type = "animation"
+
 ################################################################################
 # Game
 #
