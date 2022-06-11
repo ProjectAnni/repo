@@ -1,0 +1,29 @@
+[album]
+album_id = "d9fac6b4-a0b7-490f-a556-bdcc0c141f38"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 05 ギュっとMilky Way"
+artist = "佐久間まゆ（牧野由依）、喜多日菜子（深川芹亜）"
+date = 2020-02-05
+type = "normal"
+catalog = "COCC-17705"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17705"
+
+[[discs.tracks]]
+title = "ギュっとMilky Way (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "ギュっとMilky Way (M@STER VERSION) 佐久間まゆソロ・リミックス"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "ギュっとMilky Way (M@STER VERSION) 喜多日菜子ソロ・リミックス"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "ギュっとMilky Way (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ギュっとMilky Way (GAME VERSION)"

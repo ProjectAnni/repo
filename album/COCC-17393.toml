@@ -1,0 +1,48 @@
+[album]
+album_id = "6a4c5fd6-b78f-464a-9b3e-41cec77a3d9f"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! Snow＊Love"
+artist = "Various Artists"
+date = 2018-01-10
+type = "normal"
+catalog = "COCC-17393"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17393"
+
+[[discs.tracks]]
+title = "Snow＊Love"
+artist = "市原仁奈（久野美咲）、及川雫（のぐちゆり）、大槻唯（山下七海）、高森藍子（金子有希）、依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "Snow＊Love 市原仁奈ソロ・リミックス"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "Snow＊Love 及川雫ソロ・リミックス"
+artist = "及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "Snow＊Love 大槻唯ソロ・リミックス"
+artist = "大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "Snow＊Love 高森藍子ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "Snow＊Love 依田芳乃ソロ・リミックス"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "Snow＊Love オリジナル・カラオケ"
+artist = "市原仁奈（久野美咲）、及川雫（のぐちゆり）、大槻唯（山下七海）、高森藍子（金子有希）、依田芳乃（高田憂希）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "とどけ！アイドル - しんげきRemix -"
+artist = "本田未央（原紗友里）、諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "ススメ☆オトメ ～jewel parade～ - しんげきRemix -"
+artist = "城ヶ崎美嘉（佳村はるか）、城ヶ崎莉嘉（山本希望）"

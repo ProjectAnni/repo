@@ -1,0 +1,42 @@
+[album]
+album_id = "53f15831-d124-416f-b4b7-ee9fde5ee4d0"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 01 Snow Wings"
+artist = "Various Artists"
+date = 2016-03-30
+type = "normal"
+catalog = "COCC-17141"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17141"
+
+[[discs.tracks]]
+title = "Snow Wings (M@STER VERSION)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、大槻唯（山下七海）、上条春菜（長島光那）"
+
+[[discs.tracks]]
+title = "はにかみdays"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "AnemoneStar"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Snow Wings (M@STER VERSION) オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、大槻唯（山下七海）、上条春菜（長島光那）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "はにかみdays オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "AnemoneStar オリジナル・カラオケ"
+artist = "渋谷凛（福原綾香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Snow Wings (GAME VERSION)"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）、大槻唯（山下七海）、上条春菜（長島光那）"

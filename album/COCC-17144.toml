@@ -1,0 +1,42 @@
+[album]
+album_id = "3aa07850-3a39-4581-87d8-f5731fbc7b60"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 04 生存本能ヴァルキュリア"
+artist = "Various Artists"
+date = 2016-07-27
+type = "normal"
+catalog = "COCC-17144"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17144"
+
+[[discs.tracks]]
+title = "生存本能ヴァルキュリア (M@STER VERSION)"
+artist = "新田美波（洲崎綾）、鷺沢文香（M・A・O）、橘ありす（佐藤亜美菜）、高森藍子（金子有希）、相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "空と風と恋のワルツ"
+artist = "小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "Sparkling Girl"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "生存本能ヴァルキュリア (M@STER VERSION) オリジナル・カラオケ"
+artist = "新田美波（洲崎綾）、鷺沢文香（M・A・O）、橘ありす（佐藤亜美菜）、高森藍子（金子有希）、相葉夕美（木村珠莉）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "空と風と恋のワルツ オリジナル・カラオケ"
+artist = "小日向美穂（津田美波）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sparkling Girl オリジナル・カラオケ"
+artist = "多田李衣菜（青木瑠璃子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "生存本能ヴァルキュリア (GAME VERSION)"
+artist = "新田美波（洲崎綾）、鷺沢文香（M・A・O）、橘ありす（佐藤亜美菜）、高森藍子（金子有希）、相葉夕美（木村珠莉）"

@@ -12,6 +12,7 @@ catalog = "GNCA-0620"
 
 [[discs.tracks]]
 title = "天空カフェテリア"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "ユメ＜ウツツ→ハッピータイム"
@@ -39,6 +40,7 @@ artist = "シャロ（内田真礼）"
 [[discs.tracks]]
 title = "天空カフェテリア (Instrumental)"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "ユメ＜ウツツ→ハッピータイム (Instrumental)"

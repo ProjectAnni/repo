@@ -1,0 +1,37 @@
+[album]
+album_id = "67d40e48-ef95-4989-ad32-1b4ea41faf62"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 19 With Love"
+artist = "Various Artists"
+date = 2018-07-18
+type = "normal"
+catalog = "COCC-17159"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17159"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION)"
+artist = "五十嵐響子（種﨑敦美）、乙倉悠貴（中島由貴）、水本ゆかり（藤田茜）、諸星きらり（松嵜麗）、姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "銀河図書館"
+artist = "鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "always"
+artist = "関裕美（会沢紗弥）、荒木比奈（田辺留依）、村上巴（花井美春）、藤原肇（鈴木みのり）、喜多見柚（武田羅梨沙多胡）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) オリジナル・カラオケ"
+artist = "五十嵐響子（種﨑敦美）、乙倉悠貴（中島由貴）、水本ゆかり（藤田茜）、諸星きらり（松嵜麗）、姫川友紀（杜野まこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "銀河図書館 オリジナル・カラオケ"
+artist = "鷺沢文香（M・A・O）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "With Love (GAME VERSION)"
+artist = "五十嵐響子（種﨑敦美）、乙倉悠貴（中島由貴）、水本ゆかり（藤田茜）、諸星きらり（松嵜麗）、姫川友紀（杜野まこ）"

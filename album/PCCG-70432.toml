@@ -5,13 +5,14 @@ artist = "スタァライト九九組（愛城華恋（小山百代）、神楽�
 date = 2018-07-18
 type = "normal"
 catalog = "PCCG-70432"
-tags = ["少女☆歌劇 レヴュースタァライト"]
+tags = ["スタァライト九九組"]
 
 [[discs]]
 catalog = "PCCG-70432"
 
 [[discs.tracks]]
 title = "星のダイアローグ"
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "OP"]
 
 [[discs.tracks]]
 title = "ディスカバリー！"
@@ -19,6 +20,7 @@ title = "ディスカバリー！"
 [[discs.tracks]]
 title = "星のダイアローグ［Instrumental］"
 type = "instrumental"
+tags = ["TVアニメ「少女☆歌劇 レヴュースタァライト」", "OP"]
 
 [[discs.tracks]]
 title = "ディスカバリー！［Instrumental］"

@@ -1,0 +1,42 @@
+[album]
+album_id = "5c3d9710-26ad-44a0-965f-d815674b36ef"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21 Kawaii make MY day!"
+artist = "Various Artists"
+date = 2018-09-19
+type = "normal"
+catalog = "COCC-17511"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17511"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (M@STER VERSION)"
+artist = "中野有香（下地紫野）、水本ゆかり（藤田茜）、椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "Dear My Dreamers"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "Flip Flop ～For SS3A rearrange Mix～"
+artist = "荒木比奈（田辺留依）、上条春菜（長島光那）"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (M@STER VERSION) オリジナル・カラオケ"
+artist = "中野有香（下地紫野）、水本ゆかり（藤田茜）、椎名法子（都丸ちよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dear My Dreamers オリジナル・カラオケ"
+artist = "姫川友紀（杜野まこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Flip Flop ～For SS3A rearrange Mix～ オリジナル・カラオケ"
+artist = "荒木比奈（田辺留依）、上条春菜（長島光那）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (GAME VERSION)"
+artist = "中野有香（下地紫野）、水本ゆかり（藤田茜）、椎名法子（都丸ちよ）"

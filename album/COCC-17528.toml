@@ -1,0 +1,36 @@
+[album]
+album_id = "5660e8c5-f3de-4da2-ba21-68c2bd0eb21f"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 38 Fascinate"
+artist = "Various Artists"
+date = 2020-04-15
+type = "normal"
+catalog = "COCC-17528"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17528"
+
+[[discs.tracks]]
+title = "Fascinate (M@STER VERSION)"
+artist = "黒埼ちとせ（佐倉薫）、白雪千夜（関口理咲）"
+
+[[discs.tracks]]
+title = "HIGH PRESSURE"
+artist = "大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "YELLOW YELLOW HAPPY"
+artist = "水本ゆかり（藤田茜）、中野有香（下地紫野）、椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "EZ DO DANCE"
+artist = "片桐早苗（和氣あず未）、結城晴（小市眞琴）、三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "Fascinate (M@STER VERSION) オリジナル・カラオケ"
+artist = "黒埼ちとせ（佐倉薫）、白雪千夜（関口理咲）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Fascinate (GAME VERSION)"
+artist = "黒埼ちとせ（佐倉薫）、白雪千夜（関口理咲）"

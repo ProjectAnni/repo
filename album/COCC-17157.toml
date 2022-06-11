@@ -1,0 +1,42 @@
+[album]
+album_id = "2fd49de8-3d7f-40da-b66e-ee7c38a16523"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 17 Nothing but You"
+artist = "Various Artists"
+date = 2018-05-23
+type = "normal"
+catalog = "COCC-17157"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17157"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION)"
+artist = "アナスタシア（上坂すみれ）、神谷奈緒（松井恵理子）、中野有香（下地紫野）、前川みく（高森奈津美）、星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "みなぎれ！ボボボンバー"
+artist = "日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "PROUST EFFECT"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) オリジナル・カラオケ"
+artist = "アナスタシア（上坂すみれ）、神谷奈緒（松井恵理子）、中野有香（下地紫野）、前川みく（高森奈津美）、星輝子（松田颯水）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "みなぎれ！ボボボンバー オリジナル・カラオケ"
+artist = "日野茜（赤﨑千夏）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "PROUST EFFECT オリジナル・カラオケ"
+artist = "一ノ瀬志希（藍原ことみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Nothing but You (GAME VERSION)"
+artist = "アナスタシア（上坂すみれ）、神谷奈緒（松井恵理子）、中野有香（下地紫野）、前川みく（高森奈津美）、星輝子（松田颯水）"

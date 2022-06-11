@@ -1,0 +1,42 @@
+[album]
+album_id = "51dec5a8-abc3-4552-8801-f3f8ece5bd6d"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! SUN♡FLOWER"
+artist = "本田未央（原紗友里）、片桐早苗（和氣あず未）、佐藤心（花守ゆみり）、城ヶ崎美嘉（佳村はるか）、諸星きらり（松嵜麗）"
+date = 2017-06-28
+type = "normal"
+catalog = "COCC-17313"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17313"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER 片桐早苗ソロ・リミックス"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER 佐藤心ソロ・リミックス"
+artist = "佐藤心（花守ゆみり）"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER 城ヶ崎美嘉ソロ・リミックス"
+artist = "城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER 諸星きらりソロ・リミックス"
+artist = "諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "SUN♡FLOWER オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "きらりんロボのテーマ"
+artist = "諸星きらり（松嵜麗）"

@@ -1,0 +1,29 @@
+[album]
+album_id = "955f6ef5-a0d6-4fcb-b591-3b8c2fd9ba75"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 06 幸せの法則～ルール～"
+artist = "鷹富士茄子（森下来奈）、白菊ほたる（天野聡美）"
+date = 2020-03-25
+type = "normal"
+catalog = "COCC-17706"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17706"
+
+[[discs.tracks]]
+title = "幸せの法則～ルール～ (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "幸せの法則～ルール～ (M@STER VERSION) 鷹富士茄子ソロ・リミックス"
+artist = "鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "幸せの法則～ルール～ (M@STER VERSION) 白菊ほたるソロ・リミックス"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "幸せの法則～ルール～ (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "幸せの法則～ルール～ (GAME VERSION)"

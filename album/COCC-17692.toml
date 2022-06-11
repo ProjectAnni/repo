@@ -1,0 +1,41 @@
+[album]
+album_id = "eeedcedd-21a2-40d6-8e19-93f7d8135c3c"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION! 無重力シャトル"
+artist = "安部菜々（三宅麻理恵）、城ヶ崎莉嘉（山本希望）、新田美波（洲崎綾）、相葉夕美（木村珠莉）、多田李衣菜（青木瑠璃子）"
+date = 2019-11-06
+type = "normal"
+catalog = "COCC-17692"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!"]
+
+[[discs]]
+catalog = "COCC-17692"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) 安部菜々ソロ・リミックス"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) 城ヶ崎莉嘉ソロ・リミックス"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) 新田美波ソロ・リミックス"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) 相葉夕美ソロ・リミックス"
+artist = "相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) 多田李衣菜ソロ・リミックス"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "無重力シャトル (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "無重力シャトル (GAME VERSION)"

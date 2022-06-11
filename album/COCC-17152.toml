@@ -1,0 +1,42 @@
+[album]
+album_id = "3a08ff1a-ae7b-478d-a1ef-b1c1afecabc2"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 12 命燃やして恋せよ乙女"
+artist = "Various Artists"
+date = 2017-08-09
+type = "normal"
+catalog = "COCC-17152"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17152"
+
+[[discs.tracks]]
+title = "命燃やして恋せよ乙女 (M@STER VERSION)"
+artist = "高垣楓（早見沙織）、佐藤心（花守ゆみり）、三船美優（原田彩楓）、安部菜々（三宅麻理恵）、片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "マイ・スイート・ハネムーン"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "Lunatic Show"
+artist = "星輝子（松田颯水）、白坂小梅（桜咲千依）、輿水幸子（竹達彩奈）、小早川紗枝（立花理香）、姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "命燃やして恋せよ乙女 (M@STER VERSION) オリジナル・カラオケ"
+artist = "高垣楓（早見沙織）、佐藤心（花守ゆみり）、三船美優（原田彩楓）、安部菜々（三宅麻理恵）、片桐早苗（和氣あず未）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "マイ・スイート・ハネムーン オリジナル・カラオケ"
+artist = "佐久間まゆ（牧野由依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Lunatic Show オリジナル・カラオケ"
+artist = "星輝子（松田颯水）、白坂小梅（桜咲千依）、輿水幸子（竹達彩奈）、小早川紗枝（立花理香）、姫川友紀（杜野まこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "命燃やして恋せよ乙女 (GAME VERSION)"
+artist = "高垣楓（早見沙織）、佐藤心（花守ゆみり）、三船美優（原田彩楓）、安部菜々（三宅麻理恵）、片桐早苗（和氣あず未）"

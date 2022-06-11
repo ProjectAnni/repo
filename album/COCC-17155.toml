@@ -1,0 +1,41 @@
+[album]
+album_id = "e4634c18-6615-4a80-8515-eb17842e1eb7"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 15 桜の頃"
+artist = "Various Artists"
+date = 2018-03-14
+type = "normal"
+catalog = "COCC-17155"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17155"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION)"
+artist = "依田芳乃（高田憂希）、小早川紗枝（立花理香）、道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "フレデリカ、猫やめるよ"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "キミのそばでずっと"
+artist = "道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) オリジナル・カラオケ"
+artist = "依田芳乃（高田憂希）、小早川紗枝（立花理香）、道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "フレデリカ、猫やめるよ オリジナル・カラオケ"
+artist = "宮本フレデリカ（髙野麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "桜の頃 (GAME VERSION)"
+artist = "依田芳乃（高田憂希）、小早川紗枝（立花理香）、道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "キミのそばでずっと (GAME VERSION)"
+artist = "道明寺歌鈴（新田ひより）、浜口あやめ（田澤茉純）、脇山珠美（嘉山未紗）"

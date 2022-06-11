@@ -305,6 +305,10 @@ type = "group"
 name = "RADWIMPS"
 type = "group"
 
+[[tag]]
+name = "ヒーラーガールズ"
+type = "group"
+
 ################################################################################
 # Animation
 #
@@ -545,6 +549,14 @@ type = "animation"
 name = "TVアニメ「阿波連さんははかれない」"
 type = "animation"
 
+[[tag]]
+name = "TVアニメ「ギルティクラウン」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「ヒーラー・ガール」"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -620,17 +632,16 @@ type = "game"
 name = "永远的7日之都"
 type = "game"
 
+[[tag]]
+name = "ドーナドーナ いっしょにわるいことをしよう"
+type = "game"
+
 ################################################################################
 # Project
 #
 [[tag]]
 name = "東方Project"
 type = "project"
-
-[[tag]]
-name = "少女☆歌劇 レヴュースタァライト"
-type = "project"
-includes.animation = ["劇場版 少女☆歌劇 レヴュースタァライト"]
 
 [[tag]]
 name = "Animelo Summer Live"

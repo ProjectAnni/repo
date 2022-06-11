@@ -1,0 +1,36 @@
+[album]
+album_id = "756fe2ee-56bc-4230-a60b-073502cb6ea8"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 39 O-Ku-Ri-Mo-No Sunday!"
+artist = "Various Artists"
+date = 2020-06-10
+type = "normal"
+catalog = "COCC-17529"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17529"
+
+[[discs.tracks]]
+title = "O-Ku-Ri-Mo-No Sunday! (M@STER VERSION)"
+artist = "久川颯（長江里加）、久川凪（立花日菜）"
+
+[[discs.tracks]]
+title = "Hello Especially"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "全力☆Summer!"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "行くぜっ！怪盗少女"
+artist = "及川雫（のぐちゆり）、片桐早苗（和氣あず未）、堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "O-Ku-Ri-Mo-No Sunday! (M@STER VERSION) オリジナル・カラオケ"
+artist = "久川颯（長江里加）、久川凪（立花日菜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "O-Ku-Ri-Mo-No Sunday! (GAME VERSION)"
+artist = "久川颯（長江里加）、久川凪（立花日菜）"

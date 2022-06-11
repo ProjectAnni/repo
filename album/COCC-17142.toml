@@ -1,0 +1,42 @@
+[album]
+album_id = "07438a89-43d2-4d3c-87a5-e968d54c7d21"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 02 Tulip"
+artist = "Various Artists"
+date = 2016-05-18
+type = "normal"
+catalog = "COCC-17142"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17142"
+
+[[discs.tracks]]
+title = "Tulip (M@STER VERSION)"
+artist = "速水奏（飯田友子）、塩見周子（ルゥティン）、城ヶ崎美嘉（佳村はるか）、宮本フレデリカ（髙野麻美）、一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "ステップ！"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "ニャンと☆スペクタクル"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "Tulip (M@STER VERSION) オリジナル・カラオケ"
+artist = "速水奏（飯田友子）、塩見周子（ルゥティン）、城ヶ崎美嘉（佳村はるか）、宮本フレデリカ（髙野麻美）、一ノ瀬志希（藍原ことみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ステップ！オリジナル・カラオケ"
+artist = "本田未央（原紗友里）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ニャンと☆スペクタクル オリジナル・カラオケ"
+artist = "前川みく（高森奈津美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Tulip (GAME VERSION)"
+artist = "速水奏（飯田友子）、塩見周子（ルゥティン）、城ヶ崎美嘉（佳村はるか）、宮本フレデリカ（髙野麻美）、一ノ瀬志希（藍原ことみ）"

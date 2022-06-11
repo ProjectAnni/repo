@@ -1,0 +1,33 @@
+[album]
+album_id = "c8326ee8-3aed-4f17-a89f-071b9d3cab0e"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT! 09 オタク is LOVE!"
+artist = "荒木比奈（田辺留依）、神谷奈緒（松井恵理子）、安部菜々（三宅麻理恵）"
+date = 2020-07-15
+type = "normal"
+catalog = "COCC-17709"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!"]
+
+[[discs]]
+catalog = "COCC-17709"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (M@STER VERSION) 荒木比奈ソロ・リミックス"
+artist = "荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (M@STER VERSION) 神谷奈緒ソロ・リミックス"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (M@STER VERSION) 安部菜々ソロ・リミックス"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (M@STER VERSION) オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オタク is LOVE! (GAME VERSION)"

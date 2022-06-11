@@ -1,0 +1,45 @@
+[album]
+album_id = "0969fd52-a971-43c7-b661-0a25cebc6837"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! いとしーさー♥"
+artist = "Various Artists"
+date = 2018-08-08
+type = "normal"
+catalog = "COCC-17501"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17501"
+
+[[discs.tracks]]
+title = "いとしーさー♥"
+artist = "輿水幸子（竹達彩奈）、多田李衣菜（青木瑠璃子）、藤原肇（鈴木みのり）、水本ゆかり（藤田茜）、森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ 輿水幸子ソロ・リミックス"
+artist = "輿水幸子（竹達彩奈）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ 多田李衣菜ソロ・リミックス"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ 藤原肇ソロ・リミックス"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ 水本ゆかりソロ・リミックス"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ 森久保乃々ソロ・リミックス"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "いとしーさー♥ オリジナル・カラオケ"
+artist = "輿水幸子（竹達彩奈）、多田李衣菜（青木瑠璃子）、藤原肇（鈴木みのり）、水本ゆかり（藤田茜）、森久保乃々（高橋花林）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラジオ体操第一"
+artist = "日野茜（赤﨑千夏）"
+type = "drama"

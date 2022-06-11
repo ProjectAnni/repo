@@ -5,13 +5,14 @@ artist = "チマメ隊（チノ（水瀬いのり）、マヤ（徳井青空）�
 date = 2014-05-28
 type = "normal"
 catalog = "GNCA-0335"
-tags = ["ご注文はうさぎですか？"]
+tags = ["アニメ「ご注文はうさぎですか？」"]
 
 [[discs]]
 catalog = "GNCA-0335"
 
 [[discs.tracks]]
 title = "ぽっぴんジャンプ♪"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "ぽっぴんジャンプ♪ ～チノ～ ソロVer."
@@ -28,3 +29,4 @@ artist = "メグ（村川梨衣）"
 [[discs.tracks]]
 title = "ぽっぴんジャンプ♪ (Instrumental)"
 type = "instrumental"
+tags = ["ED"]

@@ -1,4 +1,8 @@
 {
-  "recommendations": ["tamasfe.even-better-toml", "bodil.prettier-toml"],
+  "recommendations": [
+    "tamasfe.even-better-toml",
+    "bodil.prettier-toml",
+    "fabiospampinato.vscode-highlight"
+  ],
   "unwantedRecommendations": ["bungcip.better-toml", "be5invis.toml"]
 }

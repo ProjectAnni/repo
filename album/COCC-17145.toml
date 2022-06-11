@@ -1,0 +1,42 @@
+[album]
+album_id = "3b9c01f0-4a6e-486a-a238-42d66faf491d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 05 純情Midnight伝説"
+artist = "Various Artists"
+date = 2016-08-31
+type = "normal"
+catalog = "COCC-17145"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER"]
+
+[[discs]]
+catalog = "COCC-17145"
+
+[[discs.tracks]]
+title = "純情Midnight伝説 (M@STER VERSION)"
+artist = "向井拓海（原優子）、藤本里奈（金子真由美）、松永涼（千菅春香）、大和亜季（村中知）、木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "おかしな国のおかし屋さん"
+artist = "三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "Bloody Festa"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "純情Midnight伝説 (M@STER VERSION) オリジナル・カラオケ"
+artist = "向井拓海（原優子）、藤本里奈（金子真由美）、松永涼（千菅春香）、大和亜季（村中知）、木村夏樹（安野希世乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "おかしな国のおかし屋さん オリジナル・カラオケ"
+artist = "三村かな子（大坪由佳）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Bloody Festa オリジナル・カラオケ"
+artist = "白坂小梅（桜咲千依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "純情Midnight伝説 (GAME VERSION)"
+artist = "向井拓海（原優子）、藤本里奈（金子真由美）、松永涼（千菅春香）、大和亜季（村中知）、木村夏樹（安野希世乃）"
