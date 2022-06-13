@@ -13,7 +13,7 @@ catalog = "SRCL-11792"
 
 [[discs.tracks]]
 title = "Overture"
-type = "instrumental"
+type = "absolute"
 
 [[discs.tracks]]
 title = "僕は存在していなかった"

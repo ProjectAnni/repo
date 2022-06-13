@@ -5,14 +5,14 @@ artist = "TrySail（雨宮天、麻倉もも、夏川椎菜）"
 date = 2022-06-08
 type = "normal"
 catalog = "VVCL-2055"
-tags = ["TrySail", "TVアニメ「阿波連さんははかれない」"]
+tags = ["TrySail"]
 
 [[discs]]
 catalog = "VVCL-2055"
 
 [[discs.tracks]]
 title = "はなれない距離"
-tags = ["OP"]
+tags = ["OP", "TVアニメ「阿波連さんははかれない」"]
 
 [[discs.tracks]]
 title = "Etoile"
@@ -20,7 +20,7 @@ title = "Etoile"
 [[discs.tracks]]
 title = "はなれない距離 -Instrumental-"
 type = "instrumental"
-tags = ["OP"]
+tags = ["OP", "TVアニメ「阿波連さんははかれない」"]
 
 [[discs.tracks]]
 title = "Etoile -Instrumental-"
