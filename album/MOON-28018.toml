@@ -1,0 +1,45 @@
+[album]
+album_id = "38ce4e0f-3f29-4eea-9774-c73cf0a966b8"
+title = "VARIETY"
+edition = "LP"
+artist = "竹内まりや"
+date = 1984-04-25
+type = "normal"
+catalog = "MOON-28018"
+tags = ["竹内まりや"]
+
+[[discs]]
+catalog = "MOON-28018"
+
+[[discs.tracks]]
+title = "もう一度"
+
+[[discs.tracks]]
+title = "゚プラスティック・ラブ"
+
+[[discs.tracks]]
+title = "本気でオンリーユー (Let's Get Married)"
+
+[[discs.tracks]]
+title = "ONE NIGHT STAND"
+
+[[discs.tracks]]
+title = "BROKEN HEART"
+
+[[discs.tracks]]
+title = "アンフィシアターの夜"
+
+[[discs.tracks]]
+title = "とどかぬ想い"
+
+[[discs.tracks]]
+title = "マージービートで唄わせて"
+
+[[discs.tracks]]
+title = "水とあなたと太陽と"
+
+[[discs.tracks]]
+title = "ふたりはステディ"
+
+[[discs.tracks]]
+title = "シェットランドに頬をうずめて"

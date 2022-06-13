@@ -1,0 +1,69 @@
+[album]
+album_id = "84c2eb93-d4d0-4c29-926b-e8d56cff4905"
+title = "VARIETY -30th Anniversary Edition-"
+artist = "竹内まりや"
+date = 2014-11-19
+type = "normal"
+catalog = "WPCL-12007"
+tags = ["竹内まりや"]
+
+[[discs]]
+catalog = "WPCL-12007"
+
+[[discs.tracks]]
+title = "もう一度"
+
+[[discs.tracks]]
+title = "プラスティック・ラブ"
+
+[[discs.tracks]]
+title = "本気でオンリーユー (Let's Get Married)"
+
+[[discs.tracks]]
+title = "ONE NIGHT STAND"
+
+[[discs.tracks]]
+title = "BROKEN HEART"
+
+[[discs.tracks]]
+title = "アンフィシアターの夜"
+
+[[discs.tracks]]
+title = "とどかぬ想い"
+
+[[discs.tracks]]
+title = "マージービートで唄わせて"
+
+[[discs.tracks]]
+title = "水とあなたと太陽と"
+
+[[discs.tracks]]
+title = "ふたりはステディ"
+
+[[discs.tracks]]
+title = "シェットランドに頬をうずめて"
+
+[[discs.tracks]]
+title = "赤のエナメル [Previously Unreleased]"
+
+[[discs.tracks]]
+title = 'プラスティック・ラブ [12" Extended Club Mix]'
+
+[[discs.tracks]]
+title = 'プラスティック・ラブ [12" Original Length ReMix]'
+
+[[discs.tracks]]
+title = "プラスティック・ラブ [Karaoke]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "本気でオンリーユー (Let's Get Married) [Karaoke]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アンフィシアターの夜 [Previously Unreleased Karaoke]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "マージービートで唄わせて [Previously Unreleased Karaoke]"
+type = "instrumental"
