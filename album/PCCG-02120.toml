@@ -1,0 +1,47 @@
+[album]
+album_id = "599a4f4f-fc92-4a1e-af5e-004662959766"
+title = "五等分の軌跡 EP"
+artist = "中野家の五つ子"
+date = 2022-05-25
+type = "normal"
+catalog = "PCCG-02120"
+tags = ["映画「五等分の花嫁」"]
+
+[[discs]]
+catalog = "PCCG-02120"
+
+[[discs.tracks]]
+title = "五等分の軌跡"
+
+[[discs.tracks]]
+title = "五等分の花嫁～ありがとうの花～"
+
+[[discs.tracks]]
+title = "君の笑顔見たいから"
+
+[[discs.tracks]]
+title = "ラブ☆バケーション"
+artist = "中野二乃（竹達彩奈）"
+
+[[discs.tracks]]
+title = "五等分の軌跡 (Movie Size)"
+
+[[discs.tracks]]
+title = "君の笑顔見たいから (Game Size)"
+
+[[discs.tracks]]
+title = "五等分の軌跡 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "五等分の花嫁～ありがとうの花～ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君の笑顔見たいから (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブ☆バケーション (Instrumental)"
+artist = "中野二乃（竹達彩奈）"
+type = "instrumental"

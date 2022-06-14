@@ -1,0 +1,25 @@
+[album]
+album_id = "99c23b7b-4120-4716-9589-ce4de4920b80"
+title = "Infinity! Our wings!!"
+artist = "A・ZU・NA（桜坂しずく（前田佳織里）、上原歩夢（大西亜玖璃）、優木せつ菜（楠木ともり））"
+date = 2022-06-08
+type = "normal"
+catalog = "LACM-24272"
+tags = ["A・ZU・NA", "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期"]
+
+[[discs]]
+catalog = "LACM-24272"
+
+[[discs.tracks]]
+title = "Infinity! Our wings!!"
+
+[[discs.tracks]]
+title = "Poker face＆お願い!Fairy"
+
+[[discs.tracks]]
+title = "Infinity! Our wings!! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Poker face＆お願い!Fairy (Off Vocal)"
+type = "instrumental"

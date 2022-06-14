@@ -1,0 +1,25 @@
+[album]
+album_id = "5b94b5d3-4d3d-4d89-9647-afd5ac86546c"
+title = "Don! Kan! Boy!"
+artist = "Ci+LUS（玉坂マコト（山崎エリー）、折笠アユム（田中美海））"
+date = 2022-05-24
+type = "normal"
+catalog = "DN-152219"
+tags = ["Ci+LUS"]
+
+[[discs]]
+catalog = "DN-152219"
+
+[[discs.tracks]]
+title = "Don! Kan! Boy!"
+artists.vocal = "Ci+LUS（玉坂マコト（山崎エリー）、折笠アユム（田中美海））"
+artists.composer = "40mP"
+artists.lyricist = "40mP"
+artists.arranger = "40mP"
+
+[[discs.tracks]]
+title = "Don! Kan! Boy! -OFF VOCAL-"
+type = "instrumental"
+artists.composer = "40mP"
+artists.lyricist = "40mP"
+artists.arranger = "40mP"

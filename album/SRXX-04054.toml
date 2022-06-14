@@ -1,0 +1,47 @@
+[album]
+album_id = "054eb6fa-432d-48a3-804a-d8760ca3b1e6"
+title = "11という名の永遠の素数 キャラクターソングベスト"
+artist = "Various Artists"
+date = 2021-06-29
+type = "normal"
+catalog = "SRXX-04054"
+tags = ["ナナブンノニジュウニ"]
+
+[[discs]]
+catalog = "SRXX-04054"
+
+[[discs.tracks]]
+title = "One of them"
+artist = "滝川みう（西條和）"
+
+[[discs.tracks]]
+title = "生きることに楽になりたい"
+artist = "藤間桜（天城サリー）"
+
+[[discs.tracks]]
+title = "夢の船"
+artist = "河野都（倉岡水巴）"
+
+[[discs.tracks]]
+title = "優等生じゃつまらない"
+artist = "佐藤麗華（帆風千春）"
+
+[[discs.tracks]]
+title = "人生はワルツ"
+artist = "戸田ジュン（海乃るり）"
+
+[[discs.tracks]]
+title = "感情無用論"
+artist = "丸山あかね（白沢かなえ）"
+
+[[discs.tracks]]
+title = "Moonlight"
+artist = "立川絢香（宮瀬玲奈）"
+
+[[discs.tracks]]
+title = "神様に指を差された僕たち"
+artist = "神木みかみ（涼花萌）、東条悠希（高辻麗）、柊つぼみ（武田愛奈）"
+
+[[discs.tracks]]
+title = "孤独は嫌いじゃない"
+artist = "斎藤ニコル（河瀬詩）"

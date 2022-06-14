@@ -1,0 +1,27 @@
+[album]
+album_id = "e15b05f0-9cb3-409c-b48d-578c70b6b47b"
+title = "はなれない距離"
+artist = "TrySail（雨宮天、麻倉もも、夏川椎菜）"
+date = 2022-06-08
+type = "normal"
+catalog = "VVCL-2055"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "VVCL-2055"
+
+[[discs.tracks]]
+title = "はなれない距離"
+tags = ["OP", "TVアニメ「阿波連さんははかれない」"]
+
+[[discs.tracks]]
+title = "Etoile"
+
+[[discs.tracks]]
+title = "はなれない距離 -Instrumental-"
+type = "instrumental"
+tags = ["OP", "TVアニメ「阿波連さんははかれない」"]
+
+[[discs.tracks]]
+title = "Etoile -Instrumental-"
+type = "instrumental"
