@@ -1,0 +1,14 @@
+[album]
+album_id = "e6fa5830-7182-4bd7-84f1-a6b2e77ffa0f"
+title = "アロマ"
+artist = "百瀬百々（廣瀬千夏）"
+date = 2022-06-10
+type = "normal"
+catalog = "@SWSI-0003"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0003"
+
+[[discs.tracks]]
+title = "アロマ"

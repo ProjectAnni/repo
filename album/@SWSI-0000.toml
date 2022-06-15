@@ -1,0 +1,49 @@
+[album]
+album_id = "6582b129-dd8d-40bf-a376-fdecf91b63f1"
+title = "swing, sing 初回限定スペシャルCD"
+artist = "八乙女菫（二ノ宮ゆい）、百瀬百々（廣瀬千夏）、朝比奈日葵（田口華有）、天羽友梨（大橋彩香）、風祭瑠璃（田所あずさ）"
+date = 2022-03-26
+type = "normal"
+catalog = "@SWSI-0000"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0000"
+
+[[discs.tracks]]
+title = "Harmony"
+
+[[discs.tracks]]
+title = "「swing, sing」Character Songs Crossfade"
+
+[[discs.tracks]]
+title = "Harmony (Drums Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Guitar Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Percussion Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Piano Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Sax Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Trombone Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Trumpet Stem)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Harmony (Contrabass Stem)"
+type = "instrumental"

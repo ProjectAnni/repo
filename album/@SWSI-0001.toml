@@ -1,0 +1,14 @@
+[album]
+album_id = "b4a129b8-b2d1-4b7f-a6d3-9f7d56e943a2"
+title = "Harmony"
+artist = "八乙女菫（二ノ宮ゆい）、百瀬百々（廣瀬千夏）、朝比奈日葵（田口華有）、天羽友梨（大橋彩香）、風祭瑠璃（田所あずさ）"
+date = 2022-05-29
+type = "normal"
+catalog = "@SWSI-0001"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0001"
+
+[[discs.tracks]]
+title = "Harmony"
