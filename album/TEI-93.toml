@@ -1,0 +1,36 @@
+[album]
+album_id = "587e0b4b-cd88-4f9b-aa81-1d8a48109234"
+title = "〔CORE〕"
+edition = "アニメイト限定盤"
+artist = "駒形友梨"
+date = 2018-12-05
+type = "normal"
+catalog = "TEI-93"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TEI-93"
+
+[[discs.tracks]]
+title = "starting in the haze (inst ver.)"
+
+[[discs.tracks]]
+title = "メイズ (inst ver.)"
+
+[[discs.tracks]]
+title = "クロックワイズ (inst ver.)"
+
+[[discs.tracks]]
+title = "It's HEAVEN (inst ver.)"
+
+[[discs.tracks]]
+title = "時の葉 (inst ver.)"
+
+[[discs.tracks]]
+title = "ソノヒ (inst ver.)"
+
+[[discs.tracks]]
+title = "Talk 2 Night (inst ver.)"
+
+[[discs.tracks]]
+title = "クロックワイズ (vocal only ver.)"

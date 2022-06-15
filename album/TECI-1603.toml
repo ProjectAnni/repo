@@ -1,0 +1,32 @@
+[album]
+album_id = "56308dbb-48e3-4ac1-a23f-048002d8770e"
+title = "〔CORE〕"
+artist = "駒形友梨"
+date = 2018-12-05
+type = "normal"
+catalog = "TECI-1603"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TECI-1603"
+
+[[discs.tracks]]
+title = "starting in the haze"
+
+[[discs.tracks]]
+title = "メイズ"
+
+[[discs.tracks]]
+title = "クロックワイズ"
+
+[[discs.tracks]]
+title = "It's HEAVEN"
+
+[[discs.tracks]]
+title = "時の葉"
+
+[[discs.tracks]]
+title = "ソノヒ"
+
+[[discs.tracks]]
+title = "Talk 2 Night"

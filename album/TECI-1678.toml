@@ -1,0 +1,33 @@
+[album]
+album_id = "1431ccf4-1c5e-4f82-987b-a1aa257836d1"
+title = "a Day"
+artist = "駒形友梨"
+date = 2020-03-04
+type = "normal"
+catalog = "TECI-1678"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TECI-1678"
+
+[[discs.tracks]]
+title = "a Day～and the light comes～"
+type = "absolute"
+
+[[discs.tracks]]
+title = "クロワッサン"
+
+[[discs.tracks]]
+title = "On My Way"
+
+[[discs.tracks]]
+title = "シングデイズ"
+
+[[discs.tracks]]
+title = "call me today"
+
+[[discs.tracks]]
+title = "今日は"
+
+[[discs.tracks]]
+title = "ばいばい"

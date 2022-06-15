@@ -1,0 +1,32 @@
+[album]
+album_id = "fd6dbff9-9d3f-4513-8fda-79c860a12c9f"
+title = "Indigo"
+artist = "駒形友梨"
+date = 2019-07-17
+type = "normal"
+catalog = "TECI-1650"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TECI-1650"
+
+[[discs.tracks]]
+title = "アクアリウム"
+
+[[discs.tracks]]
+title = "ララルハレルヤ"
+
+[[discs.tracks]]
+title = "invincible self"
+
+[[discs.tracks]]
+title = "おそろい"
+
+[[discs.tracks]]
+title = "August31"
+
+[[discs.tracks]]
+title = "優しい雨"
+
+[[discs.tracks]]
+title = "night sea"
