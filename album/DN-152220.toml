@@ -1,0 +1,18 @@
+[album]
+album_id = "1c2743b0-9809-4628-bef9-9c29697390a7"
+title = "HOLY QUEEN"
+artist = "CASQUETTE’S（川澄シサラ（末柄里恵）、浅見ミワコ（優木かな）、鳳チャチャ（大地葉）、二川ミミ（齋藤綾））"
+date = 2022-05-24
+type = "normal"
+catalog = "DN-152220"
+tags = ["CASQUETTE’S"]
+
+[[discs]]
+catalog = "DN-152220"
+
+[[discs.tracks]]
+title = "HOLY QUEEN"
+
+[[discs.tracks]]
+title = "HOLY QUEEN -OFF VOCAL-"
+type = "instrumental"

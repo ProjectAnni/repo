@@ -1,0 +1,18 @@
+[album]
+album_id = "7c2dce28-75df-4df3-8439-4622f8a45140"
+title = "Striking Diamond"
+artist = "ジェダ・ダイヤモンド（伊波杏樹）"
+date = 2022-05-24
+type = "normal"
+catalog = "DN-152221"
+tags = ["ジェダ・ダイヤモンド"]
+
+[[discs]]
+catalog = "DN-152221"
+
+[[discs.tracks]]
+title = "Striking Diamond"
+
+[[discs.tracks]]
+title = "Striking Diamond -OFF VOCAL-"
+type = "instrumental"
