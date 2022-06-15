@@ -1,0 +1,32 @@
+[album]
+album_id = "68562754-198b-48f3-b470-f045a94f53fc"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 03"
+artist = "アンティーカ（月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月））"
+date = 2022-06-15
+type = "normal"
+catalog = "LACM-24253"
+tags = ["THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24253"
+
+[[discs.tracks]]
+title = "浮動性イノセンス"
+
+[[discs.tracks]]
+title = "愚者の独白"
+
+[[discs.tracks]]
+title = "虹の行方（アンティーカVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「この川の流れのように」"
+type = "drama"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "愚者の独白（Off Vocal）"
+type = "instrumental"
