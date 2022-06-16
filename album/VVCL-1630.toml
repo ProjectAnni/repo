@@ -12,14 +12,18 @@ catalog = "VVCL-1630"
 
 [[discs.tracks]]
 title = "ごまかし"
+tags = ["アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」", "OP"]
 
 [[discs.tracks]]
 title = "うつろい"
+tags = ["ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」"]
 
 [[discs.tracks]]
 title = "ごまかし -Instrumental-"
 type = "instrumental"
+tags = ["アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」", "OP"]
 
 [[discs.tracks]]
 title = "うつろい -Instrumental-"
 type = "instrumental"
+tags = ["ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」"]

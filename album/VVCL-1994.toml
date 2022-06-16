@@ -13,19 +13,33 @@ catalog = "VVCL-1994"
 
 [[discs.tracks]]
 title = "Lapis"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "ED"]
 
 [[discs.tracks]]
 title = "オルゴール"
 artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
+tags = [
+    "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+    "ED"
+]
 
 [[discs.tracks]]
 title = "オルゴール -TrySail ver.-"
+tags = [
+    "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+    "ED"
+]
 
 [[discs.tracks]]
 title = "Lapis -Instrumental-"
 type = "instrumental"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "ED"]
 
 [[discs.tracks]]
 title = "オルゴール -Instrumental-"
 artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
 type = "instrumental"
+tags = [
+    "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+    "ED"
+]
