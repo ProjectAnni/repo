@@ -1,0 +1,14 @@
+[album]
+album_id = "f28268bb-9323-4bd1-9d2e-aa049c41bc4e"
+title = "夢の中へ"
+artist = "八乙女菫（二ノ宮ゆい）"
+date = 2022-05-29
+type = "normal"
+catalog = "@SWSI-0002"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0002"
+
+[[discs.tracks]]
+title = "夢の中へ"

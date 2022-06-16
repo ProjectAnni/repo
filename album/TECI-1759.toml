@@ -1,0 +1,50 @@
+[album]
+album_id = "b79d4761-d111-4253-b919-b49431cfec52"
+title = "stella"
+artist = "駒形友梨"
+date = 2021-12-15
+type = "normal"
+catalog = "TECI-1759"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TECI-1759"
+
+[[discs.tracks]]
+title = "On My Way（Album ver.）"
+
+[[discs.tracks]]
+title = "トマレのススメ"
+
+[[discs.tracks]]
+title = "キミと恋の予感"
+
+[[discs.tracks]]
+title = "コンパス"
+
+[[discs.tracks]]
+title = "ララルハレルヤ"
+
+[[discs.tracks]]
+title = "happy weekend"
+
+[[discs.tracks]]
+title = "Night Walk"
+
+[[discs.tracks]]
+title = "クロックワイズ"
+
+[[discs.tracks]]
+title = "孤悲"
+
+[[discs.tracks]]
+title = "創だらけの詩"
+
+[[discs.tracks]]
+title = "はじめからきっと"
+
+[[discs.tracks]]
+title = "I wish"
+
+[[discs.tracks]]
+title = "Special Voice"

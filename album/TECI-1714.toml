@@ -1,0 +1,32 @@
+[album]
+album_id = "eb121582-f0b3-45d7-884d-cab38b22683f"
+title = "Night Walk"
+artist = "駒形友梨"
+date = 2020-11-18
+type = "normal"
+catalog = "TECI-1714"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TECI-1714"
+
+[[discs.tracks]]
+title = "Night Walk"
+
+[[discs.tracks]]
+title = "empty"
+
+[[discs.tracks]]
+title = "オービタル"
+
+[[discs.tracks]]
+title = "Love is Action!"
+
+[[discs.tracks]]
+title = "真珠星"
+
+[[discs.tracks]]
+title = "insomnia"
+
+[[discs.tracks]]
+title = "Good Night"
