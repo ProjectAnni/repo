@@ -1,19 +1,26 @@
 [album]
-album_id = "febae48e-62b8-49c9-bb98-8dbd1af51d13"
+album_id = "888b6cf5-cf70-42a0-8f87-25a7d57f40fc"
 title = "たゆたえ、七色"
-edition = "アニメ盤"
 artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
 date = 2021-07-14
 type = "normal"
-catalog = "LACM-24137"
+catalog = "LZC-1896"
 tags = ["ARCANA PROJECT"]
 
 [[discs]]
-catalog = "LACM-24137"
+catalog = "LZC-1896"
 
 [[discs.tracks]]
 title = "たゆたえ、七色"
-tags = ["白い砂のアクアトープ", "OP"]
 
 [[discs.tracks]]
 title = "星影のファンタジア"
+
+[[discs.tracks]]
+title = "Ophelia"
+
+[[discs.tracks]]
+title = "ドンケア"
+
+[[discs.tracks]]
+title = "きっと、その未来にたどり着くから。"

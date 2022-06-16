@@ -1,0 +1,26 @@
+[album]
+album_id = "8ecceddc-0dfa-4259-b779-94d7d25162e8"
+title = "カンパネラ響く空で"
+artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
+date = 2020-09-09
+type = "normal"
+catalog = "LZC-1752"
+tags = ["ARCANA PROJECT"]
+
+[[discs]]
+catalog = "LZC-1752"
+
+[[discs.tracks]]
+title = "カンパネラ響く空で"
+
+[[discs.tracks]]
+title = "キミトナラ"
+
+[[discs.tracks]]
+title = "ヒトリガタリ"
+
+[[discs.tracks]]
+title = "Re:JUDGEMENT"
+
+[[discs.tracks]]
+title = "新・Fairytale"
