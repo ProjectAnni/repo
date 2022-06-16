@@ -13,16 +13,19 @@ catalog = "PCCG-02131"
 
 [[discs.tracks]]
 title = "恋は世界定理と共に"
+tags = ["TVアニメ「恋は世界征服のあとで」", "ED"]
 
 [[discs.tracks]]
 title = "ガガピーガガ"
 
 [[discs.tracks]]
 title = "恋は世界定理と共に（TVサイズ）"
+tags = ["TVアニメ「恋は世界征服のあとで」", "ED"]
 
 [[discs.tracks]]
 title = "恋は世界定理と共に（Instrumental）"
 type = "instrumental"
+tags = ["TVアニメ「恋は世界征服のあとで」", "ED"]
 
 [[discs.tracks]]
 title = "ガガピーガガ（Instrumental）"

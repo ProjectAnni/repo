@@ -4,7 +4,7 @@ title = "〔CORE〕"
 edition = "アニメイト限定盤"
 artist = "駒形友梨"
 date = 2018-12-05
-type = "normal"
+type = "instrumental"
 catalog = "TEI-93"
 tags = ["駒形友梨"]
 
@@ -34,3 +34,4 @@ title = "Talk 2 Night (inst ver.)"
 
 [[discs.tracks]]
 title = "クロックワイズ (vocal only ver.)"
+type = "normal"
