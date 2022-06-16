@@ -1,0 +1,38 @@
+[album]
+album_id = "05d46ae1-36ef-46e3-a5c2-7da3f8f83e60"
+title = "Lapis"
+edition = "期間生産限定盤"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2022-04-06
+type = "normal"
+catalog = "VVCL-1995"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "VVCL-1995"
+
+[[discs.tracks]]
+title = "Lapis"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "ED"]
+
+[[discs.tracks]]
+title = "オルゴール"
+artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
+tags = [
+    "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+    "ED"
+]
+
+[[discs.tracks]]
+title = "Lapis -TV ver.-"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "ED"]
+
+[[discs.tracks]]
+title = "Lapis -Instrumental-"
+type = "instrumental"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "ED"]
+
+[[discs.tracks]]
+title = "オルゴール -Instrumental-"
+artist = "ClariS（クララ、カレン）、TrySail（麻倉もも、雨宮天、夏川椎菜）"
+type = "instrumental"
