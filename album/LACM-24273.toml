@@ -1,0 +1,39 @@
+[album]
+album_id = "218f7c2e-b0f2-4891-ac50-717ec2b6d643"
+title = "Eutopia／EMOTION／stars we chase"
+artist = "鐘嵐珠（法元明菜）、三船栞子（小泉萌香）、ミア・テイラー（内田秀）"
+date = 2022-06-22
+type = "normal"
+edition = "三船栞子盤"
+catalog = "LACM-24273"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期"]
+
+[[discs]]
+catalog = "LACM-24273"
+
+[[discs.tracks]]
+title = "Eutopia"
+artist = "鐘嵐珠（法元明菜）"
+
+[[discs.tracks]]
+title = "EMOTION"
+artist = "三船栞子（小泉萌香）"
+
+[[discs.tracks]]
+title = "stars we chase"
+artist = "ミア・テイラー（内田秀）"
+
+[[discs.tracks]]
+title = "Eutopia (Off Vocal)"
+artist = "鐘嵐珠（法元明菜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "EMOTION (Off Vocal)"
+artist = "三船栞子（小泉萌香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "stars we chase (Off Vocal)"
+artist = "ミア・テイラー（内田秀）"
+type = "instrumental"

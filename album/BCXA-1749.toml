@@ -1,0 +1,18 @@
+[album]
+album_id = "3054f9cd-19e1-47e0-9b27-757e37d92591"
+title = "Fashionista"
+artist = "DiverDiva（朝香果林（久保田未夢）、宮下愛（村上奈津実））"
+date = 2022-06-24
+type = "normal"
+catalog = "BCXA-1749"
+tags = ["DiverDiva"]
+
+[[discs]]
+catalog = "BCXA-1749"
+
+[[discs.tracks]]
+title = "Fashionista"
+
+[[discs.tracks]]
+title = "Fashionista (Off Vocal)"
+type = "instrumental"

@@ -321,6 +321,10 @@ type = "group"
 name = "swing, sing"
 type = "group"
 
+[[tag]]
+name = "harmoe"
+type = "group"
+
 ################################################################################
 # Animation
 #
