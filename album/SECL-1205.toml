@@ -13,7 +13,7 @@ catalog = "SECL-1205"
 
 [[discs.tracks]]
 title = "ひかりふる"
-tags = ["劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語 [後編] 永遠の物語"]
+tags = ["劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語"]
 
 [[discs.tracks]]
 title = "未来"
@@ -24,7 +24,7 @@ title = "Magia [quattro]"
 [[discs.tracks]]
 title = "ひかりふる (instrumental)"
 type = "instrumental"
-tags = ["劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語 [後編] 永遠の物語"]
+tags = ["劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語"]
 
 [[discs.tracks]]
 title = "未来 (instrumental)"
