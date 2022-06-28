@@ -1,0 +1,18 @@
+[album]
+album_id = "f05cd963-31ca-4f71-b35d-6631fabbfc09"
+title = "陽だまりの世界地図"
+artist = "SEASON OF LOVE（晴海シンジュ（桑原由気）、ターシャ・ロマノフスキー（高岸美里亜）、星柿マノン（山岡ゆり）、有栖シラユキ（北方奈月））"
+date = 2022-06-28
+type = "normal"
+catalog = "DN-152234"
+tags = ["SEASON OF LOVE"]
+
+[[discs]]
+catalog = "DN-152234"
+
+[[discs.tracks]]
+title = "陽だまりの世界地図"
+
+[[discs.tracks]]
+title = "陽だまりの世界地図 -OFF VOCAL-"
+type = "instrumental"

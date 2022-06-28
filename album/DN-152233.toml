@@ -1,0 +1,18 @@
+[album]
+album_id = "8f8dd039-5c54-4a25-882d-6450eb91e8f2"
+title = "Be Your Light"
+artist = "Stella MiNE（星影アイ（天希かのん）、月代ユウ（天野聡美））"
+date = 2022-06-28
+type = "normal"
+catalog = "DN-152233"
+tags = ["Stella MiNE"]
+
+[[discs]]
+catalog = "DN-152233"
+
+[[discs.tracks]]
+title = "Be Your Light"
+
+[[discs.tracks]]
+title = "Be Your Light -OFF VOCAL-"
+type = "instrumental"

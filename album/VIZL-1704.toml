@@ -1,0 +1,32 @@
+[album]
+album_id = "c492904f-fac9-492b-a42d-1e2ad1b30136"
+title = "Fall in Love"
+edition = "初回限定盤"
+artist = "SEASON OF LOVE（晴海シンジュ（桑原由気）、ターシャ・ロマノフスキー（高岸美里亜）、星柿マノン（山岡ゆり）、有栖シラユキ（北方奈月））"
+date = 2020-02-12
+type = "normal"
+catalog = "VIZL-1704"
+tags = ["SEASON OF LOVE"]
+
+[[discs]]
+catalog = "VIZL-1704"
+
+[[discs.tracks]]
+title = "Fall in Love"
+
+[[discs.tracks]]
+title = "コドーモ・デ・ヒーロ"
+artist = "コドモ連合（晴海シンジュ（桑原由気）、ターシャ・ロマノフスキー（高岸美里亜）、星柿マノン（山岡ゆり）、有栖シラユキ（北方奈月））"
+
+[[discs.tracks]]
+title = "Fall in Love-OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "コドーモ・デ・ヒーロ-OFF VOCAL-"
+artist = "コドモ連合（晴海シンジュ（桑原由気）、ターシャ・ロマノフスキー（高岸美里亜）、星柿マノン（山岡ゆり）、有栖シラユキ（北方奈月））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Memories of Love (ドラマトラック)"
+type = "drama"
