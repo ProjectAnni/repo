@@ -13,7 +13,7 @@ catalog = "USSW-0286"
 
 [[discs.tracks]]
 title = "はるのとなり"
-tags = ["ゆるキャン△ SEASON2", "ED"]
+tags = ["アニメ「ゆるキャン△ SEASON2」", "ED"]
 
 [[discs.tracks]]
 title = "Orchis"
@@ -24,7 +24,7 @@ title = "Majstång"
 [[discs.tracks]]
 title = "はるのとなり -off vocal-"
 type = "instrumental"
-tags = ["ゆるキャン△ SEASON2", "ED"]
+tags = ["アニメ「ゆるキャン△ SEASON2」", "ED"]
 
 [[discs.tracks]]
 title = "Orchis -off vocal-"

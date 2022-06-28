@@ -6,7 +6,7 @@ artist = "亜咲花"
 date = 2020-01-29
 type = "normal"
 catalog = "USSW-0230"
-tags = ["へやキャン△"]
+tags = ["亜咲花"]
 
 [[discs]]
 catalog = "USSW-0230"
@@ -15,9 +15,11 @@ catalog = "USSW-0230"
 title = "オリジナルミニドラマ「AFTERSCHOOL」"
 artist = "各務原なでしこ（花守ゆみり）、鳥羽美波（伊藤静）"
 type = "drama"
+tags = ["アニメ「へやキャン△」"]
 
 [[discs.tracks]]
 title = "The Sunshower"
+tags = ["アニメ「へやキャン△」", "ED"]
 
 [[discs.tracks]]
 title = "Isn't It Fun?"
@@ -28,6 +30,7 @@ title = "1000miles"
 [[discs.tracks]]
 title = "The Sunshower -off vocal-"
 type = "instrumental"
+tags = ["アニメ「へやキャン△」", "ED"]
 
 [[discs.tracks]]
 title = "Isn't It Fun? -off vocal-"

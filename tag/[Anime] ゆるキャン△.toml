@@ -3,8 +3,8 @@ name = "ゆるキャン△"
 type = "project"
 includes.animation = [
     "アニメ「ゆるキャン△」",
-    "へやキャン△",
-    "ゆるキャン△ SEASON2",
+    "アニメ「へやキャン△」",
+    "アニメ「ゆるキャン△ SEASON2」",
     "映画『ゆるキャン△』",
 ]
 includes.game = ["ゆるキャン△ Have a nice day!"]

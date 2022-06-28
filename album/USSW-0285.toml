@@ -13,13 +13,13 @@ catalog = "USSW-0285"
 
 [[discs.tracks]]
 title = "Seize The Day"
-tags = ["ゆるキャン△ SEASON2", "OP"]
+tags = ["アニメ「ゆるキャン△ SEASON2」", "OP"]
 
 [[discs.tracks]]
 title = "オリジナルミニドラマ「年越し」"
 artist = "各務原なでしこ（花守ゆみり）、土岐綾乃（黒沢ともよ）"
 type = "drama"
-tags = ["ゆるキャン△ SEASON2"]
+tags = ["アニメ「ゆるキャン△ SEASON2」"]
 
 [[discs.tracks]]
 title = "NO MORE PEAKY MODE"
@@ -30,7 +30,7 @@ title = "Party Fever Night!!"
 [[discs.tracks]]
 title = "Seize The Day -off vocal-"
 type = "instrumental"
-tags = ["ゆるキャン△ SEASON2", "OP"]
+tags = ["アニメ「ゆるキャン△ SEASON2」", "OP"]
 
 [[discs.tracks]]
 title = "NO MORE PEAKY MODE -off vocal-"
