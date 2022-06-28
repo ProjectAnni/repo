@@ -1,0 +1,35 @@
+[album]
+album_id = "c6d16279-9d34-437b-96dd-9711613fa25f"
+title = "それを人は“青春”と呼んだ"
+artist = "Various Artists"
+date = 2022-06-29
+type = "normal"
+catalog = "SMCL-773"
+tags = ["IDOLY PRIDE"]
+
+[[discs]]
+catalog = "SMCL-773"
+
+[[discs.tracks]]
+title = "れそを人は“青春”と呼んだ"
+artist = "長瀬琴乃（橘美來）、川咲さくら（菅野真衣）、天動瑠依（雨宮天）、神崎莉央（戸松遥）"
+
+[[discs.tracks]]
+title = "Darkness sympathizer"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+
+[[discs.tracks]]
+title = "もういいよ"
+artist = "川咲さくら（菅野真衣）"
+
+[[discs.tracks]]
+title = "君がのぞくレンズ"
+artist = "長瀬琴乃（橘美來）、伊吹渚（夏目ここな）"
+
+[[discs.tracks]]
+title = "全力！絶対！！カウントダウン！！！"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "Bang Bang"
+artist = "ⅢX（fran（Lynn）、kana（田中あいみ）、miho（村川梨衣））"
