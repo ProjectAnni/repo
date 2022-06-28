@@ -1,0 +1,33 @@
+[album]
+album_id = "828915c7-7391-4e46-a961-5f39710f7090"
+title = "リワインド／Crosswalk"
+edition = "さくら盤"
+artist = "鈴木みのり"
+date = 2018-05-09
+type = "normal"
+catalog = "VTCL-35272"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35272"
+
+[[discs.tracks]]
+title = "リワインド"
+
+[[discs.tracks]]
+title = "Crosswalk"
+
+[[discs.tracks]]
+title = "大好きになってよかった"
+
+[[discs.tracks]]
+title = "リワインド -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Crosswalk -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "大好きになってよかった -Instrumental-"
+type = "instrumental"

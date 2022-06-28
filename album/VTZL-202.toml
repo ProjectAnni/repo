@@ -1,0 +1,70 @@
+[album]
+album_id = "38364b38-43ab-4d8e-942a-568585addd09"
+title = "BROKEN IDENTITY"
+edition = "初回限定盤B"
+artist = "鈴木みのり"
+date = 2022-06-01
+type = "normal"
+catalog = "VTZL-202"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35346"
+
+[[discs.tracks]]
+title = "BROKEN IDENTITY"
+
+[[discs.tracks]]
+title = "リップ"
+
+[[discs.tracks]]
+title = "ときめきの時空と林檎"
+
+[[discs.tracks]]
+title = "BROKEN IDENTITY -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リップ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ときめきの時空と林檎 -Instrumental-"
+type = "instrumental"
+
+[[discs]]
+title = "「鈴木みのり 2nd LIVE TOUR 2021～Make My Story!～」ライブCD"
+catalog = "VTCY-146"
+
+[[discs.tracks]]
+title = "Now Is The Time!"
+
+[[discs.tracks]]
+title = "半音階のレジスタンス"
+
+[[discs.tracks]]
+title = "わからないのよBABY"
+
+[[discs.tracks]]
+title = "まいっちゃう"
+
+[[discs.tracks]]
+title = "夜空"
+
+[[discs.tracks]]
+title = "gloria"
+
+[[discs.tracks]]
+title = "リワインド"
+
+[[discs.tracks]]
+title = "茜空、私がいた街"
+
+[[discs.tracks]]
+title = "エフェメラをあつめて"
+
+[[discs.tracks]]
+title = "Crosswalk"
+
+[[discs.tracks]]
+title = "いっせーのーでっ!"

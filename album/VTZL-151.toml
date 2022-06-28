@@ -1,0 +1,48 @@
+[album]
+album_id = "4f46d7bd-5ff1-4a6a-b0d8-ced0ab2c7331"
+title = "見る前に飛べ！"
+edition = "初回限定盤"
+artist = "鈴木みのり"
+date = 2018-12-19
+type = "normal"
+catalog = "VTZL-151"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTZL-151"
+
+[[discs.tracks]]
+title = "見る前に飛べ！"
+
+[[discs.tracks]]
+title = "ヘンなことがしたい！"
+
+[[discs.tracks]]
+title = "好きなものは好き！"
+
+[[discs.tracks]]
+title = "おセンチなメンタル"
+
+[[discs.tracks]]
+title = "Crosswalk"
+
+[[discs.tracks]]
+title = "いちばん最後の夏"
+
+[[discs.tracks]]
+title = "半音階のレジスタンス"
+
+[[discs.tracks]]
+title = "FEELING AROUND"
+
+[[discs.tracks]]
+title = "わたしはわたしになりたい"
+
+[[discs.tracks]]
+title = "astro traveler"
+
+[[discs.tracks]]
+title = "リワインド"
+
+[[discs.tracks]]
+title = "心が、青い。"

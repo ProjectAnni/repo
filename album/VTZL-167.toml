@@ -1,0 +1,49 @@
+[album]
+album_id = "a7349d19-0c72-4ba3-bfab-7813fc281ef4"
+title = "夜空"
+edition = "初回限定盤B"
+artist = "鈴木みのり"
+date = 2020-02-12
+type = "normal"
+catalog = "VTZL-167"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35311"
+
+[[discs.tracks]]
+title = "夜空"
+
+[[discs.tracks]]
+title = "まぼろし"
+
+[[discs.tracks]]
+title = "いっせーのーでっ!"
+
+[[discs.tracks]]
+title = "夜空 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まぼろし -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いっせーのーでっ! -Instrumental-"
+type = "instrumental"
+
+[[discs]]
+title = "「みのりんご収穫祭2019」ライブ音源"
+catalog = "VTCY-121"
+
+[[discs.tracks]]
+title = "おセンチなメンタル"
+
+[[discs.tracks]]
+title = "こいもよう"
+
+[[discs.tracks]]
+title = "astro traveler"
+
+[[discs.tracks]]
+title = "ダメハダメ"

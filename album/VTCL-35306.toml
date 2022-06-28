@@ -1,0 +1,32 @@
+[album]
+album_id = "8505bad2-5718-45a6-89cb-0d19e8f91ff8"
+title = "ダメハダメ"
+artist = "鈴木みのり"
+date = 2019-08-07
+type = "normal"
+catalog = "VTCL-35306"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35306"
+
+[[discs.tracks]]
+title = "ダメハダメ"
+
+[[discs.tracks]]
+title = "こいもよう"
+
+[[discs.tracks]]
+title = "One More Step"
+
+[[discs.tracks]]
+title = "ダメハダメ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "こいもよう -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "One More Step -Instrumental-"
+type = "instrumental"
