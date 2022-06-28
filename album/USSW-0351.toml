@@ -1,0 +1,41 @@
+[album]
+album_id = "fce42db2-6973-46b5-9eea-913238c65645"
+title = "Sun Is Coming Up"
+edition = "ゆるキャン△盤"
+artist = "亜咲花"
+date = 2022-06-29
+type = "normal"
+catalog = "USSW-0351"
+tags = ["亜咲花"]
+
+[[discs]]
+catalog = "USSW-0351"
+
+[[discs.tracks]]
+title = "Sun Is Coming Up"
+tags = ["映画『ゆるキャン△』", "OP"]
+
+[[discs.tracks]]
+title = "Easy Life, Easy Curry -カレーメシのうた-"
+
+[[discs.tracks]]
+title = 'Say "I love you"'
+
+[[discs.tracks]]
+title = "Sun Is Coming Up off vocal"
+type = "instrumental"
+tags = ["映画『ゆるキャン△』", "OP"]
+
+[[discs.tracks]]
+title = "Easy Life, Easy Curry -カレーメシのうた- off vocal"
+type = "instrumental"
+
+[[discs.tracks]]
+title = 'Say "I love you" off vocal'
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オリジナルボイスドラマ「今日のキャンプはナンとカレー」"
+artist = "各務原なでしこ（花守ゆみり）、志摩リン（東山奈央）"
+type = "drama"
+tags = ["映画『ゆるキャン△』"]
