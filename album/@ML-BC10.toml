@@ -1,0 +1,24 @@
+[album]
+album_id = "1bd11e2a-e9cc-4ef3-a179-e60847520a93"
+title = "アイドルマスター ミリオンライブ! Blooming Clover 10 オリジナルCD"
+artist = "Various Artists"
+date = 2022-01-27
+type = "normal"
+catalog = "@ML-BC10"
+tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
+
+[[discs]]
+catalog = "@ML-BC10"
+
+[[discs.tracks]]
+title = "DIAMOND"
+artist = "水瀬伊織（釘宮理恵）、永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "Happy!"
+artist = "矢吹可奈（木戸衣吹）、福田のり子（浜崎奈々）、周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+type = "drama"
+artist = "天海春香（中村繪里子）、中谷育（原嶋あかり）、箱崎星梨花（麻倉もも）、松田亜利沙（村川梨衣）、青羽美咲（安済知佳）"
