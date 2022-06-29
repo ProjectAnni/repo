@@ -1,0 +1,27 @@
+[album]
+album_id = "9e990b3b-9822-4368-8c1d-ee74b2906f02"
+title = "EVOLUTiON："
+artist = "南條愛乃"
+date = 2021-11-20
+type = "normal"
+catalog = "GNCA-0647"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0647"
+
+[[discs.tracks]]
+title = "EVOLUTiON："
+tags = ["進化の実～知らないうちに勝ち組人生～", "OP"]
+
+[[discs.tracks]]
+title = "全ては不確かな世界"
+
+[[discs.tracks]]
+title = "EVOLUTiON：＜instrumental＞"
+type = "instrumental"
+tags = ["進化の実～知らないうちに勝ち組人生～", "OP"]
+
+[[discs.tracks]]
+title = "全ては不確かな世界 ＜instrumental＞"
+type = "instrumental"

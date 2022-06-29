@@ -1,0 +1,29 @@
+[album]
+album_id = "405a45df-9575-46a1-bcbd-87d8335d012d"
+title = "一切は物語"
+artist = "南條愛乃"
+date = 2017-05-17
+type = "normal"
+catalog = "GNCA-0480"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0480"
+
+[[discs.tracks]]
+title = "一切は物語"
+artist = "南條愛乃、やなぎなぎ"
+tags = ["南條愛乃", "やなぎなぎ"]
+
+[[discs.tracks]]
+title = "嵐のなかで君だけは"
+
+[[discs.tracks]]
+title = "一切は物語＜instrumental＞"
+artist = "南條愛乃、やなぎなぎ"
+type = "instrumental"
+tags = ["南條愛乃", "やなぎなぎ"]
+
+[[discs.tracks]]
+title = "嵐のなかで君だけは＜instrumental＞"
+type = "instrumental"

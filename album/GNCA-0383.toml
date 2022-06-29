@@ -1,0 +1,27 @@
+[album]
+album_id = "6b31d6d7-a663-41af-9d1d-1299ccf6d299"
+title = "きみを探しに"
+artist = "南條愛乃"
+date = 2015-06-10
+type = "normal"
+catalog = "GNCA-0383"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0383"
+
+[[discs.tracks]]
+title = "きみを探しに"
+tags = ["グリザイアの楽園「ブランエールの種」編", "ED"]
+
+[[discs.tracks]]
+title = "そらほしひとつ"
+
+[[discs.tracks]]
+title = "きみを探しに <instrumental>"
+type = "instrumental"
+tags = ["グリザイアの楽園「ブランエールの種」編", "ED"]
+
+[[discs.tracks]]
+title = "そらほしひとつ <instrumental>"
+type = "instrumental"
