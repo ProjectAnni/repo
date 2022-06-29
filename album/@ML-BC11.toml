@@ -1,0 +1,24 @@
+[album]
+album_id = "9083f52c-f040-4d4d-ad95-05f36211183d"
+title = "アイドルマスター ミリオンライブ! Blooming Clover 11 オリジナルCD"
+artist = "Various Artists"
+date = 2022-06-27
+type = "normal"
+catalog = "@ML-BC11"
+tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
+
+[[discs]]
+catalog = "@ML-BC11"
+
+[[discs.tracks]]
+title = "shy→shining"
+artist = "如月千早（今井麻美）、北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "my song"
+artist = "周防桃子（渡部恵子）、福田のり子（浜崎奈々）、望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "高坂海美（上田麗奈）、周防桃子（渡部恵子）、所恵美（藤井ゆきよ）、望月杏奈（夏川椎菜）"
+type = "drama"

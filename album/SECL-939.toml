@@ -13,6 +13,7 @@ catalog = "SECL-939"
 
 [[discs.tracks]]
 title = "Magia"
+tags = ["アニメ「魔法少女まどか☆マギカ」", "ED"]
 
 [[discs.tracks]]
 title = "snow falling"
@@ -20,3 +21,4 @@ title = "snow falling"
 [[discs.tracks]]
 title = "Magia (Instrumental)"
 type = "instrumental"
+tags = ["アニメ「魔法少女まどか☆マギカ」", "ED"]

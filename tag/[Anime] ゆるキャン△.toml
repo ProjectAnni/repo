@@ -1,5 +1,10 @@
 [[tag]]
 name = "ゆるキャン△"
-type = "animation"
-includes.animation = ["へやキャン△", "ゆるキャン△ SEASON2"]
+type = "project"
+includes.animation = [
+    "アニメ「ゆるキャン△」",
+    "アニメ「へやキャン△」",
+    "アニメ「ゆるキャン△ SEASON2」",
+    "映画『ゆるキャン△』",
+]
 includes.game = ["ゆるキャン△ Have a nice day!"]

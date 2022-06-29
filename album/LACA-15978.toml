@@ -1,0 +1,49 @@
+[album]
+album_id = "ab388f91-35c0-4f03-996d-a0e1bd4cca83"
+title = "THE IDOLM@STER MILLION THE@TER SEASON LOVERS HEART"
+artist = "LOVERS HEART（天空橋朋花（小岩井ことり）、高槻やよい（仁後真耶子）、佐竹美奈子（大関英里）、七尾百合子（伊藤美来）、福田のり子（浜崎奈々）、松田亜利沙（村川梨衣）、如月千早（今井麻美）、北上麗花（平山笑美）、高山紗代子（駒形友梨）、望月杏奈（夏川椎菜）、矢吹可奈（木戸衣吹）、天海春香（中村繪里子）、ジュリア（愛美））"
+date = 2022-06-29
+type = "normal"
+catalog = "LACA-15978"
+tags = ["THE IDOLM@STER MILLION THE@TER SEASON"]
+
+[[discs]]
+catalog = "LACA-15978"
+
+[[discs.tracks]]
+title = "ドラマ『リハーサルの前に』"
+type = "drama"
+
+[[discs.tracks]]
+title = "空色♡ Birthday Card"
+
+[[discs.tracks]]
+title = "ドラマ『舞台裏その1』"
+type = "drama"
+
+[[discs.tracks]]
+title = "LOVE is GAME"
+artist = "天空橋朋花（小岩井ことり）、高槻やよい（仁後真耶子）、佐竹美奈子（大関英里）、七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "ドラマ『舞台裏その2』"
+type = "drama"
+
+[[discs.tracks]]
+title = "紙・心・ペン・心 - SHISHINPENSHIN -"
+artist = "福田のり子（浜崎奈々）、松田亜利沙（村川梨衣）、如月千早（今井麻美）、北上麗花（平山笑美）、高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "ドラマ『舞台裏その3』"
+type = "drama"
+
+[[discs.tracks]]
+title = "CHEER UP! HEARTS UP!"
+artist = "望月杏奈（夏川椎菜）、矢吹可奈（木戸衣吹）、天海春香（中村繪里子）、ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "Harmony 4 You"
+
+[[discs.tracks]]
+title = "ドラマ『リハーサルの後で』"
+type = "drama"

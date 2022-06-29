@@ -1,15 +1,15 @@
 [album]
-album_id = "8c15d517-b5af-43d5-a319-9d839819e32b"
+album_id = "cfb516cf-9ee3-4b33-97a6-78d7dbda44a8"
 title = "とめどない潮騒に僕たちは何を歌うだろうか"
-edition = "アニメ盤"
+edition = "通常盤"
 artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
 date = 2021-10-27
 type = "normal"
-catalog = "LACM-24204"
+catalog = "LACM-24203"
 tags = ["ARCANA PROJECT"]
 
 [[discs]]
-catalog = "LACM-24204"
+catalog = "LACM-24203"
 
 [[discs.tracks]]
 title = "とめどない潮騒に僕たちは何を歌うだろうか"
@@ -17,3 +17,6 @@ tags = ["白い砂のアクアトープ", "OP"]
 
 [[discs.tracks]]
 title = "迷わないConquest"
+
+[[discs.tracks]]
+title = "Ace Of Pentacles"

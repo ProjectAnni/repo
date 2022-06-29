@@ -6,13 +6,14 @@ artist = "佐々木恵梨"
 date = 2018-01-24
 type = "normal"
 catalog = "USSW-0071"
-tags = ["ゆるキャン△"]
+tags = ["佐々木恵梨"]
 
 [[discs]]
 catalog = "USSW-0071"
 
 [[discs.tracks]]
 title = "ふゆびより"
+tags = ["アニメ「ゆるキャン△」", "ED"]
 
 [[discs.tracks]]
 title = "YURUSU"
@@ -23,6 +24,7 @@ title = "Time To Wake Up"
 [[discs.tracks]]
 title = "ふゆびより (off vocal)"
 type = "instrumental"
+tags = ["アニメ「ゆるキャン△」", "ED"]
 
 [[discs.tracks]]
 title = "YURUSU (off vocal)"

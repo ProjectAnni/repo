@@ -6,7 +6,7 @@ artist = "亜咲花"
 date = 2018-01-24
 type = "normal"
 catalog = "USSW-0070"
-tags = ["ゆるキャン△"]
+tags = ["亜咲花"]
 
 [[discs]]
 catalog = "USSW-0070"
@@ -15,9 +15,11 @@ catalog = "USSW-0070"
 title = "ドラマパート「キャンプに行こう!」"
 artist = "各務原なでしこ（花守ゆみり）"
 type = "drama"
+tags = ["アニメ「ゆるキャン△」"]
 
 [[discs.tracks]]
 title = "SHINY DAYS"
+tags = ["アニメ「ゆるキャン△」", "OP"]
 
 [[discs.tracks]]
 title = "ドラマパート「キャンプにぴったり!!」"
@@ -33,6 +35,7 @@ title = "Round of new thing"
 [[discs.tracks]]
 title = "SHINY DAYS (off vocal)"
 type = "instrumental"
+tags = ["アニメ「ゆるキャン△」", "OP"]
 
 [[discs.tracks]]
 title = "Just A Way You Are (off vocal)"

@@ -1,0 +1,35 @@
+[album]
+album_id = "81c794c3-48a8-47c6-8972-d887f32170bf"
+title = "ミモザ"
+edition = "アニメ盤"
+artist = "佐々木恵梨"
+date = 2022-06-29
+type = "normal"
+catalog = "USSW-0352"
+tags = ["佐々木恵梨"]
+
+[[discs]]
+catalog = "USSW-0352"
+
+[[discs.tracks]]
+title = "ミモザ"
+tags = ["映画『ゆるキャン△』", "ED"]
+
+[[discs.tracks]]
+title = "透明散歩"
+
+[[discs.tracks]]
+title = "Twin Ray"
+
+[[discs.tracks]]
+title = "ミモザ (off vocal)"
+type = "instrumental"
+tags = ["映画『ゆるキャン△』", "ED"]
+
+[[discs.tracks]]
+title = "透明散歩 (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Twin Ray (off vocal)"
+type = "instrumental"

@@ -1,17 +1,19 @@
 [album]
 album_id = "bcf8bbc5-9e66-483d-aba1-bb49a030601f"
 title = "君の銀の庭"
+edition = "期間限定生産盤"
 artist = "Kalafina（Wakana、Keiko、Hikaru）"
 date = 2013-11-06
 type = "normal"
 catalog = "SECL-1422"
-tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]
+tags = ["Kalafina"]
 
 [[discs]]
 catalog = "SECL-1422"
 
 [[discs.tracks]]
 title = "君の銀の庭"
+tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]
 
 [[discs.tracks]]
 title = "misterioso"
@@ -22,3 +24,4 @@ title = "追憶"
 [[discs.tracks]]
 title = "君の銀の庭 (instrumental)"
 type = "instrumental"
+tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]

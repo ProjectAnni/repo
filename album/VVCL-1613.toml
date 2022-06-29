@@ -1,26 +1,31 @@
 [album]
 album_id = "af14fe0e-92c8-4331-9768-004582bea8d9"
 title = "アリシア／シグナル"
+edition = "期間生産限定盤"
 artist = "ClariS（クララ、カレン）"
 date = 2020-03-04
 type = "normal"
 catalog = "VVCL-1613"
-tags = ["マギアレコード 魔法少女まどか☆マギカ外伝"]
+tags = ["ClariS"]
 
 [[discs]]
 catalog = "VVCL-1613"
 
 [[discs.tracks]]
 title = "アリシア"
+tags = ["アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」", "ED"]
 
 [[discs.tracks]]
 title = "シグナル"
+tags = ["ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」"]
 
 [[discs.tracks]]
 title = "ユニゾン"
 
 [[discs.tracks]]
 title = "アリシア –TV MIX-"
+tags = ["アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」", "ED"]
 
 [[discs.tracks]]
 title = "シグナル -GAME MIX-"
+tags = ["ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」"]

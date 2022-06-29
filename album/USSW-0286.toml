@@ -6,13 +6,14 @@ artist = "佐々木恵梨"
 date = 2021-01-27
 type = "normal"
 catalog = "USSW-0286"
-tags = ["ゆるキャン△ SEASON2"]
+tags = ["佐々木恵梨"]
 
 [[discs]]
 catalog = "USSW-0286"
 
 [[discs.tracks]]
 title = "はるのとなり"
+tags = ["アニメ「ゆるキャン△ SEASON2」", "ED"]
 
 [[discs.tracks]]
 title = "Orchis"
@@ -23,6 +24,7 @@ title = "Majstång"
 [[discs.tracks]]
 title = "はるのとなり -off vocal-"
 type = "instrumental"
+tags = ["アニメ「ゆるキャン△ SEASON2」", "ED"]
 
 [[discs.tracks]]
 title = "Orchis -off vocal-"

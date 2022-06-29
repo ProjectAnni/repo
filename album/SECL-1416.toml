@@ -1,17 +1,19 @@
 [album]
 album_id = "d919e100-f1ca-4b66-8145-5bf80e2c41cd"
 title = "カラフル"
+edition = "まどか☆マギカ盤"
 artist = "ClariS（クララ、アリス）"
 date = 2013-10-30
 type = "normal"
 catalog = "SECL-1416"
-tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]
+tags = ["ClariS"]
 
 [[discs]]
 catalog = "SECL-1416"
 
 [[discs.tracks]]
 title = "カラフル"
+tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]
 
 [[discs.tracks]]
 title = "Surely"
@@ -21,3 +23,4 @@ title = "Pieces"
 
 [[discs.tracks]]
 title = "カラフル -movie MIX-"
+tags = ["劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語"]

@@ -1,17 +1,19 @@
 [album]
 album_id = "b5cc5bb8-217d-4f77-9b1b-41bb7bb1130d"
 title = "ケアレス"
+edition = "期間生産限定盤"
 artist = "ClariS（クララ、カレン）"
 date = 2021-09-15
 type = "normal"
 catalog = "VVCL-1921"
-tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-"]
+tags = ["ClariS"]
 
 [[discs]]
 catalog = "VVCL-1921"
 
 [[discs.tracks]]
 title = "ケアレス"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "OP"]
 
 [[discs.tracks]]
 title = "Bye-Bye Butterfly"
@@ -21,3 +23,4 @@ title = "Starry"
 
 [[discs.tracks]]
 title = "ケアレス -TV MIX-"
+tags = ["マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-", "OP"]

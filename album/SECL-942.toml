@@ -6,10 +6,11 @@ artist = "Kalafina（Wakana、Keiko、Hikaru）"
 date = 2011-02-16
 type = "normal"
 catalog = "SECL-942"
-tags = ["Kalafina", "魔法少女まどか☆マギカ"]
+tags = ["Kalafina"]
 
 [[discs]]
 catalog = "SECL-942"
+tags = ["アニメ「魔法少女まどか☆マギカ」", "ED"]
 
 [[discs.tracks]]
 title = "Magia"

@@ -1,15 +1,14 @@
 [album]
-album_id = "d32e4528-44d7-4a59-8274-7ef30a58d093"
+album_id = "8ddaf8bd-c8b6-4f32-aac4-578c4b762358"
 title = "夢で世界を変えるなら"
-edition = "アニメ盤"
 artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
 date = 2021-02-10
 type = "normal"
-catalog = "LACM-24085"
+catalog = "LZC-1825"
 tags = ["ARCANA PROJECT"]
 
 [[discs]]
-catalog = "LACM-24085"
+catalog = "LZC-1825"
 
 [[discs.tracks]]
 title = "夢で世界を変えるなら"
@@ -17,3 +16,12 @@ tags = ["回復術士のやり直し", "ED"]
 
 [[discs.tracks]]
 title = "天運ヘキサグラム"
+
+[[discs.tracks]]
+title = "Hello True my heart"
+
+[[discs.tracks]]
+title = "TWO of WANDS"
+
+[[discs.tracks]]
+title = "Dawn of the Future"

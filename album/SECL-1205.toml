@@ -1,17 +1,19 @@
 [album]
 album_id = "5e8c9ba5-2c31-4e5d-95ba-0edf04140b0b"
 title = "ひかりふる"
+edition = "まどか☆マギカ盤"
 artist = "Kalafina（Wakana、Keiko、Hikaru）"
 date = 2012-10-24
 type = "normal"
 catalog = "SECL-1205"
-tags = ["劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語 [後編] 永遠の物語"]
+tags = ["Kalafina"]
 
 [[discs]]
 catalog = "SECL-1205"
 
 [[discs.tracks]]
 title = "ひかりふる"
+tags = ["劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語"]
 
 [[discs.tracks]]
 title = "未来"
@@ -22,6 +24,7 @@ title = "Magia [quattro]"
 [[discs.tracks]]
 title = "ひかりふる (instrumental)"
 type = "instrumental"
+tags = ["劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語"]
 
 [[discs.tracks]]
 title = "未来 (instrumental)"

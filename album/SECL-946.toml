@@ -13,6 +13,7 @@ catalog = "SECL-946"
 
 [[discs.tracks]]
 title = "コネクト"
+tags = ["アニメ「魔法少女まどか☆マギカ」", "OP"]
 
 [[discs.tracks]]
 title = "Dreamin'"
@@ -23,3 +24,4 @@ title = "キミとふたり"
 [[discs.tracks]]
 title = "コネクト -Instrumental-"
 type = "instrumental"
+tags = ["アニメ「魔法少女まどか☆マギカ」", "OP"]
