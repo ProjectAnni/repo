@@ -22,6 +22,7 @@ title = "アラビアン・ユートピアン"
 
 [[discs.tracks]]
 title = "SKIT1 ～DRIVE～"
+type = "absolute"
 
 [[discs.tracks]]
 title = "HAPPY CANDY MARCH"
@@ -37,6 +38,7 @@ title = "ククタナ"
 
 [[discs.tracks]]
 title = "SKIT2 ～VOYAGE～"
+type = "absolute"
 
 [[discs.tracks]]
 title = "きまぐれチクタック"
