@@ -1,0 +1,50 @@
+[album]
+album_id = "d6c72762-853b-4179-b79e-23396e99d3a8"
+title = "It's a small world"
+artist = "harmoe（岩田陽葵、小泉萌香）"
+date = 2022-06-22
+type = "normal"
+edition = "通常盤"
+catalog = "PCCG-02138"
+tags = ["harmoe"]
+
+[[discs]]
+catalog = "PCCG-02138"
+
+[[discs.tracks]]
+title = "一寸先は光"
+
+[[discs.tracks]]
+title = "harmony to the West"
+
+[[discs.tracks]]
+title = "アラビアン・ユートピアン"
+
+[[discs.tracks]]
+title = "SKIT1 ～DRIVE～"
+type = "absolute"
+
+[[discs.tracks]]
+title = "HAPPY CANDY MARCH"
+
+[[discs.tracks]]
+title = "雪のかけら"
+
+[[discs.tracks]]
+title = "空想エスケープ"
+
+[[discs.tracks]]
+title = "ククタナ"
+
+[[discs.tracks]]
+title = "SKIT2 ～VOYAGE～"
+type = "absolute"
+
+[[discs.tracks]]
+title = "きまぐれチクタック"
+
+[[discs.tracks]]
+title = "マイペースにマーメイド"
+
+[[discs.tracks]]
+title = "セピアの虹"
