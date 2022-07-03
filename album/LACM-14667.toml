@@ -5,21 +5,25 @@ artist = "eufonius"
 date = 2017-10-25
 type = "normal"
 catalog = "LACM-14667"
-tags = ["TVアニメ「このはな綺譚」", "OP"]
+tags = ["TVアニメ「このはな綺譚」"]
 
 [[discs]]
 catalog = "LACM-14667"
 
 [[discs.tracks]]
 title = "ココロニツボミ"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "はじめて"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "ココロニツボミ (Instrumental)"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "はじめて (Instrumental)"
 type = "instrumental"
+tags = ["OP"]

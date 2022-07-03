@@ -5,19 +5,23 @@ artist = "皐（秦佐和子）、棗（諏訪彩花）、蓮（久保田梨沙�
 date = 2017-12-13
 type = "normal"
 catalog = "LACM-14697"
-tags = ["TVアニメ「このはな綺譚」", "ED"]
+tags = ["TVアニメ「このはな綺譚」"]
 
 [[discs]]
 catalog = "LACM-14697"
 
 [[discs.tracks]]
 title = "春ウララ、君ト咲キ誇ル"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "夏咲き恋花火"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "茜空、君舞フ紅葉ノ散歩道"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "雪華煌めく家路にて"
+tags = ["ED"]
