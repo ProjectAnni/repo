@@ -1,0 +1,14 @@
+[album]
+album_id = "e058402a-da07-430b-92dd-e7f5961400a8"
+title = "花の塔"
+artist = "さユり"
+date = 2022-07-03
+type = "normal"
+catalog = "BVXX-01674"
+tags = ["TVアニメ「リコリス・リコイル」", "ED"]
+
+[[discs]]
+catalog = "BVXX-01674"
+
+[[discs.tracks]]
+title = "花の塔"
