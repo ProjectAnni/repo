@@ -1,0 +1,206 @@
+[album]
+album_id = "986b42a7-7056-43d5-9b59-45ff7ba26d9f"
+title = "LIVE A LIFE"
+artist = "南條愛乃"
+date = 2019-07-24
+type = "normal"
+catalog = "GNCA-1549"
+tags = ["南條愛乃"]
+
+[[discs]]
+title = "LIVE A LIFE ORIGINAL CD"
+catalog = "@GNCA-1549-01"
+
+[[discs.tracks]]
+title = "君のとなり わたしの場所"
+
+[[discs.tracks]]
+title = "君との音色"
+
+[[discs.tracks]]
+title = "and I"
+
+[[discs.tracks]]
+title = "an-tiit"
+
+[[discs.tracks]]
+title = "Gift"
+
+[[discs.tracks]]
+title = "繋がりの歌"
+
+[[discs]]
+title = "LIVE A LIFE LIVE CD1【市川市文化会館 Day2 2018.9.23】"
+catalog = "@GNCA-1549-02"
+
+[[discs.tracks]]
+title = "夜、静かな夢"
+
+[[discs.tracks]]
+title = "believe in myself"
+
+[[discs.tracks]]
+title = "Recording."
+
+[[discs.tracks]]
+title = "MC1"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Dear×Dear"
+
+[[discs.tracks]]
+title = "7月25日"
+
+[[discs.tracks]]
+title = "だいすき"
+
+[[discs.tracks]]
+title = "MC2"
+type = "vocal"
+
+[[discs.tracks]]
+title = "だから、ありがとう"
+
+[[discs.tracks]]
+title = "+ 1day"
+
+[[discs]]
+title = "LIVE A LIFE LIVE CD2【名古屋国際会議場 センチュリーホール 2018.9.29】"
+catalog = "@GNCA-1549-03"
+
+[[discs.tracks]]
+title = "simple feelings"
+
+[[discs.tracks]]
+title = "灰色ノ街ヘ告グ"
+
+[[discs.tracks]]
+title = "idc"
+
+[[discs.tracks]]
+title = "MC1"
+type = "vocal"
+
+[[discs.tracks]]
+title = "NECOME"
+
+[[discs.tracks]]
+title = "Dear.."
+
+[[discs.tracks]]
+title = "MC2"
+type = "vocal"
+
+[[discs.tracks]]
+title = "ヒカリノ海"
+
+[[discs.tracks]]
+title = "ヒトビトヒトル"
+
+[[discs.tracks]]
+title = "ツナグワタシ"
+
+[[discs.tracks]]
+title = "今日もいい天気だよ"
+
+[[discs.tracks]]
+title = "Gerbera"
+
+[[discs.tracks]]
+title = "ゼロイチキセキ"
+
+[[discs]]
+title = "LIVE A LIFE LIVE CD3【岸和田市立浪切ホール 2018.10.8】"
+catalog = "@GNCA-1549-04"
+
+[[discs.tracks]]
+title = "一切は物語"
+artist = "南条爱乃、やなぎなぎ"
+
+[[discs.tracks]]
+title = "MC"
+type = "vocal"
+
+[[discs.tracks]]
+title = "飛ぶサカナ"
+
+[[discs.tracks]]
+title = "スキップトラベル"
+
+[[discs.tracks]]
+title = "リトル・メモリー"
+
+[[discs.tracks]]
+title = "逢えなくても"
+
+[[discs.tracks]]
+title = "光"
+
+[[discs.tracks]]
+title = "カタルモア"
+
+[[discs.tracks]]
+title = "iD*"
+
+[[discs.tracks]]
+title = "pledge"
+
+[[discs.tracks]]
+title = "螺旋の春"
+
+[[discs.tracks]]
+title = "光のはじまり"
+
+[[discs.tracks]]
+title = "・R・i・n・g・"
+
+[[discs]]
+title = "LIVE A LIFE LIVE CD4【静岡市民文化会館 大ホール 2018.10.14】"
+catalog = "@GNCA-1549-05"
+
+[[discs.tracks]]
+title = "THE MEMORIES APARTMENT"
+
+[[discs.tracks]]
+title = "あなたの愛した世界"
+
+[[discs.tracks]]
+title = "黄昏のスタアライト"
+
+[[discs.tracks]]
+title = "きみを探しに"
+
+[[discs.tracks]]
+title = "小さな恋の花"
+
+[[discs.tracks]]
+title = "ナチュラルカラー"
+
+[[discs.tracks]]
+title = "-BAND inst-"
+type = "absolute"
+
+[[discs.tracks]]
+title = "一切は物語"
+
+[[discs.tracks]]
+title = "飛ぶサカナ"
+
+[[discs.tracks]]
+title = "blessing symphony"
+
+[[discs.tracks]]
+title = "光のはじまり"
+
+[[discs.tracks]]
+title = "君が笑む夕暮れ"
+
+[[discs.tracks]]
+title = "ゼロイチキセキ"
+
+[[discs.tracks]]
+title = "・R・i・n・g・"
+
+[[discs.tracks]]
+title = "みんなの“好きな言葉”で書いた歌"

@@ -1,0 +1,27 @@
+[album]
+album_id = "771f6373-4810-48b5-b27d-cde0978b4b76"
+title = "君のとなり わたしの場所"
+artist = "南條愛乃"
+date = 2019-02-06
+type = "normal"
+catalog = "GNCA-0549"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0549"
+
+[[discs.tracks]]
+title = "君のとなり わたしの場所"
+tags = ["同居人はひざ、時々、頭のうえ。", "ED"]
+
+[[discs.tracks]]
+title = "わガまま♡ブれいん"
+
+[[discs.tracks]]
+title = "君のとなり わたしの場所＜instrumental＞"
+type = "instrumental"
+tags = ["同居人はひざ、時々、頭のうえ。", "ED"]
+
+[[discs.tracks]]
+title = "わガまま♡ブれいん＜instrumental＞"
+type = "instrumental"

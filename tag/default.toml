@@ -217,6 +217,10 @@ type = "artist"
 name = "佐々木恵梨"
 type = "artist"
 
+[[tag]]
+name = "南條愛乃"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -593,6 +597,54 @@ type = "animation"
 name = "モンスター娘のお医者さん"
 type = "animation"
 
+[[tag]]
+name = "アニメ「グリザイアの果実」"
+type = "animation"
+
+[[tag]]
+name = "グリザイアの楽園「カプリスの繭」編"
+type = "animation"
+
+[[tag]]
+name = "グリザイアの楽園「ブランエールの種」編"
+type = "animation"
+
+[[tag]]
+name = "東京レイヴンズ"
+type = "animation"
+
+[[tag]]
+name = "ネトゲの嫁は女の子じゃないと思った？"
+type = "animation"
+
+[[tag]]
+name = "アトム ザ・ビギニング"
+type = "animation"
+
+[[tag]]
+name = "同居人はひざ、時々、頭のうえ。"
+type = "animation"
+
+[[tag]]
+name = "グリザイア:ファントムトリガー THE ANIMATION"
+type = "animation"
+
+[[tag]]
+name = "文豪とアルケミスト ～審判ノ歯車～"
+type = "animation"
+
+[[tag]]
+name = "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー"
+type = "animation"
+
+[[tag]]
+name = "進化の実～知らないうちに勝ち組人生～"
+type = "animation"
+
+[[tag]]
+name = "天才王子の赤字国家再生術"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -672,6 +724,10 @@ type = "game"
 name = "ドーナドーナ いっしょにわるいことをしよう"
 type = "game"
 
+[[tag]]
+name = "ゲーム「レイギガント」ニル・フィニアス篇"
+type = "game"
+
 ################################################################################
 # Project
 #
@@ -711,6 +767,10 @@ includes.animation = [
   "アニメ「ノーゲーム・ノーライフ」",
   "映画「ノーゲーム・ノーライフ ゼロ」",
 ]
+
+[[tag]]
+name = "Nカフェ!!! 南條愛乃と語るモア"
+type = "project"
 
 ################################################################################
 # Organization
