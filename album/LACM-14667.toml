@@ -16,7 +16,6 @@ tags = ["OP"]
 
 [[discs.tracks]]
 title = "はじめて"
-tags = ["OP"]
 
 [[discs.tracks]]
 title = "ココロニツボミ (Instrumental)"
@@ -26,4 +25,3 @@ tags = ["OP"]
 [[discs.tracks]]
 title = "はじめて (Instrumental)"
 type = "instrumental"
-tags = ["OP"]
