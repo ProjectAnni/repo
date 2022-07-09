@@ -357,20 +357,16 @@ includes.animation = [
 
 #
 # [ ] 「アイドルマスター」765プロ SUMMER ST@RT SET Special Talk＆Drama CD (2011/08/12)
-# [ ] PERFECT IDOL 01 (2011/10/27)
 # [ ] アニメ「アイドルマスター」第2巻 完全生産限定版 特典ドラマCD (2011/11/23)
-# [ ] PERFECT IDOL 02 (2011/12/29)
-# [ ] PERFECT IDOL 03 (2012/02/23)
 # [ ] アニメ「アイドルマスター」第6巻 完全生産限定版 特典ドラマCD (2012/03/29)
-# [ ] PERFECT IDOL 04 (2012/04/26)
 # [ ] アニメ「アイドルマスター」第9巻 完全生産限定版 特典ドラマCD (2012/06/28)
-# [ ] 765プロ入社説明CD (2013/03/30)
+# [x] 765プロ入社説明CD (2013/03/30)
 # [ ] THE IDOLM@STER MOVIE VAC@TION PACK!! (2013/08/04)
 # [ ] Loppi限定 オリジナルドラマCD (2014/03/06)
-# [ ] PERFECT IDOL THE MOVIE (2014/10/08)
 [[tag]]
 name = "アニメ「アイドルマスター」"
 type = "animation"
+included-by = ["THE IDOLM@STER"]
 includes.series = [
   # [x] THE IDOLM@STER ANIM@TION MASTER 01 (2011/08/10)
   # [x] THE IDOLM@STER ANIM@TION MASTER 01 初回限定盤 (2011/08/10)
@@ -395,6 +391,12 @@ includes.series = [
   # [x] THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL 弦楽四重奏 初恋組曲 (2013/04/10)
   # [ ] THE IDOLM@STER 9th ANNIVERSARY WE ARE M@STERPIECE!! We Have A Dream & カーテンコール (2014/10/04)
   "THE IDOLM@STER ANIM@TION MASTER 生っすかSPECIAL",
+  # [x] PERFECT IDOL 01 (2011/10/27)
+  # [x] PERFECT IDOL 02 (2011/12/29)
+  # [x] PERFECT IDOL 03 (2012/02/23)
+  # [x] PERFECT IDOL 04 (2012/04/26)
+  # [x] PERFECT IDOL THE MOVIE (2014/10/08)
+  "PERFECT IDOL",
 ]
 
 [[tag]]

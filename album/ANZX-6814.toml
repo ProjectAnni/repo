@@ -1,0 +1,26 @@
+[album]
+album_id = "cd725834-5852-449e-8205-147be5628e83"
+title = "PERFECT IDOL 04"
+artist = "如月千早（今井麻美）、高槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）"
+date = 2012-04-26
+type = "normal"
+catalog = "ANZX-6814"
+tags = ["PERFECT IDOL"]
+
+[[discs]]
+catalog = "ANZX-6814"
+
+[[discs.tracks]]
+title = "Slapp Happy!!!"
+
+[[discs.tracks]]
+title = "arcadia -BOSSA NOVA Rearrange Mix-"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "キラメキラリ -BOSSA NOVA Rearrange Mix-"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "READY!! -BOSSA NOVA Rearrange Mix-"
+artist = "水瀬伊織（釘宮理恵）"

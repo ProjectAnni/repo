@@ -1,0 +1,26 @@
+[album]
+album_id = "c21f0299-96a8-4c70-b353-7c19b7776d37"
+title = "PERFECT IDOL 01"
+artist = "星井美希（長谷川明子）、三浦あずさ（たかはし智秋）、四条貴音（原由実）"
+date = 2011-10-27
+type = "normal"
+catalog = "ANZX-6802"
+tags = ["PERFECT IDOL"]
+
+[[discs]]
+catalog = "ANZX-6802"
+
+[[discs.tracks]]
+title = "I'm so free!"
+
+[[discs.tracks]]
+title = "relations -JAZZ Rearrange Mix-"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "隣に… -JAZZ Rearrange Mix-"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "キミはメロディ -JAZZ Rearrange Mix-"
+artist = "四条貴音（原由実）"

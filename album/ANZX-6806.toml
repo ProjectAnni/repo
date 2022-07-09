@@ -1,0 +1,26 @@
+[album]
+album_id = "4190f052-0544-4180-b058-04e24dc8a8db"
+title = "PERFECT IDOL 02"
+artist = "菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、我那覇響（沼倉愛美）"
+date = 2011-12-29
+type = "normal"
+catalog = "ANZX-6806"
+tags = ["PERFECT IDOL"]
+
+[[discs]]
+catalog = "ANZX-6806"
+
+[[discs.tracks]]
+title = "コーヒー1杯のイマージュ"
+
+[[discs.tracks]]
+title = "ポジティブ！ -TRANCE Rearrange Mix-"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "自転車 -HOUSE Rearrange Mix-"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "GO MY WAY!! -HOUSE Rearrange Mix-"
+artist = "我那覇響（沼倉愛美）"
