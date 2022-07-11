@@ -1,0 +1,59 @@
+[album]
+album_id = "41f11b11-4600-4022-ac67-377531226b0a"
+title = "THE IDOLM@STER 765PRO ALLSTARS LIVE SUNRICH COLORFUL"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2022-07-09
+type = "normal"
+catalog = "SACX-1083"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "SACX-1083"
+
+[[discs.tracks]]
+title = "BRAVE STAR 天海春香ソロ・リミックス"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "BRAVE STAR 如月千早ソロ・リミックス"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "BRAVE STAR 四条貴音ソロ・リミックス"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "BRAVE STAR 秋月律子ソロ・リミックス"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "Light Year Song 高槻やよいソロ・リミックス"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Light Year Song 菊地真ソロ・リミックス"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "Light Year Song 双海亜美/真美ソロ・リミックス"
+artist = "双海亜美（下田麻美）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Light Year Song 我那覇響ソロ・リミックス"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "虹のデスティネーション 星井美希ソロ・リミックス"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "虹のデスティネーション 萩原雪歩ソロ・リミックス"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "虹のデスティネーション 水瀬伊織ソロ・リミックス"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "虹のデスティネーション 三浦あずさソロ・リミックス"
+artist = "三浦あずさ（たかはし智秋）"
