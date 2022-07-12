@@ -598,6 +598,10 @@ name = "モンスター娘のお医者さん"
 type = "animation"
 
 [[tag]]
+name = "TVアニメ「リコリス・リコイル」"
+type = "animation"
+
+[[tag]]
 name = "アニメ「グリザイアの果実」"
 type = "animation"
 
