@@ -1,0 +1,27 @@
+[album]
+album_id = "f8c8d70a-16c1-475e-9fa1-6281f672c0af"
+title = "ココロニツボミ"
+artist = "eufonius"
+date = 2017-10-25
+type = "normal"
+catalog = "LACM-14667"
+tags = ["eufonius"]
+
+[[discs]]
+catalog = "LACM-14667"
+
+[[discs.tracks]]
+title = "ココロニツボミ"
+tags = ["TVアニメ「このはな綺譚」", "OP"]
+
+[[discs.tracks]]
+title = "はじめて"
+
+[[discs.tracks]]
+title = "ココロニツボミ (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「このはな綺譚」", "OP"]
+
+[[discs.tracks]]
+title = "はじめて (Instrumental)"
+type = "instrumental"

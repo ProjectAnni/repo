@@ -1,0 +1,167 @@
+[album]
+album_id = "fcd61017-be75-4b6d-b6ec-ba7bde86c240"
+title = "TVアニメ『このはな綺譚』おりじなるさうんどとらっく"
+artist = "菊地創、eufonius"
+date = 2018-01-10
+type = "absolute"
+catalog = "LACA-9565~6"
+tags = ["TVアニメ「このはな綺譚」"]
+
+[[discs]]
+catalog = "LACA-9565"
+
+[[discs.tracks]]
+title = "「このはな綺譚」～メインテーマ～"
+
+[[discs.tracks]]
+title = "此花亭"
+
+[[discs.tracks]]
+title = "～櫻～"
+
+[[discs.tracks]]
+title = "～蓮～"
+
+[[discs.tracks]]
+title = "迷子"
+
+[[discs.tracks]]
+title = "花めく"
+
+[[discs.tracks]]
+title = "焦燥"
+
+[[discs.tracks]]
+title = "蓮呆"
+
+[[discs.tracks]]
+title = "葛藤"
+
+[[discs.tracks]]
+title = "新異"
+
+[[discs.tracks]]
+title = "不可思議"
+
+[[discs.tracks]]
+title = "街場"
+
+[[discs.tracks]]
+title = "らうたし"
+
+[[discs.tracks]]
+title = "珍妙"
+
+[[discs.tracks]]
+title = "喪失"
+
+[[discs.tracks]]
+title = "湯治"
+
+[[discs.tracks]]
+title = "水面"
+
+[[discs.tracks]]
+title = "暮夜"
+
+[[discs.tracks]]
+title = "花時姉妹"
+
+[[discs.tracks]]
+title = "春の旅路"
+
+[[discs.tracks]]
+title = "心ニ蕾"
+
+[[discs.tracks]]
+title = "「このはな綺譚」サブタイトル"
+
+[[discs.tracks]]
+title = "「このはな綺譚」アイキャッチ"
+
+[[discs.tracks]]
+title = "「このはな綺譚」次回予告"
+
+[[discs]]
+catalog = "LACA-9566"
+
+[[discs.tracks]]
+title = "～皐～"
+
+[[discs.tracks]]
+title = "韶光"
+
+[[discs.tracks]]
+title = "瀟洒"
+
+[[discs.tracks]]
+title = "奉公"
+
+[[discs.tracks]]
+title = "柚困"
+
+[[discs.tracks]]
+title = "～柚～"
+
+[[discs.tracks]]
+title = "～棗～"
+
+[[discs.tracks]]
+title = "逍遥"
+
+[[discs.tracks]]
+title = "沈心"
+
+[[discs.tracks]]
+title = "廃憶"
+
+[[discs.tracks]]
+title = "離離"
+
+[[discs.tracks]]
+title = "寂寥"
+
+[[discs.tracks]]
+title = "自省"
+
+[[discs.tracks]]
+title = "此花亭怪談"
+
+[[discs.tracks]]
+title = "安閑"
+
+[[discs.tracks]]
+title = "滑稽"
+
+[[discs.tracks]]
+title = "木瓜"
+
+[[discs.tracks]]
+title = "影向"
+
+[[discs.tracks]]
+title = "宿願"
+
+[[discs.tracks]]
+title = "昇華"
+
+[[discs.tracks]]
+title = "姿の花"
+
+[[discs.tracks]]
+title = "玉響"
+
+[[discs.tracks]]
+title = "夏祭"
+
+[[discs.tracks]]
+title = "夏花想々"
+
+[[discs.tracks]]
+title = "A:椴木"
+
+[[discs.tracks]]
+title = "B:聖夜"
+
+[[discs.tracks]]
+title = "四時・草の縁"

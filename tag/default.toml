@@ -221,6 +221,10 @@ type = "artist"
 name = "南條愛乃"
 type = "artist"
 
+[[tag]]
+name = "eufonius"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -595,6 +599,10 @@ type = "animation"
 
 [[tag]]
 name = "モンスター娘のお医者さん"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「このはな綺譚」"
 type = "animation"
 
 [[tag]]
