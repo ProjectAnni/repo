@@ -1,0 +1,27 @@
+[album]
+album_id = "bd940c4d-155b-440a-becb-6206b5123891"
+title = "藪の中のジンテーゼ"
+artist = "南條愛乃"
+date = 2020-04-29
+type = "normal"
+catalog = "GNCA-0611"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0611"
+
+[[discs.tracks]]
+title = "藪の中のジンテーゼ"
+tags = ["文豪とアルケミスト ～審判ノ歯車～", "ED"]
+
+[[discs.tracks]]
+title = "I wish you happiness"
+
+[[discs.tracks]]
+title = "藪の中のジンテーゼ＜instrumental＞"
+type = "instrumental"
+tags = ["文豪とアルケミスト ～審判ノ歯車～", "ED"]
+
+[[discs.tracks]]
+title = "I wish you happiness＜instrumental＞"
+type = "instrumental"

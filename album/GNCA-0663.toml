@@ -1,0 +1,29 @@
+[album]
+album_id = "e9eeffd9-addf-40f6-ab9b-98d957758b8e"
+title = "ヒトリとキミと"
+artist = "南條愛乃"
+date = 2022-02-23
+type = "normal"
+catalog = "GNCA-0663"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0663"
+
+[[discs.tracks]]
+title = "ヒトリとキミと"
+tags = ["天才王子の赤字国家再生術", "ED"]
+
+[[discs.tracks]]
+title = "待ち合わせはあのカフェで!!!"
+tags = ["Nカフェ!!! 南條愛乃と語るモア"]
+
+[[discs.tracks]]
+title = "ヒトリとキミと ＜instrumental＞"
+type = "instrumental"
+tags = ["天才王子の赤字国家再生術", "ED"]
+
+[[discs.tracks]]
+title = "待ち合わせはあのカフェで!!! ＜instrumental＞"
+type = "instrumental"
+tags = ["Nカフェ!!! 南條愛乃と語るモア"]

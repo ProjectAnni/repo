@@ -1,0 +1,29 @@
+[album]
+album_id = "026d9a82-1411-4fa6-aca0-793dfc019304"
+title = "カタルモア"
+artist = "南條愛乃"
+date = 2012-12-12
+type = "normal"
+catalog = "GNCA-1339"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-1339"
+
+[[discs.tracks]]
+title = "blue"
+
+[[discs.tracks]]
+title = "飛ぶサカナ"
+
+[[discs.tracks]]
+title = "光"
+
+[[discs.tracks]]
+title = "リトル・メモリー"
+
+[[discs.tracks]]
+title = "iD*"
+
+[[discs.tracks]]
+title = "カタルモア"

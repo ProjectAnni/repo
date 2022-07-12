@@ -1,0 +1,27 @@
+[album]
+album_id = "0844b3c6-7729-4803-bfda-eda25c14b106"
+title = "サヨナラの惑星"
+artist = "南條愛乃"
+date = 2019-03-13
+type = "normal"
+catalog = "GNCA-0566"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0566"
+
+[[discs.tracks]]
+title = "サヨナラの惑星"
+tags = ["グリザイア:ファントムトリガー THE ANIMATION", "ED"]
+
+[[discs.tracks]]
+title = "サクラタイマー"
+
+[[discs.tracks]]
+title = "サヨナラの惑星＜instrumental＞"
+type = "instrumental"
+tags = ["グリザイア:ファントムトリガー THE ANIMATION", "ED"]
+
+[[discs.tracks]]
+title = "サクラタイマー＜instrumental＞"
+type = "instrumental"

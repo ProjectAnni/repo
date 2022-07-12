@@ -1,0 +1,56 @@
+[album]
+album_id = "3bf3b753-b21f-4b39-a40b-9dc6ac546db3"
+title = "THE MEMORIES APARTMENT ‐ Original ‐"
+artist = "南條愛乃"
+date = 2018-07-18
+type = "normal"
+catalog = "GNCA-1535"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-1535"
+
+[[discs.tracks]]
+title = "THE MEMORIES APARTMENT"
+
+[[discs.tracks]]
+title = "飛ぶサカナ"
+
+[[discs.tracks]]
+title = "リトル・メモリー"
+
+[[discs.tracks]]
+title = "believe in myself"
+
+[[discs.tracks]]
+title = "Recording."
+
+[[discs.tracks]]
+title = "7月25日"
+
+[[discs.tracks]]
+title = "+ 1day"
+
+[[discs.tracks]]
+title = "Simple feelings"
+
+[[discs.tracks]]
+title = "idc"
+
+[[discs.tracks]]
+title = "Gerbera"
+
+[[discs.tracks]]
+title = "今日もいい天気だよ"
+
+[[discs.tracks]]
+title = "スキップトラベル"
+
+[[discs.tracks]]
+title = "・R・i・n・g・"
+
+[[discs.tracks]]
+title = "カタルモア"
+
+[[discs.tracks]]
+title = "みんなの“好きな言葉”で書いた歌"

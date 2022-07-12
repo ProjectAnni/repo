@@ -1,0 +1,63 @@
+[album]
+album_id = "fca35b5f-f345-4ad0-b9fc-0ae8711865c7"
+title = "サントロワ∴"
+edition = "初回限定盤"
+artist = "南條愛乃"
+date = 2017-07-12
+type = "normal"
+catalog = "GNCA-1508"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "@GNCA-1508-01"
+
+[[discs.tracks]]
+title = "It'll be dawn soon."
+
+[[discs.tracks]]
+title = "誇ノ花"
+
+[[discs.tracks]]
+title = "ユアワールド"
+
+[[discs.tracks]]
+title = "逢えなくても"
+
+[[discs.tracks]]
+title = "螺旋の春"
+
+[[discs.tracks]]
+title = "pledge"
+
+[[discs.tracks]]
+title = "ゼリーな女"
+
+[[discs.tracks]]
+title = "OTO"
+
+[[discs.tracks]]
+title = "スキップトラベル"
+
+[[discs.tracks]]
+title = "光のはじまり"
+
+[[discs.tracks]]
+title = "Latest Page"
+
+[[discs.tracks]]
+title = "・R・i・n・g・"
+
+[[discs]]
+catalog = "@GNCA-1508-02"
+
+[[discs.tracks]]
+title = "未来予想図"
+
+[[discs.tracks]]
+title = "TRIAL"
+
+[[discs.tracks]]
+title = "空の下の相関図"
+
+[[discs.tracks]]
+title = "ほんとはね。"

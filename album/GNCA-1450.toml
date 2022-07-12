@@ -1,0 +1,50 @@
+[album]
+album_id = "e8d7d114-ceb0-4631-afd5-eb8ac3dd9bf9"
+title = "東京 1／3650"
+artist = "南條愛乃"
+date = 2015-07-22
+type = "normal"
+catalog = "GNCA-1450"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-1450"
+
+[[discs.tracks]]
+title = "夜、静かな夢"
+
+[[discs.tracks]]
+title = "believe in myself"
+
+[[discs.tracks]]
+title = "黄昏のスタアライト"
+
+[[discs.tracks]]
+title = "Precious time"
+
+[[discs.tracks]]
+title = "7月25日"
+
+[[discs.tracks]]
+title = "あなたの愛した世界"
+
+[[discs.tracks]]
+title = "Dear × Dear"
+
+[[discs.tracks]]
+title = "君が笑む夕暮れ"
+
+[[discs.tracks]]
+title = "Recording."
+
+[[discs.tracks]]
+title = "だいすき"
+
+[[discs.tracks]]
+title = "きみを探しに"
+
+[[discs.tracks]]
+title = "だから、ありがとう"
+
+[[discs.tracks]]
+title = "+ 1day"

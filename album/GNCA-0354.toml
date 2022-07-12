@@ -1,0 +1,27 @@
+[album]
+album_id = "dd9fd1de-6fd0-49b5-b1e2-39e29d30ffbc"
+title = "あなたの愛した世界"
+artist = "南條愛乃"
+date = 2014-11-05
+type = "normal"
+catalog = "GNCA-0354"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0354"
+
+[[discs.tracks]]
+title = "あなたの愛した世界"
+tags = ["アニメ「グリザイアの果実」", "ED"]
+
+[[discs.tracks]]
+title = "Dear × Dear"
+
+[[discs.tracks]]
+title = "あなたの愛した世界＜instrumental＞"
+type = "instrumental"
+tags = ["アニメ「グリザイアの果実」", "ED"]
+
+[[discs.tracks]]
+title = "Dear × Dear＜instrumental＞"
+type = "instrumental"
