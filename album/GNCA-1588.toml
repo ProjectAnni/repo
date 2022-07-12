@@ -1,0 +1,48 @@
+[album]
+album_id = "8de63fb7-3ae3-4fc9-ba46-30b238f1b900"
+title = "Acoustic for you."
+artist = "南條愛乃"
+date = 2020-09-02
+type = "normal"
+catalog = "GNCA-1588"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-1588"
+
+[[discs.tracks]]
+title = "believe in myself"
+
+[[discs.tracks]]
+title = "黄昏のスタアライト"
+
+[[discs.tracks]]
+title = "今日もういい天気だよ"
+
+[[discs.tracks]]
+title = "サクラタイマー"
+
+[[discs.tracks]]
+title = "リトル・メモリー"
+
+[[discs.tracks]]
+title = "一切は物語"
+artist = "南条爱乃、やなぎなぎ"
+
+[[discs.tracks]]
+title = "OTO"
+
+[[discs.tracks]]
+title = "サヨナラの惑星"
+
+[[discs.tracks]]
+title = "君が笑む夕暮れ"
+
+[[discs.tracks]]
+title = "0-未来-"
+
+[[discs.tracks]]
+title = "スキップトラベル"
+
+[[discs.tracks]]
+title = "and I"

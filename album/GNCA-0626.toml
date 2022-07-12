@@ -1,0 +1,27 @@
+[album]
+album_id = "ebec3037-cd01-4305-9709-99f61a521b85"
+title = "涙流るるまま"
+artist = "南條愛乃"
+date = 2020-11-25
+type = "normal"
+catalog = "GNCA-0626"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0626"
+
+[[discs.tracks]]
+title = "涙流るるまま"
+tags = ["グリザイア：ファントムトリガー THE ANIMATION スターゲイザー", "OP"]
+
+[[discs.tracks]]
+title = "新世界"
+
+[[discs.tracks]]
+title = "涙流るるまま＜instrumental＞"
+type = "instrumental"
+tags = ["グリザイア：ファントムトリガー THE ANIMATION スターゲイザー", "OP"]
+
+[[discs.tracks]]
+title = "新世界＜instrumental＞"
+type = "instrumental"

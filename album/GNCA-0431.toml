@@ -1,0 +1,27 @@
+[album]
+album_id = "086607c1-a9f1-4e02-af49-0fc823dd6d2f"
+title = "ゼロイチキセキ"
+artist = "南條愛乃"
+date = 2016-05-25
+type = "normal"
+catalog = "GNCA-0431"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0431"
+
+[[discs.tracks]]
+title = "ゼロイチキセキ"
+tags = ["ネトゲの嫁は女の子じゃないと思った？", "ED"]
+
+[[discs.tracks]]
+title = "Simple feelings"
+
+[[discs.tracks]]
+title = "ゼロイチキセキ<instrumental>"
+type = "instrumental"
+tags = ["ネトゲの嫁は女の子じゃないと思った？", "ED"]
+
+[[discs.tracks]]
+title = "Simple feelings<instrumental>"
+type = "instrumental"

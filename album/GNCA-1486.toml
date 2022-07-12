@@ -1,0 +1,69 @@
+[album]
+album_id = "b292217b-a153-4146-8258-8c694600e395"
+title = "Nのハコ"
+edition = "初回限定盤"
+artist = "南條愛乃"
+date = 2016-07-13
+type = "normal"
+catalog = "GNCA-1486"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "@GNCA-1486-01"
+
+[[discs.tracks]]
+title = "きみからみたわたし"
+
+[[discs.tracks]]
+title = "Oh my holiday！"
+
+[[discs.tracks]]
+title = "NECOME"
+
+[[discs.tracks]]
+title = "灰色ノ街へ告グ"
+
+[[discs.tracks]]
+title = "ゼロイチキセキ"
+
+[[discs.tracks]]
+title = "Gerbera"
+
+[[discs.tracks]]
+title = "ヒカリノ海"
+
+[[discs.tracks]]
+title = "idc"
+
+[[discs.tracks]]
+title = "ツナグワタシ"
+
+[[discs.tracks]]
+title = "ヒトビトヒトル"
+
+[[discs.tracks]]
+title = "Dear.."
+
+[[discs.tracks]]
+title = "0-未来-"
+
+[[discs.tracks]]
+title = "今日もいい天気だよ"
+
+[[discs]]
+catalog = "@GNCA-1486-02"
+
+[[discs.tracks]]
+title = "全力少年"
+
+[[discs.tracks]]
+title = "Time goes by"
+
+[[discs.tracks]]
+title = "ラブソング"
+
+[[discs.tracks]]
+title = "ガーネット"
+
+[[discs.tracks]]
+title = "Stay by my side"

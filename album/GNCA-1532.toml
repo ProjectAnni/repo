@@ -1,0 +1,55 @@
+[album]
+album_id = "69ad05db-1b57-4268-8d7d-696ffd2e96a0"
+title = "THE MEMORIES APARTMENT ‐ Anime ‐"
+artist = "南條愛乃"
+date = 2018-07-18
+type = "normal"
+catalog = "GNCA-1532"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-1532"
+
+[[discs.tracks]]
+title = "君が笑む夕暮れ"
+
+[[discs.tracks]]
+title = "あなたの愛した世界"
+
+[[discs.tracks]]
+title = "黄昏のスタアライト"
+
+[[discs.tracks]]
+title = "きみを探しに"
+
+[[discs.tracks]]
+title = "FIND THE WAY"
+
+[[discs.tracks]]
+title = "Weight of the World／壊レタ世界ノ歌"
+
+[[discs.tracks]]
+title = "Melodies Of Life"
+
+[[discs.tracks]]
+title = "Silly-Go-Round"
+
+[[discs.tracks]]
+title = "小さな恋の花"
+
+[[discs.tracks]]
+title = "ナチュラルカラー"
+
+[[discs.tracks]]
+title = "blessing symphony"
+tags = ["ゲーム「レイギガント」ニル・フィニアス篇", "OP"]
+
+[[discs.tracks]]
+title = "ゼロイチキセキ"
+
+[[discs.tracks]]
+title = "一切は物語"
+artist = "南条爱乃、やなぎなぎ"
+
+[[discs.tracks]]
+title = "光のはじまり"

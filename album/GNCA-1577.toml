@@ -1,0 +1,60 @@
+[album]
+album_id = "c8367b5e-c8be-4224-b0a5-631407da2901"
+title = "A Tiny Winter Story"
+edition = "初回限定盤"
+artist = "南條愛乃"
+date = 2021-12-22
+type = "normal"
+catalog = "GNCA-1577"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "@GNCA-1577-01"
+
+[[discs.tracks]]
+title = "白い季節の約束"
+
+[[discs.tracks]]
+title = "Merry"
+
+[[discs.tracks]]
+title = "vignette"
+
+[[discs.tracks]]
+title = "物語よ始まれと願う空に"
+
+[[discs.tracks]]
+title = "ありったけの愛しさで"
+
+[[discs.tracks]]
+title = "全ては不確かな世界"
+
+[[discs.tracks]]
+title = "青星"
+
+[[discs.tracks]]
+title = "My Heart My Hope"
+
+[[discs.tracks]]
+title = "シュガーポット"
+
+[[discs.tracks]]
+title = "余韻"
+
+[[discs.tracks]]
+title = "A Tiny Winter Story"
+
+[[discs]]
+catalog = "@GNCA-1577-02"
+
+[[discs.tracks]]
+title = "Mr.Snowman"
+
+[[discs.tracks]]
+title = "ウィンターマジック"
+
+[[discs.tracks]]
+title = "愛しさにリボンをかけて"
+
+[[discs.tracks]]
+title = "スターライトパレード"

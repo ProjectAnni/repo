@@ -1,0 +1,27 @@
+[album]
+album_id = "b07dc68c-8480-41e9-8da7-e92c1745bceb"
+title = "光のはじまり"
+artist = "南條愛乃"
+date = 2017-05-17
+type = "normal"
+catalog = "GNCA-0478"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-0478"
+
+[[discs.tracks]]
+title = "光のはじまり"
+tags = ["アトム ザ・ビギニング", "ED"]
+
+[[discs.tracks]]
+title = "白い季節の約束"
+
+[[discs.tracks]]
+title = "光のはじまり＜instrumental＞"
+type = "instrumental"
+tags = ["アトム ザ・ビギニング", "ED"]
+
+[[discs.tracks]]
+title = "白い季節の約束＜instrumental＞"
+type = "instrumental"
