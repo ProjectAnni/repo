@@ -1,0 +1,30 @@
+[album]
+album_id = "b56fe070-3208-4097-bf98-b6f954da06f8"
+title = "Island Memories"
+artist = "大原ゆい子"
+date = 2022-07-13
+type = "normal"
+catalog = "THCA-60273"
+tags = ["からかい上手の高木さん③", "劇場版『からかい上手の高木さん』"]
+
+[[discs]]
+catalog = "THCA-60273"
+
+[[discs.tracks]]
+title = "まっすぐ"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "まっすぐ～ラララver.～"
+
+[[discs.tracks]]
+title = "サンタになりたい"
+
+[[discs.tracks]]
+title = "風見鶏を見つけて"
+
+[[discs.tracks]]
+title = "はじまりの夏"
+
+[[discs.tracks]]
+title = "ハマボウの花"
