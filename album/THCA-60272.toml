@@ -1,0 +1,55 @@
+[album]
+album_id = "bfcf0bd4-5272-4e9b-b500-82d3c7968af4"
+title = "「からかい上手の高木さん3&劇場版」 Cover Song Collection"
+artist = "高木さん（高橋李依）"
+date = 2022-07-13
+type = "normal"
+catalog = "THCA-60272"
+tags = ["からかい上手の高木さん③"]
+
+[[discs]]
+catalog = "THCA-60272"
+
+[[discs.tracks]]
+title = "夢で逢えたら"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Over Drive"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ひまわりの約束"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "学園天国"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "じょいふる"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "サンタが町にやってくる"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "スノーマジックファンタジー"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "花"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "明日への扉"
+
+[[discs.tracks]]
+title = "天体観測"
+
+[[discs.tracks]]
+title = "fragile"
+
+[[discs.tracks]]
+title = "君に届け"
