@@ -1,0 +1,63 @@
+[album]
+album_id = "74c26417-3165-4705-8d02-705f8e12790b"
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 10 765PRO ALLSTARS"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、如月千早（今井麻美）、星井美希（長谷川明子）、秋月律子（若林直美）、我那覇響（沼倉愛美）、菊地真（平田宏美）、四条貴音（原由実）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、双海亜美（下田麻美）、双海真美（下田麻美）、三浦あずさ（たかはし智秋）、水瀬伊織（釘宮理恵））"
+date = 2022-07-09
+type = "normal"
+catalog = "LACZ-10111"
+tags = ["THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10111"
+
+[[discs.tracks]]
+title = "ハルカナミライ"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "World Changer"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "Eternal Spiral"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "G♡F"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "DEpArture from THe life"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ラビットファー"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Justice OR Voice"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "真夏のダイヤ☆"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Emergence Vibe"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Fermata in Rapsodia"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Deep, Deep Blue"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Birth of Color"
+artist = "萩原雪歩（浅倉杏美）"

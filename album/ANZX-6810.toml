@@ -1,0 +1,26 @@
+[album]
+album_id = "3fd297bc-5de5-4465-ba68-6fa1f9bfdbd9"
+title = "PERFECT IDOL 03"
+artist = "天海春香（中村繪里子）、萩原雪歩（浅倉杏美）、秋月律子（若林直美）"
+date = 2012-02-23
+type = "normal"
+catalog = "ANZX-6810"
+tags = ["PERFECT IDOL"]
+
+[[discs]]
+catalog = "ANZX-6810"
+
+[[discs.tracks]]
+title = "君のままで"
+
+[[discs.tracks]]
+title = "乙女よ大志を抱け！！ -NEO ACOUSTIC Rearrange Mix-"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Kosmos, Cosmos -NEO ACOUSTIC Rearrange Mix-"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "まっすぐ -NEO ACOUSTIC Rearrange Mix-"
+artist = "秋月律子（若林直美）"
