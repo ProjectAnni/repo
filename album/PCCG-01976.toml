@@ -1,0 +1,33 @@
+[album]
+album_id = "595343d1-cca1-47e9-b99d-2b50c322c52d"
+title = "きまぐれチクタック"
+edition = "通常盤"
+artist = "harmoe（岩田陽葵、小泉萌香）"
+date = 2021-03-10
+type = "normal"
+catalog = "PCCG-01976"
+tags = ["harmoe"]
+
+[[discs]]
+catalog = "PCCG-01976"
+
+[[discs.tracks]]
+title = "キュリオシティ・パレット"
+
+[[discs.tracks]]
+title = "Wonder girl"
+
+[[discs.tracks]]
+title = "きまぐれチクタック"
+
+[[discs.tracks]]
+title = "キュリオシティ・パレット（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wonder girl（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "きまぐれチクタック（Instrumental）"
+type = "instrumental"

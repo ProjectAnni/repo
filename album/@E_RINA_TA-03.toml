@@ -1,0 +1,14 @@
+[album]
+album_id = "76d5f7f2-04bd-4647-bc3f-dea1cf87e8cf"
+title = "サクラノツボミ"
+artist = "遠藤璃菜"
+date = 2022-02-23
+type = "normal"
+catalog = "@E_RINA_TA-03"
+tags = ["遠藤璃菜"]
+
+[[discs]]
+catalog = "@E_RINA_TA-03"
+
+[[discs.tracks]]
+title = "サクラノツボミ"

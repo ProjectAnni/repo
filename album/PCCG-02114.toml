@@ -1,0 +1,33 @@
+[album]
+album_id = "b2f4b32f-b484-4b8a-acbb-ecc0688792fd"
+title = "アラビアン・ユートピアン"
+edition = "通常盤"
+artist = "harmoe（岩田陽葵、小泉萌香）"
+date = 2021-12-22
+type = "normal"
+catalog = "PCCG-02114"
+tags = ["harmoe"]
+
+[[discs]]
+catalog = "PCCG-02114"
+
+[[discs.tracks]]
+title = "アラビアン・ユートピアン"
+
+[[discs.tracks]]
+title = "私のヒミツは"
+
+[[discs.tracks]]
+title = "Jasmine"
+
+[[discs.tracks]]
+title = "アラビアン・ユートピアン（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "私のヒミツは（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Jasmine（Instrumental）"
+type = "instrumental"

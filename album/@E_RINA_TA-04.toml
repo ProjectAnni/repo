@@ -1,0 +1,14 @@
+[album]
+album_id = "87bfd712-09c0-4702-b763-e4861bcfc5f1"
+title = "ラピスラズリ"
+artist = "遠藤璃菜"
+date = 2022-07-16
+type = "normal"
+catalog = "@E_RINA_TA-04"
+tags = ["遠藤璃菜"]
+
+[[discs]]
+catalog = "@E_RINA_TA-04"
+
+[[discs.tracks]]
+title = "ラピスラズリ"
