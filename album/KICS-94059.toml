@@ -13,6 +13,7 @@ catalog = "KICS-94059"
 
 [[discs.tracks]]
 title = "sunrise glow（overture）"
+type = "absolute"
 
 [[discs.tracks]]
 title = "僕らだけの鼓動"
