@@ -1,0 +1,54 @@
+[album]
+album_id = "1aac19aa-9668-4c43-b21f-a4bf149b0643"
+title = "glow"
+edition = "初回限定盤"
+artist = "水瀬いのり"
+date = 2022-07-20
+type = "normal"
+catalog = "KICS-94059"
+tags = ["水瀬いのり"]
+
+[[discs]]
+catalog = "KICS-94059"
+
+[[discs.tracks]]
+title = "sunrise glow（overture）"
+
+[[discs.tracks]]
+title = "僕らだけの鼓動"
+
+[[discs.tracks]]
+title = "We Are The Music"
+
+[[discs.tracks]]
+title = "風色Letter"
+
+[[discs.tracks]]
+title = "Starlight Museum"
+
+[[discs.tracks]]
+title = "Melty night"
+
+[[discs.tracks]]
+title = "ココロソマリ"
+
+[[discs.tracks]]
+title = "八月のスーベニア"
+
+[[discs.tracks]]
+title = "HELLO HORIZON"
+
+[[discs.tracks]]
+title = "REAL-EYES"
+
+[[discs.tracks]]
+title = "パレオトピア"
+
+[[discs.tracks]]
+title = "心つかまえて"
+
+[[discs.tracks]]
+title = "僕らは今"
+
+[[discs.tracks]]
+title = "glow"
