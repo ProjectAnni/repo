@@ -1,0 +1,14 @@
+[album]
+album_id = "afb85a73-6e5a-4f13-af99-31f00134af23"
+title = "廻り"
+artist = "風祭瑠璃（田所あずさ）"
+date = 2022-07-22
+type = "normal"
+catalog = "@SWSI-0006"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0006"
+
+[[discs.tracks]]
+title = "廻り"
