@@ -1,0 +1,55 @@
+[album]
+album_id = "39adeb66-52a8-4f90-aae6-632d3eae0005"
+title = "ClariS 10th Anniversary BEST – Pink Moon –"
+artist = "ClariS（クララ、カレン）"
+date = 2020-10-21
+type = "normal"
+catalog = "VVCL-1732"
+tags = ["ClariS"]
+
+[[discs]]
+catalog = "VVCL-1732"
+
+[[discs.tracks]]
+title = "irony -season 02-"
+
+[[discs.tracks]]
+title = "STEP -season 02-"
+
+[[discs.tracks]]
+title = "Gravity"
+
+[[discs.tracks]]
+title = "アネモネ"
+
+[[discs.tracks]]
+title = "Wake Up -season 02-"
+
+[[discs.tracks]]
+title = "ナイショの話 -2017-"
+
+[[discs.tracks]]
+title = "border"
+
+[[discs.tracks]]
+title = "nexus -season 02-"
+
+[[discs.tracks]]
+title = "SHIORI"
+
+[[discs.tracks]]
+title = "CLICK -season 02-"
+
+[[discs.tracks]]
+title = "reunion -season 02-"
+
+[[discs.tracks]]
+title = "ひらひら ひらら -Clara solo ver.-"
+artist = "クララ"
+
+[[discs.tracks]]
+title = "recall -Karen solo ver.-"
+artist = "カレン"
+
+[[discs.tracks]]
+title = "仮面ジュブナイル"
