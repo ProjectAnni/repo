@@ -1,0 +1,25 @@
+[album]
+album_id = "0a422af8-1ca7-48dc-b61c-7437dcae1fd9"
+title = "flower of bravery"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2008-07-16
+type = "normal"
+catalog = "PCCR-90029"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "PCCR-90029"
+
+[[discs.tracks]]
+title = "flower of bravery"
+
+[[discs.tracks]]
+title = "sky -version 2008-"
+
+[[discs.tracks]]
+title = "flower of bravery (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "sky -version 2008- (Instrumental)"
+type = "instrumental"

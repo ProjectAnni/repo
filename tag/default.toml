@@ -352,9 +352,9 @@ type = "group"
 name = "OCHA NORMA"
 type = "group"
 
-# 2002~2009 fripSide（nao）
-# 2009~2022 fripSide（南條愛乃）
-# 2002~     fripSide（上杉真央、阿部寿世）
+# 2002~2009 fripSide（nao、八木沼悟志）
+# 2009~2022 fripSide（南條愛乃、八木沼悟志）
+# 2002~     fripSide（上杉真央、阿部寿世、八木沼悟志）
 [[tag]]
 name = "fripSide"
 type = "group"

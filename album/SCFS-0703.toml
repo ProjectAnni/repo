@@ -1,0 +1,56 @@
+[album]
+album_id = "461f4d56-3130-4459-9b1c-712eaa5ba8b1"
+title = "binarydigit"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2007-08-24
+type = "normal"
+catalog = "SCFS-0703"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "SCFS-0703"
+
+[[discs.tracks]]
+title = "binary digit"
+
+[[discs.tracks]]
+title = "hurting heart"
+
+[[discs.tracks]]
+title = "misery"
+
+[[discs.tracks]]
+title = "prominence -version 2007-"
+
+[[discs.tracks]]
+title = "refine progrees"
+
+[[discs.tracks]]
+title = "heat your wave"
+
+[[discs.tracks]]
+title = "libration crisis"
+
+[[discs.tracks]]
+title = "never no astray"
+
+[[discs.tracks]]
+title = "transient wind -version 2007-"
+
+[[discs.tracks]]
+title = "dream myself!"
+
+[[discs.tracks]]
+title = "true eternity -album version-"
+
+[[discs.tracks]]
+title = "brave new world"
+
+[[discs]]
+catalog = "SCFS-0703EX"
+
+[[discs.tracks]]
+title = "hurting heart -nao piano arrange-"
+
+[[discs.tracks]]
+title = "feeling trust"
