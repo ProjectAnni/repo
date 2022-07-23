@@ -1,0 +1,54 @@
+[album]
+album_id = "45ea8381-b687-4c42-869b-75c7bb80cc69"
+title = "infinite synthesis 3"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2016-10-05
+type = "normal"
+catalog = "GNCA-1490"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1490"
+
+[[discs.tracks]]
+title = "2016 -Third cosmic velocity-"
+
+[[discs.tracks]]
+title = "Luminize"
+
+[[discs.tracks]]
+title = "1983-schwarzesmarken-(IS3 version)"
+
+[[discs.tracks]]
+title = "determination"
+
+[[discs.tracks]]
+title = "magicaride -version2016-"
+
+[[discs.tracks]]
+title = "Answer"
+
+[[discs.tracks]]
+title = "Two souls -toward the truth-"
+
+[[discs.tracks]]
+title = "white forces -IS3 edition-"
+
+[[discs.tracks]]
+title = "crescendo -version2016-"
+
+[[discs.tracks]]
+title = "Run into the light"
+
+[[discs.tracks]]
+title = "Dry your tears"
+
+[[discs.tracks]]
+title = "unlimited destiny"
+
+[[discs.tracks]]
+title = "One and Only"
+
+[[discs.tracks]]
+title = "Side by Side"

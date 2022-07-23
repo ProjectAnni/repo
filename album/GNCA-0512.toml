@@ -1,0 +1,26 @@
+[album]
+album_id = "00f53aee-31de-430f-b9cd-8feec557b1d1"
+title = "killing bites"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2018-02-28
+type = "normal"
+catalog = "GNCA-0512"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0512"
+
+[[discs.tracks]]
+title = "killing bites"
+
+[[discs.tracks]]
+title = "three count"
+
+[[discs.tracks]]
+title = "killing bites ＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "three count ＜instrumental＞"
+type = "instrumental"

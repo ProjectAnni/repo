@@ -1,0 +1,22 @@
+[album]
+album_id = "f70d101b-bf4b-4600-b5f6-f02262e0a097"
+title = "僕は僕であって"
+edition = "期間限定盤"
+artist = "angela×fripSide（angela（atsuko、KATSU）、fripSide（南條愛乃、八木沼悟志））"
+date = 2016-10-19
+type = "normal"
+catalog = "KICM-91710"
+tags = ["angela", "fripSide"]
+
+[[discs]]
+catalog = "KICM-91710"
+
+[[discs.tracks]]
+title = "僕は僕であって"
+
+[[discs.tracks]]
+title = "僕は僕であって TV size"
+
+[[discs.tracks]]
+title = "僕は僕であって off vocal version"
+type = "instrumental"

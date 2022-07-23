@@ -1,0 +1,26 @@
+[album]
+album_id = "49c31af5-ecd8-4de4-8183-32f153d68b95"
+title = "dual existence"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2020-08-19
+type = "normal"
+catalog = "GNCA-0608"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0608"
+
+[[discs.tracks]]
+title = "dual existence"
+
+[[discs.tracks]]
+title = "Reason to be here"
+
+[[discs.tracks]]
+title = "dual existence＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Reason to be here＜instrumental＞"
+type = "instrumental"

@@ -1,0 +1,72 @@
+[album]
+album_id = "1bdd105e-64bb-4681-bf75-e56e00e94b11"
+title = "crossroads"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2017-10-04
+type = "normal"
+catalog = "GNCA-1511"
+tags = ["fripSide"]
+
+[[discs]]
+title = "crossroads"
+catalog = "GNCA-151101"
+
+[[discs.tracks]]
+title = "sky -crossroads version-"
+
+[[discs.tracks]]
+title = "Red “reduction division” -crossroads version-"
+
+[[discs.tracks]]
+title = "hurting heart -crossroads version-"
+
+[[discs.tracks]]
+title = "an evening calm -crossroads version-"
+
+[[discs.tracks]]
+title = "split tears -crossroads version-"
+
+[[discs.tracks]]
+title = "the chaostic world -crossroads version-"
+
+[[discs.tracks]]
+title = "prominence -crossroads version-"
+
+[[discs.tracks]]
+title = "distant moon -crossroads version-"
+
+[[discs.tracks]]
+title = "escape -crossroads version-"
+
+[[discs.tracks]]
+title = "before dawn daybreak -crossroads version-"
+
+[[discs.tracks]]
+title = "snow blind -crossroads version-"
+
+[[discs.tracks]]
+title = "brave new world -crossroads version-"
+artist = "fripSide（南條愛乃、八木沼悟志）、nao、KOTOKO、黑崎真音"
+
+[[discs]]
+title = "crossroads"
+catalog = "GNCA-151102"
+
+[[discs.tracks]]
+title = "clockwork planet"
+
+[[discs.tracks]]
+title = "The end of escape -fripSide edition-"
+
+[[discs.tracks]]
+title = "crossroads"
+
+[[discs.tracks]]
+title = "a gleam of prologue"
+
+[[discs.tracks]]
+title = "pico scope -SACLA-"
+
+[[discs.tracks]]
+title = "only me and the moon"

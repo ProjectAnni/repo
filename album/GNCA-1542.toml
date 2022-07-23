@@ -1,0 +1,54 @@
+[album]
+album_id = "7ac0cd1e-ea17-4927-ae9e-75a5e8bdb79b"
+title = "infinite synthesis 4"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2018-10-10
+type = "normal"
+catalog = "GNCA-1542"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1542"
+
+[[discs.tracks]]
+title = "Edge of the Universe"
+
+[[discs.tracks]]
+title = "killing bites"
+
+[[discs.tracks]]
+title = "divine criminal"
+
+[[discs.tracks]]
+title = "snow of silence"
+
+[[discs.tracks]]
+title = "white relation(IS4 version)"
+
+[[discs.tracks]]
+title = "colorless fate -version 2018-"
+
+[[discs.tracks]]
+title = "under a starlit sky"
+
+[[discs.tracks]]
+title = "breaking dawn"
+
+[[discs.tracks]]
+title = "one dream"
+
+[[discs.tracks]]
+title = "adverse wind"
+
+[[discs.tracks]]
+title = "beyond the horizon"
+
+[[discs.tracks]]
+title = "you only live once"
+
+[[discs.tracks]]
+title = "close to you"
+
+[[discs.tracks]]
+title = "Like a blink, a short night."

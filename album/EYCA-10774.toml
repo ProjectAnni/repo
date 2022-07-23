@@ -1,0 +1,26 @@
+[album]
+album_id = "d4731afb-9a95-4eba-b17b-9fa270541502"
+title = "white forces"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2016-02-10
+type = "normal"
+catalog = "EYCA-10774"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "EYCA-10774"
+
+[[discs.tracks]]
+title = "white forces"
+
+[[discs.tracks]]
+title = "1983-schwarzesmarken-"
+
+[[discs.tracks]]
+title = "white forces Instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "1983-schwarzesmarken- Instrumental"
+type = "instrumental"

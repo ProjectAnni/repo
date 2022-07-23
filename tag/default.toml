@@ -359,6 +359,10 @@ type = "group"
 name = "fripSide"
 type = "group"
 
+[[tag]]
+name = "angela"
+type = "group"
+
 ################################################################################
 # Animation
 #

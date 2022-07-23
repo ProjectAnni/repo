@@ -1,0 +1,33 @@
+[album]
+album_id = "f02c1478-0d14-4415-bce7-5892d0893060"
+title = "divine criminal"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2018-05-16
+type = "normal"
+catalog = "GNCA-0505"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0505"
+
+[[discs.tracks]]
+title = "divine criminal"
+
+[[discs.tracks]]
+title = "I believe in my heart"
+
+[[discs.tracks]]
+title = "brave new world -crossroads version- (fripSide Only)"
+
+[[discs.tracks]]
+title = "divine criminal ＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "I believe in my heart ＜instrumental＞"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "brave new world -crossroads version- ＜instrumental＞"
+type = "instrumental"

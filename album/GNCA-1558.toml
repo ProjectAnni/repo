@@ -1,0 +1,51 @@
+[album]
+album_id = "7468ca1f-e10a-43fd-b05e-d6d41e3ced16"
+title = "infinite synthesis 5"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2019-10-30
+type = "normal"
+catalog = "GNCA-1558"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1558"
+
+[[discs.tracks]]
+title = "when chance strikes"
+
+[[discs.tracks]]
+title = "Love with You"
+
+[[discs.tracks]]
+title = "perpetual wishes"
+
+[[discs.tracks]]
+title = "rain of blossoms"
+
+[[discs.tracks]]
+title = "lighting of my heart"
+
+[[discs.tracks]]
+title = "as before"
+
+[[discs.tracks]]
+title = "light at the end"
+
+[[discs.tracks]]
+title = "frosty breeze"
+
+[[discs.tracks]]
+title = "change your core self"
+
+[[discs.tracks]]
+title = "brand new world"
+
+[[discs.tracks]]
+title = "endless entropy"
+
+[[discs.tracks]]
+title = "glorious wind"
+
+[[discs.tracks]]
+title = "believe in your future"
