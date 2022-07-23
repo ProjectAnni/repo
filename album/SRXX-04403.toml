@@ -1,0 +1,27 @@
+[album]
+album_id = "7a25cd73-cca7-4f73-8f91-f90c7e9671f8"
+title = "曇り空の向こうは晴れている"
+artist = "22/7（藤間桜（天城サリー）、斎藤ニコル（河瀬詩）、丸山あかね（白沢かなえ）、神木みかみ（涼花萌）、立川絢香（宮瀬玲奈）、西浦そら（相川奈央）、桐生塔子（麻丘真央）、八神叶愛（雨夜音）、永峰楓（清井美那）、織原純佳（椎名桜月）、一之瀬蛍（四条月）、氷室みず姫（月城咲舞）、瀬良穂乃花（望月りの））"
+date = 2022-07-20
+type = "normal"
+edition = "Special Edition"
+catalog = "SRXX-04403"
+tags = ["ナナブンノニジュウニ"]
+
+[[discs]]
+catalog = "SRXX-04403"
+
+[[discs.tracks]]
+title = "曇り空の向こうは晴れている"
+
+[[discs.tracks]]
+title = "打ち上げ花火の拒否権"
+
+[[discs.tracks]]
+title = "君は誰だ？"
+
+[[discs.tracks]]
+title = "カントリーガール"
+
+[[discs.tracks]]
+title = "読みかけの漫画"
