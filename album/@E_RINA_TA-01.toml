@@ -1,0 +1,14 @@
+[album]
+album_id = "26645886-af54-4d9b-bd0f-c1dfedadfb09"
+title = "友達"
+artist = "遠藤璃菜"
+date = 2021-10-27
+type = "normal"
+catalog = "@E_RINA_TA-01"
+tags = ["遠藤璃菜"]
+
+[[discs]]
+catalog = "@E_RINA_TA-01"
+
+[[discs.tracks]]
+title = "友達"

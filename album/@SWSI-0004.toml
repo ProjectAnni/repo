@@ -1,0 +1,14 @@
+[album]
+album_id = "7d257454-3f45-4a27-a18b-183cae1da70c"
+title = "SweetButter"
+artist = "朝比奈日葵（田口華有）"
+date = 2022-06-24
+type = "normal"
+catalog = "@SWSI-0004"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0004"
+
+[[discs.tracks]]
+title = "SweetButter"

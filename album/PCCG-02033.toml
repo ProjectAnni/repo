@@ -1,0 +1,33 @@
+[album]
+album_id = "b49074b9-9771-4d99-98b3-24a718df4b5a"
+title = "マイペースにマーメイド"
+edition = "通常盤"
+artist = "harmoe（岩田陽葵、小泉萌香）"
+date = 2021-08-18
+type = "normal"
+catalog = "PCCG-02033"
+tags = ["harmoe"]
+
+[[discs]]
+catalog = "PCCG-02033"
+
+[[discs.tracks]]
+title = "マイペースにマーメイド"
+
+[[discs.tracks]]
+title = "Make a pearl"
+
+[[discs.tracks]]
+title = "passport"
+
+[[discs.tracks]]
+title = "マイペースにマーメイド（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Make a pearl（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "passport（Instrumental）"
+type = "instrumental"

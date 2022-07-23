@@ -1,0 +1,14 @@
+[album]
+album_id = "70340565-15ad-4ac8-b3d5-ba63b214b0a6"
+title = "銀色メロディ"
+artist = "天羽友梨（大橋彩香）"
+date = 2022-07-08
+type = "normal"
+catalog = "@SWSI-0005"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "@SWSI-0005"
+
+[[discs.tracks]]
+title = "銀色メロディ"

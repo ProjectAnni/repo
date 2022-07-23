@@ -1,0 +1,35 @@
+[album]
+album_id = "2c446d9d-044e-4595-b99b-e3ec8ee0e45b"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+date = 2022-07-13
+type = "normal"
+catalog = "LACM-24254"
+tags = [
+    "放課後クライマックスガールズ",
+    "THE IDOLM@STER SHINY COLORS PANOR@MA WING"
+]
+
+[[discs]]
+catalog = "LACM-24254"
+
+[[discs.tracks]]
+title = "一閃は君が導く"
+
+[[discs.tracks]]
+title = "キャットスクワッド"
+
+[[discs.tracks]]
+title = "虹の行方（放課後クライマックスガールズVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「PLAY CATch！」"
+type = "drama"
+
+[[discs.tracks]]
+title = "一閃は君が導く（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャットスクワッド（Off Vocal）"
+type = "instrumental"

@@ -1,0 +1,33 @@
+[album]
+album_id = "e1158244-f2d2-4e56-b2d0-1eb41ebcede9"
+title = "恋のクラウチングスタート／お祭りデビューだぜ！"
+edition = "通常盤A"
+artist = "OCHA NORMA（斉藤円香、広本瑠璃、石栗奏美、米村姫良々、窪田七海、田代すみれ、中山夏月姫、西﨑美空、北原もも、筒井澪心）"
+date = 2022-07-13
+type = "normal"
+catalog = "EPCE-7700"
+tags = ["OCHA NORMA"]
+
+[[discs]]
+catalog = "EPCE-7700"
+
+[[discs.tracks]]
+title = "恋のクラウチングスタート"
+
+[[discs.tracks]]
+title = "お祭りデビューだぜ！"
+
+[[discs.tracks]]
+title = "デート前夜狂想曲"
+
+[[discs.tracks]]
+title = "恋のクラウチングスタート (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "お祭りデビューだぜ！(Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "デート前夜狂想曲 (Instrumental)"
+type = "instrumental"

@@ -1,0 +1,55 @@
+[album]
+album_id = "04321f1b-6e09-4d91-bc79-6128932d5f56"
+title = "ClariS 10th Anniversary BEST – Green Star –"
+artist = "ClariS（クララ、カレン）"
+date = 2020-10-21
+type = "normal"
+catalog = "VVCL-1735"
+tags = ["ClariS"]
+
+[[discs]]
+catalog = "VVCL-1735"
+
+[[discs.tracks]]
+title = "Prism"
+
+[[discs.tracks]]
+title = "コネクト -2017-"
+
+[[discs.tracks]]
+title = "ルミナス -2017-"
+
+[[discs.tracks]]
+title = "カラフル -2017-"
+
+[[discs.tracks]]
+title = "CheerS"
+
+[[discs.tracks]]
+title = "PRIMALove"
+
+[[discs.tracks]]
+title = "again"
+
+[[discs.tracks]]
+title = "シグナル"
+
+[[discs.tracks]]
+title = "アリシア"
+
+[[discs.tracks]]
+title = "Clear Sky"
+
+[[discs.tracks]]
+title = "ヒトリゴト"
+
+[[discs.tracks]]
+title = "Dreamin' -Karen solo ver.-"
+artist = "カレン"
+
+[[discs.tracks]]
+title = "泣かないよ -Clara solo ver.-"
+artist = "クララ"
+
+[[discs.tracks]]
+title = "PRECIOUS"

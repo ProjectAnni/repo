@@ -1,0 +1,14 @@
+[album]
+album_id = "e6b6bfd2-8e3b-49d6-8d3d-f4a7dde181ed"
+title = "ななめうしろ"
+artist = "遠藤璃菜"
+date = 2021-11-27
+type = "normal"
+catalog = "@E_RINA_TA-02"
+tags = ["遠藤璃菜"]
+
+[[discs]]
+catalog = "@E_RINA_TA-02"
+
+[[discs.tracks]]
+title = "ななめうしろ"

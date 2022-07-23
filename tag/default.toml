@@ -225,6 +225,10 @@ type = "artist"
 name = "eufonius"
 type = "artist"
 
+[[tag]]
+name = "遠藤璃菜"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -339,6 +343,10 @@ type = "group"
 
 [[tag]]
 name = "harmoe"
+type = "group"
+
+[[tag]]
+name = "OCHA NORMA"
 type = "group"
 
 ################################################################################
