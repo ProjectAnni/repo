@@ -1,0 +1,26 @@
+[album]
+album_id = "797fb9c7-92cc-497e-b834-d313dfd02007"
+title = "black bullet"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2014-05-14
+type = "normal"
+catalog = "GNCA-0333"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0333"
+
+[[discs.tracks]]
+title = "black bullet"
+
+[[discs.tracks]]
+title = "pico scope -SACLA-"
+
+[[discs.tracks]]
+title = "black bullet (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "pico scope -SACLA- (instrumental)"
+type = "instrumental"

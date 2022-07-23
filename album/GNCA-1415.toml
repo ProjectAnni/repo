@@ -1,0 +1,51 @@
+[album]
+album_id = "952eaaaf-dc94-4b43-af0b-3f91300a7c48"
+title = "infinite synthesis 2"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2014-09-10
+type = "normal"
+catalog = "GNCA-1415"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1415"
+
+[[discs.tracks]]
+title = "sister's noise"
+
+[[discs.tracks]]
+title = "infinite synthesis"
+
+[[discs.tracks]]
+title = "fermata~Akkord:fortissimo~"
+
+[[discs.tracks]]
+title = "lost dimension"
+
+[[discs.tracks]]
+title = "I'm believing you"
+
+[[discs.tracks]]
+title = "Secret of my heart"
+
+[[discs.tracks]]
+title = "eternal reality"
+
+[[discs.tracks]]
+title = "black bullet"
+
+[[discs.tracks]]
+title = "rain of tears"
+
+[[discs.tracks]]
+title = "scorching heart"
+
+[[discs.tracks]]
+title = "waiting for the moment"
+
+[[discs.tracks]]
+title = "always be with you"
+
+[[discs.tracks]]
+title = "true resonance"

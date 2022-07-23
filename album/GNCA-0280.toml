@@ -1,0 +1,26 @@
+[album]
+album_id = "d5389e3a-3ad2-4948-8154-ee9243e05df9"
+title = "sister's noise"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2013-05-08
+type = "normal"
+catalog = "GNCA-0280"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0280"
+
+[[discs.tracks]]
+title = "sister's noise"
+
+[[discs.tracks]]
+title = "I'm believing you"
+
+[[discs.tracks]]
+title = "sister's noise (instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "I'm believing you (instrumental)"
+type = "instrumental"

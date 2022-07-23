@@ -1,0 +1,49 @@
+[album]
+album_id = "7bd37fd2-24e6-4a56-840b-af1a626f5143"
+title = "fripSide PC game compilation vol.1"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2012-01-01
+type = "normal"
+catalog = "SCFS-120"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "SCFS-120"
+
+[[discs.tracks]]
+title = "ひだまりバスケット"
+
+[[discs.tracks]]
+title = "trust in you"
+artist = "伊藤静、こやまきみこ"
+
+[[discs.tracks]]
+title = "Alice in Rosso"
+
+[[discs.tracks]]
+title = "colorless fate -ver.Luna 2011-"
+artist = "nao"
+
+[[discs.tracks]]
+title = "Triptych -fripSide arrange ver.-"
+artist = "真理絵"
+
+[[discs.tracks]]
+title = "spiral of despair -resurrection-"
+artist = "Rita"
+
+[[discs.tracks]]
+title = "miracle luminous"
+
+[[discs.tracks]]
+title = "STAR☆CARNIVAL"
+artist = "今井麻美、長谷川明子"
+
+[[discs.tracks]]
+title = "prismatic fate"
+
+[[discs.tracks]]
+title = "prism"
+
+[[discs.tracks]]
+title = "whisper of winter"

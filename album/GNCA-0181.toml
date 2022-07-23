@@ -1,0 +1,28 @@
+[album]
+album_id = "2d7af4be-d562-4754-913e-1a1a12de85ba"
+title = "future gazer"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2010-10-13
+type = "normal"
+catalog = "GNCA-0181"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0181"
+
+[[discs.tracks]]
+title = "future gazer"
+tags = ["アニメ「とある科学の超電磁砲 OVA」", "OP"]
+
+[[discs.tracks]]
+title = "fortissimo-the ultimate crisis-"
+
+[[discs.tracks]]
+title = "future gazer（instrumental）"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲 OVA」", "OP"]
+
+[[discs.tracks]]
+title = "fortissimo-the ultimate crisis-（instrumental）"
+type = "instrumental"

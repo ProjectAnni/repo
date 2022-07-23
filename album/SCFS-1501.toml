@@ -1,0 +1,44 @@
+[album]
+album_id = "67eec88c-6cdc-4ec2-ac41-a27716328a24"
+title = "fripSide PC game compilation vol.2"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2015-08-26
+type = "normal"
+catalog = "SCFS-1501"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "SCFS-1501"
+
+[[discs.tracks]]
+title = "Hesitation Snow"
+
+[[discs.tracks]]
+title = "before dawn daybreak -version 2015-"
+
+[[discs.tracks]]
+title = "sword of virgin"
+
+[[discs.tracks]]
+title = "fortuna on the Sixteenth night"
+
+[[discs.tracks]]
+title = "glow in the darkness"
+
+[[discs.tracks]]
+title = "Blaze of Reunion"
+
+[[discs.tracks]]
+title = "keep your promise"
+
+[[discs.tracks]]
+title = "absolute wish"
+
+[[discs.tracks]]
+title = "precious time"
+
+[[discs.tracks]]
+title = "join forces"
+
+[[discs.tracks]]
+title = "with the light"
