@@ -1,0 +1,25 @@
+[album]
+album_id = "c4eb8021-0f35-4693-a13a-ab3953a59529"
+title = "やっぱり世界はあたし☆れじぇんど!!"
+artist = "fripSide NAO project!（nao、八木沼悟志）"
+date = 2008-08-20
+type = "normal"
+catalog = "PCCR-90030"
+tags = ["fripSide NAO project!"]
+
+[[discs]]
+catalog = "PCCR-90030"
+
+[[discs.tracks]]
+title = "やっぱり世界はあたし☆れじぇんど!!"
+
+[[discs.tracks]]
+title = "プール・バケーション"
+
+[[discs.tracks]]
+title = "やっぱり世界はあたし☆れじぇんど!! -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プール・バケーション -Instrumental-"
+type = "instrumental"

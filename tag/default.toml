@@ -358,6 +358,7 @@ type = "group"
 [[tag]]
 name = "fripSide"
 type = "group"
+includes.group = ["fripSide NAO project!"]
 
 [[tag]]
 name = "angela"
