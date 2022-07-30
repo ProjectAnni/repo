@@ -1,0 +1,27 @@
+[album]
+album_id = "280da583-1270-484d-9799-ba562bdff641"
+title = "THE IDOLM@STER MILLION THE@TER SEASON 夢にかけるRainbow"
+artist = "THE IDOLM@STER MILLION LIVE!"
+date = 2022-07-27
+type = "normal"
+catalog = "LACM-24294"
+tags = ["THE IDOLM@STER MILLION THE@TER SEASON"]
+
+[[discs]]
+catalog = "LACM-24294"
+
+[[discs.tracks]]
+title = "夢にかけるRainbow"
+artist = "765 MILLION ALLSTARS"
+
+[[discs.tracks]]
+title = "夢にかけるRainbow (プリンセススターズ ver.)"
+artist = "プリンセススターズ"
+
+[[discs.tracks]]
+title = "夢にかけるRainbow (フェアリースターズ ver.)"
+artist = "フェアリースターズ"
+
+[[discs.tracks]]
+title = "夢にかけるRainbow (エンジェルスターズ ver.)"
+artist = "エンジェルスターズ"
