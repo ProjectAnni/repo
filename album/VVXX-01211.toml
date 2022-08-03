@@ -1,0 +1,15 @@
+[album]
+album_id = "9c1ab27f-7ab4-4830-9659-456d3fc8af0b"
+title = "wavy flow"
+artist = "Aimer"
+date = 2022-06-03
+type = "normal"
+catalog = "VVXX-01211"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVXX-01211"
+
+[[discs.tracks]]
+title = "wavy flow"
+tags = ["アズールレーン"]

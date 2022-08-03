@@ -1,0 +1,48 @@
+[album]
+album_id = "1cb7385e-c00a-4265-bda3-1a637392990f"
+title = "Apiacere"
+edition = "初回生産限定盤type B"
+artist = "麻倉もも"
+date = 2022-07-27
+type = "normal"
+catalog = "SMCL-776"
+tags = ["麻倉もも"]
+
+[[discs]]
+catalog = "SMCL-776"
+
+[[discs.tracks]]
+title = "ピンキーフック"
+
+[[discs.tracks]]
+title = "満開スケジュール"
+
+[[discs.tracks]]
+title = "eclatante"
+
+[[discs.tracks]]
+title = "彩色硝子"
+
+[[discs.tracks]]
+title = "フラワーズ"
+
+[[discs.tracks]]
+title = "僕だけに見える星"
+
+[[discs.tracks]]
+title = "monologue"
+
+[[discs.tracks]]
+title = "あしあと"
+
+[[discs.tracks]]
+title = "Love me, Choose me"
+
+[[discs.tracks]]
+title = "ふたりシグナル"
+
+[[discs.tracks]]
+title = "ネムイケド"
+
+[[discs.tracks]]
+title = "シロクジチュウム"

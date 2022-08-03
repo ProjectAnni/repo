@@ -1,0 +1,18 @@
+[album]
+album_id = "3f5a1008-a426-418e-9882-2c28fdee7086"
+title = "THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song 5巻 特典CD"
+artist = "如月千早（今井麻美）、高山紗代子（駒形友梨）"
+date = 2022-07-25
+type = "normal"
+catalog = "BNS-00005"
+tags = ["THE IDOLM@STER MILLION LIVE! THEATER DAYS Brand New Song"]
+
+[[discs]]
+catalog = "BNS-00005"
+
+[[discs.tracks]]
+title = "Miracle Night (Chihaya & Sayoko Chorus Ver.)"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+type = "drama"

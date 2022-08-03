@@ -1,0 +1,34 @@
+[album]
+album_id = "a3d9c107-72fd-47d1-8e20-f776dca7e529"
+title = "シャル・ウィ・ダンス？"
+edition = "Special Edition"
+artist = "ReoNa"
+date = 2022-07-27
+type = "normal"
+catalog = "VVXX-01242"
+tags = ["ReoNa"]
+
+[[discs]]
+catalog = "VVXX-01242"
+
+[[discs.tracks]]
+title = "シャル・ウィ・ダンス？"
+tags = ["TVアニメ「シャドーハウス」-2nd Season-", "OP"]
+
+[[discs.tracks]]
+title = "猫失格"
+
+[[discs.tracks]]
+title = "ネリヤカナヤ ～美ら奄美～"
+
+[[discs.tracks]]
+title = "JAMMER"
+
+[[discs.tracks]]
+title = "シャル・ウィ・ダンス？ (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「シャドーハウス」-2nd Season-", "OP"]
+
+[[discs.tracks]]
+title = "シャル・ウィ・ダンス？ (TV Size)"
+tags = ["TVアニメ「シャドーハウス」-2nd Season-", "OP"]
