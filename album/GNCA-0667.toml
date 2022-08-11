@@ -13,14 +13,18 @@ catalog = "GNCA-0667"
 
 [[discs.tracks]]
 title = "dawn of infinity"
+tags = ["TVアニメ「魔法使い黎明期」", "OP"]
 
 [[discs.tracks]]
 title = "Regeneration"
+tags = ["スマホゲーム「三国志幻想大陸」IF編", "OP"]
 
 [[discs.tracks]]
 title = "dawn of infinity <instrumental>"
 type = "instrumental"
+tags = ["TVアニメ「魔法使い黎明期」", "OP"]
 
 [[discs.tracks]]
 title = "Regeneration <instrumental>"
 type = "instrumental"
+tags = ["スマホゲーム「三国志幻想大陸」IF編", "OP"]

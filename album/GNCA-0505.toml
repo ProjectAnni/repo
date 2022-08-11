@@ -13,6 +13,7 @@ catalog = "GNCA-0505"
 
 [[discs.tracks]]
 title = "divine criminal"
+tags = ["TVアニメ「されど罪人は竜と踊る」", "OP"]
 
 [[discs.tracks]]
 title = "I believe in my heart"
@@ -23,6 +24,7 @@ title = "brave new world -crossroads version- (fripSide Only)"
 [[discs.tracks]]
 title = "divine criminal ＜instrumental＞"
 type = "instrumental"
+tags = ["TVアニメ「されど罪人は竜と踊る」", "OP"]
 
 [[discs.tracks]]
 title = "I believe in my heart ＜instrumental＞"

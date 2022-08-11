@@ -13,6 +13,7 @@ catalog = "GNCA-0512"
 
 [[discs.tracks]]
 title = "killing bites"
+tags = ["TVアニメ「キリングバイツ」", "OP"]
 
 [[discs.tracks]]
 title = "three count"
@@ -20,6 +21,7 @@ title = "three count"
 [[discs.tracks]]
 title = "killing bites ＜instrumental＞"
 type = "instrumental"
+tags = ["TVアニメ「キリングバイツ」", "OP"]
 
 [[discs.tracks]]
 title = "three count ＜instrumental＞"

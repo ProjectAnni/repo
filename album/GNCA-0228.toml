@@ -13,6 +13,7 @@ catalog = "GNCA-0228"
 
 [[discs.tracks]]
 title = "way to answer"
+tags = ["PSP(R)専用「とある科学の超電磁砲」", "OP"]
 
 [[discs.tracks]]
 title = "last fortune"
@@ -20,6 +21,7 @@ title = "last fortune"
 [[discs.tracks]]
 title = "way to answer (instrumental)"
 type = "instrumental"
+tags = ["PSP(R)専用「とある科学の超電磁砲」", "OP"]
 
 [[discs.tracks]]
 title = "last fortune (instrumental)"

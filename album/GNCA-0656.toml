@@ -13,6 +13,7 @@ catalog = "GNCA-0656"
 
 [[discs.tracks]]
 title = "Leap of faith"
+tags = ["TVアニメ「失格紋の最強賢者」", "OP"]
 
 [[discs.tracks]]
 title = "passage"
@@ -20,6 +21,7 @@ title = "passage"
 [[discs.tracks]]
 title = "Leap of faith＜instrumental＞"
 type = "instrumental"
+tags = ["TVアニメ「失格紋の最強賢者」", "OP"]
 
 [[discs.tracks]]
 title = "passage＜instrumental＞"

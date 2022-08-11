@@ -13,6 +13,7 @@ catalog = "GNCA-0537"
 
 [[discs.tracks]]
 title = "Love with You"
+tags = ["TVアニメ「寄宿学校のジュリエット」", "OP"]
 
 [[discs.tracks]]
 title = "Blue Moon"
@@ -20,6 +21,7 @@ title = "Blue Moon"
 [[discs.tracks]]
 title = "Love with You ＜instrumental＞"
 type = "instrumental"
+tags = ["TVアニメ「寄宿学校のジュリエット」", "OP"]
 
 [[discs.tracks]]
 title = "Blue Moon ＜instrumental＞"

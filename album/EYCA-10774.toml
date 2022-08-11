@@ -16,6 +16,7 @@ title = "white forces"
 
 [[discs.tracks]]
 title = "1983-schwarzesmarken-"
+tags = ["PCゲーム「シュヴァルツェスマーケン 紅血の紋章」", "OP"]
 
 [[discs.tracks]]
 title = "white forces Instrumental"
@@ -24,3 +25,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "1983-schwarzesmarken- Instrumental"
 type = "instrumental"
+tags = ["PCゲーム「シュヴァルツェスマーケン 紅血の紋章」", "OP"]

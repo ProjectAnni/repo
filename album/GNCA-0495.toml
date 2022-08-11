@@ -13,14 +13,18 @@ catalog = "GNCA-0495"
 
 [[discs.tracks]]
 title = "clockwork planet"
+tags = ["TVアニメ「クロックワーク・プラネット」", "OP"]
 
 [[discs.tracks]]
 title = "Break Our Limit"
+tags = ["ゲーム「少女珈琲枪」"]
 
 [[discs.tracks]]
 title = "clockwork planet＜instrumental＞"
 type = "instrumental"
+tags = ["TVアニメ「クロックワーク・プラネット」", "OP"]
 
 [[discs.tracks]]
 title = "Break Our Limit＜instrumental＞"
 type = "instrumental"
+tags = ["ゲーム「少女珈琲枪」"]

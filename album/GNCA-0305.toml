@@ -13,13 +13,16 @@ catalog = "GNCA-0305"
 
 [[discs.tracks]]
 title = "eternal reality"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
 
 [[discs.tracks]]
 title = "waiting for the moment"
 
 [[discs.tracks]]
 title = "eternal reality (TV size)"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
 
 [[discs.tracks]]
 title = "eternal reality (instrumental)"
 type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]

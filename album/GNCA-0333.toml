@@ -13,6 +13,7 @@ catalog = "GNCA-0333"
 
 [[discs.tracks]]
 title = "black bullet"
+tags = ["TVアニメ「ブラック・ブレット」", "OP"]
 
 [[discs.tracks]]
 title = "pico scope -SACLA-"
@@ -20,6 +21,7 @@ title = "pico scope -SACLA-"
 [[discs.tracks]]
 title = "black bullet (instrumental)"
 type = "instrumental"
+tags = ["TVアニメ「ブラック・ブレット」", "OP"]
 
 [[discs.tracks]]
 title = "pico scope -SACLA- (instrumental)"

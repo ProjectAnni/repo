@@ -685,7 +685,59 @@ name = "TVアニメ「それでも歩は寄せてくる」"
 type = "animation"
 
 [[tag]]
+name = "劇場版 ハヤテのごとく！HEAVEN IS A PLACE ON EARTH"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「ブラック・ブレット」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「フューチャーカード バディファイト ハンドレッド」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「終わりのセラフ」"
+type = "animation"
+
+[[tag]]
+name = "TVシリーズ「亜人」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「クロックワーク・プラネット」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「されど罪人は竜と踊る」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「キリングバイツ」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「寄宿学校のジュリエット」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「キングスレイド 意志を継ぐものたち」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「失格紋の最強賢者」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「魔法使い黎明期」"
+type = "animation"
+
+[[tag]]
 name = "TVアニメ「シャドーハウス」-2nd Season-"
+type = "animation"
+
+[[tag]]
+name = "とある魔術の禁書目録 幻想収束"
 type = "animation"
 
 ################################################################################
@@ -772,7 +824,46 @@ name = "ゲーム「レイギガント」ニル・フィニアス篇"
 type = "game"
 
 [[tag]]
-name = "アズールレーン"
+name = "PSP(R)専用「とある科学の超電磁砲」"
+type = "game"
+
+[[tag]]
+name = "超銀河船団"
+type = "game"
+
+[[tag]]
+name = "ゲーム「少女珈琲枪」"
+type = "game"
+
+[[tag]]
+name = "スマホゲーム「三国志幻想大陸」IF編"
+type = "game"
+
+[[tag]]
+name = "D.C.III DASH ～ダ・カーポIII～ Ver.1.35"
+type = "game"
+
+[[tag]]
+name = "カデンツァ フェルマータ アコルト：フォルテシモ"
+type = "game"
+
+[[tag]]
+name = "ロストディメンション"
+type = "game"
+
+[[tag]]
+name = "スマホゲーム「とある魔術の禁書目録」"
+type = "game"
+
+[[tag]]
+name = "仙境传说RO：守护永恒的爱"
+
+[[tag]]
+name = "封印者M"
+type = "game"
+
+[[tag]]
+name = "碧蓝航线"
 type = "game"
 
 ################################################################################
@@ -825,6 +916,8 @@ type = "project"
 includes.animation = [
   "アニメ「とある科学の超電磁砲」",
   "アニメ「とある科学の超電磁砲 OVA」",
+  "アニメ「とある科学の超電磁砲S」",
+  "アニメ「とある科学の超電磁砲Ｔ」",
 ]
 
 ################################################################################

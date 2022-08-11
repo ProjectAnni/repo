@@ -13,6 +13,7 @@ catalog = "GNCA-0603"
 
 [[discs.tracks]]
 title = "final phase"
+tags = ["アニメ「とある科学の超電磁砲Ｔ」", "OP"]
 
 [[discs.tracks]]
 title = "promenade"
@@ -20,6 +21,7 @@ title = "promenade"
 [[discs.tracks]]
 title = "final phase＜instrumental＞"
 type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲Ｔ」", "OP"]
 
 [[discs.tracks]]
 title = "promenade＜instrumental＞"

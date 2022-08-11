@@ -13,6 +13,7 @@ catalog = "GNCA-0616"
 
 [[discs.tracks]]
 title = "legendary future"
+tags = ["TVアニメ「キングスレイド 意志を継ぐものたち」", "OP"]
 
 [[discs.tracks]]
 title = "a new day will come"
@@ -20,6 +21,7 @@ title = "a new day will come"
 [[discs.tracks]]
 title = "legendary future (instrumental)"
 type = "instrumental"
+tags = ["TVアニメ「キングスレイド 意志を継ぐものたち」", "OP"]
 
 [[discs.tracks]]
 title = "a new day will come (instrumental)"
