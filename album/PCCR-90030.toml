@@ -12,6 +12,7 @@ catalog = "PCCR-90030"
 
 [[discs.tracks]]
 title = "やっぱり世界はあたし☆れじぇんど!!"
+tags = ["TVアニメ「恋姫†無双」", "ED"]
 
 [[discs.tracks]]
 title = "プール・バケーション"
@@ -19,6 +20,7 @@ title = "プール・バケーション"
 [[discs.tracks]]
 title = "やっぱり世界はあたし☆れじぇんど!! -Instrumental-"
 type = "instrumental"
+tags = ["TVアニメ「恋姫†無双」", "ED"]
 
 [[discs.tracks]]
 title = "プール・バケーション -Instrumental-"
