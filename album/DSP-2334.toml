@@ -1,0 +1,47 @@
+[album]
+album_id = "43e96df7-20b9-4904-92ce-3d24c29a57d9"
+title = "北宇治高校吹奏楽部 第5回定期演奏会 5周年記念公演 ゴールド“金賞”ディスク"
+artist = "プログレッシブ！ウインド・オーケストラ"
+date = 2022-02-04
+type = "normal"
+catalog = "DSP-2334"
+tags = ["響け！ユーフォニアム"]
+
+[[discs]]
+catalog = "DSP-2334"
+
+[[discs.tracks]]
+title = "地獄のオルフェ (ショートVer.)"
+
+[[discs.tracks]]
+title = "暴れん坊将軍のテーマ (指導後Ver.)"
+
+[[discs.tracks]]
+title = "RYDEEN"
+
+[[discs.tracks]]
+title = "愛を見つけた場所 (Tp&Eup Duo～大編成Ver.)"
+
+[[discs.tracks]]
+title = "宝島"
+
+[[discs.tracks]]
+title = "響け！ユーフォニアム (Wind Orchestra Ver.)"
+
+[[discs.tracks]]
+title = "プロヴァンスの風"
+
+[[discs.tracks]]
+title = "三日月の舞"
+
+[[discs.tracks]]
+title = "Songbirds (Ob&Fl Duo Ver.)"
+
+[[discs.tracks]]
+title = "リズと青い鳥"
+
+[[discs.tracks]]
+title = "トランペット吹きの休日"
+
+[[discs.tracks]]
+title = "トゥッティ！& ヴィヴァーチェ！メドレー (Wind Orchestra Ver.)"

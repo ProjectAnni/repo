@@ -1,0 +1,28 @@
+[album]
+album_id = "16803945-dc99-45ff-aee2-02a19bbb9c5a"
+title = "にこにこワクワク 最高潮！"
+artist = "AiRBLUE Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+date = 2020-01-22
+type = "normal"
+catalog = "PCCG-01860"
+tags = ["AiRBLUE Bird"]
+
+[[discs]]
+catalog = "PCCG-01860"
+
+[[discs.tracks]]
+title = "にこにこワクワク 最高潮！"
+
+[[discs.tracks]]
+title = "ドリ☆アピ"
+
+[[discs.tracks]]
+title = "our song (Bird ver.)"
+
+[[discs.tracks]]
+title = "にこにこワクワク 最高潮！ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ドリ☆アピ (Instrumental)"
+type = "instrumental"

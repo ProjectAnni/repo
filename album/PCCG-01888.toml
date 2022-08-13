@@ -1,0 +1,42 @@
+[album]
+album_id = "c2aaa604-cdd9-454c-8b14-7c3a66b48089"
+title = "beautiful tomorrow"
+edition = "初回限定盤"
+artist = "AiRBLUE（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈）、天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ）、夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗）、丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+date = 2020-03-25
+type = "normal"
+catalog = "PCCG-01888"
+tags = ["AiRBLUE"]
+
+[[discs]]
+catalog = "PCCG-01888"
+
+[[discs.tracks]]
+title = "beautiful tomorrow"
+
+[[discs.tracks]]
+title = "私たちはまだその春を知らない"
+
+[[discs.tracks]]
+title = "beautiful tomorrow (Flower ver.)"
+artist = "AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+
+[[discs.tracks]]
+title = "beautiful tomorrow (Bird ver.)"
+artist = "AiRBLUE Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+
+[[discs.tracks]]
+title = "beautiful tomorrow (Wind ver.)"
+artist = "AiRBLUE Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+
+[[discs.tracks]]
+title = "beautiful tomorrow (Moon ver.)"
+artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+
+[[discs.tracks]]
+title = "beautiful tomorrow (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "私たちはまだその春を知らない (Instrumental)"
+type = "instrumental"

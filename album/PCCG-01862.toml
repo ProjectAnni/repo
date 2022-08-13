@@ -1,0 +1,26 @@
+[album]
+album_id = "1e59748a-1e54-486e-ad0d-a7e1d80507ac"
+title = "MiRAGE! MiRAGE!!"
+artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+date = 2020-02-12
+type = "normal"
+catalog = "PCCG-01862"
+tags = ["AiRBLUE Moon"]
+
+[[discs]]
+catalog = "PCCG-01862"
+
+[[discs.tracks]]
+title = "MiRAGE! MiRAGE!!"
+
+[[discs.tracks]]
+title = "ヒカリニ染マル未来"
+
+[[discs.tracks]]
+title = "our song (Moon ver.)"
+
+[[discs.tracks]]
+title = "MiRAGE! MiRAGE!! (Instrumental)"
+
+[[discs.tracks]]
+title = "ヒカリニ染マル未来 (Instrumental)"

@@ -1,0 +1,28 @@
+[album]
+album_id = "9667c6e8-a193-475c-9dbd-8c8dddc725e9"
+title = "Override!"
+artist = "AiRBLUE Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+date = 2020-09-16
+type = "normal"
+catalog = "PCCG-01924"
+tags = ["AiRBLUE Bird"]
+
+[[discs]]
+catalog = "PCCG-01924"
+
+[[discs.tracks]]
+title = "Override!"
+
+[[discs.tracks]]
+title = "ハミングバード"
+
+[[discs.tracks]]
+title = "CUTE♡CUTE♡CUTE♡ (Bird ver.)"
+
+[[discs.tracks]]
+title = "Override! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハミングバード (Instrumental)"
+type = "instrumental"

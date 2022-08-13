@@ -1,0 +1,32 @@
+[album]
+album_id = "b27f3385-9556-4ef0-8185-82824679b958"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05"
+artist = "アルストロメリア"
+date = 2022-08-10
+type = "normal"
+catalog = "LACM-24255"
+tags = ["アルストロメリア", "THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24255"
+
+[[discs.tracks]]
+title = "VERY BERRY LOVE"
+
+[[discs.tracks]]
+title = "Give me some more..."
+
+[[discs.tracks]]
+title = "虹の行方（アルストロメリアVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「盛夏のブルーファンフラワー」"
+type = "drama"
+
+[[discs.tracks]]
+title = "VERY BERRY LOVE（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Give me some more...（Off Vocal）"
+type = "instrumental"

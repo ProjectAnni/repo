@@ -1,0 +1,28 @@
+[album]
+album_id = "8b372337-11aa-452a-8803-39d5c84f8bc9"
+title = "Reach For The World!"
+artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+date = 2020-09-16
+type = "normal"
+catalog = "PCCG-01921"
+tags = ["AiRBLUE Moon"]
+
+[[discs]]
+catalog = "PCCG-01921"
+
+[[discs.tracks]]
+title = "Reach For The World!"
+
+[[discs.tracks]]
+title = "Determination-声の架け橋-"
+
+[[discs.tracks]]
+title = "CUTE♡CUTE♡CUTE♡ (Moon ver.)"
+
+[[discs.tracks]]
+title = "Reach For The World! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Determination-声の架け橋- (Instrumental)"
+type = "instrumental"

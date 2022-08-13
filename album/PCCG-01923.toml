@@ -1,0 +1,28 @@
+[album]
+album_id = "d255c91e-564e-4da7-9d26-6b0bd890b9d2"
+title = "Red or Blue？"
+artist = "AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+date = 2020-09-16
+type = "normal"
+catalog = "PCCG-01923"
+tags = ["AiRBLUE Flower"]
+
+[[discs]]
+catalog = "PCCG-01923"
+
+[[discs.tracks]]
+title = "Red or Blue？"
+
+[[discs.tracks]]
+title = "Field of Flowers"
+
+[[discs.tracks]]
+title = "CUTE♡CUTE♡CUTE♡ (Flower ver.)"
+
+[[discs.tracks]]
+title = "Red or Blue？ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Field of Flowers (Instrumental)"
+type = "instrumental"
