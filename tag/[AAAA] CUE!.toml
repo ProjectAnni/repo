@@ -6,6 +6,7 @@ type = "project"
 [[tag]]
 name = "AiRBLUE"
 type = "group"
+included-by = ["CUE!"]
 includes.group = [
     # AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））
     "AiRBLUE Flower",
