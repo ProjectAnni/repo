@@ -1,0 +1,28 @@
+[album]
+album_id = "cc69fd1c-e699-4bae-a8dc-d42f8bf9f858"
+title = "Knocking on My Dream!!"
+artist = "AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+date = 2020-01-22
+type = "normal"
+catalog = "PCCG-01859"
+tags = ["AiRBLUE Flower"]
+
+[[discs]]
+catalog = "PCCG-01859"
+
+[[discs.tracks]]
+title = "Knocking on My Dream!!"
+
+[[discs.tracks]]
+title = "One More Step!"
+
+[[discs.tracks]]
+title = "our song (Flower ver.)"
+
+[[discs.tracks]]
+title = "Knocking on My Dream!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "One More Step! (Instrumental)"
+type = "instrumental"

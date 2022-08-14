@@ -1,0 +1,28 @@
+[album]
+album_id = "c3888b2b-01aa-4ee4-8079-af2d499d55d5"
+title = "Good meal, Good life"
+artist = "AiRBLUE Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+date = 2020-02-12
+type = "normal"
+catalog = "PCCG-01861"
+tags = ["AiRBLUE Wind"]
+
+[[discs]]
+catalog = "PCCG-01861"
+
+[[discs.tracks]]
+title = "Good meal, Good life"
+
+[[discs.tracks]]
+title = "Steppin' Girl"
+
+[[discs.tracks]]
+title = "our song (Wind ver.)"
+
+[[discs.tracks]]
+title = "Good meal, Good life (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Steppin' Girl (instrumental)"
+type = "instrumental"

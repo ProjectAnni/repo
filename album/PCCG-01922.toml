@@ -1,0 +1,28 @@
+[album]
+album_id = "22dd7827-ca54-4499-82ba-ab51a120a9a6"
+title = "NAZO-NAZE Jumping!"
+artist = "AiRBLUE Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+date = 2020-09-16
+type = "normal"
+catalog = "PCCG-01922"
+tags = ["AiRBLUE Wind"]
+
+[[discs]]
+catalog = "PCCG-01922"
+
+[[discs.tracks]]
+title = "NAZO-NAZE Jumping!"
+
+[[discs.tracks]]
+title = "ぐっばいおぶじぇくしょん"
+
+[[discs.tracks]]
+title = "CUTE♡CUTE♡CUTE♡ (Wind ver.)"
+
+[[discs.tracks]]
+title = "NAZO-NAZE Jumping! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ぐっばいおぶじぇくしょん(Instrumental)"
+type = "instrumental"

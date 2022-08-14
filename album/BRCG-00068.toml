@@ -1,0 +1,30 @@
+[album]
+album_id = "45845363-0f05-4af1-b337-f60edb58d148"
+title = "See you everyday"
+artist = "CUE! all cast（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈）、天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ）、夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗）、丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+date = 2019-08-09
+type = "normal"
+catalog = "BRCG-00068"
+tags = ["CUE!"]
+
+[[discs]]
+catalog = "BRCG-00068"
+
+[[discs.tracks]]
+title = "Forever Friends"
+
+[[discs.tracks]]
+title = "One More Step!"
+artist = "Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+
+[[discs.tracks]]
+title = "ドリ☆アピ"
+artist = "Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+
+[[discs.tracks]]
+title = "Steppin’ Girl"
+artist = "Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+
+[[discs.tracks]]
+title = "ヒカリニ染マル未来"
+artist = "Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
