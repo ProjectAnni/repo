@@ -5,18 +5,18 @@ artist = "AiRBLUE（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧
 date = 2022-01-26
 type = "normal"
 catalog = "PCCG-02116"
-tags = ["AiRBLUE"]
+tags = ["AiRBLUE", "アニメ「CUE!」"]
 
 [[discs]]
 catalog = "PCCG-02116"
 
 [[discs.tracks]]
 title = "スタートライン"
-tags = ["アニメ「CUE!」", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "はじまりの鐘の音が鳴り響く空"
-tags = ["アニメ「CUE!」", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "空合ぼくらは追った"
@@ -56,12 +56,12 @@ artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小�
 [[discs.tracks]]
 title = "スタートライン (Instrumental)"
 type = "instrumental"
-tags = ["アニメ「CUE!」", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "はじまりの鐘の音が鳴り響く空 (Instrumental)"
 type = "instrumental"
-tags = ["アニメ「CUE!」", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "空合ぼくらは追った (Instrumental)"

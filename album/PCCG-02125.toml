@@ -6,18 +6,18 @@ artist = "AiRBLUE（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧
 date = 2022-05-18
 type = "normal"
 catalog = "PCCG-02125"
-tags = ["AiRBLUE"]
+tags = ["AiRBLUE", "アニメ「CUE!」"]
 
 [[discs]]
 catalog = "PCCG-02125"
 
 [[discs.tracks]]
 title = "Tomorrow's Diary"
-tags = ["アニメ「CUE!」", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "ゆめだより"
-tags = ["アニメ「CUE!」", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Road to Forever"
@@ -57,12 +57,12 @@ artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小�
 [[discs.tracks]]
 title = "Tomorrow's Diary (Instrumental)"
 type = "instrumental"
-tags = ["アニメ「CUE!」", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "ゆめだより (Instrumental)"
 type = "instrumental"
-tags = ["アニメ「CUE!」", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Road to Forever (Instrumental)"
