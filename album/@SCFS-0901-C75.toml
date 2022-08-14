@@ -4,11 +4,11 @@ title = "Re:product mixes ver.0.1"
 artist = "fripSide（nao、八木沼悟志）"
 date = 2008-12-28
 type = "normal"
-catalog = "SCFS-0901"
+catalog = "@SCFS-0901-C75"
 tags = ["fripSide"]
 
 [[discs]]
-catalog = "SCFS-0901"
+catalog = "@SCFS-0901-C75"
 
 [[discs.tracks]]
 title = "hurting heart ju-ri-mix"
