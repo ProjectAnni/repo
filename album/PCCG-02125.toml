@@ -1,6 +1,7 @@
 [album]
 album_id = "33813cd1-d5eb-4943-93c2-1ecca411c170"
 title = "Tomorrow's Diary／ゆめだより"
+edition = "初回限定盤"
 artist = "AiRBLUE（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈）、天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ）、夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗）、丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
 date = 2022-05-18
 type = "normal"
@@ -12,9 +13,11 @@ catalog = "PCCG-02125"
 
 [[discs.tracks]]
 title = "Tomorrow's Diary"
+tags = ["アニメ「CUE!」", "OP"]
 
 [[discs.tracks]]
 title = "ゆめだより"
+tags = ["アニメ「CUE!」", "ED"]
 
 [[discs.tracks]]
 title = "Road to Forever"
@@ -54,10 +57,12 @@ artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小�
 [[discs.tracks]]
 title = "Tomorrow's Diary (Instrumental)"
 type = "instrumental"
+tags = ["アニメ「CUE!」", "OP"]
 
 [[discs.tracks]]
 title = "ゆめだより (Instrumental)"
 type = "instrumental"
+tags = ["アニメ「CUE!」", "ED"]
 
 [[discs.tracks]]
 title = "Road to Forever (Instrumental)"

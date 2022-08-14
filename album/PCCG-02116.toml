@@ -12,9 +12,11 @@ catalog = "PCCG-02116"
 
 [[discs.tracks]]
 title = "スタートライン"
+tags = ["アニメ「CUE!」", "OP"]
 
 [[discs.tracks]]
 title = "はじまりの鐘の音が鳴り響く空"
+tags = ["アニメ「CUE!」", "ED"]
 
 [[discs.tracks]]
 title = "空合ぼくらは追った"
@@ -54,10 +56,12 @@ artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小�
 [[discs.tracks]]
 title = "スタートライン (Instrumental)"
 type = "instrumental"
+tags = ["アニメ「CUE!」", "OP"]
 
 [[discs.tracks]]
 title = "はじまりの鐘の音が鳴り響く空 (Instrumental)"
 type = "instrumental"
+tags = ["アニメ「CUE!」", "ED"]
 
 [[discs.tracks]]
 title = "空合ぼくらは追った (Instrumental)"
