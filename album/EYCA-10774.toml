@@ -13,6 +13,7 @@ catalog = "EYCA-10774"
 
 [[discs.tracks]]
 title = "white forces"
+tags = ["TVアニメ「シュヴァルツェスマーケン」", "OP"]
 
 [[discs.tracks]]
 title = "1983-schwarzesmarken-"
@@ -21,6 +22,7 @@ tags = ["PCゲーム「シュヴァルツェスマーケン 紅血の紋章」",
 [[discs.tracks]]
 title = "white forces Instrumental"
 type = "instrumental"
+tags = ["TVアニメ「シュヴァルツェスマーケン」", "OP"]
 
 [[discs.tracks]]
 title = "1983-schwarzesmarken- Instrumental"

@@ -9,6 +9,7 @@ catalog = "SCFS-0601~2"
 tags = ["fripSide"]
 
 [[discs]]
+title = "nao Side"
 catalog = "SCFS-0601"
 
 [[discs.tracks]]
@@ -54,6 +55,7 @@ title = "crying moon"
 title = "distant moon"
 
 [[discs]]
+title = "sat Side"
 catalog = "SCFS-0602"
 
 [[discs.tracks]]
