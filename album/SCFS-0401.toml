@@ -1,0 +1,47 @@
+[album]
+album_id = "e3faf381-fe34-4207-aa6c-947274db6fcf"
+title = "2nd fragment of fripSide"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2004-03-28
+type = "normal"
+catalog = "SCFS-0401"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "SCFS-0401"
+
+[[discs.tracks]]
+title = "second fragment"
+
+[[discs.tracks]]
+title = "sky"
+
+[[discs.tracks]]
+title = "transitory orbit"
+
+[[discs.tracks]]
+title = "message"
+
+[[discs.tracks]]
+title = "save me again"
+
+[[discs.tracks]]
+title = "tearful voice"
+
+[[discs.tracks]]
+title = "belief"
+
+[[discs.tracks]]
+title = "stellar"
+
+[[discs.tracks]]
+title = "Detour -fripSide edition-"
+
+[[discs.tracks]]
+title = "crying moon"
+
+[[discs.tracks]]
+title = "belief -TRI-HEDGE RMX-"
+
+[[discs.tracks]]
+title = "storm of sorrow"

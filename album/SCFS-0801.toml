@@ -1,0 +1,44 @@
+[album]
+album_id = "74cf5516-74f6-4205-856d-75943c95d5bf"
+title = "Rabbit Syndrome"
+artist = "fripSide NAO project!（nao、八木沼悟志）"
+date = 2008-01-25
+type = "normal"
+catalog = "SCFS-0801"
+tags = ["fripSide NAO project!"]
+
+[[discs]]
+catalog = "SCFS-0801"
+
+[[discs.tracks]]
+title = "あっせんぶる☆LOVEさんぶる"
+
+[[discs.tracks]]
+title = "せな★せな@Surprise!!"
+
+[[discs.tracks]]
+title = "Rabbit Syndrome"
+
+[[discs.tracks]]
+title = "こんいろ∞トキメキ!! ～着せたら脱がさない～"
+
+[[discs.tracks]]
+title = "かがやけ!dreamin'ガール"
+
+[[discs.tracks]]
+title = "こいびと☆アクセント!!"
+
+[[discs.tracks]]
+title = "Wireless Cosmic"
+
+[[discs.tracks]]
+title = "リバーシブルロマンス"
+
+[[discs.tracks]]
+title = "HAPPYジェネレーション"
+
+[[discs.tracks]]
+title = "せな★せな@Surprise!! -生物RMX-"
+
+[[discs.tracks]]
+title = "あっせんぶる☆LOVEさんぶる -R.S.PV RMX-"

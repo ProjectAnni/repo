@@ -1,0 +1,28 @@
+[album]
+album_id = "d2232fbb-1610-45c9-b275-53efdc4e2563"
+title = "way to answer"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2011-12-14
+type = "normal"
+catalog = "GNCA-0228"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0228"
+
+[[discs.tracks]]
+title = "way to answer"
+tags = ["PSP(R)専用「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "last fortune"
+
+[[discs.tracks]]
+title = "way to answer (instrumental)"
+type = "instrumental"
+tags = ["PSP(R)専用「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "last fortune (instrumental)"
+type = "instrumental"

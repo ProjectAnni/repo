@@ -1,0 +1,101 @@
+[album]
+album_id = "2a63e987-2c4d-4229-8a21-308ff4ba6094"
+title = "the very best of fripSide 2002-2006"
+edition = "同人盤"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2006-07-15
+type = "normal"
+catalog = "SCFS-0601~2"
+tags = ["fripSide"]
+
+[[discs]]
+title = "nao Side"
+catalog = "SCFS-0601"
+
+[[discs.tracks]]
+title = "come to mind"
+
+[[discs.tracks]]
+title = "sky"
+
+[[discs.tracks]]
+title = "an evening calm"
+
+[[discs.tracks]]
+title = "save me again"
+
+[[discs.tracks]]
+title = "nostalgia"
+
+[[discs.tracks]]
+title = "transitory orbit"
+
+[[discs.tracks]]
+title = "colorless fate"
+
+[[discs.tracks]]
+title = "crescendo"
+
+[[discs.tracks]]
+title = "velocity -fripSide+vin-PRAD-"
+
+[[discs.tracks]]
+title = "bright days -version2005-"
+
+[[discs.tracks]]
+title = "splash emotion"
+
+[[discs.tracks]]
+title = "end game"
+
+[[discs.tracks]]
+title = "crying moon"
+
+[[discs.tracks]]
+title = "distant moon"
+
+[[discs]]
+title = "sat Side"
+catalog = "SCFS-0602"
+
+[[discs.tracks]]
+title = "the chaostic world"
+
+[[discs.tracks]]
+title = "vanity destroyer"
+
+[[discs.tracks]]
+title = "message"
+
+[[discs.tracks]]
+title = "reminiscence blue"
+
+[[discs.tracks]]
+title = "melody -reset+fripSide-"
+
+[[discs.tracks]]
+title = "love to sing"
+
+[[discs.tracks]]
+title = "stellar"
+
+[[discs.tracks]]
+title = "transient wind"
+
+[[discs.tracks]]
+title = "absolute one"
+
+[[discs.tracks]]
+title = "colors of summer dream"
+
+[[discs.tracks]]
+title = "planet illusion"
+
+[[discs.tracks]]
+title = "be sure... -album mix-"
+
+[[discs.tracks]]
+title = "belief"
+
+[[discs.tracks]]
+title = "your ocean -azure reproduct mix-"

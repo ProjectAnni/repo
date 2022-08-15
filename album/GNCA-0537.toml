@@ -1,0 +1,28 @@
+[album]
+album_id = "678b69ff-9fc1-4370-b4ee-f300bb0c4a3f"
+title = "Love with You"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2018-11-07
+type = "normal"
+catalog = "GNCA-0537"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0537"
+
+[[discs.tracks]]
+title = "Love with You"
+tags = ["TVアニメ「寄宿学校のジュリエット」", "OP"]
+
+[[discs.tracks]]
+title = "Blue Moon"
+
+[[discs.tracks]]
+title = "Love with You ＜instrumental＞"
+type = "instrumental"
+tags = ["TVアニメ「寄宿学校のジュリエット」", "OP"]
+
+[[discs.tracks]]
+title = "Blue Moon ＜instrumental＞"
+type = "instrumental"

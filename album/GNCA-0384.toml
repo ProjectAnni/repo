@@ -1,0 +1,30 @@
+[album]
+album_id = "bad6fa87-0dd0-4fe5-b205-dee977550da0"
+title = "Luminize"
+edition = "初回限定盤A"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2015-05-20
+type = "normal"
+catalog = "GNCA-0384"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0384"
+
+[[discs.tracks]]
+title = "Luminize"
+tags = ["アニメ「フューチャーカード バディファイト ハンドレッド」", "OP"]
+
+[[discs.tracks]]
+title = "unlimited destiny"
+tags = ["超銀河船団"]
+
+[[discs.tracks]]
+title = "Luminize〈instrumental〉"
+type = "instrumental"
+tags = ["アニメ「フューチャーカード バディファイト ハンドレッド」", "OP"]
+
+[[discs.tracks]]
+title = "unlimited destiny〈instrumental〉"
+type = "instrumental"
+tags = ["超銀河船団"]

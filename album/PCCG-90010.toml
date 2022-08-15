@@ -1,0 +1,44 @@
+[album]
+album_id = "76675e85-cec2-464d-8faa-d78465771a0f"
+title = "split tears"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2008-09-17
+type = "normal"
+catalog = "PCCG-90010"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "PCCG-90010"
+
+[[discs.tracks]]
+title = "before dawn daybreak"
+
+[[discs.tracks]]
+title = "split tears"
+
+[[discs.tracks]]
+title = "praying over (album version)"
+
+[[discs.tracks]]
+title = "magicaride"
+
+[[discs.tracks]]
+title = "fictional moon (album version)"
+
+[[discs.tracks]]
+title = "snow blind (album version)"
+
+[[discs.tracks]]
+title = "snow blind -after-"
+
+[[discs.tracks]]
+title = "spiral of despair"
+
+[[discs.tracks]]
+title = "escape -version2008-"
+
+[[discs.tracks]]
+title = "tomorrow"
+
+[[discs.tracks]]
+title = "eternal twinkle"

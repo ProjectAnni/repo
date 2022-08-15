@@ -1,0 +1,14 @@
+[album]
+album_id = "c135f54f-73b9-458c-b0ce-42f8655196e4"
+title = "fripSide PC game compilation vol.2 予約特典ディスク passion fruits"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2015-08-26
+type = "normal"
+catalog = "@SCFS-1501-01"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "@SCFS-1501-01"
+
+[[discs.tracks]]
+title = "passion fruits"

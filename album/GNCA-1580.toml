@@ -1,0 +1,107 @@
+[album]
+album_id = "7ed3496a-99da-415f-b66d-d7de6b94f481"
+title = "the very best of fripSide 2009-2020"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2020-11-04
+type = "normal"
+catalog = "GNCA-1580"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-158001"
+
+[[discs.tracks]]
+title = "dual existence"
+
+[[discs.tracks]]
+title = "We Rise"
+tags = ["碧蓝航线"]
+
+[[discs.tracks]]
+title = "final phase"
+
+[[discs.tracks]]
+title = "BLACKFOX"
+
+[[discs.tracks]]
+title = "when chance strikes"
+
+[[discs.tracks]]
+title = "Love with You"
+
+[[discs.tracks]]
+title = "Edge of the Universe"
+
+[[discs.tracks]]
+title = "under a starlit sky"
+
+[[discs.tracks]]
+title = "divine criminal"
+
+[[discs.tracks]]
+title = "killing bites"
+
+[[discs.tracks]]
+title = "crossroads"
+
+[[discs.tracks]]
+title = "sky -crossroads version-"
+
+[[discs.tracks]]
+title = "clockwork planet"
+
+[[discs.tracks]]
+title = "The end of escape -fripSide edition-"
+
+[[discs.tracks]]
+title = "white forces -IS3 edition-"
+
+[[discs]]
+catalog = "GNCA-158002"
+
+[[discs.tracks]]
+title = "1983-schwarzesmarken-(IS3 version)"
+
+[[discs.tracks]]
+title = "Two souls -toward the truth-"
+
+[[discs.tracks]]
+title = "magicaride -version2016-"
+
+[[discs.tracks]]
+title = "Luminize"
+
+[[discs.tracks]]
+title = "infinite synthesis"
+
+[[discs.tracks]]
+title = "black bullet"
+
+[[discs.tracks]]
+title = "eternal reality"
+
+[[discs.tracks]]
+title = "sister's noise"
+
+[[discs.tracks]]
+title = "Decade"
+artist = "fripSide（南條愛乃、八木沼悟志）、nao"
+
+[[discs.tracks]]
+title = "Hesitation Snow"
+
+[[discs.tracks]]
+title = "way to answer"
+
+[[discs.tracks]]
+title = "Heaven is a Place on Earth"
+
+[[discs.tracks]]
+title = "future gazer"
+
+[[discs.tracks]]
+title = "LEVEL5-judgelight-"
+
+[[discs.tracks]]
+title = "only my railgun"

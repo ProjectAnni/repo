@@ -1,0 +1,28 @@
+[album]
+album_id = "1a28597e-837f-4b5c-8064-23c7ca5265b6"
+title = "eternal reality"
+edition = "初回限定アニメ盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2013-08-21
+type = "normal"
+catalog = "GNCA-0305"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0305"
+
+[[discs.tracks]]
+title = "eternal reality"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
+
+[[discs.tracks]]
+title = "waiting for the moment"
+
+[[discs.tracks]]
+title = "eternal reality (TV size)"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
+
+[[discs.tracks]]
+title = "eternal reality (instrumental)"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]

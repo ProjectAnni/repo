@@ -1,0 +1,28 @@
+[album]
+album_id = "9c75e592-1a6d-4115-ad64-77aef517826c"
+title = "only my railgun"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2009-11-04
+type = "normal"
+catalog = "GNCA-0151"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0151"
+
+[[discs.tracks]]
+title = "only my railgun"
+tags = ["アニメ「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "late in autumn"
+
+[[discs.tracks]]
+title = "only my railgun（Instrumental）"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "late in autumn（Instrumental）"
+type = "instrumental"

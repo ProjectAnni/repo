@@ -1,0 +1,96 @@
+[album]
+album_id = "9b952b88-c409-4846-aea9-8e7480563538"
+title = "the very best of fripSide -moving ballads-"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2020-11-04
+type = "normal"
+catalog = "GNCA-1583"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-158301"
+
+[[discs.tracks]]
+title = "late in autumn"
+
+[[discs.tracks]]
+title = "colorless fate -version 2018-"
+
+[[discs.tracks]]
+title = "memory of snow"
+
+[[discs.tracks]]
+title = "冬のかけら"
+
+[[discs.tracks]]
+title = "promenade"
+
+[[discs.tracks]]
+title = "rain of blossoms"
+
+[[discs.tracks]]
+title = "Secret of my heart"
+
+[[discs.tracks]]
+title = "The end of summer"
+
+[[discs.tracks]]
+title = "Answer"
+
+[[discs.tracks]]
+title = "beyond the horizon"
+
+[[discs.tracks]]
+title = "message (version2)"
+
+[[discs.tracks]]
+title = "prismatic fate"
+
+[[discs.tracks]]
+title = "one dream"
+
+[[discs.tracks]]
+title = "only me and the moon"
+
+[[discs]]
+catalog = "GNCA-158302"
+
+[[discs.tracks]]
+title = "everlasting"
+
+[[discs.tracks]]
+title = "an evening calm -crossroads version-"
+
+[[discs.tracks]]
+title = "frosty breeze"
+
+[[discs.tracks]]
+title = "whitebird -version 2020-"
+
+[[discs.tracks]]
+title = "My Own Way"
+
+[[discs.tracks]]
+title = "snow blind -crossroads version-"
+
+[[discs.tracks]]
+title = "悲しい星座"
+
+[[discs.tracks]]
+title = "I'm believing you"
+
+[[discs.tracks]]
+title = "split tears -crossroads version-"
+
+[[discs.tracks]]
+title = "white relation(IS4 version)"
+
+[[discs.tracks]]
+title = "three count"
+
+[[discs.tracks]]
+title = "a silent voice"
+
+[[discs.tracks]]
+title = "brave new world -crossroads version- (fripSide Only)"

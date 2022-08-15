@@ -1,0 +1,17 @@
+[album]
+album_id = "54577dc3-3cc8-4d65-aa0e-f035ad26abe8"
+title = "Re:product mixes ver.I.S"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2010-12-01
+type = "normal"
+catalog = "LPR-726"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "LPR-726"
+
+[[discs.tracks]]
+title = "only my railgun [sat vs shiny RMX]"
+
+[[discs.tracks]]
+title = "LEVEL5-judgelight- [sat vs shiny RMX]"

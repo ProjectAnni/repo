@@ -1,0 +1,28 @@
+[album]
+album_id = "c827ece5-a5a0-459d-a0ec-a5d79a893f5e"
+title = "Two souls -toward the truth-"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2015-12-02
+type = "normal"
+catalog = "GNCA-0398"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0398"
+
+[[discs.tracks]]
+title = "Two souls -toward the truth-"
+tags = ["TVアニメ「終わりのセラフ」", "OP"]
+
+[[discs.tracks]]
+title = "冬のかけら"
+
+[[discs.tracks]]
+title = "Two souls -toward the truth-〈instrumental〉"
+type = "instrumental"
+tags = ["TVアニメ「終わりのセラフ」", "OP"]
+
+[[discs.tracks]]
+title = "冬のかけら〈instrumental〉"
+type = "instrumental"

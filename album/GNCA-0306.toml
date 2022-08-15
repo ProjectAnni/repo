@@ -1,0 +1,28 @@
+[album]
+album_id = "88b12218-1d23-4e2f-80e7-fd1f7e820ab4"
+title = "eternal reality"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2013-08-21
+type = "normal"
+catalog = "GNCA-0306"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0306"
+
+[[discs.tracks]]
+title = "eternal reality"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
+
+[[discs.tracks]]
+title = "scorching heart"
+
+[[discs.tracks]]
+title = "eternal reality -instrumental-"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲S」", "OP"]
+
+[[discs.tracks]]
+title = "scorching heart -instrumental-"
+type = "instrumental"

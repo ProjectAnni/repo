@@ -1,0 +1,28 @@
+[album]
+album_id = "e211393a-5819-4cb4-a533-24cf7a2a14a5"
+title = "Heaven is a Place on Earth"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2011-08-24
+type = "normal"
+catalog = "GNCA-0187"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0187"
+
+[[discs.tracks]]
+title = "Heaven is a Place on Earth"
+tags = ["劇場版 ハヤテのごとく！HEAVEN IS A PLACE ON EARTH"]
+
+[[discs.tracks]]
+title = "The end of summer"
+
+[[discs.tracks]]
+title = "Heaven is a Place on Earth（instrumental）"
+type = "instrumental"
+tags = ["劇場版 ハヤテのごとく！HEAVEN IS A PLACE ON EARTH"]
+
+[[discs.tracks]]
+title = "The end of summer（instrumental）"
+type = "instrumental"

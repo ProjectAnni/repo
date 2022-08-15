@@ -1,0 +1,27 @@
+[album]
+album_id = "ab52f9c0-471a-40b2-9f8b-4e2505c42f67"
+title = "The end of escape"
+edition = "通常盤"
+artist = "fripSide×angela（fripSide（南條愛乃、八木沼悟志）、angela（atsuko、KATSU））"
+date = 2016-12-07
+type = "normal"
+catalog = "GNCA-0462"
+tags = ["fripSide", "angela", "TVシリーズ「亜人」", "OP"]
+
+[[discs]]
+catalog = "GNCA-0462"
+
+[[discs.tracks]]
+title = "The end of escape"
+
+[[discs.tracks]]
+title = "The end of escape part of yoshino nanjo"
+artist = "南條愛乃"
+
+[[discs.tracks]]
+title = "The end of escape part of atsuko"
+artist = "atsuko"
+
+[[discs.tracks]]
+title = "The end of escape ＜instrumental＞"
+type = "instrumental"

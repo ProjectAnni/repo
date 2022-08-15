@@ -1,0 +1,28 @@
+[album]
+album_id = "70f62020-92b7-40c7-b2f9-c6aa73337c31"
+title = "final phase"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2020-02-26
+type = "normal"
+catalog = "GNCA-0603"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0603"
+
+[[discs.tracks]]
+title = "final phase"
+tags = ["アニメ「とある科学の超電磁砲Ｔ」", "OP"]
+
+[[discs.tracks]]
+title = "promenade"
+
+[[discs.tracks]]
+title = "final phase＜instrumental＞"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲Ｔ」", "OP"]
+
+[[discs.tracks]]
+title = "promenade＜instrumental＞"
+type = "instrumental"

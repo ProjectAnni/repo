@@ -1,0 +1,32 @@
+[album]
+album_id = "ef90b3a1-d1bd-467d-8867-867d9ff6355b"
+title = "Re:product mixes ver.0.1"
+artist = "fripSide（nao、八木沼悟志）"
+date = 2008-12-28
+type = "normal"
+catalog = "@SCFS-0901-C75"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "@SCFS-0901-C75"
+
+[[discs.tracks]]
+title = "hurting heart ju-ri-mix"
+
+[[discs.tracks]]
+title = "Red -reduction division- sat vs tkm RMX ver.2.1"
+
+[[discs.tracks]]
+title = "magicaride kai Re:product RMX"
+
+[[discs.tracks]]
+title = "vanity destroyer tkm Re:product RMX"
+
+[[discs.tracks]]
+title = "spiral of despair tkm Re:product RMX"
+
+[[discs.tracks]]
+title = "an evening calm kai Re:product RMX"
+
+[[discs.tracks]]
+title = "Red -reduction division- sat vs tkm RMX"

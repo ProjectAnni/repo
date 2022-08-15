@@ -1,0 +1,28 @@
+[album]
+album_id = "0f9e8cdb-2e08-4179-80de-72aadf40604f"
+title = "Leap of faith"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2022-02-02
+type = "normal"
+catalog = "GNCA-0656"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0656"
+
+[[discs.tracks]]
+title = "Leap of faith"
+tags = ["TVアニメ「失格紋の最強賢者」", "OP"]
+
+[[discs.tracks]]
+title = "passage"
+
+[[discs.tracks]]
+title = "Leap of faith＜instrumental＞"
+type = "instrumental"
+tags = ["TVアニメ「失格紋の最強賢者」", "OP"]
+
+[[discs.tracks]]
+title = "passage＜instrumental＞"
+type = "instrumental"

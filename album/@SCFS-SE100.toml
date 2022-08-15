@@ -1,0 +1,21 @@
+[album]
+album_id = "2c4e018b-a7ce-402e-80fb-065f2430c3bc"
+title = "A&futura SE100 fripSide Edition 特典「crying moon」"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2019-01-19
+type = "normal"
+catalog = "@SCFS-SE100"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "@SCFS-SE100"
+
+[[discs.tracks]]
+title = "crying moon"
+
+[[discs.tracks]]
+title = "crying moon -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "fripSide 南條 愛乃 スペシャルメッセージ"

@@ -1,0 +1,28 @@
+[album]
+album_id = "50c3d2ba-bf07-4aff-852c-d5fdbabf05e8"
+title = "LEVEL5-judgelight-"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2010-02-17
+type = "normal"
+catalog = "GNCA-0155"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0155"
+
+[[discs.tracks]]
+title = "LEVEL5-judgelight-"
+tags = ["アニメ「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "memory of snow"
+
+[[discs.tracks]]
+title = "LEVEL5-judgelight-（Instrumental）"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲」", "OP"]
+
+[[discs.tracks]]
+title = "memory of snow（Instrumental）"
+type = "instrumental"

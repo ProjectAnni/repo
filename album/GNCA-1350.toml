@@ -1,0 +1,54 @@
+[album]
+album_id = "26340eeb-dd07-4e1c-aec9-5ee28de2b916"
+title = "Decade"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2012-12-05
+type = "normal"
+catalog = "GNCA-1350"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1350"
+
+[[discs.tracks]]
+title = "Decade"
+artist = "fripSide（南條愛乃、八木沼悟志）、nao"
+
+[[discs.tracks]]
+title = "way to answer"
+
+[[discs.tracks]]
+title = "fortissimo-the ultimate crisis-"
+
+[[discs.tracks]]
+title = "come to mind(version3)"
+
+[[discs.tracks]]
+title = "Heaven is a Place on Earth"
+
+[[discs.tracks]]
+title = "fortissimo-from insanity affection-"
+
+[[discs.tracks]]
+title = "grievous distance"
+
+[[discs.tracks]]
+title = "whitebird"
+
+[[discs.tracks]]
+title = "a silent voice"
+
+[[discs.tracks]]
+title = "message(version2)"
+
+[[discs.tracks]]
+title = "re:ceptivity"
+artist = "nao"
+
+[[discs.tracks]]
+title = "infinite orbit"
+
+[[discs.tracks]]
+title = "endless memory ～refrain as Da Capo～"
+tags = ["D.C.III DASH ～ダ・カーポIII～ Ver.1.35", "OP"]

@@ -1,0 +1,30 @@
+[album]
+album_id = "45adc57c-a34c-46f5-8021-365eb1748325"
+title = "clockwork planet"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2017-05-03
+type = "normal"
+catalog = "GNCA-0495"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0495"
+
+[[discs.tracks]]
+title = "clockwork planet"
+tags = ["TVアニメ「クロックワーク・プラネット」", "OP"]
+
+[[discs.tracks]]
+title = "Break Our Limit"
+tags = ["ゲーム「少女珈琲枪」"]
+
+[[discs.tracks]]
+title = "clockwork planet＜instrumental＞"
+type = "instrumental"
+tags = ["TVアニメ「クロックワーク・プラネット」", "OP"]
+
+[[discs.tracks]]
+title = "Break Our Limit＜instrumental＞"
+type = "instrumental"
+tags = ["ゲーム「少女珈琲枪」"]

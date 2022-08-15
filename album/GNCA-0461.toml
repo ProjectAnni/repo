@@ -1,0 +1,22 @@
+[album]
+album_id = "a359683d-2e4e-4f53-a124-b52019c9936a"
+title = "The end of escape"
+edition = "初回限定盤"
+artist = "fripSide×angela（fripSide（南條愛乃、八木沼悟志）、angela（atsuko、KATSU））"
+date = 2016-12-07
+type = "normal"
+catalog = "GNCA-0461"
+tags = ["fripSide", "angela", "TVシリーズ「亜人」", "OP"]
+
+[[discs]]
+catalog = "GNCA-0461"
+
+[[discs.tracks]]
+title = "The end of escape"
+
+[[discs.tracks]]
+title = "The end of escape TV size"
+
+[[discs.tracks]]
+title = "The end of escape ＜instrumental＞"
+type = "instrumental"

@@ -1,0 +1,27 @@
+[album]
+album_id = "9345343e-ff1b-4bba-89e7-44f6b447a625"
+title = "僕は僕であって"
+edition = "通常盤"
+artist = "angela×fripSide（angela（atsuko、KATSU）、fripSide（南條愛乃、八木沼悟志））"
+date = 2016-10-19
+type = "normal"
+catalog = "KICM-1711"
+tags = ["angela", "fripSide", "TVシリーズ「亜人」", "OP"]
+
+[[discs]]
+catalog = "KICM-1711"
+
+[[discs.tracks]]
+title = "僕は僕であって"
+
+[[discs.tracks]]
+title = "僕は僕であって part of atsuko"
+artist = "atsuko"
+
+[[discs.tracks]]
+title = "僕は僕であって part of yoshino nanjo"
+artist = "南條愛乃"
+
+[[discs.tracks]]
+title = "僕は僕であって off vocal version"
+type = "instrumental"

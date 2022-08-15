@@ -1,0 +1,55 @@
+[album]
+album_id = "0a3e0d94-5d51-4385-96aa-705d42a96e18"
+title = "infinite synthesis 6"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2022-03-23
+type = "normal"
+catalog = "GNCA-1610"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1610"
+
+[[discs.tracks]]
+title = "stay with you -ver.2022-"
+
+[[discs.tracks]]
+title = "Leap of faith"
+
+[[discs.tracks]]
+title = "endless voyage"
+
+[[discs.tracks]]
+title = "legendary future"
+
+[[discs.tracks]]
+title = "Your breeze"
+
+[[discs.tracks]]
+title = "for Seasons"
+
+[[discs.tracks]]
+title = "worlds collide"
+tags = ["とある魔術の禁書目録 幻想収束", "OP"]
+
+[[discs.tracks]]
+title = "The wind in your heart"
+
+[[discs.tracks]]
+title = "faraway sky"
+
+[[discs.tracks]]
+title = "With falling snow"
+
+[[discs.tracks]]
+title = "preparedness star"
+
+[[discs.tracks]]
+title = "on this night"
+
+[[discs.tracks]]
+title = "regret"
+
+[[discs.tracks]]
+title = "Dear All"

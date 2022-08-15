@@ -1,0 +1,28 @@
+[album]
+album_id = "2f8597b1-d81f-48b0-b232-f941974c725d"
+title = "legendary future"
+edition = "初回限定盤"
+artist = "fripSide（南條愛乃、八木沼悟志）"
+date = 2020-11-04
+type = "normal"
+catalog = "GNCA-0616"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-0616"
+
+[[discs.tracks]]
+title = "legendary future"
+tags = ["TVアニメ「キングスレイド 意志を継ぐものたち」", "OP"]
+
+[[discs.tracks]]
+title = "a new day will come"
+
+[[discs.tracks]]
+title = "legendary future (instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「キングスレイド 意志を継ぐものたち」", "OP"]
+
+[[discs.tracks]]
+title = "a new day will come (instrumental)"
+type = "instrumental"
