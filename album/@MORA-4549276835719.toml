@@ -1,0 +1,41 @@
+[album]
+album_id = "9a803f9b-08a0-4cbe-a763-2f2bf38fdd2f"
+title = "Ideal Music Collection lX"
+artist = "イソラ"
+date = 2021-07-26
+type = "absolute"
+catalog = "@MORA-4549276835719"
+tags = ["イソラ"]
+
+[[discs]]
+catalog = "@MORA-4549276835719"
+
+[[discs.tracks]]
+title = "Alstromeria/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Dye the sky./「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "ヒカリのdestination/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "いつだって僕らは/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "プラスチック・アンブレラ/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "SOS/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Town(てってってー)/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "夢咲きAfter school/「アイドルマスター」[ISORA arrange]"

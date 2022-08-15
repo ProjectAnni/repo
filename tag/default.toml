@@ -229,6 +229,18 @@ type = "artist"
 name = "遠藤璃菜"
 type = "artist"
 
+[[tag]]
+name = "さユり"
+type = "artist"
+
+[[tag]]
+name = "halca"
+type = "artist"
+
+[[tag]]
+name = "イソラ"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -746,6 +758,22 @@ type = "animation"
 
 [[tag]]
 name = "TVアニメ「シュヴァルツェスマーケン」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「ヲタクに恋は難しい」"
+type = "animation"
+
+[[tag]]
+name = "アニメ『逆転裁判 ～その「真実」、異議あり！～Season2』"
+type = "animation"
+
+[[tag]]
+name = "アニメ「ぼくたちは勉強ができない！」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「邪神ちゃんドロップキック’」"
 type = "animation"
 
 ################################################################################

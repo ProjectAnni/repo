@@ -1,0 +1,32 @@
+[album]
+album_id = "aa9f0eb3-9775-4db7-86c5-26925fde7d06"
+title = "white disc +++"
+artist = "halca"
+date = 2019-08-28
+type = "normal"
+catalog = "VVCL-1498"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1498"
+
+[[discs.tracks]]
+title = "Distortionary"
+
+[[discs.tracks]]
+title = "君だけ"
+
+[[discs.tracks]]
+title = "Hail to the world!!"
+
+[[discs.tracks]]
+title = "朽葉色の音"
+
+[[discs.tracks]]
+title = "キミの空"
+
+[[discs.tracks]]
+title = "曖昧グラデーション"
+
+[[discs.tracks]]
+title = "GOING CRAZY NIGHT"

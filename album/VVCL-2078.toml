@@ -1,0 +1,26 @@
+[album]
+album_id = "81cf2a74-d317-4398-87f8-acb6c90299b3"
+title = "ALIVE"
+edition = "期間生産限定盤"
+artist = "ClariS（クララ、カレン）"
+date = 2022-08-03
+type = "normal"
+catalog = "VVCL-2078"
+tags = ["ClariS"]
+
+[[discs]]
+catalog = "VVCL-2078"
+
+[[discs.tracks]]
+title = "ALIVE"
+tags = ["TVアニメ「リコリス・リコイル」", "OP"]
+
+[[discs.tracks]]
+title = "ループ"
+
+[[discs.tracks]]
+title = "忘れてもいいよ"
+
+[[discs.tracks]]
+title = "ALIVE -TV MIX-"
+tags = ["TVアニメ「リコリス・リコイル」", "OP"]

@@ -1,0 +1,34 @@
+[album]
+album_id = "0eff9eae-c1c4-4823-b51a-a546338e9a6c"
+title = "スターティングブルー"
+artist = "halca"
+date = 2018-10-31
+type = "normal"
+catalog = "VVCL-1315"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1315"
+
+[[discs.tracks]]
+title = "スターティングブルー"
+tags = ["アニメ『逆転裁判 ～その「真実」、異議あり！～Season2』", "ED"]
+
+[[discs.tracks]]
+title = "うそじゃないよ"
+
+[[discs.tracks]]
+title = "HORiZON"
+
+[[discs.tracks]]
+title = "スターティングブルー instrumental"
+type = "instrumental"
+tags = ["アニメ『逆転裁判 ～その「真実」、異議あり！～Season2』", "ED"]
+
+[[discs.tracks]]
+title = "うそじゃないよ instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "HORiZON instrumental"
+type = "instrumental"

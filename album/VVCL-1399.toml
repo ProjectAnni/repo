@@ -1,0 +1,31 @@
+[album]
+album_id = "486ec781-0156-43a6-a715-707707f019e7"
+title = "センチメンタルクライシス"
+edition = "アニメ盤"
+artist = "halca"
+date = 2019-02-20
+type = "normal"
+catalog = "VVCL-1399"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1399"
+
+[[discs.tracks]]
+title = "センチメンタルクライシス"
+tags = ["かぐや様は告らせたい～天才たちの恋愛頭脳戦～", "ED"]
+
+[[discs.tracks]]
+title = "Majolica Palette"
+
+[[discs.tracks]]
+title = "Knockin' on!!"
+
+[[discs.tracks]]
+title = "センチメンタルクライシス - TV ver.-"
+tags = ["かぐや様は告らせたい～天才たちの恋愛頭脳戦～", "ED"]
+
+[[discs.tracks]]
+title = "センチメンタルクライシス instrumental"
+type = "instrumental"
+tags = ["かぐや様は告らせたい～天才たちの恋愛頭脳戦～", "ED"]

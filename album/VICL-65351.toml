@@ -1,0 +1,35 @@
+[album]
+album_id = "5f3b3aae-c51d-43e4-867c-a977e63edca2"
+title = "Le☆S☆Ca"
+artist = "Le☆S☆Ca（上杉・ウエバス・キョーコ（井上ほの花）、荒木レナ（飯塚麻結）、西園ホノカ（植田ひかる））"
+date = 2020-03-18
+type = "normal"
+catalog = "VICL-65351"
+tags = ["Le☆S☆Ca"]
+
+[[discs]]
+catalog = "VICL-65351"
+
+[[discs.tracks]]
+title = "YELLOW"
+
+[[discs.tracks]]
+title = "Behind Moon"
+
+[[discs.tracks]]
+title = "トワイライト"
+
+[[discs.tracks]]
+title = "タンポポ"
+
+[[discs.tracks]]
+title = "ひまわりのストーリー"
+
+[[discs.tracks]]
+title = "ミツバチ"
+
+[[discs.tracks]]
+title = "ひよこのうた"
+
+[[discs.tracks]]
+title = "SUN SUN SUN"
