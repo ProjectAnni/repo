@@ -1,0 +1,28 @@
+[album]
+album_id = "b597a327-64b8-4d33-9a93-fcef05983c53"
+title = "す、好きじゃない！"
+edition = "Type B"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2022-08-03
+type = "normal"
+catalog = "KIZM-733"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "KIZM-733"
+
+[[discs.tracks]]
+title = "す、好きじゃない！"
+tags = ["アニメ「最近雇ったメイドが怪しい」", "OP"]
+
+[[discs.tracks]]
+title = "サマーチョコレート"
+
+[[discs.tracks]]
+title = "す、好きじゃない！ (off vocal ver.)"
+type = "instrumental"
+tags = ["アニメ「最近雇ったメイドが怪しい」", "OP"]
+
+[[discs.tracks]]
+title = "サマーチョコレート (off vocal ver.)"
+type = "instrumental"

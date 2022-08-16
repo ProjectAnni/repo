@@ -776,6 +776,18 @@ type = "animation"
 name = "TVアニメ「邪神ちゃんドロップキック’」"
 type = "animation"
 
+[[tag]]
+name = "アニメ「彼女、お借りします」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「最近雇ったメイドが怪しい」"
+type = "animation"
+
 ################################################################################
 # Game
 #

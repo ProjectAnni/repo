@@ -1,0 +1,14 @@
+[album]
+album_id = "49d44fea-9a4f-40f7-962d-157bba703cf7"
+title = "マジカルミライ 2021 テーマソング 「初音天地開闢神話」スペシャルRemix CD"
+artist = "cosMo@暴走P、初音ミク"
+date = 2022-03-09
+type = "normal"
+catalog = "CSA-345"
+tags = ["マジカルミライ", "初音ミク", "cosMo@暴走P"]
+
+[[discs]]
+catalog = "CSA-345"
+
+[[discs.tracks]]
+title = "初音天地開闢神話 (keisei’s respect mix)"

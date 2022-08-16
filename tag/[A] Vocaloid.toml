@@ -29,3 +29,13 @@ type = "artist"
 [[tag]]
 name = "Dixie Flatline"
 type = "artist"
+
+[[tag]]
+name = "cosMo@暴走P"
+type = "artist"
+
+################################################################################
+# Events
+[[tag]]
+name = "マジカルミライ"
+type = "project"

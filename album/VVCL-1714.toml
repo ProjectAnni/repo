@@ -1,0 +1,31 @@
+[album]
+album_id = "32e8ac09-3f3b-451f-a1a5-2c984fa2fd36"
+title = "告白バンジージャンプ"
+edition = "期間生産限定盤"
+artist = "halca"
+date = 2020-09-02
+type = "normal"
+catalog = "VVCL-1714"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1714"
+
+[[discs.tracks]]
+title = "告白バンジージャンプ"
+tags = ["アニメ「彼女、お借りします」", "ED"]
+
+[[discs.tracks]]
+title = "FIRST DROP"
+
+[[discs.tracks]]
+title = "cue"
+
+[[discs.tracks]]
+title = "告白バンジージャンプ -instrumental-"
+type = "instrumental"
+tags = ["アニメ「彼女、お借りします」", "ED"]
+
+[[discs.tracks]]
+title = "告白バンジージャンプ -TV ver-"
+tags = ["アニメ「彼女、お借りします」", "ED"]
