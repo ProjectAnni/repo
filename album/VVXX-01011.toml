@@ -5,7 +5,7 @@ artist = "halca"
 date = 2021-05-19
 type = "normal"
 catalog = "VVXX-01011"
-tags = []
+tags = ["halca"]
 
 [[discs]]
 catalog = "VVXX-01011"

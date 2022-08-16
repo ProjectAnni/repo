@@ -1,0 +1,27 @@
+[album]
+album_id = "bcfb3048-fc2f-4649-8c4e-b9bdedc88210"
+title = "ワンダー・スターター／パレットガールズ"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+date = 2022-08-17
+type = "normal"
+catalog = "EYCA-13849"
+tags = ["アニメ「シャインポスト」"]
+
+[[discs]]
+catalog = "EYCA-13849"
+
+[[discs.tracks]]
+title = "ワンダー・スターター"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "パレットガールズ"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ワンダー・スターター -TV ver.-"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "パレットガールズ -TV ver.-"
+tags = ["ED"]

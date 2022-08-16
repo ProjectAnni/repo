@@ -1,0 +1,59 @@
+[album]
+album_id = "e1057cfd-cd38-4280-bccf-4a48d4cf39f6"
+title = "誰彼スクランブル／あれこれドラスティック"
+edition = "Complete Edition"
+artist = "halca"
+date = 2022-08-17
+type = "normal"
+catalog = "VVXX-01253"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVXX-01253"
+
+[[discs.tracks]]
+title = "誰彼スクランブル"
+tags = ["アニメ「Engage Kiss」", "OP"]
+
+[[discs.tracks]]
+title = "あれこれドラスティック"
+artist = "halca feat.鈴木愛奈（halca、鈴木愛奈）"
+tags = ["アニメ「邪神ちゃんドロップキックX」", "OP", "鈴木愛奈"]
+
+[[discs.tracks]]
+title = "reprise"
+
+[[discs.tracks]]
+title = "あれこれドラスティック (halca Ver.)"
+tags = ["アニメ「邪神ちゃんドロップキックX」", "OP"]
+
+[[discs.tracks]]
+title = "誰彼スクランブル (Remixed by Snail's House)"
+tags = ["アニメ「Engage Kiss」", "OP"]
+
+[[discs.tracks]]
+title = "時としてバイオレンス (Remixed by キノシタ)"
+
+[[discs.tracks]]
+title = "誰彼スクランブル (TV Size)"
+tags = ["アニメ「Engage Kiss」", "OP"]
+
+[[discs.tracks]]
+title = "あれこれドラスティック (TV Size)"
+artist = "halca feat.鈴木愛奈（halca、鈴木愛奈）"
+tags = ["アニメ「邪神ちゃんドロップキックX」", "OP", "鈴木愛奈"]
+
+[[discs.tracks]]
+title = "誰彼スクランブル (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「Engage Kiss」", "OP"]
+
+[[discs.tracks]]
+title = "あれこれドラスティック (Instrumental)"
+artist = "halca feat.鈴木愛奈（halca、鈴木愛奈）"
+type = "instrumental"
+tags = ["アニメ「邪神ちゃんドロップキックX」", "OP", "鈴木愛奈"]
+
+[[discs.tracks]]
+title = "reprise (Instrumental)"
+type = "instrumental"

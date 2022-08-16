@@ -241,6 +241,10 @@ type = "artist"
 name = "イソラ"
 type = "artist"
 
+[[tag]]
+name = "鈴木愛奈"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -786,6 +790,18 @@ type = "animation"
 
 [[tag]]
 name = "アニメ「最近雇ったメイドが怪しい」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「シャインポスト」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「Engage Kiss」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「邪神ちゃんドロップキックX」"
 type = "animation"
 
 ################################################################################
