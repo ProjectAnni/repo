@@ -1,0 +1,103 @@
+[album]
+album_id = "2a5d8632-4bc9-45f0-82d2-04a1a60b1f09"
+title = "まいてつ Last Run!! VTuber Cover Selection"
+artist = "LOSE"
+date = 2020-10-30
+type = "normal"
+catalog = "@DL-MAITETSU-VTUBER-COVER"
+tags = ["まいてつ"]
+
+[[discs]]
+catalog = "@DL-MAITETSU-VTUBER-COVER-1"
+
+[[discs.tracks]]
+title = "「明日へと」(ハチロクafterED) AZKi"
+artist = "AZKi"
+
+[[discs.tracks]]
+title = "「GRAND EXPRESS」(グランドOP) さくらみこ"
+artist = "さくらみこ"
+
+[[discs.tracks]]
+title = "「はじめてのこい」(れいなED) ヒヅキミウ"
+artist = "ヒヅキミウ"
+
+[[discs.tracks]]
+title = "「思い出の結晶」(ハチロク劇中テーマ曲１) ユキミお姉ちゃん"
+artist = "ユキミお姉ちゃん"
+
+[[discs.tracks]]
+title = "「ロオド・ラスト」(ハチロクafterOP) 響ゆい"
+artist = "響ゆい"
+
+[[discs.tracks]]
+title = "「リトルプリュム」(日々姫挿入歌) 星乃めあ"
+artist = "星乃めあ"
+
+[[discs.tracks]]
+title = "「Forever With You」(ふかみ凪ED) 朝ノ姉妹ぷろじぇくと"
+artist = "朝ノ姉妹ぷろじぇくと"
+
+[[discs.tracks]]
+title = "「blooming symphony」(日々姫afterOP) 結目ユイ"
+artist = "結目ユイ"
+
+[[discs.tracks]]
+title = "「終わらないリズム」(仲国ED) 舞鶴よかと"
+artist = "舞鶴よかと"
+
+[[discs.tracks]]
+title = "「hello! new world」(ハチロク劇中テーマ曲３) 紡音れい"
+artist = "紡音れい"
+
+[[discs.tracks]]
+title = "「おんなじ気持ち、ほんとの気持ち」(ふかみ凪OP) 虹河ラキ"
+artist = "虹河ラキ"
+
+[[discs]]
+catalog = "@DL-MAITETSU-VTUBER-COVER-2"
+
+[[discs.tracks]]
+title = "「ひだまりライン」(ポーレットafterED) 餅月ひまり"
+artist = "餅月ひまり"
+
+[[discs.tracks]]
+title = "「Shiny Sky Shiny Days」(ふかみED) れいきら"
+artist = "れいきら"
+
+[[discs.tracks]]
+title = "「My Wish Forever」(凪ED) 柚子花"
+artist = "柚子花"
+
+[[discs.tracks]]
+title = "「All right!!」(仲国OP) おさナズ"
+artist = "おさナズ"
+
+[[discs.tracks]]
+title = "「Indivisible Love」(稀咲ED) 黒咲りん"
+artist = "黒咲りん"
+
+[[discs.tracks]]
+title = "「繋いでいく未来」(ニイロクED) カグラナナ"
+artist = "カグラナナ"
+
+[[discs.tracks]]
+title = "「On the Rails」(ポーレットafterOP) アメノセイ"
+artist = "アメノセイ"
+
+[[discs.tracks]]
+title = "「水彩」(真闇ED) セフィラ・スゥ"
+artist = "セフィラ・スゥ"
+
+[[discs.tracks]]
+title = "「floraison」(日々姫afterED) ちゃーちゃん"
+artist = "ちゃーちゃん"
+
+[[discs.tracks]]
+title = "「The road we belong」(ハチロク劇中テーマ曲２) サラダまよね"
+artist = "サラダまよね"
+
+[[discs.tracks]]
+title = "「レイルロマネスク」(ハチロクOP) ユメノシオリ"
+artist = "ユメノシオリ"
+

@@ -1,0 +1,369 @@
+[album]
+album_id = "a8948f12-1df8-4e4b-b980-3f547779546e"
+title = "まいてつ original bgm collection"
+artist = "LOSE"
+date = 2020-10-30
+type = "absolute"
+catalog = "@DL-MAITETSU-OST"
+tags = ["まいてつ", "OST"]
+
+[[discs]]
+catalog = "@DL-MAITETSU-OST-1"
+artist = "衣笠努"
+
+[[discs.tracks]]
+title = "碧の息吹"
+
+[[discs.tracks]]
+title = "緑の息吹"
+
+[[discs.tracks]]
+title = "果てなき軌条"
+
+[[discs.tracks]]
+title = "古の郷"
+
+[[discs.tracks]]
+title = "雨上がり　君と二人"
+
+[[discs.tracks]]
+title = "思いは風にのって"
+
+[[discs.tracks]]
+title = "思いは風にのって-short ver"
+
+[[discs.tracks]]
+title = "いつもいっしょ piano solo"
+
+[[discs.tracks]]
+title = "いつもいっしょ"
+
+[[discs.tracks]]
+title = "胸の奥のズッとふかいトコで"
+
+[[discs.tracks]]
+title = "胸の奥のズッとふかいトコでver2"
+
+[[discs.tracks]]
+title = "胸の奥のズット深いトコで-piano solo"
+
+[[discs.tracks]]
+title = "新緑の頃"
+
+[[discs.tracks]]
+title = "新緑の頃_ensemble"
+
+[[discs.tracks]]
+title = "水面の空 piano solo"
+
+[[discs.tracks]]
+title = "水面の空 piano&strings"
+
+[[discs.tracks]]
+title = "水面の空"
+
+[[discs.tracks]]
+title = "月夜"
+
+[[discs.tracks]]
+title = "午後は二人で"
+
+[[discs.tracks]]
+title = "あなたのまなざし"
+
+[[discs.tracks]]
+title = "My Fair Lady"
+
+[[discs.tracks]]
+title = "My Fair Lady-violin concerto"
+
+[[discs.tracks]]
+title = "神ノ御心賜ヒテ"
+
+[[discs.tracks]]
+title = "神ノ御心賜ヒテ-Japan"
+
+[[discs.tracks]]
+title = "こんな晴れた日は"
+
+[[discs.tracks]]
+title = "Time goes by"
+
+[[discs.tracks]]
+title = "花咲く御社殿にて"
+
+[[discs.tracks]]
+title = "黄昏色の夢"
+
+[[discs.tracks]]
+title = "こんにちは赤ちゃん"
+
+[[discs.tracks]]
+title = "眠れぬ夜"
+
+[[discs.tracks]]
+title = "熱帯夜"
+
+[[discs.tracks]]
+title = "思いは秘かに"
+
+[[discs.tracks]]
+title = "熱情の旋律"
+
+[[discs.tracks]]
+title = "ワインレッド"
+
+[[discs.tracks]]
+title = "乙女の吐息"
+
+[[discs.tracks]]
+title = "ハチロクのテーマ"
+
+[[discs.tracks]]
+title = "ポーレットのテーマ"
+
+[[discs.tracks]]
+title = "心の雫"
+
+[[discs.tracks]]
+title = "心の雫-bandmix"
+
+[[discs.tracks]]
+title = "瞳の中の嘘-hard"
+
+[[discs.tracks]]
+title = "瞳の中の嘘-piano"
+
+[[discs.tracks]]
+title = "瞳の中の嘘-soft"
+
+[[discs.tracks]]
+title = "嵐の夜"
+
+[[discs.tracks]]
+title = "胸の奥でズッと"
+
+[[discs.tracks]]
+title = "雨の午後はユゥ～ツ"
+
+[[discs.tracks]]
+title = "Oh my Girl"
+
+[[discs.tracks]]
+title = "Frayed Sleeve"
+
+[[discs.tracks]]
+title = "君の声が聞こえる"
+
+[[discs.tracks]]
+title = "黄金の海"
+
+[[discs.tracks]]
+title = "Dive into the Dark"
+
+[[discs.tracks]]
+title = "ショートヘアと再生方程式"
+
+[[discs.tracks]]
+title = "ヒビキ　アウ　セカイ"
+
+[[discs.tracks]]
+title = "ヒビキ　アウ　セカイ～Wedding Day～"
+
+[[discs.tracks]]
+title = "小さな祈り"
+
+[[discs.tracks]]
+title = "my sweet Home"
+
+[[discs.tracks]]
+title = "光溢れる輪の中へ"
+
+[[discs.tracks]]
+title = "あの頃のまま"
+
+[[discs.tracks]]
+title = "まるで夢のように恋のように"
+
+[[discs.tracks]]
+title = "野に咲く花"
+
+[[discs.tracks]]
+title = "次の春を待って"
+
+[[discs.tracks]]
+title = "意志を継ぐ者"
+
+[[discs.tracks]]
+title = "蔵人の風吹く時"
+
+[[discs.tracks]]
+title = "水面の空 2018"
+
+[[discs.tracks]]
+title = "新緑の頃 2018"
+
+[[discs.tracks]]
+title = "ポーレットのテーマ 2018"
+
+[[discs.tracks]]
+title = "ハチロクのテーマ 2018"
+
+[[discs.tracks]]
+title = "午後は二人で 2018"
+
+[[discs.tracks]]
+title = "My Fair Lady 2018"
+
+[[discs.tracks]]
+title = "こんにちは赤ちゃん 2018"
+
+[[discs.tracks]]
+title = "あなたのまなざし 2018"
+
+[[discs.tracks]]
+title = "あの頃みたいな恋 80s"
+
+[[discs.tracks]]
+title = "御前会議"
+
+[[discs.tracks]]
+title = "夜更けの雪"
+
+[[discs.tracks]]
+title = "晩秋の頃"
+
+[[discs]]
+catalog = "@DL-MAITETSU-OST-2"
+artist = "Ayumi ONE"
+
+[[discs.tracks]]
+title = "星を眺めて"
+
+[[discs.tracks]]
+title = "御一夜の朝"
+
+[[discs.tracks]]
+title = "夜しんしんと"
+
+[[discs.tracks]]
+title = "今日も一日すたーとです"
+
+[[discs.tracks]]
+title = "小さな世界"
+
+[[discs.tracks]]
+title = "大きな世界"
+
+[[discs.tracks]]
+title = "眺めのいい屋根"
+
+[[discs.tracks]]
+title = "春の陽気"
+
+[[discs.tracks]]
+title = "棒フリマーチ"
+
+[[discs.tracks]]
+title = "脱線会議"
+
+[[discs.tracks]]
+title = "わくわく"
+
+[[discs.tracks]]
+title = "あくびモーション"
+
+[[discs.tracks]]
+title = "不思議！？"
+
+[[discs.tracks]]
+title = "心の奥へ"
+
+[[discs.tracks]]
+title = "季節がやってきた"
+
+[[discs.tracks]]
+title = "blooming world"
+
+[[discs.tracks]]
+title = "はしれ！はしれ！"
+
+[[discs.tracks]]
+title = "どうして！？"
+
+[[discs.tracks]]
+title = "一件落着"
+
+[[discs.tracks]]
+title = "渋くいこうぜ"
+
+[[discs.tracks]]
+title = "舞台モード"
+
+[[discs.tracks]]
+title = "日ノ本帝有鉄道フィルム序曲"
+
+[[discs.tracks]]
+title = "Historia"
+
+[[discs.tracks]]
+title = "ここは日ノ本"
+
+[[discs.tracks]]
+title = "だいはつれい！"
+
+[[discs.tracks]]
+title = "ちんどんだいはつれい！"
+
+[[discs.tracks]]
+title = "川が流れる"
+
+[[discs.tracks]]
+title = "Wabi Sabi dance"
+
+[[discs.tracks]]
+title = "渡り鳥の寝る横木"
+
+[[discs.tracks]]
+title = "すいかのセンス"
+
+[[discs.tracks]]
+title = "絵付けしよう！"
+
+[[discs.tracks]]
+title = "湯気の中の団欒"
+
+[[discs.tracks]]
+title = "Spread！"
+
+[[discs]]
+catalog = "@DL-MAITETSU-OST-3"
+artist = "グリスハーモ"
+
+[[discs.tracks]]
+title = "西瓜"
+
+[[discs.tracks]]
+title = "かいしん！"
+
+[[discs.tracks]]
+title = "異国の停車場"
+
+[[discs.tracks]]
+title = "不穏な空気"
+
+[[discs.tracks]]
+title = "Abyss"
+
+[[discs.tracks]]
+title = "思いは胸の奥底に"
+
+[[discs.tracks]]
+title = "あの故郷へ"
+
+[[discs.tracks]]
+title = "電子と音"
+
+[[discs.tracks]]
+title = "親愛"
+

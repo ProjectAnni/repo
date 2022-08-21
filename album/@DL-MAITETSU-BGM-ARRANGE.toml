@@ -1,0 +1,270 @@
+[album]
+album_id = "579eebae-4a4f-47fe-8145-01445ca77e33"
+title = "まいてつ bgm arrange collection"
+artist = "LOSE"
+date = 2020-10-30
+type = "normal"
+catalog = "@DL-MAITETSU-BGM-ARRANGE"
+tags = ["まいてつ"]
+
+[[discs]]
+title = "piano生演奏"
+catalog = "@DL-MAITETSU-BGM-ARRANGE-1"
+
+[[discs.tracks]]
+title = "Shiny Sky Shiny Days"
+
+[[discs.tracks]]
+title = "Forever With You"
+
+[[discs.tracks]]
+title = "水彩"
+
+[[discs.tracks]]
+title = "Blooming Symphony"
+
+[[discs.tracks]]
+title = "The Road We Belong"
+
+[[discs.tracks]]
+title = "繋いでいく未来"
+
+[[discs.tracks]]
+title = "My Wish Forever"
+
+[[discs.tracks]]
+title = "indivisible love"
+
+[[discs.tracks]]
+title = "floraison"
+
+[[discs.tracks]]
+title = "リトルプリュム"
+
+[[discs.tracks]]
+title = "ひだまりライン"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS"
+
+[[discs.tracks]]
+title = "明日へと"
+
+[[discs.tracks]]
+title = "hello! new world"
+
+[[discs.tracks]]
+title = "On the Rails"
+
+[[discs.tracks]]
+title = "おんなじ気持ち、ほんとの気持ち"
+
+[[discs.tracks]]
+title = "思い出の結晶"
+
+[[discs.tracks]]
+title = "終わらないリズム"
+
+[[discs.tracks]]
+title = "はじめてのこい"
+
+[[discs.tracks]]
+title = "All right!!"
+
+[[discs.tracks]]
+title = "ロオド・ラスト"
+
+[[discs]]
+title = "まいてつ"
+catalog = "@DL-MAITETSU-BGM-ARRANGE-2"
+
+[[discs.tracks]]
+title = "レイルロマネスク"
+
+[[discs.tracks]]
+title = "SilentRail"
+
+[[discs.tracks]]
+title = "pictorial"
+
+[[discs.tracks]]
+title = "未来行き☆列車"
+
+[[discs.tracks]]
+title = "どこまでも続くこの路を"
+
+[[discs.tracks]]
+title = "Run with our dreams"
+
+[[discs.tracks]]
+title = "未来へのレール"
+
+[[discs.tracks]]
+title = "しゅっぱつしんこう！！"
+
+[[discs.tracks]]
+title = "ひとしずく"
+
+[[discs.tracks]]
+title = "Snow White"
+
+[[discs.tracks]]
+title = "おもいでをかさねて"
+
+[[discs.tracks]]
+title = "ナインスターズ"
+
+[[discs.tracks]]
+title = "SilentRail"
+
+[[discs.tracks]]
+title = "pictorial"
+
+[[discs.tracks]]
+title = "未来行き☆列車"
+
+[[discs.tracks]]
+title = "未来行き☆列車_emo"
+
+[[discs.tracks]]
+title = "未来行き☆列車_inst"
+
+[[discs.tracks]]
+title = "未来行き☆列車"
+
+[[discs.tracks]]
+title = "未来行き☆列車_sad"
+
+[[discs.tracks]]
+title = "未来行き☆列車_slow"
+
+[[discs.tracks]]
+title = "pictorial"
+
+[[discs.tracks]]
+title = "Run with our dreams"
+
+[[discs.tracks]]
+title = "SilentRail"
+
+[[discs.tracks]]
+title = "SnowWhite"
+
+[[discs.tracks]]
+title = "おもいでをかさねて"
+
+[[discs.tracks]]
+title = "しゅっぱつしんこう！！"
+
+[[discs.tracks]]
+title = "どこまでも続くこの路を"
+
+[[discs.tracks]]
+title = "ひとしずく"
+
+[[discs.tracks]]
+title = "ナインスターズ"
+
+[[discs.tracks]]
+title = "レイル・ロマネスク"
+
+[[discs.tracks]]
+title = "未来へのレール"
+
+[[discs.tracks]]
+title = "未来行き☆列車"
+
+[[discs]]
+title = "まいてつLast Run!!"
+catalog = "@DL-MAITETSU-BGM-ARRANGE-3"
+
+[[discs.tracks]]
+title = "ロオド・ラスト"
+
+[[discs.tracks]]
+title = "ひだまりライン"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_ハチロク"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_ポーレット"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_日々姫"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_れいな"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_ふかみ"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_凪"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_真闇"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS_稀咲"
+
+[[discs.tracks]]
+title = "All right!"
+
+[[discs.tracks]]
+title = "blooming symphony"
+
+[[discs.tracks]]
+title = "floraison"
+
+[[discs.tracks]]
+title = "Forever With You"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS"
+
+[[discs.tracks]]
+title = "Hello!!new world"
+
+[[discs.tracks]]
+title = "Indivisible_Love"
+
+[[discs.tracks]]
+title = "My Wish Forever"
+
+[[discs.tracks]]
+title = "On the Rails"
+
+[[discs.tracks]]
+title = "Shiny Sky Shiny Days"
+
+[[discs.tracks]]
+title = "the road we belong"
+
+[[discs.tracks]]
+title = "おんなじ気持ち、ほんとの気持ち"
+
+[[discs.tracks]]
+title = "はじめてのこい"
+
+[[discs.tracks]]
+title = "ひだまりライン"
+
+[[discs.tracks]]
+title = "リトルプリュム"
+
+[[discs.tracks]]
+title = "ロオド・ラスト"
+
+[[discs.tracks]]
+title = "思い出の結晶"
+
+[[discs.tracks]]
+title = "明日へと"
+
+[[discs.tracks]]
+title = "水彩"
+
+[[discs.tracks]]
+title = "終わらないリズム"
+
