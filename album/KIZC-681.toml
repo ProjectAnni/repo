@@ -1,0 +1,47 @@
+[album]
+album_id = "26b08d96-76e5-4cfc-9d47-3b9a3b96c119"
+title = "BLOOMING"
+artist = "岡咲美保"
+date = 2022-08-17
+type = "normal"
+catalog = "KIZC-681"
+tags = ["岡咲美保"]
+
+[[discs]]
+catalog = "KIZC-681"
+
+[[discs.tracks]]
+title = "ALRIGHT！"
+
+[[discs.tracks]]
+title = "ペタルズ"
+
+[[discs.tracks]]
+title = "バブルス"
+
+[[discs.tracks]]
+title = "Dream In Wonderland"
+
+[[discs.tracks]]
+title = "ファンタジック♡ファンファーレ"
+
+[[discs.tracks]]
+title = "ミラー"
+
+[[discs.tracks]]
+title = "ワラウカドニハ！"
+
+[[discs.tracks]]
+title = "Rainy Smiley"
+
+[[discs.tracks]]
+title = "ハピネス"
+
+[[discs.tracks]]
+title = "Starting Bell"
+
+[[discs.tracks]]
+title = "フリージア"
+
+[[discs.tracks]]
+title = "インフィニット"
