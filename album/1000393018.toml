@@ -1,0 +1,27 @@
+[album]
+album_id = "6a1ba958-95f9-4bfc-a636-75782b3f6bb9"
+title = "Grow Slowly"
+artist = "井口裕香"
+date = 2013-05-15
+type = "normal"
+catalog = "1000393018"
+tags = ["井口裕香"]
+
+[[discs]]
+catalog = "1000393018"
+
+[[discs.tracks]]
+title = "Grow Slowly"
+tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
+
+[[discs.tracks]]
+title = "stand still"
+
+[[discs.tracks]]
+title = "Grow Slowly (instrumental)"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
+
+[[discs.tracks]]
+title = "stand still (instrumental)"
+type = "instrumental"
