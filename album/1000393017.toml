@@ -19,14 +19,14 @@ tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
 title = "Everything"
 
 [[discs.tracks]]
-title = "Grow Slowly (TV Size)"
+title = "Grow Slowly（TV Size）"
 tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
 
 [[discs.tracks]]
-title = "Grow Slowly〈instrumental〉"
+title = "Grow Slowly（instrumental）"
 type = "instrumental"
 tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
 
 [[discs.tracks]]
-title = "Everything〈instrumental〉"
+title = "Everything（instrumental）"
 type = "instrumental"
