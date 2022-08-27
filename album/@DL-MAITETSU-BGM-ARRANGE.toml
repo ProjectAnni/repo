@@ -8,7 +8,6 @@ catalog = "@DL-MAITETSU-BGM-ARRANGE"
 tags = ["まいてつ"]
 
 [[discs]]
-title = "piano生演奏"
 catalog = "@DL-MAITETSU-BGM-ARRANGE-1"
 
 [[discs.tracks]]
@@ -75,7 +74,7 @@ title = "All right!! (piano生演奏)"
 title = "ロオド・ラスト (piano生演奏)"
 
 [[discs]]
-title = "まいてつ"
+title = "まいてつ bgm arrange collection"
 catalog = "@DL-MAITETSU-BGM-ARRANGE-2"
 
 [[discs.tracks]]
@@ -175,7 +174,7 @@ title = "未来へのレール (sono makers arrange)"
 title = "未来行き☆列車 (sono makers arrange)"
 
 [[discs]]
-title = "まいてつLast Run!!"
+title = "まいてつ Last Run!! bgm arrange collection"
 catalog = "@DL-MAITETSU-BGM-ARRANGE-3"
 
 [[discs.tracks]]
