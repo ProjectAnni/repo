@@ -1,0 +1,32 @@
+[album]
+album_id = "bbd4552c-0d39-4926-ab90-42bc2cdc544f"
+title = "Grow Slowly"
+edition = "初回限定アニメPV盤"
+artist = "井口裕香"
+date = 2013-05-15
+type = "normal"
+catalog = "1000393017"
+tags = ["井口裕香"]
+
+[[discs]]
+catalog = "1000393017"
+
+[[discs.tracks]]
+title = "Grow Slowly"
+tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
+
+[[discs.tracks]]
+title = "Everything"
+
+[[discs.tracks]]
+title = "Grow Slowly（TV Size）"
+tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
+
+[[discs.tracks]]
+title = "Grow Slowly（instrumental）"
+type = "instrumental"
+tags = ["アニメ「とある科学の超電磁砲S」", "ED"]
+
+[[discs.tracks]]
+title = "Everything（instrumental）"
+type = "instrumental"
