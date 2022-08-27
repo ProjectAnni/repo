@@ -1,0 +1,51 @@
+[album]
+album_id = "23e73e6f-f7c5-4a08-ba5f-ec5c9093888e"
+title = "Waver -Instrumental-"
+artist = "田所あずさ"
+date = 2021-11-10
+type = "instrumental"
+catalog = "LZC-2028"
+tags = ["田所あずさ"]
+
+[[discs]]
+catalog = "LZC-2028"
+
+[[discs.tracks]]
+title = "レイドバック・ガール -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ちっちゃな怪獣 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ソールに花びら -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Rest in a Stroke -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "クリシェ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "死神とロマンス -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "徒然恋愛サバイバー -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ころあるこ。 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "いつか暮れた街の空に -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Waver -Instrumental-"
+type = "instrumental"
