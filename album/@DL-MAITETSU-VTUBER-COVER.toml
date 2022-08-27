@@ -1,0 +1,103 @@
+[album]
+album_id = "2a5d8632-4bc9-45f0-82d2-04a1a60b1f09"
+title = "まいてつ Last Run!! VTuber Cover Selection"
+artist = "Lose"
+date = 2020-10-30
+type = "normal"
+catalog = "@DL-MAITETSU-VTUBER-COVER"
+tags = ["まいてつ"]
+
+[[discs]]
+catalog = "@DL-MAITETSU-VTUBER-COVER-1"
+
+[[discs.tracks]]
+title = "明日へと"
+artist = "AZKi"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS"
+artist = "さくらみこ"
+
+[[discs.tracks]]
+title = "はじめてのこい"
+artist = "ヒヅキミウ"
+
+[[discs.tracks]]
+title = "思い出の結晶"
+artist = "ユキミお姉ちゃん"
+
+[[discs.tracks]]
+title = "ロオド・ラスト"
+artist = "響ゆい"
+
+[[discs.tracks]]
+title = "リトルプリュム"
+artist = "星乃めあ"
+
+[[discs.tracks]]
+title = "Forever With You"
+artist = "朝ノ姉妹ぷろじぇくと"
+
+[[discs.tracks]]
+title = "blooming symphony"
+artist = "結目ユイ"
+
+[[discs.tracks]]
+title = "終わらないリズム"
+artist = "舞鶴よかと"
+
+[[discs.tracks]]
+title = "hello! new world"
+artist = "紡音れい"
+
+[[discs.tracks]]
+title = "おんなじ気持ち、ほんとの気持ち"
+artist = "虹河ラキ"
+
+[[discs]]
+catalog = "@DL-MAITETSU-VTUBER-COVER-2"
+
+[[discs.tracks]]
+title = "ひだまりライン"
+artist = "餅月ひまり"
+
+[[discs.tracks]]
+title = "Shiny Sky Shiny Days"
+artist = "れいきら"
+
+[[discs.tracks]]
+title = "My Wish Forever"
+artist = "柚子花"
+
+[[discs.tracks]]
+title = "All right!!"
+artist = "おさナズ"
+
+[[discs.tracks]]
+title = "Indivisible Love"
+artist = "黒咲りん"
+
+[[discs.tracks]]
+title = "繋いでいく未来"
+artist = "カグラナナ"
+
+[[discs.tracks]]
+title = "On the Rails"
+artist = "アメノセイ"
+
+[[discs.tracks]]
+title = "水彩"
+artist = "セフィラ・スゥ"
+
+[[discs.tracks]]
+title = "floraison"
+artist = "ちゃーちゃん"
+
+[[discs.tracks]]
+title = "The road we belong"
+artist = "サラダまよね"
+
+[[discs.tracks]]
+title = "レイルロマネスク"
+artist = "ユメノシオリ"
+

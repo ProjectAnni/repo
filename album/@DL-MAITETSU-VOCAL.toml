@@ -1,0 +1,162 @@
+[album]
+album_id = "1c75b98d-a20e-419a-9306-f1b6602663c7"
+title = "まいてつ Last Run!! Vocal Complete Album"
+artist = "Lose"
+date = 2020-10-30
+type = "normal"
+catalog = "@DL-MAITETSU-VOCAL"
+tags = ["まいてつ"]
+
+[[discs]]
+catalog = "@DL-MAITETSU-VOCAL-1"
+
+[[discs.tracks]]
+title = "ロオド・ラスト"
+artist = "中恵光城"
+
+[[discs.tracks]]
+title = "明日へと"
+artist = "米倉千尋"
+
+[[discs.tracks]]
+title = "思い出の結晶"
+artist = "松下"
+
+[[discs.tracks]]
+title = "The road we belong"
+artist = "AiRI"
+
+[[discs.tracks]]
+title = "hello! new world"
+artist = "Faylan"
+
+[[discs.tracks]]
+title = "On the Rails"
+artist = "佐々木恵梨"
+
+[[discs.tracks]]
+title = "ひだまりライン"
+artist = "はな"
+
+[[discs.tracks]]
+title = "blooming symphony"
+artist = "Ayumi.（Astilbe、arendsii）"
+
+[[discs.tracks]]
+title = "floraison"
+artist = "美郷あき"
+
+[[discs.tracks]]
+title = "リトルプリュム"
+artist = "Duca"
+
+[[discs]]
+catalog = "@DL-MAITETSU-VOCAL-2"
+
+[[discs.tracks]]
+title = "おんなじ気持ち、ほんとの気持ち"
+artist = "Daisy×Daisy"
+
+[[discs.tracks]]
+title = "Forever With You"
+artist = "橋本みゆき、佐咲紗花"
+
+[[discs.tracks]]
+title = "Shiny Sky Shiny Days"
+artist = "NANA"
+
+[[discs.tracks]]
+title = "My Wish Forever"
+artist = "榊原ゆい"
+
+[[discs.tracks]]
+title = "繋いでいく未来"
+artist = "櫻川めぐ"
+
+[[discs.tracks]]
+title = "水彩"
+artist = "riya（eufonius）"
+
+[[discs.tracks]]
+title = "はじめてのこい"
+artist = "rino（CooRie）"
+
+[[discs.tracks]]
+title = "Indivisible Love"
+artist = "奥井雅美"
+
+[[discs.tracks]]
+title = "All right!!"
+artist = "KOTOKO"
+
+[[discs.tracks]]
+title = "終わらないリズム"
+artist = "茶太"
+
+[[discs.tracks]]
+title = "GRAND EXPRESS"
+artist = "カサンドラ"
+
+[[discs]]
+catalog = "@DL-MAITETSU-VOCAL-3"
+
+[[discs.tracks]]
+title = "レイル・ロマネスク"
+artist = "中恵光城"
+
+[[discs.tracks]]
+title = "SilentRail"
+artist = "仲村芽衣子"
+
+[[discs.tracks]]
+title = "pictorial"
+artist = "大島はるな"
+
+[[discs.tracks]]
+title = "未来行き☆列車"
+artist = "カサンドラ"
+
+[[discs.tracks]]
+title = "どこまでも続くこの路を"
+artist = "Prico"
+
+[[discs.tracks]]
+title = "Run with our dreams"
+artist = "星鹿りえ"
+
+[[discs.tracks]]
+title = "未来へのレール"
+artist = "滑川恭子"
+
+[[discs.tracks]]
+title = "しゅっぱつしんこう！！"
+artist = "杏子御津"
+
+[[discs.tracks]]
+title = "ひとしずく"
+artist = "藍沢めぐみ"
+
+[[discs.tracks]]
+title = "Snow White"
+artist = "CRIMSON SONE"
+
+[[discs.tracks]]
+title = "おもいでをかさねて"
+artist = "佐倉江美"
+
+[[discs.tracks]]
+title = "ナインスターズ"
+artist = "Ayumi.（Astilbe、arendsii）"
+
+[[discs.tracks]]
+title = "レイル・ロマネスク ハチロクver"
+artist = "ハチロク（桐谷华）"
+
+[[discs.tracks]]
+title = "SilentRail ポーレットver"
+artist = "ポーレット（あじ秋刀鱼）"
+
+[[discs.tracks]]
+title = "pictorial 日々姫ver"
+artist = "日々姫（ヒマリ）"
+
