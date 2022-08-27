@@ -9,6 +9,141 @@ tags = ["まいてつ", "OST"]
 
 [[discs]]
 catalog = "@DL-MAITETSU-OST-1"
+artist = "Ayumi ONE."
+
+[[discs.tracks]]
+title = "星を眺めて"
+
+[[discs.tracks]]
+title = "御一夜の朝"
+
+[[discs.tracks]]
+title = "夜しんしんと"
+
+[[discs.tracks]]
+title = "今日も一日すたーとです"
+
+[[discs.tracks]]
+title = "小さな世界"
+
+[[discs.tracks]]
+title = "大きな世界"
+
+[[discs.tracks]]
+title = "眺めのいい屋根"
+
+[[discs.tracks]]
+title = "春の陽気"
+
+[[discs.tracks]]
+title = "棒フリマーチ"
+
+[[discs.tracks]]
+title = "脱線会議"
+
+[[discs.tracks]]
+title = "わくわく"
+
+[[discs.tracks]]
+title = "あくびモーション"
+
+[[discs.tracks]]
+title = "不思議！？"
+
+[[discs.tracks]]
+title = "心の奥へ"
+
+[[discs.tracks]]
+title = "季節がやってきた"
+
+[[discs.tracks]]
+title = "blooming world"
+
+[[discs.tracks]]
+title = "はしれ！はしれ！"
+
+[[discs.tracks]]
+title = "どうして！？"
+
+[[discs.tracks]]
+title = "一件落着"
+
+[[discs.tracks]]
+title = "渋くいこうぜ"
+
+[[discs.tracks]]
+title = "舞台モード"
+
+[[discs.tracks]]
+title = "日ノ本帝有鉄道フィルム序曲"
+
+[[discs.tracks]]
+title = "Historia"
+
+[[discs.tracks]]
+title = "ここは日ノ本"
+
+[[discs.tracks]]
+title = "だいはつれい！"
+
+[[discs.tracks]]
+title = "ちんどんだいはつれい！"
+
+[[discs.tracks]]
+title = "川が流れる"
+
+[[discs.tracks]]
+title = "Wabi Sabi dance"
+
+[[discs.tracks]]
+title = "渡り鳥の寝る横木"
+
+[[discs.tracks]]
+title = "すいかのセンス"
+
+[[discs.tracks]]
+title = "絵付けしよう！"
+
+[[discs.tracks]]
+title = "湯気の中の団欒"
+
+[[discs.tracks]]
+title = "Spread！"
+
+[[discs]]
+catalog = "@DL-MAITETSU-OST-2"
+artist = "グリスハーモ"
+
+[[discs.tracks]]
+title = "西瓜"
+
+[[discs.tracks]]
+title = "かいしん！"
+
+[[discs.tracks]]
+title = "異国の停車場"
+
+[[discs.tracks]]
+title = "不穏な空気"
+
+[[discs.tracks]]
+title = "Abyss"
+
+[[discs.tracks]]
+title = "思いは胸の奥底に"
+
+[[discs.tracks]]
+title = "あの故郷へ"
+
+[[discs.tracks]]
+title = "電子と音"
+
+[[discs.tracks]]
+title = "親愛"
+
+
+[[discs]]
+catalog = "@DL-MAITETSU-OST-3"
 artist = "衣笠努"
 
 [[discs.tracks]]
@@ -232,138 +367,3 @@ title = "夜更けの雪"
 
 [[discs.tracks]]
 title = "晩秋の頃"
-
-[[discs]]
-catalog = "@DL-MAITETSU-OST-2"
-artist = "Ayumi ONE."
-
-[[discs.tracks]]
-title = "星を眺めて"
-
-[[discs.tracks]]
-title = "御一夜の朝"
-
-[[discs.tracks]]
-title = "夜しんしんと"
-
-[[discs.tracks]]
-title = "今日も一日すたーとです"
-
-[[discs.tracks]]
-title = "小さな世界"
-
-[[discs.tracks]]
-title = "大きな世界"
-
-[[discs.tracks]]
-title = "眺めのいい屋根"
-
-[[discs.tracks]]
-title = "春の陽気"
-
-[[discs.tracks]]
-title = "棒フリマーチ"
-
-[[discs.tracks]]
-title = "脱線会議"
-
-[[discs.tracks]]
-title = "わくわく"
-
-[[discs.tracks]]
-title = "あくびモーション"
-
-[[discs.tracks]]
-title = "不思議！？"
-
-[[discs.tracks]]
-title = "心の奥へ"
-
-[[discs.tracks]]
-title = "季節がやってきた"
-
-[[discs.tracks]]
-title = "blooming world"
-
-[[discs.tracks]]
-title = "はしれ！はしれ！"
-
-[[discs.tracks]]
-title = "どうして！？"
-
-[[discs.tracks]]
-title = "一件落着"
-
-[[discs.tracks]]
-title = "渋くいこうぜ"
-
-[[discs.tracks]]
-title = "舞台モード"
-
-[[discs.tracks]]
-title = "日ノ本帝有鉄道フィルム序曲"
-
-[[discs.tracks]]
-title = "Historia"
-
-[[discs.tracks]]
-title = "ここは日ノ本"
-
-[[discs.tracks]]
-title = "だいはつれい！"
-
-[[discs.tracks]]
-title = "ちんどんだいはつれい！"
-
-[[discs.tracks]]
-title = "川が流れる"
-
-[[discs.tracks]]
-title = "Wabi Sabi dance"
-
-[[discs.tracks]]
-title = "渡り鳥の寝る横木"
-
-[[discs.tracks]]
-title = "すいかのセンス"
-
-[[discs.tracks]]
-title = "絵付けしよう！"
-
-[[discs.tracks]]
-title = "湯気の中の団欒"
-
-[[discs.tracks]]
-title = "Spread！"
-
-[[discs]]
-catalog = "@DL-MAITETSU-OST-3"
-artist = "グリスハーモ"
-
-[[discs.tracks]]
-title = "西瓜"
-
-[[discs.tracks]]
-title = "かいしん！"
-
-[[discs.tracks]]
-title = "異国の停車場"
-
-[[discs.tracks]]
-title = "不穏な空気"
-
-[[discs.tracks]]
-title = "Abyss"
-
-[[discs.tracks]]
-title = "思いは胸の奥底に"
-
-[[discs.tracks]]
-title = "あの故郷へ"
-
-[[discs.tracks]]
-title = "電子と音"
-
-[[discs.tracks]]
-title = "親愛"
-
