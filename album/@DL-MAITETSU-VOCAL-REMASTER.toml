@@ -1,11 +1,12 @@
 [album]
 album_id = "af978bf1-a089-41b2-a227-1b2f7d19e01c"
-title = "まいてつ Last Run!! Vocal Complete Album_リマスター版"
+title = "まいてつ Last Run!! Vocal Complete Album"
 artist = "LOSE"
 date = 2020-10-30
 type = "normal"
 catalog = "@DL-MAITETSU-VOCAL-REMASTER"
 tags = ["まいてつ"]
+edition = "リマスター版"
 
 [[discs]]
 catalog = "@DL-MAITETSU-VOCAL-REMASTER-1"
