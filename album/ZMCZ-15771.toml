@@ -5,14 +5,14 @@ artist = "安月名莉子"
 date = 2022-08-24
 type = "normal"
 catalog = "ZMCZ-15771"
-tags = []
+tags = ["メイドインアビス 烈日の黄金郷"]
 
 [[discs]]
 catalog = "ZMCZ-15771"
 
 [[discs.tracks]]
 title = "かたち"
-tags = ["メイドインアビス 烈日の黄金郷", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "灯火"
@@ -20,7 +20,7 @@ title = "灯火"
 [[discs.tracks]]
 title = "かたち (instrumental)"
 type = "instrumental"
-tags = ["メイドインアビス 烈日の黄金郷", "OP"]
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "灯火 (instrumental)"

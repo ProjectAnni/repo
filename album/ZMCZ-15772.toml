@@ -5,14 +5,14 @@ artist = "MYTH & ROID（KIHOW）"
 date = 2022-08-24
 type = "normal"
 catalog = "ZMCZ-15772"
-tags = []
+tags = ["メイドインアビス 烈日の黄金郷"]
 
 [[discs]]
 catalog = "ZMCZ-15772"
 
 [[discs.tracks]]
 title = "Endless Embrace"
-tags = ["メイドインアビス 烈日の黄金郷", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Clattanoia(penumbral)"
@@ -20,7 +20,7 @@ title = "Clattanoia(penumbral)"
 [[discs.tracks]]
 title = "Endless Embrace(instrumental)"
 type = "instrumental"
-tags = ["メイドインアビス 烈日の黄金郷", "ED"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Clattanoia(penumbral)(instrumental)"
