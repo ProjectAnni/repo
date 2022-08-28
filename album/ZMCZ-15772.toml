@@ -1,0 +1,28 @@
+[album]
+album_id = "22121483-ea07-4d91-bf6f-1604ada51a4c"
+title = "Endless Embrace"
+artist = "MYTH & ROID（KIHOW）"
+date = 2022-08-24
+type = "normal"
+catalog = "ZMCZ-15772"
+tags = ["メイドインアビス 烈日の黄金郷"]
+
+[[discs]]
+catalog = "ZMCZ-15772"
+
+[[discs.tracks]]
+title = "Endless Embrace"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Clattanoia(penumbral)"
+
+[[discs.tracks]]
+title = "Endless Embrace(instrumental)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Clattanoia(penumbral)(instrumental)"
+type = "instrumental"
+
