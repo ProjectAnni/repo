@@ -1,0 +1,28 @@
+[album]
+album_id = "bd4d2682-c47e-4edc-9227-30afff796cbb"
+title = "かたち"
+artist = "安月名莉子"
+date = 2022-08-24
+type = "normal"
+catalog = "ZMCZ-15771"
+tags = []
+
+[[discs]]
+catalog = "ZMCZ-15771"
+
+[[discs.tracks]]
+title = "かたち"
+tags = ["メイドインアビス 烈日の黄金郷", "OP"]
+
+[[discs.tracks]]
+title = "灯火"
+
+[[discs.tracks]]
+title = "かたち (instrumental)"
+type = "instrumental"
+tags = ["メイドインアビス 烈日の黄金郷", "OP"]
+
+[[discs.tracks]]
+title = "灯火 (instrumental)"
+type = "instrumental"
+
