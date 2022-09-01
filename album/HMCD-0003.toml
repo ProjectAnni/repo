@@ -12,40 +12,50 @@ catalog = "HMCD-0003"
 
 [[discs.tracks]]
 title = "Hand in Hand"
-artist = "livetune、初音ミク"
+artist = "livetune feat. 初音ミク（livetune、初音ミク）"
+tags = ["初音ミク"]
 
 [[discs.tracks]]
 title = "リモコン"
-artist = "じーざす（ワンダフル☆オポチュニティ!）、鏡音リン、鏡音レン"
+artist = "じーざす (ワンダフル☆オポチュニティ！) feat. 鏡音リン・鏡音レン（じーざす、鏡音リン、鏡音レン）"
+tags = ["鏡音リン", "鏡音レン"]
 
 [[discs.tracks]]
 title = "ラズベリー＊モンスター"
-artist = "HoneyWorks、初音ミク"
+artist = "HoneyWorks feat. 初音ミク（HoneyWorks、初音ミク）"
+tags = ["初音ミク"]
 
 [[discs.tracks]]
 title = "アンハッピーリフレイン"
-artist = "wowaka、初音ミク"
+artist = "wowaka feat. 初音ミク（wowaka、初音ミク）"
+tags = ["初音ミク"]
 
 [[discs.tracks]]
 title = "Nostalogic (MEIKO-SAN mix)"
-artist = "yuukiss、MEIKO"
+artist = "yuukiss feat. MEIKO（yuukiss、MEIKO）"
+tags = ["MEIKO"]
 
 [[discs.tracks]]
 title = "愛Dee"
-artist = "Mitchie M、初音ミク、巡音ルカ"
+artist = "Mitchie M feat. 初音ミク・巡音ルカ（Mitchie M、初音ミク、巡音ルカ）"
+tags = ["初音ミク", "巡音ルカ"]
 
 [[discs.tracks]]
 title = "ロミオとシンデレラ"
-artist = "doriko、初音ミク"
+artist = "doriko feat. 初音ミク（doriko、初音ミク）"
+tags = ["初音ミク"]
 
 [[discs.tracks]]
 title = "スノーマン"
-artist = "halyosy、KAITO"
+artist = "halyosy feat. KAITO（halyosy、KAITO）"
+tags = ["KAITO"]
 
 [[discs.tracks]]
 title = "恋愛裁判"
-artist = "40mP、初音ミク"
+artist = "40mP feat. 初音ミク（40mP、初音ミク）"
+tags = ["初音ミク"]
 
 [[discs.tracks]]
 title = "初音ミクの激唱 Miku’s 8th Birthday ver."
-artist = "Lowland Jazz、初音ミク"
+artist = "Lowland Jazz、Storyteller(GAiA×cosMo@暴走P)、初音ミク"
+tags = ["初音ミク"]
