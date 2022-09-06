@@ -230,6 +230,22 @@ name = "遠藤璃菜"
 type = "artist"
 
 [[tag]]
+name = "さユり"
+type = "artist"
+
+[[tag]]
+name = "halca"
+type = "artist"
+
+[[tag]]
+name = "イソラ"
+type = "artist"
+
+[[tag]]
+name = "鈴木愛奈"
+type = "artist"
+
+[[tag]]
 name = "井口裕香"
 type = "artist"
 
@@ -750,6 +766,46 @@ type = "animation"
 
 [[tag]]
 name = "TVアニメ「シュヴァルツェスマーケン」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「ヲタクに恋は難しい」"
+type = "animation"
+
+[[tag]]
+name = "アニメ『逆転裁判 ～その「真実」、異議あり！～Season2』"
+type = "animation"
+
+[[tag]]
+name = "アニメ「ぼくたちは勉強ができない！」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「邪神ちゃんドロップキック’」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「彼女、お借りします」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「最近雇ったメイドが怪しい」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「シャインポスト」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「Engage Kiss」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「邪神ちゃんドロップキックX」"
 type = "animation"
 
 [[tag]]

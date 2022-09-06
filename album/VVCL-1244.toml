@@ -1,0 +1,34 @@
+[album]
+album_id = "ea4e6800-f086-4fb5-91ba-f77bddd9ef20"
+title = "キミの隣"
+artist = "halca"
+date = 2018-05-30
+type = "normal"
+catalog = "VVCL-1244"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1244"
+
+[[discs.tracks]]
+title = "キミの隣"
+tags = ["TVアニメ「ヲタクに恋は難しい」", "ED"]
+
+[[discs.tracks]]
+title = "サカナイトデイズ"
+
+[[discs.tracks]]
+title = "明日もまた"
+
+[[discs.tracks]]
+title = "キミの隣 instrumental"
+type = "instrumental"
+tags = ["TVアニメ「ヲタクに恋は難しい」", "ED"]
+
+[[discs.tracks]]
+title = "サカナイトデイズ instrumental"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "明日もまた instrumental"
+type = "instrumental"

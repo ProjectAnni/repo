@@ -1,0 +1,28 @@
+[album]
+album_id = "2b5aa34c-bc31-4025-8277-479a1bcf2ac2"
+title = "す、好きじゃない！"
+edition = "アニメジャケット盤"
+artist = "≠ME（尾木波菜、落合希来里、蟹沢萌子、河口夏音、川中子奈月心、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜々風、永田詩央里、本田珠由記）"
+date = 2022-08-03
+type = "normal"
+catalog = "KICM-2115"
+tags = ["≠ME"]
+
+[[discs]]
+catalog = "KICM-2115"
+
+[[discs.tracks]]
+title = "す、好きじゃない！"
+tags = ["アニメ「最近雇ったメイドが怪しい」", "OP"]
+
+[[discs.tracks]]
+title = "こちらハッピー探検隊"
+
+[[discs.tracks]]
+title = "す、好きじゃない！ (off vocal ver.)"
+type = "instrumental"
+tags = ["アニメ「最近雇ったメイドが怪しい」", "OP"]
+
+[[discs.tracks]]
+title = "こちらハッピー探検隊 (off vocal ver.)"
+type = "instrumental"

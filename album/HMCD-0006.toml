@@ -1,0 +1,61 @@
+[album]
+album_id = "a73355c9-b4b1-44ef-87c7-d62db8bd1b8e"
+title = "初音ミク「マジカルミライ 2016」OFFICIAL ALBUM"
+artist = "Various Artists"
+date = 2016-08-03
+type = "normal"
+catalog = "HMCD-0006"
+tags = ["マジカルミライ"]
+
+[[discs]]
+catalog = "HMCD-0006"
+
+[[discs.tracks]]
+title = "39みゅーじっく！"
+artist = "みきとP feat. 初音ミク（みきとP、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ヒビカセ"
+artist = "ギガれをる feat. 初音ミク（ギガれをる、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ウミユリ海底譚"
+artist = "n-buna feat. 初音ミク（n-buna、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "スイートマジック"
+artist = "Junky feat. 鏡音リン（Junky、鏡音リン）"
+tags = ["鏡音リン"]
+
+[[discs.tracks]]
+title = "テレカクシ思春期"
+artist = "HoneyWorks feat. 鏡音レン（HoneyWorks、鏡音レン）"
+tags = ["鏡音レン"]
+
+[[discs.tracks]]
+title = "どうぶつ占い"
+artist = "すこっぷ feat. 初音ミク（すこっぷ、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ドクター＝ファンクビート"
+artist = "nyanyannya feat. KAITO（nyanyannya、KAITO）"
+tags = ["KAITO"]
+
+[[discs.tracks]]
+title = "なりすましゲンガー"
+artist = "KulfiQ feat. 鏡音リン・初音ミク（KulfiQ、鏡音リン、初音ミク）"
+tags = ["鏡音リン", "初音ミク"]
+
+[[discs.tracks]]
+title = "Strangers"
+artist = "Heavenz feat. 初音ミク（Heavenz、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "Tears River"
+artist = "みきとP feat. 初音ミク（みきとP、初音ミク）"
+tags = ["初音ミク"]

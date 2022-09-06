@@ -1,0 +1,61 @@
+[album]
+album_id = "f0ed6413-e7dd-4f4f-a175-5702689daef5"
+title = "初音ミク「マジカルミライ 2015」OFFICIAL ALBUM"
+artist = "Various Artists"
+date = 2015-08-12
+type = "normal"
+catalog = "HMCD-0003"
+tags = ["マジカルミライ"]
+
+[[discs]]
+catalog = "HMCD-0003"
+
+[[discs.tracks]]
+title = "Hand in Hand"
+artist = "livetune feat. 初音ミク（livetune、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "リモコン"
+artist = "じーざす (ワンダフル☆オポチュニティ！) feat. 鏡音リン・鏡音レン（じーざす、鏡音リン、鏡音レン）"
+tags = ["鏡音リン", "鏡音レン"]
+
+[[discs.tracks]]
+title = "ラズベリー＊モンスター"
+artist = "HoneyWorks feat. 初音ミク（HoneyWorks、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "アンハッピーリフレイン"
+artist = "wowaka feat. 初音ミク（wowaka、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "Nostalogic (MEIKO-SAN mix)"
+artist = "yuukiss feat. MEIKO（yuukiss、MEIKO）"
+tags = ["MEIKO"]
+
+[[discs.tracks]]
+title = "愛Dee"
+artist = "Mitchie M feat. 初音ミク・巡音ルカ（Mitchie M、初音ミク、巡音ルカ）"
+tags = ["初音ミク", "巡音ルカ"]
+
+[[discs.tracks]]
+title = "ロミオとシンデレラ"
+artist = "doriko feat. 初音ミク（doriko、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "スノーマン"
+artist = "halyosy feat. KAITO（halyosy、KAITO）"
+tags = ["KAITO"]
+
+[[discs.tracks]]
+title = "恋愛裁判"
+artist = "40mP feat. 初音ミク（40mP、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "初音ミクの激唱 Miku’s 8th Birthday ver."
+artist = "Lowland Jazz、Storyteller(GAiA×cosMo@暴走P)、初音ミク"
+tags = ["初音ミク"]

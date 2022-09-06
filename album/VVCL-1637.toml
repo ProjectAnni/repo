@@ -1,0 +1,34 @@
+[album]
+album_id = "8ed19243-f695-4b66-a93c-46548b5c0e1b"
+title = "時としてバイオレンス"
+artist = "halca"
+date = 2020-05-27
+type = "normal"
+catalog = "VVCL-1637"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1637"
+
+[[discs.tracks]]
+title = "時としてバイオレンス"
+tags = ["TVアニメ「邪神ちゃんドロップキック’」", "OP"]
+
+[[discs.tracks]]
+title = "Fuzzy Rain"
+
+[[discs.tracks]]
+title = "キュンとさせてあげるよ"
+
+[[discs.tracks]]
+title = "時としてバイオレンス -instrumental-"
+type = "instrumental"
+tags = ["TVアニメ「邪神ちゃんドロップキック’」", "OP"]
+
+[[discs.tracks]]
+title = "Fuzzy Rain -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キュンとさせてあげるよ -instrumental-"
+type = "instrumental"

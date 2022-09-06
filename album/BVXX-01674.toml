@@ -5,11 +5,10 @@ artist = "さユり"
 date = 2022-07-03
 type = "normal"
 catalog = "BVXX-01674"
-tags = ["TVアニメ「リコリス・リコイル」"]
+tags = ["さユり", "TVアニメ「リコリス・リコイル」", "ED"]
 
 [[discs]]
 catalog = "BVXX-01674"
 
 [[discs.tracks]]
 title = "花の塔"
-tags = ["ED"]

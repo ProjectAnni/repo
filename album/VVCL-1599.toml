@@ -1,0 +1,50 @@
+[album]
+album_id = "59787285-b86a-4cdb-bd6f-9f62ac471ff7"
+title = "Assortrip"
+artist = "halca"
+date = 2020-02-12
+type = "normal"
+catalog = "VVCL-1599"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1599"
+
+[[discs.tracks]]
+title = "キミの隣"
+
+[[discs.tracks]]
+title = "one another"
+
+[[discs.tracks]]
+title = "うそじゃないよ"
+
+[[discs.tracks]]
+title = "放課後のリバティ"
+
+[[discs.tracks]]
+title = "be your XXX"
+
+[[discs.tracks]]
+title = "あの頃の僕たちを"
+
+[[discs.tracks]]
+title = "HORiZON"
+
+[[discs.tracks]]
+title = "サカナイトデイズ"
+
+[[discs.tracks]]
+title = "Ride on Music!"
+
+[[discs.tracks]]
+title = "スターティングブルー"
+
+[[discs.tracks]]
+title = "ハローセカイ"
+
+[[discs.tracks]]
+title = "センチメンタルクライシス"
+
+[[discs.tracks]]
+title = "サワリタイミライ"

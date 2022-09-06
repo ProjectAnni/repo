@@ -1,0 +1,31 @@
+[album]
+album_id = "f4754929-ba68-482a-a1d3-d471abb0ff1a"
+title = "放課後のリバティ"
+edition = "期間生産限定盤"
+artist = "halca"
+date = 2019-11-13
+type = "normal"
+catalog = "VVCL-1543"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-1543"
+
+[[discs.tracks]]
+title = "放課後のリバティ"
+tags = ["アニメ「ぼくたちは勉強ができない！」", "ED"]
+
+[[discs.tracks]]
+title = "Complexの事情"
+
+[[discs.tracks]]
+title = "A・WA・WA・WA"
+
+[[discs.tracks]]
+title = "放課後のリバティ -TV ver.-"
+tags = ["アニメ「ぼくたちは勉強ができない！」", "ED"]
+
+[[discs.tracks]]
+title = "放課後のリバティ -Instrumental-"
+type = "instrumental"
+tags = ["アニメ「ぼくたちは勉強ができない！」", "ED"]

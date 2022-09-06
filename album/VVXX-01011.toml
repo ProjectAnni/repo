@@ -1,0 +1,31 @@
+[album]
+album_id = "1077d96b-8fd3-4585-a6ab-8eef265a48df"
+title = "キミがいたしるし"
+artist = "halca"
+date = 2021-05-19
+type = "normal"
+catalog = "VVXX-01011"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVXX-01011"
+
+[[discs.tracks]]
+title = "キミがいたしるし"
+tags = ["アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」", "ED"]
+
+[[discs.tracks]]
+title = "もういいや。"
+
+[[discs.tracks]]
+title = "キミがいたしるし (TV Size)"
+tags = ["アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」", "ED"]
+
+[[discs.tracks]]
+title = "キミがいたしるし (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」", "ED"]
+
+[[discs.tracks]]
+title = "もういいや。 (Instrumental)"
+type = "instrumental"

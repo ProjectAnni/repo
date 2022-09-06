@@ -1,0 +1,41 @@
+[album]
+album_id = "ef40efa8-2405-4da7-99bd-df0735ea0651"
+title = "Ideal Music Collection Xl"
+artist = "イソラ"
+date = 2021-09-24
+type = "absolute"
+catalog = "@MORA-4549276845145"
+tags = ["イソラ"]
+
+[[discs]]
+catalog = "@MORA-4549276845145"
+
+[[discs.tracks]]
+title = "abyss of conflict/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Ambitious Eve/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Hide & Attack/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "革命進化論/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "ラブ・ボナペティート/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "パステルカラー パスカラカラー/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "PRISISM/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "リフレクトサイン/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "シャイノグラフィ/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "Spread the Wings!!/「アイドルマスター」[ISORA arrange]"

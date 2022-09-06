@@ -5,6 +5,26 @@ name = "初音ミク"
 type = "artist"
 
 [[tag]]
+name = "巡音ルカ"
+type = "artist"
+
+[[tag]]
+name = "KAITO"
+type = "artist"
+
+[[tag]]
+name = "MEIKO"
+type = "artist"
+
+[[tag]]
+name = "鏡音リン"
+type = "artist"
+
+[[tag]]
+name = "鏡音レン"
+type = "artist"
+
+[[tag]]
 name = "洛天依"
 type = "artist"
 
@@ -29,3 +49,13 @@ type = "artist"
 [[tag]]
 name = "Dixie Flatline"
 type = "artist"
+
+[[tag]]
+name = "cosMo@暴走P"
+type = "artist"
+
+################################################################################
+# Events
+[[tag]]
+name = "マジカルミライ"
+type = "project"

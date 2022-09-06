@@ -1,0 +1,119 @@
+[album]
+album_id = "19f100bc-3801-4014-b29e-5262a22aed6d"
+title = "初音ミク「マジカルミライ 2014」OFFICIAL ALBUM"
+artist = "Various Artists"
+date = 2014-08-06
+type = "normal"
+catalog = "HMCD-0001~2"
+tags = ["マジカルミライ"]
+
+[[discs]]
+catalog = "HMCD-0001"
+
+[[discs.tracks]]
+title = "ネクストネスト"
+artist = "初音ミク feat. さつき が てんこもり（さつき が てんこもり、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "39"
+artist = "sasakure.UK×DECO*27 feat. 初音ミク（sasakure.UK、DECO*27、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "EARTH DAY"
+artist = "はりーP feat. 初音ミク（はりーP、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "スキキライ"
+artist = "HoneyWorks feat. 鏡音リン・鏡音レン（鏡音リン、鏡音レン）"
+tags = ["鏡音リン", "鏡音レン"]
+
+[[discs.tracks]]
+title = "shake it!"
+artist = "emon feat. 初音ミク・鏡音リン・鏡音レン（emon、初音ミク、鏡音リン、鏡音レン）"
+tags = ["初音ミク", "鏡音リン", "鏡音レン"]
+
+[[discs.tracks]]
+title = "FREELY TOMORROW"
+artist = "Mitchie M feat. 初音ミク（Mitchie M、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "Sweet Devil"
+artist = "八王子P feat. 初音ミク（八王子P、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ピアノ×フォルテ×スキャンダル"
+artist = "OSTER project feat. MEIKO（OSTER project、MEIKO）"
+tags = ["MEIKO"]
+
+[[discs.tracks]]
+title = "erase or zero"
+artist = "クリスタルP feat. 鏡音レン・KAITO（クリスタルP、鏡音レン、KAITO）"
+tags = ["鏡音レン", "KAITO"]
+
+[[discs.tracks]]
+title = "深海少女"
+artist = "ゆうゆfeat. 初音ミク（ゆうゆ、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ODDS&ENDS"
+artist = "ryo(supercell) feat. 初音ミク（ryo、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs]]
+catalog = "HMCD-0002"
+
+[[discs.tracks]]
+title = "キャットフード"
+artist = "doriko feat. 初音ミク（doriko、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "二次元ドリームフィーバー"
+artist = "PolyphonicBranch feat. 初音ミク（PolyphonicBranch、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "心臓デモクラシー"
+artist = "みきとP feat. 初音ミク（みきとP、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ありふれたせかいせいふく"
+artist = "ピノキオピー feat. 初音ミク（ピノキオピー、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "Hello, Worker"
+artist = "KEI feat. 巡音ルカ（KEI、巡音ルカ）"
+tags = ["巡音ルカ"]
+
+[[discs.tracks]]
+title = "からくりピエロ"
+artist = "40mP feat. 初音ミク（40mP、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "glow"
+artist = "keeno feat. 初音ミク（keeno、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "Last Night,Good Night（Re:Dialed）"
+artist = "livetune feat. 初音ミク（livetune、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "ワンダーランドと羊の歌"
+artist = "ハチ feat. 初音ミク（ハチ、初音ミク）"
+tags = ["初音ミク"]
+
+[[discs.tracks]]
+title = "私の世界 Miku's 7th Birthday ver."
+artist = "安部潤、くちばしP、初音ミク"
+tags = ["初音ミク"]

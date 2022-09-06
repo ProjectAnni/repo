@@ -1,0 +1,41 @@
+[album]
+album_id = "ee2f82c7-6d26-4f85-880f-c07253945786"
+title = "Ideal Music Collection X"
+artist = "イソラ"
+date = 2021-08-23
+type = "absolute"
+catalog = "@MORA-4549276840812"
+tags = ["イソラ"]
+
+[[discs]]
+catalog = "@MORA-4549276840812"
+
+[[discs.tracks]]
+title = "あの花のように/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "あおぞらサイダー/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "ビーチブレイバー/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "クライマックスアイランド/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "拝啓タイムカプセル/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "スマイルシンフォニア/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "statice/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "常咲の庭/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "わたしの主人公はわたしだから！/「アイドルマスター」[ISORA arrange]"
+
+[[discs.tracks]]
+title = "夢見鳥/「アイドルマスター」[ISORA arrange]"
