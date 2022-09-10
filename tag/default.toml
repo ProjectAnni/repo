@@ -246,6 +246,10 @@ name = "鈴木愛奈"
 type = "artist"
 
 [[tag]]
+name = "藍井エイル"
+type = "artist"
+
+[[tag]]
 name = "井口裕香"
 type = "artist"
 
@@ -810,6 +814,10 @@ type = "animation"
 
 [[tag]]
 name = "アニメ「継母の連れ子が元カノだった」"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
 type = "animation"
 
 ################################################################################
