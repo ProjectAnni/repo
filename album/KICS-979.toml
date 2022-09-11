@@ -12,6 +12,7 @@ catalog = "KICS-979"
 
 [[discs.tracks]]
 title = "THEME OF MAGIC ATTRACTION"
+type = "absolute"
 
 [[discs.tracks]]
 title = "through the night"

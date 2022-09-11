@@ -3,7 +3,7 @@ album_id = "e2954ebf-99c5-4436-a1f5-5f935834b44c"
 title = "Stellaris: Nemesis"
 artist = "Paradox Interactive"
 date = 2021-05-14
-type = "normal"
+type = "absolute"
 catalog = "@STELLARIS-OST-11"
 tags = ["Stellaris"]
 
