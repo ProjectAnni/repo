@@ -1,0 +1,32 @@
+[album]
+album_id = "68271cea-fe3d-488c-b457-75e977af4193"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 06"
+artist = "ストレイライト（芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香））"
+date = 2022-09-14
+type = "normal"
+catalog = "LACM-24256"
+tags = ["THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24256"
+
+[[discs.tracks]]
+title = "Tracing Defender"
+
+[[discs.tracks]]
+title = "Overdrive Emotion"
+
+[[discs.tracks]]
+title = "虹の行方（ストレイライトVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「秋の空、変わらないもの」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Tracing Defender（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Overdrive Emotion（Off Vocal）"
+type = "instrumental"

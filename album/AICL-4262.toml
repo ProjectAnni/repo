@@ -1,0 +1,30 @@
+[album]
+album_id = "a68b3025-460b-48a8-91f5-a3b1aef4a666"
+title = "恋愛脳／陽傘"
+edition = "期間生産限定盤"
+artist = "ナナヲアカリ"
+date = 2022-08-24
+type = "normal"
+catalog = "AICL-4262"
+tags = ["ナナヲアカリ"]
+
+[[discs]]
+catalog = "AICL-4262"
+
+[[discs.tracks]]
+title = "恋愛脳"
+tags = ["アニメ「Engage Kiss」", "ED"]
+
+[[discs.tracks]]
+title = "陽傘"
+
+[[discs.tracks]]
+title = "二度目の花火"
+
+[[discs.tracks]]
+title = "恋愛脳 -キサラ(CV:会沢紗弥) ver. -"
+artist = "キサラ（会沢紗弥）"
+
+[[discs.tracks]]
+title = "恋愛脳 -TV size ver.-"
+tags = ["アニメ「Engage Kiss」", "ED"]
