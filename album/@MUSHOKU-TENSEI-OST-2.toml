@@ -1,0 +1,113 @@
+[album]
+album_id = "2ebdeb6d-7522-4f44-9be7-c97095d9990b"
+title = "『無職転生～異世界行ったら本気出す～』 オリジナル・サウンドトラック2"
+artist = "藤澤慶昌"
+date = 2022-01-19
+type = "absolute"
+catalog = "@MUSHOKU-TENSEI-OST-2"
+tags = ["アニメ「無職転生～異世界行ったら本気出す～」", "OST"]
+
+[[discs]]
+catalog = "@MUSHOKU-TENSEI-OST-2"
+
+[[discs.tracks]]
+title = "冒険"
+
+[[discs.tracks]]
+title = "思考"
+
+[[discs.tracks]]
+title = "駆け引き"
+
+[[discs.tracks]]
+title = "いたずら"
+
+[[discs.tracks]]
+title = "まずい状況"
+
+[[discs.tracks]]
+title = "魔力が集まる場所"
+
+[[discs.tracks]]
+title = "ルイジェルドの怒り"
+
+[[discs.tracks]]
+title = "掌の上"
+
+[[discs.tracks]]
+title = "トーナとエリスの別れ"
+
+[[discs.tracks]]
+title = "ミリス神聖国"
+
+[[discs.tracks]]
+title = "初めての海"
+
+[[discs.tracks]]
+title = "魔界大帝キシリカ・キシリス!?"
+
+[[discs.tracks]]
+title = "ギレーヌのこと"
+
+[[discs.tracks]]
+title = "信頼を得る為に"
+
+[[discs.tracks]]
+title = "ウェンポート"
+
+[[discs.tracks]]
+title = "密輸組織"
+
+[[discs.tracks]]
+title = "作戦会議"
+
+[[discs.tracks]]
+title = "笑顔の力"
+
+[[discs.tracks]]
+title = "快適な牢屋"
+
+[[discs.tracks]]
+title = "先輩と新入"
+
+[[discs.tracks]]
+title = "ドルディア族"
+
+[[discs.tracks]]
+title = "共闘"
+
+[[discs.tracks]]
+title = "再会"
+
+[[discs.tracks]]
+title = "冒険者"
+
+[[discs.tracks]]
+title = "慰め"
+
+[[discs.tracks]]
+title = "待ってる"
+
+[[discs.tracks]]
+title = "神聖な世界"
+
+[[discs.tracks]]
+title = "シーローン王宮"
+
+[[discs.tracks]]
+title = "秘密の作戦"
+
+[[discs.tracks]]
+title = "まさか!?"
+
+[[discs.tracks]]
+title = "旅人の唄 -EP17 Inst Ver.-"
+
+[[discs.tracks]]
+title = "ロキシーへの想い"
+
+[[discs.tracks]]
+title = "ザノバの力"
+
+[[discs.tracks]]
+title = "圧倒的力との遭遇"
