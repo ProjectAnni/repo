@@ -1,5 +1,5 @@
 [album]
-album_id = "2ebdeb6d-7522-4f44-9be7-c97095d9990b"
+album_id = "dd0a6030-0ab8-49b7-a262-e4be3890f25e"
 title = "無職転生 ～異世界行ったら本気だす～ Original Soundtrack 2 Special Edition"
 artist = "藤澤慶昌"
 date = 2022-01-19
@@ -11,34 +11,43 @@ tags = ["アニメ「無職転生～異世界行ったら本気出す～」", "O
 catalog = "TBR31096D-2"
 
 [[discs.tracks]]
-title = "冒険"
+title = "心の奥底"
 
 [[discs.tracks]]
-title = "思考"
+title = "もう大丈夫"
 
 [[discs.tracks]]
-title = "駆け引き"
+title = "格式ある家系"
 
 [[discs.tracks]]
-title = "いたずら"
+title = "計略"
 
 [[discs.tracks]]
-title = "まずい状況"
+title = "目的"
 
 [[discs.tracks]]
-title = "魔力が集まる場所"
+title = "したごころ"
 
 [[discs.tracks]]
-title = "ルイジェルドの怒り"
+title = "陽気な日"
 
 [[discs.tracks]]
-title = "掌の上"
+title = "額の目"
 
 [[discs.tracks]]
-title = "トーナとエリスの別れ"
+title = "知っていること"
 
 [[discs.tracks]]
-title = "ミリス神聖国"
+title = "たくらみ"
+
+[[discs.tracks]]
+title = "アジト"
+
+[[discs.tracks]]
+title = "虚無の世界"
+
+[[discs.tracks]]
+title = "アイシャ"
 
 [[discs.tracks]]
 title = "初めての海"
