@@ -1,14 +1,14 @@
 [album]
 album_id = "ca5dc97b-4e3a-467c-957e-8765cb1d584b"
-title = "「無職転生 ～異世界行ったら本気だす～」オリジナル・サウンドトラック1"
+title = "無職転生 ～異世界行ったら本気だす～ Original Soundtrack 1 Special Edition"
 artist = "藤澤慶昌"
 date = 2021-04-21
 type = "absolute"
-catalog = "@MUSHOKU-TENSEI-OST-1"
+catalog = "TBR31094D-2"
 tags = ["アニメ「無職転生～異世界行ったら本気出す～」", "OST"]
 
 [[discs]]
-catalog = "@MUSHOKU-TENSEI-OST-1"
+catalog = "TBR31094D-2"
 
 [[discs.tracks]]
 title = "魔術の授業"

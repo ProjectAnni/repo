@@ -1,14 +1,14 @@
 [album]
 album_id = "2ebdeb6d-7522-4f44-9be7-c97095d9990b"
-title = "『無職転生～異世界行ったら本気出す～』 オリジナル・サウンドトラック2"
+title = "無職転生 ～異世界行ったら本気だす～ Original Soundtrack 2 Special Edition"
 artist = "藤澤慶昌"
 date = 2022-01-19
 type = "absolute"
-catalog = "@MUSHOKU-TENSEI-OST-2"
+catalog = "TBR31096D-2"
 tags = ["アニメ「無職転生～異世界行ったら本気出す～」", "OST"]
 
 [[discs]]
-catalog = "@MUSHOKU-TENSEI-OST-2"
+catalog = "TBR31096D-2"
 
 [[discs.tracks]]
 title = "冒険"
