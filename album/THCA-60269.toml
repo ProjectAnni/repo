@@ -1,0 +1,44 @@
+[album]
+album_id = "1f7318d4-0019-4690-acfd-c7fa5e53c34e"
+title = "TVアニメ『無職転生 ～異世界行ったら本気だす～』Theme Song Collection"
+artist = "大原ゆい子"
+date = 2021-12-22
+type = "normal"
+catalog = "THCA-60269"
+tags = ["アニメ「無職転生 ～異世界行ったら本気だす～」"]
+
+[[discs]]
+catalog = "THCA-60269"
+
+[[discs.tracks]]
+title = "旅人の唄"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "目覚めの唄"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "継承の唄"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "祈りの唄"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "遠くの子守の唄"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "旅人の唄 ～帰郷～"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "オンリー"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "風と行く道"
+tags = ["ED"]
+
