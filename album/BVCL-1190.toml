@@ -1,0 +1,44 @@
+[album]
+album_id = "160a8488-1568-418c-aa12-a71f96730805"
+title = "酸欠少女"
+artist = "さユり"
+date = 2022-08-10
+type = "normal"
+catalog = "BVCL-1190"
+tags = ["さユり"]
+
+[[discs]]
+catalog = "BVCL-1190"
+
+[[discs.tracks]]
+title = "酸欠少女"
+
+[[discs.tracks]]
+title = "花の塔"
+
+[[discs.tracks]]
+title = "航海の唄"
+
+[[discs.tracks]]
+title = "DAWN DANCE"
+
+[[discs.tracks]]
+title = "世界の秘密"
+
+[[discs.tracks]]
+title = "葵橋"
+
+[[discs.tracks]]
+title = "月と花束"
+
+[[discs.tracks]]
+title = "かみさま"
+
+[[discs.tracks]]
+title = "summer bug"
+
+[[discs.tracks]]
+title = "レイメイ"
+
+[[discs.tracks]]
+title = "ねじこ"
