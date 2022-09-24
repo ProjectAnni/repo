@@ -820,6 +820,10 @@ type = "animation"
 name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
 type = "animation"
 
+[[tag]]
+name = "TVアニメ「Sonny Boy」"
+type = "animation"
+
 ################################################################################
 # Game
 #
