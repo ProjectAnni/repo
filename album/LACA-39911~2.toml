@@ -1,0 +1,57 @@
+[album]
+album_id = "d1659b45-d8bc-44d6-985c-bc22163fe2f1"
+title = "創世記"
+edition = "初回限定盤"
+artist = "ARCANA PROJECT（桜野羽咲、空野青空、相田詩音、花宮ハナ、天野ひかる）"
+date = 2022-08-24
+type = "normal"
+catalog = "LACA-39911~2"
+tags = ["ARCANA PROJECT"]
+
+[[discs]]
+catalog = "LACA-39911"
+
+[[discs.tracks]]
+title = "快晴のエスタリスタ"
+
+[[discs.tracks]]
+title = "カンパネラ響く空で"
+
+[[discs.tracks]]
+title = "たゆたえ、七色"
+
+[[discs.tracks]]
+title = "とめどない潮騒に僕たちは何を歌うだろうか"
+
+[[discs.tracks]]
+title = "星影のファンタジア"
+
+[[discs.tracks]]
+title = "夢で世界を変えるなら"
+
+[[discs.tracks]]
+title = "the Sunlight"
+
+[[discs]]
+catalog = "LACA-39912"
+
+[[discs.tracks]]
+title = "天運ヘキサグラム"
+
+[[discs.tracks]]
+title = "ヒトリガタリ"
+
+[[discs.tracks]]
+title = "TWO of WANDS"
+
+[[discs.tracks]]
+title = "Echochrome"
+
+[[discs.tracks]]
+title = "Ace Of Pentacles"
+
+[[discs.tracks]]
+title = "Ophelia"
+
+[[discs.tracks]]
+title = "慟哭のトルメンタ"

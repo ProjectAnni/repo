@@ -253,6 +253,10 @@ type = "artist"
 name = "井口裕香"
 type = "artist"
 
+[[tag]]
+name = "ナナヲアカリ"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -386,6 +390,11 @@ includes.group = ["fripSide NAO project!"]
 
 [[tag]]
 name = "angela"
+type = "group"
+
+# StylipS（石原夏織、能登有沙、小倉唯、松永真穂）
+[[tag]]
+name = "StylipS"
 type = "group"
 
 ################################################################################
@@ -818,6 +827,14 @@ type = "animation"
 
 [[tag]]
 name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
+type = "animation"
+
+[[tag]]
+name = "アニメ「ハイスクールD×D」"
+type = "animation"
+
+[[tag]]
+name = "咲-Saki- 阿知賀編 episode of side-A"
 type = "animation"
 
 ################################################################################
