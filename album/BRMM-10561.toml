@@ -29,6 +29,7 @@ title = "アニメ「BanG Dream! Morfonication」オリジナル・サウンド�
 artist = "藤田淳平"
 catalog = "@BRMM-10561-02"
 type = "absolute"
+tags = ["アニメ「BanG Dream! Morfonication」"]
 
 [[discs.tracks]]
 title = "くじらの夢"
