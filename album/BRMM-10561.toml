@@ -1,0 +1,53 @@
+[album]
+album_id = "348528ee-c966-4206-97b0-3986519b3f30"
+title = "寄る辺のSunny, Sunny"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2022-09-14
+type = "normal"
+catalog = "BRMM-10561"
+tags = ["Morfonica"]
+
+[[discs]]
+catalog = "@BRMM-10561-01"
+
+[[discs.tracks]]
+title = "寄る辺のSunny, Sunny"
+
+[[discs.tracks]]
+title = "One step at a time"
+
+[[discs.tracks]]
+title = "寄る辺のSunny, Sunny -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "One step at a time -instrumental-"
+type = "instrumental"
+
+[[discs]]
+title = "アニメ「BanG Dream! Morfonication」オリジナル・サウンドトラック"
+artist = "藤田淳平"
+catalog = "@BRMM-10561-02"
+type = "absolute"
+tags = ["アニメ「BanG Dream! Morfonication」"]
+
+[[discs.tracks]]
+title = "くじらの夢"
+
+[[discs.tracks]]
+title = "モニカの団欒"
+
+[[discs.tracks]]
+title = "密かな計画"
+
+[[discs.tracks]]
+title = "ましろの憂鬱"
+
+[[discs.tracks]]
+title = "消える世界"
+
+[[discs.tracks]]
+title = "重なる想い"
+
+[[discs.tracks]]
+title = "輝く景色に向かって"

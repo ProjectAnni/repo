@@ -1,0 +1,87 @@
+[album]
+album_id = "c8edf390-fb4c-49b0-96c3-3af6e834dcc7"
+title = "Kind of Harmony"
+edition = "初回生産限定盤"
+artist = "八乙女菫（二ノ宮ゆい）、百瀬百々（廣瀬千夏）、朝比奈日葵（田口華有）、天羽友梨（大橋彩香）、風祭瑠璃（田所あずさ）"
+date = 2022-08-13
+type = "normal"
+catalog = "SSCD-0001~2"
+tags = ["swing, sing"]
+
+[[discs]]
+catalog = "SSCD-0001"
+
+[[discs.tracks]]
+title = "Harmony"
+
+[[discs.tracks]]
+title = "夢の中へ"
+artist = "八乙女菫（二ノ宮ゆい）"
+
+[[discs.tracks]]
+title = "アロマ"
+artist = "百瀬百々（廣瀬千夏）"
+
+[[discs.tracks]]
+title = "SweetButter"
+artist = "朝比奈日葵（田口華有）"
+
+[[discs.tracks]]
+title = "銀色メロディ"
+artist = "天羽友梨（大橋彩香）"
+
+[[discs.tracks]]
+title = "廻り"
+artist = "風祭瑠璃（田所あずさ）"
+
+[[discs.tracks]]
+title = "Harmony [Instrumental]"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夢の中へ [Instrumental]"
+artist = "八乙女菫（二ノ宮ゆい）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アロマ [Instrumental]"
+artist = "百瀬百々（廣瀬千夏）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "SweetButter [Instrumental]"
+artist = "朝比奈日葵（田口華有）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "銀色メロディ [Instrumental]"
+artist = "天羽友梨（大橋彩香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "廻り [Instrumental]"
+artist = "風祭瑠璃（田所あずさ）"
+type = "instrumental"
+
+[[discs]]
+catalog = "SSCD-0002"
+
+[[discs.tracks]]
+title = "Harmony feat. 八乙女菫"
+artist = "八乙女菫（二ノ宮ゆい）"
+
+[[discs.tracks]]
+title = "Harmony feat. 百瀬百々"
+artist = "百瀬百々（廣瀬千夏）"
+
+[[discs.tracks]]
+title = "Harmony feat. 朝比奈日葵"
+artist = "朝比奈日葵（田口華有）"
+
+[[discs.tracks]]
+title = "Harmony feat. 天羽友梨"
+artist = "天羽友梨（大橋彩香）"
+
+[[discs.tracks]]
+title = "Harmony feat. 風祭瑠璃"
+artist = "風祭瑠璃（田所あずさ）"

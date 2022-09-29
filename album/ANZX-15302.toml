@@ -1,0 +1,94 @@
+[album]
+album_id = "3c3e204b-6a6e-4c66-92f3-f6aecaffd4d2"
+title = "リコリス・リコイル オリジナル・サウンドトラック①"
+artist = "睦月周平"
+date = 2022-09-21
+type = "absolute"
+catalog = "ANZX-15302"
+tags = ["TVアニメ「リコリス・リコイル」", "OST"]
+
+[[discs]]
+catalog = "ANZX-15302"
+
+[[discs.tracks]]
+title = "リコリス・リコイルのテーマ"
+
+[[discs.tracks]]
+title = "偵察"
+
+[[discs.tracks]]
+title = "機銃掃射"
+
+[[discs.tracks]]
+title = "命令違反"
+
+[[discs.tracks]]
+title = "転属"
+
+[[discs.tracks]]
+title = "好奇心"
+
+[[discs.tracks]]
+title = "千束"
+
+[[discs.tracks]]
+title = "能天気"
+
+[[discs.tracks]]
+title = "濡れ衣"
+
+[[discs.tracks]]
+title = "新しい仕事"
+
+[[discs.tracks]]
+title = "個人のためのリコリス"
+
+[[discs.tracks]]
+title = "質問"
+
+[[discs.tracks]]
+title = "うきうき"
+
+[[discs.tracks]]
+title = "異変"
+
+[[discs.tracks]]
+title = "おとり作戦"
+
+[[discs.tracks]]
+title = "ドタバタ"
+
+[[discs.tracks]]
+title = "命大事に、ね！"
+
+[[discs.tracks]]
+title = "無知"
+
+[[discs.tracks]]
+title = "一件落着？"
+
+[[discs.tracks]]
+title = "不穏な動き"
+
+[[discs.tracks]]
+title = "ハッカーロボ太"
+
+[[discs.tracks]]
+title = "慌ただしい朝"
+
+[[discs.tracks]]
+title = "浮世道中"
+artist = "渡部沙智子"
+type = "normal"
+
+[[discs.tracks]]
+title = "反撃開始"
+
+[[discs.tracks]]
+title = "だまされた？"
+
+[[discs.tracks]]
+title = "なんかいた！"
+
+[[discs.tracks]]
+title = "つかの間の休息"
