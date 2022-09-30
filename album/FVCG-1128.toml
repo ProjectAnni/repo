@@ -1,0 +1,27 @@
+[album]
+album_id = "9f987fb6-2b9c-4bb8-9d51-a4165231df22"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー008☆阿万音鈴羽"
+artist = "田村ゆかり"
+date = 2010-11-24
+type = "normal"
+catalog = "FVCG-1128"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1128"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日11時21分]阿万音鈴羽編"
+type = "drama"
+
+[[discs.tracks]]
+title = "虹色の光りの中で"
+
+[[discs.tracks]]
+title = "虹色の光りの中で (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (田村ゆかり)"
+artist = "田村ゆかり"
+type = "vocal"

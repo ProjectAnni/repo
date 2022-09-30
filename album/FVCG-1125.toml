@@ -1,0 +1,27 @@
+[album]
+album_id = "465b4e77-ad2b-44b1-b3f0-83a5023e950c"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー005☆桐生萌郁"
+artist = "桐生萌郁（後藤沙緒里）"
+date = 2010-10-20
+type = "normal"
+catalog = "FVCG-1125"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1125"
+
+[[discs.tracks]]
+title = "ミニドラマ「それぞれの7月28日」桐生萌郁編"
+type = "drama"
+
+[[discs.tracks]]
+title = "To Be Loved"
+
+[[discs.tracks]]
+title = "To Be Loved (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (後藤沙緒里)"
+artist = "後藤沙緒里"
+type = "vocal"

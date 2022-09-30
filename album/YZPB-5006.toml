@@ -1,0 +1,28 @@
+[album]
+album_id = "8d3b86c1-8d0e-489b-bb59-0bc57d576384"
+title = "禁断無敵のだーりん"
+edition = "コラボ盤"
+artist = "Afilia Saga East（アリア・M・ミルヴァーナ、コヒメ・リト・プッチ、ルイズ・スフォルツア、メイリ・マロンフィール 、ユカフィン・ドール、クルミ・ラーラ・ミルク、ミク・ドール・シャルロット、アヤミ・チェルシー・スノウ、カレン・クラシュカ、マホ・ソット・ボーチェ、エミュウ・ヴァイルシュミット、ローラ・シュクレーヌ）"
+date = 2012-06-13
+type = "normal"
+catalog = "YZPB-5006"
+tags = ["Afilia Saga East"]
+
+[[discs]]
+catalog = "YZPB-5006"
+
+[[discs.tracks]]
+title = "禁断無敵のだーりん"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "OP"]
+
+[[discs.tracks]]
+title = "エシカル～ありがとうを伝えたい～"
+
+[[discs.tracks]]
+title = "禁断無敵のだーりん（off Vocal）"
+type = "instrumental"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "OP"]
+
+[[discs.tracks]]
+title = "エシカル～ありがとうを伝えたい～（off Vocal）"
+type = "instrumental"

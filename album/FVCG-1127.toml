@@ -1,0 +1,27 @@
+[album]
+album_id = "ad63b7ae-0cc6-4dc3-9234-3f584d610379"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー007☆フェイリス・ニャンニャン"
+artist = "フェイリス・ニャンニャン（桃井はるこ）"
+date = 2010-11-24
+type = "normal"
+catalog = "FVCG-1127"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1127"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日11時26分]フェイリス・ニャンニャン編"
+type = "drama"
+
+[[discs.tracks]]
+title = "Nyan☆Nyan☆Galaxy！"
+
+[[discs.tracks]]
+title = "Nyan☆Nyan☆Galaxy！ (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (桃井はるこ)"
+artist = "桃井はるこ"
+type = "vocal"

@@ -1,0 +1,27 @@
+[album]
+album_id = "ba52d842-fbe8-4936-9175-157b5329b4d1"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー006☆漆原るか"
+artist = "漆原るか（小林ゆう）"
+date = 2010-10-20
+type = "normal"
+catalog = "FVCG-1126"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1126"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日12時48分]漆原るか編"
+type = "drama"
+
+[[discs.tracks]]
+title = "儚い記憶のかけら"
+
+[[discs.tracks]]
+title = "儚い記憶のかけら (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (小林ゆう)"
+artist = "小林ゆう"
+type = "vocal"

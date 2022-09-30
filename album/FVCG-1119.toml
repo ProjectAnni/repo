@@ -1,0 +1,29 @@
+[album]
+album_id = "723e3940-5315-40cb-bf45-ea12031394ea"
+title = "A.R.／Star-Crossed"
+artist = "いとうかなこ"
+date = 2010-07-28
+type = "normal"
+catalog = "FVCG-1119"
+tags = ["いとうかなこ"]
+
+[[discs]]
+catalog = "FVCG-1119"
+
+[[discs.tracks]]
+title = "A.R."
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs.tracks]]
+title = "Star-Crossed"
+tags = ["Starry☆Sky～After Spring～Portable"]
+
+[[discs.tracks]]
+title = "A.R.（off Vocal）"
+type = "instrumental"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs.tracks]]
+title = "Star-Crossed（off Vocal）"
+type = "instrumental"
+tags = ["Starry☆Sky～After Spring～Portable"]

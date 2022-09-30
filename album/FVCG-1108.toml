@@ -1,0 +1,32 @@
+[album]
+album_id = "85f1f84c-08a1-45ff-9432-c3d72536fb74"
+title = "STEINS;GATE ドラマCD α「哀心迷図のバベル」ダイバージェンス0.571046%"
+artist = "牧瀬紅莉栖（今井麻美）、フェイリス・ニャンニャン（桃井はるこ）、岡部倫太郎（宮野真守）、椎名まゆり（花澤香菜）、ドクター中鉢（小形満）、阿万音鈴羽（田村ゆかり）、秋葉幸高（菊本平）"
+date = 2010-03-31
+type = "drama"
+catalog = "FVCG-1108"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1108"
+
+[[discs.tracks]]
+title = "Aug 15,2010 14:07"
+
+[[discs.tracks]]
+title = "Aug 15,2010 15:04"
+
+[[discs.tracks]]
+title = "Aug 15,2010 16:43"
+
+[[discs.tracks]]
+title = "0ct 3,1994 19:21"
+
+[[discs.tracks]]
+title = "Aug 15,2010 17:50"
+
+[[discs.tracks]]
+title = "Aug 17,2010 7:02"
+
+[[discs.tracks]]
+title = "Aug 17,2010 12:18"

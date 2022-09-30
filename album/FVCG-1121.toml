@@ -1,0 +1,26 @@
+[album]
+album_id = "a95274aa-0b61-41f7-9be7-2be50380b705"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー001☆岡部倫太郎"
+artist = "岡部倫太郎（宮野真守）"
+date = 2010-11-24
+type = "normal"
+catalog = "FVCG-1121"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1121"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日11時21分]岡部倫太郎編"
+type = "drama"
+
+[[discs.tracks]]
+title = "難攻不落の new gate"
+
+[[discs.tracks]]
+title = "難攻不落の new gate (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (宮野真守)"
+type = "vocal"

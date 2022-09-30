@@ -1,0 +1,38 @@
+[album]
+album_id = "470dcc87-4c5c-4838-8b1d-39a3e8ac7b3d"
+title = "STEINS;GATE ドラマCD β「無限遠点のアークライト」ダイバージェンス1.130205%"
+artist = "椎名まゆり（花澤香菜）、阿万音鈴羽（田村ゆかり）、岡部倫太郎（宮野真守）、橋田至（関智一）、漆原るか（小林ゆう）"
+date = 2010-04-28
+type = "drama"
+catalog = "FVCG-1112"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1112"
+
+[[discs.tracks]]
+title = "1.130205%"
+
+[[discs.tracks]]
+title = "1.129848%"
+
+[[discs.tracks]]
+title = "1.129848%"
+
+[[discs.tracks]]
+title = "1.129848%"
+
+[[discs.tracks]]
+title = "1.129848%"
+
+[[discs.tracks]]
+title = "1.129848%"
+
+[[discs.tracks]]
+title = "1.130205%"
+
+[[discs.tracks]]
+title = "1.130212%"
+
+[[discs.tracks]]
+title = "1.130205%"
