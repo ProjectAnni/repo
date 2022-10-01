@@ -1,0 +1,24 @@
+[album]
+album_id = "7bda8b3d-6dca-4b8e-867e-4d348706ee45"
+title = "たましいの居場所"
+artist = "マカロニえんぴつ"
+date = 2022-06-22
+type = "normal"
+catalog = "TFCC-86861~2"
+tags = ["マカロニえんぴつ"]
+
+[[discs]]
+catalog = "TFCC-86861"
+
+[[discs.tracks]]
+title = "たましいの居場所"
+
+[[discs.tracks]]
+title = "星が泳ぐ"
+tags = ["サマータイムレンダ"]
+
+[[discs.tracks]]
+title = "街中華☆超愛"
+
+[[discs.tracks]]
+title = "僕らは夢の中"
