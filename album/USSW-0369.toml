@@ -1,0 +1,32 @@
+[album]
+album_id = "0614f511-2c92-4739-9884-36c88fe92f7c"
+title = "夏夢ノイジー"
+artist = "亜咲花"
+date = 2022-08-10
+type = "normal"
+catalog = "USSW-0369"
+tags = ["サマータイムレンダ"]
+
+[[discs]]
+catalog = "USSW-0369"
+
+[[discs.tracks]]
+title = "夏夢ノイジー"
+
+[[discs.tracks]]
+title = "VOICE"
+
+[[discs.tracks]]
+title = "dreamer"
+
+[[discs.tracks]]
+title = "夏夢ノイジー (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "VOICE (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "dreamer (off vocal)"
+type = "instrumental"

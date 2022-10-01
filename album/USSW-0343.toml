@@ -1,0 +1,42 @@
+[album]
+album_id = "1990feea-8928-46d2-bae5-1252ffd77803"
+title = "回夏"
+artist = "cadode"
+date = 2022-04-27
+type = "normal"
+catalog = "USSW-0343"
+tags = ["サマータイムレンダ"]
+
+[[discs]]
+title = ""
+catalog = "USSW-0343"
+
+[[discs.tracks]]
+title = "回夏"
+
+[[discs.tracks]]
+title = "光"
+
+[[discs.tracks]]
+title = "カオサン通り (band)"
+
+[[discs.tracks]]
+title = "回夏 -karaoke-"
+
+[[discs.tracks]]
+title = "光 -karaoke-"
+
+[[discs.tracks]]
+title = "カオサン通り (band) -karaoke-"
+
+[[discs.tracks]]
+title = "回夏 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "光 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "カオサン通り (band) -Instrumental-"
+type = "instrumental"

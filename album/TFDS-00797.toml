@@ -1,0 +1,14 @@
+[album]
+album_id = "34bfd9aa-751d-4fdb-b163-eb9ede68db2d"
+title = "失恋ソング沢山聴いて 泣いてばかりの私はもう。"
+artist = "りりあ。"
+date = 2022-07-08
+type = "normal"
+catalog = "TFDS-00797"
+tags = ["サマータイムレンダ"]
+
+[[discs]]
+catalog = "TFDS-00797"
+
+[[discs.tracks]]
+title = "失恋ソング沢山聴いて 泣いてばかりの私はもう。"

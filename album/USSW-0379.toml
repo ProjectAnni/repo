@@ -1,0 +1,251 @@
+[album]
+album_id = "07e94b07-f63c-4be0-a4c9-cec0267c0ab9"
+title = "TVアニメ『サマータイムレンダ』オリジナル・サウンドトラック"
+edition = "初回生産限定盤"
+artist = "岡部啓一、高田龍一、帆足圭吾"
+date = 2022-08-31
+type = "normal"
+catalog = "USSW-0379"
+tags = ["サマータイムレンダ"]
+
+[[discs]]
+catalog = "@USSW-0379-1"
+
+[[discs.tracks]]
+title = "渦"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "潮騒"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "陽炎"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "共鳴"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "張力"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "影法師"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "引力"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "反射"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "沈力"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "心騒ぎ"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "澱"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "深夏"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "脳溝"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "臨影"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "浮力"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "洞"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "波の綾"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "異形乃輪"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "凪"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "漣"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "狂濤"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "砕波"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "溺迫"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "対峙"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "迷ひ路"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "絶つ望"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "葛藤"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "軋轢"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "惑戦"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "遁走"
+artist = "岡部啓一"
+
+[[discs]]
+catalog = "@USSW-0379-2"
+
+[[discs.tracks]]
+title = "電子泥"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "物案じ"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "危礁"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "月灯"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "傀儡争"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "影息吹"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "垂"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "日都ケ島手毬唄"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "湿力"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "修羅火"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "白い青"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "呟奇譚"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "鎮魂"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "生謡"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "霧這"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "鯨閃"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "波稲"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "墨斗兵"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "薫風"
+artist = "高田龍一"
+
+[[discs.tracks]]
+title = "潜思"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "記憶"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "和心地"
+artist = "岡部啓一"
+
+[[discs.tracks]]
+title = "陰陽"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "疾波闘"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "破綻"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "再輝動"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "翻命"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "島風"
+artist = "帆足圭吾"
+
+[[discs.tracks]]
+title = "輪廻"
+artist = "帆足圭吾"
