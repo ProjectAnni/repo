@@ -23,12 +23,15 @@ title = "カオサン通り (band)"
 [[discs.tracks]]
 title = "回夏 -karaoke-"
 tags = ["サマータイムレンダ"]
+type = "instrumental"
 
 [[discs.tracks]]
 title = "光 -karaoke-"
+type = "instrumental"
 
 [[discs.tracks]]
 title = "カオサン通り (band) -karaoke-"
+type = "instrumental"
 
 [[discs.tracks]]
 title = "回夏 -Instrumental-"

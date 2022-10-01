@@ -1,12 +1,11 @@
 [album]
 album_id = "07e94b07-f63c-4be0-a4c9-cec0267c0ab9"
 title = "TVアニメ『サマータイムレンダ』オリジナル・サウンドトラック"
-edition = "初回生産限定盤"
-artist = "岡部啓一、高田龍一、帆足圭吾"
+artist = "Various Artists"
 date = 2022-08-31
 type = "absolute"
 catalog = "USSW-0379"
-tags = ["サマータイムレンダ"]
+tags = ["サマータイムレンダ", "OST"]
 
 [[discs]]
 catalog = "@USSW-0379-1"
