@@ -5,13 +5,14 @@ artist = "亜咲花"
 date = 2022-08-10
 type = "normal"
 catalog = "USSW-0369"
-tags = ["サマータイムレンダ"]
+tags = ["亜咲花"]
 
 [[discs]]
 catalog = "USSW-0369"
 
 [[discs.tracks]]
 title = "夏夢ノイジー"
+tags = ["サマータイムレンダ"]
 
 [[discs.tracks]]
 title = "VOICE"
@@ -22,6 +23,7 @@ title = "dreamer"
 [[discs.tracks]]
 title = "夏夢ノイジー (off vocal)"
 type = "instrumental"
+tags = ["サマータイムレンダ"]
 
 [[discs.tracks]]
 title = "VOICE (off vocal)"
