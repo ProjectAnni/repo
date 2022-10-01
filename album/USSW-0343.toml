@@ -8,7 +8,6 @@ catalog = "USSW-0343"
 tags = ["サマータイムレンダ"]
 
 [[discs]]
-title = ""
 catalog = "USSW-0343"
 
 [[discs.tracks]]
