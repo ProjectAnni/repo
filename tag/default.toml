@@ -257,6 +257,10 @@ type = "artist"
 name = "ナナヲアカリ"
 type = "artist"
 
+[[tag]]
+name = "坂本真綾"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -839,6 +843,10 @@ type = "animation"
 
 [[tag]]
 name = "咲-Saki- 阿知賀編 episode of side-A"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「であいもん」"
 type = "animation"
 
 ################################################################################
