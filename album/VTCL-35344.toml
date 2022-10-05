@@ -12,7 +12,7 @@ catalog = "VTCL-35344"
 
 [[discs.tracks]]
 title = "ここにある約束"
-tags = ["OP"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "あなたがそばにいてくれたら"
@@ -20,7 +20,7 @@ title = "あなたがそばにいてくれたら"
 [[discs.tracks]]
 title = "ここにある約束[instrumental]"
 type = "instrumental"
-tags = ["OP"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "あなたがそばにいてくれたら[instrumental]"
