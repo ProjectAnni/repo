@@ -401,6 +401,14 @@ type = "group"
 name = "StylipS"
 type = "group"
 
+[[tag]]
+name = "マカロニえんぴつ"
+type = "group"
+
+[[tag]]
+name = "cadode"
+type = "group"
+
 ################################################################################
 # Animation
 #
@@ -847,6 +855,10 @@ type = "animation"
 
 [[tag]]
 name = "TVアニメ「であいもん」"
+type = "animation"
+
+[[tag]]
+name = "サマータイムレンダ"
 type = "animation"
 
 ################################################################################
