@@ -1,0 +1,9 @@
+[[tag]]
+name = "本好きの下剋上"
+type = "project"
+includes.animation = [
+    "TVアニメ「本好きの下剋上1」",
+    "TVアニメ「本好きの下剋上2」",
+    "TVアニメ「本好きの下剋上3」"
+]
+
