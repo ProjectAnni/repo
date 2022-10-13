@@ -1,0 +1,21 @@
+[album]
+album_id = "17183ed1-4fce-4119-8b70-8c3784bc85e9"
+title = "少年少女"
+artist = "銀杏BOYZ"
+date = 2021-07-21
+type = "normal"
+catalog = "SKOOL-056E"
+tags = ["TVアニメ「Sonny Boy」"]
+
+[[discs]]
+catalog = "SKOOL-056E"
+
+[[discs.tracks]]
+title = "少年少女"
+
+[[discs.tracks]]
+title = "夢で逢えたら アコースティック"
+
+[[discs.tracks]]
+title = "少年少女 Instrumental"
+type = "instrumental"

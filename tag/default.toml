@@ -261,6 +261,10 @@ type = "artist"
 name = "髙橋ミナミ"
 type = "artist"
 
+[[tag]]
+name = "坂本真綾"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -403,6 +407,14 @@ type = "group"
 
 [[tag]]
 name = "Afilia Saga East"
+type = "group"
+
+[[tag]]
+name = "マカロニえんぴつ"
+type = "group"
+
+[[tag]]
+name = "cadode"
 type = "group"
 
 ################################################################################
@@ -838,11 +850,23 @@ name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
 type = "animation"
 
 [[tag]]
+name = "TVアニメ「Sonny Boy」"
+type = "animation"
+
+[[tag]]
 name = "アニメ「ハイスクールD×D」"
 type = "animation"
 
 [[tag]]
 name = "咲-Saki- 阿知賀編 episode of side-A"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「であいもん」"
+type = "animation"
+
+[[tag]]
+name = "サマータイムレンダ"
 type = "animation"
 
 ################################################################################

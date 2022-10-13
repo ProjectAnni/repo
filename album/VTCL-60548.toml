@@ -1,0 +1,100 @@
+[album]
+album_id = "673c6d79-4b6d-4930-8888-6fdd93d501bc"
+title = 'TV ANIMATION "Sonny Boy" original soundtrack'
+artist = "Various Artists"
+date = 2021-09-08
+type = "absolute"
+catalog = "VTCL-60548"
+tags = ["TVアニメ「Sonny Boy」"]
+
+[[discs]]
+catalog = "VTCL-60548"
+
+[[discs.tracks]]
+title = "少年少女 TV ver."
+artist = "銀杏BOYZ"
+type = "normal"
+
+[[discs.tracks]]
+title = "Broken Windows"
+artist = "落日飛車"
+
+[[discs.tracks]]
+title = "Seagull"
+artist = "落日飛車"
+
+[[discs.tracks]]
+title = "Summer Storm"
+artist = "VIDEOTAPEMUSIC"
+
+[[discs.tracks]]
+title = "Tune from diamond"
+artist = "ザ・なつやすみバンド"
+
+[[discs.tracks]]
+title = "夜釣り"
+artist = "ミツメ"
+
+[[discs.tracks]]
+title = "Let There Be Light Again"
+artist = "落日飛車"
+
+[[discs.tracks]]
+title = "Beacon"
+artist = "Ogawa & Tokoro"
+
+[[discs.tracks]]
+title = "Yamabiko's Theme"
+artist = "空中泥棒"
+
+[[discs.tracks]]
+title = "Kodama's Theme"
+artist = "空中泥棒"
+
+[[discs.tracks]]
+title = "Soft Oversight"
+artist = "Ogawa & Tokoro"
+
+[[discs.tracks]]
+title = "ソウとセイジ"
+artist = "ミツメ"
+
+[[discs.tracks]]
+title = "今日の歌"
+artist = "カネヨリマサル"
+type = "normal"
+
+[[discs.tracks]]
+title = "Lightship"
+artist = "ザ・なつやすみバンド"
+type = "normal"
+
+[[discs.tracks]]
+title = "スペア"
+artist = "ミツメ"
+type = "normal"
+
+[[discs.tracks]]
+title = "サニーボーイ・ラプソディ"
+artist = "toe"
+type = "normal"
+
+[[discs.tracks]]
+title = "Lune"
+artist = "コーニッシュ"
+
+[[discs.tracks]]
+title = "Jugement"
+artist = "コーニッシュ"
+
+[[discs.tracks]]
+title = "Tour"
+artist = "コーニッシュ"
+
+[[discs.tracks]]
+title = "Soleil"
+artist = "コーニッシュ"
+
+[[discs.tracks]]
+title = "旅立ちの日に"
+artist = "コーニッシュ"
