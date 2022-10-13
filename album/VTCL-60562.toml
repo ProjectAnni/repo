@@ -1,0 +1,152 @@
+[album]
+album_id = "7a0b348b-1150-4752-85e1-ce5ab761f818"
+title = "TVアニメ「であいもん」オリジナルサウンドトラック"
+artist = "高田漣"
+date = 2022-06-22
+type = "absolute"
+catalog = "VTCL-60562"
+tags = ["TVアニメ「であいもん」", "OST"]
+
+[[discs]]
+catalog = "VTCL-60562"
+
+[[discs.tracks]]
+title = "メインテーマ"
+
+[[discs.tracks]]
+title = "モーニング・セット"
+
+[[discs.tracks]]
+title = "無風ろまん"
+
+[[discs.tracks]]
+title = "珈琲色のフォークソング"
+
+[[discs.tracks]]
+title = "可憐な少女1"
+
+[[discs.tracks]]
+title = "スウィング73"
+
+[[discs.tracks]]
+title = "切ない恋心"
+
+[[discs.tracks]]
+title = "ワルツ"
+
+[[discs.tracks]]
+title = "予兆"
+
+[[discs.tracks]]
+title = "不穏のテーゼ"
+
+[[discs.tracks]]
+title = "緊迫"
+
+[[discs.tracks]]
+title = "寂寥のウクレレ"
+
+[[discs.tracks]]
+title = "でいどりーむ"
+
+[[discs.tracks]]
+title = "鴨川の流れ"
+
+[[discs.tracks]]
+title = "薯蕷饅頭の歌"
+artist = "納野和（岛崎信长）"
+type = "normal"
+
+[[discs.tracks]]
+title = "八重に咲く"
+artist = "堀河美弦（鈴木みのり）"
+type = "normal"
+
+[[discs.tracks]]
+title = "楽園からの便り"
+
+[[discs.tracks]]
+title = "穏やかな時間"
+
+[[discs.tracks]]
+title = "柔らかな水紋"
+
+[[discs.tracks]]
+title = "水彩画"
+
+[[discs.tracks]]
+title = "キキルル"
+
+[[discs.tracks]]
+title = "エキゾ地下"
+
+[[discs.tracks]]
+title = "祇園のスコット・フィッツジェラルド"
+
+[[discs.tracks]]
+title = "混乱のジンタ"
+
+[[discs.tracks]]
+title = "照れ笑い"
+
+[[discs.tracks]]
+title = "惚け人"
+
+[[discs.tracks]]
+title = "河原町のストンプ"
+
+[[discs.tracks]]
+title = "困惑ゲーム"
+
+[[discs.tracks]]
+title = "キング・ワズー"
+
+[[discs.tracks]]
+title = "恋敵現わる"
+
+[[discs.tracks]]
+title = "京都人、荒野を目指す"
+
+[[discs.tracks]]
+title = "マスタード"
+
+[[discs.tracks]]
+title = "逡巡"
+
+[[discs.tracks]]
+title = "可憐な少女2"
+
+[[discs.tracks]]
+title = "想い出の景色"
+
+[[discs.tracks]]
+title = "可憐な少女 (アレンジ)"
+
+[[discs.tracks]]
+title = "オーランドー"
+artist = "納野和（岛崎信长）"
+type = "normal"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "春:春の芽吹き"
+
+[[discs.tracks]]
+title = "夏:納涼床"
+
+[[discs.tracks]]
+title = "秋:秋の夜長に君を想う"
+
+[[discs.tracks]]
+title = "冬:冬の金閣寺"
+
+[[discs.tracks]]
+title = "蒼ざめた馬を見よ"
+
+[[discs.tracks]]
+title = "コーダ"
+
+[[discs.tracks]]
+title = "オーランドー"
+artist = "栗ManJu（納野和（岛崎信长））"
+type = "normal"

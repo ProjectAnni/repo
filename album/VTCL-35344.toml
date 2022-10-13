@@ -1,0 +1,27 @@
+[album]
+album_id = "8ae1e0e5-e8d8-46ad-80bf-306e2e6c1f25"
+title = "ここにある約束"
+artist = "であいもん（ayaho、曽我淳一）"
+date = 2022-04-20
+type = "normal"
+catalog = "VTCL-35344"
+tags = ["TVアニメ「であいもん」"]
+
+[[discs]]
+catalog = "VTCL-35344"
+
+[[discs.tracks]]
+title = "ここにある約束"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "あなたがそばにいてくれたら"
+
+[[discs.tracks]]
+title = "ここにある約束[instrumental]"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "あなたがそばにいてくれたら[instrumental]"
+type = "instrumental"

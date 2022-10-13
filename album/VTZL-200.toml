@@ -1,0 +1,32 @@
+[album]
+album_id = "cbdb0f05-1de4-48b8-8a3b-dc9c786e268c"
+title = "菫／言葉にできない"
+edition = "初回限定盤"
+artist = "坂本真綾"
+date = 2022-05-25
+type = "normal"
+catalog = "VTZL-200"
+tags = ["坂本真綾"]
+
+[[discs]]
+catalog = "VTZL-200"
+
+[[discs.tracks]]
+title = "菫"
+tags = ["TVアニメ「であいもん」", "OP"]
+
+[[discs.tracks]]
+title = "言葉にできない"
+tags = ["TVアニメ「本好きの下剋上 司書になるためには手段を選んでいられません3」", "ED"]
+
+[[discs.tracks]]
+title = "千里の道 -studio live-"
+
+[[discs.tracks]]
+title = "菫 -Instrumental-"
+type = "instrumental"
+tags = ["TVアニメ「であいもん」", "OP"]
+
+[[discs.tracks]]
+title = "言葉にできない -Instrumental-"
+type = "instrumental"
