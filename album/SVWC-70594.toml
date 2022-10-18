@@ -1,0 +1,28 @@
+[album]
+album_id = "eaa3cd5e-f789-44d5-bfb6-b11daf3b42ff"
+title = "青春コンプレックス"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-10-12
+type = "normal"
+catalog = "SVWC-70594"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」"]
+
+[[discs]]
+catalog = "SVWC-70594"
+
+[[discs.tracks]]
+title = "青春コンプレックス"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ひとりぼっち東京"
+
+[[discs.tracks]]
+title = "青春コンプレックス-instrumental-"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ひとりぼっち東京-instrumental-"
+type = "instrumental"
+
