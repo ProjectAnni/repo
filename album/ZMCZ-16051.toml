@@ -1,0 +1,117 @@
+[album]
+album_id = "3b34dc86-1666-4de4-9863-952cd45e05d0"
+title = "TVアニメ「メイドインアビス 烈日の黄金郷」オリジナルサウンドトラック"
+artist = "Kevin Penkin"
+date = 2022-10-26
+type = "absolute"
+catalog = "ZMCZ-16051"
+tags = ["メイドインアビス 烈日の黄金郷", "OST"]
+
+[[discs]]
+catalog = "TGCS-12920"
+
+[[discs.tracks]]
+title = "Tomorrowland"
+
+[[discs.tracks]]
+title = "Old Stories"
+
+[[discs.tracks]]
+title = "Mallets of Abyss"
+
+[[discs.tracks]]
+title = "Sëgûr"
+
+[[discs.tracks]]
+title = "DANCE : nArEhAtE"
+
+[[discs.tracks]]
+title = "Ryūsazai"
+
+[[discs.tracks]]
+title = "Eyes of Irumyuui"
+
+[[discs.tracks]]
+title = "The Golden City"
+
+[[discs.tracks]]
+title = "Mori"
+
+[[discs.tracks]]
+title = "Princess & the Village"
+
+[[discs.tracks]]
+title = "Ouni"
+
+[[discs.tracks]]
+title = "I. AM. BURNING. MAN"
+
+[[discs.tracks]]
+title = "Tori x Onkyō"
+
+[[discs.tracks]]
+title = "Vueko"
+
+[[discs.tracks]]
+title = "Gravity ft. Arnór Dan"
+type = "normal"
+artist = "Arnór Dan"
+
+[[discs]]
+catalog = "TGCS-12921"
+
+[[discs.tracks]]
+title = "Reg & his Interference Unit"
+
+[[discs.tracks]]
+title = "Carnival! Praise to Princess"
+
+[[discs.tracks]]
+title = "Juroimoh Mutation"
+
+[[discs.tracks]]
+title = "BIRD_(n); CAGE. For Strings, Organs & Winds"
+
+[[discs.tracks]]
+title = "Radio Requiem"
+type = "radio"
+
+[[discs.tracks]]
+title = "Faputa"
+
+[[discs.tracks]]
+title = "The Village"
+
+[[discs.tracks]]
+title = "Drums of Ganja-Tai"
+
+[[discs.tracks]]
+title = "Market of IRUburu"
+
+[[discs.tracks]]
+title = "SAN-KEN「The Three SAGES」"
+
+[[discs.tracks]]
+title = "Nature Sequence. 6th Layer."
+
+[[discs.tracks]]
+title = "vs. Organic Machine"
+
+[[discs.tracks]]
+title = "Capital of the Unreturned"
+
+[[discs.tracks]]
+title = "ベラフの子守歌"
+type = "normal"
+artist = "ベラフ（斋贺光希）"
+
+[[discs.tracks]]
+title = "Ningyō x 龍"
+
+[[discs.tracks]]
+title = "Counterpoint of Abyss"
+
+[[discs.tracks]]
+title = "VOH ft. Takeshi Saito"
+artist = "斎藤洸"
+
