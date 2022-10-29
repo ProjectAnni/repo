@@ -4,11 +4,11 @@ title = "TVアニメ「メイドインアビス 烈日の黄金郷」オリジ�
 artist = "Kevin Penkin"
 date = 2022-10-26
 type = "absolute"
-catalog = "ZMCZ-16051-1~2"
+catalog = "ZMCZ-16051"
 tags = ["メイドインアビス 烈日の黄金郷", "OST"]
 
 [[discs]]
-catalog = "ZMCZ-16051-1"
+catalog = "TGCS-12920"
 
 [[discs.tracks]]
 title = "Tomorrowland"
@@ -58,7 +58,7 @@ type = "normal"
 artist = "Arnór Dan"
 
 [[discs]]
-catalog = "ZMCZ-16051-2"
+catalog = "TGCS-12921"
 
 [[discs.tracks]]
 title = "Reg & his Interference Unit"
