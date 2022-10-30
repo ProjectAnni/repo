@@ -1,0 +1,147 @@
+[album]
+album_id = "09d2d350-f518-48c1-92ee-336bec6f271b"
+title = "『STEINS;GATE』OriginalSoundtrack＋ラジオCD(仮)"
+artist = "阿保剛"
+date = 2010-02-03
+type = "absolute"
+catalog = "FVCG-1106"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1106-1"
+
+[[discs.tracks]]
+title = "スカイクラッドの観測者 Short Ver."
+artist = "いとうかなこ"
+type = "normal"
+
+[[discs.tracks]]
+title = "technovision Short Ver."
+artist = "いとうかなこ"
+type = "normal"
+
+[[discs.tracks]]
+title = "GATE OF STEINER -Main theme-"
+
+[[discs.tracks]]
+title = "The universe"
+
+[[discs.tracks]]
+title = "Laboratory"
+
+[[discs.tracks]]
+title = "Suspicious Eyes"
+
+[[discs.tracks]]
+title = "Noisy times"
+
+[[discs.tracks]]
+title = "Explanation"
+
+[[discs.tracks]]
+title = "Quiet air"
+
+[[discs.tracks]]
+title = "Yanagibayashi"
+
+[[discs.tracks]]
+title = "Walking on sleeping"
+
+[[discs.tracks]]
+title = "Cycle"
+
+[[discs.tracks]]
+title = "Hack -beta vision-"
+
+[[discs.tracks]]
+title = "SERN"
+
+[[discs.tracks]]
+title = "Assailant"
+
+[[discs.tracks]]
+title = "The Limit"
+
+[[discs.tracks]]
+title = "Select of sorrow"
+
+[[discs.tracks]]
+title = "Chaos mind"
+
+[[discs.tracks]]
+title = "Crossroads"
+
+[[discs.tracks]]
+title = "Self affirmation"
+
+[[discs.tracks]]
+title = "Believe me"
+
+[[discs]]
+catalog = "FVCG-1106"
+
+[[discs.tracks]]
+title = "GATE OF STEINER -Piano-"
+
+[[discs.tracks]]
+title = "Hack -alpha vision-"
+
+[[discs.tracks]]
+title = "Human community"
+
+[[discs.tracks]]
+title = "Network battle"
+
+[[discs.tracks]]
+title = "hesitative consideration"
+
+[[discs.tracks]]
+title = "Urd"
+
+[[discs.tracks]]
+title = "Fake Verthandi"
+
+[[discs.tracks]]
+title = "OPERATION SKULD"
+
+[[discs.tracks]]
+title = "Solitude"
+
+[[discs.tracks]]
+title = "Ringing -Beginning of fight-"
+
+[[discs.tracks]]
+title = "Ringing -Village-"
+
+[[discs.tracks]]
+title = "Ringing -Easygoingness-"
+
+[[discs.tracks]]
+title = "Ringing -Precaution-"
+
+[[discs.tracks]]
+title = "Ringing -Over the sky-"
+
+[[discs.tracks]]
+title = "Ringing -Reunion-"
+
+[[discs.tracks]]
+title = "Ringing -GATE OF STEINER-"
+
+[[discs.tracks]]
+title = "Hack -short vision-"
+
+[[discs.tracks]]
+title = "マスカレード ～ノア第三章列王新世紀編より～ Short Ver."
+artist = "ファンタズム（FES（榊原ゆい））"
+type = "normal"
+
+[[discs.tracks]]
+title = "運命のファルファッラ Short Ver."
+artist = "ファンタズム（FES（榊原ゆい））"
+type = "normal"
+
+[[discs.tracks]]
+title = "Another Heaven Short Ver."
+artist = "いとうかなこ"
+type = "normal"

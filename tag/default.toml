@@ -258,6 +258,10 @@ name = "ナナヲアカリ"
 type = "artist"
 
 [[tag]]
+name = "髙橋ミナミ"
+type = "artist"
+
+[[tag]]
 name = "坂本真綾"
 type = "artist"
 
@@ -399,6 +403,10 @@ type = "group"
 # StylipS（石原夏織、能登有沙、小倉唯、松永真穂）
 [[tag]]
 name = "StylipS"
+type = "group"
+
+[[tag]]
+name = "Afilia Saga East"
 type = "group"
 
 [[tag]]
@@ -1000,6 +1008,14 @@ type = "game"
 name = "まいてつ"
 type = "game"
 
+[[tag]]
+name = "Starry☆Sky～After Spring～Portable"
+type = "game"
+
+[[tag]]
+name = "ゲーム「たんていぶ」"
+type = "game"
+
 ################################################################################
 # Project
 #
@@ -1057,9 +1073,17 @@ includes.animation = [
 [[tag]]
 name = "無職転生 ～異世界行ったら本気だす～"
 type = "project"
-includes.animation = [
-  "アニメ「無職転生 ～異世界行ったら本気だす～」"
-]
+includes.animation = ["アニメ「無職転生 ～異世界行ったら本気だす～」"]
+
+[[tag]]
+name = "STEINS;GATE"
+type = "project"
+includes.game = ["ゲーム「STEINS;GATE」", "STEINS;GATE 比翼恋理のだーりん"]
+
+[[tag]]
+name = "CHAOS;HEAD"
+type = "project"
+includes.group = ["ファンタズム"]
 
 ################################################################################
 # Organization

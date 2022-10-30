@@ -1,0 +1,37 @@
+[album]
+album_id = "6f98cca1-c3a7-41f7-bad0-8c829c650c61"
+title = "La*La*Laラボリューション"
+edition = "豪華盤"
+artist = "Afilia Saga East（ミィナ・M・フラーチェ、ロゼ・ガーデンフェアリー、アリア・M・ミルヴァーナ、コヒ メ・リト・プッチ、ルイズ・スフォルツア、メイリ・マロンフィール、ユカフィン・ドール、クルミ・ラーラ・ミルク、ミク・ドール・シャルロット、アヤミ・チェルシー・スノウ、カレン・クラシュカ、マホ・ソット・ボーチェ）"
+date = 2011-07-27
+type = "normal"
+catalog = "FVCG-1162"
+tags = ["Afilia Saga East"]
+
+[[discs]]
+catalog = "FVCG-1162"
+
+[[discs.tracks]]
+title = "La*La*Laラボリューション"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "OP"]
+
+[[discs.tracks]]
+title = "TANTEI☆ラプソディ"
+tags = ["ゲーム「たんていぶ」", "OP"]
+
+[[discs.tracks]]
+title = "La*La*Laラボリューション feat.カレン、マホ、ミィナ、アリア"
+artist = "カレン・クラシュカ、マホ・ソット・ボーチェ、ミィナ・M・フラーチェ、アリア・M・ミルヴァーナ"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "OP"]
+
+[[discs.tracks]]
+title = "Dearセンパイ♡～メンバー自己紹介ソング～"
+
+[[discs.tracks]]
+title = "La*La*Laラボリューション（off Vocal）"
+type = "instrumental"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "OP"]
+
+[[discs.tracks]]
+title = "TANTEI☆ラプソディ（off Vocal）"
+type = "instrumental"

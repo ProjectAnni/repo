@@ -1,0 +1,27 @@
+[album]
+album_id = "0977e8a4-bbf9-4f5b-9076-e504fc53b14e"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー003☆橋田至"
+artist = "橋田至（関智一）"
+date = 2010-09-22
+type = "normal"
+catalog = "FVCG-1123"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1123"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日11時55分]橋田 至編"
+type = "drama"
+
+[[discs.tracks]]
+title = "萌える世界の幻想譚"
+
+[[discs.tracks]]
+title = "萌える世界の幻想譚 (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (関 智一)"
+artist = "関智一"
+type = "vocal"

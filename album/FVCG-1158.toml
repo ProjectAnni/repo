@@ -1,0 +1,32 @@
+[album]
+album_id = "a187370b-c827-4dab-a346-0b340e3ec316"
+title = "宇宙エンジニア"
+artist = "いとうかなこ"
+date = 2011-06-22
+type = "normal"
+catalog = "FVCG-1158"
+tags = ["いとうかなこ", "STEINS;GATE 比翼恋理のだーりん"]
+
+[[discs]]
+catalog = "FVCG-1158"
+
+[[discs.tracks]]
+title = "宇宙エンジニア"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "永遠のベクトル"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "スカイクラッドの観測者 (リミックス)"
+
+[[discs.tracks]]
+title = "宇宙エンジニア (off Vocal)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "永遠のベクトル (off Vocal)"
+type = "instrumental"
+tags = ["ED"]

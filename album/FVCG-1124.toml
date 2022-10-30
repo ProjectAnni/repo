@@ -1,0 +1,27 @@
+[album]
+album_id = "7b7bf762-9e0d-49f8-a718-6b09f28f2c24"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー004☆牧瀬紅莉栖"
+artist = "牧瀬紅莉栖（今井麻美）"
+date = 2010-09-22
+type = "normal"
+catalog = "FVCG-1124"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1124"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日12時10分]牧瀬紅莉栖 編"
+type = "drama"
+
+[[discs.tracks]]
+title = "約束のパラダイム"
+
+[[discs.tracks]]
+title = "約束のパラダイム (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (今井麻美)"
+artist = "今井麻美"
+type = "vocal"

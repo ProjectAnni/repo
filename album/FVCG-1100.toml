@@ -1,0 +1,29 @@
+[album]
+album_id = "8f2aea93-ba66-49d0-8cf9-70b7749e98af"
+title = "スカイクラッドの観測者"
+artist = "いとうかなこ"
+date = 2009-10-28
+type = "normal"
+catalog = "FVCG-1100"
+tags = ["いとうかなこ", "ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1100"
+
+[[discs.tracks]]
+title = "スカイクラッドの観測者"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Another Heaven"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "スカイクラッドの観測者 (Off Vocal)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Another Heaven (Off Vocal)"
+type = "instrumental"
+tags = ["ED"]

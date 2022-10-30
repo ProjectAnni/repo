@@ -1,0 +1,46 @@
+[album]
+album_id = "00d83bc7-110f-4fc6-b318-e65a7a775a40"
+title = "スターゲイト"
+artist = "いとうかなこ"
+date = 2009-08-26
+type = "normal"
+catalog = "GRE-009"
+tags = ["いとうかなこ"]
+
+[[discs]]
+catalog = "GRE-009"
+
+[[discs.tracks]]
+title = "Open The <<<STARGATE>>>"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Liberty"
+
+[[discs.tracks]]
+title = "Sunday Sunshine"
+
+[[discs.tracks]]
+title = "Dear my stars"
+
+[[discs.tracks]]
+title = "εüρηκα"
+
+[[discs.tracks]]
+title = "technovision"
+tags = ["STEINS;GATE"]
+
+[[discs.tracks]]
+title = "ルイラン"
+
+[[discs.tracks]]
+title = "雨の日のサヨナラ"
+
+[[discs.tracks]]
+title = "幻"
+
+[[discs.tracks]]
+title = "星屑"
+
+[[discs.tracks]]
+title = "déjà vu"

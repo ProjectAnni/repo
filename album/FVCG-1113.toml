@@ -1,0 +1,35 @@
+[album]
+album_id = "5470e2d9-a8fc-471b-9a44-80a9ae074011"
+title = "STEINS;GATE ドラマCD γ「暗黒次元のハイド」ダイバージェンス2.615074%"
+artist = "岡部倫太郎（宮野真守）、桐生萌郁（後藤沙緒里）、牧瀬紅莉栖（今井麻美）、阿万音鈴羽（田村ゆかり）、漆原るか（小林ゆう）、フェイリス・ニャンニャン（桃井はるこ）、椎名まゆり（花澤香菜）、橋田至（関智一）、天王寺裕吾（てらそままさき）"
+date = 2010-06-02
+type = "drama"
+catalog = "FVCG-1113"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1113"
+
+[[discs.tracks]]
+title = "Day01 17:04"
+
+[[discs.tracks]]
+title = "Day01 17:26"
+
+[[discs.tracks]]
+title = "Day01 18:13"
+
+[[discs.tracks]]
+title = "Day01 18:48"
+
+[[discs.tracks]]
+title = "Day02 12:02"
+
+[[discs.tracks]]
+title = "Day02 13:51"
+
+[[discs.tracks]]
+title = "Day02 16:32"
+
+[[discs.tracks]]
+title = "Day02 17:05"

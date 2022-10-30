@@ -1,0 +1,28 @@
+[album]
+album_id = "cbe95ca9-9400-4478-8b88-3e467585fd6d"
+title = "プレギエーラの月夜に"
+artist = "ファンタズム（FES（榊原ゆい））"
+date = 2011-06-22
+type = "normal"
+catalog = "FVCG-1159"
+
+[[discs]]
+catalog = "FVCG-1159"
+
+[[discs.tracks]]
+title = "プレギエーラの月夜に"
+tags = ["ゲーム「STEINS;GATE」", "ED"]
+
+[[discs.tracks]]
+title = "EUPHORIA～償いのレクイエム～"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "ED"]
+
+[[discs.tracks]]
+title = "プレギエーラの月夜に (off Vocal)"
+type = "instrumental"
+tags = ["ゲーム「STEINS;GATE」", "ED"]
+
+[[discs.tracks]]
+title = "EUPHORIA～償いのレクイエム～ (off Vocal)"
+type = "instrumental"
+tags = ["STEINS;GATE 比翼恋理のだーりん", "ED"]

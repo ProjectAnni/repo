@@ -1,0 +1,27 @@
+[album]
+album_id = "f386c9a8-3e16-4446-9a96-409d20e2e1b1"
+title = "「STEINS;GATE」オーディオシリーズ☆ラボメンナンバー002☆椎名まゆり"
+artist = "椎名まゆり（花澤香菜）"
+date = 2010-08-25
+type = "normal"
+catalog = "FVCG-1122"
+tags = ["ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1122"
+
+[[discs.tracks]]
+title = "ミニドラマ[7月28日11時33分]椎名まゆり編"
+type = "drama"
+
+[[discs.tracks]]
+title = "優しい夕暮れ"
+
+[[discs.tracks]]
+title = "優しい夕暮れ (off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "キャストコメント (花澤香菜)"
+artist = "花澤香菜"
+type = "vocal"

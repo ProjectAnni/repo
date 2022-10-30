@@ -1,0 +1,14 @@
+[album]
+album_id = "d1bdb015-a834-400a-8476-25a1eda737e4"
+title = "恋愛脳 (Aiobahn Remix)"
+artist = "ナナヲアカリ"
+date = 2022-09-14
+type = "normal"
+catalog = "AIXX-02230"
+tags = ["ナナヲアカリ", "アニメ「Engage Kiss」", "ED"]
+
+[[discs]]
+catalog = "AIXX-02230"
+
+[[discs.tracks]]
+title = "恋愛脳 (Aiobahn Remix)"

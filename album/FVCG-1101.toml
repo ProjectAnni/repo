@@ -1,0 +1,30 @@
+[album]
+album_id = "be9f1830-27d2-43d6-815a-ca8cbf35c6a7"
+title = "運命のファルファッラ"
+artist = "ファンタズム（FES（榊原ゆい））"
+date = 2009-11-25
+type = "normal"
+catalog = "FVCG-1101"
+tags = ["ファンタズム"]
+
+[[discs]]
+catalog = "FVCG-1101"
+
+[[discs.tracks]]
+title = "運命のファルファッラ"
+tags = ["ゲーム「STEINS;GATE」", "ED"]
+
+[[discs.tracks]]
+title = "マスカレード～ノア第三章列王新世紀編より～"
+
+[[discs.tracks]]
+title = "嘆きのアラベスク～シングルLimitedバージョン～"
+
+[[discs.tracks]]
+title = "運命のファルファッラ (Off Vocal)"
+type = "instrumental"
+tags = ["ゲーム「STEINS;GATE」", "ED"]
+
+[[discs.tracks]]
+title = "マスカレード～ノア第三章列王新世紀編より～マスカレード (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,26 @@
+[album]
+album_id = "e59ebbb9-697a-4c48-8bed-bbb1e505924e"
+title = "Tenk you !"
+artist = "髙橋ミナミ"
+date = 2022-09-28
+type = "normal"
+catalog = "UICZ-4608"
+tags = ["髙橋ミナミ"]
+
+[[discs]]
+catalog = "UICZ-4608"
+
+[[discs.tracks]]
+title = "Someday is Today"
+
+[[discs.tracks]]
+title = "10 feet"
+
+[[discs.tracks]]
+title = "esquisse"
+
+[[discs.tracks]]
+title = "Endless"
+
+[[discs.tracks]]
+title = "24/7"
