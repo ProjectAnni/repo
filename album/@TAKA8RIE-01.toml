@@ -1,0 +1,15 @@
+[album]
+album_id = "2aee4abe-f616-445f-9a65-1bab2bd6661b"
+title = "共感されなくてもいいじゃない"
+artist = "高橋李依"
+date = 2022-10-07
+type = "normal"
+catalog = "@TAKA8RIE-01"
+tags = ["高橋李依"]
+
+[[discs]]
+catalog = "@TAKA8RIE-01"
+
+[[discs.tracks]]
+title = "共感されなくてもいいじゃない"
+tags = ["TVアニメ「悪役令嬢なのでラスボスを飼ってみました」", "OP"]
