@@ -1,0 +1,54 @@
+[album]
+album_id = "bcc46249-3566-46ac-83c1-5e92b9edeae8"
+title = "infinite Resonance"
+artist = "fripSide（上杉真央、阿部寿世、八木沼悟志）"
+date = 2022-10-19
+type = "normal"
+catalog = "GNCA-1628"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1628"
+
+[[discs.tracks]]
+title = "infinite Resonance"
+
+[[discs.tracks]]
+title = "dawn of infinity"
+
+[[discs.tracks]]
+title = "Flames"
+artist = "阿部寿世"
+
+[[discs.tracks]]
+title = "Insoluble Snow"
+
+[[discs.tracks]]
+title = "trust in you -version 2022-"
+
+[[discs.tracks]]
+title = "with a smile"
+artist = "阿部寿世"
+
+[[discs.tracks]]
+title = "Your Way"
+
+[[discs.tracks]]
+title = "Distance"
+artist = "上杉真央"
+
+[[discs.tracks]]
+title = "Reach for the light"
+artist = "上杉真央"
+
+[[discs.tracks]]
+title = "Forget-me-not"
+
+[[discs.tracks]]
+title = "an Effect of Fate"
+
+[[discs.tracks]]
+title = "New World"
+
+[[discs.tracks]]
+title = "Shape of Delight"
