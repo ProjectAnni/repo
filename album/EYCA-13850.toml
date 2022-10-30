@@ -1,0 +1,54 @@
+[album]
+album_id = "3a619cfe-e1ef-46f6-b608-69afd09481c7"
+title = "SHINEPOST Character Song Collection"
+artist = "Various Artists"
+date = 2022-10-26
+type = "normal"
+catalog = "EYCA-13850"
+tags = ["アニメ「シャインポスト」"]
+
+[[discs]]
+catalog = "EYCA-13850"
+
+[[discs.tracks]]
+title = "Sweet Surrender"
+artist = "螢（大橋彩香）"
+
+[[discs.tracks]]
+title = "TOKYO WATASHI COLLECTION"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]
+
+[[discs.tracks]]
+title = "前奏曲"
+artist = "螢（大橋彩香）"
+
+[[discs.tracks]]
+title = "一歩前ノセカイ"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]
+
+[[discs.tracks]]
+title = "Yellow Rose"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]
+
+[[discs.tracks]]
+title = "Be Your Light!!"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]
+
+[[discs.tracks]]
+title = "GYB!!"
+artist = "HY:RAIN（黒金蓮（芹澤優）、唐林青葉（高瀬くるみ）、唐林絃葉（久保田未夢）、氷海菜花（高柳知葉）、苗川柔（香里有佐））"
+tags = ["HY:RAIN"]
+
+[[discs.tracks]]
+title = "On Your Mark!!"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]
+
+[[discs.tracks]]
+title = "Be Happy Time!!"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+tags = ["TINGS"]

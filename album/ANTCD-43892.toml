@@ -1,0 +1,14 @@
+[album]
+album_id = "5350ffee-ee09-41c5-ab08-2354fc739807"
+title = "Life goes on!"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43892"
+tags = ["TINGS"]
+
+[[discs]]
+catalog = "ANTCD-43892"
+
+[[discs.tracks]]
+title = "Life goes on!"

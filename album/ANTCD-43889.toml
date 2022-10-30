@@ -1,0 +1,14 @@
+[album]
+album_id = "6af6a45e-d957-4e2d-a7bf-cc4a926b063d"
+title = "春風に乗って"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43889"
+tags = ["TINGS"]
+
+[[discs]]
+catalog = "ANTCD-43889"
+
+[[discs.tracks]]
+title = "春風に乗って"

@@ -1,0 +1,29 @@
+[album]
+album_id = "8f20041e-9fd4-49f8-b862-591ca412d9ef"
+title = "Atrium"
+artist = "上田麗奈"
+date = 2022-10-05
+type = "normal"
+catalog = "LACA-25011"
+tags = ["上田麗奈"]
+
+[[discs]]
+catalog = "LACA-25011"
+
+[[discs.tracks]]
+title = "履き慣れてない靴のままで"
+
+[[discs.tracks]]
+title = "マイペース"
+
+[[discs.tracks]]
+title = "金魚姫"
+
+[[discs.tracks]]
+title = "アンダンテ"
+
+[[discs.tracks]]
+title = "かえりみち"
+
+[[discs.tracks]]
+title = "とっておきの便箋"

@@ -1,0 +1,14 @@
+[album]
+album_id = "d6bf613f-ccdc-46b3-91d2-46411360b876"
+title = "Snow Leaves"
+artist = "TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43885"
+tags = ["TINGS"]
+
+[[discs]]
+catalog = "ANTCD-43885"
+
+[[discs.tracks]]
+title = "Snow Leaves"

@@ -1,0 +1,14 @@
+[album]
+album_id = "ee796040-3d9a-41ee-b3b3-cc09be68bef5"
+title = "FiRST STEP"
+artist = "FFF（兎塚七海（野口衣織）、陽本日夏（木野日菜）、梨子木麗美（ファイルーズあい））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43881"
+tags = ["FFF"]
+
+[[discs]]
+catalog = "ANTCD-43881"
+
+[[discs.tracks]]
+title = "FiRST STEP"

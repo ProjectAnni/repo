@@ -1,0 +1,14 @@
+[album]
+album_id = "914ca55c-0d9e-442b-b2a9-44aaf7b3f77b"
+title = "ゆらゆらワンダフルワールド"
+artist = "ゆらゆらシスターズ（ナターリャ（古賀葵）、広瀬実唯菜（齋藤樹愛羅））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43887"
+tags = ["ゆらゆらシスターズ"]
+
+[[discs]]
+catalog = "ANTCD-43887"
+
+[[discs.tracks]]
+title = "ゆらゆらワンダフルワールド"
