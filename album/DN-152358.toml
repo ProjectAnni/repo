@@ -1,0 +1,18 @@
+[album]
+album_id = "791638dd-e8af-4715-a3fb-e2a7a9b7d198"
+title = "悠久の輪廻"
+artist = "逝橋エイ（M・A・O）"
+date = 2022-10-25
+type = "normal"
+catalog = "DN-152358"
+tags = ["Tokyo 7th シスターズ"]
+
+[[discs]]
+catalog = "DN-152358"
+
+[[discs.tracks]]
+title = "悠久の輪廻"
+
+[[discs.tracks]]
+title = "悠久の輪廻 -OFF VOCAL-"
+type = "instrumental"
