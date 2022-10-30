@@ -1,0 +1,31 @@
+[album]
+album_id = "3b918097-589e-47a8-ad17-9ea81b91a4c0"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 08"
+artist = "Various Artists"
+date = 2022-08-31
+type = "normal"
+catalog = "LACA-15908"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15908"
+
+[[discs.tracks]]
+title = "美！美！美！ビルドUP!!"
+artist = "高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "Contrastet"
+artist = "桜守歌織（香里有佐）"
+
+[[discs.tracks]]
+title = "オン・ステージ・プレーヤー！"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "愛のMagic! Once Again!"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "ピンクローズアプローズ"
+artist = "水瀬伊織（釘宮理恵）"
