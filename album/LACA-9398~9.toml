@@ -1,0 +1,126 @@
+[album]
+album_id = "fd0cbc55-7a8e-46b3-84f2-2772ee14ed1f"
+title = "THE IDOLM@STER 765PRO LIVE THE@TER COLLECTION Vol.1"
+artist = "Various Artists"
+date = 2015-06-24
+type = "normal"
+catalog = "LACA-9398~9"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LACA-9398"
+
+[[discs.tracks]]
+title = "Thank You!"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、我那覇響（沼倉愛美）、秋月律子（若林直美））"
+
+[[discs.tracks]]
+title = "キラメキ進行形"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "Rebellion"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Snow White"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "プライヴェイト・ロードショウ (playback, Weekday)"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "追憶のサンドグラス"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "嘆きのFRACTION"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ハートウォーミング"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "GREEDY GIRL"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "恋花"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "FLY TO EVERYWHERE"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "DETECTIVE HIGH! ～恋探偵物語～"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "ハミングロード"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "微笑んだから、気づいたんだ。"
+artist = "双海亜美（下田麻美）"
+
+[[discs]]
+catalog = "LACA-9399"
+
+[[discs.tracks]]
+title = "地球ミラーボウル"
+artist = "水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "ストロベリー・キューピッド"
+artist = "高槻やよい（仁後真耶子）"
+
+[[discs.tracks]]
+title = "Liar’s good bye"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "タイムマシンに飛び乗って！"
+artist = "双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "smiley days"
+artist = "我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "Just be myself!!"
+artist = "如月千早（今井麻美）"
+
+[[discs.tracks]]
+title = "キミがいて夢になる"
+artist = "天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "WORLD WIDE DANCE!!!"
+artist = "菊地真（平田宏美）"
+
+[[discs.tracks]]
+title = "月のほとりで"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "Impervious Resolution"
+artist = "萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "WOW! I NEED!! ～シンギングモンキー 歌唱拳～"
+artist = "双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "FAKE SELF×TRUE SELF"
+artist = "星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "addicted"
+artist = "四条貴音（原由実）"
+
+[[discs.tracks]]
+title = "Welcome!!"
+artist = "765PRO ALLSTARS（天海春香（中村繪里子）、星井美希（長谷川明子）、如月千早（今井麻美）、高槻やよい（仁後真耶子）、萩原雪歩（浅倉杏美）、菊地真（平田宏美）、双海亜美（下田麻美）、双海真美（下田麻美）、水瀬伊織（釘宮理恵）、三浦あずさ（たかはし智秋）、四条貴音（原由実）、我那覇響（沼倉愛美）、秋月律子（若林直美））"

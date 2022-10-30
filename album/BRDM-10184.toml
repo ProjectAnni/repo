@@ -1,0 +1,14 @@
+[album]
+album_id = "e5349a34-67ad-42b6-8436-721ccc313ea3"
+title = "The Circle Of Butterflies"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2022-09-24
+type = "normal"
+catalog = "BRDM-10184"
+tags = ["Morfonica"]
+
+[[discs]]
+catalog = "BRDM-10184"
+
+[[discs.tracks]]
+title = "The Circle Of Butterflies"
