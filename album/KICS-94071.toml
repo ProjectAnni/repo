@@ -1,6 +1,7 @@
 [album]
 album_id = "1f5554f0-cc42-4917-89e4-cef56a4c4caf"
 title = "DELIGHTED REVIVER"
+edition = "初回限定盤"
 artist = "水樹奈々"
 date = 2022-07-06
 type = "normal"
@@ -27,6 +28,7 @@ title = "HOLY TALE"
 
 [[discs.tracks]]
 title = "ダブルシャッフル"
+tags = ["TVアニメ「トモダチゲーム」", "OP"]
 
 [[discs.tracks]]
 title = "Get up! Shout!"
@@ -36,6 +38,7 @@ title = "ストラトスフィア"
 
 [[discs.tracks]]
 title = "Link or Chains"
+tags = ["TVアニメ「Levius レビウス」", "OP"]
 
 [[discs.tracks]]
 title = "DNA -Dance 'n' Amuse-"
