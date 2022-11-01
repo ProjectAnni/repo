@@ -1,0 +1,18 @@
+[album]
+album_id = "f49a041b-e5b9-40db-a74c-2bdf5da0467d"
+title = "New Age"
+artist = "Roots.（月代ユウ（天野聡美）、タン・シヨン（橘一花）、フラナ・リン（長谷川玲奈））"
+date = 2022-09-13
+type = "normal"
+catalog = "DN-152340"
+tags = ["Roots."]
+
+[[discs]]
+catalog = "DN-152340"
+
+[[discs.tracks]]
+title = "New Age"
+
+[[discs.tracks]]
+title = "New Age -OFF VOCAL-"
+type = "instrumental"

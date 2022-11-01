@@ -1,0 +1,14 @@
+[album]
+album_id = "9131e76c-635b-4055-8ad2-12aaae4ad3c3"
+title = "サウイウモノニ"
+artist = "ASCA"
+date = 2022-07-20
+type = "normal"
+catalog = "VVXX-01224"
+tags = ["ASCA", "ゲーム「INFINITY SOULS」"]
+
+[[discs]]
+catalog = "VVXX-01224"
+
+[[discs.tracks]]
+title = "サウイウモノニ"

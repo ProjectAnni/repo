@@ -1,0 +1,33 @@
+[album]
+album_id = "f65d9f69-35f9-4a26-9ab8-399a66c4d37b"
+title = "Re:SONANCE"
+edition = "初回限定盤"
+artist = "KARAKURI（空栗ヒトハ（秋奈）、空栗フタバ（秋奈））"
+date = 2022-09-27
+type = "normal"
+catalog = "DN-152338"
+tags = ["KARAKURI"]
+
+[[discs]]
+catalog = "DN-152338"
+
+[[discs.tracks]]
+title = "Re:SONANCE"
+
+[[discs.tracks]]
+title = "Zenith"
+
+[[discs.tracks]]
+title = "Binocular Vision"
+
+[[discs.tracks]]
+title = "Synergistic White"
+
+[[discs.tracks]]
+title = "Raise One's Voice"
+
+[[discs.tracks]]
+title = "Bluenote Theory"
+
+[[discs.tracks]]
+title = "Mirai Konzert"

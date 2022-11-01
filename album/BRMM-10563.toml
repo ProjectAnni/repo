@@ -1,0 +1,103 @@
+[album]
+album_id = "9a2fff73-0934-46d7-8d3d-aa34e88d8c79"
+title = "夏に閉じこめて"
+edition = "Blu-ray付生産限定盤"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2022-08-31
+type = "normal"
+catalog = "BRMM-10563"
+tags = ["Poppin'Party"]
+
+[[discs]]
+catalog = "@BRMM-10563-01"
+
+[[discs.tracks]]
+title = "夏に閉じこめて"
+
+[[discs.tracks]]
+title = "勇気Limit！"
+
+[[discs.tracks]]
+title = "夏に閉じこめて -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "勇気Limit！ -instrumental-"
+type = "instrumental"
+
+[[discs]]
+catalog = "@BRMM-10563-02"
+artist = "藤田淳平"
+type = "absolute"
+
+[[discs.tracks]]
+title = "夢の余韻"
+
+[[discs.tracks]]
+title = "エージェント現る！？"
+
+[[discs.tracks]]
+title = "おつかれさま会"
+
+[[discs.tracks]]
+title = "それぞれの想い"
+
+[[discs.tracks]]
+title = "穏やかな夜"
+
+[[discs.tracks]]
+title = "はじめての空港"
+
+[[discs.tracks]]
+title = "ヒコウキ、コワイ"
+
+[[discs.tracks]]
+title = "のほほん"
+
+[[discs.tracks]]
+title = "トロピカル"
+
+[[discs.tracks]]
+title = "レッツ作戦会議"
+
+[[discs.tracks]]
+title = "Enjoy!"
+
+[[discs.tracks]]
+title = "It's time to wake up"
+artist = "Endigo"
+type = "normal"
+
+[[discs.tracks]]
+title = "ほっと一安心"
+
+[[discs.tracks]]
+title = "What we need"
+artist = "Endigo"
+type = "normal"
+
+[[discs.tracks]]
+title = "美しい景色"
+
+[[discs.tracks]]
+title = "Your smile"
+artist = "Sincere Tanya、Endigo"
+type = "normal"
+
+[[discs.tracks]]
+title = "モーティンの超絶ギター"
+
+[[discs.tracks]]
+title = "どうしよう…！？"
+
+[[discs.tracks]]
+title = "とまどい"
+
+[[discs.tracks]]
+title = "信じてススメ！"
+
+[[discs.tracks]]
+title = "仲間たち"
+
+[[discs.tracks]]
+title = "夢のエピローグ"

@@ -1,0 +1,31 @@
+[album]
+album_id = "3be5ac6a-680d-4270-a5f6-707c3b721677"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09"
+artist = "Various Artists"
+date = 2022-09-28
+type = "normal"
+catalog = "LACA-15909"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15909"
+
+[[discs.tracks]]
+title = "稲妻スピリット"
+artist = "横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "Walking on the Square"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "きまぐれユモレスク"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "I Do"
+artist = "三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ふたり繋ぐ星座"
+artist = "北上麗花（平山笑美）"

@@ -1,0 +1,25 @@
+[album]
+album_id = "87b58645-a1b2-4032-ba69-ddbd9572c399"
+title = "Starlight☆Asterism!!!／Reach for the Meteor"
+artist = "Asterline（奈々星アイ（天希かのん）、一ノ瀬マイ（星ノ谷しずく）、朝凪シオネ（山田麻莉奈））"
+date = 2022-08-23
+type = "normal"
+catalog = "DN-152284"
+tags = ["Asterline"]
+
+[[discs]]
+catalog = "DN-152284"
+
+[[discs.tracks]]
+title = "Starlight☆Asterism!!!"
+
+[[discs.tracks]]
+title = "Reach for the Meteor"
+
+[[discs.tracks]]
+title = "Starlight☆Asterism!!! -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Reach for the Meteor -OFF VOCAL-"
+type = "instrumental"

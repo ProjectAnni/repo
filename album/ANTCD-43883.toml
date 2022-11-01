@@ -1,0 +1,14 @@
+[album]
+album_id = "fcdf7030-3cf9-47f3-bfad-ce3c093fc171"
+title = "Misty=Missing You"
+artist = "HY:RAIN（黒金蓮（芹澤優）、唐林青葉（高瀬くるみ）、唐林絃葉（久保田未夢）、氷海菜花（高柳知葉）、苗川柔（香里有佐））"
+date = 2022-09-19
+type = "normal"
+catalog = "ANTCD-43883"
+tags = ["HY:RAIN"]
+
+[[discs]]
+catalog = "ANTCD-43883"
+
+[[discs.tracks]]
+title = "Misty=Missing You"

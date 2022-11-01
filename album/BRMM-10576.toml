@@ -1,0 +1,26 @@
+[album]
+album_id = "e04a3ed7-f6cd-4e8e-81ce-1343940fe661"
+title = "Swear ～Night & Day～"
+edition = "Blu-ray付生産限定盤"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+date = 2022-10-26
+type = "normal"
+catalog = "BRMM-10576"
+tags = ["Roselia"]
+
+[[discs]]
+catalog = "BRMM-10576"
+
+[[discs.tracks]]
+title = "Swear ～Night & Day～"
+
+[[discs.tracks]]
+title = "Our Carol"
+
+[[discs.tracks]]
+title = "Swear ～Night & Day～ -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Our Carol -instrumental-"
+type = "instrumental"

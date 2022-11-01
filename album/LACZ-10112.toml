@@ -1,0 +1,17 @@
+[album]
+album_id = "1b1738ad-ee23-47bd-9e08-465f2c20cbd3"
+title = "THE IDOLM@STER SHINY COLORS B☆Health"
+artist = "八宮めぐる（峯田茉優）、月岡恋鐘（礒部花凜）、西城樹里（永井真里子）、桑山千雪（芝崎典子）、芹沢あさひ（田中有紀）、福丸小糸（田嶌紗蘭）、七草にちか（紫月杏朱彩）"
+date = 2022-08-13
+type = "normal"
+catalog = "LACZ-10112"
+tags = ["THE IDOLM@STER Shiny Colors"]
+
+[[discs]]
+catalog = "LACZ-10112"
+
+[[discs.tracks]]
+title = "283体操"
+
+[[discs.tracks]]
+title = "シャイニーエクササイズ"

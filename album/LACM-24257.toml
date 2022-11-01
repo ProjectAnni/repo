@@ -1,0 +1,32 @@
+[album]
+album_id = "082f9455-2cc6-48c3-9ecd-7a0d992acc18"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07"
+artist = "ノクチル（浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保））"
+date = 2022-10-12
+type = "normal"
+catalog = "LACM-24257"
+tags = ["ノクチル"]
+
+[[discs]]
+catalog = "LACM-24257"
+
+[[discs.tracks]]
+title = "Catch the Breeze"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして"
+
+[[discs.tracks]]
+title = "虹の行方（ノクチルVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「夜の海に浮かぶ」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Catch the Breeze（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして（Off Vocal）"
+type = "instrumental"

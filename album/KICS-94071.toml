@@ -1,0 +1,59 @@
+[album]
+album_id = "1f5554f0-cc42-4917-89e4-cef56a4c4caf"
+title = "DELIGHTED REVIVER"
+edition = "初回限定盤"
+artist = "水樹奈々"
+date = 2022-07-06
+type = "normal"
+catalog = "KICS-94071"
+tags = ["水樹奈々"]
+
+[[discs]]
+catalog = "KICS-94071"
+
+[[discs.tracks]]
+title = "MY ENTERTAINMENT"
+
+[[discs.tracks]]
+title = "Red Breeze"
+
+[[discs.tracks]]
+title = "スパイラル"
+
+[[discs.tracks]]
+title = "Reboot！"
+
+[[discs.tracks]]
+title = "HOLY TALE"
+
+[[discs.tracks]]
+title = "ダブルシャッフル"
+tags = ["TVアニメ「トモダチゲーム」", "OP"]
+
+[[discs.tracks]]
+title = "Get up! Shout!"
+
+[[discs.tracks]]
+title = "ストラトスフィア"
+
+[[discs.tracks]]
+title = "Link or Chains"
+tags = ["TVアニメ「Levius レビウス」", "OP"]
+
+[[discs.tracks]]
+title = "DNA -Dance 'n' Amuse-"
+
+[[discs.tracks]]
+title = "FIRE SCREAM"
+
+[[discs.tracks]]
+title = "Stand by you"
+
+[[discs.tracks]]
+title = "全力DREAMER"
+
+[[discs.tracks]]
+title = "HOME"
+
+[[discs.tracks]]
+title = "Go Live！"

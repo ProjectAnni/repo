@@ -1,0 +1,25 @@
+[album]
+album_id = "1119c7f2-0e4a-4942-b32a-038cbbebc607"
+title = "Daze forU!!／Funny☆Clutch"
+artist = "4U（佐伯ヒナ（長縄まりあ）、鰐淵エモコ（吉岡茉祐）、九条ウメ（山下まみ））"
+date = 2022-07-19
+type = "normal"
+catalog = "DN-152235"
+tags = ["4U"]
+
+[[discs]]
+catalog = "DN-152235"
+
+[[discs.tracks]]
+title = "Daze forU!!"
+
+[[discs.tracks]]
+title = "Funny☆Clutch"
+
+[[discs.tracks]]
+title = "Daze forU!! -OFF VOCAL-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Funny☆Clutch -OFF VOCAL-"
+type = "instrumental"

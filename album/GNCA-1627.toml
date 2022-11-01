@@ -1,0 +1,47 @@
+[album]
+album_id = "4c16d6c4-78e6-497b-bef3-1f1744ed38f8"
+title = "double Decades"
+artist = "fripSide（上杉真央、阿部寿世、八木沼悟志）"
+date = 2022-10-19
+type = "normal"
+catalog = "GNCA-1627"
+tags = ["fripSide"]
+
+[[discs]]
+catalog = "GNCA-1627"
+
+[[discs.tracks]]
+title = "double Decades"
+artist = "nao、南條愛乃、上杉真央、阿部寿世"
+
+[[discs.tracks]]
+title = "magicaride -version 2022-"
+
+[[discs.tracks]]
+title = "BLACKFOX -version 2022-"
+
+[[discs.tracks]]
+title = "trusty snow -version 2022-"
+
+[[discs.tracks]]
+title = "fermata～Akkord:fortissimo～-version 2022-"
+
+[[discs.tracks]]
+title = "transitory orbit -version 2022-"
+artist = "上杉真央"
+
+[[discs.tracks]]
+title = "LEVEL5-judgelight- -version 2022-"
+
+[[discs.tracks]]
+title = "come to mind -version 2022-"
+
+[[discs.tracks]]
+title = "crescendo -version 2022-"
+
+[[discs.tracks]]
+title = "sister's noise -version 2022-"
+
+[[discs.tracks]]
+title = "before dawn daybreak -version 2022-"
+artist = "阿部寿世"

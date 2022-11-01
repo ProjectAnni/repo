@@ -1,0 +1,49 @@
+[album]
+album_id = "cb07a95d-1481-4a21-81e0-8bc5e2d59064"
+title = "THE IDOLM@STER MILLION THE@TER SEASON SHADE OF SPADE"
+artist = "SHADE OF SPADE（星井美希（長谷川明子）、舞浜歩（戸田めぐみ）、最上静香（田所あずさ）、篠宮可憐（近藤唯）、中谷育（原嶋あかり）、永吉昴（斉藤佑圭）、双海亜美（下田麻美）、エミリー スチュアート（郁原ゆう）、北沢志保（雨宮天）、白石紬（南早紀）、我那覇響（沼倉愛美）、豊川風花（末柄里恵）、野々原茜（小笠原早紀））"
+date = 2022-10-26
+type = "normal"
+catalog = "LACA-25019"
+tags = ["THE IDOLM@STER MILLION THE@TER SEASON"]
+
+[[discs]]
+catalog = "LACA-25019"
+
+[[discs.tracks]]
+title = "ドラマ『始まりの朝』"
+type = "drama"
+
+[[discs.tracks]]
+title = "ESPADA"
+
+[[discs.tracks]]
+title = "ドラマ『レッスン風景と役作り』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Criminally Dinner ～正餐とイーヴルナイフ～"
+artist = "星井美希（長谷川明子）、舞浜歩（戸田めぐみ）、最上静香（田所あずさ）、篠宮可憐（近藤唯）、中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "ドラマ『お弁当と京都の思い出』"
+type = "drama"
+
+[[discs.tracks]]
+title = "スペードのQ"
+artist = "永吉昴（斉藤佑圭）、双海亜美（下田麻美）、エミリー スチュアート（郁原ゆう）、北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "ドラマ『すべて、ステージで！』"
+type = "drama"
+
+[[discs.tracks]]
+title = "KING of SPADE"
+artist = "白石紬（南早紀）、我那覇響（沼倉愛美）、豊川風花（末柄里恵）、野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "Harmony 4 You"
+
+[[discs.tracks]]
+title = "ドラマ『ここからが本当の』"
+type = "drama"

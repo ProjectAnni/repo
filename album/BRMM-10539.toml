@@ -1,0 +1,27 @@
+[album]
+album_id = "91b4d982-50d6-4256-8d95-ef3b146a06c8"
+title = "ROZEN HORIZON"
+edition = "通常盤A"
+artist = "Roselia（湊友希那（相羽あいな）、氷川紗夜（工藤晴香）、今井リサ（中島由貴）、宇田川あこ（櫻川めぐ）、白金燐子（志崎樺音））"
+date = 2022-05-18
+type = "normal"
+catalog = "BRMM-10539"
+tags = ["Roselia"]
+
+[[discs]]
+catalog = "BRMM-10539"
+
+[[discs.tracks]]
+title = "Sprechchor"
+
+[[discs.tracks]]
+title = "閃光"
+
+[[discs.tracks]]
+title = "THE HISTORIC..."
+
+[[discs.tracks]]
+title = "ROZEN HORIZON"
+
+[[discs.tracks]]
+title = "Synchrogazer"
