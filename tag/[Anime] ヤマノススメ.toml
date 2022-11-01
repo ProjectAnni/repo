@@ -1,6 +1,6 @@
 [[tag]]
-name = "アニメ「ヤマノススメ」"
-type = "animation"
+name = "ヤマノススメ"
+type = "project"
 includes.animation = [
     "TVアニメ「ヤマノススメ」",
     "TVアニメ「ヤマノススメ セカンドシーズン」",

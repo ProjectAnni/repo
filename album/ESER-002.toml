@@ -5,15 +5,13 @@ artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 date = 2013-03-13
 type = "normal"
 catalog = "ESER-002"
-tags = ["TVアニメ「ヤマノススメ」"]
+tags = ["TVアニメ「ヤマノススメ」", "OP"]
 
 [[discs]]
 catalog = "ESER-002"
 
 [[discs.tracks]]
 title = "スタッカート・デイズ"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
-tags = ["OP"]
 
 [[discs.tracks]]
 title = "スタッカート・デイズ (あおいバージョン)"
