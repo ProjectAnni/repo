@@ -11,7 +11,7 @@ tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "OST"]
 catalog = "EAAB-017CD"
 
 [[discs.tracks]]
-title = "スタックート.デイズ"
+title = "スタックート・デイズ"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
@@ -23,7 +23,7 @@ title = "わくわくしながら歩こう"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "不思議少女.ここな"
+title = "不思議少女・ここな"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -67,7 +67,7 @@ title = "つらくても登るしかない"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "雨の日にゆうかを思う"
+title = "雨の日にゆうかを想う"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
@@ -91,7 +91,7 @@ title = "泣きそうだよ"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "峠を超えれば"
+title = "峠を越えれば"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
@@ -103,7 +103,7 @@ title = "みんなで歩こう"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "メインテーマ.忘れられない思い出"
+title = "メインテーマ・忘れられない思い出"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -111,5 +111,5 @@ title = "なんて素晴らしい北岳"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "サブタイトル２"
+title = "サブタイトル2"
 artist = "yamazo"

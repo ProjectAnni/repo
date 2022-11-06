@@ -11,7 +11,7 @@ tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "OST"]
 catalog = "EAAB-016CD"
 
 [[discs.tracks]]
-title = "メインテーマ.山に登るということ"
+title = "メインテーマ・山に登るということ"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -27,7 +27,7 @@ title = "ひなたと二人で"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "あおい.じたばた"
+title = "あおい・じたばた"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -35,7 +35,7 @@ title = "自堕落な夏休み"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "あどれらりん.はい"
+title = "あどれなりん・はい"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -51,11 +51,11 @@ title = "てへぺろ"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "ゆるふわ.ここな"
+title = "ゆるふわ・ここな"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "サスペンスかな"
+title = "サスペンスかな？"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -63,7 +63,7 @@ title = "作戦会議"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "岳人"
+title = "岳人の歌"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
@@ -91,7 +91,7 @@ title = "そして、次の景色へ"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "メインターマ.ぬくもり"
+title = "メインテーマ・ぬくもり"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -111,11 +111,11 @@ title = "口笛吹いて行こう"
 artist = "Tom-H@ck"
 
 [[discs.tracks]]
-title = "お母のダウンジャケット"
+title = "お母さんのダウンジャケット"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "マインテーマ.思い出の山"
+title = "メインテーマ・思い出の山"
 artist = "yamazo"
 
 [[discs.tracks]]
@@ -123,5 +123,5 @@ title = "明日天気になあれ"
 artist = "yamazo"
 
 [[discs.tracks]]
-title = "サブタイトル１"
+title = "サブタイトル1"
 artist = "yamazo"
