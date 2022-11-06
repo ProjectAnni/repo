@@ -1,0 +1,6 @@
+[[tag]]
+name = "てきゅう"
+type = "project"
+includes.animation = [
+    "TVアニメ「てきゅうベストセレクション」",
+]

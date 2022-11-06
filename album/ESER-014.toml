@@ -1,0 +1,27 @@
+[album]
+album_id = "029fe44b-d660-45cd-914a-02af69c15ea4"
+title = "毎日コハルビヨリ"
+artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
+date = 2014-12-17
+type = "normal"
+catalog = "ESER-014"
+tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "OP"]
+
+[[discs]]
+catalog = "ESER-014"
+
+[[discs.tracks]]
+title = "毎日コハルビヨリ"
+
+[[discs.tracks]]
+title = "毎日コハルビヨリ (あおいバージョン)"
+artist = "あおい（井口裕香）"
+
+[[discs.tracks]]
+title = "毎日コハルビヨリ (ひなたバージョン)"
+artist = "ひなた（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "毎日コハルビヨリ (Instrumental)"
+artist = "Tom-H@ck"
+type = "instrumental"

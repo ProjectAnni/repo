@@ -1,0 +1,27 @@
+[album]
+album_id = "01e811f0-8f58-4e4a-a5b5-b86237874c77"
+title = "おもいでクリエイターズ"
+artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
+date = 2017-10-28
+type = "normal"
+catalog = "SMRR-011"
+tags = ["TVアニメ「ヤマノススメ おもいでプレせんと」"]
+
+[[discs]]
+catalog = "SMRR-011"
+
+[[discs.tracks]]
+title = "おもいでクリエイターズ"
+
+[[discs.tracks]]
+title = "おもいでクリエイターズ (あおいバージョン)"
+artist = "あおい（井口裕香）"
+
+[[discs.tracks]]
+title = "おもいでクリエイターズ (ひなたバージョン)"
+artist = "ひなた（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "おもいでクリエイターズ (Instrumental)"
+artist = "Tom-H@ck、うたたね歌菜"
+type = "instrumental"

@@ -1,0 +1,32 @@
+[album]
+album_id = "728517dc-dfce-4b8d-8b0c-fd7062a0885b"
+title = "ヤマノススメ おもいでプレゼント オリジナル・サウンドトラック"
+artist = "yamazo"
+date = 2017-10-28
+type = "absolute"
+catalog = "SMIB-022CD"
+tags = ["TVアニメ「ヤマノススメ おもいでプレせんと」", "OST"]
+
+[[discs]]
+catalog = "SMIB-022CD"
+
+[[discs.tracks]]
+title = "メインテーマ・めぐりゆく季節に"
+
+[[discs.tracks]]
+title = "思い出をたどって"
+
+[[discs.tracks]]
+title = "ここな迷路 ～幻の小路～"
+
+[[discs.tracks]]
+title = "迷子の記憶"
+
+[[discs.tracks]]
+title = "大好きお母さん"
+
+[[discs.tracks]]
+title = "intermission 楓のモノローグ"
+
+[[discs.tracks]]
+title = "ひなたノスタルジア"

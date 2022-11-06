@@ -1,0 +1,27 @@
+[album]
+album_id = "41e0485a-d020-4c36-8b6e-11a21c1727de"
+title = "色違いの翼"
+artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
+date = 2018-07-27
+type = "normal"
+catalog = "SMRR-017"
+tags = ["TVアニメ「ヤマノススメ サードシーズン」", "ED"]
+
+[[discs]]
+catalog = "SMRR-017"
+
+[[discs.tracks]]
+title = "色違いの翼"
+
+[[discs.tracks]]
+title = "色違いの翼 (あおいバージョン)"
+artist = "あおい（井口裕香）"
+
+[[discs.tracks]]
+title = "色違いの翼 (ひなたバージョン)"
+artist = "ひなた（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "色違いの翼 (Instrumental)"
+artist = "杉下トキヤ"
+type = "instrumental"

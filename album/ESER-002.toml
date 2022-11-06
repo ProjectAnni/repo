@@ -1,0 +1,27 @@
+[album]
+album_id = "bf319733-b316-4f22-88e9-525141a08ff1"
+title = "スタッカート・デイズ"
+artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
+date = 2013-03-13
+type = "normal"
+catalog = "ESER-002"
+tags = ["TVアニメ「ヤマノススメ」", "OP"]
+
+[[discs]]
+catalog = "ESER-002"
+
+[[discs.tracks]]
+title = "スタッカート・デイズ"
+
+[[discs.tracks]]
+title = "スタッカート・デイズ (あおいバージョン)"
+artist = "あおい（井口裕香）"
+
+[[discs.tracks]]
+title = "スタッカート・デイズ (ひなたバージョン)"
+artist = "ひなた（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "スタッカート・デイズ (Instrumental)"
+artist = "TOM-H@CK"
+type = "instrumental"
