@@ -1,0 +1,25 @@
+[album]
+album_id = "7ed615c3-a242-40fb-8829-ca1de4e95f5f"
+title = "ササクレ"
+artist = "夏川椎菜"
+date = 2022-11-09
+type = "normal"
+catalog = "SMCL-786"
+tags = ["夏川椎菜"]
+
+[[discs]]
+catalog = "SMCL-786"
+
+[[discs.tracks]]
+title = "ササクレ"
+
+[[discs.tracks]]
+title = "passable :("
+
+[[discs.tracks]]
+title = "ササクレ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "passable :( (Instrumental)"
+type = "instrumental"

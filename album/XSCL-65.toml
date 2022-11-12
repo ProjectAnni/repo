@@ -1,0 +1,24 @@
+[album]
+album_id = "a27be960-3993-4feb-859b-5b4c8c3f2a2d"
+title = "祝福"
+artist = "YOASOBI"
+date = 2022-11-09
+type = "normal"
+catalog = "XSCL-65"
+tags = ["YOASOBI", "機動戦士ガンダム 水星の魔女", "OP"]
+
+[[discs]]
+catalog = "XSCL-65"
+
+[[discs.tracks]]
+title = "祝福"
+
+[[discs.tracks]]
+title = "The Blessing"
+
+[[discs.tracks]]
+title = "祝福 -Anime Edit-"
+
+[[discs.tracks]]
+title = "祝福 -Instrumental-"
+type = "instrumental"

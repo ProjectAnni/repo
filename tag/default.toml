@@ -889,6 +889,14 @@ type = "animation"
 name = "TVアニメ「Levius レビウス」"
 type = "animation"
 
+[[tag]]
+name = "機動戦士ガンダム 水星の魔女"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「恋愛フロップス」"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -1071,7 +1079,10 @@ includes.animation = [
 [[tag]]
 name = "ノーゲーム・ノーライフ"
 type = "project"
-includes.animation = ["アニメ「ノーゲーム・ノーライフ」", "映画「ノーゲーム・ノーライフ ゼロ」"]
+includes.animation = [
+  "アニメ「ノーゲーム・ノーライフ」",
+  "映画「ノーゲーム・ノーライフ ゼロ」"
+]
 
 [[tag]]
 name = "Nカフェ!!! 南條愛乃と語るモア"
