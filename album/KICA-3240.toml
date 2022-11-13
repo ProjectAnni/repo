@@ -1,9 +1,9 @@
 [album]
 album_id = "c8ba82cb-dad2-4b8f-8e74-371ff3b2346d"
-title = "日本アニメ(ーター)見本市の世界 オリジナルBGM シリーズ①"
+title = "日本アニメ（ーター）見本市の世界 オリジナルBGM シリーズ①"
 artist = "Various Artists"
 date = 2015-05-13
-type = "normal"
+type = "absolute"
 catalog = "KICA-3240"
 tags = ["日本アニメ（ーター）見本市"]
 
@@ -44,7 +44,8 @@ artist = "Yasuyuki Sasaki"
 
 [[discs.tracks]]
 title = "HILL CLIMB GIRL"
-artist = "Yasuyuki Sasaki"
+artist = "Satomi Kawasaki"
+type = "normal"
 
 [[discs.tracks]]
 title = "HILL CLIMB GIRL_BGM_M5"
@@ -65,6 +66,7 @@ artist = "TeddyLoid、daoko"
 [[discs.tracks]]
 title = "ME!ME!ME! CHRONIC (TeddyLoid Mega Remix)"
 artist = "TeddyLoid、daoko"
+type = "normal"
 
 [[discs.tracks]]
 title = "Carnage_BGM_m001"
@@ -132,23 +134,28 @@ artist = "矢野博康"
 
 [[discs.tracks]]
 title = "中央線"
-artist = "MIYA"
+artist = "Cana"
+type = "normal"
 
 [[discs.tracks]]
 title = "SKY5"
 artist = "Avaivartika"
+type = "normal"
 
 [[discs.tracks]]
 title = "夢のヒーロー"
 artist = "坂井紀雄"
+type = "normal"
 
 [[discs.tracks]]
 title = "もっと君を知れば"
 artist = "坂井紀雄"
+type = "normal"
 
 [[discs.tracks]]
 title = "アジアの海賊"
 artist = "山寺宏一"
+type = "normal"
 
 [[discs.tracks]]
 title = "発電体33号"
@@ -164,4 +171,5 @@ artist = "TOMISIRO"
 
 [[discs.tracks]]
 title = "はじまり"
-artist = "TOMISIRO"
+artist = "宮良牧子、RINK (Mistera Feo)"
+type = "normal"
