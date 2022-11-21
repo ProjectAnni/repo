@@ -1,0 +1,503 @@
+[album]
+album_id = "6bfd1316-a918-445f-b064-b22ce2a61e50"
+title = "神前 暁 20th Anniversary Selected Works “DAWN”"
+edition = "完全生産限定盤"
+artist = "神前暁"
+date = 2020-03-18
+type = "normal"
+catalog = "SVWC-70501~6"
+tags = ["神前暁"]
+
+[[discs]]
+catalog = "SVWC-70501"
+
+# 『ことばのパズル もじぴったん』
+[[discs.tracks]]
+title = "ふたりのもじぴったん(fine c'est la mix)"
+artist = "古原奈々"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "God knows..."
+artist = "涼宮ハルヒ（平野綾）"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "Lost my music"
+artist = "涼宮ハルヒ（平野綾）"
+
+# 『THE IDOLM@STER』
+[[discs.tracks]]
+title = "GO MY WAY!!(M@STER VERSION)"
+artist = "天海春香（中村繪理子）、高槻やよい（仁後真耶子）、水瀬伊織（釘宮理恵）"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "もってけ！セーラーふく"
+artist = "泉こなた（平野綾）、柊かがみ（加藤英美里）、柊つかさ（福原香織）、高良みゆき（遠藤綾）"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "幸せ願う彼方から"
+artist = "泉かなた（島本須美）"
+
+# 『セキレイ』
+[[discs.tracks]]
+title = "セキレイ"
+artist = "結（早見沙織）、月海（井上麻里奈）、草野（花澤香菜）、松（遠藤綾）"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "motto☆派手にね!"
+artist = "戸松遥"
+
+# 『涼宮ハルヒの憂鬱』(2期)
+[[discs.tracks]]
+title = "Super Driver"
+artist = "平野綾"
+
+# 『化物語』
+[[discs.tracks]]
+title = "staple stable"
+artist = "戦場ヶ原ひたぎ（斎藤千和）"
+
+# 『化物語』
+[[discs.tracks]]
+title = "帰り道"
+artist = "八九寺真宵（加藤英美里）"
+
+# 『化物語』
+[[discs.tracks]]
+title = "ambivalent world"
+artist = "神原駿河（沢城みゆき）"
+
+# 『化物語』
+[[discs.tracks]]
+title = "恋愛サーキュレーション"
+artist = "千石撫子（花澤香菜）"
+
+# 『化物語』
+[[discs.tracks]]
+title = "sugar sweet nightmare"
+artist = "羽川翼（堀江由衣）"
+
+# 『MAG・ネット ～マンガ・アニメ・ゲームのゲンバ～』
+[[discs.tracks]]
+title = "りある＿りあるが＿あんりある"
+artist = "蝶伝寺さすけ（小野大輔）蝶伝寺ねね（後藤沙緒里）"
+
+# 『探偵オペラ ミルキィホームズ』
+[[discs.tracks]]
+title = "雨上がりのミライ"
+artist = "シャーロック・シェリンフォード（三森すずこ）、譲崎ネロ（徳井青空）、エルキュール・バートン（佐々木未来）、コーデリア・グラウカ（橘田いずみ）"
+
+[[discs]]
+catalog = "SVWC-70502"
+
+# 『WORKING!!』
+[[discs.tracks]]
+title = "SOMEONE ELSE"
+artist = "種島ぽぷら（阿澄佳奈）、伊波まひる（藤田咲）、轟八千代（喜多村英梨）"
+
+# 『WORKING!!』
+[[discs.tracks]]
+title = "ハートのエッジに挑もう Go to Heart Edge"
+artist = "小鳥遊宗太（福山潤）、佐藤潤（小野大輔）、相馬博臣（神谷浩史）"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "モノクローム ～ version de l'apprivoiser"
+artist = "気多の巫女（戸松 遥）"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "ただいま。"
+artist = "高坂桐乃（竹達彩奈）"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "めてお☆いんぱくと"
+artist = "メルル（田村ゆかり）"
+
+# 『Aチャンネル』
+[[discs.tracks]]
+title = "Morning Arch"
+artist = "河野マリナ"
+
+# 『Aチャンネル』
+[[discs.tracks]]
+title = "ハミングガール"
+artist = "るん（福原香織）、トオル（悠木碧）、ナギ（内山夕実）、ユー子（寿美菜子）"
+
+# 『THE IDOLM@STER』
+[[discs.tracks]]
+title = "READY!!（M@STER VERSION）"
+artist = "765PRO ALLSTARS"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "二言目"
+artist = "戦場ヶ原ひたぎ（斎藤千和）"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "marshmallow justice"
+artist = "阿良々木火憐（喜多村英梨）"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "白金ディスコ"
+artist = "阿良々木月火（井口裕香）"
+
+# 『夏目友人帳』
+[[discs.tracks]]
+title = "たからもの"
+artist = "河野マリナ"
+
+# 『じょしらく』
+[[discs.tracks]]
+title = "お後がよろしくって…よ!"
+artist = "極♨落女会（蕪羅亭魔梨威（佐倉綾音）、波浪浮亭木胡桃（小岩井ことり）、防波亭手寅（山本希望）、空琉美遊亭丸京（南條愛乃）、暗落亭苦来（後藤沙緒里））"
+
+# 『アラタなるセカイ』
+[[discs.tracks]]
+title = "アラタなるセカイ"
+artist = "河野マリナ"
+
+# 『絶園のテンペスト』
+[[discs.tracks]]
+title = "happy endings"
+artist = "花澤香菜"
+
+# 『猫物語(黒)』
+[[discs.tracks]]
+title = "perfect slumbers"
+artist = "羽川翼（堀江由衣）"
+
+# 『猫物語(白)』
+[[discs.tracks]]
+title = "chocolate insomnia"
+artist = "羽川翼（堀江由衣）"
+
+[[discs]]
+catalog = "SVWC-70503"
+
+# 『傾物語』
+[[discs.tracks]]
+title = "happy bite"
+artist = "八九寺真宵（加藤英美里）"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "光のオクターブ"
+artist = "アゲマキ・ワコ（早見沙織）"
+
+# 『波打際のむろみさん』
+[[discs.tracks]]
+title = "七つの海よりキミの海"
+artist = "上坂すみれ"
+
+# 『囮物語』
+[[discs.tracks]]
+title = "もうそう♡えくすぷれす"
+artist = "千石撫子（花澤香菜）"
+
+# 『恋物語』
+[[discs.tracks]]
+title = "木枯らしセンティメント"
+artist = "戦場ヶ原ひたぎ（斎藤千和）、貝木泥舟（三木眞一郎）"
+
+# 『Wake Up, Girls！』
+[[discs.tracks]]
+title = "タチアガレ!"
+artist = "Wake Up, Girls！"
+
+# 『THE IDOLM@STER』
+[[discs.tracks]]
+title = "M@STERPIECE"
+artist = "765PRO ALLSTARS"
+
+# 『キャプテン・アース』
+[[discs.tracks]]
+title = "夢幻の華"
+artist = "夢塔ハナ（茅野愛衣）"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "最後のラブレター"
+artist = "ナギ（戸松遥）"
+
+# 『傷物語 〈Ⅲ冷血篇〉』
+[[discs.tracks]]
+title = "étoile et toi [édition le blanc]"
+artist = "Clementine、Ainhoa"
+
+# 『終物語』
+[[discs.tracks]]
+title = "terminal terminal"
+artist = "八九寺真宵（加藤英美里）"
+
+# 『終物語』
+[[discs.tracks]]
+title = "dreamy date drive"
+artist = "戦場ヶ原ひたぎ（斎藤千和）"
+
+# 『Animelo Summer Live 2018』
+[[discs.tracks]]
+title = "Stand by...MUSIC!!!"
+artist = "アイドルマスター SideM（仲村宗悟、山谷祥生、狩野翔）、アイドルマスター ミリオンライブ！ ミリオンスターズ（山崎はるか、田所あずさ、Machico）、亜咲花、伊藤美来、内田彩、内田真礼、オーイシマサヨシ、GRANRODEO（KISHOW）、鈴木このみ、鈴木みのり、竹達彩奈、TRUE、fhána、悠木碧"
+
+# 『Fate/EXTRA Last Encore』
+[[discs.tracks]]
+title = "Bright Burning Shout"
+artist = "西川貴教"
+
+[[discs.tracks]]
+title = "awakening"
+artist = "西川貴教"
+
+[[discs.tracks]]
+title = "さようならのパレード"
+artist = "Wake Up, Girls！"
+
+[[discs]]
+catalog = "SVWC-70504"
+type = "absolute"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "いつもの風景"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "好調好調"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "おいおい"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "悲劇のヒロイン"
+
+# 『涼宮ハルヒの憂鬱』
+[[discs.tracks]]
+title = "ある雨の日"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "フンフンフン♪だよ、らき☆すた"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "ランランラン♪だよ、らき☆すた"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "らっきー☆ちゃんねるのテーマ"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "次回予告だよ、らき☆すた"
+
+# 『らき☆すた』
+[[discs.tracks]]
+title = "かなたのテーマ"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "かみのき"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "はじまり"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "こもれび"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "おほほほ"
+
+# 『かんなぎ』
+[[discs.tracks]]
+title = "こうりん"
+
+# 『化物語』
+[[discs.tracks]]
+title = "序章"
+
+# 『化物語』
+[[discs.tracks]]
+title = "街談巷説"
+
+# 『化物語』
+[[discs.tracks]]
+title = "神域"
+
+# 『化物語』
+[[discs.tracks]]
+title = "以下、回想"
+
+# 『化物語』
+[[discs.tracks]]
+title = "戯言"
+
+# 『涼宮ハルヒの憂鬱』(2期)
+[[discs.tracks]]
+title = "白線マーチ"
+
+# 『涼宮ハルヒの憂鬱』(2期)
+[[discs.tracks]]
+title = "活動開始"
+
+# 『涼宮ハルヒの憂鬱』(2期)
+[[discs.tracks]]
+title = "着ぐるみカエル隊"
+
+# 『涼宮ハルヒの憂鬱』(2期)
+[[discs.tracks]]
+title = "おふざけマーチ"
+
+# 『涼宮ハルヒの消失』
+[[discs.tracks]]
+title = "いつもの風景から始まる物語"
+
+# 『涼宮ハルヒの消失』
+[[discs.tracks]]
+title = "SOS団再び"
+
+# 『涼宮ハルヒの消失』
+[[discs.tracks]]
+title = "あの日の記憶を追いかけて"
+
+# 『私の優しくない先輩』
+[[discs.tracks]]
+title = "はじまり"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "俺の妹が(ry"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "兄貴の日常"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "＼(^o^)／"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "アキハバラマーチ"
+
+# 『俺の妹がこんなに可愛いわけがない』
+[[discs.tracks]]
+title = "くぁwせdrftgyふじこlp"
+
+[[discs]]
+catalog = "SVWC-70505"
+type = "absolute"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "絢爛"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "楽園"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "運命"
+
+# 『STAR DRIVER 輝きのタクト』
+[[discs.tracks]]
+title = "銀河美少年"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "偽物"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "怪異の王"
+
+# 『偽物語』
+[[discs.tracks]]
+title = "絆"
+
+# 『猫物語(黒)』
+[[discs.tracks]]
+title = "恋"
+
+# 『猫物語(白)』
+[[discs.tracks]]
+title = "私の物語"
+
+# 『猫物語(白)』
+[[discs.tracks]]
+title = "真実からは程遠い存在"
+
+# 『傾物語』
+[[discs.tracks]]
+title = "まがいものそのものの女"
+
+# 『鬼物語』
+[[discs.tracks]]
+title = "気まぐれ"
+
+# 『鬼物語』
+[[discs.tracks]]
+title = "昔語り"
+
+# 『囮物語』
+[[discs.tracks]]
+title = "クチナワ"
+
+# 『囮物語』
+[[discs.tracks]]
+title = "竜頭蛇尾"
+
+# 『恋物語』
+[[discs.tracks]]
+title = "地獄の沙汰も金次第"
+
+# 『傷物語 〈Ⅰ鉄血篇〉』
+[[discs.tracks]]
+title = "血"
+
+# 『傷物語 〈Ⅰ鉄血篇〉』
+[[discs.tracks]]
+title = "鉄血篇 エンドロール"
+
+# 『傷物語 〈Ⅲ冷血篇〉』
+[[discs.tracks]]
+title = "おっぱい"
+
+# 『映画『打ち上げ花火、下から見るか?横から見るか?』』
+[[discs.tracks]]
+title = "もしも"
+
+# 『映画『打ち上げ花火、下から見るか?横から見るか?』』
+[[discs.tracks]]
+title = "中学生の通学路"
+
+# 『映画『打ち上げ花火、下から見るか?横から見るか?』』
+[[discs.tracks]]
+title = "逃げ出せない"
+
+# 『映画『打ち上げ花火、下から見るか?横から見るか?』』
+[[discs.tracks]]
+title = "背伸び"
+
+# 『Fate/EXTRA Last Encore』
+[[discs.tracks]]
+title = "天輪聖王"
+
+# 『MONACAフェス2016　テーマソング』
+[[discs.tracks]]
+title = "おわらない僕らのMusic"
+artist = "戸松遥、花澤香菜"
+type = "normal"
