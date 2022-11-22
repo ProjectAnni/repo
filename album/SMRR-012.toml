@@ -5,10 +5,15 @@ artist = "yamazo、Tom-H@ck"
 date = 2018-07-18
 type = "absolute"
 catalog = "SMRR-012"
-tags = ["TVアニメ「ヤマノススメ」", "TVアニメ「ヤマノススメ セカンドシーズン」", "TVアニメ「ヤマノススメ おもいでプレせんと」", "OST"]
+tags = [
+    "TVアニメ「ヤマノススメ」",
+    "TVアニメ「ヤマノススメ セカンドシーズン」",
+    "TVアニメ「ヤマノススメ おもいでプレせんと」",
+    "OST"
+]
 
 [[discs]]
-catalog = "SMRR-012"
+catalog = "@SMRR-012-01"
 
 [[discs.tracks]]
 title = "メインテーマ・山に登るということ"
@@ -32,7 +37,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "自堕落な夏休み"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "あどれなりん・はい"
@@ -44,7 +49,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "十代の心"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "てへぺろ"
@@ -52,7 +57,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "ゆるふわ・ここな"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "サスペンスかな？"
@@ -64,7 +69,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "岳人の歌"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "高いの怖いの"
@@ -76,7 +81,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "ひたすら坂道"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "明日も山がある"
@@ -88,7 +93,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "そして、次の景色へ"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "メインテーマ・ぬくもり"
@@ -108,7 +113,7 @@ artist = "yamazo"
 
 [[discs.tracks]]
 title = "口笛吹いて行こう"
-artist = "Tom-H＠ck"
+artist = "Tom-H@ck"
 
 [[discs.tracks]]
 title = "お母さんのダウンジャケット"
@@ -127,7 +132,7 @@ title = "サブタイトル1"
 artist = "yamazo"
 
 [[discs]]
-catalog = "SMRR-012"
+catalog = "@SMRR-012-02"
 
 [[discs.tracks]]
 title = "スタッカート・デイズ"
