@@ -1,0 +1,14 @@
+[album]
+album_id = "61448ea3-05b7-4bde-a873-94a0abb9a1ce"
+title = "Wherever remix"
+artist = "鈴木みのり"
+date = 2022-09-04
+type = "normal"
+catalog = "VE3WA-19805"
+tags = ["鈴木みのり", "TVアニメ「黒の召喚士」", "ED"]
+
+[[discs]]
+catalog = "VE3WA-19805"
+
+[[discs.tracks]]
+title = "Wherever remix"
