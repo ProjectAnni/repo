@@ -1,0 +1,27 @@
+[album]
+album_id = "0480f110-b3f7-42bc-bdfb-347c3be08255"
+title = "Love? Reason why!!"
+artist = "鈴木このみ"
+date = 2022-10-26
+type = "normal"
+catalog = "ZMCZ-16141"
+tags = ["鈴木このみ"]
+
+[[discs]]
+catalog = "ZMCZ-16141"
+
+[[discs.tracks]]
+title = "Love? Reason why!!"
+tags = ["TVアニメ「恋愛フロップス」", "OP"]
+
+[[discs.tracks]]
+title = "Secret Code"
+
+[[discs.tracks]]
+title = "Love? Reason why!! (instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「恋愛フロップス」", "OP"]
+
+[[discs.tracks]]
+title = "Secret Code (instrumental)"
+type = "instrumental"

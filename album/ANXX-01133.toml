@@ -1,0 +1,14 @@
+[album]
+album_id = "fba64216-93c9-4433-891c-643746ced6fa"
+title = "ギターと孤独と蒼い惑星"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-11-06
+type = "normal"
+catalog = "ANXX-01133"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」"]
+
+[[discs]]
+catalog = "ANXX-01133"
+
+[[discs.tracks]]
+title = "ギターと孤独と蒼い惑星"

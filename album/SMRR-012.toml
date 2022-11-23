@@ -1,0 +1,264 @@
+[album]
+album_id = "64e9e24f-ebc9-4003-b1fe-36ccd8083c62"
+title = "ヤマノススメ オリジナルサウンドトラック"
+artist = "yamazo、Tom-H@ck"
+date = 2018-07-18
+type = "absolute"
+catalog = "SMRR-012"
+tags = [
+    "TVアニメ「ヤマノススメ」",
+    "TVアニメ「ヤマノススメ セカンドシーズン」",
+    "TVアニメ「ヤマノススメ おもいでプレせんと」",
+    "OST"
+]
+
+[[discs]]
+catalog = "@SMRR-012-01"
+
+[[discs.tracks]]
+title = "メインテーマ・山に登るということ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "あおいのテーマ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "真夏の飯能"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "ひなたと二人で"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "あおい・じたばた"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "自堕落な夏休み"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "あどれなりん・はい"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "不思議な体験"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "十代の心"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "てへぺろ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "ゆるふわ・ここな"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "サスペンスかな？"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "作戦会議"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "岳人の歌"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "高いの怖いの"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "パンツ、見たな？"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "ひたすら坂道"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "明日も山がある"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "あの山を目指すんだ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "そして、次の景色へ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "メインテーマ・ぬくもり"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "ひつじが一匹"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "人に頼るということ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "またひとり、友達ができました"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "口笛吹いて行こう"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "お母さんのダウンジャケット"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "メインテーマ・思い出の山"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "明日天気になあれ"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "サブタイトル1"
+artist = "yamazo"
+
+[[discs]]
+catalog = "@SMRR-012-02"
+
+[[discs.tracks]]
+title = "スタッカート・デイズ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "かえでのテーマ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "わくわくしながら歩こう"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "不思議少女・ここな"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "山小屋の夜"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "天の川がみたいの"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "駆け出す思い"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "アウトドア日和"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "雄大な山"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "陽炎の立つ白い道"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "料理対決"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "素敵な思い出を（かえでのテーマB）"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "カワノススメ？"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "つらくても登るしかない"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "雨の日にゆうかを想う"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "宿題が終わらない"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "挫折"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "もう、やだ！"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "めまい"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "泣きそうだよ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "峠を越えれば"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "山頂に立つ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "みんなで歩こう"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "メインテーマ・忘れられない思い出"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "なんて素晴らしい北岳"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "サブタイトル2"
+artist = "yamazo"
+
+[[discs]]
+artist = "yamazo"
+catalog = "SMRR-012"
+
+[[discs.tracks]]
+title = "メインテーマ・めぐりゆく季節に"
+
+[[discs.tracks]]
+title = "思い出をたどって"
+
+[[discs.tracks]]
+title = "ここな迷路 ～幻の小路～"
+
+[[discs.tracks]]
+title = "迷子の記憶"
+
+[[discs.tracks]]
+title = "大好きお母さん"
+
+[[discs.tracks]]
+title = "intermission 楓のモノローグ"
+
+[[discs.tracks]]
+title = "ひなたノスタルジア"

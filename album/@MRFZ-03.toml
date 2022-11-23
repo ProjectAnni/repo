@@ -1,0 +1,65 @@
+[album]
+album_id = "3d46c90c-caac-49a1-9334-428270f25280"
+title = "明日方舟OST3"
+artist = "Monster Siren Records"
+date = 2022-05-13
+type = "absolute"
+catalog = "@MRFZ-03"
+tags = ["明日方舟"]
+
+[[discs]]
+catalog = "@MRFZ-03"
+
+[[discs.tracks]]
+title = "风雨欲来"
+
+[[discs.tracks]]
+title = "往事"
+
+[[discs.tracks]]
+title = "临阵"
+
+[[discs.tracks]]
+title = "阴谋"
+
+[[discs.tracks]]
+title = "切尔诺伯格"
+
+[[discs.tracks]]
+title = "Непоколебимость"
+
+[[discs.tracks]]
+title = "视死如归"
+
+[[discs.tracks]]
+title = "切尔诺伯格急行军"
+
+[[discs.tracks]]
+title = "赴遥尘"
+
+[[discs.tracks]]
+title = "迷雾重重"
+
+[[discs.tracks]]
+title = "诉死歌者"
+
+[[discs.tracks]]
+title = "遗忘"
+
+[[discs.tracks]]
+title = "盾卫之志"
+
+[[discs.tracks]]
+title = "交锋"
+
+[[discs.tracks]]
+title = "塔露拉・雅特利亚斯"
+
+[[discs.tracks]]
+title = "Wrathful Cerulean Flame"
+
+[[discs.tracks]]
+title = "双龙"
+
+[[discs.tracks]]
+title = "Tower Fierce"

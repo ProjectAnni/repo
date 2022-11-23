@@ -1,0 +1,32 @@
+[album]
+album_id = "7890a6a3-8963-427d-b849-74ea7d0ac658"
+title = "THE IDOLM@STER SHINY COLORS PANOR@MA WING 08"
+artist = "シーズ"
+date = 2022-11-16
+type = "normal"
+catalog = "LACM-24258"
+tags = ["シーズ", "THE IDOLM@STER SHINY COLORS PANOR@MA WING"]
+
+[[discs]]
+catalog = "LACM-24258"
+
+[[discs.tracks]]
+title = "Fashionable"
+
+[[discs.tracks]]
+title = "Bouncy Girl"
+
+[[discs.tracks]]
+title = "虹の行方（シーズVer.）"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「POP OUT」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Fashionable（Off Vocal）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Bouncy Girl（Off Vocal）"
+type = "instrumental"

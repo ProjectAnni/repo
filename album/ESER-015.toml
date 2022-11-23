@@ -1,0 +1,29 @@
+[album]
+album_id = "e7860d8b-38e7-453c-ac1c-646a2bfcd0bf"
+title = "Cocoiro Rainbow"
+artist = "鳴海杏子"
+date = 2014-12-17
+type = "normal"
+catalog = "ESER-015"
+tags = ["鳴海杏子"]
+
+[[discs]]
+catalog = "ESER-015"
+
+[[discs.tracks]]
+title = "Cocoiro Rainbow"
+tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "ED"]
+
+[[discs.tracks]]
+title = '夕暮アフター "虹の橋 ver."'
+tags = ["TVアニメ「てきゅうベストセレクション」"]
+
+[[discs.tracks]]
+title = "Cocoiro Rainbow (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "ED"]
+
+[[discs.tracks]]
+title = '夕暮アフター "虹の橋 ver." (Instrumental)'
+type = "instrumental"
+tags = ["TVアニメ「てきゅうベストセレクション」"]

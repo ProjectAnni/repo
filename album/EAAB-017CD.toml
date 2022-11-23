@@ -1,0 +1,115 @@
+[album]
+album_id = "10f0ccbd-056e-4018-bc2a-ad0ecd129a5e"
+title = "ヤマノススメ オリジナル・サウンドトラック Vol.2"
+artist = "Tom-H@ack、yamazo"
+date = 2014-12-26
+type = "absolute"
+catalog = "EAAB-017CD"
+tags = ["TVアニメ「ヤマノススメ セカンドシーズン」", "OST"]
+
+[[discs]]
+catalog = "EAAB-017CD"
+
+[[discs.tracks]]
+title = "スタックート・デイズ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "かえでのテーマ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "わくわくしながら歩こう"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "不思議少女・ここな"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "山小屋の夜"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "天の川が見たいの"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "駆け出す思い"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "アウトドア日和"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "雄大な山"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "陽炎の立つ白い道"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "料理対決"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "素敵な思い出を（かえでのテーマB）"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "カワノススメ？"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "つらくても登るしかない"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "雨の日にゆうかを想う"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "宿題が終わらない"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "挫折"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "もう、やだ！"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "めまい"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "泣きそうだよ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "峠を越えれば"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "山頂に立つ"
+artist = "Tom-H@ck"
+
+[[discs.tracks]]
+title = "みんなで歩こう"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "メインテーマ・忘れられない思い出"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "なんて素晴らしい北岳"
+artist = "yamazo"
+
+[[discs.tracks]]
+title = "サブタイトル2"
+artist = "yamazo"

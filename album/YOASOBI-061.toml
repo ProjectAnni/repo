@@ -1,0 +1,36 @@
+[album]
+album_id = "b1f0e1f3-2fff-4de1-91e7-98b485413938"
+title = "E-SIDE 2"
+artist = "YOASOBI"
+date = 2022-11-18
+type = "normal"
+catalog = "YOASOBI-061"
+tags = ["YOASOBI"]
+
+[[discs]]
+catalog = "YOASOBI-061"
+
+[[discs.tracks]]
+title = "The Blessing"
+
+[[discs.tracks]]
+title = "If I Could Draw Life"
+
+[[discs.tracks]]
+title = "Romance"
+
+[[discs.tracks]]
+title = "The Swallow"
+artist = "YOASOBI、Midories"
+
+[[discs.tracks]]
+title = "Halzion"
+
+[[discs.tracks]]
+title = "Just a Little Step"
+
+[[discs.tracks]]
+title = "Haruka"
+
+[[discs.tracks]]
+title = "Love Letter"

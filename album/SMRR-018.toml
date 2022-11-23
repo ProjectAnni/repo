@@ -1,0 +1,56 @@
+[album]
+album_id = "47e7d438-ff43-4694-8ebd-1c4dd964a0bc"
+title = "TVアニメ「ヤマノススメ サードシーズン」 キャラクターソングミニアルバム"
+artist = "Various Artists"
+date = 2018-08-24
+type = "normal"
+catalog = "SMRR-018"
+tags = ["TVアニメ「ヤマノススメ サードシーズン」"]
+
+[[discs]]
+catalog = "SMRR-018"
+
+[[discs.tracks]]
+title = "カタツムリまいんど"
+artist = "あおい（井口裕香）"
+
+[[discs.tracks]]
+title = "てっぺん目指し隊"
+artist = "ひなた（阿澄佳奈）"
+
+[[discs.tracks]]
+title = "追い風ホイッスル"
+artist = "かえで（日笠陽子）"
+
+[[discs.tracks]]
+title = "野いちごガーランド"
+artist = "ここな（小倉唯）"
+
+[[discs.tracks]]
+title = "テンダー・ファインダー"
+artist = "ほのか（東山奈央）"
+
+[[discs.tracks]]
+title = "カタツムリまいんど (Instrumental)"
+artist = "中山真斗"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "てっぺん目指し隊 (Instrumental)"
+artist = "yamazo"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "追い風ホイッスル (Instrumental)"
+artist = "中山真斗"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "野いちごガーランド (Instrumental)"
+artist = "百石元"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "テンダー・ファインダー (Instrumental)"
+artist = "yamazo"
+type = "instrumental"

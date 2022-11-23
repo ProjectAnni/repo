@@ -1,0 +1,33 @@
+[album]
+album_id = "18a8fd66-34d1-4587-a078-0937a2b2e4b6"
+title = "迷星叫"
+artist = "MyGO!!!!!（燈（Tomori）、愛音（Anon）、楽奈（Rāna）、そよ（Soyo）、立希（Taki））"
+date = 2022-11-09
+type = "normal"
+catalog = "BRMM-10578"
+tags = ["MyGO!!!!!"]
+
+[[discs]]
+catalog = "BRMM-10578"
+
+[[discs.tracks]]
+title = "迷星叫"
+
+[[discs.tracks]]
+title = "名無声"
+
+[[discs.tracks]]
+title = "迷星叫 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "名無声 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "1st LIVE「僕たちはここで叫ぶ」アフタートーク"
+type = "drama"
+
+[[discs.tracks]]
+title = "2nd LIVE「そのままを抱きしめて」アフタートーク"
+type = "drama"

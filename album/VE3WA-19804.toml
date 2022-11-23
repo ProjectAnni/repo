@@ -1,0 +1,14 @@
+[album]
+album_id = "3cf68061-bf8c-443b-8028-111d7d6f14a5"
+title = "Wherever"
+artist = "鈴木みのり"
+date = 2022-08-07
+type = "normal"
+catalog = "VE3WA-19804"
+tags = ["鈴木みのり", "TVアニメ「黒の召喚士」", "ED"]
+
+[[discs]]
+catalog = "VE3WA-19804"
+
+[[discs.tracks]]
+title = "Wherever"
