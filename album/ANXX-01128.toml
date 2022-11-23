@@ -1,0 +1,14 @@
+[album]
+album_id = "66f5659d-b31b-4097-bf5d-85e3332757e1"
+title = "Distortion!!"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-10-09
+type = "normal"
+catalog = "ANXX-01128"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」", "ED"]
+
+[[discs]]
+catalog = "ANXX-01128"
+
+[[discs.tracks]]
+title = "Distortion!!"

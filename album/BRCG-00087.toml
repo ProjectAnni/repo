@@ -1,0 +1,51 @@
+[album]
+album_id = "c6ef9d2e-cbc1-4f91-9de1-28a1a5230dbe"
+title = "花鳥風月"
+artist = "Various Artists"
+date = 2022-11-16
+type = "normal"
+catalog = "BRCG-00087"
+tags = ["AiRBLUE"]
+
+[[discs]]
+catalog = "BRCG-00087"
+
+[[discs.tracks]]
+title = "キセキなSummer！"
+artist = "AiRBLUE Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+
+[[discs.tracks]]
+title = 'Land"e"scape'
+artist = "AiRBLUE Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+
+[[discs.tracks]]
+title = "Beast Blood Blend"
+artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+
+[[discs.tracks]]
+title = "純情革命"
+artist = "AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+
+[[discs.tracks]]
+title = "Forever Friends (Leaders ver.)"
+artist = "AiRBLUE Leaders（六石陽菜（内山悠里菜）、天童悠希（鷹村彩花）、夜峰美晴（安齋由香里）、丸山利恵（立花日菜））"
+
+[[discs.tracks]]
+title = "キセキなSummer！(Instrumental)"
+artist = "AiRBLUE Wind（夜峰美晴（安齋由香里）、神室絢（松田彩希）、宮路まほろ（山口愛）、日名倉莉子（鶴野有紗））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = 'Land"e"scape (Instrumental)'
+artist = "AiRBLUE Bird（天童悠希（鷹村彩花）、赤川千紗（宮原颯希）、恵庭あいり（飯塚麻結）、九条柚葉（村上まなつ））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Beast Blood Blend (Instrumental)"
+artist = "AiRBLUE Moon（丸山利恵（立花日菜）、宇津木聡里（小峯愛未）、明神凛音（佐藤舞）、遠見鳴（土屋李央））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "純情革命 (Instrumental)"
+artist = "AiRBLUE Flower（六石陽菜（内山悠里菜）、鷹取舞花（稗田寧々）、鹿野志穂（守屋亨香）、月居ほのか（緒方佑奈））"
+type = "instrumental"

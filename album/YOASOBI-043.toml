@@ -1,0 +1,35 @@
+[album]
+album_id = "5b7e58d3-7d06-4fbf-80f4-b4bf1da8a9b6"
+title = "E-SIDE"
+artist = "YOASOBI"
+date = 2021-11-12
+type = "normal"
+catalog = "YOASOBI-043"
+tags = ["YOASOBI"]
+
+[[discs]]
+catalog = "YOASOBI-043"
+
+[[discs.tracks]]
+title = "Into The Night"
+
+[[discs.tracks]]
+title = "Haven't"
+
+[[discs.tracks]]
+title = "Monster"
+
+[[discs.tracks]]
+title = "Comet"
+
+[[discs.tracks]]
+title = "RGB"
+
+[[discs.tracks]]
+title = "Encore"
+
+[[discs.tracks]]
+title = "Blue"
+
+[[discs.tracks]]
+title = "Tracing A Dream"

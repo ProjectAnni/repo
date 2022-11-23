@@ -1,0 +1,14 @@
+[album]
+album_id = "72794718-2e9e-4acc-8c32-800b84c5848c"
+title = "カラカラ"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-10-30
+type = "normal"
+catalog = "ANXX-01131"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」", "ED"]
+
+[[discs]]
+catalog = "ANXX-01131"
+
+[[discs.tracks]]
+title = "カラカラ"
