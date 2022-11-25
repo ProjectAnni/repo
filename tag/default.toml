@@ -725,246 +725,297 @@ type = "animation"
 
 [[tag]]
 name = "TVアニメ「ギルティクラウン」"
+names.zh-hans = "罪恶王冠"
 type = "animation"
 
 [[tag]]
 name = "アニメ「ヒーラー・ガール」"
+names.zh-hans = "歌愈少女"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「踏切時間」"
+names.zh-hans = "道口时间"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「恋は世界征服のあとで」"
+names.zh-hans = "恋爱要在世界征服后"
 type = "animation"
 
 [[tag]]
 name = "モンスター娘のお医者さん"
+names.zh-hans = "魔物娘的医生"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「このはな綺譚」"
+names.zh-hans = "此花绮谭"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「リコリス・リコイル」"
+names.zh-hans = "莉可丽丝"
 type = "animation"
 
 [[tag]]
 name = "アニメ「グリザイアの果実」"
+names.zh-hans = "灰色的果实"
 type = "animation"
 
 [[tag]]
-name = "グリザイアの楽園「カプリスの繭」編"
-type = "animation"
-
-[[tag]]
-name = "グリザイアの楽園「ブランエールの種」編"
+name = "グリザイアの楽園"
+names.zh-hans = "灰色的乐园"
 type = "animation"
 
 [[tag]]
 name = "東京レイヴンズ"
+names.zh-hans = "东京暗鸦"
 type = "animation"
 
 [[tag]]
 name = "ネトゲの嫁は女の子じゃないと思った？"
+names.zh-hans = "线上游戏的老婆不可能是女生？"
 type = "animation"
 
 [[tag]]
 name = "アトム ザ・ビギニング"
+names.zh-hans = "阿童木起源"
 type = "animation"
 
 [[tag]]
 name = "同居人はひざ、時々、頭のうえ。"
+names.zh-hans = "同居人时而在腿上、时而跑到脑袋上"
 type = "animation"
 
 [[tag]]
 name = "グリザイア:ファントムトリガー THE ANIMATION"
+names.zh-hans = "灰色：幻影扳机"
 type = "animation"
 
 [[tag]]
 name = "文豪とアルケミスト ～審判ノ歯車～"
+names.zh-hans = "文豪与炼金术师 ～审判的齿轮～"
 type = "animation"
 
 [[tag]]
 name = "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー"
+names.zh-hans = "灰色：幻影扳机 STARGAZER"
 type = "animation"
 
 [[tag]]
 name = "進化の実～知らないうちに勝ち組人生～"
+names.zh-hans = "进化果实～不知不觉踏上胜利的人生～"
 type = "animation"
 
 [[tag]]
 name = "天才王子の赤字国家再生術"
+names.zh-hans = "天才王子的赤字国家振兴术"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「それでも歩は寄せてくる」"
+names.zh-hans = "即使如此依旧步步进逼"
 type = "animation"
 
 [[tag]]
 name = "劇場版 ハヤテのごとく！HEAVEN IS A PLACE ON EARTH"
+names.zh-hans = "旋风管家 HEAVEN IS A PLACE ON EARTH"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「ブラック・ブレット」"
+names.zh-hans = "漆黑的子弹"
 type = "animation"
 
 [[tag]]
 name = "アニメ「フューチャーカード バディファイト ハンドレッド」"
+names.zh-hans = "未来卡 搭档对战 100"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「終わりのセラフ」"
+names.zh-hans = "终结的炽天使"
 type = "animation"
 
 [[tag]]
 name = "TVシリーズ「亜人」"
+names.zh-hans = "亚人"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「クロックワーク・プラネット」"
+names.zh-hans = "时钟机关之星"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「されど罪人は竜と踊る」"
+names.zh-hans = "罪人与龙共舞"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「キリングバイツ」"
+names.zh-hans = "牙斗"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「寄宿学校のジュリエット」"
+names.zh-hans = "寄宿学校的朱丽叶"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「キングスレイド 意志を継ぐものたち」"
+names.zh-hans = "王之逆袭：意志的继承者"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「失格紋の最強賢者」"
+names.zh-hans = "失格纹的最强贤者"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「魔法使い黎明期」"
+names.zh-hans = "魔法使黎明期"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「シャドーハウス」-2nd Season-"
-type = "animation"
-
-[[tag]]
-name = "とある魔術の禁書目録 幻想収束"
+names.zh-hans = "影宅 2nd Season"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「恋姫†無双」"
+names.zh-hans = "恋姬无双"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「シュヴァルツェスマーケン」"
+names.zh-hans = "黑之宣告"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「ヲタクに恋は難しい」"
+names.zh-hans = "宅男腐女恋爱真难"
 type = "animation"
 
 [[tag]]
 name = "アニメ『逆転裁判 ～その「真実」、異議あり！～Season2』"
+names.zh-hans = "逆转裁判 第二季"
 type = "animation"
 
 [[tag]]
 name = "アニメ「ぼくたちは勉強ができない！」"
+names.zh-hans = "我们真的学不来！"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「邪神ちゃんドロップキック’」"
+names.zh-hans = "邪神与厨二病少女’"
 type = "animation"
 
 [[tag]]
 name = "アニメ「彼女、お借りします」"
+names.zh-hans = "租借女友"
 type = "animation"
 
 [[tag]]
 name = "アニメ「BORUTO-ボルト- NARUTO NEXT GENERATIONS」"
+names.zh-hans = "火影忍者 博人传之火影次世代"
 type = "animation"
 
 [[tag]]
 name = "アニメ「最近雇ったメイドが怪しい」"
+names.zh-hans = "最近雇佣的女仆有点奇怪"
 type = "animation"
 
 [[tag]]
 name = "アニメ「Engage Kiss」"
+names.zh-hans = "契约之吻"
 type = "animation"
 
 [[tag]]
 name = "アニメ「邪神ちゃんドロップキックX」"
+names.zh-hans = "邪神与厨二病少女 X"
 type = "animation"
 
 [[tag]]
 name = "アニメ「継母の連れ子が元カノだった」"
+names.zh-hans = "继母的拖油瓶是我的前女友"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」"
+names.zh-hans = "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「Sonny Boy」"
+names.zh-hans = "漂流少年"
 type = "animation"
 
 [[tag]]
 name = "アニメ「ハイスクールD×D」"
+names.zh-hans = "High School D×D"
 type = "animation"
 
 [[tag]]
 name = "咲-Saki- 阿知賀編 episode of side-A"
+names.zh-hans = "天才麻将少女 阿知贺篇"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「であいもん」"
+names.zh-hans = "相合之物"
 type = "animation"
 
 [[tag]]
 name = "サマータイムレンダ"
+names.zh-hans = "夏日重现"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「ぼっち・ざ・ろっく！」"
+names.zh-hans = "孤独摇滚！"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「悪役令嬢なのでラスボスを飼ってみました」"
+names.zh-hans = "因为是反派大小姐所以养了魔王"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「トモダチゲーム」"
+names.zh-hans = "朋友游戏"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「SHAMAN KING」"
+names.zh-hans = "通灵王"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「Levius レビウス」"
+names.zh-hans = "列比乌斯"
 type = "animation"
 
 [[tag]]
 name = "機動戦士ガンダム 水星の魔女"
+names.zh-hans = "机动战士高达 水星的魔女"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「恋愛フロップス」"
+names.zh-hans = "恋爱FLOPS"
 type = "animation"
 
 [[tag]]
 name = "TVアニメ「黒の召喚士」"
+names.zh-hans = "黑之召唤士"
 type = "animation"
 
 [[tag]]
 name = "日本アニメ（ーター）見本市"
+names.zh-hans = "日本动画（人）博览会"
 type = "animation"
 
 ################################################################################
@@ -1112,6 +1163,11 @@ type = "game"
 
 [[tag]]
 name = "ゲーム「INFINITY SOULS」"
+type = "game"
+
+[[tag]]
+name = "とある魔術の禁書目録 幻想収束"
+names.zh-hans = "魔法禁书目录 幻想收束"
 type = "game"
 
 ################################################################################
