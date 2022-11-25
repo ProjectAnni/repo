@@ -1,9 +1,11 @@
 [[tag]]
 name = "ラブライブ!シリーズ"
+names.zh-hans = "Love Live! 系列"
 type = "project"
 
 [[tag]]
 name = "ラブライブ!"
+names.zh-hans = "Love Live!"
 type = "project"
 included-by = ["ラブライブ!シリーズ"]
 includes.group = [
@@ -25,6 +27,7 @@ includes.animation = [
 
 [[tag]]
 name = "ラブライブ!サンシャイン!!"
+names.zh-hans = "LoveLive! Sunshine!!"
 type = "project"
 included-by = ["ラブライブ!シリーズ"]
 includes.group = [
@@ -34,6 +37,7 @@ includes.group = [
 
 [[tag]]
 name = "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
+names.zh-hans = "Love Live! 虹咲学园校园偶像同好会"
 type = "project"
 included-by = ["ラブライブ!シリーズ"]
 includes.group = [

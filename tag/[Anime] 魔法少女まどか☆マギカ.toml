@@ -1,5 +1,6 @@
 [[tag]]
 name = "魔法少女まどか☆マギカ"
+names.zh-hans = "魔法少女小圆"
 type = "project"
 includes.animation = [
   "アニメ「魔法少女まどか☆マギカ」",
@@ -13,6 +14,7 @@ includes.game = ["魔法少女まどか☆マギカ ポータブル"]
 
 [[tag]]
 name = "マギアレコード 魔法少女まどか☆マギカ外伝"
+names.zh-hans = "魔法纪录 魔法少女小圆外传"
 type = "project"
 included-by = ["魔法少女まどか☆マギカ"]
 includes.animation = [

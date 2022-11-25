@@ -1,14 +1,17 @@
 [[tag]]
 name = "マクロスシリーズ"
+names.zh-hans = "超时空要塞系列"
 type = "project"
 
 [[tag]]
 name = "マクロスF"
+names.zh-hans = "超时空要塞F"
 type = "project"
 included-by = ["マクロスシリーズ"]
 
 [[tag]]
 name = "マクロスΔ"
+names.zh-hans = "超时空要塞Δ"
 type = "project"
 included-by = ["マクロスシリーズ"]
 includes.group = ["ワルキューレ"]

@@ -1,16 +1,40 @@
 [[tag]]
 name = "少女☆歌劇 レヴュースタァライト"
+names.zh-hans = "少女☆歌剧 Revue Starlight"
 type = "project"
-includes.animation = [
-  "TVアニメ「少女☆歌劇 レヴュースタァライト」",
-  "少女☆寸劇 オールスタァライト",
-  "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド",
-  "劇場版 少女☆歌劇 レヴュースタァライト",
-]
 includes.group = [
   "スタァライト九九組",
   "凛明館女学校",
   "フロンティア芸術学校",
   "シークフェルト音楽学院"
 ]
-includes.game = ["少女☆歌劇 レヴュースタァライト -Re LIVE-"]
+
+[[tag]]
+name = "TVアニメ「少女☆歌劇 レヴュースタァライト」"
+names.zh-hans = "少女☆歌剧 Revue Starlight"
+type = "animation"
+included-by = ["少女☆歌劇 レヴュースタァライト"]
+
+[[tag]]
+name = "少女☆寸劇 オールスタァライト"
+names.zh-hans = "少女☆寸剧 All Starlight"
+type = "animation"
+included-by = ["少女☆歌劇 レヴュースタァライト"]
+
+[[tag]]
+name = "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
+names.zh-hans = "少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO"
+type = "animation"
+included-by = ["少女☆歌劇 レヴュースタァライト"]
+
+[[tag]]
+name = "劇場版 少女☆歌劇 レヴュースタァライト"
+names.zh-hans = "剧场版 少女☆歌剧 Revue Starlight"
+type = "animation"
+included-by = ["少女☆歌劇 レヴュースタァライト"]
+
+[[tag]]
+name = "少女☆歌劇 レヴュースタァライト -Re LIVE-"
+names.zh-hans = "少女☆歌剧 Revue Starlight -Re LIVE-"
+type = "game"
+included-by = ["少女☆歌劇 レヴュースタァライト"]

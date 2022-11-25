@@ -1,5 +1,6 @@
 [[tag]]
 name = "プロジェクトセカイ カラフルステージ！feat.初音ミク"
+names.zh-hans = "世界计划 缤纷舞台！ feat. 初音未来"
 type = "project"
 includes.group = [
   "Leo/need",
