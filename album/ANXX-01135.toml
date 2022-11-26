@@ -1,0 +1,14 @@
+[album]
+album_id = "454f798e-93fb-4a97-9d7a-6bfc6d9a8fd8"
+title = "なにが悪い"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-11-27
+type = "normal"
+catalog = "ANXX-01135"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」", "ED"]
+
+[[discs]]
+catalog = "ANXX-01135"
+
+[[discs.tracks]]
+title = "なにが悪い"
