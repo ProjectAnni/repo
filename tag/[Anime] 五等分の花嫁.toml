@@ -1,5 +1,6 @@
 [[tag]]
 name = "五等分の花嫁"
+names.zh-hans = "五等分的新娘"
 type = "animation"
 includes.animation = ["五等分の花嫁∬", "映画「五等分の花嫁」"]
 includes.game = ["五等分の花嫁∬ ～夏の思い出も五等分～"]

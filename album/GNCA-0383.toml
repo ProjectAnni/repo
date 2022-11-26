@@ -12,7 +12,7 @@ catalog = "GNCA-0383"
 
 [[discs.tracks]]
 title = "きみを探しに"
-tags = ["グリザイアの楽園「ブランエールの種」編", "ED"]
+tags = ["グリザイアの楽園", "ED"]
 
 [[discs.tracks]]
 title = "そらほしひとつ"
@@ -20,7 +20,7 @@ title = "そらほしひとつ"
 [[discs.tracks]]
 title = "きみを探しに <instrumental>"
 type = "instrumental"
-tags = ["グリザイアの楽園「ブランエールの種」編", "ED"]
+tags = ["グリザイアの楽園", "ED"]
 
 [[discs.tracks]]
 title = "そらほしひとつ <instrumental>"

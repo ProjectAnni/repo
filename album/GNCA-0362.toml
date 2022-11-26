@@ -12,7 +12,7 @@ catalog = "GNCA-0362"
 
 [[discs.tracks]]
 title = "黄昏のスタアライト"
-tags = ["グリザイアの楽園「カプリスの繭」編", "ED"]
+tags = ["グリザイアの楽園", "ED"]
 
 [[discs.tracks]]
 title = "優しくつもる言葉の花"
@@ -20,7 +20,7 @@ title = "優しくつもる言葉の花"
 [[discs.tracks]]
 title = "黄昏のスタアライト ＜instrumental＞"
 type = "instrumental"
-tags = ["グリザイアの楽園「カプリスの繭」編", "ED"]
+tags = ["グリザイアの楽園", "ED"]
 
 [[discs.tracks]]
 title = "優しくつもる言葉の花 ＜instrumental＞"

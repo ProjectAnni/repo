@@ -1,5 +1,6 @@
 [[tag]]
 name = "響け！ユーフォニアム"
+names.zh-hans = "吹响！上低音号"
 type = "animation"
 includes.animation = [
   "劇場版 響け！ユーフォニアム～北宇治高校吹奏楽部へようこそ～",
