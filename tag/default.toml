@@ -1018,6 +1018,11 @@ name = "日本アニメ（ーター）見本市"
 names.zh-hans = "日本动画（人）博览会"
 type = "animation"
 
+[[tag]]
+name = "Do It Yourself!!"
+names.zh-hans = "少女手工"
+type = "animation"
+
 ################################################################################
 # Game
 #

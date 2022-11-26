@@ -1,0 +1,53 @@
+[album]
+album_id = "060910d2-d15a-4ea1-bc4b-6045e85bd270"
+title = "Do It Yourself!! ‐どぅー・いっと・ゆあせるふ‐ Theme Songs"
+artist = "Various Artists"
+date = 2022-11-16
+type = "normal"
+catalog = "EYCA-13929"
+tags = ["Do It Yourself!!"]
+
+[[discs]]
+catalog = "EYCA-13929"
+
+[[discs.tracks]]
+title = "どきどきアイデアをよろしく!"
+artist = "潟女DIY部!!（稲垣好、市ノ瀬加那、佐倉綾音、和氣あず未、高橋花林、大森日雅）"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "続く話"
+artist = "せるふとぷりん（稲垣好、市ノ瀬加那）"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "どきどきアイデアをよろしく! Inst."
+artist = "潟女DIY部!!（稲垣好、市ノ瀬加那、佐倉綾音、和氣あず未、高橋花林、大森日雅）"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "続く話 Inst."
+artist = "せるふとぷりん（稲垣好、市ノ瀬加那）"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "どきどきアイデアをよろしく! Cafe Mix"
+artist = "潟女DIY部!!（稲垣好、市ノ瀬加那、佐倉綾音、和氣あず未、高橋花林、大森日雅）"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "続く話 Cafe Mix"
+artist = "せるふとぷりん（稲垣好、市ノ瀬加那）"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "どきどきアイデアをよろしく! Funk Mix"
+artist = "潟女DIY部!!（稲垣好、市ノ瀬加那、佐倉綾音、和氣あず未、高橋花林、大森日雅）"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "続く話 Kawaii Mix"
+artist = "せるふとぷりん（稲垣好、市ノ瀬加那）"
+tags = ["ED"]

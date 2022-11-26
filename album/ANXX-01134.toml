@@ -1,0 +1,14 @@
+[album]
+album_id = "32f98130-3fb5-4028-b567-32a817518545"
+title = "あのバンド"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-11-27
+type = "normal"
+catalog = "ANXX-01134"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」"]
+
+[[discs]]
+catalog = "ANXX-01134"
+
+[[discs.tracks]]
+title = "あのバンド"
