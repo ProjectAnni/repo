@@ -1,0 +1,26 @@
+[album]
+album_id = "0b026e6c-de54-4c51-aaf6-faedbf2b580e"
+title = "Fizzy Night"
+artist = "富田美憂"
+date = 2022-11-23
+type = "normal"
+catalog = "COCX-41881"
+tags = ["富田美憂"]
+
+[[discs]]
+catalog = "COCX-41881"
+
+[[discs.tracks]]
+title = "Coming Up"
+
+[[discs.tracks]]
+title = "群青Dreaming"
+
+[[discs.tracks]]
+title = "Catcher"
+
+[[discs.tracks]]
+title = "ベンチ"
+
+[[discs.tracks]]
+title = "My Guiding Star"

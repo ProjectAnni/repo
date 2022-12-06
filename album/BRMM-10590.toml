@@ -1,0 +1,26 @@
+[album]
+album_id = "0f9b8d7b-c41e-4e14-9f08-1e7bd4c03ff9"
+title = "THE WAY OF LIFE"
+edition = "通常盤"
+artist = "RAISE A SUILEN（レイヤ（和奏レイ（Raychell））、ロック（朝日六花（小原莉子））、マスキング（佐藤ますき（夏芽））、パレオ（鳰原令王那（倉知玲鳳））、チュチュ（珠手ちゆ（紡木吏佐）））"
+date = 2022-11-30
+type = "normal"
+catalog = "BRMM-10590"
+tags = ["RAISE A SUILEN"]
+
+[[discs]]
+catalog = "BRMM-10590"
+
+[[discs.tracks]]
+title = "THE WAY OF LIFE"
+
+[[discs.tracks]]
+title = "DEAD HEAT BEAT"
+
+[[discs.tracks]]
+title = "THE WAY OF LIFE -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DEAD HEAT BEAT -instrumental-"
+type = "instrumental"
