@@ -1,0 +1,26 @@
+[album]
+album_id = "db126965-ab14-4e1f-bc7a-6a7b0604297d"
+title = "WINTER TRACKS -冬のうた-"
+artist = "ClariS（クララ、カレン）"
+date = 2022-12-07
+type = "normal"
+catalog = "VVCL-2162"
+tags = ["ClariS"]
+
+[[discs]]
+catalog = "VVCL-2162"
+
+[[discs.tracks]]
+title = "スノーライト"
+
+[[discs.tracks]]
+title = "WHITE BREATH"
+
+[[discs.tracks]]
+title = "ORION"
+
+[[discs.tracks]]
+title = "White Love"
+
+[[discs.tracks]]
+title = "サイレント・イヴ"

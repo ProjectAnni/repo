@@ -1,0 +1,26 @@
+[album]
+album_id = "2ff1f73c-2858-4ca1-a153-aa8261aea614"
+title = "笑顔と笑顔で始まるよ！"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2014-09-10
+type = "normal"
+catalog = "EMTN-10001"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "EMTN-10001"
+
+[[discs.tracks]]
+title = "笑顔と笑顔で始まるよ！"
+
+[[discs.tracks]]
+title = "想像を超えた世界"
+
+[[discs.tracks]]
+title = "笑顔と笑顔で始まるよ！ -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "想像を超えた世界 -Instrumental-"
+type = "instrumental"

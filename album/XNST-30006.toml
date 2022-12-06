@@ -1,0 +1,27 @@
+[album]
+album_id = "29a07b82-a363-4d06-b06e-68ddfe35d8a8"
+title = "tiny steps"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2022-12-07
+type = "normal"
+catalog = "XNST-30006"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "XNST-30006"
+
+[[discs.tracks]]
+title = "barefoot symphony"
+
+[[discs.tracks]]
+title = "素敵wonder girl"
+
+[[discs.tracks]]
+title = "NON TITLE UP"
+
+[[discs.tracks]]
+title = "Possible!"
+
+[[discs.tracks]]
+title = "絲-ito-"
