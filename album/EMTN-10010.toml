@@ -1,0 +1,26 @@
+[album]
+album_id = "9684eea0-83b0-4413-8100-85506f4dc46b"
+title = "盟約の彼方"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2016-02-17
+type = "normal"
+catalog = "EMTN-10010"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "EMTN-10010"
+
+[[discs.tracks]]
+title = "盟約の彼方"
+
+[[discs.tracks]]
+title = "つなぐメロディー"
+
+[[discs.tracks]]
+title = "盟約の彼方 -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "つなぐメロディー -Instrumental-"
+type = "instrumental"
