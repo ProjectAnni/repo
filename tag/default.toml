@@ -1023,6 +1023,11 @@ name = "Do It Yourself!!"
 names.zh-hans = "少女手工"
 type = "animation"
 
+[[tag]]
+name = "TVアニメ「夫婦以上、恋人未満。」"
+names.zh-hans = "夫妇以上，恋人未满。"
+type = "animation"
+
 ################################################################################
 # Game
 #
