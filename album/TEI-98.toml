@@ -1,15 +1,15 @@
 [album]
-album_id = "587e0b4b-cd88-4f9b-aa81-1d8a48109234"
+album_id = "786b765c-59a5-4192-a750-c29198205937"
 title = "〔CORE〕"
-edition = "アニメイト限定盤"
+edition = "とらのあな限定盤"
 artist = "駒形友梨"
 date = 2018-12-05
 type = "instrumental"
-catalog = "TEI-93"
+catalog = "TEI-98"
 tags = ["駒形友梨"]
 
 [[discs]]
-catalog = "TEI-93"
+catalog = "TEI-98"
 
 [[discs.tracks]]
 title = "starting in the haze (inst ver.)"
@@ -33,5 +33,5 @@ title = "ソノヒ (inst ver.)"
 title = "Talk 2 Night (inst ver.)"
 
 [[discs.tracks]]
-title = "クロックワイズ (vocal only ver.)"
-type = "normal"
+title = "It's HEAVEN (vocal only ver.)"
+type = "vocal"

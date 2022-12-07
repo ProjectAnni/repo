@@ -1,0 +1,37 @@
+[album]
+album_id = "887bd001-f3dc-4228-aa5c-4dd515edf7ba"
+title = "Indigo"
+artist = "駒形友梨"
+edition = "アニメイト限定盤"
+date = 2019-07-17
+type = "instrumental"
+catalog = "TEI-114"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TEI-114"
+
+[[discs.tracks]]
+title = "アクアリウム (inst ver.)"
+
+[[discs.tracks]]
+title = "ララルハレルヤ (inst ver.)"
+
+[[discs.tracks]]
+title = "invincible self (inst ver.)"
+
+[[discs.tracks]]
+title = "おそろい (inst ver.)"
+
+[[discs.tracks]]
+title = "August 31 (inst ver.)"
+
+[[discs.tracks]]
+title = "優しい雨 (inst ver.)"
+
+[[discs.tracks]]
+title = "night sea (inst ver.)"
+
+[[discs.tracks]]
+title = "ララルハレルヤ (vocal only ver.)"
+type = "vocal"

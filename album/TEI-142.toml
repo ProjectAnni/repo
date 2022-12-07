@@ -1,0 +1,24 @@
+[album]
+album_id = "402e1c77-1f3f-416c-8eb9-bc06da524474"
+title = "トマレのススメ"
+edition = "テイチクオンライン限定盤"
+artist = "駒形友梨"
+date = 2018-06-30
+type = "instrumental"
+catalog = "TEI-142"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TEI-142"
+
+[[discs.tracks]]
+title = "トマレのススメ (inst ver.)"
+
+[[discs.tracks]]
+title = "Lonely Blue が終わる頃には (inst ver.)"
+
+[[discs.tracks]]
+title = "はじめからきっと (inst ver.)"
+
+[[discs.tracks]]
+title = "トマレのススメ (vocal only ver.)"
