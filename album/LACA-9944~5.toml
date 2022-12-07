@@ -1,0 +1,130 @@
+[album]
+album_id = "b3e5dee8-90a0-4c04-90cc-8b2af4a2c856"
+title = "THE IDOLM@STER SHINY COLORS OFF VOCAL COLLECTION 02"
+artist = "Various Artists"
+date = 2022-12-07
+type = "instrumental"
+catalog = "LACA-9944~5"
+tags = ["THE IDOLM@STER Shiny Colors"]
+
+[[discs]]
+catalog = "LACA-9944"
+
+[[discs.tracks]]
+title = "プラニスフィア ～planisphere～ (Off Vocal)"
+artist = "Team.Stella"
+
+[[discs.tracks]]
+title = "ありったけの輝きで (Off Vocal)"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "星をめざして (Off Vocal)"
+artist = "芹沢あさひ（田中有紀）"
+
+[[discs.tracks]]
+title = "夢見鳥 (Off Vocal)"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "アポイント・シグナル (Off Vocal)"
+artist = "月岡恋鐘（礒部花凜）"
+
+[[discs.tracks]]
+title = "チョコデート・サンデー (Off Vocal)"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "Sweet Memories (Off Vocal)"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "ハナマルバッジ (Off Vocal)"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "リフレクトサイン (Off Vocal)"
+artist = "Team.Luna"
+
+[[discs.tracks]]
+title = "誰ソ彼アイデンティティー (Off Vocal)"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "わたしの主人公はわたしだから！ (Off Vocal)"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "また明日 (Off Vocal)"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "常咲の庭 (Off Vocal)"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs]]
+catalog = "LACA-9945"
+
+[[discs.tracks]]
+title = "プラスチック・アンブレラ (Off Vocal)"
+artist = "三峰結華（希水しお）"
+
+[[discs.tracks]]
+title = "Going my way (Off Vocal)"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "雪・月・風・花 (Off Vocal)"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "スローモーション (Off Vocal)"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "千夜アリア (Off Vocal)"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "Damascus Cocktail (Off Vocal)"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs.tracks]]
+title = "Darling you! (Off Vocal)"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "あおぞらサイダー (Off Vocal)"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "SOS (Off Vocal)"
+artist = "黛冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "過純性ブリーチ (Off Vocal)"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "HAREBARE!! (Off Vocal)"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "statice (Off Vocal)"
+artist = "浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "SOLAR WAY (Off Vocal)"
+artist = "Team.Sol"
+
+[[discs]]
+catalog = "@LACA-9944-BONUS"
+type = "normal"
+
+[[discs.tracks]]
+title = "リフレクトサイン (2022 Ver.)"
+artist = "Team.Luna"
+
+[[discs.tracks]]
+title = "プラスチック・アンブレラ (2022 Ver.)"
+artist = "三峰結華（希水しお）"
