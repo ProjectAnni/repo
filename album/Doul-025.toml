@@ -1,0 +1,14 @@
+[album]
+album_id = "fd2eb905-ec2f-4e21-95e2-21e2d5adf7aa"
+title = "BE ME"
+artist = "Doul"
+date = 2022-12-07
+type = "normal"
+catalog = "Doul-025"
+tags = ["Doul", "TVアニメ「アークナイツ 黎明前奏」", "ED"]
+
+[[discs]]
+catalog = "Doul-025"
+
+[[discs.tracks]]
+title = "BE ME"
