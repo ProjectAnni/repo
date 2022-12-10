@@ -1,0 +1,41 @@
+[album]
+album_id = "373b09d2-6752-4b5d-b80c-b2b932a877ba"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 11 Home Sweet Home"
+artist = "白坂小梅（桜咲千依）、辻野あかり（梅澤めぐ）、道明寺歌鈴（新田ひより）、佐久間まゆ（牧野由依）、小日向美穂（津田美波）"
+date = 2021-10-13
+type = "normal"
+catalog = "COCC-17841"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17841"
+
+[[discs.tracks]]
+title = "Home Sweet Home（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "Home Sweet Home 白坂小梅 SOLO VERSION"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "Home Sweet Home 辻野あかり SOLO VERSION"
+artist = "辻野あかり（梅澤めぐ）"
+
+[[discs.tracks]]
+title = "Home Sweet Home 道明寺歌鈴 SOLO VERSION"
+artist = "道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "Home Sweet Home 佐久間まゆ SOLO VERSION"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "Home Sweet Home 小日向美穂 SOLO VERSION"
+artist = "小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "Home Sweet Home（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Home Sweet Home（GAME VERSION）"

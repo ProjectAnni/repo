@@ -1,0 +1,60 @@
+[album]
+album_id = "eefbd3ab-2216-4e7e-afcb-324f07ab15c7"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 01 Go Just Go!"
+artist = "夢見りあむ（星希成奏）、大槻唯（山下七海）、北条加蓮（渕上舞）、佐藤心（花守ゆみり）、一ノ瀬志希（藍原ことみ）、鷹富士茄子（森下来奈）、棟方愛海（藤本彩花）、川島瑞樹（東山奈央）、五十嵐響子（種﨑敦美）"
+date = 2020-09-16
+type = "normal"
+catalog = "COCC-17831"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17831"
+
+[[discs.tracks]]
+title = "Go Just Go! (M@STER VERSION)"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）夢見りあむソロ・リミックス"
+artist = "夢見りあむ（星希成奏）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）大槻唯ソロ・リミックス"
+artist = "大槻唯（山下七海）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）北条加蓮ソロ・リミックス"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）佐藤心ソロ・リミックス"
+artist = "佐藤心（花守ゆみり）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）一ノ瀬志希ソロ・リミックス"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）鷹富士茄子ソロ・リミックス"
+artist = "鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）棟方愛海ソロ・リミックス"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）川島瑞樹ソロ・リミックス"
+artist = "川島瑞樹（東山奈央）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）五十嵐響子ソロ・リミックス"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "Go Just Go!（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Go Just Go!（GAME VERSION）"
+
+[[discs.tracks]]
+title = "Go Just Go!（ANIMATION VERSION）"

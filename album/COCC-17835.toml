@@ -1,0 +1,44 @@
+[album]
+album_id = "e3fe2e8c-e5ce-42b5-911c-11ab561b6fdb"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 05 オレンジタイム"
+artist = "Various Artists"
+date = 2020-12-16
+type = "normal"
+catalog = "COCC-17835"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17835"
+
+[[discs.tracks]]
+title = "オレンジタイム（M@STER VERSION）"
+artist = "輿水幸子（竹達彩奈）、白坂小梅（桜咲千依）、星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "Hacking to the Gate"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "いつかの、いくつかのきみとのせかい"
+artist = "白菊ほたる（天野聡美）、鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "オレンジタイム（M@STER VERSION）オリジナル・カラオケ"
+artist = "輿水幸子（竹達彩奈）、白坂小梅（桜咲千依）、星輝子（松田颯水）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オレンジタイム（M@STER VERSION）輿水幸子ソロ・リミックス"
+artist = "輿水幸子（竹達彩奈）"
+
+[[discs.tracks]]
+title = "オレンジタイム（M@STER VERSION）白坂小梅ソロ・リミックス"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "オレンジタイム（M@STER VERSION）星輝子ソロ・リミックス"
+artist = "星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "オレンジタイム（GAME VERSION）"
+artist = "輿水幸子（竹達彩奈）、白坂小梅（桜咲千依）、星輝子（松田颯水）"

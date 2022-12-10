@@ -1,0 +1,60 @@
+[album]
+album_id = "85dd593d-26ef-48b7-a300-6e1bb96c486d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 07 Wish you Happiness!!"
+artist = "Various Artists"
+date = 2021-04-07
+type = "normal"
+catalog = "COCC-17837"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17837"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）"
+artist = "辻野あかり（梅澤めぐ）、小早川紗枝（立花理香）、安部菜々（三宅麻理恵）、新田美波（洲崎綾）、ナターリア（生田輝）、塩見周子（ルゥティン）、浜口あやめ（田澤茉純）"
+
+[[discs.tracks]]
+title = "brave heart"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "離れていても"
+artist = "佐久間まゆ（牧野由依）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）オリジナル・カラオケ"
+artist = "辻野あかり（梅澤めぐ）、小早川紗枝（立花理香）、安部菜々（三宅麻理恵）、新田美波（洲崎綾）、ナターリア（生田輝）、塩見周子（ルゥティン）、浜口あやめ（田澤茉純）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）辻野あかりソロ・リミックス"
+artist = "辻野あかり（梅澤めぐ）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）小早川紗枝ソロ・リミックス"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）安部菜々ソロ・リミックス"
+artist = "安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）新田美波ソロ・リミックス"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）ナターリアソロ・リミックス"
+artist = "ナターリア（生田輝）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）塩見周子ソロ・リミックス"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（M@STER VERSION）浜口あやめソロ・リミックス"
+artist = "浜口あやめ（田澤茉純）"
+
+[[discs.tracks]]
+title = "Wish you Happiness!!（GAME VERSION）"
+artist = "辻野あかり（梅澤めぐ）、小早川紗枝（立花理香）、安部菜々（三宅麻理恵）、新田美波（洲崎綾）、ナターリア（生田輝）、塩見周子（ルゥティン）、浜口あやめ（田澤茉純）"

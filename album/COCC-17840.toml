@@ -1,0 +1,57 @@
+[album]
+album_id = "05e95473-64a8-4a68-879f-143f00ffae1f"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 10 Hungry Bambi"
+artist = "Various Artists"
+date = 2021-09-22
+type = "normal"
+catalog = "COCC-17840"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17840"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）"
+artist = "佐々木千枝（今井麻夏）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、龍崎薫（春瀬なつみ）、棟方愛海（藤本彩花）、遊佐こずえ（花谷麻妃）"
+
+[[discs.tracks]]
+title = "ずるじゃん"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）オリジナル・カラオケ"
+artist = "佐々木千枝（今井麻夏）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、龍崎薫（春瀬なつみ）、棟方愛海（藤本彩花）、遊佐こずえ（花谷麻妃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ずるじゃん オリジナル・カラオケ"
+artist = "乙倉悠貴（中島由貴）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）佐々木千枝ソロ・リミックス"
+artist = "佐々木千枝（今井麻夏）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）市原仁奈ソロ・リミックス"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）橘ありすソロ・リミックス"
+artist = "橘ありす（佐藤亜美菜）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）龍崎薫ソロ・リミックス"
+artist = "龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）棟方愛海ソロ・リミックス"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "Hungry Bambi（M@STER VERSION）遊佐こずえソロ・リミックス"
+artist = "遊佐こずえ（花谷麻妃）"
+
+[[discs.tracks]]
+title = "Hungry Bambi (Game Version) [Bonus Track]"
+artist = "佐々木千枝（今井麻夏）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、龍崎薫（春瀬なつみ）、棟方愛海（藤本彩花）、遊佐こずえ（花谷麻妃）"

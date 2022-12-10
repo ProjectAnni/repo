@@ -1,0 +1,48 @@
+[album]
+album_id = "af0cc20a-9675-43f3-8db4-4828442516a2"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 14 レッド・ソール"
+artist = "Various Artists"
+date = 2021-12-22
+type = "normal"
+catalog = "COCC-17844"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17844"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）"
+artist = "桐生つかさ（河瀬茉希）、三船美優（原田彩楓）、星輝子（松田颯水）、藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "God knows…"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "Lost my music"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）オリジナル・カラオケ"
+artist = "桐生つかさ（河瀬茉希）、三船美優（原田彩楓）、星輝子（松田颯水）、藤原肇（鈴木みのり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）桐生つかさ ソロ・リミックス"
+artist = "桐生つかさ（河瀬茉希）"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）三船美優 ソロ・リミックス"
+artist = "三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）星輝子 ソロ・リミックス"
+artist = "星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "レッド・ソール（M@STER VERSION）藤原肇 ソロ・リミックス"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "レッド・ソール（GAME VERSION）"
+artist = "桐生つかさ（河瀬茉希）、三船美優（原田彩楓）、星輝子（松田颯水）、藤原肇（鈴木みのり）"
