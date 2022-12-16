@@ -1,0 +1,53 @@
+[album]
+album_id = "6c666ee5-920e-44b1-97c0-4016d22f4470"
+title = "LANDER"
+artist = "LiSA"
+date = 2022-11-16
+type = "normal"
+catalog = "VVCL-2128"
+tags = ["LiSA"]
+
+[[discs]]
+catalog = "VVCL-2128"
+
+[[discs.tracks]]
+title = "往け"
+
+[[discs.tracks]]
+title = "一斉ノ喝采"
+
+[[discs.tracks]]
+title = "dis/connect"
+
+[[discs.tracks]]
+title = "シャンプーソング"
+
+[[discs.tracks]]
+title = "明け星"
+
+[[discs.tracks]]
+title = "白銀"
+
+[[discs.tracks]]
+title = "炎"
+
+[[discs.tracks]]
+title = "逃飛行"
+
+[[discs.tracks]]
+title = "HADASHi NO STEP"
+
+[[discs.tracks]]
+title = "シフクノトキ"
+
+[[discs.tracks]]
+title = "土曜日のわたしたちは"
+
+[[discs.tracks]]
+title = "悪女のオキテ"
+
+[[discs.tracks]]
+title = "dawn"
+
+[[discs.tracks]]
+title = "NEW ME"

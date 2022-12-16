@@ -1,0 +1,24 @@
+[album]
+album_id = "df1a8edb-de76-4a94-afcb-c0b0e0b4bc17"
+title = "ROCKET HEART"
+artist = "新田恵海"
+date = 2017-04-19
+type = "normal"
+catalog = "EMTN-10014"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "EMTN-10014"
+
+[[discs.tracks]]
+title = "ROCKET HEART"
+
+[[discs.tracks]]
+title = "Shine"
+
+[[discs.tracks]]
+title = "暁（2017 rearrange ver.）"
+
+[[discs.tracks]]
+title = "ROCKET HEART -Instrumental-"
+type = "instrumental"

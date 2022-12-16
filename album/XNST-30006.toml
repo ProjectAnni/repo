@@ -1,0 +1,47 @@
+[album]
+album_id = "29a07b82-a363-4d06-b06e-68ddfe35d8a8"
+title = "tiny steps"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2022-12-07
+type = "normal"
+catalog = "XNST-30006"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "XNST-30006"
+
+[[discs.tracks]]
+title = "barefoot symphony"
+artists.vocal = "新田恵海"
+artists.composer = "コモリタミノル"
+artists.lyricist = "meg rock"
+artists.arranger = "コモリタミノル"
+
+[[discs.tracks]]
+title = "素敵wonder girl"
+artists.vocal = "新田恵海"
+artists.composer = "倉内達矢"
+artists.lyricist = "新田恵海"
+artists.arranger = "倉内達矢"
+
+[[discs.tracks]]
+title = "NON TITLE UP"
+artists.vocal = "新田恵海"
+artists.composer = "ZAQ"
+artists.lyricist = "ZAQ"
+artists.arranger = "eba、ZAQ"
+
+[[discs.tracks]]
+title = "Possible!"
+artists.vocal = "新田恵海"
+artists.composer = "黒須克彦"
+artists.lyricist = "新田恵海"
+artists.arranger = "黒須克彦"
+
+[[discs.tracks]]
+title = "絲-ito-"
+artists.vocal = "新田恵海"
+artists.composer = "新田恵海"
+artists.lyricist = "新田恵海"
+artists.arranger = "蓮尾理之(siraph)、照井順政(siraph)"

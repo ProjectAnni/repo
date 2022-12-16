@@ -1,0 +1,28 @@
+[album]
+album_id = "fbcede49-61a9-4fd4-b850-c2e865b8ce87"
+title = "TRUE FOOL LOVE"
+edition = "初回限定盤"
+artist = "Liyuu"
+date = 2022-11-02
+type = "normal"
+catalog = "LACM-34304"
+tags = ["Liyuu"]
+
+[[discs]]
+catalog = "LACM-34304"
+
+[[discs.tracks]]
+title = "TRUE FOOL LOVE"
+tags = ["TVアニメ「夫婦以上、恋人未満。」", "OP"]
+
+[[discs.tracks]]
+title = "Touch"
+
+[[discs.tracks]]
+title = "TRUE FOOL LOVE -instrumental-"
+type = "instrumental"
+tags = ["TVアニメ「夫婦以上、恋人未満。」", "OP"]
+
+[[discs.tracks]]
+title = "Touch -instrumental-"
+type = "instrumental"

@@ -1,7 +1,7 @@
 [album]
 album_id = "af9fce8e-a0fd-46a7-94f8-613dd6ad2df9"
 title = "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-"
-artist = "Team.Stella"
+artist = "Team.Stella（櫻木真乃（関根瞳）、月岡恋鐘（礒部花凜）、小宮果穂（河野ひより）、園田智代子（白石晴香）、大崎甘奈（黒木ほの香）、芹沢あさひ（田中有紀）、樋口円香（土屋李央））"
 date = 2021-01-20
 type = "normal"
 catalog = "LACA-15861"
@@ -15,28 +15,28 @@ title = "プラニスフィア ～planisphere～"
 
 [[discs.tracks]]
 title = "ありったけの輝きで"
-artist = "櫻木真乃"
+artist = "櫻木真乃（関根瞳）"
 
 [[discs.tracks]]
 title = "星をめざして"
-artist = "芹沢あさひ"
+artist = "芹沢あさひ（田中有紀）"
 
 [[discs.tracks]]
 title = "夢見鳥"
-artist = "樋口円香"
+artist = "樋口円香（土屋李央）"
 
 [[discs.tracks]]
 title = "アポイント・シグナル"
-artist = "月岡恋鐘"
+artist = "月岡恋鐘（礒部花凜）"
 
 [[discs.tracks]]
 title = "チョコデート・サンデー"
-artist = "園田智代子"
+artist = "園田智代子（白石晴香）"
 
 [[discs.tracks]]
 title = "Sweet Memories"
-artist = "大崎甘奈"
+artist = "大崎甘奈（黒木ほの香）"
 
 [[discs.tracks]]
 title = "ハナマルバッジ"
-artist = "小宮果穂"
+artist = "小宮果穂（河野ひより）"

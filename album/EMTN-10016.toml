@@ -1,0 +1,71 @@
+[album]
+album_id = "50291616-b586-4b22-b921-2187bc92dde1"
+title = "Trace of EMUSIC"
+artist = "新田恵海"
+date = 2017-07-19
+type = "normal"
+catalog = "EMTN-10016"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "@EMTN-10016-01"
+
+[[discs.tracks]]
+title = "Smile again with you"
+
+[[discs.tracks]]
+title = "EMUSIC"
+
+[[discs.tracks]]
+title = "笑顔と笑顔で始まるよ！"
+
+[[discs.tracks]]
+title = "探求Dreaming"
+
+[[discs.tracks]]
+title = "NEXT PHASE"
+
+[[discs.tracks]]
+title = "盟約の彼方"
+
+[[discs.tracks]]
+title = "言葉より強く"
+
+[[discs.tracks]]
+title = "OURS POWERS"
+
+[[discs.tracks]]
+title = "ROCKET HEART"
+
+[[discs]]
+catalog = "@EMTN-10016-02"
+
+[[discs.tracks]]
+title = "想像を超えた世界"
+
+[[discs.tracks]]
+title = "想いよ届け"
+
+[[discs.tracks]]
+title = "優しい世界そして未来へ"
+
+[[discs.tracks]]
+title = "Dear everyday"
+
+[[discs.tracks]]
+title = "Rainy*flower"
+
+[[discs.tracks]]
+title = "WONDER! SHUTTER LOVE"
+
+[[discs.tracks]]
+title = "スピカ"
+
+[[discs.tracks]]
+title = "つなぐメロディー"
+
+[[discs.tracks]]
+title = "きらめきを夢みて"
+
+[[discs.tracks]]
+title = "Believe in (E)MUSIC"

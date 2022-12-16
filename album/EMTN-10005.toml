@@ -1,0 +1,26 @@
+[album]
+album_id = "72f2aad8-3b97-4ad3-b90c-76b6a0e1d0fe"
+title = "NEXT PHASE"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2015-02-18
+type = "normal"
+catalog = "EMTN-10005"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "EMTN-10005"
+
+[[discs.tracks]]
+title = "NEXT PHASE"
+
+[[discs.tracks]]
+title = "優しい世界そして未来へ"
+
+[[discs.tracks]]
+title = "NEXT PHASE -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "優しい世界そして未来へ -Instrumental-"
+type = "instrumental"

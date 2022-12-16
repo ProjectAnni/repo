@@ -273,6 +273,14 @@ type = "artist"
 name = "神前暁"
 type = "artist"
 
+[[tag]]
+name = "新田恵海"
+type = "artist"
+
+[[tag]]
+name = "Doul"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -1021,6 +1029,16 @@ type = "animation"
 [[tag]]
 name = "Do It Yourself!!"
 names.zh-hans = "少女手工"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「夫婦以上、恋人未満。」"
+names.zh-hans = "夫妇以上，恋人未满。"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「アークナイツ 黎明前奏」"
+names.zh-hans = "明日方舟 黎明前奏"
 type = "animation"
 
 ################################################################################

@@ -1,0 +1,45 @@
+[album]
+album_id = "d003644d-5e46-4265-b68e-3077be34ca8d"
+title = "EMUSIC"
+edition = "通常盤"
+artist = "新田恵海"
+date = 2015-10-21
+type = "normal"
+catalog = "ETMN-10007"
+tags = ["新田恵海"]
+
+[[discs]]
+catalog = "ETMN-10007"
+
+[[discs.tracks]]
+title = "EMUSIC"
+
+[[discs.tracks]]
+title = "笑顔と笑顔で始まるよ！"
+
+[[discs.tracks]]
+title = "言葉より強く"
+
+[[discs.tracks]]
+title = "Rainy＊flower"
+
+[[discs.tracks]]
+title = "Dear everyday"
+
+[[discs.tracks]]
+title = "探求Dreaming"
+
+[[discs.tracks]]
+title = "WONDER! SHUTTER LOVE"
+
+[[discs.tracks]]
+title = "スピカ"
+
+[[discs.tracks]]
+title = "OURS POWERS"
+
+[[discs.tracks]]
+title = "NEXT PHASE"
+
+[[discs.tracks]]
+title = "きらめきを夢みて"

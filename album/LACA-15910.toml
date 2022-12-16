@@ -1,0 +1,31 @@
+[album]
+album_id = "47ee348e-77f5-4e09-b168-717403692593"
+title = "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 10"
+artist = "秋月律子（若林直美）、周防桃子（渡部恵子）、高山紗代子（駒形友梨）、田中琴葉（種田梨沙）、望月杏奈（夏川椎菜）"
+date = 2022-11-30
+type = "normal"
+catalog = "LACA-15910"
+tags = ["THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2"]
+
+[[discs]]
+catalog = "LACA-15910"
+
+[[discs.tracks]]
+title = "REACH THE SKY"
+artist = "高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = "リーチ・アップ・ステップ！"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "Discord Area"
+artist = "秋月律子（若林直美）"
+
+[[discs.tracks]]
+title = "スポットライト・ミラーランド"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "Sing a Wing Song"
+artist = "田中琴葉（種田梨沙）"

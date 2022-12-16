@@ -1,0 +1,37 @@
+[album]
+album_id = "dcce4f6b-979e-48fd-9350-17ca284bf475"
+title = "〔CORE〕"
+edition = "ゲーマーズ限定盤"
+artist = "駒形友梨"
+date = 2018-12-05
+type = "instrumental"
+catalog = "TEI-97"
+tags = ["駒形友梨"]
+
+[[discs]]
+catalog = "TEI-97"
+
+[[discs.tracks]]
+title = "starting in the haze (inst ver.)"
+
+[[discs.tracks]]
+title = "メイズ (inst ver.)"
+
+[[discs.tracks]]
+title = "クロックワイズ (inst ver.)"
+
+[[discs.tracks]]
+title = "It's HEAVEN (inst ver.)"
+
+[[discs.tracks]]
+title = "時の葉 (inst ver.)"
+
+[[discs.tracks]]
+title = "ソノヒ (inst ver.)"
+
+[[discs.tracks]]
+title = "Talk 2 Night (inst ver.)"
+
+[[discs.tracks]]
+title = "時の葉 (vocal only ver.)"
+type = "vocal"
