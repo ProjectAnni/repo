@@ -1,0 +1,26 @@
+[album]
+album_id = "d28b94bd-613a-4085-8982-0b3a7be83623"
+title = "Night terror"
+edition = "初回限定盤"
+artist = "村川梨衣"
+date = 2017-10-11
+type = "normal"
+catalog = "COZC-1373"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZC-1373"
+
+[[discs.tracks]]
+title = "Night terror"
+
+[[discs.tracks]]
+title = "Snow Christmas"
+
+[[discs.tracks]]
+title = "Night terror (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Snow Christmas (Instrumental)"
+type = "instrumental"

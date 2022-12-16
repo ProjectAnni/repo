@@ -281,6 +281,10 @@ type = "artist"
 name = "Doul"
 type = "artist"
 
+[[tag]]
+name = "村川梨衣"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -436,6 +440,10 @@ type = "group"
 ################################################################################
 # Animation
 #
+# [[tag]]
+# name = ""
+# names.zh-hans = ""
+# type = "animation"
 [[tag]]
 name = "100万の命の上に俺は立っている"
 names.zh-hans = "我立于百万生命之上"
@@ -1039,6 +1047,31 @@ type = "animation"
 [[tag]]
 name = "TVアニメ「アークナイツ 黎明前奏」"
 names.zh-hans = "明日方舟 黎明前奏"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「ヒナまつり」"
+names.zh-hans = "黑社会的超能力女儿"
+type = "animation"
+
+[[tag]]
+name = "アニメ「12歳。～ちっちゃなムネのトキメキ～」"
+names.zh-hans = "12岁。小小的胸口心跳加速"
+type = "animation"
+
+[[tag]]
+name = "アニメ「私がモテてどうすんだ」"
+names.zh-hans = "我太受欢迎了该怎么办"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「フレームアームズ・ガール」"
+names.zh-hans = "机甲少女 FRAME ARMS GIRL"
+type = "animation"
+
+[[tag]]
+name = "アニメ「ピアノの森」第2シリーズ"
+names.zh-hans = "钢琴之森 第二季"
 type = "animation"
 
 ################################################################################

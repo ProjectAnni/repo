@@ -1,0 +1,28 @@
+[album]
+album_id = "22c1c5b4-c9a5-46bf-8f46-162faf44e6e0"
+title = "ドキドキの風"
+edition = "初回限定盤"
+artist = "村川梨衣"
+date = 2016-11-02
+type = "normal"
+catalog = "COZC-1250"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZC-1250"
+
+[[discs.tracks]]
+title = "ドキドキの風"
+tags = ["アニメ「私がモテてどうすんだ」", "ED"]
+
+[[discs.tracks]]
+title = "RiEtion please♡"
+
+[[discs.tracks]]
+title = "ドキドキの風 (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「私がモテてどうすんだ」", "ED"]
+
+[[discs.tracks]]
+title = "RiEtion please♡ (Instrumental)"
+type = "instrumental"

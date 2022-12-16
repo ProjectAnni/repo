@@ -1,0 +1,48 @@
+[album]
+album_id = "f8bd8340-de06-4c3b-b7db-d300e92478b6"
+title = "RiESiNFONiA"
+edition = "初回限定盤B"
+artist = "村川梨衣"
+date = 2018-02-28
+type = "normal"
+catalog = "COZX-1416"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZX-1416"
+
+[[discs.tracks]]
+title = "Graceful"
+
+[[discs.tracks]]
+title = "水色のFantasy"
+
+[[discs.tracks]]
+title = "Re:Emotion"
+
+[[discs.tracks]]
+title = "Night terror"
+
+[[discs.tracks]]
+title = "レクイエム -Requiem-"
+
+[[discs.tracks]]
+title = "硝子の扉"
+
+[[discs.tracks]]
+title = "光のイグジット"
+
+[[discs.tracks]]
+title = "月のlx"
+
+[[discs.tracks]]
+title = "Bright"
+
+[[discs.tracks]]
+title = "辿り着く物語(せかい)は"
+
+[[discs.tracks]]
+title = "Tiny Tiny"
+
+[[discs.tracks]]
+title = "帰れない場所へ"

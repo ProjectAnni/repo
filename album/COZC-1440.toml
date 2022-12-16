@@ -1,0 +1,28 @@
+[album]
+album_id = "b8557df2-79b3-4ac8-a909-a75107975712"
+title = "Distance"
+edition = "初回限定盤"
+artist = "村川梨衣"
+date = 2018-05-23
+type = "normal"
+catalog = "COZC-1440"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZC-1440"
+
+[[discs.tracks]]
+title = "Distance"
+tags = ["TVアニメ「ヒナまつり」", "OP"]
+
+[[discs.tracks]]
+title = "願うは、幸せでありますように"
+
+[[discs.tracks]]
+title = "Distance (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「ヒナまつり」", "OP"]
+
+[[discs.tracks]]
+title = "願うは、幸せでありますように (Instrumental)"
+type = "instrumental"
