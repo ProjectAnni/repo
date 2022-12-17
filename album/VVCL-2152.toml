@@ -1,0 +1,32 @@
+[album]
+album_id = "6bc71685-d279-4acb-bb64-fc5694e89ed1"
+title = "Deep down"
+artist = "Aimer"
+date = 2022-12-14
+type = "normal"
+catalog = "VVCL-2152"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVCL-2152"
+
+[[discs.tracks]]
+title = "Deep down"
+
+[[discs.tracks]]
+title = "オアイコ"
+
+[[discs.tracks]]
+title = "Ivy Ivy Ivy"
+
+[[discs.tracks]]
+title = "wavy flow"
+
+[[discs.tracks]]
+title = "rubble pile"
+
+[[discs.tracks]]
+title = "カタオモイ - From THE FIRST TAKE"
+
+[[discs.tracks]]
+title = "残響散歌 - From THE FIRST TAKE"
