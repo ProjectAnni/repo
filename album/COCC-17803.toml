@@ -1,0 +1,51 @@
+[album]
+album_id = "019279d6-335c-47c8-8e8f-e185049c2122"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS EXTRA! 君のステージ衣装、本当は…"
+artist = "Various Artists"
+date = 2021-02-03
+type = "normal"
+catalog = "COCC-17803"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17803"
+
+[[discs.tracks]]
+title = "君のステージ衣装、本当は…"
+artist = "速水奏（飯田友子）、白雪千夜（関口理咲）、佐城雪美（中澤ミナ）、的場梨沙（集貝はな）、荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "プライスレス ドーナッCyu♡"
+artist = "椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "思い出じゃない今日を"
+artist = "喜多見柚（武田羅梨沙多胡）"
+
+[[discs.tracks]]
+title = "初夢をあなたと"
+artist = "鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "君のステージ衣装、本当は… オリジナル・カラオケ"
+artist = "速水奏（飯田友子）、白雪千夜（関口理咲）、佐城雪美（中澤ミナ）、的場梨沙（集貝はな）、荒木比奈（田辺留依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "プライスレス ドーナッCyu♡ オリジナル・カラオケ"
+artist = "椎名法子（都丸ちよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "思い出じゃない今日を オリジナル・カラオケ"
+artist = "喜多見柚（武田羅梨沙多胡）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初夢をあなたと オリジナル・カラオケ"
+artist = "鷹富士茄子（森下来奈）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "君のステージ衣装、本当は…（GAME VERSION）"
+artist = "速水奏（飯田友子）、白雪千夜（関口理咲）、佐城雪美（中澤ミナ）、的場梨沙（集貝はな）、荒木比奈（田辺留依）"
