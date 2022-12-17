@@ -1,0 +1,50 @@
+[album]
+album_id = "e24fbaa8-8945-4245-9e91-dc0938d1d582"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 10 まほうのまくら"
+artist = "Various Artists"
+date = 2022-11-09
+type = "normal"
+catalog = "COCC-17980"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17980"
+
+[[discs.tracks]]
+title = "まほうのまくら (M@STER VERSION)"
+artist = "遊佐こずえ（花谷麻妃）、双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "Arrowhead"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Bullet Ride"
+artist = "木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "まほうのまくら (M@STER VERSION) オリジナル・カラオケ"
+artist = "遊佐こずえ（花谷麻妃）、双葉杏（五十嵐裕美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Arrowhead オリジナル・カラオケ"
+artist = "多田李衣菜（青木瑠璃子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Bullet Ride オリジナル・カラオケ"
+artist = "木村夏樹（安野希世乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まほうのまくら (M@STER VERSION) 遊佐こずえソロ・リミックス"
+artist = "遊佐こずえ（花谷麻妃）"
+
+[[discs.tracks]]
+title = "まほうのまくら (M@STER VERSION) 双葉杏ソロ・リミックス"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "まほうのまくら (GAME VERSION)"
+artist = "遊佐こずえ（花谷麻妃）、双葉杏（五十嵐裕美）"

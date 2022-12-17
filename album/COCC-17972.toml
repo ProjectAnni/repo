@@ -1,0 +1,42 @@
+[album]
+album_id = "28e2aef5-153d-408f-9cb2-b8847369a980"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 02 Drastic Melody"
+artist = "渋谷凛（福原綾香）、白雪千夜（関口理咲）、松永涼（千菅春香）"
+date = 2022-02-16
+type = "normal"
+catalog = "COCC-17972"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17972"
+
+[[discs.tracks]]
+title = "Drastic Melody（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "Myself"
+artist = "松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "Drastic Melody（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Myselfオリジナル・カラオケ"
+artist = "松永涼（千菅春香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Drastic Melody（M@STER VERSION）渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Drastic Melody（M@STER VERSION）白雪千夜ソロ・リミックス"
+artist = "白雪千夜（関口理咲）"
+
+[[discs.tracks]]
+title = "Drastic Melody（M@STER VERSION）松永涼ソロ・リミックス"
+artist = "松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "Drastic Melody（Game Version）"

@@ -1,0 +1,53 @@
+[album]
+album_id = "d63e1bf0-5f73-4434-a5cc-b2e888817f7a"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 09 New bright stars"
+artist = "Various Artists"
+date = 2022-10-19
+type = "normal"
+catalog = "COCC-17979"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17979"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）"
+artist = "小日向美穂（津田美波）、浅利七海（井上ほの花）、桐生つかさ（河瀬茉希）、城ヶ崎美嘉（佳村はるか）、向井拓海（原優子）"
+
+[[discs.tracks]]
+title = "DELIGHT"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）オリジナル・カラオケ"
+artist = "小日向美穂（津田美波）、浅利七海（井上ほの花）、桐生つかさ（河瀬茉希）、城ヶ崎美嘉（佳村はるか）、向井拓海（原優子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DELIGHT オリジナル・カラオケ"
+artist = "本田未央（原紗友里）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）小日向美穂ソロ・リミックス"
+artist = "小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）浅利七海ソロ・リミックス"
+artist = "浅利七海（井上ほの花）"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）桐生つかさソロ・リミックス"
+artist = "桐生つかさ（河瀬茉希）"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）城ヶ崎美嘉ソロ・リミックス"
+artist = "城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "New bright stars（M@STER VERSION）向井拓海ソロ・リミックス"
+artist = "向井拓海（原優子）"
+
+[[discs.tracks]]
+title = "New bright stars（GAME VERSION）"
+artist = "小日向美穂（津田美波）、浅利七海（井上ほの花）、桐生つかさ（河瀬茉希）、城ヶ崎美嘉（佳村はるか）、向井拓海（原優子）"

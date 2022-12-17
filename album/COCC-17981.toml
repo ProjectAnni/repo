@@ -1,0 +1,53 @@
+[album]
+album_id = "0cf878f5-fbc5-43e1-8b4a-78d706e714c7"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 11 メモリーブロッサム"
+artist = "Various Artists"
+date = 2022-12-14
+type = "normal"
+catalog = "COCC-17981"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17981"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）"
+artist = "西園寺琴歌（安齋由香里）、白菊ほたる（天野聡美）、高森藍子（金子有希）、五十嵐響子（種﨑敦美）、水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "ネコドル☆オーバー・ザ・ワールド"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）オリジナル・カラオケ"
+artist = "西園寺琴歌（安齋由香里）、白菊ほたる（天野聡美）、高森藍子（金子有希）、五十嵐響子（種﨑敦美）、水本ゆかり（藤田茜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ネコドル☆オーバー・ザ・ワールド オリジナル・カラオケ"
+artist = "前川みく（高森奈津美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）西園寺琴歌ソロ・リミックス"
+artist = "西園寺琴歌（安齋由香里）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）白菊ほたるソロ・リミックス"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）高森藍子ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）五十嵐響子ソロ・リミックス"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム（M@STER VERSION）水本ゆかりソロ・リミックス"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "メモリーブロッサム (GAME VERSION)"
+artist = "西園寺琴歌（安齋由香里）、白菊ほたる（天野聡美）、高森藍子（金子有希）、五十嵐響子（種﨑敦美）、水本ゆかり（藤田茜）"
