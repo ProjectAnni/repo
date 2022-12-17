@@ -1,0 +1,42 @@
+[album]
+album_id = "e7fc89f9-9b0c-4d5b-bdf9-a9ce7275a8bc"
+title = "THE IDOLM@STER CINDERELLA MASTER 3chord for the Pops!"
+artist = "Various Artists"
+date = 2019-11-13
+type = "normal"
+catalog = "COCC-17693"
+tags = ["THE IDOLM@STER CINDERELLA MASTER 3chord"]
+
+[[discs]]
+catalog = "COCC-17693"
+
+[[discs.tracks]]
+title = "不埒なCANVAS"
+artist = "輿水幸子（竹達彩奈）、塩見周子（ルゥティン）、相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "印象"
+artist = "浜口あやめ（田澤茉純）、白菊ほたる（天野聡美）、三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "不埒なCANVAS オリジナル・カラオケ"
+artist = "輿水幸子（竹達彩奈）、塩見周子（ルゥティン）、相葉夕美（木村珠莉）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "印象 オリジナル・カラオケ"
+artist = "浜口あやめ（田澤茉純）、白菊ほたる（天野聡美）、三船美優（原田彩楓）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "comic cosmic（M@STER VERSION）"
+artist = "佐久間まゆ（牧野由依）、久川颯（長江里加）、中野有香（下地紫野）、佐々木千枝（今井麻夏）、堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "comic cosmic（M@STER VERSION） オリジナル・カラオケ"
+artist = "佐久間まゆ（牧野由依）、久川颯（長江里加）、中野有香（下地紫野）、佐々木千枝（今井麻夏）、堀裕子（鈴木絵理）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "comic cosmic（GAME VERSION）"
+artist = "佐久間まゆ（牧野由依）、久川颯（長江里加）、中野有香（下地紫野）、佐々木千枝（今井麻夏）、堀裕子（鈴木絵理）"

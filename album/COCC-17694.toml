@@ -1,0 +1,42 @@
+[album]
+album_id = "e6e87ede-94b7-482e-950b-8b13a9550d82"
+title = "THE IDOLM@STER CINDERELLA MASTER 3chord for the Dance!"
+artist = "Various Artists"
+date = 2020-02-19
+type = "normal"
+catalog = "COCC-17694"
+tags = ["THE IDOLM@STER CINDERELLA MASTER 3chord"]
+
+[[discs]]
+catalog = "COCC-17694"
+
+[[discs.tracks]]
+title = "躍るFLAGSHIP"
+artist = "小日向美穂（津田美波）、佐藤心（花守ゆみり）、北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "Athanasia"
+artist = "ナターリア（生田輝）、小早川紗枝（立花理香）、白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "躍るFLAGSHIP オリジナル・カラオケ"
+artist = "小日向美穂（津田美波）、佐藤心（花守ゆみり）、北条加蓮（渕上舞）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Athanasia オリジナル・カラオケ"
+artist = "ナターリア（生田輝）、小早川紗枝（立花理香）、白坂小梅（桜咲千依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミラーボール・ラブ（M@STER VERSION）"
+artist = "宮本フレデリカ（髙野麻美）、棟方愛海（藤本彩花）、及川雫（のぐちゆり）、荒木比奈（田辺留依）、姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "ミラーボール・ラブ（M@STER VERSION） オリジナル・カラオケ"
+artist = "宮本フレデリカ（髙野麻美）、棟方愛海（藤本彩花）、及川雫（のぐちゆり）、荒木比奈（田辺留依）、姫川友紀（杜野まこ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミラーボール・ラブ（GAME VERSION）"
+artist = "宮本フレデリカ（髙野麻美）、棟方愛海（藤本彩花）、及川雫（のぐちゆり）、荒木比奈（田辺留依）、姫川友紀（杜野まこ）"
