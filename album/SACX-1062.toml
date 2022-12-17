@@ -1,0 +1,79 @@
+[album]
+album_id = "b2aa9144-1c95-4820-a51e-54f4bca0ee4a"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Glowing Rock!"
+artist = "Various Artists"
+date = 2020-02-14
+type = "normal"
+catalog = "SACX-1062"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "SACX-1062"
+
+[[discs.tracks]]
+title = "双翼の独奏歌 (M@STER VERSION) 神崎蘭子ソロ・リミックス"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "双翼の独奏歌 (M@STER VERSION) 二宮飛鳥ソロ・リミックス"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "Trinity Field (M@STER VERSION) 渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Trinity Field (M@STER VERSION) 北条加蓮ソロ・リミックス"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "Trinity Field (M@STER VERSION) 神谷奈緒ソロ・リミックス"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) 島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) 渋谷凛ソロ・リミックス"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) 佐藤心ソロ・リミックス"
+artist = "佐藤心（花守ゆみり）"
+
+[[discs.tracks]]
+title = "Happy New Yeah! (M@STER VERSION) 三村かな子ソロ・リミックス"
+artist = "三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "美に入り彩を穿つ (M@STER VERSION) 小早川紗枝ソロ・リミックス"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "美に入り彩を穿つ (M@STER VERSION) 塩見周子ソロ・リミックス"
+artist = "塩見周子（ルゥティン）"
+
+[[discs.tracks]]
+title = "Vast World (M@STER VERSION) 緒方智絵里ソロ・リミックス"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "Vast World (M@STER VERSION) 白坂小梅ソロ・リミックス"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "Vast World (M@STER VERSION) 堀裕子ソロ・リミックス"
+artist = "堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "Vast World (M@STER VERSION) 双葉杏ソロ・リミックス"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "Vast World (M@STER VERSION) 諸星きらりソロ・リミックス"
+artist = "諸星きらり（松嵜麗）"

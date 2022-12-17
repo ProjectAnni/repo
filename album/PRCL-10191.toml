@@ -1,0 +1,31 @@
+[album]
+album_id = "a692f507-af64-4db7-976b-5906eba53e6b"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Comical Pops! @MAKUHARI MESSE SPECIAL LIVE ALBUM"
+artist = "Various Artists"
+date = 2020-08-15
+type = "normal"
+catalog = "PRCL-10191"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "PRCL-10191"
+
+[[discs.tracks]]
+title = "Special 3chord♪"
+artist = "BNSI(中鶴潤一)"
+type = "absolute"
+
+[[discs.tracks]]
+# 01  Vast World (Day1)
+# 02  comic cosmic (Day2)
+# 03  秋めいて Ding Dong Dang! (Day2)
+# 04  きゅん・きゅん・まっくす (Day1)
+# 05  O-Ku-Ri-Mo-No Sunday! (Day2)
+# 06  Gossip Club (Day1)
+# 07  to you for me (Day1)
+# 08  Blooming Days (Day2)
+# 09  TAKAMARI☆CLIMAXXX!!!!! (Day1)
+# 10  無重力シャトル (Day1)
+# 11  お願い!シンデレラ (Day2)
+title = "ノンストップLIVE MIX"
+artist = "THE IDOLM@STER CINDERELLA GIRLS（関裕美（会沢紗弥）、一ノ瀬志希（藍原ことみ）、白菊ほたる（天野聡美）、双葉杏（五十嵐裕美）、佐々木千枝（今井麻夏）、白坂小梅（桜咲千依）、藤本里奈（金子真由美）、南条光（神谷早矢佳）、橘ありす（佐藤亜美菜）、中野有香（下地紫野）、堀裕子（鈴木絵理）、喜多見柚（武田羅梨沙多胡）、久川凪（立花日菜）、難波笑美（伊達朱里紗）、椎名法子（都丸ちよ）、久川颯（長江里加）、乙倉悠貴（中島由貴）、龍崎薫（春瀬なつみ）、渋谷凛（福原綾香）、佐久間まゆ（牧野由依）、諸星きらり（松嵜麗）、安部菜々（三宅麻理恵）、鷹富士茄子（森下来奈）、姫川友紀（杜野まこ）、大槻唯（山下七海）、城ヶ崎莉嘉（山本希望）、城ヶ崎美嘉（佳村はるか））"
