@@ -1,0 +1,28 @@
+[album]
+album_id = "0168681c-8503-43d3-9307-4a9bd630543e"
+title = "はじまりの場所"
+edition = "初回限定盤"
+artist = "村川梨衣"
+date = 2019-02-20
+type = "normal"
+catalog = "COZC-1516"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZC-1516"
+
+[[discs.tracks]]
+title = "はじまりの場所"
+tags = ["アニメ「ピアノの森」第2シリーズ", "ED"]
+
+[[discs.tracks]]
+title = "NoSTALGiA"
+
+[[discs.tracks]]
+title = "はじまりの場所 (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「ピアノの森」第2シリーズ", "ED"]
+
+[[discs.tracks]]
+title = "NoSTALGiA (Instrumental)"
+type = "instrumental"

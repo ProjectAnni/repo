@@ -1,0 +1,28 @@
+[album]
+album_id = "dd3156b2-7ddf-4837-a71f-c62295658c78"
+title = "Tiny Tiny／水色のFantasy"
+edition = "初回限定盤A"
+artist = "村川梨衣"
+date = 2017-05-17
+type = "normal"
+catalog = "COZC-1312"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZC-1312"
+
+[[discs.tracks]]
+title = "Tiny Tiny"
+tags = ["TVアニメ「フレームアームズ・ガール」", "OP"]
+
+[[discs.tracks]]
+title = "水色のFantasy"
+
+[[discs.tracks]]
+title = "Tiny Tiny (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「フレームアームズ・ガール」", "OP"]
+
+[[discs.tracks]]
+title = "水色のFantasy (Instrumental)"
+type = "instrumental"

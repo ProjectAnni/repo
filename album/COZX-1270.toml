@@ -1,0 +1,48 @@
+[album]
+album_id = "44c4c9e7-da54-4967-84d3-8528614abd7a"
+title = "RiEMUSiC"
+edition = "初回限定盤"
+artist = "村川梨衣"
+date = 2017-01-11
+type = "normal"
+catalog = "COZX-1270"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COZX-1270"
+
+[[discs.tracks]]
+title = "Anytime, Anywhere"
+
+[[discs.tracks]]
+title = "Dreamy Lights"
+
+[[discs.tracks]]
+title = "ドキドキの風"
+
+[[discs.tracks]]
+title = "Breath"
+
+[[discs.tracks]]
+title = "MaGiK"
+
+[[discs.tracks]]
+title = "恋するパレード"
+
+[[discs.tracks]]
+title = "クリームソーダとエンドロール"
+
+[[discs.tracks]]
+title = "Baby, My First Kiss"
+
+[[discs.tracks]]
+title = "Eternal"
+
+[[discs.tracks]]
+title = "戻れない旅"
+
+[[discs.tracks]]
+title = "Sweet Sensation"
+
+[[discs.tracks]]
+title = "夜明けの恋"

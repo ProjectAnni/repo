@@ -1,0 +1,28 @@
+[album]
+album_id = "2d5171f2-de38-4094-a6a3-9150cca05e53"
+title = "Sweet Sensation／Baby, My First Kiss"
+edition = "通常盤"
+artist = "村川梨衣"
+date = 2016-06-01
+type = "normal"
+catalog = "COCC-17126"
+tags = ["村川梨衣"]
+
+[[discs]]
+catalog = "COCC-17126"
+
+[[discs.tracks]]
+title = "Sweet Sensation"
+tags = ["アニメ「12歳。～ちっちゃなムネのトキメキ～」", "OP"]
+
+[[discs.tracks]]
+title = "Baby, My First Kiss"
+
+[[discs.tracks]]
+title = "Sweet Sensation (Instrumental)"
+type = "instrumental"
+tags = ["アニメ「12歳。～ちっちゃなムネのトキメキ～」", "OP"]
+
+[[discs.tracks]]
+title = "Baby, My First Kiss (Instrumental)"
+type = "instrumental"
