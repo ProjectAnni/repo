@@ -1,0 +1,62 @@
+[album]
+album_id = "459a4069-c78c-4543-b8d7-20cb1d42475e"
+title = "CINDERELLA PARTY! でれぱ音頭 ＼ドンドンカッ／"
+artist = "原紗友里、青木瑠璃子"
+date = 2018-08-01
+type = "normal"
+catalog = "COCX-40487"
+tags = ["CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"]
+
+[[discs]]
+catalog = "COCX-40487"
+
+[[discs.tracks]]
+title = "トーク1 オープニング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "でれぱ音頭"
+
+[[discs.tracks]]
+title = "トーク2 でれぱ音頭"
+type = "radio"
+
+[[discs.tracks]]
+title = "トーク3 コロムビア奥地の秘蔵音源"
+type = "radio"
+
+[[discs.tracks]]
+title = "FLY ME TO THE MOON"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "Twilight Sky (CINDERELLA PARTY! Version)"
+artist = "多田李衣菜（青木瑠璃子）、前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "トーク4 歌姫楽園 side C"
+type = "radio"
+
+[[discs.tracks]]
+title = "タッチ"
+artist = "原紗友里、青木瑠璃子、洲崎綾"
+
+[[discs.tracks]]
+title = "ロックン・オムレツ"
+artist = "原紗友里、青木瑠璃子、種崎敦美"
+
+[[discs.tracks]]
+title = "Over Drive"
+artist = "原紗友里、青木瑠璃子、飯田友子"
+
+[[discs.tracks]]
+title = "17才"
+artist = "原紗友里、青木瑠璃子、三宅麻理恵"
+
+[[discs.tracks]]
+title = "トーク5 エンディング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "でれぱ音頭　オリジナル・カラオケ"
+type = "instrumental"

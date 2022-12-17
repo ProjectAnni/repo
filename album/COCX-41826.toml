@@ -1,0 +1,67 @@
+[album]
+album_id = "de2ea375-f8b1-4162-ac06-9d017cd84d13"
+title = "CINDERELLA PARTY! デレぱにぱにック＆デレパノココロ～信じられないくらい素敵なCD～"
+artist = "原紗友里、青木瑠璃子"
+date = 2022-07-20
+type = "normal"
+catalog = "COCX-41826"
+tags = ["CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"]
+
+[[discs]]
+catalog = "COCX-41826"
+
+[[discs.tracks]]
+title = "トーク1 オープニング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "デレぱにぱにック"
+
+[[discs.tracks]]
+title = "トーク2 デレぱにぱにック"
+type = "radio"
+
+[[discs.tracks]]
+title = "デレパノココロ"
+
+[[discs.tracks]]
+title = "トーク3 デレパノココロ"
+type = "radio"
+
+[[discs.tracks]]
+title = "トーク4 あれから4年…歌姫楽園 side C"
+type = "radio"
+
+[[discs.tracks]]
+title = "ペッパー警部"
+artist = "原紗友里、青木瑠璃子、和氣あず未"
+
+[[discs.tracks]]
+title = "狙いうち"
+artist = "原紗友里、青木瑠璃子、杜野まこ"
+
+[[discs.tracks]]
+title = "LOVE 2000"
+artist = "原紗友里、青木瑠璃子、山下七海"
+
+[[discs.tracks]]
+title = "天城越え"
+artist = "花井美春"
+
+[[discs.tracks]]
+title = "トーク5 エンディング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "デレパノココロ -DJ Remix version-"
+
+[[discs.tracks]]
+title = "デレパノココロ -Radio Remix version-"
+
+[[discs.tracks]]
+title = "デレぱにぱにック　オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "デレパノココロ　オリジナル・カラオケ"
+type = "instrumental"

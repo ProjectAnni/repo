@@ -1,0 +1,52 @@
+[album]
+album_id = "87d27d74-386b-44db-8d43-f70189c3f7ca"
+title = "CINDERELLA PARTY! でれぱDEないと をきかないと!!～あかるくせいそにかわいくきよく～"
+artist = "原紗友里、青木瑠璃子"
+date = 2015-06-10
+type = "normal"
+catalog = "COZX-1063"
+tags = ["CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"]
+
+[[discs]]
+catalog = "COZX-1063"
+
+[[discs.tracks]]
+title = "トーク1 オープニング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "でれぱDEないと"
+
+[[discs.tracks]]
+title = "トーク2 でれぱDEないと"
+type = "radio"
+
+[[discs.tracks]]
+title = "トーク3 歌姫楽園 side C"
+type = "radio"
+
+[[discs.tracks]]
+title = "THE IDOLM@STER"
+
+[[discs.tracks]]
+title = "どうにもとまらない"
+artist = "原紗友里、青木瑠璃子、三宅麻理恵"
+
+[[discs.tracks]]
+title = "きよしこの夜"
+
+[[discs.tracks]]
+title = "きのこの唄"
+artist = "原紗友里、青木瑠璃子、松田颯水"
+
+[[discs.tracks]]
+title = "栄冠は君に輝く"
+artist = "原紗友里、青木瑠璃子、杜野まこ"
+
+[[discs.tracks]]
+title = "トーク4 エンディングトーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "でれぱDEないと オリジナル・カラオケ"
+type = "instrumental"
