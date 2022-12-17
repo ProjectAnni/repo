@@ -1,0 +1,64 @@
+[album]
+album_id = "ff50f473-6606-406a-8a31-33aec9a7c0c8"
+title = "想いのち晴れ／扉を開けてベルを鳴らそう"
+artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
+date = 2022-10-12
+type = "normal"
+catalog = "KICM-93376"
+tags = ["TVアニメ「ヤマノススメ Next Summit」"]
+
+[[discs]]
+catalog = "KICM-93376"
+
+[[discs.tracks]]
+title = "想いのち晴れ"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "はなうた*ステップ"
+
+[[discs.tracks]]
+title = "想いのち晴れ (あおいソロ ver.)"
+artist = "あおい（井口裕香）"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "想いのち晴れ (ひなたソロ ver.)"
+artist = "ひなた（阿澄佳奈）"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう (あおいソロ ver.)"
+artist = "あおい（井口裕香）"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう (ひなたソロ ver.)"
+artist = "ひなた（阿澄佳奈）"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう (Other Mix A)"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう (Other Mix B)"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "想いのち晴れ (off vocal ver.)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "扉を開けてベルを鳴らそう (off vocal ver.)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "はなうた*ステップ (off vocal ver.)"
+type = "instrumental"
