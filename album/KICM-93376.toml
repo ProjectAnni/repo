@@ -12,17 +12,14 @@ catalog = "KICM-93376"
 
 [[discs.tracks]]
 title = "想いのち晴れ"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 tags = ["OP"]
 
 [[discs.tracks]]
 title = "扉を開けてベルを鳴らそう"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 tags = ["ED"]
 
 [[discs.tracks]]
 title = "はなうた*ステップ"
-artist = "雪村あおい (井口裕香) & 倉上ひなた (阿澄佳奈)"
 
 [[discs.tracks]]
 title = "想いのち晴れ (あおいソロ ver.)"
@@ -46,27 +43,22 @@ tags = ["ED"]
 
 [[discs.tracks]]
 title = "扉を開けてベルを鳴らそう (Other Mix A)"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 tags = ["ED"]
 
 [[discs.tracks]]
 title = "扉を開けてベルを鳴らそう (Other Mix B)"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 tags = ["ED"]
 
 [[discs.tracks]]
 title = "想いのち晴れ (off vocal ver.)"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 type = "instrumental"
 tags = ["OP"]
 
 [[discs.tracks]]
 title = "扉を開けてベルを鳴らそう (off vocal ver.)"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 type = "instrumental"
 tags = ["ED"]
 
 [[discs.tracks]]
 title = "はなうた*ステップ (off vocal ver.)"
-artist = "あおい（井口裕香）、ひなた（阿澄佳奈）"
 type = "instrumental"
