@@ -1,0 +1,14 @@
+[album]
+album_id = "eb215284-eed1-4f8f-b15b-abe3e1733eaa"
+title = "one of a kind"
+artist = "riya（eufonius）"
+date = 2019-02-02
+type = "normal"
+catalog = "SPR002FNL"
+tags = ["蒼の彼方のフォーリズム EXTRA2"]
+
+[[discs]]
+catalog = "SPR002FNL"
+
+[[discs.tracks]]
+title = "one of a kind"

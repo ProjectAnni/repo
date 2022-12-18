@@ -1187,6 +1187,7 @@ type = "game"
 [[tag]]
 name = "蒼の彼方のフォーリズム"
 type = "game"
+includes.game = ["蒼の彼方のフォーリズム EXTRA2"]
 
 [[tag]]
 name = "素晴らしき日々"
