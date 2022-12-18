@@ -1,0 +1,52 @@
+[album]
+album_id = "268e3ea8-21b7-4b95-902c-bc701ffad340"
+title = "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS WINTER!"
+artist = "Various Artists"
+date = 2017-12-13
+type = "normal"
+catalog = "COCC-17333"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS"]
+
+[[discs]]
+catalog = "COCC-17333"
+
+[[discs.tracks]]
+title = "ツインテールの風"
+artist = "小日向美穂（津田美波）、城ヶ崎美嘉（佳村はるか）、速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "White again"
+artist = "小早川紗枝（立花理香）、櫻井桃華（照井春佳）、島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "Frost"
+artist = "神谷奈緒（松井恵理子）、神崎蘭子（内田真礼）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "冬空プレシャス"
+artist = "片桐早苗（和氣あず未）、難波笑美（伊達朱里紗）、姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "MASTER SEASONS WINTER! オリジナルドラマ"
+artist = "小日向美穂（津田美波）、城ヶ崎美嘉（佳村はるか）、速水奏（飯田友子）"
+type = "drama"
+
+[[discs.tracks]]
+title = "ツインテールの風 オリジナル・カラオケ"
+artist = "小日向美穂（津田美波）、城ヶ崎美嘉（佳村はるか）、速水奏（飯田友子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "White again オリジナル・カラオケ"
+artist = "小早川紗枝（立花理香）、櫻井桃華（照井春佳）、島村卯月（大橋彩香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Frost オリジナル・カラオケ"
+artist = "神谷奈緒（松井恵理子）、神崎蘭子（内田真礼）、脇山珠美（嘉山未紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "冬空プレシャス オリジナル・カラオケ"
+artist = "片桐早苗（和氣あず未）、難波笑美（伊達朱里紗）、姫川友紀（杜野まこ）"
+type = "instrumental"

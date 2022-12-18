@@ -1,0 +1,52 @@
+[album]
+album_id = "fa939215-8655-4cec-a918-990ab0b7f5f9"
+title = "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS SUMMER!"
+artist = "Various Artists"
+date = 2017-08-09
+type = "normal"
+catalog = "COCC-17331"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS"]
+
+[[discs]]
+catalog = "COCC-17331"
+
+[[discs.tracks]]
+title = "銀のイルカと熱い風"
+artist = "大槻唯（山下七海）、緒方智絵里（大空直美）、新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "とんでいっちゃいたいの"
+artist = "一ノ瀬志希（藍原ことみ）、三村かな子（大坪由佳）、宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "夏恋 -NATSU KOI-"
+artist = "塩見周子（ルゥティン）、橘ありす（佐藤亜美菜）、松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "CoCo夏夏夏 Holiday"
+artist = "上田鈴帆（春野ななみ）、佐藤心（花守ゆみり）、十時愛梨（原田ひとみ）"
+
+[[discs.tracks]]
+title = "オリジナルドラマ"
+artist = "大槻唯（山下七海）、緒方智絵里（大空直美）、新田美波（洲崎綾）"
+type = "drama"
+
+[[discs.tracks]]
+title = "銀のイルカと熱い風 オリジナル・カラオケ"
+artist = "大槻唯（山下七海）、緒方智絵里（大空直美）、新田美波（洲崎綾）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "とんでいっちゃいたいの オリジナル・カラオケ"
+artist = "一ノ瀬志希（藍原ことみ）、三村かな子（大坪由佳）、宮本フレデリカ（髙野麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "夏恋-NATSU KOI- オリジナル・カラオケ"
+artist = "塩見周子（ルゥティン）、橘ありす（佐藤亜美菜）、松永涼（千菅春香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "CoCo夏夏夏 Holiday オリジナル・カラオケ"
+artist = "上田鈴帆（春野ななみ）、佐藤心（花守ゆみり）、十時愛梨（原田ひとみ）"
+type = "instrumental"

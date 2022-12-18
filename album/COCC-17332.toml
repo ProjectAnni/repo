@@ -1,0 +1,52 @@
+[album]
+album_id = "70013b73-0108-416c-8f95-cd71397ce4fe"
+title = "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS AUTUMN!"
+artist = "Various Artists"
+date = 2017-10-18
+type = "normal"
+catalog = "COCC-17332"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS"]
+
+[[discs]]
+catalog = "COCC-17332"
+
+[[discs.tracks]]
+title = "秋風に手を振って"
+artist = "相葉夕美（木村珠莉）、多田李衣菜（青木瑠璃子）、中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "Halloween♥Code"
+artist = "安部菜々（三宅麻理恵）、乙倉悠貴（中島由貴）、前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "さよならアンドロメダ"
+artist = "渋谷凛（福原綾香）、森久保乃々（高橋花林）、大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "空想探査計画"
+artist = "木村夏樹（安野希世乃）、浜口あやめ（田澤茉純）、日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "MASTER SEASONS AUTUMN! オリジナルドラマ"
+artist = "相葉夕美（木村珠莉）、多田李衣菜（青木瑠璃子）、中野有香（下地紫野）"
+type = "drama"
+
+[[discs.tracks]]
+title = "秋風に手を振って オリジナル・カラオケ"
+artist = "相葉夕美（木村珠莉）、多田李衣菜（青木瑠璃子）、中野有香（下地紫野）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Halloween♥Code オリジナル・カラオケ"
+artist = "安部菜々（三宅麻理恵）、乙倉悠貴（中島由貴）、前川みく（高森奈津美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "さよならアンドロメダ オリジナル・カラオケ"
+artist = "渋谷凛（福原綾香）、森久保乃々（高橋花林）、大和亜季（村中知）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "空想探査計画 オリジナル・カラオケ"
+artist = "木村夏樹（安野希世乃）、浜口あやめ（田澤茉純）、日野茜（赤﨑千夏）"
+type = "instrumental"
