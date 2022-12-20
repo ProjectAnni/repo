@@ -1,0 +1,43 @@
+[album]
+album_id = "e6443d50-3a40-4d97-8d5f-1c056ca6081f"
+title = "THE IDOLM@STER MILLION THE@TER VARIETY 02"
+artist = "Various Artists"
+date = 2022-12-14
+type = "normal"
+catalog = "LACM-24329"
+tags = ["THE IDOLM@STER MILLION THE@TER VARIETY"]
+
+[[discs]]
+catalog = "LACM-24329"
+
+[[discs.tracks]]
+title = "Vacation VS Summer ～ナツとヤスミのアンビバレント！～"
+artist = "徳川まつり（諏訪彩花）、大神環（稲川英里）、白石紬（南早紀）、福田のり子（浜崎奈々）、三浦あずさ（たかはし智秋）"
+
+[[discs.tracks]]
+title = "ミスティック・セレモニーへの招待状"
+artist = "矢吹可奈（木戸衣吹）、伊吹翼（Machico）、北上麗花（平山笑美）、天空橋朋花（小岩井ことり）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Brand New Theater ～Brand New Year Ver.～"
+artist = "765 MILLION ALLSTARS"
+
+[[discs.tracks]]
+title = "Vacation VS Summer ～ナツとヤスミのアンビバレント！～ (Off Vocal)"
+artist = "徳川まつり（諏訪彩花）、大神環（稲川英里）、白石紬（南早紀）、福田のり子（浜崎奈々）、三浦あずさ（たかはし智秋）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミスティック・セレモニーへの招待状 (Off Vocal)"
+artist = "矢吹可奈（木戸衣吹）、伊吹翼（Machico）、北上麗花（平山笑美）、天空橋朋花（小岩井ことり）、双海真美（下田麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ワールド・アスレチック・COOK-KING ～勝者必食！？スポ食の秋～ (Off Vocal)"
+artist = "中谷育（原嶋あかり）、我那覇響（沼倉愛美）、佐竹美奈子（大関英里）、篠宮可憐（近藤唯）、舞浜歩（戸田めぐみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ショコラブル＊イブ (Off Vocal)"
+artist = "所恵美（藤井ゆきよ）、春日未来（山崎はるか）、高山紗代子（駒形友梨）、野々原茜（小笠原早紀）、望月杏奈（夏川椎菜）"
+type = "instrumental"
