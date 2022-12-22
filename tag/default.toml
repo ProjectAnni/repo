@@ -136,7 +136,7 @@ type = "artist"
 [[tag]]
 name = "神田沙也加"
 type = "artist"
-includes.artist = ["SAYAKA"]
+includes = ["artist: SAYAKA"]
 
 [[tag]]
 name = "鈴木みのり"
@@ -145,7 +145,7 @@ type = "artist"
 [[tag]]
 name = "やなぎなぎ"
 type = "artist"
-includes.artist = ["nagi"]
+includes = ["artist: nagi"]
 
 [[tag]]
 name = "こゑだ"
@@ -154,7 +154,7 @@ type = "artist"
 [[tag]]
 name = "chelly"
 type = "artist"
-includes.artist = ["EGOIST"]
+includes = ["artist: EGOIST"]
 
 [[tag]]
 name = "小倉唯"
@@ -191,7 +191,7 @@ type = "artist"
 [[tag]]
 name = "ASCA"
 type = "artist"
-includes.artist = ["大倉明日香"]
+includes = ["artist: 大倉明日香"]
 
 [[tag]]
 name = "西川貴教"
@@ -346,12 +346,12 @@ type = "group"
 [[tag]]
 name = "純情のアフィリア"
 type = "group"
-includes.group = ["アフィリア・サーガ・イースト", "アフィリア・サーガ"]
+includes = ["group: アフィリア・サーガ・イースト", "group: アフィリア・サーガ"]
 
 [[tag]]
 name = "SILENT SIREN"
 type = "group"
-includes.group = ["Silent Siren"]
+includes = ["group: Silent Siren"]
 
 [[tag]]
 name = "BATON=RELAY"
@@ -414,7 +414,7 @@ type = "group"
 [[tag]]
 name = "fripSide"
 type = "group"
-includes.group = ["fripSide NAO project!"]
+includes = ["group: fripSide NAO project!"]
 
 [[tag]]
 name = "angela"
@@ -453,7 +453,7 @@ type = "animation"
 name = "白い砂のアクアトープ"
 names.zh-hans = "白沙的水族馆"
 type = "animation"
-includes.series = ["白い砂のアクアトープ がまがま水族館 館内放送局"]
+includes = ["series: 白い砂のアクアトープ がまがま水族館 館内放送局"]
 
 [[tag]]
 name = "宇宙よりも遠い場所"
@@ -1240,7 +1240,7 @@ type = "project"
 [[tag]]
 name = "デート・ア・ライブ"
 type = "project"
-includes.animation = ["デート・ア・ライブIV"]
+includes = ["animation: デート・ア・ライブIV"]
 
 [[tag]]
 name = "歴史秘話ヒストリア"
@@ -1253,17 +1253,17 @@ type = "project"
 [[tag]]
 name = "この世の果てで恋を唄う少女YU-NO"
 type = "project"
-includes.animation = [
-  "アニメ「この世の果てで恋を唄う少女YU-NO」現世編",
-  "アニメ「この世の果てで恋を唄う少女YU-NO」異世界編",
+includes = [
+  "animation: アニメ「この世の果てで恋を唄う少女YU-NO」現世編",
+  "animation: アニメ「この世の果てで恋を唄う少女YU-NO」異世界編",
 ]
 
 [[tag]]
 name = "ノーゲーム・ノーライフ"
 type = "project"
-includes.animation = [
-  "アニメ「ノーゲーム・ノーライフ」",
-  "映画「ノーゲーム・ノーライフ ゼロ」"
+includes = [
+  "animation: アニメ「ノーゲーム・ノーライフ」",
+  "animation: 映画「ノーゲーム・ノーライフ ゼロ」"
 ]
 
 [[tag]]
@@ -1273,41 +1273,44 @@ type = "project"
 [[tag]]
 name = "とある科学の超電磁砲"
 type = "project"
-includes.animation = [
-  "アニメ「とある科学の超電磁砲」",
-  "アニメ「とある科学の超電磁砲 OVA」",
-  "アニメ「とある科学の超電磁砲S」",
-  "アニメ「とある科学の超電磁砲Ｔ」",
+includes = [
+  "animation: アニメ「とある科学の超電磁砲」",
+  "animation: アニメ「とある科学の超電磁砲 OVA」",
+  "animation: アニメ「とある科学の超電磁砲S」",
+  "animation: アニメ「とある科学の超電磁砲Ｔ」",
 ]
 
 [[tag]]
 name = "無職転生 ～異世界行ったら本気だす～"
 type = "project"
-includes.animation = ["アニメ「無職転生 ～異世界行ったら本気だす～」"]
+includes = ["animation: アニメ「無職転生 ～異世界行ったら本気だす～」"]
 
 [[tag]]
 name = "STEINS;GATE"
 type = "project"
-includes.game = ["ゲーム「STEINS;GATE」", "STEINS;GATE 比翼恋理のだーりん"]
+includes = [
+  "game: ゲーム「STEINS;GATE」",
+  "game: STEINS;GATE 比翼恋理のだーりん",
+]
 
 [[tag]]
 name = "CHAOS;HEAD"
 type = "project"
-includes.group = ["ファンタズム"]
+includes = ["group: ファンタズム"]
 
 [[tag]]
 name = "シャインポスト"
 type = "project"
-includes.animation = ["アニメ「シャインポスト」"]
-includes.group = [
+includes = [
+  "animation: アニメ「シャインポスト」",
   # TINGS（青天国春（鈴代紗弓）、玉城杏夏（蟹沢萌子）、聖舞理王（夏吉ゆうこ）、祇園寺雪音（長谷川里桃）、伊藤紅葉（中川梨花））
-  "TINGS",
+  "group: TINGS",
   # ゆらゆらシスターズ（ナターリャ（古賀葵）、広瀬実唯菜（齋藤樹愛羅））
-  "ゆらゆらシスターズ",
+  "group: ゆらゆらシスターズ",
   # HY:RAIN（黒金蓮（芹澤優）、唐林青葉（高瀬くるみ）、唐林絃葉（久保田未夢）、氷海菜花（高柳知葉）、苗川柔（香里有佐））
-  "HY:RAIN",
+  "group: HY:RAIN",
   # FFF（兎塚七海（野口衣織）、陽本日夏（木野日菜）、梨子木麗美（ファイルーズあい））
-  "FFF",
+  "group: FFF",
 ]
 
 ################################################################################
@@ -1316,13 +1319,13 @@ includes.group = [
 [[tag]]
 name = "Navel"
 type = "organization"
-includes.game = [
-  "月に寄りそう乙女の作法",
-  "乙女理論とその周辺",
-  "月に寄りそう乙女の作法2",
-  "乙女理論とその後の周辺",
-  "月に寄りそう乙女の作法2.1 E×S×PAR!!",
-  "月に寄りそう乙女の作法2.2 A×L+SA!!",
+includes = [
+  "game: 月に寄りそう乙女の作法",
+  "game: 乙女理論とその周辺",
+  "game: 月に寄りそう乙女の作法2",
+  "game: 乙女理論とその後の周辺",
+  "game: 月に寄りそう乙女の作法2.1 E×S×PAR!!",
+  "game: 月に寄りそう乙女の作法2.2 A×L+SA!!",
 ]
 
 ################################################################################

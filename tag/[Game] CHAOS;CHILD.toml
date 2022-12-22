@@ -1,5 +1,8 @@
 [[tag]]
 name = "CHAOS;CHILD"
 type = "game"
-includes.game = ["CHAOS;CHILD らぶchu☆chu!!"]
-includes.animation = ["アニメ「CHAOS;CHILD」", "CHAOS;CHILD SILENT SKY"]
+includes = [
+    "game: CHAOS;CHILD らぶchu☆chu!!",
+    "animation: アニメ「CHAOS;CHILD」",
+    "animation: CHAOS;CHILD SILENT SKY",
+]

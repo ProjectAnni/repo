@@ -1,6 +1,4 @@
 [[tag]]
 name = "てきゅう"
 type = "project"
-includes.animation = [
-    "TVアニメ「てきゅうベストセレクション」",
-]
+includes = ["animation: TVアニメ「てきゅうベストセレクション」"]

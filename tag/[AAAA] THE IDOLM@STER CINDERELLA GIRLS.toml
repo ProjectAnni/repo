@@ -1,35 +1,35 @@
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA GIRLS"
 type = "project"
-included-by = ["アイドルマスターシリーズ"]
-includes.series = [
-  "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER",
-  "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!",
-  "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!",
-  "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
+included-by = ["project: アイドルマスターシリーズ"]
+includes = [
+  "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER",
+  "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!",
+  "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!",
+  "series: THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
 ]
 
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA MASTER"
 type = "series"
-included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
-includes.series = [
-  "THE IDOLM@STER CINDERELLA MASTER (ソロCD)",
-  "THE IDOLM@STER CINDERELLA MASTER (ユニットCD)",
-  "THE IDOLM@STER CINDERELLA MASTER Jewelries!",
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
+includes = [
+  "series: THE IDOLM@STER CINDERELLA MASTER (ソロCD)",
+  "series: THE IDOLM@STER CINDERELLA MASTER (ユニットCD)",
+  "series: THE IDOLM@STER CINDERELLA MASTER Jewelries!",
 ]
 
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT"
 type = "series"
-included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
 
 [[tag]]
 name = "THE IDOLM@STER CINDERELLA GIRLS ボーカルCD"
 type = "series"
-included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
 
 [[tag]]
 name = "TVアニメ「アイドルマスター シンデレラガールズ」"
 type = "animation"
-included-by = ["THE IDOLM@STER CINDERELLA GIRLS"]
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]

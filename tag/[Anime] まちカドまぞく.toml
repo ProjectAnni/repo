@@ -1,7 +1,4 @@
 [[tag]]
 name = "TVアニメ「まちカドまぞく」"
 type = "animation"
-includes.animation = [
-  "まちカドまぞく",
-  "まちカドまぞく 2丁目"
-]
+includes = ["animation: まちカドまぞく", "animation: まちカドまぞく 2丁目"]

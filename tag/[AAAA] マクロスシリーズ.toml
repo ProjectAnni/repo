@@ -7,16 +7,16 @@ type = "project"
 name = "マクロスF"
 names.zh-hans = "超时空要塞F"
 type = "project"
-included-by = ["マクロスシリーズ"]
+included-by = ["project: マクロスシリーズ"]
 
 [[tag]]
 name = "マクロスΔ"
 names.zh-hans = "超时空要塞Δ"
 type = "project"
-included-by = ["マクロスシリーズ"]
-includes.group = ["ワルキューレ"]
-includes.animation = [
-  "TVアニメ「マクロスΔ」",
-  "劇場版マクロスΔ 激情のワルキューレ",
-  "劇場版マクロスΔ 絶対LIVE!!!!!!",
+included-by = ["project: マクロスシリーズ"]
+includes = [
+  "group: ワルキューレ",
+  "animation: TVアニメ「マクロスΔ」",
+  "animation: 劇場版マクロスΔ 激情のワルキューレ",
+  "animation: 劇場版マクロスΔ 絶対LIVE!!!!!!",
 ]

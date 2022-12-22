@@ -1,4 +1,4 @@
 [[tag]]
 name = "Lapis Re:LiGHTs"
 type = "project"
-includes.group = ["Ray", "LiGHTs", "シュガーポケッツ"]
+includes = ["group: Ray", "group: LiGHTs", "group: シュガーポケッツ"]

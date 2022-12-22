@@ -1,13 +1,18 @@
 [[tag]]
 name = "Key Sounds Label"
 type = "organization"
-includes.game = ["Summer Pockets", "Kud Wafter"]
-includes.animation = ["神様になった日"]
+includes = [
+    "game: Summer Pockets",
+    "game: Kud Wafter",
+    "animation: 神様になった日",
+]
 
 [[tag]]
 name = "Rewrite"
 type = "game"
-included-by = ["Key Sounds Label"]
-includes.animation = ["TVアニメ「Rewrite」"]
-includes.game = ["Rewrite Harvest festa!"]
-includes.series = ["ラジオRewrite 月刊テラ・風祭学院支局"]
+included-by = ["organization: Key Sounds Label"]
+includes = [
+    "animation: TVアニメ「Rewrite」",
+    "game: Rewrite Harvest festa!",
+    "series: ラジオRewrite 月刊テラ・風祭学院支局"
+]

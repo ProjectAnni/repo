@@ -7,51 +7,47 @@ type = "project"
 name = "ラブライブ!"
 names.zh-hans = "Love Live!"
 type = "project"
-included-by = ["ラブライブ!シリーズ"]
-includes.group = [
+included-by = ["project: ラブライブ!シリーズ"]
+includes = [
+    "animation: TVアニメ「ラブライブ！」",
+    "animation: ラブライブ! The School Idol Movie",
     # μ's（高坂穂乃果（新田恵海）、絢瀬絵里（南條愛乃）、南ことり（内田彩）、園田海未（三森すずこ）、星空凛（飯田里穂）、西木野真姫（Pile）、東條希（楠田亜衣奈）、小泉花陽（久保ユリカ）、矢澤にこ（徳井青空））
-    "μ's",
+    "group: μ's",
     # Printemps（高坂穂乃果（新田恵海）、南ことり（内田彩）、小泉花陽（久保ユリカ））
-    "Printemps",
+    "group: Printemps",
     # lily white（園田海未（三森すずこ）、星空凛（飯田里穂）、東條希（楠田亜衣奈））
-    "lily white",
+    "group: lily white",
     # BiBi（絢瀬絵里（南條愛乃）、西木野真姫（Pile）、矢澤にこ（徳井青空））
-    "BiBi",
+    "group: BiBi",
     # A-RISE（綺羅ツバサ（桜川めぐ）、統堂英玲奈（松永真穂）、優木あんじゅ（大橋歩夕））
-    "A-RISE",
-]
-includes.animation = [
-    "TVアニメ「ラブライブ！」",
-    "ラブライブ! The School Idol Movie"
+    "group: A-RISE",
 ]
 
 [[tag]]
 name = "ラブライブ!サンシャイン!!"
 names.zh-hans = "LoveLive! Sunshine!!"
 type = "project"
-included-by = ["ラブライブ!シリーズ"]
-includes.group = [
+included-by = ["project: ラブライブ!シリーズ"]
+includes = [
     # Aqours（国木田花丸（高槻かなこ）、黒澤ダイヤ（小宮有紗）、黒澤ルビィ（降幡愛）、松浦果南（諏訪ななか）、小原鞠莉（鈴木愛奈）、桜内梨子（逢田梨香子）、高海千歌（伊波杏樹）、津島善子（小林愛香）、渡辺曜（斉藤朱夏））
-    "Aqours"
+    "group: Aqours"
 ]
 
 [[tag]]
 name = "ラブライブ！虹ヶ咲学園スクールアイドル同好会"
 names.zh-hans = "Love Live! 虹咲学园校园偶像同好会"
 type = "project"
-included-by = ["ラブライブ!シリーズ"]
-includes.group = [
+included-by = ["project: ラブライブ!シリーズ"]
+includes = [
+    "animation: TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」",
+    "animation: TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期",
     # 一期 虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））
     # 二期 虹ヶ咲学園スクールアイドル同好会（朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり）、三船栞子（小泉萌香）、ミア・テイラー（内田秀）、鐘嵐珠（法元明菜））
-    "虹ヶ咲学園スクールアイドル同好会",
+    "group: 虹ヶ咲学園スクールアイドル同好会",
     # A・ZU・NA（桜坂しずく（前田佳織里）、上原歩夢（大西亜玖璃）、優木せつ菜（楠木ともり））
-    "A・ZU・NA",
+    "group: A・ZU・NA",
     # DiverDiva（朝香果林（久保田未夢）、宮下愛（村上奈津実））
-    "DiverDiva",
+    "group: DiverDiva",
     # QU4RTZ（近江彼方（鬼頭明里）、中須かすみ（相良茉優）、天王寺璃奈（田中ちえ美）、エマ・ヴェルデ（指出毬亜））
-    "QU4RTZ"
-]
-includes.animation = [
-    "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」",
-    "TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期",
+    "group: QU4RTZ"
 ]
