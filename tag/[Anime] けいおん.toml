@@ -2,4 +2,8 @@
 name = "けいおん"
 names.zh-hans = "轻音少女"
 type = "animation"
-includes.animation = ["けいおん！", "けいおん！！", "映画「けいおん！」"]
+includes = [
+    "animation: けいおん！",
+    "animation: けいおん！！",
+    "animation: 映画「けいおん！」",
+]

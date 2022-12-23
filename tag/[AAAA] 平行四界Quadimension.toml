@@ -1,14 +1,15 @@
 [[tag]]
 name = "平行四界Quadimension"
 type = "project"
-includes.artist = [
-  "星尘",
-  "海伊",
-  "苍穹",
-  "赤羽",
-  "诗岸",
-  "牧心",
-  "Minus",
-  "星尘Infinity"
+includes = [
+  "artist: 星尘",
+  "artist: 海伊",
+  "artist: 苍穹",
+  "artist: 赤羽",
+  "artist: 诗岸",
+  "artist: 牧心",
+  "artist: Minus",
+  "artist: 星尘Infinity",
+  "series: 平行四界 EP",
+  "series: 平行四界 五维介质",
 ]
-includes.series = ["平行四界 EP", "平行四界 五维介质"]

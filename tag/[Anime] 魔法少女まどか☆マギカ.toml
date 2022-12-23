@@ -2,24 +2,24 @@
 name = "魔法少女まどか☆マギカ"
 names.zh-hans = "魔法少女小圆"
 type = "project"
-includes.animation = [
-  "アニメ「魔法少女まどか☆マギカ」",
-  "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
-  "劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語",
-  "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
-  "劇場版 魔法少女まどか☆マギカ The Battle Pentagram",
-  "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
+includes = [
+  "animation: アニメ「魔法少女まどか☆マギカ」",
+  "animation: 劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
+  "animation: 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語",
+  "animation: 劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+  "animation: 劇場版 魔法少女まどか☆マギカ The Battle Pentagram",
+  "animation: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+  "game: 魔法少女まどか☆マギカ ポータブル",
 ]
-includes.game = ["魔法少女まどか☆マギカ ポータブル"]
 
 [[tag]]
 name = "マギアレコード 魔法少女まどか☆マギカ外伝"
 names.zh-hans = "魔法纪录 魔法少女小圆外传"
 type = "project"
-included-by = ["魔法少女まどか☆マギカ"]
-includes.animation = [
-  "アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」",
-  "マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-",
-  "マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+included-by = ["project: 魔法少女まどか☆マギカ"]
+includes = [
+  "animation: アニメ「マギアレコード 魔法少女まどか☆マギカ外伝」",
+  "animation: マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-",
+  "animation: マギアレコード 魔法少女まどか☆マギカ外伝 Final SEASON -浅き夢の暁-",
+  "game: ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」",
 ]
-includes.game = ["ゲーム「マギアレコード 魔法少女まどか☆マギカ外伝」"]
