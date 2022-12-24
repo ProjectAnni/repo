@@ -1,0 +1,53 @@
+[album]
+album_id = "4cf012a2-799c-4ab2-8605-3d71324aabb5"
+title = "結束バンド"
+artist = "結束バンド（後藤ひとり（青山吉能）、伊地知虹夏（鈴代紗弓）、山田リョウ（水野朔）、喜多郁代（長谷川育美））"
+date = 2022-12-28
+type = "normal"
+catalog = "SVWC-70613"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」"]
+
+[[discs]]
+catalog = "SVWC-70613"
+
+[[discs.tracks]]
+title = "青春コンプレックス"
+
+[[discs.tracks]]
+title = "ひとりぼっち東京"
+
+[[discs.tracks]]
+title = "Distortion!!"
+
+[[discs.tracks]]
+title = "ひみつ基地"
+
+[[discs.tracks]]
+title = "ギターと孤独と蒼い惑星"
+
+[[discs.tracks]]
+title = "ラブソングが歌えない"
+
+[[discs.tracks]]
+title = "あのバンド"
+
+[[discs.tracks]]
+title = "カラカラ"
+
+[[discs.tracks]]
+title = "小さな海"
+
+[[discs.tracks]]
+title = "なにが悪い"
+
+[[discs.tracks]]
+title = "忘れてやらない"
+
+[[discs.tracks]]
+title = "星座になれたら"
+
+[[discs.tracks]]
+title = "フラッシュバッカー"
+
+[[discs.tracks]]
+title = "転がる岩、君に朝が降る"
