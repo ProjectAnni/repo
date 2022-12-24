@@ -1,0 +1,25 @@
+[album]
+album_id = "0bc8a765-4a7c-43cb-bc3d-525f26ccdd46"
+title = "Future Parade"
+artist = "虹ヶ咲学園スクールアイドル同好会（三船栞子（小泉萌香）、ミア・テイラー（内田秀）、鐘嵐珠（法元明菜）、朝香果林（久保田未夢）、近江彼方（鬼頭明里）、宮下愛（村上奈津実）、中須かすみ（相良茉優）、桜坂しずく（前田佳織里）、天王寺璃奈（田中ちえ美）、上原歩夢（大西亜玖璃）、エマ・ヴェルデ（指出毬亜）、優木せつ菜（楠木ともり））"
+date = 2022-07-27
+type = "normal"
+catalog = "LACM-24276"
+tags = ["TVアニメ「ラブライブ！虹ヶ咲学園スクールアイドル同好会」2期"]
+
+[[discs]]
+catalog = "LACM-24276"
+
+[[discs.tracks]]
+title = "Future Parade"
+
+[[discs.tracks]]
+title = "Level Oops! Adventures"
+
+[[discs.tracks]]
+title = "Future Parade (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Level Oops! Adventures (Off Vocal)"
+type = "instrumental"

@@ -437,6 +437,10 @@ type = "group"
 name = "cadode"
 type = "group"
 
+[[tag]]
+name = "La prière"
+type = "group"
+
 ################################################################################
 # Animation
 #
