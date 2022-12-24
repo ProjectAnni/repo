@@ -1,0 +1,50 @@
+[album]
+album_id = "e1d884e5-aa1b-4be7-8927-e3cbf4a31fab"
+title = "Chronologue"
+artist = "La prière（棗いつき、藍月なくる、nayuta）"
+date = 2022-08-13
+type = "normal"
+catalog = "LAPR-0004"
+tags = ["La prière"]
+
+[[discs]]
+catalog = "LAPR-0004"
+
+[[discs.tracks]]
+title = "Flyby Anomaly"
+
+[[discs.tracks]]
+title = "Dead Scream"
+
+[[discs.tracks]]
+title = "GHOST"
+
+[[discs.tracks]]
+title = "Instant Love"
+
+[[discs.tracks]]
+title = "來人具惨"
+
+[[discs.tracks]]
+title = "点心爛漫！ふぁんはおれ"
+
+[[discs.tracks]]
+title = "禁断の愛と魔剣"
+
+[[discs.tracks]]
+title = "アルビレオ"
+
+[[discs.tracks]]
+title = "Time Lapse Lights"
+
+[[discs.tracks]]
+title = "無法地点"
+
+[[discs.tracks]]
+title = "純情アンビバレンス"
+
+[[discs.tracks]]
+title = "Chronologue"
+
+[[discs.tracks]]
+title = "Three piece!"
