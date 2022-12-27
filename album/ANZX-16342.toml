@@ -1,0 +1,114 @@
+[album]
+album_id = "ba48902b-b58e-4a01-8d9e-8751d9348643"
+title = "ぼっち・ざ・ろっく！オリジナルサウンドトラックvol.1"
+artist = "菊谷知樹"
+date = 2022-12-28
+type = "absolute"
+catalog = "ANZX-16342"
+tags = ["TVアニメ「ぼっち・ざ・ろっく！」", "OST"]
+
+[[discs]]
+catalog = "ANZX-16342"
+
+[[discs.tracks]]
+title = "ふらふら"
+
+[[discs.tracks]]
+title = "来世でがんばります"
+
+[[discs.tracks]]
+title = "社会が怖い"
+
+[[discs.tracks]]
+title = "もうダメだ……"
+
+[[discs.tracks]]
+title = "ぺっぺけぺー"
+
+[[discs.tracks]]
+title = "案外いけるかも!?"
+
+[[discs.tracks]]
+title = "今日は帰ります"
+
+[[discs.tracks]]
+title = "あ、あの……"
+
+[[discs.tracks]]
+title = "魔境"
+
+[[discs.tracks]]
+title = "炎のろっく「乙」"
+
+[[discs.tracks]]
+title = "炎のろっく「突」"
+
+[[discs.tracks]]
+title = "だいじょうぶかな……?"
+
+[[discs.tracks]]
+title = "無敵のギターヒーロー"
+
+[[discs.tracks]]
+title = "うんばっは!"
+
+[[discs.tracks]]
+title = "き、きまずい……"
+
+[[discs.tracks]]
+title = "ノルマ"
+
+[[discs.tracks]]
+title = "よくわからない"
+
+[[discs.tracks]]
+title = "なんだかとても眠いんだ"
+
+[[discs.tracks]]
+title = "陰キャの果て"
+
+[[discs.tracks]]
+title = "努力はしました"
+
+[[discs.tracks]]
+title = "今日も勤労"
+
+[[discs.tracks]]
+title = "逃げたい逃げたい"
+
+[[discs.tracks]]
+title = "嫌ぁああああ"
+
+[[discs.tracks]]
+title = "殻"
+artist = "安谷屋光生"
+
+[[discs.tracks]]
+title = "押入れより愛をこめて"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
+
+[[discs.tracks]]
+title = "風邪ひけの唄"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
+
+[[discs.tracks]]
+title = "カクテルの唄"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ダブル黒歴史ぼっち弾き語りversion"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
+
+[[discs.tracks]]
+title = "その日入った新人より使えないダメバイトのエレジー"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
+
+[[discs.tracks]]
+title = "ギターは友達"
+artist = "後藤ひとり（青山吉能）"
+type = "normal"
