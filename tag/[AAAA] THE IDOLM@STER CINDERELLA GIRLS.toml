@@ -6,7 +6,12 @@ includes = [
   "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER",
   "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION!",
   "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER for the NEXT!",
+  "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!",
   "series: THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
+  "series: THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!",
+  "series: THE IDOLM@STER CINDERELLA MASTER 3chord",
+  "series: THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪",
+  "series: THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS",
 ]
 
 [[tag]]
@@ -32,4 +37,9 @@ included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
 [[tag]]
 name = "TVアニメ「アイドルマスター シンデレラガールズ」"
 type = "animation"
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[tag]]
+name = "CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"
+type = "radio"
 included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]

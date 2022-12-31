@@ -1,0 +1,51 @@
+[album]
+album_id = "fd53a8fd-c4ec-431c-bb58-d6480b0730c8"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS EXTRA! Life is HaRMONY"
+artist = "Various Artists"
+date = 2021-04-07
+type = "normal"
+catalog = "COCC-17804"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17804"
+
+[[discs.tracks]]
+title = "Life is HaRMONY"
+artist = "桐生つかさ（河瀬茉希）、黒埼ちとせ（佐倉薫）、白菊ほたる（天野聡美）、鷺沢文香（M・A・O）、諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "Milky Mode"
+artist = "及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "泡沫のアイオーン"
+artist = "荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "満願成就♪巫女の神頼み！"
+artist = "道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "Life is HaRMONY オリジナル・カラオケ"
+artist = "桐生つかさ（河瀬茉希）、黒埼ちとせ（佐倉薫）、白菊ほたる（天野聡美）、鷺沢文香（M・A・O）、諸星きらり（松嵜麗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Milky Mode オリジナル・カラオケ"
+artist = "及川雫（のぐちゆり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "泡沫のアイオーン オリジナル・カラオケ"
+artist = "荒木比奈（田辺留依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "満願成就♪巫女の神頼み！オリジナル・カラオケ"
+artist = "道明寺歌鈴（新田ひより）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Life is HaRMONY（GAME VERSION）"
+artist = "桐生つかさ（河瀬茉希）、黒埼ちとせ（佐倉薫）、白菊ほたる（天野聡美）、鷺沢文香（M・A・O）、諸星きらり（松嵜麗）"

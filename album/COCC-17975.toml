@@ -1,0 +1,48 @@
+[album]
+album_id = "33624449-464f-4a88-97b0-d7c52f39873b"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 05 トロピカルガール"
+artist = "Various Artists"
+date = 2022-05-25
+type = "normal"
+catalog = "COCC-17975"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17975"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）"
+artist = "夢見りあむ（星希成奏）、乙倉悠貴（中島由貴）、姫川友紀（杜野まこ）、三村かな子（大坪由佳）、難波笑美（伊達朱里紗）"
+
+[[discs.tracks]]
+title = "徒花ネクロマンシー"
+artist = "辻野あかり（梅澤めぐ）、星輝子（松田颯水）、木村夏樹（安野希世乃）、小日向美穂（津田美波）、関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）オリジナル・カラオケ"
+artist = "夢見りあむ（星希成奏）、乙倉悠貴（中島由貴）、姫川友紀（杜野まこ）、三村かな子（大坪由佳）、難波笑美（伊達朱里紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）夢見りあむソロ・リミックス"
+artist = "夢見りあむ（星希成奏）"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）乙倉悠貴ソロ・リミックス"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）姫川友紀ソロ・リミックス"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）三村かな子ソロ・リミックス"
+artist = "三村かな子（大坪由佳）"
+
+[[discs.tracks]]
+title = "トロピカルガール（M@STER VERSION）難波笑美ソロ・リミックス"
+artist = "難波笑美（伊達朱里紗）"
+
+[[discs.tracks]]
+title = "トロピカルガール(Game Version)"
+artist = "夢見りあむ（星希成奏）、乙倉悠貴（中島由貴）、姫川友紀（杜野まこ）、三村かな子（大坪由佳）、難波笑美（伊達朱里紗）"

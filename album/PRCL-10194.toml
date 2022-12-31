@@ -1,0 +1,32 @@
+[album]
+album_id = "3f30851f-1746-4d21-8034-0059dd0f087a"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Funky Dancing! @NAGOYA DOME SPECIAL LIVE ALBUM"
+artist = "Various Artists"
+date = 2020-06-17
+type = "normal"
+catalog = "PRCL-10194"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "PRCL-10194"
+
+[[discs.tracks]]
+title = "Special 3chord♪ Funky Dancing!"
+artist = "BNSI(中鶴潤一)"
+type = "absolute"
+
+[[discs.tracks]]
+# 01  ミラーボール・ラブ (Day2)
+# 02  未完成の歴史 (Day2)
+# 03  夢をのぞいたら (Day1)
+# 04  サニードロップ (Day1)
+# 05  とんでいっちゃいたいの (Day1)
+# 06  バベル (Day1)
+# 07  Secret Daybreak (Day2)
+# 08  Needle Light (Day1)
+# 09  スパイスパラダイス (Day2)
+# 10  EZ DO DANCE (Day1)
+# 11  Yes! Party Time!! (Day1)
+# 12  お願い! シンデレラ (Day2)
+title = "ノンストップLIVE MIX"
+artist = "THE IDOLM@STER CINDERELLA GIRLS（島村卯月（大橋彩香）、一ノ瀬志希（藍原ことみ）、双葉杏（五十嵐裕美）、緒方智絵里（大空直美）、三村かな子（大坪由佳）、宮本フレデリカ（髙野麻美）、小早川紗枝（立花理香）、乙倉悠貴（中島由貴）、棟方愛海（藤本彩花）、渋谷凛（福原綾香）、二宮飛鳥（青木志貴）、速水奏（飯田友子）、結城晴（小市眞琴）、新田美波（洲崎綾）、藤原肇（鈴木みのり）、森久保乃々（高橋花林）、荒木比奈（田辺留依）、上条春菜（長島光那）、三船美優（原田彩楓）、神谷奈緒（松井恵理子）、本田未央（原紗友里）、高森藍子（金子有希）、堀裕子（鈴木絵理）、依田芳乃（高田憂希）、及川雫（のぐちゆり）、喜多日菜子（深川芹亜）、諸星きらり（松嵜麗）、姫川友紀（杜野まこ）、木村夏樹（安野希世乃）、大槻唯（山下七海）、城ヶ崎莉嘉（山本希望）、城ヶ崎美嘉（佳村はるか）、片桐早苗（和氣あず未）、ナターリア（生田輝）、遊佐こずえ（花谷麻妃））"

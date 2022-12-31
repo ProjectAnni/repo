@@ -1,0 +1,52 @@
+[album]
+album_id = "630626af-f7bd-4934-bab7-6d6b47799bc5"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 09 Just Us Justice"
+artist = "Various Artists"
+date = 2021-07-28
+type = "normal"
+catalog = "COCC-17839"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17839"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）"
+artist = "南条光（神谷早矢佳）、脇山珠美（嘉山未紗）、結城晴（小市眞琴）、上条春菜（長島光那）、片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "survival dAnce ～no no cry more～"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "エキストラレボリューション"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）オリジナル・カラオケ"
+artist = "南条光（神谷早矢佳）、脇山珠美（嘉山未紗）、結城晴（小市眞琴）、上条春菜（長島光那）、片桐早苗（和氣あず未）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）南条光ソロ・リミックス"
+artist = "南条光（神谷早矢佳）"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）脇山珠美ソロ・リミックス"
+artist = "脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）上条春菜ソロ・リミックス"
+artist = "上条春菜（長島光那）"
+
+[[discs.tracks]]
+title = "Just Us Justice（M@STER VERSION）片桐早苗ソロ・リミックス"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "Just Us Justice（GAME VERSION）"
+artist = "南条光（神谷早矢佳）、脇山珠美（嘉山未紗）、結城晴（小市眞琴）、上条春菜（長島光那）、片桐早苗（和氣あず未）"

@@ -1,0 +1,45 @@
+[album]
+album_id = "0743966f-4ccf-4655-b4f5-4d179621298d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 08 ラビューダ♡トライアングル"
+artist = "Various Artists"
+date = 2022-09-21
+type = "normal"
+catalog = "COCC-17978"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17978"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（M@STER VERSION）"
+artist = "島村卯月（大橋彩香）、宮本フレデリカ（髙野麻美）、喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "ハンドメイドスマイル"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（M@STER VERSION）オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）、宮本フレデリカ（髙野麻美）、喜多日菜子（深川芹亜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハンドメイドスマイル オリジナル・カラオケ"
+artist = "関裕美（会沢紗弥）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（M@STER VERSION）島村卯月ソロ・リミックス"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（M@STER VERSION）宮本フレデリカソロ・リミックス"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（M@STER VERSION）喜多日菜子ソロ・リミックス"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "ラビューダ♡トライアングル（GAME VERSION）"
+artist = "島村卯月（大橋彩香）、宮本フレデリカ（髙野麻美）、喜多日菜子（深川芹亜）"

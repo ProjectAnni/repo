@@ -1,0 +1,52 @@
+[album]
+album_id = "56f4e87d-583e-45aa-9292-b5d783c09876"
+title = "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS SPRING!"
+artist = "Various Artists"
+date = 2018-04-11
+type = "normal"
+catalog = "COCC-17334"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS"]
+
+[[discs]]
+catalog = "COCC-17334"
+
+[[discs.tracks]]
+title = "桜の風"
+artist = "アナスタシア（上坂すみれ）、五十嵐響子（種﨑敦美）、依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "HARURUNRUN"
+artist = "関裕美（会沢紗弥）、水本ゆかり（藤田茜）、棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "未完成の歴史"
+artist = "二宮飛鳥（青木志貴）、藤原肇（鈴木みのり）、北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "Spring Screaming"
+artist = "喜多見柚（武田羅梨沙多胡）、本田未央（原紗友里）、龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "MASTER SEASONS SPRING! オリジナル・ドラマ"
+artist = "アナスタシア（上坂すみれ）、五十嵐響子（種﨑敦美）、依田芳乃（高田憂希）"
+type = "drama"
+
+[[discs.tracks]]
+title = "桜の風 オリジナル・カラオケ"
+artist = "アナスタシア（上坂すみれ）、五十嵐響子（種﨑敦美）、依田芳乃（高田憂希）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "HARURUNRUN オリジナル・カラオケ"
+artist = "関裕美（会沢紗弥）、水本ゆかり（藤田茜）、棟方愛海（藤本彩花）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "未完成の歴史 オリジナル・カラオケ"
+artist = "二宮飛鳥（青木志貴）、藤原肇（鈴木みのり）、北条加蓮（渕上舞）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Spring Screaming オリジナル・カラオケ"
+artist = "喜多見柚（武田羅梨沙多胡）、本田未央（原紗友里）、龍崎薫（春瀬なつみ）"
+type = "instrumental"

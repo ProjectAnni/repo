@@ -1,0 +1,75 @@
+[album]
+album_id = "212237d5-2657-473f-9fa7-326bad61f293"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Comical Pops!"
+artist = "Various Artists"
+date = 2019-09-03
+type = "normal"
+catalog = "SACX-1060"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "SACX-1060"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (M@STER VERSION) 本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (M@STER VERSION) 日野茜ソロ・リミックス"
+artist = "日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "情熱ファンファンファーレ (M@STER VERSION) 高森藍子ソロ・リミックス"
+artist = "高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) 依田芳乃ソロ・リミックス"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) 小早川紗枝ソロ・リミックス"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) 道明寺歌鈴ソロ・リミックス"
+artist = "道明寺歌鈴（新田ひより）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) 浜口あやめソロ・リミックス"
+artist = "浜口あやめ（田澤茉純）"
+
+[[discs.tracks]]
+title = "桜の頃 (M@STER VERSION) 脇山珠美ソロ・リミックス"
+artist = "脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "∀NSWER (M@STER VERSION) 早坂美玲ソロ・リミックス"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "∀NSWER (M@STER VERSION) 森久保乃々ソロ・リミックス"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "∀NSWER (M@STER VERSION) 星輝子ソロ・リミックス"
+artist = "星輝子（松田颯水）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) アナスタシアソロ・リミックス"
+artist = "アナスタシア（上坂すみれ）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) 神谷奈緒ソロ・リミックス"
+artist = "神谷奈緒（松井恵理子）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) 中野有香ソロ・リミックス"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) 前川みくソロ・リミックス"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "Nothing but You (M@STER VERSION) 星輝子ソロ・リミックス"
+artist = "星輝子（松田颯水）"

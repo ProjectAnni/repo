@@ -1,0 +1,52 @@
+[album]
+album_id = "6ff8c03f-10b8-4996-ad14-c6ae857e0511"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 06 THE VILLAIN'S NIGHT"
+artist = "Various Artists"
+date = 2021-02-03
+type = "normal"
+catalog = "COCC-17836"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17836"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）"
+artist = "関裕美（会沢紗弥）、赤城みりあ（黒沢ともよ）、櫻井桃華（照井春佳）、相葉夕美（木村珠莉）、宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "Butter-Fly"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "I wish"
+artist = "佐城雪美（中澤ミナ）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）オリジナル・カラオケ"
+artist = "関裕美（会沢紗弥）、赤城みりあ（黒沢ともよ）、櫻井桃華（照井春佳）、相葉夕美（木村珠莉）、宮本フレデリカ（髙野麻美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）関裕美ソロ・リミックス"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）赤城みりあソロ・リミックス"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）櫻井桃華ソロ・リミックス"
+artist = "櫻井桃華（照井春佳）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）相葉夕美ソロ・リミックス"
+artist = "相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（M@STER VERSION）宮本フレデリカソロ・リミックス"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "THE VILLAIN'S NIGHT（GAME VERSION）"
+artist = "関裕美（会沢紗弥）、赤城みりあ（黒沢ともよ）、櫻井桃華（照井春佳）、相葉夕美（木村珠莉）、宮本フレデリカ（髙野麻美）"

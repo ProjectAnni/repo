@@ -1,0 +1,57 @@
+[album]
+album_id = "e0eb5124-fc0b-4fde-8ee6-aeadc4c0ba6b"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 01 星環世界"
+artist = "砂塚あきら（富田美憂）、速水奏（飯田友子）、高垣楓（早見沙織）、緒方智絵里（大空直美）、喜多日菜子（深川芹亜）、宮本フレデリカ（髙野麻美）、相葉夕美（木村珠莉）、中野有香（下地紫野）、片桐早苗（和氣あず未）"
+date = 2022-01-12
+type = "normal"
+catalog = "COCC-17971"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17971"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）砂塚あきら ソロ・リミックス"
+artist = "砂塚あきら（富田美憂）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）速水奏 ソロ・リミックス"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）高垣楓 ソロ・リミックス"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）緒方智絵里 ソロ・リミックス"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）喜多日菜子 ソロ・リミックス"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）宮本フレデリカ ソロ・リミックス"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）相葉夕美 ソロ・リミックス"
+artist = "相葉夕美（木村珠莉）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）中野有香 ソロ・リミックス"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）片桐早苗 ソロ・リミックス"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "星環世界（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "星環世界（GAME VERSION）"

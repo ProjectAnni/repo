@@ -1,0 +1,51 @@
+[album]
+album_id = "6f0f156c-0d05-4dce-b18a-7e95f72a7cd7"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS EXTRA! ダイアモンド・アテンション"
+artist = "Various Artists"
+date = 2020-11-11
+type = "normal"
+catalog = "COCC-17802"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17802"
+
+[[discs.tracks]]
+title = "ダイアモンド・アテンション"
+artist = "喜多見柚（武田羅梨沙多胡）、難波笑美（伊達朱里紗）、椎名法子（都丸ちよ）、ナターリア（生田輝）、脇山珠美（嘉山未紗）"
+
+[[discs.tracks]]
+title = "オヤマトペ♪"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "弾丸サバイバー"
+artist = "大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "Shinobi 4.0 忍者のすゝめ"
+artist = "浜口あやめ（田澤茉純）"
+
+[[discs.tracks]]
+title = "ダイアモンド・アテンション オリジナル・カラオケ"
+artist = "喜多見柚（武田羅梨沙多胡）、難波笑美（伊達朱里紗）、椎名法子（都丸ちよ）、ナターリア（生田輝）、脇山珠美（嘉山未紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "オヤマトペ♪ オリジナル・カラオケ"
+artist = "棟方愛海（藤本彩花）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "弾丸サバイバー オリジナル・カラオケ"
+artist = "大和亜季（村中知）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Shinobi 4.0 忍者のすゝめ オリジナル・カラオケ"
+artist = "浜口あやめ（田澤茉純）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ダイアモンド・アテンション（GAME VERSION）"
+artist = "喜多見柚（武田羅梨沙多胡）、難波笑美（伊達朱里紗）、椎名法子（都丸ちよ）、ナターリア（生田輝）、脇山珠美（嘉山未紗）"

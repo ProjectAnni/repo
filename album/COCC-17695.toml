@@ -1,0 +1,42 @@
+[album]
+album_id = "665a14ce-48d7-4004-b310-00ec6cf799b5"
+title = "THE IDOLM@STER CINDERELLA MASTER 3chord for the Rock!"
+artist = "Various Artists"
+date = 2020-07-01
+type = "normal"
+catalog = "COCC-17695"
+tags = ["THE IDOLM@STER CINDERELLA MASTER 3chord"]
+
+[[discs]]
+catalog = "COCC-17695"
+
+[[discs.tracks]]
+title = "イケナイGO AHEAD"
+artist = "櫻井桃華（照井春佳）、橘ありす（佐藤亜美菜）、村上巴（花井美春）"
+
+[[discs.tracks]]
+title = "Driving My Way"
+artist = "黒埼ちとせ（佐倉薫）、松永涼（千菅春香）、木村夏樹（安野希世乃）"
+
+[[discs.tracks]]
+title = "イケナイGO AHEAD オリジナル・カラオケ"
+artist = "櫻井桃華（照井春佳）、橘ありす（佐藤亜美菜）、村上巴（花井美春）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Driving My Way オリジナル・カラオケ"
+artist = "黒埼ちとせ（佐倉薫）、松永涼（千菅春香）、木村夏樹（安野希世乃）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Unlock Starbeat（M@STER VERSION）"
+artist = "星輝子（松田颯水）、白雪千夜（関口理咲）、神崎蘭子（内田真礼）、五十嵐響子（種﨑敦美）、多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "Unlock Starbeat（M@STER VERSION） オリジナル・カラオケ"
+artist = "星輝子（松田颯水）、白雪千夜（関口理咲）、神崎蘭子（内田真礼）、五十嵐響子（種﨑敦美）、多田李衣菜（青木瑠璃子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Unlock Starbeat（GAME VERSION）"
+artist = "星輝子（松田颯水）、白雪千夜（関口理咲）、神崎蘭子（内田真礼）、五十嵐響子（種﨑敦美）、多田李衣菜（青木瑠璃子）"
