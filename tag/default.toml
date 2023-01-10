@@ -289,6 +289,10 @@ type = "artist"
 name = "彩音"
 type = "artist"
 
+[[tag]]
+name = "愛美"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -635,6 +639,11 @@ type = "animation"
 [[tag]]
 name = "平家物語"
 names.zh-hans = "平家物语"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「現実主義勇者の王国再建記」"
+names.zh-hans = "现实主义勇者的王国再建记"
 type = "animation"
 
 [[tag]]
@@ -1085,6 +1094,16 @@ type = "animation"
 [[tag]]
 name = "新米錬金術師の店舗経営"
 names.zh-hans = "新人炼金术师的店铺经营"
+type = "animation"
+
+[[tag]]
+name = "精霊幻想記"
+names.zh-hans = "精灵幻想记"
+type = "animation"
+
+[[tag]]
+name = "アスタロッテのおもちゃ！"
+names.zh-hans = "露蒂的玩具"
 type = "animation"
 
 ################################################################################
