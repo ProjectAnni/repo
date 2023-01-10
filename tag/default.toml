@@ -1106,6 +1106,26 @@ name = "アスタロッテのおもちゃ！"
 names.zh-hans = "露蒂的玩具"
 type = "animation"
 
+[[tag]]
+name = "ベン・トー"
+names.zh-hans = "便·当"
+type = "animation"
+
+[[tag]]
+name = "織田信奈の野望"
+names.zh-hans = "织田信奈的野望"
+type = "animation"
+
+[[tag]]
+name = "FAIRY TAIL"
+names.zh-hans = "妖精的尾巴"
+type = "animation"
+
+[[tag]]
+name = "断裁分離のクライムエッジ"
+names.zh-hans = "断裁分离的罪恶之剪"
+type = "animation"
+
 ################################################################################
 # Game
 #
