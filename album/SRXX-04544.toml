@@ -1,0 +1,29 @@
+[album]
+album_id = "e42d2a41-7d7a-4ea9-a6d6-f55a5b4aa20e"
+title = "神様だって決められない"
+edition = "Special Edition"
+artist = "22/7（藤間桜（天城サリー）、斎藤ニコル（河瀬詩）、丸山あかね（白沢かなえ）、神木みかみ（涼花萌）、立川絢香（宮瀬玲奈）、西浦そら（相川奈央）、桐生塔子（麻丘真央）、八神叶愛（雨夜音）、永峰楓（清井美那）、織原純佳（椎名桜月）、一之瀬蛍（四条月）、氷室みず姫（月城咲舞）、瀬良穂乃花（望月りの））"
+date = 2023-01-11
+type = "normal"
+catalog = "SRXX-04544"
+tags = ["ナナブンノニジュウニ"]
+
+[[discs]]
+catalog = "SRXX-04544"
+
+[[discs.tracks]]
+title = "神様だって決められない"
+
+[[discs.tracks]]
+title = "命の続き"
+
+[[discs.tracks]]
+title = "謎の力"
+
+# TODO
+[[discs.tracks]]
+title = "ハレロ (紅組)"
+
+# TODO
+[[discs.tracks]]
+title = "最後のピアノ (白組)"
