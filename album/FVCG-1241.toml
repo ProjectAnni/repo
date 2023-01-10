@@ -1,0 +1,29 @@
+[album]
+album_id = "16bec1a5-9907-4943-8306-be93cb1188d3"
+title = "楽園のホログラム"
+artist = "いとうかなこ"
+date = 2013-05-29
+type = "normal"
+catalog = "FVCG-1241"
+tags = ["いとうかなこ"]
+
+[[discs]]
+catalog = "FVCG-1241"
+
+[[discs.tracks]]
+title = "楽園のホログラム"
+tags = ["STEINS;GATE 線形拘束のフェノグラム", "ED"]
+
+[[discs.tracks]]
+title = "掟つしらつゆ"
+tags = ["しらつゆの怪", "ED"]
+
+[[discs.tracks]]
+title = "楽園のホログラム (off Vocal)"
+type = "instrumental"
+tags = ["STEINS;GATE 線形拘束のフェノグラム", "ED"]
+
+[[discs.tracks]]
+title = "掟つしらつゆ (off Vocal)"
+type = "instrumental"
+tags = ["しらつゆの怪", "ED"]

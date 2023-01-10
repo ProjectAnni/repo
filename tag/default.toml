@@ -285,6 +285,10 @@ type = "artist"
 name = "村川梨衣"
 type = "artist"
 
+[[tag]]
+name = "彩音"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -1078,6 +1082,11 @@ name = "アニメ「ピアノの森」第2シリーズ"
 names.zh-hans = "钢琴之森 第二季"
 type = "animation"
 
+[[tag]]
+name = "新米錬金術師の店舗経営"
+names.zh-hans = "新人炼金术师的店铺经营"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -1230,6 +1239,14 @@ name = "とある魔術の禁書目録 幻想収束"
 names.zh-hans = "魔法禁书目录 幻想收束"
 type = "game"
 
+[[tag]]
+name = "メモリーズオフ6 Complete"
+type = "game"
+
+[[tag]]
+name = "しらつゆの怪"
+type = "game"
+
 ################################################################################
 # Project
 #
@@ -1295,6 +1312,7 @@ type = "project"
 includes = [
   "game: ゲーム「STEINS;GATE」",
   "game: STEINS;GATE 比翼恋理のだーりん",
+  "game: STEINS;GATE 線形拘束のフェノグラム"
 ]
 
 [[tag]]
