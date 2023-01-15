@@ -16,6 +16,7 @@ title = "黙劇"
 
 [[discs.tracks]]
 title = "Int：Hope"
+type = "drama"
 
 [[discs.tracks]]
 title = "キリカ"
@@ -31,24 +32,28 @@ title = "3分ガール"
 
 [[discs.tracks]]
 title = "Int：抜ケ駆ケ07&11"
+type = "drama"
 
 [[discs.tracks]]
 title = "ボクラハ&ナイデ"
 
 [[discs.tracks]]
 title = "Int：待宵のプラハ"
+type = "drama"
 
 [[discs.tracks]]
 title = "氷少女と陥落街"
 
 [[discs.tracks]]
 title = "Int：入電「オシリフリフリ」"
+type = "drama"
 
 [[discs.tracks]]
 title = "フリコドウル"
 
 [[discs.tracks]]
 title = "Int：Farewell"
+type = "drama"
 
 [[discs.tracks]]
 title = "テト"
@@ -61,6 +66,7 @@ title = "こだましがみ"
 
 [[discs.tracks]]
 title = "Int：雨ノチハレリ"
+type = "drama"
 
 [[discs.tracks]]
 title = "水たまりロンド"
