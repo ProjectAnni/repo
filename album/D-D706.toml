@@ -1,0 +1,14 @@
+[album]
+album_id = "cbf1076f-6deb-4e92-b3fd-c50c0e7d9b4f"
+title = "My Tale"
+artist = "青山吉能"
+date = 2022-12-14
+type = "normal"
+catalog = "D-D706"
+tags = ["青山吉能"]
+
+[[discs]]
+catalog = "D-D706"
+
+[[discs.tracks]]
+title = "My Tale"

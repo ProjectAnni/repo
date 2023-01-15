@@ -110,6 +110,7 @@ catalog = "USSW-0288-02"
 [[discs.tracks]]
 title = "この場所で。"
 artist = "屋内活動サ一クル（亜咲花、佐々木恵梨）"
+type = "normal"
 
 [[discs.tracks]]
 title = "オリジナルドラマ その5"

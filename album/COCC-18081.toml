@@ -1,0 +1,49 @@
+[album]
+album_id = "ff7b1048-156b-4137-a518-b8a21d954019"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER 01 MOTTO!"
+artist = "久川凪（立花日菜）、西園寺琴歌（安齋由香里）、桐生つかさ（河瀬茉希）、白菊ほたる（天野聡美）、村上巴（花井美春）、関裕美（会沢紗弥）、結城晴（小市眞琴）"
+date = 2022-12-28
+type = "normal"
+catalog = "COCC-18081"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER"]
+
+[[discs]]
+catalog = "COCC-18081"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION） 久川凪ソロ・リミックス"
+artist = "久川凪（立花日菜）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）西園寺琴歌ソロ・リミックス"
+artist = "西園寺琴歌（安齋由香里）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）桐生つかさソロ・リミックス"
+artist = "桐生つかさ（河瀬茉希）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）白菊ほたるソロ・リミックス"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）村上巴ソロ・リミックス"
+artist = "村上巴（花井美春）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）関裕美ソロ・リミックス"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "MOTTO!（M@STER VERSION）オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "MOTTO!（Game Version）"

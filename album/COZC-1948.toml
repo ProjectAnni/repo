@@ -1,0 +1,28 @@
+[album]
+album_id = "d773f8ba-f3e6-429b-b4c9-7d443b76cb65"
+title = "はじまるウェルカム"
+edition = "初回限定盤"
+artist = "大西亜玖璃"
+date = 2022-10-19
+type = "normal"
+catalog = "COZC-1948"
+tags = ["大西亜玖璃"]
+
+[[discs]]
+catalog = "COZC-1948"
+
+[[discs.tracks]]
+title = "はじまるウェルカム"
+tags = ["新米錬金術師の店舗経営", "OP"]
+
+[[discs.tracks]]
+title = "結んで、ひらいて"
+
+[[discs.tracks]]
+title = "はじまるウェルカム (Instrumental)"
+type = "instrumental"
+tags = ["新米錬金術師の店舗経営", "OP"]
+
+[[discs.tracks]]
+title = "結んで、ひらいて (Instrumental)"
+type = "instrumental"

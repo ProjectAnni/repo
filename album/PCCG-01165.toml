@@ -1,0 +1,26 @@
+[album]
+album_id = "e6aa4358-6ed3-44a9-9191-a1fb148d4544"
+title = "天使のCLOVER"
+artist = "愛美"
+date = 2011-05-03
+type = "normal"
+catalog = "PCCG-01165"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-01165"
+
+[[discs.tracks]]
+title = "天使のCLOVER"
+tags = ["アスタロッテのおもちゃ！", "OP"]
+
+[[discs.tracks]]
+title = "Dear…"
+
+[[discs.tracks]]
+title = "キミへ"
+
+[[discs.tracks]]
+title = "天使のCLOVER (Instrumental)"
+type = "instrumental"
+tags = ["アスタロッテのおもちゃ！", "OP"]

@@ -1,0 +1,27 @@
+[album]
+album_id = "564599bb-86a7-4f7c-b024-b473014312e7"
+title = "We're the stars"
+artist = "愛美"
+date = 2013-02-27
+type = "normal"
+catalog = "PCCG-70158"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-70158"
+
+[[discs.tracks]]
+title = "We're the stars"
+tags = ["FAIRY TAIL", "ED"]
+
+[[discs.tracks]]
+title = "We can do it"
+
+[[discs.tracks]]
+title = "We're the stars (Instrumental)"
+type = "instrumental"
+tags = ["FAIRY TAIL", "ED"]
+
+[[discs.tracks]]
+title = "We can do it (Instrumental)"
+type = "instrumental"

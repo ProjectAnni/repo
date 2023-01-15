@@ -1,17 +1,19 @@
 [album]
 album_id = "fa25ddb3-cd24-492e-85d1-d2bb2741108a"
 title = "ジェリーフィッシュな君へ"
+edition = "初回限定盤"
 artist = "大西亜玖璃"
 date = 2022-04-13
 type = "normal"
 catalog = "COZC-1879"
-tags = ["大西亜玖璃", "このヒーラー、めんどくさい"]
+tags = ["大西亜玖璃"]
 
 [[discs]]
 catalog = "COZC-1879"
 
 [[discs.tracks]]
 title = "ジェリーフィッシュな君へ"
+tags = ["このヒーラー、めんどくさい", "OP"]
 
 [[discs.tracks]]
 title = "Love・Me・Do"
@@ -19,6 +21,7 @@ title = "Love・Me・Do"
 [[discs.tracks]]
 title = "ジェリーフィッシュな君へ (Instrumental)"
 type = "instrumental"
+tags = ["このヒーラー、めんどくさい", "OP"]
 
 [[discs.tracks]]
 title = "Love・Me・Do (Instrumental)"

@@ -1,0 +1,14 @@
+[album]
+album_id = "78539f5d-03a0-45fe-9e2a-f19785e96177"
+title = "Page"
+artist = "青山吉能"
+date = 2022-03-09
+type = "normal"
+catalog = "D-D385"
+tags = ["青山吉能"]
+
+[[discs]]
+catalog = "D-D385"
+
+[[discs.tracks]]
+title = "Page"

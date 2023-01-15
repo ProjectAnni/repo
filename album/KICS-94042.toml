@@ -1,0 +1,51 @@
+[album]
+album_id = "59557b90-637e-4202-a750-9d5d7206d012"
+title = "AIMI SOUND"
+edition = "初回限定盤 TYPE-L"
+artist = "愛美"
+date = 2022-07-13
+type = "normal"
+catalog = "KICS-94042"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "KICS-94042"
+
+[[discs.tracks]]
+title = "スターリア"
+
+[[discs.tracks]]
+title = "≒"
+
+[[discs.tracks]]
+title = "かかった魔法はアマノジャク"
+
+[[discs.tracks]]
+title = "瞬間SummerDay! –AIMI SOUND Ver.-"
+
+[[discs.tracks]]
+title = "フリクホリカ"
+
+[[discs.tracks]]
+title = "MAYDAY"
+
+[[discs.tracks]]
+title = "ReSTARTING!!"
+
+[[discs.tracks]]
+title = "カザニア"
+
+[[discs.tracks]]
+title = "LIGHTS"
+
+[[discs.tracks]]
+title = "ドレス"
+
+[[discs.tracks]]
+title = "不完全ドリーマー"
+
+[[discs.tracks]]
+title = "愛世界"
+
+[[discs.tracks]]
+title = "おこめぞん"

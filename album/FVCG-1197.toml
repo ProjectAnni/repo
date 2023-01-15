@@ -1,0 +1,28 @@
+[album]
+album_id = "d3b7f1fe-9591-4001-9356-060427ddd799"
+title = "非線形ジェニアック"
+artist = "いとうかなこ"
+date = 2012-05-23
+type = "normal"
+catalog = "FVCG-1197"
+tags = ["いとうかなこ", "ゲーム「STEINS;GATE」"]
+
+[[discs]]
+catalog = "FVCG-1197"
+
+[[discs.tracks]]
+title = "非線形ジェニアック"
+
+[[discs.tracks]]
+title = "Geometric space"
+
+[[discs.tracks]]
+title = "Another Heaven 2012 Remix Ver."
+
+[[discs.tracks]]
+title = "非線形ジェニアック (off vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Geometric space (off vocal)"
+type = "instrumental"

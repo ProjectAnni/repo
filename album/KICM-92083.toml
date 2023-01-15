@@ -1,0 +1,33 @@
+[album]
+album_id = "e4c40c8d-fdf0-43af-9db5-cd5090a49bd9"
+title = "ReSTARTING!!"
+edition = "初回限定盤"
+artist = "愛美"
+date = 2021-04-07
+type = "normal"
+catalog = "KICM-92083"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "KICM-92083"
+
+[[discs.tracks]]
+title = "ReSTARTING!!"
+
+[[discs.tracks]]
+title = "MAYDAY"
+
+[[discs.tracks]]
+title = "ラブレター"
+
+[[discs.tracks]]
+title = "ReSTARTING!! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "MAYDAY (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブレター (Instrumental)"
+type = "instrumental"
