@@ -1,0 +1,63 @@
+[album]
+album_id = "d93c8d4c-6049-4756-a3e8-807faacaaf3a"
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 11 Angel Stars"
+artist = "Various Artists"
+date = 2023-01-14
+type = "normal"
+catalog = "LACZ-10135"
+tags = ["THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10135"
+
+[[discs.tracks]]
+title = "ピコピコIIKO! インベーダー"
+artist = "木下ひなた（田村奈央）"
+
+[[discs.tracks]]
+title = "CHEER UP! HEARTS UP!"
+artist = "望月杏奈（夏川椎菜）"
+
+[[discs.tracks]]
+title = "フシギトラベラー"
+artist = "北上麗花（平山笑美）"
+
+[[discs.tracks]]
+title = "Flooding"
+artist = "野々原茜（小笠原早紀）"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+artist = "宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "DIAMOND JOKER"
+artist = "伊吹翼（Machico）"
+
+[[discs.tracks]]
+title = "ビッグバンズバリボー!!!!!"
+artist = "豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "Clover's Cry ～神と神降ろしの少女～"
+artist = "大神環（稲川英里）"
+
+[[discs.tracks]]
+title = "聖ミリオン女学園校歌"
+artist = "篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "トレフル・ド・ノエル"
+artist = "島原エレナ（角元明日香）"
+
+[[discs.tracks]]
+title = "White Vows"
+artist = "馬場このみ（髙橋ミナミ）"
+
+[[discs.tracks]]
+title = "星宙のVoyage"
+artist = "桜守歌織（香里有佐）"

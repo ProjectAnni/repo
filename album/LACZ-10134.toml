@@ -1,0 +1,63 @@
+[album]
+album_id = "16a847d2-b2ea-4c53-a99a-65ab908d63c0"
+title = "THE IDOLM@STER LIVE THE@TER SOLO COLLECTION 11 Fairy Stars"
+artist = "Various Artists"
+date = 2023-01-14
+type = "normal"
+catalog = "LACZ-10134"
+tags = ["THE IDOLM@STER LIVE THE@TER SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10134"
+
+[[discs.tracks]]
+title = "I did+I will"
+artist = "永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "プリムラ"
+artist = "最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "P.S I Love You"
+artist = "天空橋朋花（小岩井ことり）"
+
+[[discs.tracks]]
+title = "KING of SPADE"
+artist = "白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "ReTale"
+artist = "所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "Parade d'amour"
+artist = "北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "Paradox of LOVE"
+artist = "ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+artist = "真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+artist = "ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+artist = "周防桃子（渡部恵子）"
+
+[[discs.tracks]]
+title = "Criminally Dinner ～正餐とイーヴルナイフ～"
+artist = "舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "Shamrock Vivace"
+artist = "二階堂千鶴（野村香菜子）"
+
+[[discs.tracks]]
+title = "ダイヤモンド・クラリティ"
+artist = "百瀬莉緒（山口立花子）"
