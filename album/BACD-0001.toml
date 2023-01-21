@@ -1,0 +1,170 @@
+[album]
+album_id = "aef87fd9-ea43-4cf8-b39b-0005cb30b1ab"
+title = "Blue Archive Original Soundtrack Vol. 1 ~Longing for the memorable days~"
+artist = "Mitsukiyo、KARUT、Nor"
+date = 2022-03-24
+type = "absolute"
+catalog = "BACD-0001"
+tags = ["Blue Archive"]
+
+[[discs]]
+catalog = "@BACD-0001-01"
+
+[[discs.tracks]]
+title = "Constant Moderato"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Midsummer cat"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Connected Sky"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Step by Step"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "MX Adventure"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Irasshaimase"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Daily Routine 247"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Future Bossa"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Lemonade Diary"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Plug and Play"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Water Drop"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Signal of Abydos"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Sugar story"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "ARES"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Vibes"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Future Lab"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "After the Beep"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Rolling beat"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Accelerator"
+artist = "KARUT"
+
+[[discs]]
+catalog = "@BACD-0001-02"
+
+[[discs.tracks]]
+title = "Mischievous Step"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Mechanical JUNGLE"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Virtual Storm"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Tech N Tech"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Party time"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Endless Carnival"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Fade Out"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Alert"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "CrossFire"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Interface"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Out of Control"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Mechanical JUNGLE Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Fearful Utopia"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "SAKURA PUNCH"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Denshi Toujou!"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Kaiten Screw!!!"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "CrossFire Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Fevertime"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Library of Omen"
+artist = "KARUT"
