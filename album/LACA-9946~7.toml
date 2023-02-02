@@ -1,0 +1,120 @@
+[album]
+album_id = "50b9e925-3bf8-4964-ab52-5024a95cb678"
+title = "THE IDOLM@STER SHINY COLORS WING COLLECTION -A side-"
+artist = "シャイニーカラーズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優）、月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月）、小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ）、大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子）、芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香）、浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保）、七草にちか（紫月杏朱彩）、緋田美琴（山根綺））"
+date = 2023-01-18
+type = "normal"
+catalog = "LACA-9946~7"
+tags = ["THE IDOLM@STER SHINY COLORS WING COLLECTION"]
+
+[[discs]]
+catalog = "LACA-9946"
+
+[[discs.tracks]]
+title = "Spread the Wings!! -25 colors-"
+
+[[discs.tracks]]
+title = "ヒカリのdestination"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+
+[[discs.tracks]]
+title = "バベルシティ・グレイス (2023 Ver.)"
+artist = "アンティーカ（月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月））"
+
+[[discs.tracks]]
+title = "夢咲きAfter school"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+
+[[discs.tracks]]
+title = "アルストロメリア"
+artist = "アルストロメリア（大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子））"
+
+[[discs.tracks]]
+title = "Ambitious Eve -25 colors-"
+
+[[discs.tracks]]
+title = "We can go now!"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+
+[[discs.tracks]]
+title = "NEO THEORY FANTASY (2023 Ver.)"
+artist = "アンティーカ（月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月））"
+
+[[discs.tracks]]
+title = "ビーチブレイバー"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+
+[[discs.tracks]]
+title = "Bloomy!"
+artist = "アルストロメリア（大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子））"
+
+[[discs.tracks]]
+title = "Wandering Dream Chaser"
+artist = "ストレイライト（芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香））"
+
+[[discs]]
+catalog = "LACA-9947"
+
+[[discs.tracks]]
+title = "シャイノグラフィ -25 colors-"
+
+[[discs.tracks]]
+title = "Twinkle way"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+
+[[discs.tracks]]
+title = "Black Reverie (2023 Ver.)"
+artist = "アンティーカ（月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月））"
+
+[[discs.tracks]]
+title = "五ツ座流星群"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+
+[[discs.tracks]]
+title = "ダブル・イフェクト"
+artist = "アルストロメリア（大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子））"
+
+[[discs.tracks]]
+title = "Hide & Attack"
+artist = "ストレイライト（芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香））"
+
+[[discs.tracks]]
+title = "いつだって僕らは"
+artist = "ノクチル（浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保））"
+
+[[discs.tracks]]
+title = "Resonance⁺ -25 colors-"
+
+[[discs.tracks]]
+title = "PRISISM"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+
+[[discs.tracks]]
+title = "abyss of conflict (2023 Ver.)"
+artist = "アンティーカ（月岡恋鐘（礒部花凜）、田中摩美々（菅沼千紗）、白瀬咲耶（八巻アンナ）、三峰結華（希水しお）、幽谷霧子（結名美月））"
+
+[[discs.tracks]]
+title = "クライマックスアイランド"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+
+[[discs.tracks]]
+title = "パステルカラー パスカラカラー"
+artist = "アルストロメリア（大崎甘奈（黒木ほの香）、大崎甜花（前川涼子）、桑山千雪（芝崎典子））"
+
+[[discs.tracks]]
+title = "Another Rampage"
+artist = "ストレイライト（芹沢あさひ（田中有紀）、黛冬優子（幸村恵理）、和泉愛依（北原沙弥香））"
+
+[[discs.tracks]]
+title = "僕らだけの未来の空"
+artist = "ノクチル（浅倉透（和久井優）、樋口円香（土屋李央）、福丸小糸（田嶌紗蘭）、市川雛菜（岡咲美保））"
+
+[[discs.tracks]]
+title = "OH MY GOD"
+artist = "シーズ（七草にちか（紫月杏朱彩）、緋田美琴（山根綺））"
+
+[[discs.tracks]]
+title = "SNOW FLAKES MEMORIES -25 colors-"
+
+[[discs.tracks]]
+title = "FUTURITY SMILE -25 colors-"

@@ -1,0 +1,27 @@
+[album]
+album_id = "fecebdd3-e7b8-4392-88ac-7e4cf4d6d8df"
+title = "rebind"
+artist = "TRUE"
+date = 2023-01-25
+type = "normal"
+catalog = "LACM-24339"
+tags = ["TRUE"]
+
+[[discs]]
+catalog = "LACM-24339"
+
+[[discs.tracks]]
+title = "rebind"
+tags = ["もののがたり", "ED"]
+
+[[discs.tracks]]
+title = "DelighT"
+
+[[discs.tracks]]
+title = "rebind (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DelighT (Instrumental)"
+type = "instrumental"
+tags = ["もののがたり", "ED"]
