@@ -1,0 +1,14 @@
+[album]
+album_id = "7281df91-c31a-489a-8318-a41faba27c6f"
+title = "可愛くてごめん"
+artist = "高嶺のなでしこ（城月菜央、涼海すう、橋本桃呼、葉月紗蘭、春野莉々、東山恵里沙、日向端ひな、星谷美来、松本ももな、籾山ひめり）"
+date = 2023-01-27
+type = "normal"
+catalog = "TCJPR0000989771"
+tags = ["高嶺のなでしこ"]
+
+[[discs]]
+catalog = "TCJPR0000989771"
+
+[[discs.tracks]]
+title = "可愛くてごめん"
