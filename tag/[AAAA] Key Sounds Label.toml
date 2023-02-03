@@ -4,6 +4,7 @@ type = "organization"
 includes = [
     "game: Summer Pockets",
     "game: Kud Wafter",
+    "game: HEAVEN BURNS RED",
     "animation: 神様になった日",
 ]
 

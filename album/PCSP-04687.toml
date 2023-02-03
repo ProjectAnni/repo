@@ -1,0 +1,42 @@
+[album]
+album_id = "b61ed623-7840-469f-8812-3c3b8e751e14"
+title = "ラウドヘイラー"
+artist = "内田真礼"
+date = 2023-01-06
+type = "normal"
+catalog = "PCSP-04687"
+tags = ["内田真礼"]
+
+[[discs]]
+catalog = "PCSP-04687"
+
+[[discs.tracks]]
+title = "ラウドヘイラー"
+tags = ["冰剣の魔術師が世界を統べる", "ED"]
+
+[[discs.tracks]]
+title = "CHASER GAME"
+
+[[discs.tracks]]
+title = "ダストテイル"
+
+[[discs.tracks]]
+title = "ラウドヘイラー -TV Size Ver.-"
+tags = ["冰剣の魔術師が世界を統べる", "ED"]
+
+[[discs.tracks]]
+title = "ラウドヘイラー -Instrumental-"
+type = "instrumental"
+tags = ["冰剣の魔術師が世界を統べる", "ED"]
+
+[[discs.tracks]]
+title = "CHASER GAME -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ダストテイル -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "内田真礼スペシャルボイスメッセージ"
+type = "vocal"
