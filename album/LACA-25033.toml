@@ -1,0 +1,57 @@
+[album]
+album_id = "7162ce16-e56e-4eb1-9f08-c0f77d256e49"
+title = "大橋彩香 1st Acoustic Live「Lumière et Étoile」"
+artist = "大橋彩香"
+date = 2023-01-11
+type = "normal"
+catalog = "LACA-25033"
+tags = ["大橋彩香"]
+
+[[discs]]
+catalog = "LACA-25033"
+
+[[discs.tracks]]
+title = "Overture of Lumière et Étoile"
+type = "absolute"
+
+[[discs.tracks]]
+title = "Esprit De Lumière"
+
+[[discs.tracks]]
+title = "明日の風よ"
+
+[[discs.tracks]]
+title = "ダイスキ。"
+
+[[discs.tracks]]
+title = "YES!!"
+
+[[discs.tracks]]
+title = "キミがいないクリスマスなんて"
+
+[[discs.tracks]]
+title = "流星タンバリン"
+
+[[discs.tracks]]
+title = "ワガママMIRROR HEART"
+
+[[discs.tracks]]
+title = "ハイライト"
+
+[[discs.tracks]]
+title = "ロンリーサンシャイン"
+
+[[discs.tracks]]
+title = "Break My Jail"
+
+[[discs.tracks]]
+title = "Winding Road"
+
+[[discs.tracks]]
+title = "バカだなぁ"
+
+[[discs.tracks]]
+title = "NOT YET"
+
+[[discs.tracks]]
+title = "Étoile"

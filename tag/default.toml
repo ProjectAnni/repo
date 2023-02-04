@@ -297,6 +297,14 @@ type = "artist"
 name = "青山吉能"
 type = "artist"
 
+[[tag]]
+name = "TRUE"
+type = "artist"
+
+[[tag]]
+name = "内田真礼"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -451,6 +459,10 @@ type = "group"
 
 [[tag]]
 name = "La prière"
+type = "group"
+
+[[tag]]
+name = "高嶺のなでしこ"
 type = "group"
 
 ################################################################################
@@ -1128,6 +1140,21 @@ type = "animation"
 [[tag]]
 name = "断裁分離のクライムエッジ"
 names.zh-hans = "断裁分离的罪恶之剪"
+type = "animation"
+
+[[tag]]
+name = "もののがたり"
+names.zh-hans = "物物语"
+type = "animation"
+
+[[tag]]
+name = "冰剣の魔術師が世界を統べる"
+names.zh-hans = "冰剑的魔术师将要统一世界"
+type = "animation"
+
+[[tag]]
+name = "シュガーアップル・フェアリーテイル"
+names.zh-hans = "银砂糖师与黑妖精"
 type = "animation"
 
 ################################################################################

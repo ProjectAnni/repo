@@ -1,0 +1,29 @@
+[album]
+album_id = "c6d9a438-e79e-4e86-a27b-eab7e0515ec3"
+title = "青を生きる"
+artist = "高橋李依"
+date = 2023-01-25
+type = "normal"
+catalog = "AZZS-133"
+tags = ["高橋李依"]
+
+[[discs]]
+catalog = "AZZS-133"
+
+[[discs.tracks]]
+title = "共感されなくてもいいじゃない"
+
+[[discs.tracks]]
+title = "最つよワタシイズム"
+
+[[discs.tracks]]
+title = "反省会"
+
+[[discs.tracks]]
+title = "BABURU"
+
+[[discs.tracks]]
+title = "0のひと匙"
+
+[[discs.tracks]]
+title = "アオハルインクルージョン"
