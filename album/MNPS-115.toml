@@ -1,0 +1,14 @@
+[album]
+album_id = "ac5ae585-b60d-4582-882c-0970128b7ca0"
+title = "蒼の彼方のフォーリズム ドラマCD Vol.4"
+artist = "倉科明日香（福圓美里）、乾沙希（高森奈津美）、イリーナ・アヴァロン（水橋かおり）"
+date = 2016-08-24
+type = "drama"
+catalog = "MNPS-115"
+tags = ["animation: 蒼の彼方のフォーリズム"]
+
+[[discs]]
+catalog = "MNPS-115"
+
+[[discs.tracks]]
+title = "第12.5話「もっと……一緒に！」"

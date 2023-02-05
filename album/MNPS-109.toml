@@ -1,0 +1,14 @@
+[album]
+album_id = "e6d66173-3a4d-4f2e-9a3d-69407a55bf50"
+title = "蒼の彼方のフォーリズム ドラマCD Vol.1"
+artist = "鳶沢みさき（浅倉杏美）、有坂真白（山本希望）"
+date = 2016-05-25
+type = "drama"
+catalog = "MNPS-109"
+tags = ["animation: 蒼の彼方のフォーリズム"]
+
+[[discs]]
+catalog = "MNPS-109"
+
+[[discs.tracks]]
+title = "第4.5話「みさき先輩……大好き！」"
