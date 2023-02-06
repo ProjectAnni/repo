@@ -1,32 +1,47 @@
 [album]
-album_id = "0372bcb2-1b6f-47d8-9a12-1803d3c6d9bb"
-title = "少女☆歌劇 レヴュースタァライト -The LIVE- #1 revival 特典CD"
+album_id = "8e6af5f6-3217-4c9d-908d-01227d3395e7"
+title = "少女☆歌劇 レヴュースタァライト -The LIVE- #3 Growth"
 artist = "スタァライト九九組（愛城華恋（小山百代）、神楽ひかり（三森すずこ）、天堂真矢（富田麻帆）、星見純那（佐藤日向）、露崎まひる（岩田陽葵）、大場なな（小泉萌香）、西條クロディーヌ（相羽あいな）、石動双葉（生田輝）、花柳香子（伊藤彩沙））"
-date = 2018-06-27
+date = 2022-07-13
 type = "normal"
-catalog = "BRMM-10109"
+catalog = "BRMM-10547"
 tags = ["少女☆歌劇 レヴュースタァライト -The LIVE-"]
 
 [[discs]]
-catalog = "BRMM-10109"
+catalog = "BRMM-10547"
 
 [[discs.tracks]]
 title = "3・7・5・1・0"
 
 [[discs.tracks]]
-title = "ポジションゼロへ！"
+title = "プレコール Growth ver."
 
 [[discs.tracks]]
-title = "私たちの居る理由"
+title = "わかれみち"
 
 [[discs.tracks]]
-title = "ジャンヌダルク"
+title = "Hard Mode"
 
 [[discs.tracks]]
-title = "RE:"
+title = "駆け引き"
+
+[[discs.tracks]]
+title = "My Path"
+
+[[discs.tracks]]
+title = "パステルワールド"
+
+[[discs.tracks]]
+title = "Saltation"
+
+[[discs.tracks]]
+title = "わたしたちの居る理由 Growth ver."
 
 [[discs.tracks]]
 title = "Resist"
 
 [[discs.tracks]]
-title = "Glittering Stars"
+title = "空の鏡"
+
+[[discs.tracks]]
+title = "キラキラ未来"
