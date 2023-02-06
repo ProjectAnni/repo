@@ -1,0 +1,14 @@
+[album]
+album_id = "edba26c4-8e1d-48ee-89dd-473f4584fd52"
+title = "Animelo Summer Live 2022 -Sparkle- テーマソング"
+artist = "愛美、伊藤美来、小笠原仁（GYROAXIA）、梶原岳人、鈴木愛理、DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）、TrySail（麻倉もも、雨宮天、夏川椎菜）、仲村宗悟、花澤香菜、halca"
+date = 2022-06-17
+type = "normal"
+catalog = "MVC-0064"
+tags = ["Animelo Summer Live"]
+
+[[discs]]
+catalog = "MVC-0064"
+
+[[discs.tracks]]
+title = "Sparkle"
