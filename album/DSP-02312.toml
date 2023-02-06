@@ -1,0 +1,40 @@
+[album]
+album_id = "e2f0dc5a-ceb9-4cd5-8126-760e8417d15c"
+title = "劇場版 少女☆歌劇 レヴュースタァライト instrumental ALBUM"
+artist = "Various Artists"
+date = 2021-07-21
+type = "instrumental"
+catalog = "DSP-02312"
+tags = ["少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "DSP-02312"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "wi(l)d-screen baroque (Instrumental)"
+artist = "三好啓太"
+
+[[discs.tracks]]
+title = "わがままハイウェイ (Instrumental)"
+artist = "谷ナオキ（HANO）"
+
+[[discs.tracks]]
+title = "MEDAL SUZDAL PANIC◎〇● (Instrumental)"
+artist = "広川恵一（MONACA）"
+
+[[discs.tracks]]
+title = "ペン:力:刀 (Instrumental)"
+artist = "佐藤純一（fhána）"
+
+[[discs.tracks]]
+title = "美しき人 或いは其れは (Instrumental)"
+artist = "藤澤慶昌"
+
+[[discs.tracks]]
+title = "スーパー スタァ スペクタクル (Instrumental)"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "私たちはもう舞台の上 (movie ver.) (Instrumental)"
+artist = "本多友紀（Arte Refact）"
