@@ -1,0 +1,51 @@
+[album]
+album_id = "c74a0879-43db-4242-b171-aa98b8d897bc"
+title = "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS EXTRA! Sing the Prologue♪"
+artist = "Various Artists"
+date = 2020-08-19
+type = "normal"
+catalog = "COCC-17801"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!"]
+
+[[discs]]
+catalog = "COCC-17801"
+
+[[discs.tracks]]
+title = "Sing the Prologue♪"
+artist = "久川凪（立花日菜）、関裕美（会沢紗弥）、遊佐こずえ（花谷麻妃）、三村かな子（大坪由佳）、堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "春恋フレーム"
+artist = "上条春菜（長島光那）"
+
+[[discs.tracks]]
+title = "私色のプレリュード"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "世界滅亡 or KISS"
+artist = "喜多日菜子（深川芹亜）"
+
+[[discs.tracks]]
+title = "Sing the Prologue♪ オリジナル・カラオケ"
+artist = "久川凪（立花日菜）、関裕美（会沢紗弥）、遊佐こずえ（花谷麻妃）、三村かな子（大坪由佳）、堀裕子（鈴木絵理）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "春恋フレーム オリジナル・カラオケ"
+artist = "上条春菜（長島光那）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "私色のプレリュード オリジナル・カラオケ"
+artist = "水本ゆかり（藤田茜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "世界滅亡 or KISS オリジナル・カラオケ"
+artist = "喜多日菜子（深川芹亜）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Sing the Prologue♪（Game Version）"
+artist = "久川凪（立花日菜）、関裕美（会沢紗弥）、遊佐こずえ（花谷麻妃）、三村かな子（大坪由佳）、堀裕子（鈴木絵理）"

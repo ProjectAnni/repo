@@ -1,0 +1,67 @@
+[album]
+album_id = "c739e6b4-030e-492c-81af-b03914d38f27"
+title = "IDOLY PRIDE Collection Album [未来]"
+artist = "Various Artists"
+date = 2023-02-01
+type = "normal"
+catalog = "SMCL-802"
+tags = ["IDOLY PRIDE"]
+
+[[discs]]
+catalog = "SMCL-802"
+
+[[discs.tracks]]
+title = "Magical Melody (TRINITYAiLE ver.)"
+artist = "TRINITYAiLE（天動瑠依（雨宮天）、鈴村優（麻倉もも）、奥山すみれ（夏川椎菜））"
+
+[[discs.tracks]]
+title = "クリスマスには君と"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+
+[[discs.tracks]]
+title = "クロッカスの扉"
+artist = "天動瑠依（雨宮天）、兵藤雫（首藤志奈）"
+
+[[discs.tracks]]
+title = "最高優美ロンリネス"
+artist = "LizNoir（神崎莉央（戸松遥）、井川葵（高垣彩陽）、小美山愛（寿美菜子）、赤崎こころ（豊崎愛生））"
+
+[[discs.tracks]]
+title = "未来模様"
+artist = "長瀬琴乃（橘美來）"
+
+[[discs.tracks]]
+title = "裏と表"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+
+[[discs.tracks]]
+title = "Blue sky summer"
+artist = "月のテンペスト（長瀬琴乃（橘美來）、伊吹渚（夏目ここな）、白石沙季（宮沢小春）、成宮すず（相川奏多）、早坂芽衣（日向もか））"
+
+[[discs.tracks]]
+title = "Top of the Tops"
+artist = "ⅢX（fran（Lynn）、kana（田中あいみ）、miho（村川梨衣））"
+
+[[discs.tracks]]
+title = "drop"
+artist = "兵藤雫（首藤志奈）"
+
+[[discs.tracks]]
+title = "パジャマパーティー"
+artist = "ぱじゃパ！（赤崎こころ（豊崎愛生）、奥山すみれ（夏川椎菜）、白石千紗（高尾奏音）、成宮すず（相川奏多）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "shiny shiny"
+artist = "早坂芽衣（日向もか）、成宮すず（相川奏多）"
+
+[[discs.tracks]]
+title = "つながる心Binary"
+artist = "白石沙季（宮沢小春）、白石千紗（高尾奏音）"
+
+[[discs.tracks]]
+title = "SUNNY PEACE for You and Me!"
+artist = "サニーピース（川咲さくら（菅野真衣）、一ノ瀬怜（結城萌子）、佐伯遙子（佐々木奈緒）、白石千紗（高尾奏音）、兵藤雫（首藤志奈））"
+
+[[discs.tracks]]
+title = "サヨナラから始まる物語 (春闘 short ver.)"
+artist = "spring battler（朝倉恭一（速水奨）、三枝信司（小山力也）、マネージャー（石谷春貴））"

@@ -1,0 +1,27 @@
+[album]
+album_id = "923e0a94-08bd-49c0-a071-5afc2e562cc7"
+title = "運命の檻"
+artist = "愛美"
+date = 2013-04-17
+type = "normal"
+catalog = "PCCG-70177"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-70177"
+
+[[discs.tracks]]
+title = "運命の檻"
+tags = ["断裁分離のクライムエッジ", "OP"]
+
+[[discs.tracks]]
+title = "手を振る君と舞い散る桜"
+
+[[discs.tracks]]
+title = "運命の檻 (Instrumental)"
+type = "instrumental"
+tags = ["断裁分離のクライムエッジ", "OP"]
+
+[[discs.tracks]]
+title = "手を振る君と舞い散る桜 (Instrumental)"
+type = "instrumental"

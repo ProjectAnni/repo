@@ -1,0 +1,45 @@
+[album]
+album_id = "421276cf-bb4a-498e-99ba-e4332f2c5ea4"
+title = "THE IDOLM@STER CINDERELLA MASTER Cute jewelries! 004"
+artist = "乙倉悠貴（中島由貴）、関裕美（会沢紗弥）、白菊ほたる（天野聡美）、早坂美玲（朝井彩加）、黒埼ちとせ（佐倉薫）"
+date = 2022-09-28
+type = "normal"
+catalog = "COCX-41891"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-41891"
+
+[[discs.tracks]]
+title = "チョコレート？レモネード？どっち？？"
+
+[[discs.tracks]]
+title = "青と夏"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "my sweet heart"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "DISCOTHEQUE"
+artist = "黒埼ちとせ（佐倉薫）"
+
+[[discs.tracks]]
+title = "ambiguous"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "あなたは幸せになる"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "認めてくれなくたっていいよ"
+
+[[discs.tracks]]
+title = "ボーナススドラマ ～キュートな番組収録後～"
+type = "drama"
+
+[[discs.tracks]]
+title = "チョコレート？レモネード？どっち？？ オリジナル・カラオケ"
+type = "instrumental"

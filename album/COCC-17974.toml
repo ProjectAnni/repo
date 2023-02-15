@@ -1,0 +1,41 @@
+[album]
+album_id = "51ead700-a8b7-4174-8738-17921f17df66"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 04 堕ちる果実"
+artist = "Various Artists"
+date = 2022-04-20
+type = "normal"
+catalog = "COCC-17974"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17974"
+
+[[discs.tracks]]
+title = "堕ちる果実（M@STER VERSION）"
+artist = "神崎蘭子（内田真礼）、黒埼ちとせ（佐倉薫）"
+
+[[discs.tracks]]
+title = "Reflective illumination night"
+artist = "渋谷凛（福原綾香）"
+
+[[discs.tracks]]
+title = "堕ちる果実（M@STER VERSION）オリジナル・カラオケ"
+artist = "神崎蘭子（内田真礼）、黒埼ちとせ（佐倉薫）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Reflective illumination nightオリジナル・カラオケ"
+artist = "渋谷凛（福原綾香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "堕ちる果実（M@STER VERSION）神崎蘭子ソロ・リミックス"
+artist = "神崎蘭子（内田真礼）"
+
+[[discs.tracks]]
+title = "堕ちる果実（M@STER VERSION）黒埼ちとせソロ・リミックス"
+artist = "黒埼ちとせ（佐倉薫）"
+
+[[discs.tracks]]
+title = "堕ちる果実（Game Version）"
+artist = "神崎蘭子（内田真礼）、黒埼ちとせ（佐倉薫）"

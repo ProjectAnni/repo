@@ -1,0 +1,75 @@
+[album]
+album_id = "c120307f-676e-4a08-bd3b-2427b0551580"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Funky Dancing!"
+artist = "Various Artists"
+date = 2019-11-08
+type = "normal"
+catalog = "SACX-1061"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "SACX-1061"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！ (M@STER VERSION) 堀裕子ソロ・リミックス"
+artist = "堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！ (M@STER VERSION) 片桐早苗ソロ・リミックス"
+artist = "片桐早苗（和氣あず未）"
+
+[[discs.tracks]]
+title = "モーレツ★世直しギルティ！ (M@STER VERSION) 及川雫ソロ・リミックス"
+artist = "及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) 五十嵐響子ソロ・リミックス"
+artist = "五十嵐響子（種﨑敦美）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) 乙倉悠貴ソロ・リミックス"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) 水本ゆかりソロ・リミックス"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) 諸星きらりソロ・リミックス"
+artist = "諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "With Love (M@STER VERSION) 姫川友紀ソロ・リミックス"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) 双葉杏ソロ・リミックス"
+artist = "双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) 城ヶ崎莉嘉ソロ・リミックス"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) 二宮飛鳥ソロ・リミックス"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) 白坂小梅ソロ・リミックス"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "リトルリドル (M@STER VERSION) 早坂美玲ソロ・リミックス"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (M@STER VERSION) 中野有香ソロ・リミックス"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (M@STER VERSION) 水本ゆかりソロ・リミックス"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "Kawaii make MY day! (M@STER VERSION) 椎名法子ソロ・リミックス"
+artist = "椎名法子（都丸ちよ）"

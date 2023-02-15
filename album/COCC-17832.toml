@@ -1,0 +1,48 @@
+[album]
+album_id = "38fbed3c-b016-4e93-b784-04395be56442"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 02 太陽の絵の具箱"
+artist = "Various Artists"
+date = 2020-10-07
+type = "normal"
+catalog = "COCC-17832"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17832"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）"
+artist = "緒方智絵里（大空直美）、依田芳乃（高田憂希）、遊佐こずえ（花谷麻妃）、佐城雪美（中澤ミナ）"
+
+[[discs.tracks]]
+title = "WHITE BREATH"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "OVER THE SKY"
+artist = "日野茜（赤﨑千夏）、神谷奈緒（松井恵理子）、小日向美穂（津田美波）"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）オリジナル・カラオケ"
+artist = "緒方智絵里（大空直美）、依田芳乃（高田憂希）、遊佐こずえ（花谷麻妃）、佐城雪美（中澤ミナ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）緒方智絵里ソロ・リミックス"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）依田芳乃ソロ・リミックス"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）遊佐こずえソロ・リミックス"
+artist = "遊佐こずえ（花谷麻妃）"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（M@STER VERSION）佐城雪美ソロ・リミックス"
+artist = "佐城雪美（中澤ミナ）"
+
+[[discs.tracks]]
+title = "太陽の絵の具箱（GAME VERSION）"
+artist = "緒方智絵里（大空直美）、依田芳乃（高田憂希）、遊佐こずえ（花谷麻妃）、佐城雪美（中澤ミナ）"

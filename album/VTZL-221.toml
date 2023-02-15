@@ -1,0 +1,45 @@
+[album]
+album_id = "b42a1abb-b695-497e-a183-111206483485"
+title = "fruitful spring"
+edition = "初回限定盤"
+artist = "鈴木みのり"
+date = 2023-01-25
+type = "normal"
+catalog = "VTZL-221"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTZL-221"
+
+[[discs.tracks]]
+title = "My Own Story"
+
+[[discs.tracks]]
+title = "だってMy Life もっとMy Choice"
+
+[[discs.tracks]]
+title = "BROKEN IDENTITY"
+
+[[discs.tracks]]
+title = "わだちの花"
+
+[[discs.tracks]]
+title = "サイハテ"
+
+[[discs.tracks]]
+title = "もういちどメロディ"
+
+[[discs.tracks]]
+title = "はじめよう"
+
+[[discs.tracks]]
+title = "Shout!!!"
+
+[[discs.tracks]]
+title = "リップ"
+
+[[discs.tracks]]
+title = "Wherever"
+
+[[discs.tracks]]
+title = "夏のばね"

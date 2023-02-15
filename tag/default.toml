@@ -285,12 +285,32 @@ type = "artist"
 name = "村川梨衣"
 type = "artist"
 
+[[tag]]
+name = "彩音"
+type = "artist"
+
+[[tag]]
+name = "愛美"
+type = "artist"
+
+[[tag]]
+name = "青山吉能"
+type = "artist"
+
+[[tag]]
+name = "TRUE"
+type = "artist"
+
+[[tag]]
+name = "内田真礼"
+type = "artist"
+
 ################################################################################
 # Group
 #
 # ~2019 22/7（佐藤麗華（帆風千春）、戸田ジュン（海乃るり）、藤間桜（天城サリー）、河野都（倉岡水巴）、斎藤ニコル（花川芽衣）、立川絢香（宮瀬玲奈）、滝川みう（西條和）、柊つぼみ（武田愛奈）、東条悠希（高辻麗）、神木みかみ（涼花萌）、丸山あかね（白沢かなえ））
 # 2019~2022 22/7（佐藤麗華（帆風千春）、戸田ジュン（海乃るり）、藤間桜（天城サリー）、河野都（倉岡水巴）、斎藤ニコル（河瀬詩）、立川絢香（宮瀬玲奈）、滝川みう（西條和）、柊つぼみ（武田愛奈）、東条悠希（高辻麗）、神木みかみ（涼花萌）、丸山あかね（白沢かなえ））
-# 2022~ 22/7（藤間桜（天城サリー）、斎藤ニコル（河瀬詩）、丸山あかね（白沢かなえ）、神木みかみ（涼花萌）、立川絢香（宮瀬玲奈）、西浦そら（相川奈央）、桐生塔子（麻丘真央）、八神叶愛（雨夜音）、永峰楓（清井美那）、織原純佳（椎名桜月）、一之瀬蛍（四条月）、氷室みず姫（月城咲舞）、瀬良穂乃花（望月りの））
+# 2022~ 22/7（藤間桜（天城サリー）、斎藤ニコル（河瀬詩）、滝川みう（西條和）、丸山あかね（白沢かなえ）、神木みかみ（涼花萌）、立川絢香（宮瀬玲奈）、西浦そら（相川奈央）、桐生塔子（麻丘真央）、八神叶愛（雨夜音）、永峰楓（清井美那）、織原純佳（椎名桜月）、一之瀬蛍（四条月）、氷室みず姫（月城咲舞）、瀬良穂乃花（望月りの））
 [[tag]]
 name = "ナナブンノニジュウニ"
 type = "group"
@@ -435,6 +455,14 @@ type = "group"
 
 [[tag]]
 name = "cadode"
+type = "group"
+
+[[tag]]
+name = "La prière"
+type = "group"
+
+[[tag]]
+name = "高嶺のなでしこ"
 type = "group"
 
 ################################################################################
@@ -627,6 +655,11 @@ type = "animation"
 [[tag]]
 name = "平家物語"
 names.zh-hans = "平家物语"
+type = "animation"
+
+[[tag]]
+name = "TVアニメ「現実主義勇者の王国再建記」"
+names.zh-hans = "现实主义勇者的王国再建记"
 type = "animation"
 
 [[tag]]
@@ -1079,6 +1112,56 @@ name = "終末なにしてますか？"
 names.zh-hans = "末日时在做什么？"
 type = "animation"
 
+[[tag]]
+name = "新米錬金術師の店舗経営"
+names.zh-hans = "新人炼金术师的店铺经营"
+type = "animation"
+
+[[tag]]
+name = "精霊幻想記"
+names.zh-hans = "精灵幻想记"
+type = "animation"
+
+[[tag]]
+name = "アスタロッテのおもちゃ！"
+names.zh-hans = "露蒂的玩具"
+type = "animation"
+
+[[tag]]
+name = "ベン・トー"
+names.zh-hans = "便·当"
+type = "animation"
+
+[[tag]]
+name = "織田信奈の野望"
+names.zh-hans = "织田信奈的野望"
+type = "animation"
+
+[[tag]]
+name = "FAIRY TAIL"
+names.zh-hans = "妖精的尾巴"
+type = "animation"
+
+[[tag]]
+name = "断裁分離のクライムエッジ"
+names.zh-hans = "断裁分离的罪恶之剪"
+type = "animation"
+
+[[tag]]
+name = "もののがたり"
+names.zh-hans = "物物语"
+type = "animation"
+
+[[tag]]
+name = "冰剣の魔術師が世界を統べる"
+names.zh-hans = "冰剑的魔术师将要统一世界"
+type = "animation"
+
+[[tag]]
+name = "シュガーアップル・フェアリーテイル"
+names.zh-hans = "银砂糖师与黑妖精"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -1231,6 +1314,19 @@ name = "とある魔術の禁書目録 幻想収束"
 names.zh-hans = "魔法禁书目录 幻想收束"
 type = "game"
 
+[[tag]]
+name = "メモリーズオフ6 Complete"
+type = "game"
+
+[[tag]]
+name = "しらつゆの怪"
+type = "game"
+
+[[tag]]
+name = "Blue Archive"
+names.zh-hans = "蔚蓝档案"
+type = "game"
+
 ################################################################################
 # Project
 #
@@ -1296,6 +1392,7 @@ type = "project"
 includes = [
   "game: ゲーム「STEINS;GATE」",
   "game: STEINS;GATE 比翼恋理のだーりん",
+  "game: STEINS;GATE 線形拘束のフェノグラム"
 ]
 
 [[tag]]

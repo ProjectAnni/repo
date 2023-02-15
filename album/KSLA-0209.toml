@@ -1,0 +1,50 @@
+[album]
+album_id = "d934df7a-df39-4049-bd28-6228b65179bb"
+title = "Job for a Rockstar"
+artist = "She is Legend（茅森月歌（XAI）、朝倉可憐（鈴木このみ、Ayumu））"
+date = 2022-12-14
+type = "normal"
+catalog = "KSLA-0209"
+tags = ["HEAVEN BURNS RED"]
+
+[[discs]]
+catalog = "KSLA-0209"
+
+[[discs.tracks]]
+title = "Burn My Soul"
+
+[[discs.tracks]]
+title = "Dance! Dance! Dance!"
+
+[[discs.tracks]]
+title = "ありふれたBattle Song～いつも戦闘は面倒だ～"
+
+[[discs.tracks]]
+title = "Pain in Rain"
+
+[[discs.tracks]]
+title = "オーバーキル"
+
+[[discs.tracks]]
+title = "過眠症"
+
+[[discs.tracks]]
+title = "Before I Rise (Acoustic Ver.)"
+
+[[discs.tracks]]
+title = "War Alive～時にはやぶれかぶれに～"
+
+[[discs.tracks]]
+title = "Muramasa Blade!"
+
+[[discs.tracks]]
+title = "終末のヒーロー"
+
+[[discs.tracks]]
+title = "Judgement Day"
+
+[[discs.tracks]]
+title = "贅沢な感情"
+
+[[discs.tracks]]
+title = "Goodbye Innocence"

@@ -1,0 +1,35 @@
+[album]
+album_id = "2c194cdb-26fe-4349-a9a1-85cf60f9a9f4"
+title = "カザニア"
+edition = "初回限定盤"
+artist = "愛美"
+date = 2021-07-28
+type = "normal"
+catalog = "KICM-92093"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "KICM-92093"
+
+[[discs.tracks]]
+title = "カザニア"
+tags = ["TVアニメ「現実主義勇者の王国再建記」", "ED"]
+
+[[discs.tracks]]
+title = "瞬間SummerDay!"
+
+[[discs.tracks]]
+title = "アナグラハイウェイ"
+
+[[discs.tracks]]
+title = "カザニア (Instrumental)"
+type = "instrumental"
+tags = ["TVアニメ「現実主義勇者の王国再建記」", "ED"]
+
+[[discs.tracks]]
+title = "瞬間SummerDay! (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アナグラハイウェイ (Instrumental)"
+type = "instrumental"

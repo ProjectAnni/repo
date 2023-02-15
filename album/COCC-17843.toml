@@ -1,0 +1,40 @@
+[album]
+album_id = "17842bf2-0e88-4246-bb8c-fd0fb278cf6a"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 13 Secret Mirage"
+artist = "Various Artists"
+date = 2021-12-08
+type = "normal"
+catalog = "COCC-17843"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17843"
+
+[[discs.tracks]]
+title = "Secret Mirage（M@STER VERSION）"
+artist = "水本ゆかり（藤田茜）、小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "ハレ晴レユカイ"
+artist = "夢見りあむ（星希成奏）、佐城雪美（中澤ミナ）、安部菜々（三宅麻理恵）"
+
+[[discs.tracks]]
+title = "冒険でしょでしょ？"
+artist = "宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "Secret Mirage（M@STER VERSION）オリジナル・カラオケ"
+artist = "水本ゆかり（藤田茜）、小早川紗枝（立花理香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Secret Mirage（M@STER VERSION）水本ゆかり ソロ・リミックス"
+artist = "水本ゆかり（藤田茜）"
+
+[[discs.tracks]]
+title = "Secret Mirage（M@STER VERSION）小早川紗枝 ソロ・リミックス"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "Secret Mirage（GAME VERSION）"
+artist = "水本ゆかり（藤田茜）、小早川紗枝（立花理香）"

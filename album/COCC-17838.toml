@@ -1,0 +1,52 @@
+[album]
+album_id = "b2378476-1c0c-48ee-be71-c3c531aa1aab"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 08 EVIL LIVE"
+artist = "Various Artists"
+date = 2021-04-28
+type = "normal"
+catalog = "COCC-17838"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17838"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）"
+artist = "村上巴（花井美春）、的場梨沙（集貝はな）、小関麗奈（長野佑紀）、藤本里奈（金子真由美）、向井拓海（原優子）"
+
+[[discs.tracks]]
+title = "CRAZY GONNA CRAZY"
+artist = "藤本里奈（金子真由美）"
+
+[[discs.tracks]]
+title = "Overnight Sensation ～時代はあなたに委ねてる～"
+artist = "向井拓海（原優子）"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）オリジナル・カラオケ"
+artist = "村上巴（花井美春）、的場梨沙（集貝はな）、小関麗奈（長野佑紀）、藤本里奈（金子真由美）、向井拓海（原優子）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）村上巴ソロ・リミックス"
+artist = "村上巴（花井美春）"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）的場梨沙ソロ・リミックス"
+artist = "的場梨沙（集貝はな）"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）小関麗奈ソロ・リミックス"
+artist = "小関麗奈（長野佑紀）"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）藤本里奈ソロ・リミックス"
+artist = "藤本里奈（金子真由美）"
+
+[[discs.tracks]]
+title = "EVIL LIVE（M@STER VERSION）向井拓海ソロ・リミックス"
+artist = "向井拓海（原優子）"
+
+[[discs.tracks]]
+title = "EVIL LIVE (Game Version) [Bonus Track]"
+artist = "村上巴（花井美春）、的場梨沙（集貝はな）、小関麗奈（長野佑紀）、藤本里奈（金子真由美）、向井拓海（原優子）"

@@ -1,0 +1,59 @@
+[album]
+album_id = "3e4454b2-3c25-4fda-bcb0-c4fd10d8f088"
+title = "MUSICALOID #38 Curtain Call！"
+artist = "神田沙也加"
+date = 2022-12-14
+type = "normal"
+catalog = "PCCA-06172"
+tags = ["神田沙也加"]
+
+[[discs]]
+catalog = "PCCA-06172"
+
+[[discs.tracks]]
+title = "林檎売りの泡沫少女"
+
+[[discs.tracks]]
+title = "どりーみんチュチュ"
+
+[[discs.tracks]]
+title = "シャルル"
+
+[[discs.tracks]]
+title = "リコレクションエンドロウル"
+
+[[discs.tracks]]
+title = "アスノヨゾラ哨戒班"
+
+[[discs.tracks]]
+title = "ダーリンダンス"
+
+[[discs.tracks]]
+title = "Good Morning, Polar Night"
+
+[[discs.tracks]]
+title = "LUVORATORRRRRY!"
+
+[[discs.tracks]]
+title = "路地裏ユニバース"
+
+[[discs.tracks]]
+title = "Alice in 冷凍庫"
+
+[[discs.tracks]]
+title = "ロキ"
+
+[[discs.tracks]]
+title = "ジターバグ feat.蜂屋ななし"
+
+[[discs.tracks]]
+title = "乙女解剖"
+
+[[discs.tracks]]
+title = "「Crazy ∞ nighT」"
+
+[[discs.tracks]]
+title = "kiss"
+
+[[discs.tracks]]
+title = "地球最後の告白を"

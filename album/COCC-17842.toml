@@ -1,0 +1,53 @@
+[album]
+album_id = "4e18695e-f1db-48b1-8c4c-12f62dc44961"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 12 パ・リ・ラ"
+artist = "Various Artists"
+date = 2021-11-17
+type = "normal"
+catalog = "COCC-17842"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17842"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）"
+artist = "ナターリア（生田輝）、喜多見柚（武田羅梨沙多胡）、城ヶ崎莉嘉（山本希望）、浜口あやめ（田澤茉純）、及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "日々あどべんちゃーなのでしてー"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）オリジナル・カラオケ"
+artist = "ナターリア（生田輝）、喜多見柚（武田羅梨沙多胡）、城ヶ崎莉嘉（山本希望）、浜口あやめ（田澤茉純）、及川雫（のぐちゆり）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "日々あどべんちゃーなのでしてー オリジナル・カラオケ"
+artist = "依田芳乃（高田憂希）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）ナターリア ソロ・リミックス"
+artist = "ナターリア（生田輝）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）喜多見柚 ソロ・リミックス"
+artist = "喜多見柚（武田羅梨沙多胡）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）城ヶ崎莉嘉 ソロ・リミックス"
+artist = "城ヶ崎莉嘉（山本希望）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）浜口あやめ ソロ・リミックス"
+artist = "浜口あやめ（田澤茉純）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（M@STER VERSION）及川雫 ソロ・リミックス"
+artist = "及川雫（のぐちゆり）"
+
+[[discs.tracks]]
+title = "パ・リ・ラ（GAME VERSION）"
+artist = "ナターリア（生田輝）、喜多見柚（武田羅梨沙多胡）、城ヶ崎莉嘉（山本希望）、浜口あやめ（田澤茉純）、及川雫（のぐちゆり）"

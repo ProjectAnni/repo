@@ -1,0 +1,29 @@
+[album]
+album_id = "6a72cb35-1ecc-4ccd-ab5f-5fe9820f96f3"
+title = "Vroom Vroom"
+artist = "R3BIRTH（ミア・テイラー（内田秀）、三船栞子（小泉萌香）、鐘嵐珠（法元明菜））"
+date = 2022-09-28
+type = "normal"
+catalog = "LACM-24321"
+tags = ["虹ヶ咲学園スクールアイドル同好会"]
+
+[[discs]]
+catalog = "LACM-24321"
+
+[[discs.tracks]]
+title = "Vroom Vroom"
+
+[[discs.tracks]]
+title = "バブルオーバー!"
+
+[[discs.tracks]]
+title = "Vroom Vroom (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バブルオーバー! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トキメキキャニオンに吹く風・R3BIRTH"
+type = "drama"

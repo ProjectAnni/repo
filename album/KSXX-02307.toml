@@ -1,0 +1,16 @@
+[album]
+album_id = "c9fc407b-33db-40fb-9e21-550ba3ea5d6b"
+title = "光るとき"
+artist = "羊文学"
+date = 2022-01-12
+type = "normal"
+catalog = "KSXX-02307"
+tags = ["平家物語"]
+
+[[discs]]
+catalog = "KSXX-02307"
+
+[[discs.tracks]]
+title = "光るとき"
+artist = "羊文学"
+tags = ["OP"]

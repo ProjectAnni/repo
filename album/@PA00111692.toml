@@ -1,0 +1,14 @@
+[album]
+album_id = "b8cbe85a-ce60-4360-a971-67e119c505a8"
+title = "CRYST@LOUD"
+artist = "THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023（天海春香（中村繪里子）、渋谷凛（福原綾香）、伊吹翼（Machico）、天道輝（仲村宗悟）、八宮めぐる（峯田茉優））"
+date = 2023-01-21
+type = "normal"
+catalog = "@PA00111692"
+tags = ["THE IDOLM@STER"]
+
+[[discs]]
+catalog = "@PA00111692"
+
+[[discs.tracks]]
+title = "CRYST@LOUD"

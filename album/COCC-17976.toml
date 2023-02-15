@@ -1,0 +1,44 @@
+[album]
+album_id = "ac4fde41-5d9e-4115-b756-534dc7a5bc72"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 06 Demolish"
+artist = "Various Artists"
+date = 2022-06-29
+type = "normal"
+catalog = "COCC-17976"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17976"
+
+[[discs.tracks]]
+title = "Demolish（M@STER VERSION）"
+artist = "本田未央（原紗友里）、結城晴（小市眞琴）、ナターリア（生田輝）"
+
+[[discs.tracks]]
+title = "大河よ共に泣いてくれ"
+artist = "白坂小梅（桜咲千依）、松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "REVENGE"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "Demolish（M@STER VERSION）オリジナル・カラオケ"
+artist = "本田未央（原紗友里）、結城晴（小市眞琴）、ナターリア（生田輝）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Demolish（M@STER VERSION）本田未央ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "Demolish（M@STER VERSION）結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "Demolish（M@STER VERSION）ナターリアソロ・リミックス"
+artist = "ナターリア（生田輝）"
+
+[[discs.tracks]]
+title = "Demolish（GAME VERSION）"
+artist = "本田未央（原紗友里）、結城晴（小市眞琴）、ナターリア（生田輝）"

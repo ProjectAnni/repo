@@ -1,0 +1,68 @@
+[album]
+album_id = "f02658bf-0917-48cd-9e39-d33b73b2cb0a"
+title = "CINDERELLA PARTY! でれぱれ～どがやってきた！～イケてる彼女と楽しい公録～"
+artist = "CINDERELLA PARTY!（本田未央（原紗友里）、多田李衣菜（青木瑠璃子））"
+date = 2016-04-27
+type = "normal"
+catalog = "COZX-1172"
+tags = ["CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"]
+
+[[discs]]
+catalog = "COZX-1172"
+
+[[discs.tracks]]
+title = "トーク1 オープニング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "でれぱれ～ど"
+
+[[discs.tracks]]
+title = "トーク2 でれぱれ～ど"
+type = "radio"
+
+[[discs.tracks]]
+title = "ハグしちゃお"
+artist = "本田未央（原紗友里）、多田李衣菜（青木瑠璃子）、諸星きらり（松嵜麗）"
+
+[[discs.tracks]]
+title = "トーク3 歌姫楽園side C その1"
+type = "radio"
+
+[[discs.tracks]]
+title = "休日の歌 (Viva La Vida)"
+artist = "本田未央（原紗友里）、多田李衣菜（青木瑠璃子）、双葉杏（五十嵐裕美）"
+
+[[discs.tracks]]
+title = "トーク4 歌姫楽園side C その2"
+type = "radio"
+
+[[discs.tracks]]
+title = "マル・マル・モリ・モリ"
+artist = "本田未央（原紗友里）、多田李衣菜（青木瑠璃子）、赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "トーク5 歌姫楽園side C その3"
+type = "radio"
+
+[[discs.tracks]]
+title = "Dear My Friend"
+
+[[discs.tracks]]
+title = "トーク6 エンディング・トーク"
+type = "radio"
+
+[[discs.tracks]]
+title = "Advance"
+
+[[discs.tracks]]
+title = "でれぱれ～ど　瑠璃子ソロ・リミックス"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "でれぱれ～ど　紗友里ソロ・リミックス"
+artist = "本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "でれぱれ～ど　オリジナル・カラオケ"
+type = "instrumental"

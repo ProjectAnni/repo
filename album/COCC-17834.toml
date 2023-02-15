@@ -1,0 +1,40 @@
+[album]
+album_id = "36a6c9d5-5767-4d3e-9d8a-fb7226dda16b"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 04 ヒーローヴァーサスレイナンジョー"
+artist = "Various Artists"
+date = 2020-11-11
+type = "normal"
+catalog = "COCC-17834"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17834"
+
+[[discs.tracks]]
+title = "ヒーローヴァーサスレイナンジョー（M@STER VERSION）"
+artist = "南条光（神谷早矢佳）、小関麗奈（長野佑紀）"
+
+[[discs.tracks]]
+title = "鳥の詩"
+artist = "高垣楓（早見沙織）"
+
+[[discs.tracks]]
+title = "時を刻む唄"
+artist = "南条光（神谷早矢佳）、小関麗奈（長野佑紀）"
+
+[[discs.tracks]]
+title = "ヒーローヴァーサスレイナンジョー（M@STER VERSION）オリジナル・カラオケ"
+artist = "南条光（神谷早矢佳）、小関麗奈（長野佑紀）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ヒーローヴァーサスレイナンジョー（M@STER VERSION）南条光ソロ・リミックス"
+artist = "南条光（神谷早矢佳）"
+
+[[discs.tracks]]
+title = "ヒーローヴァーサスレイナンジョー（M@STER VERSION）小関麗奈ソロ・リミックス"
+artist = "小関麗奈（長野佑紀）"
+
+[[discs.tracks]]
+title = "ヒーローヴァーサスレイナンジョー（GAME VERSION）"
+artist = "南条光（神谷早矢佳）、小関麗奈（長野佑紀）"

@@ -1,0 +1,48 @@
+[album]
+album_id = "88d48390-a91e-4ca4-b5d2-b68785dee218"
+title = "nolca solca"
+artist = "halca"
+date = 2023-01-25
+type = "normal"
+catalog = "VVCL-2187"
+tags = ["halca"]
+
+[[discs]]
+catalog = "VVCL-2187"
+
+[[discs.tracks]]
+title = "時としてバイオレンス"
+
+[[discs.tracks]]
+title = "FIRST DROP"
+
+[[discs.tracks]]
+title = "weather through"
+
+[[discs.tracks]]
+title = "もういいや。"
+
+[[discs.tracks]]
+title = "あれこれドラスティック"
+artist = "halca feat.鈴木愛奈（halca、鈴木愛奈）"
+
+[[discs.tracks]]
+title = "なんで？なんで？なんで？"
+
+[[discs.tracks]]
+title = "告白バンジージャンプ"
+
+[[discs.tracks]]
+title = "LOVEして"
+
+[[discs.tracks]]
+title = "誰彼スクランブル"
+
+[[discs.tracks]]
+title = "BUZZER BEATER"
+
+[[discs.tracks]]
+title = "キミがいたしるし"
+
+[[discs.tracks]]
+title = "ロマンティックマニフェスト"

@@ -1,0 +1,53 @@
+[album]
+album_id = "a2c566e1-5f7c-477d-b51c-72a51a4a8f29"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 03 かぼちゃ姫"
+artist = "Various Artists"
+date = 2022-03-16
+type = "normal"
+catalog = "COCC-17973"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17973"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）"
+artist = "白坂小梅（桜咲千依）、久川凪（立花日菜）、関裕美（会沢紗弥）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "純情接近STORY"
+artist = "島村卯月（大橋彩香）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）オリジナル・カラオケ"
+artist = "白坂小梅（桜咲千依）、久川凪（立花日菜）、関裕美（会沢紗弥）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "純情接近STORY オリジナル・カラオケ"
+artist = "島村卯月（大橋彩香）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）白坂小梅ソロ・リミックス"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）久川凪ソロ・リミックス"
+artist = "久川凪（立花日菜）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）関裕美ソロ・リミックス"
+artist = "関裕美（会沢紗弥）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）森久保乃々ソロ・リミックス"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（M@STER VERSION）椎名法子ソロ・リミックス"
+artist = "椎名法子（都丸ちよ）"
+
+[[discs.tracks]]
+title = "かぼちゃ姫（Game Version）"
+artist = "白坂小梅（桜咲千依）、久川凪（立花日菜）、関裕美（会沢紗弥）、森久保乃々（高橋花林）、椎名法子（都丸ちよ）"

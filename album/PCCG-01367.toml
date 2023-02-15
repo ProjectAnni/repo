@@ -1,0 +1,42 @@
+[album]
+album_id = "51304c60-cfb0-4f23-864f-f7cd928c3c97"
+title = "Love"
+edition = "初回限定スペシャル盤"
+artist = "愛美"
+date = 2013-11-06
+type = "normal"
+catalog = "PCCG-01367"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-01367"
+
+[[discs.tracks]]
+title = "天使のCLOVER (Love edit)"
+
+[[discs.tracks]]
+title = "Courage song"
+
+[[discs.tracks]]
+title = "運命の檻"
+
+[[discs.tracks]]
+title = "We're the stars"
+
+[[discs.tracks]]
+title = "LIVE for LIFE ～狼たちの夜～"
+
+[[discs.tracks]]
+title = "数えきれないさよなら"
+
+[[discs.tracks]]
+title = "Link"
+
+[[discs.tracks]]
+title = "永遠"
+
+[[discs.tracks]]
+title = "君が好きだよ。"
+
+[[discs.tracks]]
+title = "LOVE"

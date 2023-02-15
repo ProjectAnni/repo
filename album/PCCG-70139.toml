@@ -1,0 +1,27 @@
+[album]
+album_id = "150a9cfd-dd66-45dd-9ae5-11f99874a720"
+title = "Link"
+artist = "愛美"
+date = 2012-07-18
+type = "normal"
+catalog = "PCCG-70139"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-70139"
+
+[[discs.tracks]]
+title = "Link"
+tags = ["織田信奈の野望", "OP"]
+
+[[discs.tracks]]
+title = "夢"
+
+[[discs.tracks]]
+title = "Link (Instrumental)"
+type = "instrumental"
+tags = ["織田信奈の野望", "OP"]
+
+[[discs.tracks]]
+title = "夢 (Instrumental)"
+type = "instrumental"

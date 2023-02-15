@@ -1,0 +1,52 @@
+[album]
+album_id = "bfa895c0-c6ab-4e6f-a43f-3df83986a5f4"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH! 03 Joker"
+artist = "Various Artists"
+date = 2020-10-21
+type = "normal"
+catalog = "COCC-17833"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER GOLD RUSH!"]
+
+[[discs]]
+catalog = "COCC-17833"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）"
+artist = "松永涼（千菅春香）、大和亜季（村中知）、中野有香（下地紫野）、姫川友紀（杜野まこ）、前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "アルカテイル"
+artist = "新田美波（洲崎綾）"
+
+[[discs.tracks]]
+title = "My Soul, Your Beats!"
+artist = "緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）オリジナル・カラオケ"
+artist = "松永涼（千菅春香）、大和亜季（村中知）、中野有香（下地紫野）、姫川友紀（杜野まこ）、前川みく（高森奈津美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）松永涼ソロ・リミックス"
+artist = "松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）大和亜季ソロ・リミックス"
+artist = "大和亜季（村中知）"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）中野有香ソロ・リミックス"
+artist = "中野有香（下地紫野）"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）姫川友紀ソロ・リミックス"
+artist = "姫川友紀（杜野まこ）"
+
+[[discs.tracks]]
+title = "Joker（M@STER VERSION）前川みくソロ・リミックス"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "Joker（GAME VERSION）"
+artist = "松永涼（千菅春香）、大和亜季（村中知）、中野有香（下地紫野）、姫川友紀（杜野まこ）、前川みく（高森奈津美）"

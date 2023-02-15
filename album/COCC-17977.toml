@@ -1,0 +1,52 @@
+[album]
+album_id = "8d353170-c178-4d06-8df7-a14999eb9a82"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 07 ストリート・ランウェイ"
+artist = "Various Artists"
+date = 2022-08-03
+type = "normal"
+catalog = "COCC-17977"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17977"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）"
+artist = "砂塚あきら（富田美憂）、早坂美玲（朝井彩加）、堀裕子（鈴木絵理）、多田李衣菜（青木瑠璃子）、二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "サラバ、愛しき悲しみたちよ"
+artist = "島村卯月（大橋彩香）、渋谷凛（福原綾香）、本田未央（原紗友里）"
+
+[[discs.tracks]]
+title = "ピンキージョーンズ"
+artist = "北条加蓮（渕上舞）、五十嵐響子（種﨑敦美）、高森藍子（金子有希）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）オリジナル・カラオケ"
+artist = "砂塚あきら（富田美憂）、早坂美玲（朝井彩加）、堀裕子（鈴木絵理）、多田李衣菜（青木瑠璃子）、二宮飛鳥（青木志貴）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）砂塚あきらソロ・リミックス"
+artist = "砂塚あきら（富田美憂）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）早坂美玲ソロ・リミックス"
+artist = "早坂美玲（朝井彩加）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）堀裕子ソロ・リミックス"
+artist = "堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）多田李衣菜ソロ・リミックス"
+artist = "多田李衣菜（青木瑠璃子）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（M@STER VERSION）二宮飛鳥ソロ・リミックス"
+artist = "二宮飛鳥（青木志貴）"
+
+[[discs.tracks]]
+title = "ストリート・ランウェイ（GAME VERSION）"
+artist = "砂塚あきら（富田美憂）、早坂美玲（朝井彩加）、堀裕子（鈴木絵理）、多田李衣菜（青木瑠璃子）、二宮飛鳥（青木志貴）"

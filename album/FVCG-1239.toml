@@ -1,0 +1,29 @@
+[album]
+album_id = "807c7b29-3b34-49ad-8d92-cb642b089e96"
+title = "フェノグラム"
+artist = "彩音"
+date = 2013-05-29
+type = "normal"
+catalog = "FVCG-1239"
+tags = ["彩音"]
+
+[[discs]]
+catalog = "FVCG-1239"
+
+[[discs.tracks]]
+title = "フェノグラム"
+tags = ["STEINS;GATE 線形拘束のフェノグラム", "OP"]
+
+[[discs.tracks]]
+title = "かけがえのない想い ずっと一緒に"
+tags = ["メモリーズオフ6 Complete", "ED"]
+
+[[discs.tracks]]
+title = "フェノグラム (off vocal)"
+type = "instrumental"
+tags = ["STEINS;GATE 線形拘束のフェノグラム", "OP"]
+
+[[discs.tracks]]
+title = "かけがえのない想い ずっと一緒に (off vocal)"
+type = "instrumental"
+tags = ["メモリーズオフ6 Complete", "ED"]

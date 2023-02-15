@@ -1,0 +1,32 @@
+[album]
+album_id = "b9d76435-c57b-4caf-ad20-7695d7cce369"
+title = "THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪ Glowing Rock! @KYOCERA DOME OSAKA SPECIAL LIVE ALBUM"
+artist = "Various Artists"
+date = 2020-08-12
+type = "normal"
+catalog = "PRCL-10195"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS 7thLIVE TOUR Special 3chord♪"]
+
+[[discs]]
+catalog = "PRCL-10195"
+
+[[discs.tracks]]
+title = "Special 3chord♪ Glowing Rock!"
+artist = "BNSI(中鶴潤一)"
+type = "absolute"
+
+[[discs.tracks]]
+# 01  ガールズ・イン・ザ・フロンティア (Day1)
+# 02  Unlock Starbeat (Day1)
+# 03  ØωØver!! -Heart Beat Version- (Day1)
+# 04  オウムアムアに幸運を (Day2)
+# 05  義勇忍侠花吹雪 (Day2)
+# 06  Gaze and Gaze (Day1)
+# 07  薄荷 -ハッカ- (Acoustic Version) (Day1)
+# 08  エヴリデイドリーム～マイ・スイート・ハネムーン (Acoustic Version) (Day2)
+# 09  Sun！High！Gold！ (Day2)
+# 10  Fascinate (Day2)
+# 11  双翼の独奏歌 (Day2)
+# 12  お願い！シンデレラ (Day2)
+title = "ノンストップLIVE MIX"
+artist = "THE IDOLM@STER CINDERELLA GIRLS（島村卯月（大橋彩香）、早坂美玲（朝井彩加）、藤本里奈（金子真由美）、黒埼ちとせ（佐倉薫）、白雪千夜（関口理咲）、前川みく（高森奈津美）、小早川紗枝（立花理香）、五十嵐響子（種﨑敦美）、小日向美穂（津田美波）、道明寺歌鈴（新田ひより）、佐久間まゆ（牧野由依）、安部菜々（三宅麻理恵）、渋谷凛（福原綾香）、二宮飛鳥（青木志貴）、多田李衣菜（青木瑠璃子）、神崎蘭子（内田真礼）、白坂小梅（桜咲千依）、脇山珠美（嘉山未紗）、橘ありす（佐藤亜美菜）、新田美波（洲崎綾）、松永涼（千菅春香）、川島瑞樹（東山奈央）、北条加蓮（渕上舞）、神谷奈緒（松井恵理子）、大和亜季（村中知）、塩見周子（ルゥティン）、本田未央（原紗友里）、浜口あやめ（田澤茉純）、村上巴（花井美春）、向井拓海（原優子）、星輝子（松田颯水）、佐城雪美（中澤ミナ）、夢見りあむ（星希成奏））"

@@ -1,0 +1,31 @@
+[album]
+album_id = "cd0aa02b-1250-4d3f-9454-9ac3b949e1fa"
+title = "ミュージカル"
+artist = "鈴木みのり"
+date = 2023-01-25
+type = "normal"
+catalog = "VTCL-35351"
+tags = ["鈴木みのり"]
+
+[[discs]]
+catalog = "VTCL-35351"
+
+[[discs.tracks]]
+title = "ミュージカル"
+tags = ["シュガーアップル・フェアリーテイル", "OP"]
+
+[[discs.tracks]]
+title = "季節のカルテット"
+
+[[discs.tracks]]
+title = "ミュージカル (Instrumental)"
+type = "instrumental"
+tags = ["シュガーアップル・フェアリーテイル", "OP"]
+
+[[discs.tracks]]
+title = "季節のカルテット (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ミュージカル (TV EDIT)"
+tags = ["シュガーアップル・フェアリーテイル", "OP"]
