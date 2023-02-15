@@ -5,11 +5,11 @@ artist = "Variours Artists"
 date = 2017-07-12
 type = "absolute"
 catalog = "LACA-9522~3"
-tags = ["animation:終末なにしてますか？", "OST"]
+tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？", "OST"]
 
 [[discs]]
 title = "TVアニメ『終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？』オリジナルサウンドトラック「青い記憶」"
-catalog = "LACA-9522~3"
+catalog = "LACA-9522"
 
 [[discs.tracks]]
 title = "DEAREST DROP (TV size)"
@@ -128,7 +128,7 @@ artist = "加藤達也"
 [[discs]]
 title = "TVアニメ『終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？』オリジナルサウンドトラック「青い記憶」"
 artist = "加藤達也"
-catalog = "LACA-9522~3"
+catalog = "LACA-9523"
 
 [[discs.tracks]]
 title = "街の喧騒"
