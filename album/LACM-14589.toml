@@ -6,14 +6,14 @@ artist = "田所あずさ"
 date = 2017-04-26
 type = "normal"
 catalog = "LACM-14589"
-tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？"]
+tags = []
 
 [[discs]]
 catalog = "LACM-14589"
 
 [[discs.tracks]]
 title = "DEAREST DROP"
-tags = ["OP"]
+tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？", "OP"]
 
 [[discs.tracks]]
 title = "残存エレジー"
@@ -21,7 +21,7 @@ title = "残存エレジー"
 [[discs.tracks]]
 title = "DEAREST DROP(off vocal)"
 type = "instrumental"
-tags = ["OP"]
+tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？", "OP"]
 
 [[discs.tracks]]
 title = "残存エレジー(off vocal)"
