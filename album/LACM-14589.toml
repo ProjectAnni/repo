@@ -13,7 +13,7 @@ catalog = "LACM-14589"
 
 [[discs.tracks]]
 title = "DEAREST DROP"
-tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？", "OP"]
+tags = ["animation:終末なにしてますか？忙しいですか？救ってもらっていいですか？", "OP"]
 
 [[discs.tracks]]
 title = "残存エレジー"
@@ -21,7 +21,7 @@ title = "残存エレジー"
 [[discs.tracks]]
 title = "DEAREST DROP(off vocal)"
 type = "instrumental"
-tags = ["animation:終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？", "OP"]
+tags = ["animation:終末なにしてますか？忙しいですか？救ってもらっていいですか？", "OP"]
 
 [[discs.tracks]]
 title = "残存エレジー(off vocal)"
