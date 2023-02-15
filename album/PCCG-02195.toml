@@ -1,0 +1,28 @@
+[album]
+album_id = "7005ec5e-e8e5-4ec1-b857-fbb3a1037519"
+title = "アイデン貞貞メルトダウン"
+edition = "初回限定盤"
+artist = "えなこ、P丸様。"
+date = 2023-02-15
+type = "normal"
+catalog = "PCCG-02195"
+tags = ["animation:お兄ちゃんはおしまい！", "OP"]
+
+[[discs]]
+catalog = "PCCG-02195"
+
+[[discs.tracks]]
+title = "アイデン貞貞メルトダウン"
+
+[[discs.tracks]]
+title = "アイデン貞貞メルトダウン (TV size)"
+
+[[discs.tracks]]
+title = "アイデン貞貞メルトダウン (えなこパートver.)"
+
+[[discs.tracks]]
+title = "アイデン貞貞メルトダウン (P丸様。パートver.)"
+
+[[discs.tracks]]
+title = "アイデン貞貞メルトダウン (Instrumental)"
+type = "instrumental"
