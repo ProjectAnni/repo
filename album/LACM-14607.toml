@@ -1,0 +1,23 @@
+[album]
+album_id = "769db960-857f-488d-a093-2f69d3da7ebb"
+title = "フロム"
+artist = "TRUE"
+date = 2017-05-24
+type = "normal"
+catalog = "LACM-14607"
+tags = ["animation:終末なにしてますか？"]
+
+[[discs]]
+catalog = "LACM-14607"
+
+[[discs.tracks]]
+title = "フロム"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "キネマ"
+
+[[discs.tracks]]
+title = "フロム (off vocal)"
+tags = ["ED"]
+type = "instrumental"

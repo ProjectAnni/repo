@@ -1,0 +1,203 @@
+[album]
+album_id = "c0b2df96-fa6d-4a08-a556-9b6456d820ea"
+title = "TVアニメ『終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？』オリジナルサウンドトラック「青い記憶」"
+artist = "Variours Artists"
+date = 2017-07-12
+type = "absolute"
+catalog = "LACA-9522~3"
+tags = ["animation:終末なにしてますか？", "OST"]
+
+[[discs]]
+title = "TVアニメ『終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？』オリジナルサウンドトラック「青い記憶」"
+catalog = "LACA-9522~3"
+
+[[discs.tracks]]
+title = "DEAREST DROP (TV size)"
+type = "normal"
+artist = "田所あずさ"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "フロム (TV size)"
+type = "normal"
+tags = ["ED"]
+artist = "TRUE"
+
+[[discs.tracks]]
+title = "Always in my heart"
+artist = "山田タマル"
+type = "normal"
+
+[[discs.tracks]]
+title = "Scarborough Fair"
+artist = "山田タマル"
+type = "normal"
+
+[[discs.tracks]]
+title = "キネマ (TV size)"
+artist = "TRUE"
+type = "normal"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Call you"
+artist = "山田タマル"
+type = "normal"
+
+[[discs.tracks]]
+title = "Ever be my love"
+artist = "山田タマル"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "小さな恋心"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "切ない恋心"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "跳ね回る恋心"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "Always in my heart -Guitar-"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "Always in my heart -Violin-"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "失われていく自分"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "愛しい人との時間"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "溢れる父性"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "過去への後悔"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "怒りの感情"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "エルクの空間"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "のんびりふんわり女の子"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "騒がしい子どもたち"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "いたずらまみれ"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "過剰にキュート"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "養育院での日々"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "失いがたい仲間たち"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "滅びの地"
+artist = "加藤達也"
+
+[[discs.tracks]]
+title = "遺跡群"
+artist = "加藤達也"
+
+[[discs]]
+title = "TVアニメ『終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？』オリジナルサウンドトラック「青い記憶」"
+artist = "加藤達也"
+catalog = "LACA-9522~3"
+
+[[discs.tracks]]
+title = "街の喧騒"
+
+[[discs.tracks]]
+title = "人々の営み"
+
+[[discs.tracks]]
+title = "キレのある追い詰められ感"
+
+[[discs.tracks]]
+title = "妖精倉庫の日常"
+
+[[discs.tracks]]
+title = "妖精倉庫のにぎやかイベント"
+
+[[discs.tracks]]
+title = "静かな時間"
+
+[[discs.tracks]]
+title = "力強い軍隊"
+
+[[discs.tracks]]
+title = "飛空艇と冒険"
+
+[[discs.tracks]]
+title = "旅立ち"
+
+[[discs.tracks]]
+title = "家事は戦い"
+
+[[discs.tracks]]
+title = "冬の日々"
+
+[[discs.tracks]]
+title = "奇跡の瞬間"
+
+[[discs.tracks]]
+title = "尽きる命"
+
+[[discs.tracks]]
+title = "暖かな希望"
+
+[[discs.tracks]]
+title = "不穏な空気"
+
+[[discs.tracks]]
+title = "獣の進撃"
+
+[[discs.tracks]]
+title = "ダグウェポン"
+
+[[discs.tracks]]
+title = "必死の特攻"
+
+[[discs.tracks]]
+title = "荒ぶる魔力"
+
+[[discs.tracks]]
+title = "最終に向かって"
+
+[[discs.tracks]]
+title = "伝承される魂"
+
+[[discs.tracks]]
+title = "悲しき妖精の定め"
+
+[[discs.tracks]]
+title = "高潔な志"
+
+[[discs.tracks]]
+title = "これぞムーディ"
