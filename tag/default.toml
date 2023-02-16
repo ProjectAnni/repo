@@ -1108,6 +1108,11 @@ names.zh-hans = "钢琴之森 第二季"
 type = "animation"
 
 [[tag]]
+name = "終末なにしてますか？忙しいですか？救ってもらっていいですか？"
+names.zh-hans = "末日时在做什么？有没有空？可以来拯救吗？"
+type = "animation"
+
+[[tag]]
 name = "新米錬金術師の店舗経営"
 names.zh-hans = "新人炼金术师的店铺经营"
 type = "animation"

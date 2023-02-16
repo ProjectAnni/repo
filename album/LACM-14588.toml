@@ -6,12 +6,14 @@ date = 2017-04-26
 type = "normal"
 catalog = "LACM-14588"
 tags = ["田所あずさ"]
+edition = "アーティストジャケット盤"
 
 [[discs]]
 catalog = "LACM-14588"
 
 [[discs.tracks]]
 title = "DEAREST DROP"
+tags = ["animation:終末なにしてますか？忙しいですか？救ってもらっていいですか？", "OP"]
 
 [[discs.tracks]]
 title = "残存エレジー"
