@@ -1,0 +1,88 @@
+[album]
+album_id = "ce3ed4e4-de91-4bfe-a978-549f63c27b16"
+title = "蒼の彼方のフォーリズム EXTRA2 VOCAL & SOUND COLLECTION"
+artist = "Various Artists"
+date = 2022-05-27
+type = "absolute"
+catalog = "SPR002EX2VSC"
+tags = ["蒼の彼方のフォーリズム EXTRA2", "OST"]
+
+[[discs]]
+catalog = "SPR002EX2VSC"
+artist = "Elements Garden（岩橋星実、藤田淳平、Evan Call）"
+
+[[discs.tracks]]
+title = "one of a kind"
+artist = "riya（eufonius）"
+type = "normal"
+
+[[discs.tracks]]
+title = "虚無の白百合"
+
+[[discs.tracks]]
+title = "止まり木の二人"
+
+[[discs.tracks]]
+title = "飛び続ける理由"
+
+[[discs.tracks]]
+title = "背にした夕日を超え"
+
+[[discs.tracks]]
+title = "ハクチョウソウ"
+
+[[discs.tracks]]
+title = "追いすがる者たち"
+
+[[discs.tracks]]
+title = "黒い蛇"
+
+[[discs.tracks]]
+title = "四島のヒーロー"
+
+[[discs.tracks]]
+title = "勇気の翼"
+
+[[discs.tracks]]
+title = "The absolute - 空域の支配者 - Instrumental"
+artist = "riya（eufonius）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "行こうよ彼方へ"
+
+[[discs.tracks]]
+title = "誓いの音色"
+
+[[discs.tracks]]
+title = "two of a kind"
+
+[[discs.tracks]]
+title = "Rash and Rush - 無限軌道 -"
+artist = "Faylan"
+type = "normal"
+
+[[discs.tracks]]
+title = "The absolute - 空域の支配者 -"
+artist = "riya（eufonius）"
+type = "normal"
+
+[[discs.tracks]]
+title = "Way to Fly - 蒼の彼方へ -"
+artist = "KOTOKO"
+type = "normal"
+
+[[discs.tracks]]
+title = "…, Fine later !!"
+artist = "鳶沢みさき（紺野由梨）"
+type = "normal"
+
+[[discs.tracks]]
+title = "one of a kind acoustic version"
+artist = "riya（eufonius）"
+type = "normal"
+
+[[discs.tracks]]
+title = "INFINITE SKY"
+artist = "Faylan"
+type = "normal"

@@ -1,0 +1,95 @@
+[album]
+album_id = "7e4c20d0-1444-4b4a-862f-e4ea2597a0e3"
+title = "蒼の彼方のフォーリズム サウンドトラックCD Vol.1"
+artist = "Elements Garden（岩橋星実、藤田淳平、Evan Call）"
+date = 2016-03-18
+type = "absolute"
+catalog = "MNPS-105"
+tags = ["animation: 蒼の彼方のフォーリズム", "OST"]
+
+[[discs]]
+catalog = "MNPS-105"
+
+[[discs.tracks]]
+title = "彼女達のコントレイル"
+
+[[discs.tracks]]
+title = "島の1日"
+
+[[discs.tracks]]
+title = "憧れの空の下"
+
+[[discs.tracks]]
+title = "芽生えた気持ち、高鳴る鼓動"
+
+[[discs.tracks]]
+title = "のどかな時間"
+
+[[discs.tracks]]
+title = "空を見ながら"
+
+[[discs.tracks]]
+title = "明日へ続く今日"
+
+[[discs.tracks]]
+title = "歩いたその先に"
+
+[[discs.tracks]]
+title = "まどろみの昼下がり"
+
+[[discs.tracks]]
+title = "困惑注意報"
+
+[[discs.tracks]]
+title = "七転び八起き"
+
+[[discs.tracks]]
+title = "一息ついて"
+
+[[discs.tracks]]
+title = "騒動の予感!?"
+
+[[discs.tracks]]
+title = "邪神ちゃんのテーマ"
+
+[[discs.tracks]]
+title = "巡る思考"
+
+[[discs.tracks]]
+title = "上手になりたい!"
+
+[[discs.tracks]]
+title = "試合開始!"
+
+[[discs.tracks]]
+title = "交差する視線"
+
+[[discs.tracks]]
+title = "にらみ合い"
+
+[[discs.tracks]]
+title = "空域の支配権"
+
+[[discs.tracks]]
+title = "趨勢"
+
+[[discs.tracks]]
+title = "逆転の一撃"
+
+[[discs.tracks]]
+title = "フライングサーカス!"
+
+[[discs.tracks]]
+title = "彼女達のコントレイル スローアレンジ"
+
+[[discs.tracks]]
+title = "アイキャッチA"
+
+[[discs.tracks]]
+title = "アイキャッチB"
+
+[[discs.tracks]]
+title = "アイキャッチC"
+
+[[discs.tracks]]
+title = "次回予告"

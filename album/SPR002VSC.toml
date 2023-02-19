@@ -5,7 +5,7 @@ artist = "Various Artists"
 date = 2015-06-26
 type = "normal"
 catalog = "SPR002VSC"
-tags = ["蒼の彼方のフォーリズム"]
+tags = ["game: 蒼の彼方のフォーリズム", "OST"]
 
 [[discs]]
 catalog = "SPR002VSC-01"
