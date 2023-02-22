@@ -305,6 +305,10 @@ type = "artist"
 name = "内田真礼"
 type = "artist"
 
+[[tag]]
+name = "Noisestorm"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -1326,6 +1330,10 @@ type = "game"
 [[tag]]
 name = "Blue Archive"
 names.zh-hans = "蔚蓝档案"
+type = "game"
+
+[[tag]]
+name = "原神"
 type = "game"
 
 ################################################################################

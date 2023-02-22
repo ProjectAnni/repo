@@ -1,0 +1,29 @@
+[album]
+album_id = "4d993439-d2c2-4313-a54d-c7c0adbe4cab"
+title = "トンデモワンダーズ／Glory Steady Go!"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、KAITO、巡音ルカ"
+date = 2023-02-15
+type = "normal"
+catalog = "BRMM-10585"
+tags = ["ワンダーランズ×ショウタイム"]
+
+[[discs]]
+catalog = "BRMM-10585"
+
+[[discs.tracks]]
+title = "トンデモワンダーズ"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、KAITO"
+
+[[discs.tracks]]
+title = "Glory Steady Go!"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、巡音ルカ"
+
+[[discs.tracks]]
+title = "トンデモワンダーズ -instrumental-"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、KAITO"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Glory Steady Go! -instrumental-"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、巡音ルカ"
+type = "instrumental"
