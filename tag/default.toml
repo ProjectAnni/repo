@@ -1167,6 +1167,21 @@ name = "お兄ちゃんはおしまい！"
 names.zh-hans = "别当欧尼酱了！"
 type = "animation"
 
+[[tag]]
+name = "火狩りの王"
+names.zh-hans = "狩火之王"
+type = "animation"
+
+[[tag]]
+name = "転生王女と天才令嬢の魔法革命"
+names.zh-hans = "转生公主与天才千金的魔法革命"
+type = "animation"
+
+[[tag]]
+name = "REVENGER"
+names.zh-hans = "复仇者"
+type = "animation"
+
 ################################################################################
 # Game
 #

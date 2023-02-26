@@ -1,0 +1,22 @@
+[album]
+album_id = "551ecbc8-d2ee-48e3-a6d9-c7f0cabc003a"
+title = "しるし / ℃"
+edition = "文豪盤"
+artist = "ラックライフ"
+date = 2023-01-25
+type = "normal"
+catalog = "LACM-24334"
+tags = ["文豪ストレイドッグス 第4シーズン"]
+
+[[discs]]
+catalog = "LACM-24334"
+
+[[discs.tracks]]
+title = "しるし"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "℃"
+
+[[discs.tracks]]
+title = "フィーバー"

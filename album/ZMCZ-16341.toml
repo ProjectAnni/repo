@@ -1,0 +1,27 @@
+[album]
+album_id = "0688cbd2-7f94-479d-a0f6-3e00430a458f"
+title = "アルカンシェル"
+artist = "花たん"
+date = 2023-01-25
+type = "normal"
+catalog = "ZMCZ-16341"
+tags = ["転生王女と天才令嬢の魔法革命"]
+
+[[discs]]
+catalog = "ZMCZ-16341"
+
+[[discs.tracks]]
+title = "アルカンシェル"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "不夜城"
+
+[[discs.tracks]]
+title = "アルカンシェル (instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "不夜城 (instrumental)"
+type = "instrumental"

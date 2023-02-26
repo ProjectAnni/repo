@@ -1,0 +1,36 @@
+[album]
+album_id = "a67d5b03-4ac0-4169-96f8-a01ea0db1bfd"
+title = "まだ遠くにいる / un_mute"
+artist = "坂本真綾"
+date = 2023-01-25
+type = "normal"
+catalog = "VTCL-35349"
+tags = ["坂本真綾"]
+
+[[discs]]
+catalog = "VTCL-35349"
+
+[[discs.tracks]]
+title = "まだ遠くにいる"
+tags = ["火狩りの王", "ED"]
+
+[[discs.tracks]]
+title = "un_mute"
+tags = ["REVENGER", "ED"]
+
+[[discs.tracks]]
+title = "こんな日が来るなんて"
+
+[[discs.tracks]]
+title = "まだ遠くにいる -Instrumental-"
+type = "instrumental"
+tags = ["火狩りの王", "ED"]
+
+[[discs.tracks]]
+title = "un_mute -Instrumental-"
+type = "instrumental"
+tags = ["REVENGER", "ED"]
+
+[[discs.tracks]]
+title = "こんな日が来るなんて-Instrumental-"
+type = "instrumental"
