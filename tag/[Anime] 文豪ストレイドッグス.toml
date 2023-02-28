@@ -1,0 +1,10 @@
+[[tag]]
+name = "TVアニメ「文豪ストレイドッグス」"
+names.zh-hans = "文豪野犬"
+type = "animation"
+includes = [
+    "animation: 文豪ストレイドッグス",
+    "animation: 文豪ストレイドッグス 第2シーズン",
+    "animation: 文豪ストレイドッグス 第3シーズン",
+    "animation: 文豪ストレイドッグス 第4シーズン",
+]

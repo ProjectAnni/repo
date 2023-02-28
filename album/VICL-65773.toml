@@ -1,0 +1,48 @@
+[album]
+album_id = "ad5ede32-8ceb-4853-a59b-b43701669803"
+title = "Naked"
+artist = "家入レオ"
+date = 2023-02-15
+type = "normal"
+catalog = "VICL-65773"
+tags = ["火狩りの王"]
+
+[[discs]]
+catalog = "VICL-65773"
+
+[[discs.tracks]]
+title = "Winter"
+
+[[discs.tracks]]
+title = "悩みたいだけ"
+
+[[discs.tracks]]
+title = "レモンソーダ"
+
+[[discs.tracks]]
+title = "I don't like you"
+
+[[discs.tracks]]
+title = "奇跡が足りない"
+
+[[discs.tracks]]
+title = "嘘つき"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Pain"
+
+[[discs.tracks]]
+title = "Hikari"
+
+[[discs.tracks]]
+title = "愛は鎖じゃない"
+
+[[discs.tracks]]
+title = "君に未練はないけど、恋に未練がある"
+
+[[discs.tracks]]
+title = "かわいい人"
+
+[[discs.tracks]]
+title = "Boyfriend"

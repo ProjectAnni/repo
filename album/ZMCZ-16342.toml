@@ -1,0 +1,27 @@
+[album]
+album_id = "07233b0f-3ba3-4223-824f-3cd4147ece73"
+title = "Only for you"
+artist = "アニスフィア・ウィン・パレッティア（千本木彩花）、ユフィリア・マゼンタ（石見舞菜香）"
+date = 2023-02-08
+type = "normal"
+catalog = "ZMCZ-16342"
+tags = ["転生王女と天才令嬢の魔法革命"]
+
+[[discs]]
+catalog = "ZMCZ-16342"
+
+[[discs.tracks]]
+title = "Only for you"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Take your hand"
+
+[[discs.tracks]]
+title = "Only for you (instrumental)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Take your hand (instrumental)"
+type = "instrumental"
