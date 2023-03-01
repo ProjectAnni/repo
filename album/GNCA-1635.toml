@@ -1,0 +1,49 @@
+[album]
+album_id = "143aecec-62fa-4d23-b79b-16a19d1c4949"
+title = "サファイア"
+edition = "初回限定盤"
+artist = "中島由貴"
+date = 2023-03-01
+type = "normal"
+catalog = "GNCA-1635"
+tags = ["中島由貴"]
+
+[[discs]]
+catalog = "GNCA-1635"
+
+[[discs.tracks]]
+title = "twilight"
+type = "absolute"
+
+[[discs.tracks]]
+title = "サファイア"
+
+[[discs.tracks]]
+title = "うつろいと君"
+
+[[discs.tracks]]
+title = "わたがしわたし"
+
+[[discs.tracks]]
+title = "雨と、待つ"
+
+[[discs.tracks]]
+title = "雨あがりシンフォニー"
+
+[[discs.tracks]]
+title = "Day of Bright Sunshine"
+
+[[discs.tracks]]
+title = "Route BLUE"
+
+[[discs.tracks]]
+title = "Purely Magic Hour"
+
+[[discs.tracks]]
+title = "スピカ"
+
+[[discs.tracks]]
+title = "スターナイトエデン"
+
+[[discs.tracks]]
+title = "空色グラデーション"

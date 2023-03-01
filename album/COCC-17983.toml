@@ -1,0 +1,40 @@
+[album]
+album_id = "134e1807-8567-47c5-b0bf-24e91500db95"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 13 チカラ！イズ！ぱわー！！"
+artist = "Various Artists"
+date = 2023-03-01
+type = "normal"
+catalog = "COCC-17983"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17983"
+
+[[discs.tracks]]
+title = "チカラ！イズ！ぱわー！！(M@STER VERSION)"
+artist = "日野茜（赤﨑千夏）、堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "恋愛サーキュレーション"
+artist = "白菊ほたる（天野聡美）"
+
+[[discs.tracks]]
+title = "ココ☆ナツ"
+artist = "的場梨沙（集貝はな）、龍崎薫（春瀬なつみ）、遊佐こずえ（花谷麻妃）、佐々木千枝（今井麻夏）"
+
+[[discs.tracks]]
+title = "チカラ！イズ！ぱわー！！(M@STER VERSION) (オリジナル・カラオケ)"
+artist = "日野茜（赤﨑千夏）、堀裕子（鈴木絵理）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "チカラ！イズ！ぱわー！！(M@STER VERSION) 日野茜 ソロ・リミックス"
+artist = "日野茜（赤﨑千夏）"
+
+[[discs.tracks]]
+title = "チカラ！イズ！ぱわー！！(M@STER VERSION) 堀裕子 ソロ・リミックス"
+artist = "堀裕子（鈴木絵理）"
+
+[[discs.tracks]]
+title = "チカラ！イズ！ぱわー！！(GAME VERSION)"
+artist = "日野茜（赤﨑千夏）、堀裕子（鈴木絵理）"
