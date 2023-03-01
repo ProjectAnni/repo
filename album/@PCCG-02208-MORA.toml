@@ -1,0 +1,46 @@
+[album]
+album_id = "d04be94d-c575-4d9b-b88e-b7fe0ea635f7"
+title = "「DIALOGUE＋2」mora限定スペシャルボイス特典"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2023-02-22
+type = "vocal"
+catalog = "@PCCG-02208-MORA"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "@PCCG-02208-MORA"
+
+[[discs.tracks]]
+title = "mora限定 DIALOGUE＋「DIALOGUE＋2」 スペシャルボイス"
+
+[[discs.tracks]]
+title = "mora限定 内山悠里菜 なりきり楽曲紹介"
+artist = "内山悠里菜"
+
+[[discs.tracks]]
+title = "mora限定 稗田寧々 なりきり楽曲紹介"
+artist = "稗田寧々"
+
+[[discs.tracks]]
+title = "mora限定 守屋亨香 なりきり楽曲紹介"
+artist = "守屋亨香"
+
+[[discs.tracks]]
+title = "mora限定 緒方佑奈 なりきり楽曲紹介"
+artist = "緒方佑奈"
+
+[[discs.tracks]]
+title = "mora限定 鷹村彩花 なりきり楽曲紹介"
+artist = "鷹村彩花"
+
+[[discs.tracks]]
+title = "mora限定 宮原颯希 なりきり楽曲紹介"
+artist = "宮原颯希"
+
+[[discs.tracks]]
+title = "mora限定 飯塚麻結 なりきり楽曲紹介"
+artist = "飯塚麻結"
+
+[[discs.tracks]]
+title = "mora限定 村上まなつ なりきり楽曲紹介"
+artist = "村上まなつ"

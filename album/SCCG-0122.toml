@@ -1,0 +1,123 @@
+[album]
+album_id = "3ac2f1fc-74cd-41e3-b3ae-f630e74b4f7a"
+title = "DIALOGUE＋2"
+edition = "きゃにめ限定盤"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2023-02-22
+type = "normal"
+catalog = "SCCG-0122"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "SCCG-0122-1"
+
+[[discs.tracks]]
+title = "D＋ has come"
+
+[[discs.tracks]]
+title = "絶景絶好スーパーデイ!!"
+
+[[discs.tracks]]
+title = "1000万回ハグなんだ"
+
+[[discs.tracks]]
+title = "恋は世界定理と共に"
+
+[[discs.tracks]]
+title = "めっちゃオンリーユー"
+
+[[discs.tracks]]
+title = "やばきゅん♡シューベルト"
+
+[[discs.tracks]]
+title = "MAHOROBA-Deli"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った"
+
+[[discs.tracks]]
+title = "うしみつあっパレイド"
+
+[[discs.tracks]]
+title = "夕空航路"
+
+[[discs.tracks]]
+title = "デネブとスピカ"
+
+[[discs.tracks]]
+title = "ぼくらのユニバース"
+
+[[discs]]
+catalog = "SCCG-0122-3"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "D＋ has come (Instrumental)"
+
+[[discs.tracks]]
+title = "絶景絶好スーパーデイ!! (Instrumental)"
+
+[[discs.tracks]]
+title = "1000万回ハグなんだ (Instrumental)"
+
+[[discs.tracks]]
+title = "恋は世界定理と共に (Instrumental)"
+
+[[discs.tracks]]
+title = "めっちゃオンリーユー (Instrumental)"
+
+[[discs.tracks]]
+title = "やばきゅん♡シューベルト (Instrumental)"
+
+[[discs.tracks]]
+title = "MAHOROBA-Deli (Instrumental)"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った (Instrumental)"
+
+[[discs.tracks]]
+title = "うしみつあっパレイド (Instrumental)"
+
+[[discs.tracks]]
+title = "夕空航路 (Instrumental)"
+
+[[discs.tracks]]
+title = "デネブとスピカ (Instrumental)"
+
+[[discs.tracks]]
+title = "ぼくらのユニバース (Instrumental)"
+
+[[discs.tracks]]
+title = "世界はこじつけでできている。BGM M1"
+type = "absolute"
+
+[[discs.tracks]]
+title = "世界はこじつけでできている。BGM M2"
+type = "absolute"
+
+[[discs.tracks]]
+title = "世界はこじつけでできている。BGM M3"
+type = "absolute"
+
+[[discs.tracks]]
+title = "世界はこじつけでできている。BGM M4"
+
+[[discs.tracks]]
+title = "世界はこじつけでできている。BGM M5"
+type = "absolute"
+
+[[discs.tracks]]
+title = "DIALOGUE＋ YouTube Channel BGM3"
+type = "absolute"
+
+[[discs.tracks]]
+title = "DIALOGUE＋ YouTube Channel BGM4"
+type = "absolute"
+
+[[discs.tracks]]
+title = "DIALOGUE＋ YouTube Channel BGM5"
+type = "absolute"
+
+[[discs.tracks]]
+title = "ラジオ体操D1 BGM"
+type = "absolute"
