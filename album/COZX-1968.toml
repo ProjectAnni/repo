@@ -1,0 +1,45 @@
+[album]
+album_id = "cd8c2cb7-371f-4929-a25e-adf3af32ba92"
+title = "This One's for You"
+edition = "BD付き限定盤"
+artist = "伊藤美来"
+date = 2023-02-15
+type = "normal"
+catalog = "COZX-1968"
+tags = ["伊藤美来"]
+
+[[discs]]
+catalog = "COZX-1968"
+
+[[discs.tracks]]
+title = "laid back"
+
+[[discs.tracks]]
+title = "ユニットバス"
+
+[[discs.tracks]]
+title = "気づかない?気づきたくない?"
+
+[[discs.tracks]]
+title = "Oh my heart"
+
+[[discs.tracks]]
+title = "Gift"
+
+[[discs.tracks]]
+title = "100年前に会いましょう"
+
+[[discs.tracks]]
+title = "傘の中でキスして"
+
+[[discs.tracks]]
+title = "パスタ"
+
+[[discs.tracks]]
+title = "トロイメライ・ミライ"
+
+[[discs.tracks]]
+title = "青100色"
+
+[[discs.tracks]]
+title = "La-Pa-Pa Cream Puff"

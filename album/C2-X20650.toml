@@ -1,0 +1,56 @@
+[album]
+album_id = "fa1f5088-d3da-46c5-8a74-a48cb46cb5ae"
+title = "原神-风与异乡人"
+artist = "陈宇鹏"
+date = 2021-08-04
+type = "absolute"
+catalog = "C2-X20650"
+tags = ["原神"]
+
+[[discs]]
+catalog = "C2-X20650"
+
+[[discs.tracks]]
+title = "原神"
+
+[[discs.tracks]]
+title = "晨曦酒庄"
+
+[[discs.tracks]]
+title = "甜美的微笑"
+
+[[discs.tracks]]
+title = "风暴，高塔与圣地"
+
+[[discs.tracks]]
+title = "终天的闭幕曲"
+
+[[discs.tracks]]
+title = "孤独的旅居"
+
+[[discs.tracks]]
+title = "蒙德的一日"
+
+[[discs.tracks]]
+title = "梦之咏叹"
+
+[[discs.tracks]]
+title = "青空"
+
+[[discs.tracks]]
+title = "平原的边际"
+
+[[discs.tracks]]
+title = "特瓦林与杜林"
+
+[[discs.tracks]]
+title = "战斗的秘仪"
+
+[[discs.tracks]]
+title = "骑士的义举"
+
+[[discs.tracks]]
+title = "快乐的旅程"
+
+[[discs.tracks]]
+title = "捕风的异乡人"

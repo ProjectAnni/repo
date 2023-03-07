@@ -1,0 +1,29 @@
+[album]
+album_id = "48faf993-7fce-4d0c-93be-0e5eb14a38dd"
+title = "アイノマテリアル／アイスドロップ"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、メイコ、鏡音レン"
+date = 2023-01-18
+type = "normal"
+catalog = "BRMM-10584"
+tags = ["MORE MORE JUMP！"]
+
+[[discs]]
+catalog = "BRMM-10584"
+
+[[discs.tracks]]
+title = "アイノマテリアル"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、メイコ"
+
+[[discs.tracks]]
+title = "アイスドロップ"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、鏡音レン"
+
+[[discs.tracks]]
+title = "アイノマテリアル -instrumental-"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、メイコ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "アイスドロップ -instrumental-"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、鏡音レン"
+type = "instrumental"

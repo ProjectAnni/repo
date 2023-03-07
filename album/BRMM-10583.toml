@@ -1,0 +1,29 @@
+[album]
+album_id = "411746f5-1792-40af-b0cd-38bdefaf9edd"
+title = "Beat Eater／Awake Now"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音レン、初音ミク"
+date = 2022-12-14
+type = "normal"
+catalog = "BRMM-10583"
+tags = ["Vivid BAD SQUAD"]
+
+[[discs]]
+catalog = "BRMM-10583"
+
+[[discs.tracks]]
+title = "Beat Eater"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音レン"
+
+[[discs.tracks]]
+title = "Awake Now"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、初音ミク"
+
+[[discs.tracks]]
+title = "Beat Eater -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音レン"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Awake Now -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、初音ミク"
+type = "instrumental"
