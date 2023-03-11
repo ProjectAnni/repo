@@ -1,0 +1,32 @@
+[album]
+album_id = "4b02a92b-2543-47cf-829c-093ff3094eb8"
+title = "「終ノ空ReMix」オリジナルミックスCD"
+artist = "松本文紀"
+date = 2020-12-25
+type = "absolute"
+catalog = "KEROQ-015-04"
+tags = ["終ノ空"]
+
+[[discs]]
+catalog = "KEROQ-015-04"
+
+[[discs.tracks]]
+title = "Great Old Ones【古き者ども】"
+
+[[discs.tracks]]
+title = "Monad【鏡であり窓がない】"
+
+[[discs.tracks]]
+title = "Conatus【意志あるいは惰性】"
+
+[[discs.tracks]]
+title = "sub specie aeternitatis【無限平面の一部として】"
+
+[[discs.tracks]]
+title = "Akosmismus【終ノ空】"
+
+[[discs.tracks]]
+title = "NuminöseI【聖なる奈落】"
+
+[[discs.tracks]]
+title = "NuminöseII【永劫回帰】"

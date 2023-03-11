@@ -1,0 +1,101 @@
+[album]
+album_id = "59c36b19-00f0-4a72-a458-ece34663cb5a"
+title = "HUMAN"
+edition = "完全数量生産限定盤"
+artist = "ReoNa"
+date = 2023-03-08
+type = "normal"
+catalog = "VVCL-2202~4"
+tags = ["ReoNa"]
+
+[[discs]]
+catalog = "VVCL-2202"
+
+[[discs.tracks]]
+title = "HUMAN"
+
+[[discs.tracks]]
+title = "Weaker"
+
+[[discs.tracks]]
+title = "ないない"
+
+[[discs.tracks]]
+title = "シャル・ウィ・ダンス？"
+
+[[discs.tracks]]
+title = "さよナラ"
+
+[[discs.tracks]]
+title = "FRIENDS"
+
+[[discs.tracks]]
+title = "ライフ・イズ・ビューティフォー"
+
+[[discs.tracks]]
+title = "メメント・モリ"
+
+[[discs.tracks]]
+title = "生命線"
+
+[[discs.tracks]]
+title = "Alive"
+
+[[discs.tracks]]
+title = "SACRA"
+
+[[discs.tracks]]
+title = "VITA"
+
+[[discs]]
+catalog = "VVCL-2203"
+title = "Naked ver. Live at Zepp Haneda(TOKYO) 2022.06.10"
+
+[[discs.tracks]]
+title = "ANIMA -Naked Style.-"
+
+[[discs.tracks]]
+title = "Let it Die"
+
+[[discs.tracks]]
+title = "Independence"
+
+[[discs.tracks]]
+title = "forget-me-not"
+
+[[discs.tracks]]
+title = "虹の彼方に"
+
+[[discs.tracks]]
+title = "カナリア"
+
+[[discs.tracks]]
+title = "生命線"
+
+[[discs.tracks]]
+title = "ないない"
+
+[[discs]]
+catalog = "VVCL-2204"
+title = "Naked ver. Live at Zepp Haneda(TOKYO) 2022.06.10"
+
+[[discs.tracks]]
+title = "Lotus"
+
+[[discs.tracks]]
+title = "猫失格"
+
+[[discs.tracks]]
+title = "テディ"
+
+[[discs.tracks]]
+title = "絶望年表"
+
+[[discs.tracks]]
+title = "Someday"
+
+[[discs.tracks]]
+title = "SWEET HURT"
+
+[[discs.tracks]]
+title = "ライフ・イズ・ビューティフォー"
