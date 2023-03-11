@@ -1490,3 +1490,7 @@ type = "category"
 [[tag]]
 name = "OST"
 type = "category"
+
+[[tag]]
+name = "NSFW"
+type = "category"
