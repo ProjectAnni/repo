@@ -1,0 +1,35 @@
+[album]
+album_id = "41ee0473-f4d2-4489-9498-c5555b6a0e16"
+title = "「アルカナ・アルカディア」インストCD"
+artist = "Various Artists"
+date = 2022-09-21
+type = "instrumental"
+catalog = "DSP-02353"
+tags = ["少女☆歌劇 レヴュースタァライト"]
+
+[[discs]]
+catalog = "DSP-02353"
+
+[[discs.tracks]]
+title = "信じる者に門は開かれる"
+artist = "小高光太郎、矢野達也"
+
+[[discs.tracks]]
+title = "命尽きても尽き果てず"
+artist = "山本慶太朗"
+
+[[discs.tracks]]
+title = "罪がないのならばそれが罪だ"
+artist = "矢野達也"
+
+[[discs.tracks]]
+title = "闇を照らすもの"
+artist = "藤井亮太"
+
+[[discs.tracks]]
+title = "永遠ハ死シテ生キル"
+artist = "小松一也"
+
+[[discs.tracks]]
+title = "星の少女、月に少女"
+artist = "谷ナオキ(HANO)、廣澤優也(HANO)"
