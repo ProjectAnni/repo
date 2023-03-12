@@ -1,0 +1,39 @@
+[album]
+album_id = "a5a394f5-e754-4f38-8e74-b73aae2c56c6"
+title = "Nobody's fault"
+edition = "通常盤"
+artist = "櫻坂46"
+date = 2020-12-09
+type = "normal"
+catalog = "SRCL-11628"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-11628"
+
+[[discs.tracks]]
+title = "Nobody's fault"
+artist = "武元唯衣、大園玲、守屋茜、松田里奈、尾関梨香、土生瑞穂、菅井友香、藤吉夏鈴、小池美波、山﨑天、田村保乃、小林由依、森田ひかる、渡邉理佐"
+
+[[discs.tracks]]
+title = "なぜ 恋をして来なかったんだろう？"
+artist = "井上梨名、幸阪茉里乃、原田葵、渡辺梨加、増本綺良、関有美子、菅井友香、森田ひかる、小池美波、山﨑天、田村保乃、小林由依、藤吉夏鈴、渡邉理佐"
+
+[[discs.tracks]]
+title = "ブルームーンキス"
+artist = "武元唯衣、大園玲、守屋茜、松田里奈、尾関梨香、土生瑞穂、菅井友香、藤吉夏鈴、小池美波、山﨑天、田村保乃、小林由依、森田ひかる、渡邉理佐"
+
+[[discs.tracks]]
+title = "Nobody's fault -OFF VOCAL ver.-"
+artist = "武元唯衣、大園玲、守屋茜、松田里奈、尾関梨香、土生瑞穂、菅井友香、藤吉夏鈴、小池美波、山﨑天、田村保乃、小林由依、森田ひかる、渡邉理佐"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なぜ 恋をして来なかったんだろう？ -OFF VOCAL ver.-"
+artist = "井上梨名、幸阪茉里乃、原田葵、渡辺梨加、増本綺良、関有美子、菅井友香、森田ひかる、小池美波、山﨑天、田村保乃、小林由依、藤吉夏鈴、渡邉理佐"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ブルームーンキス -OFF VOCAL ver.-"
+artist = "武元唯衣、大園玲、守屋茜、松田里奈、尾関梨香、土生瑞穂、菅井友香、藤吉夏鈴、小池美波、山﨑天、田村保乃、小林由依、森田ひかる、渡邉理佐"
+type = "instrumental"
