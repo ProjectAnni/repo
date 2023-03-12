@@ -1,0 +1,26 @@
+[album]
+album_id = "731f7cd5-03e5-41fd-bc17-33512143cf46"
+title = "Radio time predator"
+artist = "佐倉綾音、大西沙織"
+date = 2017-07-20
+type = "normal"
+catalog = "QRAG-118"
+tags = ["佐倉としたい大西"]
+
+[[discs]]
+catalog = "QRAG-118"
+
+[[discs.tracks]]
+title = "Radio time predator"
+type = "radio"
+
+[[discs.tracks]]
+title = "DAYDREAM BELIEVER"
+
+[[discs.tracks]]
+title = "Radio time predator (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DAYDREAM BELIEVER (Instrumental)"
+type = "instrumental"
