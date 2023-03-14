@@ -1,0 +1,24 @@
+[album]
+album_id = "e62f7ad7-f86e-42d6-a1fe-ab17e7abfce5"
+title = "アイドルマスター ミリオンライブ! Blooming Clover 13 オリジナルCD"
+artist = "Various Artists"
+date = 2023-02-27
+type = "normal"
+catalog = "@ML-BC13"
+tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
+
+[[discs]]
+catalog = "@ML-BC13"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+artist = "望月杏奈（夏川椎菜）、ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "魔法をかけて！（M@STER VERSION）"
+artist = "徳川まつり（諏訪彩花）、福田のり子（浜崎奈々）、舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "矢吹可奈（木戸衣吹）、北上麗花（平山笑美）、ジュリア（愛美）、ロコ（中村温姫）"
+type = "drama"
