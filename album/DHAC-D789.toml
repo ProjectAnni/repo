@@ -1,0 +1,42 @@
+[album]
+album_id = "025f9587-40e0-4129-8fe2-f963b4882dc9"
+title = "la valigia"
+edition = "mora独占先行配信"
+artist = "青山吉能"
+date = 2023-03-08
+type = "normal"
+catalog = "DHAC-D789"
+tags = ["青山吉能"]
+
+[[discs]]
+catalog = "DHAC-D789"
+
+[[discs.tracks]]
+title = "Sunday"
+
+[[discs.tracks]]
+title = "あやめ色の夏に"
+
+[[discs.tracks]]
+title = "moshi moshi"
+
+[[discs.tracks]]
+title = "Mandala"
+
+[[discs.tracks]]
+title = "My Tale"
+
+[[discs.tracks]]
+title = "ツギハギ"
+
+[[discs.tracks]]
+title = "Sweetly Lullaby"
+
+[[discs.tracks]]
+title = "STEP&CLAP"
+
+[[discs.tracks]]
+title = "透明人間"
+
+[[discs.tracks]]
+title = "Page"
