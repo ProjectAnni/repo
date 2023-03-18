@@ -1,0 +1,36 @@
+[album]
+album_id = "c443211c-f8cb-4ef8-b7bd-597c3e82d696"
+title = "ノンフィクション!!／Starlight Prologue"
+edition = "第12話盤"
+artist = "Liella!（唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、澁谷かのん（伊達さゆり）、葉月恋（青山なぎさ））"
+date = 2021-10-20
+type = "normal"
+catalog = "LACM-24146"
+tags = [
+    "Liella!",
+    "ラブライブ！スーパースター!!",
+]
+
+[[discs]]
+catalog = "LACM-24146"
+
+[[discs.tracks]]
+title = "ノンフィクション!!"
+
+[[discs.tracks]]
+title = "Starlight Prologue"
+
+[[discs.tracks]]
+title = "Dream Rainbow"
+
+[[discs.tracks]]
+title = "ノンフィクション!! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Starlight Prologue (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dream Rainbow (Off Vocal)"
+type = "instrumental"

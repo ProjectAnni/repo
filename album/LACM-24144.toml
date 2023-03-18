@@ -1,0 +1,38 @@
+[album]
+album_id = "cb74f4e5-4c2a-4521-9448-92593d6c23fa"
+title = "常夏☆サンシャイン／Wish Song"
+edition = "第8話盤"
+artist = "Liella!（唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、澁谷かのん（伊達さゆり）、葉月恋（青山なぎさ））"
+date = 2021-09-29
+type = "normal"
+catalog = "LACM-24144"
+tags = [
+    "Liella!",
+    "ラブライブ！スーパースター!!",
+]
+
+[[discs]]
+catalog = "LACM-24144"
+
+[[discs.tracks]]
+title = "常夏☆サンシャイン"
+artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）"
+
+[[discs.tracks]]
+title = "Wish Song"
+
+[[discs.tracks]]
+title = "瞬きの先へ"
+
+[[discs.tracks]]
+title = "常夏☆サンシャイン (Off Vocal)"
+artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Wish Song (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "瞬きの先へ (Off Vocal)"
+type = "instrumental"

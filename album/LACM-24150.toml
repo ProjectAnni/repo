@@ -1,0 +1,28 @@
+[album]
+album_id = "de6815dd-4cb4-4d7d-89fd-65caf5cb98f3"
+title = "未来は風のように"
+artist = "Liella!（澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、葉月恋（青山なぎさ））"
+date = 2021-08-04
+type = "normal"
+catalog = "LACM-24150"
+tags = [
+    "Liella!",
+    "ラブライブ！スーパースター!!",
+]
+
+[[discs]]
+catalog = "LACM-24150"
+
+[[discs.tracks]]
+title = "未来は風のように"
+
+[[discs.tracks]]
+title = "この街でいまキミと"
+
+[[discs.tracks]]
+title = "未来は風のように (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "この街でいまキミと (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,139 @@
+[album]
+album_id = "042a6f80-8e39-4456-b149-66273e51d9ce"
+title = "ねぇ、好きって痛いよ。～告白実行委員会キャラクターソング集～"
+artist = "HoneyWorks"
+date = 2023-03-15
+type = "normal"
+catalog = "SMCL-814"
+tags = ["HoneyWorks"]
+
+[[discs]]
+catalog = "SMCL-814"
+
+[[discs.tracks]]
+title = "東京サニーパーティー"
+artist = "HoneyWorks（涼海ひより（水瀬いのり）、服部樹里（佐倉綾音）、中村千鶴（早見沙織））"
+
+[[discs.tracks]]
+title = "ヒロインたるもの!"
+artist = "HoneyWorks（涼海ひより（水瀬いのり））"
+
+[[discs.tracks]]
+title = "ヒロインは平均以下。"
+artist = "HoneyWorks（涼海ひより（水瀬いのり））"
+
+[[discs.tracks]]
+title = "好きな子に嘘ついた。"
+artist = "HoneyWorks（榎木淳弥）"
+
+[[discs.tracks]]
+title = "可愛いねって言われちゃった"
+artist = "HoneyWorks（服部樹里（佐倉綾音））"
+
+[[discs.tracks]]
+title = "うちら、恋人宣言!"
+artist = "HoneyWorks（服部樹里（佐倉綾音））"
+
+[[discs.tracks]]
+title = "同担☆拒否"
+artist = "HoneyWorks（ちゅーたん（早見沙織））"
+
+[[discs.tracks]]
+title = "推し★ごと"
+artist = "HoneyWorks（ちゅーたん（早見沙織））"
+
+[[discs.tracks]]
+title = "可愛くてごめん"
+artist = "HoneyWorks（ちゅーたん（早見沙織））"
+
+[[discs.tracks]]
+title = "1%の恋人"
+artist = "HoneyWorks（南（豊永利行））"
+
+[[discs.tracks]]
+title = "彼氏の資格"
+artist = "HoneyWorks（南（豊永利行））"
+
+[[discs.tracks]]
+title = "さみしがりや"
+artist = "HoneyWorks（柴崎健（江口拓也）、愛蔵（島﨑信長））"
+
+[[discs.tracks]]
+title = "ヒロイン育成計画"
+artist = "HoneyWorks（涼海ひより（水瀬いのり）、服部樹里（佐倉綾音）、中村千鶴（早見沙織））"
+
+[[discs.tracks]]
+title = "可愛くなりたい"
+artist = "HoneyWorks（瀬戸口雛（麻倉もも）、涼海ひより（水瀬いのり））"
+
+[[discs.tracks]]
+title = "夢ファンファーレ"
+artist = "HoneyWorks（成海聖奈（雨宮天）、成海萌奈（夏川椎菜））"
+
+[[discs.tracks]]
+title = "ロメオ"
+artist = "HoneyWorks（榎本虎太朗（花江夏樹）、柴崎健（江口拓也））"
+
+[[discs.tracks]]
+title = "婚約戦争"
+artist = "HoneyWorks（瀬戸口優（神谷浩史）、望月蒼太（梶裕貴）、芹沢春輝（鈴村健一））"
+
+[[discs.tracks]]
+title = "ロマンチックウェディング"
+artist = "HoneyWorks（榎本夏樹（戸松遥）、早坂あかり（阿澄佳奈）、合田美桜（豊崎愛生））"
+
+[[discs.tracks]]
+title = "東京スプリングセッション"
+artist = "HoneyWorks（瀬戸口優（神谷浩史）、榎本夏樹（戸松遥）、望月蒼太（梶裕貴）、早坂あかり（阿澄佳奈）、芹沢春輝（鈴村健一）、合田美桜（豊崎愛生））"
+
+[[discs.tracks]]
+title = "年の差なんて"
+artist = "HoneyWorks（綾瀬恋雪（堀江瞬））"
+
+[[discs.tracks]]
+title = "コスプレしたいのっ!"
+artist = "HoneyWorks（扇野りょう（井上麻里奈））"
+
+[[discs.tracks]]
+title = "シスXラブ"
+artist = "HoneyWorks（成海聖奈（雨宮天）、成海萌奈（夏川椎菜））"
+
+[[discs.tracks]]
+title = "かっこよくなりたい"
+artist = "HoneyWorks（濱中翠（Gero））"
+
+[[discs.tracks]]
+title = "火曜日はチューデイ -another story-"
+artist = "HoneyWorks（成海聖奈（雨宮天））"
+
+[[discs.tracks]]
+title = "水曜日の約束 -another story-"
+artist = "HoneyWorks（成海聖奈（雨宮天））"
+
+[[discs.tracks]]
+title = "木曜日のスキャンダル"
+artist = "HoneyWorks（成海聖奈（雨宮天））"
+
+[[discs.tracks]]
+title = "三角ジェラシー -another story-"
+artist = "HoneyWorks（瀬戸口雛（麻倉もも））"
+
+[[discs.tracks]]
+title = "これ青春アンダースタンド"
+artist = "HoneyWorks（榎本虎太朗（花江夏樹）、綾瀬恋雪（堀江瞬））"
+
+[[discs.tracks]]
+title = "男の子の目的は何?"
+artist = "HoneyWorks（高見沢アリサ（東山奈央））"
+
+[[discs.tracks]]
+title = "女の子の愛って何?"
+artist = "HoneyWorks（柴崎健（江口拓也））"
+
+[[discs.tracks]]
+title = "好きだった人に似てる後輩"
+artist = "HoneyWorks（山本幸大（松岡禎丞））"
+
+[[discs.tracks]]
+title = "元生徒"
+artist = "HoneyWorks（明智咲（緑川光））"

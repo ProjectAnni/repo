@@ -1,0 +1,41 @@
+[album]
+album_id = "b1121083-5320-4ab2-9df5-2cb7cadfefef"
+title = "始まりは君の空"
+edition = "みんなで叶える物語盤"
+artist = "Liella!（澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、葉月恋（青山なぎさ））"
+date = 2021-04-07
+type = "normal"
+catalog = "LACM-24100"
+tags = ["Liella!"]
+
+[[discs]]
+catalog = "LACM-24100"
+
+[[discs.tracks]]
+title = "始まりは君の空"
+
+[[discs.tracks]]
+title = "Dancing Heart La-Pa-Pa-Pa!"
+
+[[discs.tracks]]
+title = "Dreaming Energy"
+
+[[discs.tracks]]
+title = "始まりは君の空 (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dancing Heart La-Pa-Pa-Pa! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dreaming Energy (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "みんなでお出かけ! 〜計画編〜 (ドラマパート)"
+type = "drama"
+
+[[discs.tracks]]
+title = "みんなでお出かけ! 〜集合編〜 (ドラマパート)"
+type = "drama"
