@@ -1,0 +1,26 @@
+[album]
+album_id = "78f382e4-da7c-4172-a61d-c1c051d5fd52"
+title = "この空がトリガー"
+edition = "Type-B"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）"
+date = 2023-02-25
+type = "normal"
+catalog = "VVCL-2190"
+tags = []
+
+[[discs]]
+catalog = "VVCL-2190"
+
+[[discs.tracks]]
+title = "この空がトリガー"
+
+[[discs.tracks]]
+title = "ラブクリエイト"
+
+[[discs.tracks]]
+title = "この空がトリガー -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ラブクリエイト -Instrumental-"
+type = "instrumental"

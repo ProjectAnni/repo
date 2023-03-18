@@ -1,0 +1,33 @@
+[album]
+album_id = "2c316ca1-96ce-44ab-a8e0-37461a55f32a"
+title = "この空がトリガー"
+edition = "Type-D"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）、≒JOY（逢田珠里依、天野香乃愛、市原愛弓、江角怜音、大信田美月、大西葵、小澤愛実、髙橋舞、福山萌叶、藤沢莉子、村山結香、山田杏佳、山野愛月）"
+date = 2023-02-25
+type = "normal"
+catalog = "VVCL-2194"
+tags = [
+    "=LOVE",
+    "≒JOY",
+]
+
+[[discs]]
+catalog = "VVCL-2194"
+
+[[discs.tracks]]
+title = "この空がトリガー"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）"
+
+[[discs.tracks]]
+title = "スイートシックスティーン"
+artist = "≒JOY（逢田珠里依、天野香乃愛、市原愛弓、江角怜音、大信田美月、大西葵、小澤愛実、髙橋舞、福山萌叶、藤沢莉子、村山結香、山田杏佳、山野愛月）"
+
+[[discs.tracks]]
+title = "この空がトリガー -Instrumental-"
+artist = "=LOVE（大谷映美里、大場花菜、音嶋莉沙、齋藤樹愛羅、佐々木舞香、髙松瞳、瀧脇笙古、野口衣織、諸橋沙夏、山本杏奈）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "スイートシックスティーン -Instrumental-"
+artist = "≒JOY（逢田珠里依、天野香乃愛、市原愛弓、江角怜音、大信田美月、大西葵、小澤愛実、髙橋舞、福山萌叶、藤沢莉子、村山結香、山田杏佳、山野愛月）"
+type = "instrumental"
