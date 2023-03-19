@@ -1186,6 +1186,11 @@ name = "REVENGER"
 names.zh-hans = "复仇者"
 type = "animation"
 
+[[tag]]
+name = "たまゆら〜hitotose〜"
+names.zh-hans = "玉响～hitotose～"
+type = "animation"
+
 ################################################################################
 # Game
 #

@@ -1,0 +1,29 @@
+[album]
+album_id = "726f1e83-3753-4f8e-8154-f2086aff1501"
+title = "おかえりなさい"
+artist = "坂本真綾"
+date = 2011-10-26
+type = "normal"
+catalog = "VTCL-35120"
+tags = ["artist:坂本真綾", "animation:たまゆら〜hitotose〜"]
+
+[[discs]]
+catalog = "VTCL-35120"
+
+[[discs.tracks]]
+title = "おかえりなさい"
+tags = ["category:OP"]
+
+[[discs.tracks]]
+title = "A HAPPY NEW YEAR"
+tags = ["category:ED"]
+
+[[discs.tracks]]
+title = "おかえりなさい -Instrumental-"
+type = "instrumental"
+tags = ["category:OP"]
+
+[[discs.tracks]]
+title = "A HAPPY NEW YEAR -Instrumental-"
+type = "instrumental"
+tags = ["category:ED"]
