@@ -1,0 +1,110 @@
+[album]
+album_id = "e0de471e-c32d-49fc-a9e4-d740bc53f5ea"
+title = "THE IDOLM@STER LIVE THE@TER DREAMERS Instrumental 02"
+artist = "Various Artists"
+date = 2023-01-18
+type = "instrumental"
+catalog = "LACZ-10125"
+tags = ["THE IDOLM@STER LIVE THE@TER DREAMERS Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10125"
+
+[[discs.tracks]]
+title = "深層マーメイド"
+artist = "睦月周平"
+artists.composer = "睦月周平"
+artists.arranger = "睦月周平"
+artists.lyricist = "唐沢美帆"
+
+[[discs.tracks]]
+title = "HELLO, YOUR ANGEL♪"
+artist = "鈴木裕明"
+artists.composer = "鈴木裕明"
+artists.arranger = "鈴木裕明"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "G♡F"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "little trip around the world"
+artist = "yuxuki waga (fhána)"
+artists.composer = "yuxuki waga (fhána)"
+artists.arranger = "yuxuki waga (fhána)"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Melody in scape"
+artist = "光増ハジメ"
+artists.composer = "光増ハジメ"
+artists.arranger = "光増ハジメ"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = '"Your" HOME TOWN'
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "fruity love"
+artist = "宮崎まゆ"
+artists.composer = "宮崎まゆ"
+artists.arranger = "高橋修平"
+artists.lyricist = "宮崎まゆ"
+
+[[discs.tracks]]
+title = "夜に輝く星座のように"
+artist = "板垣祐介"
+artists.composer = "板垣祐介"
+artists.arranger = "板垣祐介"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "秘密のメモリーズ"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "たしかな足跡"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "Understand? Understand!"
+artist = "桑原聖 (Arte Refact)"
+artists.composer = "桑原聖 (Arte Refact)"
+artists.arranger = "酒井拓也 (Arte Refact)"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "ジャングル☆パーティー"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Beat the World!!!"
+artist = "EFFY"
+artists.composer = "EFFY"
+artists.arranger = "EFFY"
+artists.lyricist = "唐沢美帆"
+
+[[discs.tracks]]
+title = "Emergence Vibe"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Dreamscape"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"

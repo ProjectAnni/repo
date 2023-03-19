@@ -4,7 +4,6 @@ type = "project"
 included-by = ["project: アイドルマスターシリーズ"]
 includes = [
   # 2015-2016
-  "series: THE IDOLM@STER LIVE THE@TER DREAMERS",
   # 2015-2016
   "series: THE IDOLM@STER MILLION LIVE! オリジナルCD",
   # 2015-2021 (Continuing)
@@ -60,3 +59,9 @@ includes = [
   # 2022
   "series: THE IDOLM@STER LIVE THE@TER HARMONY Instrumental",
 ]
+
+[[tag]]
+name = "THE IDOLM@STER LIVE THE@TER DREAMERS"
+type = "series"
+included-by = ["project: THE IDOLM@STER MILLION LIVE"]
+includes = ["series: THE IDOLM@STER LIVE THE@TER DREAMERS Instrumental"]
