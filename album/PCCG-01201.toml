@@ -1,0 +1,30 @@
+[album]
+album_id = "c122ab9c-1c22-47b0-b219-69093b1c202f"
+title = "LIVE for LIFE 狼たちの夜"
+artist = "愛美"
+date = 2011-11-02
+type = "normal"
+catalog = "PCCG-01201"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "PCCG-01201"
+
+[[discs.tracks]]
+title = "LIVE for LIFE ～狼たちの夜～"
+tags = ["ベン・トー", "OP"]
+
+[[discs.tracks]]
+title = "このまま、ずっと"
+
+[[discs.tracks]]
+title = "強引ハニー"
+
+[[discs.tracks]]
+title = "LIVE for LIFE ～狼たちの夜～ (Instrumental)"
+type = "instrumental"
+tags = ["ベン・トー", "OP"]
+
+[[discs.tracks]]
+title = "このまま、ずっと (Instrumental)"
+type = "instrumental"

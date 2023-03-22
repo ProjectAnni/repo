@@ -1,0 +1,40 @@
+[album]
+album_id = "0288f47e-8ef6-460a-a70b-9c9699fe6dd1"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER 02 UNIQU3 VOICES!!!"
+artist = "Various Artists"
+date = 2023-02-15
+type = "normal"
+catalog = "COCC-18082"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER PLATINUM NUMBER"]
+
+[[discs]]
+catalog = "COCC-18082"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (M@STER VERSION)"
+artist = "辻野あかり（梅澤めぐ）、砂塚あきら（富田美憂）、夢見りあむ（星希成奏）"
+
+[[discs.tracks]]
+title = "怪物"
+artist = "黒埼ちとせ（佐倉薫）"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (M@STER VERSION) (オリジナル・カラオケ)"
+artist = "辻野あかり（梅澤めぐ）、砂塚あきら（富田美憂）、夢見りあむ（星希成奏）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (M@STER VERSION) (辻野あかり ソロ・リミックス)"
+artist = "辻野あかり（梅澤めぐ）"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (M@STER VERSION) (砂塚あきら ソロ・リミックス)"
+artist = "砂塚あきら（富田美憂）"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (M@STER VERSION) (夢見りあむ ソロ・リミックス)"
+artist = "夢見りあむ（星希成奏）"
+
+[[discs.tracks]]
+title = "UNIQU3 VOICES!!! (GAME VERSION)"
+artist = "辻野あかり（梅澤めぐ）、砂塚あきら（富田美憂）、夢見りあむ（星希成奏）"

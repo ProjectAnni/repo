@@ -1,0 +1,28 @@
+[album]
+album_id = "e8dc7243-ed03-4e66-9de2-83d7156f0de0"
+title = "once upon a time"
+artist = "愛美"
+date = 2010-12-29
+type = "normal"
+catalog = "DMCS-00018"
+tags = ["アスタロッテのおもちゃ！"]
+
+[[discs]]
+catalog = "DMCS-00018"
+
+[[discs.tracks]]
+title = "Wonderful World"
+
+[[discs.tracks]]
+title = "ロッテの手紙"
+artist = "アスタロッテ・ユグヴァール（釘宮理恵）"
+type = "drama"
+
+[[discs.tracks]]
+title = "明日葉の手紙"
+artist = "塔原明日葉（田村ゆかり）"
+type = "drama"
+
+[[discs.tracks]]
+title = "Wonderful World (Instrumental)"
+type = "instrumental"

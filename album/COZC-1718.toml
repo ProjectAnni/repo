@@ -1,0 +1,26 @@
+[album]
+album_id = "825f3441-4088-4f76-8d3e-502779364e12"
+title = "本日は晴天なり"
+edition = "初回限定盤"
+artist = "大西亜玖璃"
+date = 2021-03-03
+type = "normal"
+catalog = "COZC-1718"
+tags = ["大西亜玖璃"]
+
+[[discs]]
+catalog = "COZC-1718"
+
+[[discs.tracks]]
+title = "本日は晴天なり"
+
+[[discs.tracks]]
+title = "Ready to fly"
+
+[[discs.tracks]]
+title = "本日は晴天なり (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Ready to fly (Instrumental)"
+type = "instrumental"

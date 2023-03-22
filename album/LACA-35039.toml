@@ -1,0 +1,27 @@
+[album]
+album_id = "b3442e4c-3db2-4edc-92a3-eb24695583dd"
+title = "koii"
+edition = "初回限定盤"
+artist = "Liyuu"
+date = 2023-02-22
+type = "normal"
+catalog = "LACA-35039"
+tags = ["Liyuu"]
+
+[[discs]]
+catalog = "LACA-35039"
+
+[[discs.tracks]]
+title = "OPEN UP!"
+
+[[discs.tracks]]
+title = "Yellow"
+
+[[discs.tracks]]
+title = "My Beating"
+
+[[discs.tracks]]
+title = "Miracle Chocolate Night"
+
+[[discs.tracks]]
+title = "ミルクキャンディ"

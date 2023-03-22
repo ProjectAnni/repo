@@ -1,0 +1,68 @@
+[album]
+album_id = "0408bac8-c1ff-4383-9159-592ad69115db"
+title = "ジャーニーズ・トランク"
+artist = "南條愛乃"
+date = 2022-12-21
+type = "normal"
+catalog = "GNCA-1629"
+tags = ["南條愛乃"]
+
+[[discs]]
+catalog = "GNCA-162901"
+
+[[discs.tracks]]
+title = "blue -青の記憶-"
+
+[[discs.tracks]]
+title = "最初の10歩"
+
+[[discs.tracks]]
+title = "雨音と潮騒"
+
+[[discs.tracks]]
+title = "シンプル"
+
+[[discs.tracks]]
+title = "EVOLUTiON："
+
+[[discs.tracks]]
+title = "この胸に名もなき星"
+
+[[discs.tracks]]
+title = "静夜行"
+
+[[discs.tracks]]
+title = "IRO"
+
+[[discs.tracks]]
+title = "ヒトリとキミと"
+
+[[discs.tracks]]
+title = "ヨルゴト"
+
+[[discs.tracks]]
+title = "Lonely voyage"
+
+[[discs.tracks]]
+title = "ハートリップ"
+
+[[discs.tracks]]
+title = "ジャーニーズ・トランク"
+
+[[discs]]
+catalog = "GNCA-162902"
+
+[[discs.tracks]]
+title = "鏖鋸・シュルシャガナ"
+
+[[discs.tracks]]
+title = "SENSE OF DISTANCE"
+
+[[discs.tracks]]
+title = "冬がくれた予感"
+
+[[discs.tracks]]
+title = "Lost Heaven"
+
+[[discs.tracks]]
+title = "ココロノエデン"

@@ -1,0 +1,45 @@
+[album]
+album_id = "9f1a72a9-477c-4e2a-b126-8bac2b947e82"
+title = "THE IDOLM@STER CINDERELLA MASTER Cool jewelries! 004"
+artist = "松永涼（千菅春香）、三船美優（原田彩楓）、森久保乃々（高橋花林）、藤原肇（鈴木みのり）、砂塚あきら（富田美憂）"
+date = 2023-03-01
+type = "normal"
+catalog = "COCX-41892"
+tags = ["THE IDOLM@STER CINDERELLA MASTER Jewelries!"]
+
+[[discs]]
+catalog = "COCX-41892"
+
+[[discs.tracks]]
+title = "Starry Night"
+
+[[discs.tracks]]
+title = "Mela!"
+artist = "松永涼（千菅春香）"
+
+[[discs.tracks]]
+title = "レイニー ブルー"
+artist = "三船美優（原田彩楓）"
+
+[[discs.tracks]]
+title = "空想フォレスト"
+artist = "森久保乃々（高橋花林）"
+
+[[discs.tracks]]
+title = "明日への手紙"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "EXCITE"
+artist = "砂塚あきら（富田美憂）"
+
+[[discs.tracks]]
+title = "認めてくれなくたっていいよ"
+
+[[discs.tracks]]
+title = "ボーナスドラマ ～クールな番組収録中～"
+type = "drama"
+
+[[discs.tracks]]
+title = "Starry Night (オリジナル・カラオケ)"
+type = "instrumental"

@@ -1,0 +1,14 @@
+[album]
+album_id = "33f0ab53-b21a-4b48-aaa7-4ff2e501ab74"
+title = "あやめ色の夏に"
+artist = "青山吉能"
+date = 2022-07-27
+type = "normal"
+catalog = "D-D517"
+tags = ["青山吉能"]
+
+[[discs]]
+catalog = "D-D517"
+
+[[discs.tracks]]
+title = "あやめ色の夏に"

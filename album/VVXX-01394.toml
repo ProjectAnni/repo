@@ -1,0 +1,14 @@
+[album]
+album_id = "088d34e9-8a89-4b5c-9133-9fa4a9138932"
+title = "flower"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2023-01-21
+type = "normal"
+catalog = "VVXX-01394"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "VVXX-01394"
+
+[[discs.tracks]]
+title = "flower"

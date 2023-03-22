@@ -1,0 +1,48 @@
+[album]
+album_id = "1f4feab7-9809-4d89-8ebb-ad93411ec32d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 12 No One Knows"
+artist = "Various Artists"
+date = 2023-01-11
+type = "normal"
+catalog = "COCC-17982"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17982"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION)"
+artist = "八神マキノ（二ノ宮ゆい）、速水奏（飯田友子）、荒木比奈（田辺留依）、北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "ニッポン笑顔百景"
+artist = "鷹富士茄子（森下来奈）、道明寺歌鈴（新田ひより）、依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "Alchemy"
+artist = "一ノ瀬志希（藍原ことみ）"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION) オリジナル・カラオケ"
+artist = "八神マキノ（二ノ宮ゆい）、速水奏（飯田友子）、荒木比奈（田辺留依）、北条加蓮（渕上舞）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION) 八神マキノソロ・リミックス"
+artist = "八神マキノ（二ノ宮ゆい）"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION) 速水奏ソロ・リミックス"
+artist = "速水奏（飯田友子）"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION) 荒木比奈ソロ・リミックス"
+artist = "荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "No One Knows (M@STER VERSION) 北条加蓮ソロ・リミックス"
+artist = "北条加蓮（渕上舞）"
+
+[[discs.tracks]]
+title = "No One Knows (GAME VERSION)"
+artist = "八神マキノ（二ノ宮ゆい）、速水奏（飯田友子）、荒木比奈（田辺留依）、北条加蓮（渕上舞）"

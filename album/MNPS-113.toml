@@ -1,0 +1,14 @@
+[album]
+album_id = "dd5783ff-5fb7-4ea9-b876-7e6cd28670de"
+title = "蒼の彼方のフォーリズム ドラマCD Vol.3"
+artist = "倉科明日香（福圓美里）、鳶沢みさき（浅倉杏美）、有坂真白（山本希望）"
+date = 2016-07-20
+type = "drama"
+catalog = "MNPS-113"
+tags = ["animation: 蒼の彼方のフォーリズム"]
+
+[[discs]]
+catalog = "MNPS-113"
+
+[[discs.tracks]]
+title = "第10.5話「三人だけの特訓！？」"

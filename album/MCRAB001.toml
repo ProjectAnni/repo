@@ -1,0 +1,14 @@
+[album]
+album_id = "064d1c2f-5247-4580-a7ec-81d13a02f942"
+title = "Crab Rave"
+artist = "Noisestorm"
+date = 2018-04-01
+type = "absolute"
+catalog = "MCRAB001"
+tags = ["Noisestorm"]
+
+[[discs]]
+catalog = "MCRAB001"
+
+[[discs.tracks]]
+title = "Crab Rave"

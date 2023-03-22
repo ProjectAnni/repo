@@ -1,0 +1,33 @@
+[album]
+album_id = "1b1718d5-04be-4ad8-a36f-bd0d90eaeeda"
+title = "Love∞Vision"
+edition = "通常盤"
+artist = "小倉唯"
+date = 2022-12-21
+type = "normal"
+catalog = "COCC-18056"
+tags = ["小倉唯"]
+
+[[discs]]
+catalog = "COCC-18056"
+
+[[discs.tracks]]
+title = "Love∞Vision"
+
+[[discs.tracks]]
+title = "Dramatic!"
+
+[[discs.tracks]]
+title = "Precious."
+
+[[discs.tracks]]
+title = "Love∞Vision -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dramatic! -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Precious. -Instrumental-"
+type = "instrumental"

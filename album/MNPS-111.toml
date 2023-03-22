@@ -1,0 +1,14 @@
+[album]
+album_id = "1cc8a7e4-93d1-4c8c-978b-cc96bde16063"
+title = "蒼の彼方のフォーリズム ドラマCD Vol.2"
+artist = "市ノ瀬莉佳（米澤円）、佐藤院麗子（種田梨沙）、真藤一成（興津和幸）"
+date = 2016-06-22
+type = "drama"
+catalog = "MNPS-111"
+tags = ["animation: 蒼の彼方のフォーリズム"]
+
+[[discs]]
+catalog = "MNPS-111"
+
+[[discs.tracks]]
+title = "第7.5話「新学期スタートです！」"

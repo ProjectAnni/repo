@@ -1,0 +1,28 @@
+[album]
+album_id = "08be9460-111a-495b-9e29-31095060a030"
+title = "Elder flower／初恋カラーズ"
+edition = "初回限定盤A"
+artist = "大西亜玖璃"
+date = 2021-08-04
+type = "normal"
+catalog = "COZC-1777"
+tags = ["大西亜玖璃"]
+
+[[discs]]
+catalog = "COZC-1777"
+
+[[discs.tracks]]
+title = "Elder flower"
+tags = ["精霊幻想記", "ED"]
+
+[[discs.tracks]]
+title = "初恋カラーズ"
+
+[[discs.tracks]]
+title = "Elder flower (Instrumental)"
+tags = ["精霊幻想記", "ED"]
+type = "instrumental"
+
+[[discs.tracks]]
+title = "初恋カラーズ (Instrumental)"
+type = "instrumental"

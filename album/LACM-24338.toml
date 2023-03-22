@@ -1,0 +1,29 @@
+[album]
+album_id = "620e7537-b320-4c7f-b49c-8841f5267aab"
+title = "TRUE STORY"
+artist = "SCREEN mode、マイキ"
+date = 2023-01-25
+type = "normal"
+catalog = "LACM-24338"
+tags = ["文豪ストレイドッグス 第4シーズン"]
+
+[[discs]]
+catalog = "LACM-24338"
+
+[[discs.tracks]]
+title = "TRUE STORY"
+artist = "SCREEN mode"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "メキラゴー"
+
+[[discs.tracks]]
+title = "TRUE STORY (off vocal)"
+artist = "SCREEN mode"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "メキラゴー (off vocal)"
+type = "instrumental"

@@ -1,0 +1,47 @@
+[album]
+album_id = "a849ea88-6ce1-4b76-8d5f-fbe96c2a42a3"
+title = "DIALOGUE＋2"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2023-02-22
+type = "normal"
+catalog = "PCCG-02208"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "PCCG-02208"
+
+[[discs.tracks]]
+title = "D＋ has come"
+
+[[discs.tracks]]
+title = "絶景絶好スーパーデイ!!"
+
+[[discs.tracks]]
+title = "1000万回ハグなんだ"
+
+[[discs.tracks]]
+title = "恋は世界定理と共に"
+
+[[discs.tracks]]
+title = "めっちゃオンリーユー"
+
+[[discs.tracks]]
+title = "やばきゅん♡シューベルト"
+
+[[discs.tracks]]
+title = "MAHOROBA-Deli"
+
+[[discs.tracks]]
+title = "僕らが愚かだなんて誰が言った"
+
+[[discs.tracks]]
+title = "うしみつあっパレイド"
+
+[[discs.tracks]]
+title = "夕空航路"
+
+[[discs.tracks]]
+title = "デネブとスピカ"
+
+[[discs.tracks]]
+title = "ぼくらのユニバース"

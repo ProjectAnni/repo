@@ -1,17 +1,19 @@
 [album]
 album_id = "bd777ba9-2cab-4421-bb93-74a50675690d"
 title = "DREAM SOLISTER"
+edition = "アニメ盤"
 artist = "TRUE"
 date = 2015-04-22
 type = "normal"
 catalog = "LACM-34334"
-tags = ["響け！ユーフォニアム"]
+tags = ["TRUE"]
 
 [[discs]]
 catalog = "LACM-34334"
 
 [[discs.tracks]]
 title = "DREAM SOLISTER"
+tags = ["響け！ユーフォニアム", "OP"]
 
 [[discs.tracks]]
 title = "SAKURAコンチェルト"
@@ -22,3 +24,4 @@ title = "Swag!!!"
 [[discs.tracks]]
 title = "DREAM SOLISTER（Off Vocal）"
 type = "instrumental"
+tags = ["響け！ユーフォニアム", "OP"]
