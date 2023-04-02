@@ -1191,6 +1191,11 @@ name = "たまゆら〜hitotose〜"
 names.zh-hans = "玉响～hitotose～"
 type = "animation"
 
+[[tag]]
+name = "すずめの戸締まり"
+names.zh-hans = "铃芽之旅"
+type = "animation"
+
 ################################################################################
 # Game
 #
