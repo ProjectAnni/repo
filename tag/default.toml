@@ -309,6 +309,10 @@ type = "artist"
 name = "Noisestorm"
 type = "artist"
 
+[[tag]]
+name = "星野源"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -1358,6 +1362,13 @@ type = "game"
 [[tag]]
 name = "サクラノ刻 -櫻の森の下を歩む-"
 type = "game"
+
+#
+# Program (Project)
+[[tag]]
+name = "逃げるは恥だが役に立つ"
+names.zh-hans = "逃避虽可耻但有用"
+type = "project"
 
 ################################################################################
 # Project

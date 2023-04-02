@@ -1,0 +1,45 @@
+[album]
+album_id = "6e21b644-6578-43ca-853f-0d59bc7b1a82"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 14 ささのはに、うたかたに。"
+artist = "鷺沢文香（M・A・O）、佐城雪美（中澤ミナ）、鷹富士茄子（森下来奈）、小早川紗枝（立花理香）、藤原肇（鈴木みのり）"
+date = 2023-03-29
+type = "normal"
+catalog = "COCC-17984"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17984"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION)"
+
+[[discs.tracks]]
+title = "SHINY DAYS"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) (オリジナル・カラオケ)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) 鷺沢文香 ソロ・リミックス"
+artist = "鷺沢文香（M・A・O）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) 佐城雪美 ソロ・リミックス"
+artist = "佐城雪美（中澤ミナ）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) 鷹富士茄子 ソロ・リミックス"
+artist = "鷹富士茄子（森下来奈）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) 小早川紗枝 ソロ・リミックス"
+artist = "小早川紗枝（立花理香）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(M@STER VERSION) 藤原肇 ソロ・リミックス"
+artist = "藤原肇（鈴木みのり）"
+
+[[discs.tracks]]
+title = "ささのはに、うたかたに。(GAME VERSION)"

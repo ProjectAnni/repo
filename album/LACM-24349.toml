@@ -1,0 +1,25 @@
+[album]
+album_id = "9a866358-9a84-43ec-8131-9a0be99a7ecb"
+title = "THE IDOLM@STER MillionRADIO SECOND LIVINGROOM"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+date = 2023-03-29
+type = "normal"
+catalog = "LACM-24349"
+tags = ["THE IDOLM@STER MILLION RADIO!"]
+
+[[discs]]
+catalog = "LACM-24349"
+
+[[discs.tracks]]
+title = "SECOND LIVINGROOM"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ -MR remix-"
+
+[[discs.tracks]]
+title = "SECOND LIVINGROOM (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ -MR remix- (Off Vocal)"
+type = "instrumental"
