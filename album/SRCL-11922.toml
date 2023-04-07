@@ -1,0 +1,36 @@
+[album]
+album_id = "af91a011-b6b0-485c-84ce-c781102afe94"
+title = "流れ弾"
+edition = "初回仕様限定盤 TYPE-B"
+artist = "櫻坂46"
+date = 2021-10-13
+type = "normal"
+catalog = "SRCL-11922"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-11922"
+
+[[discs.tracks]]
+title = "流れ弾"
+artist = "山﨑天、田村保乃、森田ひかる、菅井友香、渡辺梨加、渡邉理佐、小林由依、土生瑞穂、大園玲、松田里奈、小池美波、藤吉夏鈴、守屋麗奈、武元唯衣"
+
+[[discs.tracks]]
+title = "Dead end"
+artist = "山﨑天、森田ひかる、田村保乃、菅井友香、渡辺梨加、渡邉理佐、小林由依、土生瑞穂、齋藤冬優花、増本綺良、井上梨名、原田葵、大沼晶保、遠藤光莉"
+
+[[discs.tracks]]
+title = "ジャマイカビール"
+artist = "小林由依、遠藤光莉、藤吉夏鈴"
+
+[[discs.tracks]]
+title = "流れ弾 -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dead end -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ジャマイカビール -OFF VOCAL ver.-"
+type = "instrumental"
