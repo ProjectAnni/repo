@@ -15,17 +15,17 @@ tags = [
 catalog = "LACM-24142"
 
 [[discs.tracks]]
-title = "未来予報ハレルヤ!"
+title = "未来予報ハレルヤ！"
 
 [[discs.tracks]]
 title = "Tiny Stars"
 artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）"
 
 [[discs.tracks]]
-title = "1.2.3!"
+title = "1.2.3！"
 
 [[discs.tracks]]
-title = "未来予報ハレルヤ! (Off Vocal)"
+title = "未来予報ハレルヤ！(Off Vocal)"
 type = "instrumental"
 
 [[discs.tracks]]
@@ -34,5 +34,5 @@ artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）"
 type = "instrumental"
 
 [[discs.tracks]]
-title = "1.2.3! (Off Vocal)"
+title = "1.2.3！(Off Vocal)"
 type = "instrumental"
