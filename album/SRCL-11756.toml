@@ -1,0 +1,36 @@
+[album]
+album_id = "1c786030-e9ca-4b2e-8c9e-c37185ccbcfc"
+title = "BAN"
+edition = "通常盤"
+artist = "櫻坂46"
+date = 2021-04-14
+type = "normal"
+catalog = "SRCL-11756"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-11756"
+
+[[discs.tracks]]
+title = "BAN"
+artist = "小林由依、森田ひかる、渡邉理佐、田村保乃、山﨑天、小池美波、藤吉夏鈴、菅井友香、大園玲、井上梨名、松田里奈、守屋麗奈、渡辺梨加、土生瑞穂"
+
+[[discs.tracks]]
+title = "偶然の答え"
+artist = "小林由依、藤吉夏鈴、渡邉理佐、田村保乃、山﨑天、小池美波、森田ひかる、菅井友香、尾関梨香、関有美子、原田葵、上村莉菜、武元唯衣"
+
+[[discs.tracks]]
+title = "櫻坂の詩"
+artist = "上村莉菜、尾関梨香、小池美波、小林由依、齋藤冬優花、菅井友香、土生瑞穂、原田葵、守屋茜、渡辺梨加、渡邉理佐、井上梨名、遠藤光莉、大園玲、大沼晶保、幸阪茉里乃、関有美子、武元唯衣、田村保乃、藤吉夏鈴、増本綺良、松田里奈、森田ひかる、守屋麗奈、山﨑天"
+
+[[discs.tracks]]
+title = "BAN -OFF VOCAL Ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "偶然の答え -OFF VOCAL Ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "櫻坂の詩 -OFF VOCAL Ver.-"
+type = "instrumental"

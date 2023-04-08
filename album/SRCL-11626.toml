@@ -1,0 +1,36 @@
+[album]
+album_id = "3b66396e-de11-4c85-b785-44072df022c9"
+title = "Nobody's fault"
+edition = "初回仕様限定盤 TYPE-D"
+artist = "櫻坂46"
+date = 2020-12-09
+type = "normal"
+catalog = "SRCL-11626"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-11626"
+
+[[discs.tracks]]
+title = "Nobody's fault"
+artist = "小林由依、森田ひかる、渡邉理佐、菅井友香、藤吉夏鈴、小池美波、山﨑天、田村保乃、武元唯衣、大園玲、守屋茜、松田里奈、尾関梨香、土生瑞穂"
+
+[[discs.tracks]]
+title = "なぜ 恋をして来なかったんだろう？"
+artist = "小林由依、藤吉夏鈴、渡邉理佐、菅井友香、森田ひかる、小池美波、山﨑天、田村保乃、井上梨名、幸阪茉里乃、原田葵、渡辺梨加、増本綺良、関有美子"
+
+[[discs.tracks]]
+title = "Buddies"
+artist = "小林由依、山﨑天、渡邉理佐、菅井友香、藤吉夏鈴、小池美波、森田ひかる、田村保乃、遠藤光莉、上村莉菜、大沼晶保、守屋麗奈、松平璃子、齋藤冬優花"
+
+[[discs.tracks]]
+title = "Nobody's fault -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "なぜ 恋をして来なかったんだろう？ -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Buddies -OFF VOCAL ver.-"
+type = "instrumental"

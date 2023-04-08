@@ -1,0 +1,36 @@
+[album]
+album_id = "cdc41141-b3c3-4cb1-9550-d434201ca3d5"
+title = "流れ弾"
+edition = "初回仕様限定盤 TYPE-A"
+artist = "櫻坂46"
+date = 2021-10-13
+type = "normal"
+catalog = "SRCL-11920"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-11920"
+
+[[discs.tracks]]
+title = "流れ弾"
+artist = "山﨑天、田村保乃、森田ひかる、菅井友香、渡辺梨加、渡邉理佐、小林由依、土生瑞穂、大園玲、松田里奈、小池美波、藤吉夏鈴、守屋麗奈、武元唯衣"
+
+[[discs.tracks]]
+title = "Dead end"
+artist = "山﨑天、森田ひかる、田村保乃、菅井友香、渡辺梨加、渡邉理佐、小林由依、土生瑞穂、齋藤冬優花、増本綺良、井上梨名、原田葵、大沼晶保、遠藤光莉"
+
+[[discs.tracks]]
+title = "ソニア"
+artist = "大園玲、守屋麗奈、小池美波、藤吉夏鈴、松田里奈、齋藤冬優花、原田葵、井上梨名、武元唯衣、大沼晶保、遠藤光莉、関有美子、守屋茜、増本綺良、上村莉菜、尾関梨香、幸阪茉里乃"
+
+[[discs.tracks]]
+title = "流れ弾 -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dead end -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ソニア -OFF VOCAL ver.-"
+type = "instrumental"

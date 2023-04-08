@@ -1,0 +1,36 @@
+[album]
+album_id = "72fe2dec-9d24-4a60-907f-473acc92e0a0"
+title = "桜月"
+edition = "初回仕様限定盤 TYPE-A"
+artist = "櫻坂46"
+date = 2023-02-15
+type = "normal"
+catalog = "SRCL-12420"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-12420"
+
+[[discs.tracks]]
+title = "桜月"
+artist = "小林由依、守屋麗奈、小池美波、山﨑天、大園玲、森田ひかる、田村保乃、藤吉夏鈴、武元唯衣、松田里奈、土生瑞穂、増本綺良、井上梨名"
+
+[[discs.tracks]]
+title = "Cool"
+artist = "小林由依、大園玲、小池美波、森田ひかる、藤吉夏鈴、山﨑天、田村保乃、守屋麗奈、関有美子、大沼晶保、齋藤冬優花、上村莉菜、幸阪茉里乃、遠藤光莉"
+
+[[discs.tracks]]
+title = "無念"
+artist = "上村莉菜、齋藤冬優花、土生瑞穂、井上梨名、遠藤光莉、大沼晶保、幸阪茉里乃、関有美子、武元唯衣、増本綺良、松田里奈"
+
+[[discs.tracks]]
+title = "桜月 -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Cool -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "無念 -OFF VOCAL ver.-"
+type = "instrumental"

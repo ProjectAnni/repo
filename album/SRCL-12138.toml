@@ -1,0 +1,36 @@
+[album]
+album_id = "83d6e609-5278-445a-abb7-f9e7f4540362"
+title = "五月雨よ"
+edition = "通常盤"
+artist = "櫻坂46"
+date = 2022-04-06
+type = "normal"
+catalog = "SRCL-12138"
+tags = ["櫻坂46"]
+
+[[discs]]
+catalog = "SRCL-12138"
+
+[[discs.tracks]]
+title = "五月雨よ"
+artist = "森田ひかる、山﨑天、田村保乃、守屋麗奈、小池美波、渡邉理佐、小林由依、藤吉夏鈴、武元唯衣、松田里奈、井上梨名、土生瑞穂、関有美子、上村莉菜、大園玲"
+
+[[discs.tracks]]
+title = "僕のジレンマ"
+artist = "森田ひかる、小林由依、渡邉理佐、菅井友香、田村保乃、藤吉夏鈴、守屋麗奈、土生瑞穂、原田葵、小池美波、山﨑天、大園玲、武元唯衣、松田里奈、井上梨名、関有美子、上村莉菜、尾関梨香、齋藤冬優花、増本綺良、幸阪茉里乃、大沼晶保、遠藤光莉"
+
+[[discs.tracks]]
+title = "恋が絶滅する日"
+artist = "森田ひかる、山﨑天、田村保乃、守屋麗奈、小池美波、小林由依、藤吉夏鈴、武元唯衣、松田里奈、井上梨名、土生瑞穂、関有美子、上村莉菜、大園玲"
+
+[[discs.tracks]]
+title = "五月雨よ -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕のジレンマ -OFF VOCAL ver.-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "恋が絶滅する日 -OFF VOCAL ver.-"
+type = "instrumental"
