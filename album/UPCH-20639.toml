@@ -1,14 +1,15 @@
 [album]
 album_id = "7feb2274-327c-41fe-b087-191c06899f8b"
 title = "すずめの戸締まり"
-artist = "RADWIMPS、陣内一真"
+artist = "Various Artists"
 date = 2022-11-11
-type = "normal"
+type = "absolute"
 catalog = "UPCH-20639"
 tags = ["すずめの戸締まり"]
 
 [[discs]]
 catalog = "UPCH-20639"
+artist = "RADWIMPS、陣内一真"
 
 [[discs.tracks]]
 title = "二人の出逢い"
@@ -16,7 +17,6 @@ artist = "RADWIMPS"
 
 [[discs.tracks]]
 title = "廃墟の温泉街"
-artist = "陣内一真、RADWIMPS"
 
 [[discs.tracks]]
 title = "手当て"
@@ -52,7 +52,6 @@ artist = "陣内一真"
 
 [[discs.tracks]]
 title = "廃遊園地"
-artist = "陣内一真、RADWIMPS"
 
 [[discs.tracks]]
 title = "戦士の休息"
@@ -76,7 +75,6 @@ artist = "RADWIMPS"
 
 [[discs.tracks]]
 title = "決意～旅立ち"
-artist = "陣内一真、RADWIMPS"
 
 [[discs.tracks]]
 title = "狐憑き"
@@ -92,7 +90,6 @@ artist = "RADWIMPS"
 
 [[discs.tracks]]
 title = "常世"
-artist = "陣内一真、RADWIMPS"
 
 [[discs.tracks]]
 title = "丘上の要石"
@@ -100,7 +97,6 @@ artist = "陣内一真"
 
 [[discs.tracks]]
 title = "草太の元へ"
-artist = "RADWIMPS、陣内一真"
 
 [[discs.tracks]]
 title = "祈り"
@@ -108,21 +104,24 @@ artist = "陣内一真"
 
 [[discs.tracks]]
 title = "戸締まり"
-artist = "RADWIMPS、陣内一真"
 
 [[discs.tracks]]
 title = "カナタハルカ"
 artist = "RADWIMPS"
+type = "normal"
 
 [[discs.tracks]]
-title = "すずめ"
+title = "すずめ feat.十明"
 artist = "RADWIMPS、十明"
+type = "normal"
 tags = ["ED"]
 
 [[discs.tracks]]
 title = "Tamaki"
 artist = "RADWIMPS"
+type = "normal"
 
 [[discs.tracks]]
 title = "すずめの涙"
 artist = "RADWIMPS"
+type = "normal"
