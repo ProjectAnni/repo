@@ -1,0 +1,29 @@
+[album]
+album_id = "39442d90-17d0-4e55-a64f-e120fa018aa0"
+title = "ミライ／Flyer!"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、巡音ルカ、鏡音レン"
+date = 2023-03-29
+type = "normal"
+catalog = "BRMM-10622"
+tags = ["Vivid BAD SQUAD"]
+
+[[discs]]
+catalog = "BRMM-10622"
+
+[[discs.tracks]]
+title = "ミライ"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、巡音ルカ"
+
+[[discs.tracks]]
+title = "Flyer!"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音レン"
+
+[[discs.tracks]]
+title = "ミライ -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、巡音ルカ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Flyer! -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音レン"
+type = "instrumental"

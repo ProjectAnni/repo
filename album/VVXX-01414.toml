@@ -1,0 +1,28 @@
+[album]
+album_id = "a84653da-a955-4ff7-8dc9-5a420f9eca01"
+title = "escalate"
+edition = "Special Edition"
+artist = "Aimer"
+date = 2023-03-01
+type = "normal"
+catalog = "VVXX-01414"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVXX-01414"
+
+[[discs.tracks]]
+title = "escalate"
+
+[[discs.tracks]]
+title = "命にふさわしい"
+
+[[discs.tracks]]
+title = "crossovers"
+
+[[discs.tracks]]
+title = "escalate (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "escalate (TV Size)"

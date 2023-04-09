@@ -1,0 +1,14 @@
+[album]
+album_id = "c768466c-6129-4ca8-a46a-f5c49106c5b9"
+title = "笑っていたいんだ"
+artist = "遠藤璃菜"
+date = 2023-03-21
+type = "normal"
+catalog = "@E_RINA_TA-05"
+tags = ["遠藤璃菜"]
+
+[[discs]]
+catalog = "@E_RINA_TA-05"
+
+[[discs.tracks]]
+title = "笑っていたいんだ"

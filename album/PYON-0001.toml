@@ -1,0 +1,25 @@
+[album]
+album_id = "e3786c9c-bd6c-4eff-b2e5-5b8c2d6bd1f6"
+title = "Happy Gaming Life"
+artist = "山崎はるか"
+date = 2023-02-18
+type = "normal"
+catalog = "PYON-0001"
+tags = ["山崎はるか"]
+
+[[discs]]
+catalog = "PYON-0001"
+
+[[discs.tracks]]
+title = "Happy Gaming Life"
+
+[[discs.tracks]]
+title = "JUST PLAY!"
+
+[[discs.tracks]]
+title = "Happy Gaming Life（instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "JUST PLAY! （instrumental）"
+type = "instrumental"
