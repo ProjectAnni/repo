@@ -1,0 +1,18 @@
+[album]
+album_id = "9a3293f9-d24c-4f2b-9d45-1d8202001976"
+title = "夏休みが来るまえに"
+artist = "悠木碧、内田彩、伊藤美来、村川梨衣、Machico、和氣あず未、富田美憂"
+date = 2020-02-26
+type = "normal"
+catalog = "COKM-42643"
+tags = ["＃コロちゃんフェス"]
+
+[[discs]]
+catalog = "COKM-42643"
+
+[[discs.tracks]]
+title = "夏休みが来るまえに"
+
+[[discs.tracks]]
+title = "夏休みが来るまえに (Instrumental)"
+type = "instrumental"

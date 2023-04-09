@@ -1,0 +1,18 @@
+[album]
+album_id = "e770764a-1cad-4efc-8879-3f3dd892dbb3"
+title = "サクラノ刻 -櫻の森の下を歩む- OPフルアレンジCD"
+artist = "Luna"
+date = 2023-02-24
+type = "normal"
+catalog = "@SAKURANOTOKI-01"
+tags = ["サクラノ刻 -櫻の森の下を歩む-"]
+
+[[discs]]
+catalog = "@SAKURANOTOKI-01"
+
+[[discs.tracks]]
+title = "刻ト詩 ピアノアレンジ"
+
+[[discs.tracks]]
+title = "刻ト詩 ピアノアレンジ inst."
+type = "instrumental"

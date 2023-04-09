@@ -1,0 +1,30 @@
+[album]
+album_id = "e127c9d4-f6c6-4028-b5ef-d819d920bb3a"
+title = "Villans:impress"
+edition = "初回限定盤"
+artist = "harmoe（岩田陽葵、小泉萌香）"
+date = 2023-03-08
+type = "normal"
+catalog = "PCCG-02201"
+tags = ["harmoe"]
+
+[[discs]]
+catalog = "PCCG-02201"
+
+[[discs.tracks]]
+title = "QUEEN"
+
+[[discs.tracks]]
+title = "Brilliant and bad"
+
+[[discs.tracks]]
+title = "アンチクライアント"
+
+[[discs.tracks]]
+title = "眠れぬ森"
+
+[[discs.tracks]]
+title = "VOICE"
+
+[[discs.tracks]]
+title = "Unfair Mirror"

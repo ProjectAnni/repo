@@ -1,0 +1,14 @@
+[album]
+album_id = "5d57d80f-b01f-4242-8e23-bbc8c8edf748"
+title = "「Polestar」華恋・ひかり 歌い分けver.CD"
+artist = "愛城華恋（小山百代）、神楽ひかり（三森すずこ）"
+date = 2021-03-24
+type = "normal"
+catalog = "DSP-02288"
+tags = ["スタァライト九九組"]
+
+[[discs]]
+catalog = "DSP-02288"
+
+[[discs.tracks]]
+title = "Polestar -華恋・ひかり ver.-"

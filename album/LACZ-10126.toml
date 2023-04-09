@@ -1,0 +1,113 @@
+[album]
+album_id = "9b5d8768-e371-44ec-9df4-a648f842a441"
+title = "THE IDOLM@STER LIVE THE@TER FORWARD Instrumental"
+artist = "Various Artists"
+date = 2023-01-18
+type = "instrumental"
+catalog = "LACZ-10126"
+tags = ["series: THE IDOLM@STER LIVE THE@TER FORWARD"]
+
+[[discs]]
+catalog = "LACZ-10126"
+
+[[discs.tracks]]
+title = "ランニング・ハイッ"
+artist = "睦月周平"
+artists.composer = "睦月周平"
+artists.arranger = "睦月周平"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "ゲキテキ！ムテキ！恋したい！"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "Bonnes! Bonnes!! Vacances!!!"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "板垣祐介"
+artists.composer = "板垣祐介"
+artists.arranger = "板垣祐介"
+artists.lyricist = "唐沢美帆"
+
+[[discs.tracks]]
+title = "サンリズム・オーケストラ♪"
+artist = "EFFY"
+artists.composer = "EFFY"
+artists.arranger = "EFFY"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "堀江晶太"
+artists.composer = "堀江晶太"
+artists.arranger = "堀江晶太"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "P.S I Love You"
+artist = "ラムシーニ"
+artists.composer = "ラムシーニ"
+artists.arranger = "ラムシーニ"
+artists.lyricist = "唐沢美帆"
+
+[[discs.tracks]]
+title = "プリムラ"
+artist = "KOH"
+
+[[discs.tracks]]
+title = "待ちぼうけのLacrima"
+artist = "小高光太郎、UiNA"
+artists.composer = "小高光太郎、UiNA"
+artists.arranger = "小高光太郎"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "brave HARMONY"
+artist = "山口朗彦"
+artists.composer = "山口朗彦"
+artists.arranger = "山口朗彦"
+artists.lyricist = "結城アイラ"
+
+[[discs.tracks]]
+title = "リフレインキス"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "Sweet Sweet Soul"
+artist = "BERABOW、SigN"
+artists.composer = "BERABOW、SigN"
+artists.arranger = "Shinnosuke"
+artists.lyricist = "ZAQ"
+
+[[discs.tracks]]
+title = "メメント？モメント♪ルルルルル☆"
+artist = "宮崎まゆ"
+artists.composer = "宮崎まゆ"
+artists.arranger = "ラムシーニ"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "永遠の花"
+artist = "三好啓太"
+artists.composer = "三好啓太"
+artists.arranger = "三好啓太"
+artists.lyricist = "森由里子"
+
+[[discs.tracks]]
+title = "Starry Melody"
+artist = "高田暁"
+artists.composer = "高田暁"
+artists.arranger = "高田暁"
+artists.lyricist = "こだまさおり"

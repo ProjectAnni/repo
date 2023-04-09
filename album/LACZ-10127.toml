@@ -1,0 +1,78 @@
+[album]
+album_id = "e464f133-1c4e-4b3b-90a7-872b5dc62e98"
+title = "THE IDOLM@STER THE@TER ABC Instrumental"
+artist = "Various Artists"
+date = 2023-01-18
+type = "instrumental"
+catalog = "LACZ-10127"
+tags = ["project: THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LACZ-10127"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+artist = "KOHTA YAMAMOTO"
+artists.composer = "KOHTA YAMAMOTO"
+artists.arranger = "KOHTA YAMAMOTO"
+artists.lyricist = "結城アイラ"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+artist = "yuxuki waga（fhána）"
+artists.composer = "yuxuki waga（fhána）"
+artists.arranger = "yuxuki waga（fhána）、sasakure.UK"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "赤い世界が消える頃"
+artist = "光増ハジメ"
+artists.composer = "光増ハジメ"
+artists.arranger = "光増ハジメ"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "ビッグバンズバリボー!!!!!"
+artist = "ZAQ"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+artist = "菊池達也"
+artists.composer = "菊池達也"
+artists.arranger = "菊池達也"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+artist = "R・O・N"
+artists.composer = "R・O・N"
+artists.arranger = "睦月周平"
+artists.lyricist = "中村彼方"
+
+[[discs.tracks]]
+title = "Girl meets Wonder"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "World Changer"
+artist = "半田翼"
+artists.composer = "半田翼"
+artists.arranger = "半田翼"
+artists.lyricist = "半田翼、新田目翔"
+
+[[discs.tracks]]
+title = "クルリウタ"
+artist = "daph"
+artists.composer = "daph"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "DIAMOND DAYS"
+artist = "高田暁"
+artists.composer = "高田暁"
+artists.arranger = "高田暁"
+artists.lyricist = "rino"

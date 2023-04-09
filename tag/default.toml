@@ -309,6 +309,10 @@ type = "artist"
 name = "Noisestorm"
 type = "artist"
 
+[[tag]]
+name = "星野源"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -1369,6 +1373,17 @@ type = "game"
 name = "終ノ空"
 type = "game"
 
+[[tag]]
+name = "サクラノ刻 -櫻の森の下を歩む-"
+type = "game"
+
+#
+# Program (Project)
+[[tag]]
+name = "逃げるは恥だが役に立つ"
+names.zh-hans = "逃避虽可耻但有用"
+type = "project"
+
 ################################################################################
 # Project
 #
@@ -1467,6 +1482,10 @@ includes = [
   "game: 蒼の彼方のフォーリズム EXTRA2",
 ]
 
+[[tag]]
+name = "＃コロちゃんフェス"
+type = "project"
+
 ################################################################################
 # Organization
 #
@@ -1482,6 +1501,10 @@ includes = [
   "game: 月に寄りそう乙女の作法2.2 A×L+SA!!",
 ]
 
+[[tag]]
+name = "佐倉としたい大西"
+type = "radio"
+
 ################################################################################
 # Category
 #
@@ -1495,4 +1518,8 @@ type = "category"
 
 [[tag]]
 name = "OST"
+type = "category"
+
+[[tag]]
+name = "NSFW"
 type = "category"

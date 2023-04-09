@@ -1,0 +1,71 @@
+[album]
+album_id = "17ba23d1-451f-4665-b034-fdd6e468eac1"
+title = "TBS系 火曜ドラマ「逃げるは恥だが役に立つ」オリジナル・サウンドトラック Vol.2"
+artist = "Various Artists"
+date = 2017-01-11
+type = "absolute"
+catalog = "NL-1362"
+tags = ["逃げるは恥だが役に立つ"]
+
+[[discs]]
+catalog = "NL-1362"
+
+[[discs.tracks]]
+title = "今日こそは絶対に帰ります！！"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "お帰りなさい"
+artist = "MAYUKO"
+
+[[discs.tracks]]
+title = "とても大事なことに、気付くことができました"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "今日、火曜日ですよね"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "しょうもない妄想"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "彼女いない歴35年"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "303号室"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "えらいものを見たような・・・"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "おかしい"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "OKANE"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "しみじみしっくり"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "雇用契約"
+artist = "MAYUKO"
+
+[[discs.tracks]]
+title = "逃げるは恥だが役に立つ～あなたに必要とされたくて～"
+artist = "末廣健一郎"
+
+[[discs.tracks]]
+title = "恋 Piano ver. [Instrumental]"
+artist = "星野源"
+
+[[discs.tracks]]
+title = "恋 Strings & Piano ver. [Instrumental]"
+artist = "星野源"

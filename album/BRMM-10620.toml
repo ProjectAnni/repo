@@ -1,0 +1,50 @@
+[album]
+album_id = "5d3246dc-744e-41b7-8660-7628006858e0"
+title = "QUINTET"
+artist = "Morfonica（倉田ましろ（進藤あまね）、桐ヶ谷透子（直田姫奈）、広町七深（西尾夕香）、二葉つくし（mika）、八潮瑠唯（Ayasa））"
+date = 2023-03-15
+type = "normal"
+catalog = "BRMM-10620"
+tags = ["Morfonica"]
+
+[[discs]]
+catalog = "BRMM-10620"
+
+[[discs.tracks]]
+title = "Daylight -デイライト-"
+
+[[discs.tracks]]
+title = "メランコリックララバイ"
+
+[[discs.tracks]]
+title = "flame of hope"
+
+[[discs.tracks]]
+title = "ブルームブルーム"
+
+[[discs.tracks]]
+title = "カラフルリバティー"
+
+[[discs.tracks]]
+title = "fly with the night"
+
+[[discs.tracks]]
+title = "金色へのプレリュード"
+
+[[discs.tracks]]
+title = "The Circle Of Butterflies"
+
+[[discs.tracks]]
+title = "ハーモニー・デイ"
+
+[[discs.tracks]]
+title = "Sweet Cheers!"
+
+[[discs.tracks]]
+title = "寄る辺のSunny, Sunny"
+
+[[discs.tracks]]
+title = "誓いのWingbeat"
+
+[[discs.tracks]]
+title = "Ever Sky Blue"

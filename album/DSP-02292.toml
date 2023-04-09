@@ -1,0 +1,14 @@
+[album]
+album_id = "235da985-1432-4df4-b311-ff32a015943b"
+title = "「Polestar」双葉・香子 歌い分けver.CD"
+artist = "石動双葉（生田輝）、花柳香子（伊藤彩沙）"
+date = 2021-03-24
+type = "normal"
+catalog = "DSP-02292"
+tags = ["スタァライト九九組"]
+
+[[discs]]
+catalog = "DSP-02292"
+
+[[discs.tracks]]
+title = "Polestar -双葉・香子 ver.-"

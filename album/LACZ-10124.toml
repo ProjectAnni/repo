@@ -1,0 +1,81 @@
+[album]
+album_id = "fe649f4c-a4ae-4012-ba04-4ad089751af9"
+title = "THE IDOLM@STER LIVE THE@TER DREAMERS Instrumental 01"
+artist = "Various Artists"
+date = 2023-01-18
+type = "instrumental"
+catalog = "LACZ-10124"
+tags = ["THE IDOLM@STER LIVE THE@TER DREAMERS Instrumental"]
+
+[[discs]]
+catalog = "LACZ-10124"
+
+[[discs.tracks]]
+title = "ハルカナミライ"
+artist = "増谷賢"
+artists.composer = "増谷賢"
+artists.arranger = "増谷賢"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "成長Chu→LOVER!!"
+artist = "桑原聖 (Arte Refact)"
+artists.composer = "桑原聖 (Arte Refact)"
+artists.arranger = "酒井拓也 (Arte Refact)"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "エスケープ"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "きみコ"
+
+[[discs.tracks]]
+title = "Eternal Spiral"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "piece of cake"
+artist = "AstroNoteS"
+artists.composer = "AstroNoteS"
+artists.arranger = "AstroNoteS"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "アライブファクター"
+artist = "藤本記子"
+artists.composer = "藤本記子"
+artists.arranger = "福富雅之"
+artists.lyricist = "藤本記子"
+
+[[discs.tracks]]
+title = "Persona Voice"
+artist = "山口朗彦"
+artists.composer = "山口朗彦"
+artists.arranger = "山口朗彦"
+artists.lyricist = "真崎エリカ"
+
+[[discs.tracks]]
+title = "Cut. Cut. Cut."
+artist = "睦月周平"
+artists.composer = "睦月周平"
+artists.arranger = "睦月周平"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Smiling Crescent"
+artist = "板垣祐介"
+artists.composer = "板垣祐介"
+artists.arranger = "板垣祐介"
+artists.lyricist = "松井洋平"
+
+[[discs.tracks]]
+title = "Decided"
+artist = "山口朗彦"
+artists.composer = "山口朗彦"
+artists.arranger = "山口朗彦"
+artists.lyricist = "結城アイラ"

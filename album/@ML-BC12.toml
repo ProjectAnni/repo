@@ -1,0 +1,24 @@
+[album]
+album_id = "345fd625-e3e3-4f27-83d4-9545dd9f9710"
+title = "アイドルマスター ミリオンライブ! Blooming Clover 12 オリジナルCD"
+artist = "Various Artists"
+date = 2022-11-26
+type = "normal"
+catalog = "@ML-BC12"
+tags = ["THE IDOLM@STER MILLION LIVE! Blooming Clover オリジナルCD"]
+
+[[discs]]
+catalog = "@ML-BC12"
+
+[[discs.tracks]]
+title = "MEGARE!（M@STER VERSION）"
+artist = "豊川風花（末柄里恵）、真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "キミがいて夢になる"
+artist = "矢吹可奈（木戸衣吹）、高坂海美（上田麗奈）"
+
+[[discs.tracks]]
+title = "ボイスドラマ"
+artist = "北沢志保（雨宮天）、伊吹翼（Machico）、豊川風花（末柄里恵）、馬場このみ（髙橋ミナミ）、福田のり子（浜崎奈々）"
+type = "drama"

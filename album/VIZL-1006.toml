@@ -1,0 +1,24 @@
+[album]
+album_id = "9183ab02-ea99-44da-be2e-28467f9f7023"
+title = "恋"
+artist = "星野源"
+date = 2016-10-05
+type = "normal"
+catalog = "VIZL-1006"
+tags = ["星野源"]
+
+[[discs]]
+catalog = "VIZL-1006"
+
+[[discs.tracks]]
+title = "恋"
+tags = ["逃げるは恥だが役に立つ", "ED"]
+
+[[discs.tracks]]
+title = "Drinking Dance"
+
+[[discs.tracks]]
+title = "Continues"
+
+[[discs.tracks]]
+title = "雨音（House ver.）"

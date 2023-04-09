@@ -1,0 +1,48 @@
+[album]
+album_id = "81f36ae4-f073-4898-b719-1d2e1cf83d1d"
+title = "THE IDOLM@STER MILLION THE@TER SEASON FINAL"
+artist = "THE IDOLM@STER MILLION LIVE!"
+date = 2023-02-22
+type = "normal"
+catalog = "LACA-25038"
+tags = ["THE IDOLM@STER MILLION THE@TER SEASON"]
+
+[[discs]]
+catalog = "LACA-25038"
+
+[[discs.tracks]]
+title = "ドラマ『思い出クイズ大会、はじまるよ！』"
+type = "drama"
+
+[[discs.tracks]]
+title = "サウンド・オブ・ビギニング"
+artist = "田中琴葉（種田梨沙）、ロコ（中村温姫）、周防桃子（渡部恵子）、二階堂千鶴（野村香菜子）、宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "ドラマ『クイズを探して』"
+type = "drama"
+
+[[discs.tracks]]
+title = "Supersonic Booster!"
+artist = "秋月律子（若林直美）、七尾百合子（伊藤美来）、島原エレナ（角元明日香）、馬場このみ（髙橋ミナミ）、北上麗花（平山笑美）"
+
+[[discs.tracks]]
+title = "ドラマ『夕暮れの劇場』"
+type = "drama"
+
+[[discs.tracks]]
+title = "オレンジ・エピソード"
+artist = "佐竹美奈子（大関英里）、北沢志保（雨宮天）、天海春香（中村繪里子）、舞浜歩（戸田めぐみ）、松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "ドラマ『一日の終わりに』"
+artist = "ドラマ"
+type = "drama"
+
+[[discs.tracks]]
+title = "Like twinkling STARS"
+artist = "篠宮可憐（近藤唯）、双海真美（下田麻美）、エミリー スチュアート（郁原ゆう）、四条貴音（原由実）、豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "ドラマ『結果発表のコーナー！』"
+type = "drama"
