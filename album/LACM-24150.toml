@@ -15,6 +15,7 @@ catalog = "LACM-24150"
 
 [[discs.tracks]]
 title = "未来は風のように"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "この街でいまキミと"
@@ -26,3 +27,4 @@ type = "instrumental"
 [[discs.tracks]]
 title = "この街でいまキミと (Off Vocal)"
 type = "instrumental"
+tags = ["ED"]
