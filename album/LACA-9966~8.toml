@@ -1,0 +1,209 @@
+[album]
+album_id = "0c2f7ba6-e043-4f19-be9f-1d005c9a5cb6"
+title = "THE IDOLM@STER MILLION THE@TER BEST"
+artist = "Various Artists"
+date = 2023-03-22
+type = "normal"
+catalog = "LACA-9966~8"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LACA-9966"
+
+[[discs.tracks]]
+title = "FairyTaleじゃいられない"
+artist = "フェアリースターズ（最上静香（田所あずさ）、白石紬（南早紀）、所恵美（藤井ゆきよ）、ジュリア（愛美）、北沢志保（雨宮天））"
+
+[[discs.tracks]]
+title = "Angelic Parade♪"
+artist = "エンジェルスターズ（伊吹翼（Machico）、北上麗花（平山笑美）、桜守歌織（香里有佐）、箱崎星梨花（麻倉もも）、望月杏奈（夏川椎菜））"
+
+[[discs.tracks]]
+title = "Princess Be Ambitious!!"
+artist = "プリンセススターズ（春日未来（山崎はるか）、徳川まつり（諏訪彩花）、矢吹可奈（木戸衣吹）、七尾百合子（伊藤美来）、エミリー スチュアート（郁原ゆう））"
+
+[[discs.tracks]]
+title = "昏き星、遠い月"
+artist = "夜想令嬢 -GRAC&E NOCTURNE-（天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）、二階堂千鶴（野村香菜子）、百瀬莉緒（山口立花子））"
+
+[[discs.tracks]]
+title = "虹色letters"
+artist = "Cleasky（島原エレナ（角元明日香）、宮尾美也（桐谷蝶々））"
+
+[[discs.tracks]]
+title = "ZETTAI × BREAK!! トゥインクルリズム"
+artist = "トゥインクルリズム（中谷育（原嶋あかり）、七尾百合子（伊藤美来）、松田亜利沙（村川梨衣））"
+
+[[discs.tracks]]
+title = "Melty Fantasia"
+artist = "EScape（真壁瑞希（阿部里果）、白石紬（南早紀）、北沢志保（雨宮天））"
+
+[[discs.tracks]]
+title = "花ざかりWeekend✿"
+artist = "4Luxury（桜守歌織（香里有佐）、豊川風花（末柄里恵）、北上麗花（平山笑美）、馬場このみ（髙橋ミナミ））"
+
+[[discs.tracks]]
+title = "咲くは浮世の君花火"
+artist = "閃光☆HANABI団（高山紗代子（駒形友梨）、高坂海美（上田麗奈）、福田のり子（浜崎奈々）、横山奈緒（渡部優衣）、佐竹美奈子（大関英里））"
+
+[[discs.tracks]]
+title = "ハーモニクス"
+artist = "D/Zeal（ジュリア（愛美）、最上静香（田所あずさ））"
+
+[[discs.tracks]]
+title = "ハルマチ女子"
+artist = "りるきゃん ～3 little candy～（篠宮可憐（近藤唯）、野々原茜（小笠原早紀）、伊吹翼（Machico））"
+
+[[discs.tracks]]
+title = "だってあなたはプリンセス"
+artist = "Charlotte・Charlotte（徳川まつり（諏訪彩花）、エミリー スチュアート（郁原ゆう））"
+
+[[discs.tracks]]
+title = "月曜日のクリームソーダ"
+artist = "Jelly PoP Beans（ロコ（中村温姫）、舞浜歩（戸田めぐみ）、永吉昴（斉藤佑圭）、周防桃子（渡部恵子））"
+
+[[discs.tracks]]
+title = "ピコピコIIKO! インベーダー"
+artist = "ピコピコプラネッツ（木下ひなた（田村奈央）、箱崎星梨花（麻倉もも）、大神環（稲川英里）、望月杏奈（夏川椎菜））"
+
+[[discs.tracks]]
+title = "Episode. Tiara"
+artist = "STAR ELEMENTS（春日未来（山崎はるか）、矢吹可奈（木戸衣吹）、田中琴葉（種田梨沙））"
+
+[[discs]]
+catalog = "LACA-9967"
+
+[[discs.tracks]]
+title = "dans l'obscurité"
+artist = "Chrono-Lexica（七尾百合子（伊藤美来）、永吉昴（斉藤佑圭）、ロコ（中村温姫）、望月杏奈（夏川椎菜）、真壁瑞希（阿部里果））"
+
+[[discs.tracks]]
+title = "ラビットファー"
+artist = "Xs（萩原雪歩（浅倉杏美）、星井美希（長谷川明子）、菊地真（平田宏美）、水瀬伊織（釘宮理恵））"
+
+[[discs.tracks]]
+title = "Cherry Colored Love"
+artist = "Sherry 'n Cherry（馬場このみ（髙橋ミナミ）、百瀬莉緒（山口立花子））"
+
+[[discs.tracks]]
+title = "Fermata in Rapsodia"
+artist = "ARCANA（三浦あずさ（たかはし智秋）、如月千早（今井麻美）、四条貴音（原由実））"
+
+[[discs.tracks]]
+title = "百花は月下に散りぬるを"
+artist = "花咲夜（エミリー スチュアート（郁原ゆう）、白石紬（南早紀）、天空橋朋花（小岩井ことり））"
+
+[[discs.tracks]]
+title = "Super Duper"
+artist = "Jus-2-Mint（佐竹美奈子（大関英里）、横山奈緒（渡部優衣））"
+
+[[discs.tracks]]
+title = "絶対的Performer"
+artist = "miraclesonic★expassion（舞浜歩（戸田めぐみ）、福田のり子（浜崎奈々）、島原エレナ（角元明日香）、高坂海美（上田麗奈））"
+
+[[discs.tracks]]
+title = "Special Wonderful Smile"
+artist = "Fleuranges（篠宮可憐（近藤唯）、箱崎星梨花（麻倉もも）、宮尾美也（桐谷蝶々）、木下ひなた（田村奈央））"
+
+[[discs.tracks]]
+title = "Parade d'amour"
+artist = "オペラセリア・煌輝座（北沢志保（雨宮天）、桜守歌織（香里有佐）、徳川まつり（諏訪彩花）、田中琴葉（種田梨沙））"
+
+[[discs.tracks]]
+title = "Deep, Deep Blue"
+artist = "ダイヤモンドダイバー◇（高槻やよい（仁後真耶子）、天海春香（中村繪里子）、我那覇響（沼倉愛美））"
+
+[[discs.tracks]]
+title = "Arrive You ～それが運命でも～"
+artist = "TIntMe!（大神環（稲川英里）、中谷育（原嶋あかり）、周防桃子（渡部恵子））"
+
+[[discs.tracks]]
+title = "Black★Party"
+artist = "TRICK&TREAT（北上麗花（平山笑美）、野々原茜（小笠原早紀））"
+
+[[discs.tracks]]
+title = "深紅のパシオン"
+artist = "chicAAmor（高山紗代子（駒形友梨）、豊川風花（末柄里恵）、ジュリア（愛美）、二階堂千鶴（野村香菜子））"
+
+[[discs.tracks]]
+title = "ReTale"
+artist = "≡君彩≡（所恵美（藤井ゆきよ）、松田亜利沙（村川梨衣）、矢吹可奈（木戸衣吹））"
+
+[[discs.tracks]]
+title = "フリースタイル・トップアイドル！"
+artist = "ARMooo（双海真美（下田麻美）、秋月律子（若林直美）、双海亜美（下田麻美））"
+
+[[discs.tracks]]
+title = "Absolute Run!!!"
+artist = "ストロベリーポップムーン（春日未来（山崎はるか）、最上静香（田所あずさ）、伊吹翼（Machico））"
+
+[[discs]]
+catalog = "LACA-9968"
+
+[[discs.tracks]]
+title = "創造は始まりの風を連れて"
+artist = "七尾百合子（伊藤美来）、天空橋朋花（小岩井ことり）、箱崎星梨花（麻倉もも）、松田亜利沙（村川梨衣）、ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "俠気乱舞"
+artist = "ジュリア（愛美）、周防桃子（渡部恵子）、大神環（稲川英里）、木下ひなた（田村奈央）、福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "赤い世界が消える頃"
+artist = "佐竹美奈子（大関英里）、篠宮可憐（近藤唯）、真壁瑞希（阿部里果）、北上麗花（平山笑美）、矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "ビッグバンズバリボー!!!!!"
+artist = "高坂海美（上田麗奈）、所恵美（藤井ゆきよ）、高山紗代子（駒形友梨）、豊川風花（末柄里恵）、横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "オーディナリィ・クローバー"
+artist = "桜守歌織（香里有佐）、最上静香（田所あずさ）、望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "ラスト・アクトレス"
+artist = "田中琴葉（種田梨沙）、周防桃子（渡部恵子）、馬場このみ（髙橋ミナミ）、真壁瑞希（阿部里果）、白石紬（南早紀）"
+
+[[discs.tracks]]
+title = "Girl meets Wonder"
+artist = "箱崎星梨花（麻倉もも）、周防桃子（渡部恵子）、徳川まつり（諏訪彩花）、我那覇響（沼倉愛美）、永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "World Changer"
+artist = "如月千早（今井麻美）、星井美希（長谷川明子）、エミリー スチュアート（郁原ゆう）、菊地真（平田宏美）、天海春香（中村繪里子）"
+
+[[discs.tracks]]
+title = "クルリウタ"
+artist = "野々原茜（小笠原早紀）、島原エレナ（角元明日香）、桜守歌織（香里有佐）、二階堂千鶴（野村香菜子）、北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "アライアンス・スターダスト"
+artist = "ZWEIGLANZ（玲音（茅原実里）、詩花（高橋李依））"
+
+[[discs.tracks]]
+title = "Shine My Way"
+artist = "ZWEIGLANZ（玲音（茅原実里）、詩花（高橋李依））"
+
+[[discs.tracks]]
+title = "カーテシーフラワー"
+artist = "高坂海美（上田麗奈）、三浦あずさ（たかはし智秋）、中谷育（原嶋あかり）"
+
+[[discs.tracks]]
+title = "聖ミリオン女学園校歌"
+artist = "永吉昴（斉藤佑圭）、如月千早（今井麻美）、篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "花びらメモリーズ"
+artist = "白石紬（南早紀）、佐竹美奈子（大関英里）、周防桃子（渡部恵子）、所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "U・N・M・E・I ライブ"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "ターンオンタイム！"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"
+
+[[discs.tracks]]
+title = "ENDLESS TOUR"
+artist = "春日未来（山崎はるか）、最上静香（田所あずさ）、箱崎星梨花（麻倉もも）"

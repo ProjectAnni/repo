@@ -1,0 +1,271 @@
+[album]
+album_id = "dde64412-971c-4e2c-984a-daa5c41d2a2d"
+title = "THE IDOLM@STER LIVE THE@TER BEST"
+artist = "Various Artists"
+date = 2023-03-22
+type = "normal"
+catalog = "LACA-9961~5"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LACA-9961"
+
+[[discs.tracks]]
+title = "Legend Girls!!"
+artist = "天海春香（中村繪里子）、天空橋朋花（小岩井ことり）、七尾百合子（伊藤美来）、箱崎星梨花（麻倉もも）、最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "PRETTY DREAMER"
+artist = "我那覇響（沼倉愛美）、春日未来（山崎はるか）、豊川風花（末柄里恵）、望月杏奈（夏川椎菜）、横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "Blue Symphony"
+artist = "如月千早（今井麻美）、北沢志保（雨宮天）、田中琴葉（種田梨沙）、所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "Sentimental Venus"
+artist = "水瀬伊織（釘宮理恵）、エミリー スチュアート（郁原ゆう）、百瀬莉緒（山口立花子）、真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "Marionetteは眠らない"
+artist = "星井美希（長谷川明子）、伊吹翼（Machico）、北上麗花（平山笑美）、ジュリア（愛美）"
+
+[[discs.tracks]]
+title = "カワラナイモノ"
+artist = "三浦あずさ（たかはし智秋）、篠宮可憐（近藤唯）、髙山紗代子（駒形友梨）、福田のり子（浜崎奈々）"
+
+[[discs.tracks]]
+title = "Good-Sleep, Baby♡"
+artist = "高槻やよい（仁後真耶子）、大神環（稲川英里）、中谷育（原嶋あかり）、矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "Helloコンチェルト"
+artist = "秋月律子（若林直美）、木下ひなた（田村奈央）、佐竹美奈子（大関英里）、松田亜利沙（村川梨衣）"
+
+[[discs.tracks]]
+title = "瞳の中のシリウス"
+artist = "四条貴音（原由実）、高坂海美（上田麗奈）、徳川まつり（諏訪彩花）、宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "Fu-Wa-Du-Wa"
+artist = "菊地真（平田宏美）、双海真美（下田麻美）、島原エレナ（角元明日香）、舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "ココロがかえる場所"
+artist = "萩原雪歩（浅倉杏美）、周防桃子（渡部恵子）、二階堂千鶴（野村香菜子）、ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "Bigバルーン◎"
+artist = "双海亜美（下田麻美）、永吉昴（斉藤佑圭）、野々原茜（小笠原早紀）、馬場このみ（髙橋ミナミ）"
+
+[[discs]]
+catalog = "LACA-9962"
+
+[[discs.tracks]]
+title = "合言葉はスタートアップ！"
+artist = "レジェンドデイズ（我那覇響（沼倉愛美）、秋月律子（若林直美）、高槻やよい（仁後真耶子）、双海亜美（下田麻美）、水瀬伊織（釘宮理恵））"
+
+[[discs.tracks]]
+title = "Growing Storm!"
+artist = "乙女ストーム！（春日未来（山崎はるか）、伊吹翼（Machico）、七尾百合子（伊藤美来）、真壁瑞希（阿部里果）、望月杏奈（夏川椎菜））"
+
+[[discs.tracks]]
+title = "Shooting Stars"
+artist = "クレシェンドブルー（最上静香（田所あずさ）、北上麗花（平山笑美）、北沢志保（雨宮天）、野々原茜（小笠原早紀）、箱崎星梨花（麻倉もも））"
+
+[[discs.tracks]]
+title = "Eternal Harmony"
+artist = "エターナルハーモニー（如月千早（今井麻美）、エミリー スチュアート（郁原ゆう）、ジュリア（愛美）、徳川まつり（諏訪彩花）、豊川風花（末柄里恵））"
+
+[[discs.tracks]]
+title = "HOME, SWEET FRIENDSHIP"
+artist = "リコッタ（天海春香（中村繪里子）、周防桃子（渡部恵子）、福田のり子（浜崎奈々）、松田亜利沙（村川梨衣）、横山奈緒（渡部優衣））"
+
+[[discs.tracks]]
+title = "ジレるハートに火をつけて"
+artist = "灼熱少女(バーニングガール)（田中琴葉（種田梨沙）、大神環（稲川英里）、高坂海美（上田麗奈）、所恵美（藤井ゆきよ）、宮尾美也（桐谷蝶々））"
+
+[[discs.tracks]]
+title = "Birth of Color"
+artist = "BIRTH（菊地真（平田宏美）、萩原雪歩（浅倉杏美）、舞浜歩（戸田めぐみ）、三浦あずさ（たかはし智秋）、矢吹可奈（木戸衣吹））"
+
+[[discs.tracks]]
+title = "ドリームトラベラー"
+artist = "ミックスナッツ（馬場このみ（髙橋ミナミ）、木下ひなた（田村奈央）、佐竹美奈子（大関英里）、中谷育（原嶋あかり）、双海真美（下田麻美））"
+
+[[discs.tracks]]
+title = "星屑のシンフォニア"
+artist = "ミルキーウェイ（星井美希（長谷川明子）、高山紗代子（駒形友梨）、天空橋朋花（小岩井ことり）、永吉昴（斉藤佑圭）、二階堂千鶴（野村香菜子））"
+
+[[discs.tracks]]
+title = "STANDING ALIVE"
+artist = "ARRIVE（篠宮可憐（近藤唯）、四条貴音（原由実）、島原エレナ（角元明日香）、百瀬莉緒（山口立花子）、ロコ（中村温姫））"
+
+[[discs]]
+catalog = "LACA-9963"
+
+[[discs.tracks]]
+title = "ハルカナミライ"
+artist = "天海春香（中村繪里子）、春日未来（山崎はるか）"
+
+[[discs.tracks]]
+title = "成長Chu→LOVER!!"
+artist = "望月杏奈（夏川椎菜）、七尾百合子（伊藤美来）"
+
+[[discs.tracks]]
+title = "エスケープ"
+artist = "ジュリア（愛美）、所恵美（藤井ゆきよ）"
+
+[[discs.tracks]]
+title = "Eternal Spiral"
+artist = "高槻やよい（仁後真耶子）、矢吹可奈（木戸衣吹）"
+
+[[discs.tracks]]
+title = "piece of cake"
+artist = "北上麗花（平山笑美）、北沢志保（雨宮天）"
+
+[[discs.tracks]]
+title = "アライブファクター"
+artist = "如月千早（今井麻美）、最上静香（田所あずさ）"
+
+[[discs.tracks]]
+title = "Persona Voice"
+artist = "二階堂千鶴（野村香菜子）、萩原雪歩（浅倉杏美）"
+
+[[discs.tracks]]
+title = "Cut. Cut. Cut."
+artist = "周防桃子（渡部恵子）、真壁瑞希（阿部里果）"
+
+[[discs.tracks]]
+title = "Smiling Crescent"
+artist = "箱崎星梨花（麻倉もも）、宮尾美也（桐谷蝶々）"
+
+[[discs.tracks]]
+title = "Decided"
+artist = "徳川まつり（諏訪彩花）、馬場このみ（髙橋ミナミ）"
+
+[[discs.tracks]]
+title = "深層マーメイド"
+artist = "伊吹翼（Machico）、我那覇響（沼倉愛美）"
+
+[[discs.tracks]]
+title = "HELLO, YOUR ANGEL♪"
+artist = "天空橋朋花（小岩井ことり）、中谷育（原嶋あかり）"
+
+[[discs]]
+catalog = "LACA-9964"
+
+[[discs.tracks]]
+title = "G♡F"
+artist = "秋月律子（若林直美）、篠宮可憐（近藤唯）"
+
+[[discs.tracks]]
+title = "little trip around the world"
+artist = "エミリー スチュアート（郁原ゆう）、水瀬伊織（釘宮理恵）"
+
+[[discs.tracks]]
+title = "Melody in scape"
+artist = "佐竹美奈子（大関英里）、高山紗代子（駒形友梨）"
+
+[[discs.tracks]]
+title = '"Your" HOME TOWN'
+artist = "木下ひなた（田村奈央）、双海亜美（下田麻美）"
+
+[[discs.tracks]]
+title = "fruity love"
+artist = "野々原茜（小笠原早紀）、ロコ（中村温姫）"
+
+[[discs.tracks]]
+title = "夜に輝く星座のように"
+artist = "松田亜利沙（村川梨衣）、横山奈緒（渡部優衣）"
+
+[[discs.tracks]]
+title = "秘密のメモリーズ"
+artist = "四条貴音（原由実）、豊川風花（末柄里恵）"
+
+[[discs.tracks]]
+title = "たしかな足跡"
+artist = "三浦あずさ（たかはし智秋）、百瀬莉緒（山口立花子）"
+
+[[discs.tracks]]
+title = "Understand? Understand!"
+artist = "高坂海美（上田麗奈）、田中琴葉（種田梨沙）"
+
+[[discs.tracks]]
+title = "ジャングル☆パーティー"
+artist = "大神環（稲川英里）、双海真美（下田麻美）"
+
+[[discs.tracks]]
+title = "Beat the World!!!"
+artist = "菊地真（平田宏美）、舞浜歩（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "Emergence Vibe"
+artist = "島原エレナ（角元明日香）、星井美希（長谷川明子）"
+
+[[discs.tracks]]
+title = "Dreamscape"
+artist = "永吉昴（斉藤佑圭）、福田のり子（浜崎奈々）"
+
+[[discs]]
+catalog = "LACA-9965"
+
+[[discs.tracks]]
+title = "ランニング・ハイッ"
+artist = "キャンサー（エミリー スチュアート（郁原ゆう）、木下ひなた（田村奈央）、横山奈緒（渡部優衣））"
+
+[[discs.tracks]]
+title = "ゲキテキ！ムテキ！恋したい！"
+artist = "レオ（島原エレナ（角元明日香）、中谷育（原嶋あかり）、ロコ（中村温姫））"
+
+[[discs.tracks]]
+title = "Bonnes! Bonnes!! Vacances!!!"
+artist = "リブラ（伊吹翼（Machico）、佐竹美奈子（大関英里）、福田のり子（浜崎奈々））"
+
+[[discs.tracks]]
+title = "NO CURRY NO LIFE"
+artist = "カプリコーン（望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、矢吹可奈（木戸衣吹））"
+
+[[discs.tracks]]
+title = "サンリズム・オーケストラ♪ (Brand New Ver.)"
+artist = "Sunshine Rhythm（伊吹翼（Machico）、エミリー スチュアート（郁原ゆう）、木下ひなた（田村奈央）、桜守歌織（香里有佐）、佐竹美奈子（大関英里）、島原エレナ（角元明日香）、中谷育（原嶋あかり）、福田のり子（浜崎奈々）、望月杏奈（夏川椎菜）、百瀬莉緒（山口立花子）、矢吹可奈（木戸衣吹）、横山奈緒（渡部優衣）、ロコ（中村温姫））"
+
+[[discs.tracks]]
+title = "Raise the FLAG"
+artist = "サジタリアス（所恵美（藤井ゆきよ）、舞浜歩（戸田めぐみ）、真壁瑞希（阿部里果））"
+
+[[discs.tracks]]
+title = "P.S I Love You"
+artist = "ピスケス（篠宮可憐（近藤唯）、天空橋朋花（小岩井ことり）、二階堂千鶴（野村香菜子））"
+
+[[discs.tracks]]
+title = "プリムラ"
+artist = "ウィルゴ（永吉昴（斉藤佑圭）、七尾百合子（伊藤美来）、最上静香（田所あずさ））"
+
+[[discs.tracks]]
+title = "待ちぼうけのLacrima"
+artist = "アクアリウス（北上麗花（平山笑美）、ジュリア（愛美）、高山紗代子（駒形友梨））"
+
+[[discs.tracks]]
+title = "brave HARMONY (Brand New Ver.)"
+artist = "BlueMoon Harmony（最上静香（田所あずさ）、北上麗花（平山笑美）、篠宮可憐（近藤唯）、ジュリア（愛美）、白石紬（南早紀）、髙山紗代子（駒形友梨）、天空橋朋花（小岩井ことり）、所恵美（藤井ゆきよ）、永吉昴（斉藤佑圭）、七尾百合子（伊藤美来）、二階堂千鶴（野村香菜子）、舞浜歩（戸田めぐみ）、真壁瑞希（阿部里果））"
+
+[[discs.tracks]]
+title = "リフレインキス (Brand New Ver.)"
+artist = "スコーピオ（北沢志保（雨宮天）、高坂海美（上田麗奈）、田中琴葉（種田梨沙）、松田亜利沙（村川梨衣））"
+
+[[discs.tracks]]
+title = "Sweet Sweet Soul"
+artist = "アリエス（大神環（稲川英里）、野々原茜（小笠原早紀）、箱崎星梨花（麻倉もも））"
+
+[[discs.tracks]]
+title = "メメント？モメント♪ルルルルル☆"
+artist = "タウラス（春日未来（山崎はるか）、徳川まつり（諏訪彩花）、宮尾美也（桐谷蝶々））"
+
+[[discs.tracks]]
+title = "永遠の花"
+artist = "ジェミニ（周防桃子（渡部恵子）、豊川風花（末柄里恵）、馬場このみ（髙橋ミナミ））"
+
+[[discs.tracks]]
+title = "Starry Melody (Brand New Ver.)"
+artist = "Starlight Melody（春日未来（山崎はるか）、大神環（稲川英里）、北沢志保（雨宮天）、高坂海美（上田麗奈）、周防桃子（渡部恵子）、徳川まつり（諏訪彩花）、豊川風花（末柄里恵）、野々原茜（小笠原早紀）、箱崎星梨花（麻倉もも）、馬場このみ（髙橋ミナミ）、松田亜利沙（村川梨衣）、宮尾美也（桐谷蝶々）、田中琴葉（種田梨沙））"
