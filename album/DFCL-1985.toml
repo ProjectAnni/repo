@@ -20,7 +20,9 @@ title = "星の消えた夜に"
 title = "今日から思い出"
 
 [[discs.tracks]]
-title = "RE:I AM(instrumental)"
+title = "RE:I AM (instrumental)"
+type = "instrumental"
 
 [[discs.tracks]]
-title = "星の消えた夜に(instrumental)"
+title = "星の消えた夜に (instrumental)"
+type = "instrumental"
