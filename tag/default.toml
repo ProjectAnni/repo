@@ -476,7 +476,10 @@ type = "group"
 [[tag]]
 name = "櫻坂46"
 type = "group"
-includes = ["group: 欅坂46"]
+
+[[tag]]
+name = "欅坂46"
+type = "group"
 
 ################################################################################
 # Animation
