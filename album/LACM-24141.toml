@@ -1,0 +1,38 @@
+[album]
+album_id = "3d964042-57ef-44cc-9f79-df1e7849704a"
+title = "未来予報ハレルヤ!／Tiny Stars"
+edition = "第1話盤"
+artist = "Liella!（唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、澁谷かのん（伊達さゆり）、葉月恋（青山なぎさ））"
+date = 2021-08-25
+type = "normal"
+catalog = "LACM-24141"
+tags = [
+    "Liella!",
+    "ラブライブ！スーパースター!!",
+]
+
+[[discs]]
+catalog = "LACM-24141"
+
+[[discs.tracks]]
+title = "未来予報ハレルヤ！"
+
+[[discs.tracks]]
+title = "Tiny Stars"
+artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）"
+
+[[discs.tracks]]
+title = "GOING UP"
+
+[[discs.tracks]]
+title = "未来予報ハレルヤ！(Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Tiny Stars (Off Vocal)"
+artist = "澁谷かのん（伊達さゆり）、唐可可（Liyuu）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "GOING UP (Off Vocal)"
+type = "instrumental"

@@ -1,0 +1,58 @@
+[album]
+album_id = "96b796f8-a37d-49a5-a88c-160c91126167"
+title = "始まりは君の空"
+edition = "私を叶える物語盤"
+artist = "Liella!（澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、葉月恋（青山なぎさ））"
+date = 2021-04-07
+type = "normal"
+catalog = "LACM-24101"
+tags = ["Liella!"]
+
+[[discs]]
+catalog = "LACM-24101"
+
+[[discs.tracks]]
+title = "始まりは君の空"
+
+[[discs.tracks]]
+title = "Dancing Heart La-Pa-Pa-Pa!"
+
+[[discs.tracks]]
+title = "私のSymphony"
+
+[[discs.tracks]]
+title = "始まりは君の空 (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Dancing Heart La-Pa-Pa-Pa! (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "私のSymphony (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "こんにちは！～澁谷かのん～"
+artist = "澁谷かのん（伊達さゆり）"
+type = "drama"
+
+[[discs.tracks]]
+title = "どうも！～唐可可～"
+artist = "唐可可（Liyuu）"
+type = "drama"
+
+[[discs.tracks]]
+title = "うぃーっす！～嵐千砂都～"
+artist = "嵐千砂都（岬なこ）"
+type = "drama"
+
+[[discs.tracks]]
+title = "お待たせしました！～平安名すみれ～"
+artist = "平安名すみれ（ペイトン尚未）"
+type = "drama"
+
+[[discs.tracks]]
+title = "はじめまして。～葉月恋～"
+artist = "葉月恋（青山なぎさ）"
+type = "drama"

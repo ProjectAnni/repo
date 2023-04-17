@@ -1,0 +1,28 @@
+[album]
+album_id = "29112352-87f7-40af-a6e1-bb8b31f59f2b"
+title = "START!! True dreams"
+artist = "Liella!（澁谷かのん（伊達さゆり）、唐可可（Liyuu）、嵐千砂都（岬なこ）、平安名すみれ（ペイトン尚未）、葉月恋（青山なぎさ））"
+date = 2021-07-21
+type = "normal"
+catalog = "LACM-24140"
+tags = [
+    "Liella!",
+    "ラブライブ！スーパースター!!",
+]
+
+[[discs]]
+catalog = "LACM-24140"
+
+[[discs.tracks]]
+title = "START!! True dreams"
+
+[[discs.tracks]]
+title = "だから僕らは鳴らすんだ！"
+
+[[discs.tracks]]
+title = "START!! True dreams (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "だから僕らは鳴らすんだ！(Off Vocal)"
+type = "instrumental"
