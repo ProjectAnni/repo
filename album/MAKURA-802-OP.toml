@@ -4,11 +4,11 @@ title = "サクラノ刻 -櫻の森の下を歩む- OPフルアレンジCD"
 artist = "Luna"
 date = 2023-02-24
 type = "normal"
-catalog = "@SAKURANOTOKI-01"
+catalog = "MAKURA-802-OP"
 tags = ["サクラノ刻 -櫻の森の下を歩む-"]
 
 [[discs]]
-catalog = "@SAKURANOTOKI-01"
+catalog = "MAKURA-802-OP"
 
 [[discs.tracks]]
 title = "刻ト詩 ピアノアレンジ"
