@@ -1,0 +1,114 @@
+[album]
+album_id = "ec0c1987-1b73-4de4-87db-9a873b4c2466"
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -5thLIVE If I_wings. part1-"
+artist = "シャイニーカラーズ"
+date = 2023-03-18
+type = "normal"
+catalog = "LACZ-10141~2"
+tags = ["THE IDOLM@STER SHINY COLORS SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10141"
+
+[[discs.tracks]]
+title = "FELICE（櫻木真乃Ver.）"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "FELICE（風野灯織Ver.）"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "FELICE（八宮めぐるVer.）"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（月岡恋鐘Ver.）"
+artist = "月岡恋鐘（礒部花凜）"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（田中摩美々Ver.）"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（白瀬咲耶Ver.）"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（三峰結華Ver.）"
+artist = "三峰結華（希水しお）"
+
+[[discs.tracks]]
+title = "浮動性イノセンス（幽谷霧子Ver.）"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "一閃は君が導く（小宮果穂Ver.）"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "一閃は君が導く（園田智代子Ver.）"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "一閃は君が導く（西城樹里Ver.）"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "一閃は君が導く（杜野凛世Ver.）"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "一閃は君が導く（有栖川夏葉Ver.）"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs]]
+catalog = "LACZ-10142"
+
+[[discs.tracks]]
+title = "VERY BERRY LOVE（大崎甘奈Ver.）"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "VERY BERRY LOVE（大崎甜花Ver.）"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "VERY BERRY LOVE（桑山千雪Ver.）"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "Tracing Defender（芹沢あさひVer.）"
+artist = "芹沢あさひ（田中有紀）"
+
+[[discs.tracks]]
+title = "Tracing Defender（黛 冬優子Ver.）"
+artist = "黛 冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "Tracing Defender（和泉愛依Ver.）"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "Catch the Breeze（浅倉 透Ver.）"
+artist = "浅倉 透（和久井優）"
+
+[[discs.tracks]]
+title = "Catch the Breeze（樋口円香Ver.）"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "Catch the Breeze（福丸小糸Ver.）"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "Catch the Breeze（市川雛菜Ver.）"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "Fashionable（七草にちかVer.）"
+artist = "七草にちか（紫月杏朱彩）"
+
+[[discs.tracks]]
+title = "Fashionable（緋田美琴Ver.）"
+artist = "緋田美琴（山根綺）"

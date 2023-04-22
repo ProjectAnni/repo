@@ -1,0 +1,114 @@
+[album]
+album_id = "e85020a2-eac5-4826-821c-05f42841d933"
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -5thLIVE If I_wings. Part2-"
+artist = "シャイニーカラーズ"
+date = 2023-03-18
+type = "normal"
+catalog = "LACZ-10143~4"
+tags = ["THE IDOLM@STER SHINY COLORS SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10143"
+
+[[discs.tracks]]
+title = "イルミネイトコンサート（櫻木真乃Ver.）"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "イルミネイトコンサート（風野灯織Ver.）"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "イルミネイトコンサート（八宮めぐるVer.）"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "愚者の独白（月岡恋鐘Ver.）"
+artist = "月岡恋鐘（礒部花凜）"
+
+[[discs.tracks]]
+title = "愚者の独白（田中摩美々Ver.）"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "愚者の独白（白瀬咲耶Ver.）"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "愚者の独白（三峰結華Ver.）"
+artist = "三峰結華（希水しお）"
+
+[[discs.tracks]]
+title = "愚者の独白（幽谷霧子Ver.）"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "キャットスクワッド（小宮果穂Ver.）"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "キャットスクワッド（園田智代子Ver.）"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "キャットスクワッド（西城樹里Ver.）"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "キャットスクワッド（杜野凛世Ver.）"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "キャットスクワッド（有栖川夏葉Ver.）"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs]]
+catalog = "LACZ-10144"
+
+[[discs.tracks]]
+title = "Give me some more...（大崎甘奈Ver.）"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "Give me some more...（大崎甜花Ver.）"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "Give me some more...（桑山千雪Ver.）"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "Overdrive Emotion（芹沢あさひVer.）"
+artist = "芹沢あさひ（田中有紀）"
+
+[[discs.tracks]]
+title = "Overdrive Emotion（黛 冬優子Ver.）"
+artist = "黛 冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "Overdrive Emotion（和泉愛依Ver.）"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして（浅倉 透Ver.）"
+artist = "浅倉 透（和久井優）"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして（樋口円香Ver.）"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして（福丸小糸Ver.）"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "アスファルトを鳴らして（市川雛菜Ver.）"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "Bouncy Girl（七草にちかVer.）"
+artist = "七草にちか（紫月杏朱彩）"
+
+[[discs.tracks]]
+title = "Bouncy Girl（緋田美琴Ver.）"
+artist = "緋田美琴（山根綺）"

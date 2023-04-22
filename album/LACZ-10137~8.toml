@@ -1,0 +1,114 @@
+[album]
+album_id = "7f0583d3-dd8e-4c62-92a5-c30fa549cdb5"
+title = "THE IDOLM@STER SHINY COLORS SOLO COLLECTION -M@STERS OF IDOL WORLD!!!!! 2023-"
+artist = "シャイニーカラーズ"
+date = 2023-02-11
+type = "normal"
+catalog = "LACZ-10137~8"
+tags = ["THE IDOLM@STER SHINY COLORS SOLO COLLECTION"]
+
+[[discs]]
+catalog = "LACZ-10137"
+
+[[discs.tracks]]
+title = "Let's get a chance（櫻木真乃Ver.）"
+artist = "櫻木真乃（関根瞳）"
+
+[[discs.tracks]]
+title = "Let's get a chance（風野灯織Ver.）"
+artist = "風野灯織（近藤玲奈）"
+
+[[discs.tracks]]
+title = "Let's get a chance（八宮めぐるVer.）"
+artist = "八宮めぐる（峯田茉優）"
+
+[[discs.tracks]]
+title = "Let's get a chance（月岡恋鐘Ver.）"
+artist = "月岡恋鐘（礒部花凜）"
+
+[[discs.tracks]]
+title = "Let's get a chance（田中摩美々Ver.）"
+artist = "田中摩美々（菅沼千紗）"
+
+[[discs.tracks]]
+title = "Let's get a chance（白瀬咲耶Ver.）"
+artist = "白瀬咲耶（八巻アンナ）"
+
+[[discs.tracks]]
+title = "Let's get a chance（三峰結華Ver.）"
+artist = "三峰結華（希水しお）"
+
+[[discs.tracks]]
+title = "Let's get a chance（幽谷霧子Ver.）"
+artist = "幽谷霧子（結名美月）"
+
+[[discs.tracks]]
+title = "Let's get a chance（小宮果穂Ver.）"
+artist = "小宮果穂（河野ひより）"
+
+[[discs.tracks]]
+title = "Let's get a chance（園田智代子Ver.）"
+artist = "園田智代子（白石晴香）"
+
+[[discs.tracks]]
+title = "Let's get a chance（西城樹里Ver.）"
+artist = "西城樹里（永井真里子）"
+
+[[discs.tracks]]
+title = "Let's get a chance（杜野凛世Ver.）"
+artist = "杜野凛世（丸岡和佳奈）"
+
+[[discs.tracks]]
+title = "Let's get a chance（有栖川夏葉Ver.）"
+artist = "有栖川夏葉（涼本あきほ）"
+
+[[discs]]
+catalog = "LACZ-10138"
+
+[[discs.tracks]]
+title = "Let's get a chance（大崎甘奈Ver.）"
+artist = "大崎甘奈（黒木ほの香）"
+
+[[discs.tracks]]
+title = "Let's get a chance（大崎甜花Ver.）"
+artist = "大崎甜花（前川涼子）"
+
+[[discs.tracks]]
+title = "Let's get a chance（桑山千雪Ver.）"
+artist = "桑山千雪（芝崎典子）"
+
+[[discs.tracks]]
+title = "Let's get a chance（芹沢あさひVer.）"
+artist = "芹沢あさひ（田中有紀）"
+
+[[discs.tracks]]
+title = "Let's get a chance（黛冬優子Ver.）"
+artist = "黛冬優子（幸村恵理）"
+
+[[discs.tracks]]
+title = "Let's get a chance（和泉愛依Ver.）"
+artist = "和泉愛依（北原沙弥香）"
+
+[[discs.tracks]]
+title = "Let's get a chance（浅倉透Ver.）"
+artist = "浅倉透（和久井優）"
+
+[[discs.tracks]]
+title = "Let's get a chance（樋口円香Ver.）"
+artist = "樋口円香（土屋李央）"
+
+[[discs.tracks]]
+title = "Let's get a chance（福丸小糸Ver.）"
+artist = "福丸小糸（田嶌紗蘭）"
+
+[[discs.tracks]]
+title = "Let's get a chance（市川雛菜Ver.）"
+artist = "市川雛菜（岡咲美保）"
+
+[[discs.tracks]]
+title = "Let's get a chance（七草にちかVer.）"
+artist = "七草にちか（紫月杏朱彩）"
+
+[[discs.tracks]]
+title = "Let's get a chance（緋田美琴Ver.）"
+artist = "緋田美琴（山根綺）"

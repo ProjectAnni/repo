@@ -1,0 +1,41 @@
+[album]
+album_id = "afef6dfe-9c12-426b-b8a7-c6cf8c362e50"
+title = "THE IDOLM@STER 765 MILLION ALLSTARS BEST"
+artist = "765 MILLION ALLSTARS"
+date = 2023-03-22
+type = "normal"
+catalog = "LACA-25043"
+tags = ["THE IDOLM@STER MILLION LIVE"]
+
+[[discs]]
+catalog = "LACA-25043"
+
+[[discs.tracks]]
+title = "Thank You! (765 MILLION ALLSTARS ver.)"
+
+[[discs.tracks]]
+title = "Welcome!! (765 MILLION ALLSTARS ver.)"
+
+[[discs.tracks]]
+title = "Dreaming! (765 MILLION ALLSTARS ver.)"
+
+[[discs.tracks]]
+title = "Brand New Theater!"
+
+[[discs.tracks]]
+title = "UNION!!"
+
+[[discs.tracks]]
+title = "Flyers!!!"
+
+[[discs.tracks]]
+title = "Glow Map"
+
+[[discs.tracks]]
+title = "Harmony 4 You"
+
+[[discs.tracks]]
+title = "夢にかけるRainbow (Brand New Ver.)"
+
+[[discs.tracks]]
+title = "Crossing!"

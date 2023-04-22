@@ -1,0 +1,29 @@
+[album]
+album_id = "1380241d-1d62-450d-91f3-bc9d3cd42e6f"
+title = "かすかでたしか"
+edition = "初回限定盤"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2023-03-22
+type = "normal"
+catalog = "PCCG-2217"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "PCCG-2217"
+
+[[discs.tracks]]
+title = "かすかでたしか"
+
+[[discs.tracks]]
+title = "まるっとジブン時代"
+
+[[discs.tracks]]
+title = "かすかでたしか（TV Size Ver.）"
+
+[[discs.tracks]]
+title = "かすかでたしか（Instrumental）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "まるっとジブン時代（Instrumental）"
+type = "instrumental"
