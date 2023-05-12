@@ -1,0 +1,29 @@
+[album]
+album_id = "1df36fe9-33ff-41c4-8388-8dc30d7b7f37"
+title = "ワールドワイドワンダー／メタモリボン"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、KAITO、鏡音リン"
+date = 2023-05-10
+type = "normal"
+catalog = "BRMM-10625"
+tags = ["MORE MORE JUMP！"]
+
+[[discs]]
+catalog = "BRMM-10625"
+
+[[discs.tracks]]
+title = "ワールドワイドワンダー"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、KAITO"
+
+[[discs.tracks]]
+title = "メタモリボン"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、鏡音リン"
+
+[[discs.tracks]]
+title = "ワールドワイドワンダー -instrumental-"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、KAITO"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "メタモリボン -instrumental-"
+artist = "MORE MORE JUMP！（花里みのり（小倉唯）、桐谷遥（吉岡茉祐）、桃井愛莉（降幡愛）、日野森雫（本泉莉奈））、鏡音リン"
+type = "instrumental"

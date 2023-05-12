@@ -1,0 +1,36 @@
+[album]
+album_id = "562a9a25-de64-44fb-8cc9-07ba87163a16"
+title = "THE IDOLM@STER SHINY COLORS “CANVAS” 01"
+artist = "イルミネーションスターズ（櫻木真乃（関根瞳）、風野灯織（近藤玲奈）、八宮めぐる（峯田茉優））"
+date = 2023-04-12
+type = "normal"
+catalog = "LACM-24361"
+tags = ["THE IDOLM@STER SHINY COLORS “CANVAS”"]
+
+[[discs]]
+catalog = "LACM-24361"
+
+[[discs.tracks]]
+title = "Forward March！！！"
+
+[[discs.tracks]]
+title = "星が流れて"
+
+[[discs.tracks]]
+title = "BRIGHTEST WHITE"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「束ねて、紡ぎ」"
+type = "drama"
+
+[[discs.tracks]]
+title = "Forward March！！！ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "星が流れて (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "BRIGHTEST WHITE (Off Vocal)"
+type = "instrumental"

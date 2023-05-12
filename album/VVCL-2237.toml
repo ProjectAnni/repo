@@ -1,0 +1,31 @@
+[album]
+album_id = "ebf5d4e4-d7e7-4323-8e5c-714c57e609cf"
+title = "リンネ"
+artist = "ASCA"
+date = 2023-04-26
+type = "normal"
+catalog = "VVCL-2237"
+tags = ["ASCA"]
+
+[[discs]]
+catalog = "VVCL-2237"
+
+[[discs.tracks]]
+title = "リンネ"
+tags = ["EDENS ZERO", "ED"]
+
+[[discs.tracks]]
+title = "Real Dawn"
+
+[[discs.tracks]]
+title = "リンネ -Instrumental-"
+type = "instrumental"
+tags = ["EDENS ZERO", "ED"]
+
+[[discs.tracks]]
+title = "Real Dawn -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リンネ -TV Size-"
+tags = ["EDENS ZERO", "ED"]

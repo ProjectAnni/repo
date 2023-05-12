@@ -1208,6 +1208,21 @@ name = "すずめの戸締まり"
 names.zh-hans = "铃芽之旅"
 type = "animation"
 
+[[tag]]
+name = "魔法少女マジカルデストロイヤーズ"
+names.zh-hans = "魔法少女毁灭者"
+type = "animation"
+
+[[tag]]
+name = "EDENS ZERO"
+names.zh-hans = "伊甸星原"
+type = "animation"
+
+[[tag]]
+name = "王様ランキング 勇気の宝箱"
+names.zh-hans = "王様ランキング 勇気の宝箱"
+type = "animation"
+
 ################################################################################
 # Game
 #
