@@ -1,0 +1,29 @@
+[album]
+album_id = "883781a9-ffe8-42b6-a5f4-d70995999858"
+title = "TVアニメ「NEW GAME!!」キャラクターソングCDシリーズ VOCAL STAGE 2"
+artist = "滝本ひふみ（山口愛）、遠山りん（茅野愛衣）"
+date = 2017-08-23
+type = "normal"
+catalog = "ZMCZ-11302"
+tags = ["NEW GAME!!"]
+
+[[discs]]
+catalog = "ZMCZ-11302"
+
+[[discs.tracks]]
+title = "こころメッセージ"
+artist = "滝本ひふみ（山口愛）"
+
+[[discs.tracks]]
+title = "ふたり空"
+artist = "遠山りん（茅野愛衣）"
+
+[[discs.tracks]]
+title = "こころメッセージ(instrumental)"
+artist = "滝本ひふみ（山口愛）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ふたり空(instrumental)"
+artist = "遠山りん（茅野愛衣）"
+type = "instrumental"

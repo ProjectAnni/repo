@@ -1,0 +1,27 @@
+[album]
+album_id = "73b0f7c2-01e2-4a12-8a80-770a42185bfe"
+title = "JUMPin’ JUMP UP!!!!"
+artist = "fourfolium（涼風青葉（高田憂希）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美））"
+date = 2017-07-26
+type = "normal"
+catalog = "ZMCZ-11296"
+tags = ["NEW GAME!!"]
+
+[[discs]]
+catalog = "ZMCZ-11296"
+
+[[discs.tracks]]
+title = "JUMPin’ JUMP UP!!!!"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ユメイロコンパス"
+
+[[discs.tracks]]
+title = "JUMPin’ JUMP UP!!!! (instrumental)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ユメイロコンパス (instrumental)"
+type = "instrumental"

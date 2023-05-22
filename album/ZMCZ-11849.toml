@@ -1,0 +1,43 @@
+[album]
+album_id = "b7cca746-423a-4062-9c93-65ee670b690d"
+title = "TVアニメ「NEW GAME!!」キャラクターソングミニアルバム「SINGin' SING UP♪♪♪♪」"
+artist = "涼風青葉（高田憂希）、滝本ひふみ（山口愛）、八神コウ（日笠陽子）、遠山りん（茅野愛衣）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美）"
+date = 2018-01-24
+type = "normal"
+catalog = "ZMCZ-11849"
+tags = ["NEW GAME!!"]
+
+[[discs]]
+catalog = "ZMCZ-11849"
+
+[[discs.tracks]]
+title = "春色Runway"
+artist = "涼風青葉（高田憂希）"
+
+[[discs.tracks]]
+title = "そうじろうのうた"
+artist = "滝本ひふみ（山口愛）"
+
+[[discs.tracks]]
+title = "Little Bitter Duet"
+artist = "八神コウ（日笠陽子）、遠山りん（茅野愛衣）"
+
+[[discs.tracks]]
+title = "ミラクル☆マジカル☆ムーンレンジャー"
+artist = "篠田はじめ（戸田めぐみ）、桜ねね（朝日奈丸佳）"
+
+[[discs.tracks]]
+title = "Sweet Everyday"
+artist = "飯島ゆん（竹尾歩美）"
+
+[[discs.tracks]]
+title = "いとしかなし月日よ"
+artist = "阿波根うみこ（森永千才）"
+
+[[discs.tracks]]
+title = "カラフル☆フュージョン"
+artist = "篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美）"
+
+[[discs.tracks]]
+title = "Dreaming Stars"
+artist = "涼風青葉（高田憂希）、滝本ひふみ（山口愛）"
