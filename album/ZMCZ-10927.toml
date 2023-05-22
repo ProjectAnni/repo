@@ -1,0 +1,33 @@
+[album]
+album_id = "9d2ef179-e716-421d-97c9-8ec26b5d2020"
+title = "TVアニメ「NEW GAME!」キャラクターソングミニアルバム「Now Singing♪♪♪♪」"
+artist = "fourfolium（涼風青葉（高田憂希）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美））"
+date = 2017-02-08
+type = "normal"
+catalog = "ZMCZ-10927"
+tags = ["NEW GAME!"]
+
+[[discs]]
+catalog = "ZMCZ-10927"
+
+[[discs.tracks]]
+title = "ググッとワーク☆彡"
+
+[[discs.tracks]]
+title = "向上上々ハイジャンプ↑↑↑↑"
+
+[[discs.tracks]]
+title = "CONTINUE...?"
+artist = "涼風青葉（高田憂希）"
+
+[[discs.tracks]]
+title = "ワタシConnect*"
+artist = "滝本ひふみ（山口愛）"
+
+[[discs.tracks]]
+title = "It's OK!!"
+artist = "篠田はじめ（戸田めぐみ）"
+
+[[discs.tracks]]
+title = "あめのちほしぞら"
+artist = "飯島ゆん（竹尾歩美）"

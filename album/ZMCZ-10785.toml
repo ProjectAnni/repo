@@ -1,0 +1,27 @@
+[album]
+album_id = "68644b5b-35a3-4eea-a837-320a4bd97222"
+title = "SAKURAスキップ"
+artist = "fourfolium（涼風青葉（高田憂希）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美））"
+date = 2016-07-27
+type = "normal"
+catalog = "ZMCZ-10785"
+tags = ["NEW GAME!"]
+
+[[discs]]
+catalog = "ZMCZ-10785"
+
+[[discs.tracks]]
+title = "SAKURAスキップ"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Shake!"
+
+[[discs.tracks]]
+title = "SAKURAスキップ (instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Shake! (instrumental)"
+type = "instrumental"

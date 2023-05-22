@@ -1,0 +1,29 @@
+[album]
+album_id = "57341075-6904-405b-8ed8-363c09f77e22"
+title = "TVアニメ「NEW GAME!」ドラマCD 2"
+artist = "涼風青葉（高田憂希）、八神コウ（日笠陽子）、遠山りん（茅野愛衣）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美）、桜ねね（朝日奈丸佳）、阿波根うみこ（森永千才）、葉月しずく（喜多村英梨）"
+date = 2016-09-28
+type = "drama"
+catalog = "MFCZ-1071"
+tags = ["NEW GAME!"]
+
+[[discs]]
+catalog = "MFCZ-1071"
+
+[[discs.tracks]]
+title = "Calling"
+
+[[discs.tracks]]
+title = "はじめての名刺交換"
+
+[[discs.tracks]]
+title = "出るまで回せ!"
+
+[[discs.tracks]]
+title = "お洋服を買いに"
+
+[[discs.tracks]]
+title = "業界であった怖い話"
+
+[[discs.tracks]]
+title = "もずくとみんな"

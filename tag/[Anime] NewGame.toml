@@ -1,0 +1,7 @@
+[[tag]]
+name = "NEW GAME"
+type = "project"
+includes = [
+    "animation: NEW GAME!",
+    "animation: NEW GAME!!",
+]

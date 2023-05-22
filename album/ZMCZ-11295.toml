@@ -1,0 +1,27 @@
+[album]
+album_id = "89462860-d51d-4aeb-bea5-06c7121a5279"
+title = "STEP by STEP UP↑↑↑↑"
+artist = "fourfolium（涼風青葉（高田憂希）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美））"
+date = 2017-07-26
+type = "normal"
+catalog = "ZMCZ-11295"
+tags = ["NEW GAME!!"]
+
+[[discs]]
+catalog = "ZMCZ-11295"
+
+[[discs.tracks]]
+title = "STEP by STEP UP↑↑↑↑"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ススメRunner!!"
+
+[[discs.tracks]]
+title = "STEP by STEP UP↑↑↑↑ (instrumental)"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "ススメRunner!! (instrumental)"
+type = "instrumental"

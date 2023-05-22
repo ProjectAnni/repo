@@ -1,0 +1,29 @@
+[album]
+album_id = "accf607d-0137-4d28-b995-87a4577ccba3"
+title = "TVアニメ「NEW GAME!!」キャラクターソングCDシリーズ VOCAL STAGE 4"
+artist = "飯島ゆん（竹尾歩美）、葉月しずく（喜多村英梨）"
+date = 2017-09-27
+type = "normal"
+catalog = "ZMCZ-11304"
+tags = ["NEW GAME!!"]
+
+[[discs]]
+catalog = "ZMCZ-11304"
+
+[[discs.tracks]]
+title = "Piece of Peace"
+artist = "飯島ゆん（竹尾歩美）"
+
+[[discs.tracks]]
+title = "YOU-TOPIA!"
+artist = "葉月しずく（喜多村英梨）"
+
+[[discs.tracks]]
+title = "Piece of Peace (instrumental)"
+artist = "飯島ゆん（竹尾歩美）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "YOU-TOPIA! (instrumental)"
+artist = "葉月しずく（喜多村英梨）"
+type = "instrumental"

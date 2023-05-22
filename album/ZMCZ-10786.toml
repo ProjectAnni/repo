@@ -1,0 +1,27 @@
+[album]
+album_id = "bf880159-fd62-4f67-a8cd-4fb0c21821b2"
+title = "Now Loading!!!!"
+artist = "fourfolium（涼風青葉（高田憂希）、滝本ひふみ（山口愛）、篠田はじめ（戸田めぐみ）、飯島ゆん（竹尾歩美））"
+date = 2016-07-27
+type = "normal"
+catalog = "ZMCZ-10786"
+tags = ["NEW GAME!"]
+
+[[discs]]
+catalog = "ZMCZ-10786"
+
+[[discs.tracks]]
+title = "Now Loading!!!!"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ほっしーの!"
+
+[[discs.tracks]]
+title = "Now Loading!!!! (instrumental)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "ほっしーの! (instrumental)"
+type = "instrumental"

@@ -1,0 +1,29 @@
+[album]
+album_id = "464a8e42-c4ab-442c-af31-07e2604b10ee"
+title = "TVアニメ「NEW GAME!」ドラマCD 1"
+artist = "涼風青葉（高田憂希）、八神コウ（日笠陽子）、遠山りん（茅野愛衣）、滝本ひふみ（山口愛）、飯島ゆん（竹尾歩美）、桜ねね（朝日奈丸佳）、阿波根うみこ（森永千才）、葉月しずく（喜多村英梨）"
+date = 2016-06-22
+type = "drama"
+catalog = "MFCZ-1070"
+tags = ["NEW GAME!"]
+
+[[discs]]
+catalog = "MFCZ-1070"
+
+[[discs.tracks]]
+title = "闇に集いしものたち"
+
+[[discs.tracks]]
+title = "ひふみの告白?"
+
+[[discs.tracks]]
+title = "青葉とコンビニ"
+
+[[discs.tracks]]
+title = "二人の朝"
+
+[[discs.tracks]]
+title = "箱入りの娘たち"
+
+[[discs.tracks]]
+title = "モーションアクター青葉"
