@@ -12,6 +12,7 @@ catalog = "ZMCZ-10785"
 
 [[discs.tracks]]
 title = "SAKURAスキップ"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "Shake!"
@@ -19,6 +20,7 @@ title = "Shake!"
 [[discs.tracks]]
 title = "SAKURAスキップ (instrumental)"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "Shake! (instrumental)"
