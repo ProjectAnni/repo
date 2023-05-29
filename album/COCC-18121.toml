@@ -1,0 +1,54 @@
+[album]
+album_id = "84085a48-a019-431c-abf3-f52f234b0f23"
+title = "THE IDOLM@STER CINDERELLA GIRLS U149 ANIMATION MASTER 01 Shine In The Sky☆"
+artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、櫻井桃華（照井春佳）、的場梨沙（集貝はな）、結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、龍崎薫（春瀬なつみ））"
+date = 2023-04-19
+type = "normal"
+catalog = "COCC-18121"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS U149"]
+
+[[discs]]
+catalog = "COCC-18121"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 橘ありすソロ・リミックス"
+artist = "橘ありす（佐藤亜美菜）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 櫻井桃華ソロ・リミックス"
+artist = "櫻井桃華（照井春佳）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 赤城みりあソロ・リミックス"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 的場梨沙ソロ・リミックス"
+artist = "的場梨沙（集貝はな）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 結城晴ソロ・リミックス"
+artist = "結城晴（小市眞琴）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 佐々木千枝ソロ・リミックス"
+artist = "佐々木千枝（今井麻夏）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 龍崎薫ソロ・リミックス"
+artist = "龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 市原仁奈ソロ・リミックス"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ 古賀小春ソロ・リミックス"
+artist = "古賀小春（小森結梨）"
+
+[[discs.tracks]]
+title = "Shine In The Sky☆ (オリジナル・カラオケ)"
+type = "instrumental"
