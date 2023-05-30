@@ -1,0 +1,44 @@
+[album]
+album_id = "0d10a870-90af-49a1-8531-fffb5305763a"
+title = "THE IDOLM@STER CINDERELLA GIRLS U149 ANIMATION MASTER 02 よりみちリトルスター"
+artist = "Various Artists"
+date = 2023-05-10
+type = "normal"
+catalog = "COCC-18122"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS U149"]
+
+[[discs]]
+catalog = "COCC-18122"
+
+[[discs.tracks]]
+title = "よりみちリトルスター"
+artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、櫻井桃華（照井春佳）、的場梨沙（集貝はな）、結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、龍崎薫（春瀬なつみ））"
+
+[[discs.tracks]]
+title = "きみにいっぱい☆"
+artist = "市原仁奈（久野美咲）、一ノ瀬志希（藍原ことみ）、宮本フレデリカ（髙野麻美）"
+
+[[discs.tracks]]
+title = "凸凹スピードスター"
+artist = "安部菜々（三宅麻理恵）、佐藤心（花守ゆみり）、赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "無重力シャトル"
+artist = "櫻井桃華（照井春佳）"
+
+[[discs.tracks]]
+title = "よりみちリトルスター (オリジナル・カラオケ)"
+artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、櫻井桃華（照井春佳）、的場梨沙（集貝はな）、結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、龍崎薫（春瀬なつみ））"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "みんなのきもち"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "Romantic Now"
+artist = "赤城みりあ（黒沢ともよ）"
+
+[[discs.tracks]]
+title = "愛の讃歌"
+artist = "櫻井桃華（照井春佳）"

@@ -41,6 +41,11 @@ type = "animation"
 included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
 
 [[tag]]
+name = "THE IDOLM@STER CINDERELLA GIRLS U149"
+type = "animation"
+included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
+
+[[tag]]
 name = "CINDERELLA PARTY! from アイドルマスターシンデレラガールズ"
 type = "radio"
 included-by = ["project: THE IDOLM@STER CINDERELLA GIRLS"]
