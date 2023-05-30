@@ -5,7 +5,10 @@ artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨
 date = 2023-04-19
 type = "normal"
 catalog = "COCC-18121"
-tags = ["THE IDOLM@STER CINDERELLA GIRLS U149"]
+tags = [
+    "THE IDOLM@STER CINDERELLA GIRLS U149",
+    "OP",
+]
 
 [[discs]]
 catalog = "COCC-18121"

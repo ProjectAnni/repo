@@ -13,6 +13,7 @@ catalog = "COCC-18122"
 [[discs.tracks]]
 title = "よりみちリトルスター"
 artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、櫻井桃華（照井春佳）、的場梨沙（集貝はな）、結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、龍崎薫（春瀬なつみ））"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "きみにいっぱい☆"
@@ -30,15 +31,19 @@ artist = "櫻井桃華（照井春佳）"
 title = "よりみちリトルスター (オリジナル・カラオケ)"
 artist = "U149（佐々木千枝（今井麻夏）、古賀小春（小森結梨）、市原仁奈（久野美咲）、橘ありす（佐藤亜美菜）、櫻井桃華（照井春佳）、的場梨沙（集貝はな）、結城晴（小市眞琴）、赤城みりあ（黒沢ともよ）、龍崎薫（春瀬なつみ））"
 type = "instrumental"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "みんなのきもち"
 artist = "市原仁奈（久野美咲）"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Romantic Now"
 artist = "赤城みりあ（黒沢ともよ）"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "愛の讃歌"
 artist = "櫻井桃華（照井春佳）"
+tags = ["ED"]
