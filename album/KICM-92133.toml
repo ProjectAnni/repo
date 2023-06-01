@@ -1,0 +1,35 @@
+[album]
+album_id = "3258fe13-e078-448e-8c9f-f46e952de3d7"
+title = "MAGICAL DESTROYER"
+edition = "初回限定盤"
+artist = "愛美"
+date = 2023-04-26
+type = "normal"
+catalog = "KICM-92133"
+tags = ["愛美"]
+
+[[discs]]
+catalog = "KICM-92133"
+
+[[discs.tracks]]
+title = "MAGICAL DESTROYER"
+tags = ["魔法少女マジカルデストロイヤーズ", "OP"]
+
+[[discs.tracks]]
+title = "君こそ僕の世界だった"
+
+[[discs.tracks]]
+title = "エスケープ"
+
+[[discs.tracks]]
+title = "MAGICAL DESTROYER (Instrumental)"
+type = "instrumental"
+tags = ["魔法少女マジカルデストロイヤーズ", "OP"]
+
+[[discs.tracks]]
+title = "君こそ僕の世界だった (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "エスケープ (Instrumental)"
+type = "instrumental"

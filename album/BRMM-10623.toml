@@ -1,0 +1,29 @@
+[album]
+album_id = "06b0aeea-3efc-4ed8-9197-8044b21d19a6"
+title = "ロウワー／トリコロージュ"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、MEIKO、初音ミク"
+date = 2023-04-12
+type = "normal"
+catalog = "BRMM-10623"
+tags = ["25時、ナイトコードで。"]
+
+[[discs]]
+catalog = "BRMM-10623"
+
+[[discs.tracks]]
+title = "ロウワー"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、MEIKO"
+
+[[discs.tracks]]
+title = "トリコロージュ"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、初音ミク"
+
+[[discs.tracks]]
+title = "ロウワー -instrumental-"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、MEIKO"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "トリコロージュ -instrumental-"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、初音ミク"
+type = "instrumental"

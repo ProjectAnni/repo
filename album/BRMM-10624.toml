@@ -1,0 +1,29 @@
+[album]
+album_id = "ed57734d-a55b-4aa6-9df4-c1c8771db978"
+title = "ショウタイム・ルーラー／にっこり^^調査隊のテーマ"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、鏡音リン、初音ミク"
+date = 2023-04-26
+type = "normal"
+catalog = "BRMM-10624"
+tags = ["ワンダーランズ×ショウタイム"]
+
+[[discs]]
+catalog = "BRMM-10624"
+
+[[discs.tracks]]
+title = "ショウタイム・ルーラー"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、鏡音リン"
+
+[[discs.tracks]]
+title = "にっこり^^調査隊のテーマ"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、初音ミク"
+
+[[discs.tracks]]
+title = "ショウタイム・ルーラー -instrumental-"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、鏡音リン"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "にっこり^^調査隊のテーマ -instrumental-"
+artist = "ワンダーランズ×ショウタイム（天馬司（廣瀬大介）、鳳えむ（木野日菜）、草薙寧々（Machico）、神代類（土岐隼一））、初音ミク"
+type = "instrumental"

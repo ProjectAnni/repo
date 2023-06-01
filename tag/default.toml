@@ -313,6 +313,10 @@ type = "artist"
 name = "星野源"
 type = "artist"
 
+[[tag]]
+name = "三森すずこ"
+type = "artist"
+
 ################################################################################
 # Group
 #
@@ -479,6 +483,10 @@ type = "group"
 
 [[tag]]
 name = "欅坂46"
+type = "group"
+
+[[tag]]
+name = "乃木坂46"
 type = "group"
 
 ################################################################################
@@ -1206,6 +1214,21 @@ type = "animation"
 [[tag]]
 name = "すずめの戸締まり"
 names.zh-hans = "铃芽之旅"
+type = "animation"
+
+[[tag]]
+name = "魔法少女マジカルデストロイヤーズ"
+names.zh-hans = "魔法少女毁灭者"
+type = "animation"
+
+[[tag]]
+name = "EDENS ZERO"
+names.zh-hans = "伊甸星原"
+type = "animation"
+
+[[tag]]
+name = "王様ランキング 勇気の宝箱"
+names.zh-hans = "国王排名 勇气的宝箱"
 type = "animation"
 
 ################################################################################

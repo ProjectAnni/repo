@@ -1,0 +1,42 @@
+[album]
+album_id = "d6865273-1460-4f22-a801-0b2b000d962b"
+title = "Do you agree?"
+edition = "通常盤"
+artist = "大西亜玖璃"
+date = 2023-05-03
+type = "normal"
+catalog = "COCX-42005"
+tags = ["大西亜玖璃"]
+
+[[discs]]
+catalog = "COCX-42005"
+
+[[discs.tracks]]
+title = "本日は晴天なり"
+
+[[discs.tracks]]
+title = "NTMUエイリアン"
+
+[[discs.tracks]]
+title = "ジェリーフィッシュな君へ"
+
+[[discs.tracks]]
+title = "初恋カラーズ"
+
+[[discs.tracks]]
+title = "夏夢花火"
+
+[[discs.tracks]]
+title = "花と青空"
+
+[[discs.tracks]]
+title = "Elder flower"
+
+[[discs.tracks]]
+title = "恋の視線"
+
+[[discs.tracks]]
+title = "はじまるウェルカム"
+
+[[discs.tracks]]
+title = "Do you agree?"

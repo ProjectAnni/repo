@@ -1,0 +1,27 @@
+[album]
+album_id = "f475a948-9c54-4f19-ba7e-1b313929f611"
+title = "あてもなく"
+edition = "初回生産限定盤"
+artist = "Aimer"
+date = 2023-05-10
+type = "normal"
+catalog = "VVCL-2245"
+tags = ["Aimer"]
+
+[[discs]]
+catalog = "VVCL-2245"
+
+[[discs.tracks]]
+title = "あてもなく"
+tags = ["王様ランキング 勇気の宝箱", "ED"]
+
+[[discs.tracks]]
+title = "空噪wired"
+
+[[discs.tracks]]
+title = "Life is a song"
+
+[[discs.tracks]]
+title = "あてもなく -Instrumental-"
+type = "instrumental"
+tags = ["王様ランキング 勇気の宝箱", "ED"]

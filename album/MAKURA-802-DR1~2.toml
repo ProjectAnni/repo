@@ -1,0 +1,34 @@
+[album]
+album_id = "d6131c38-dfc6-4587-960b-1f17ee70e416"
+title = "稟と雫と口と口"
+artist = "御桜稟（萌花ちょこ）、夏目雫（早瀬ゃょぃ）、マーティ・フリッドマン（やじまのぼる）"
+date = 2023-02-24
+type = "drama"
+catalog = "MAKURA-802-DR1~2"
+tags = ["サクラノ刻 -櫻の森の下を歩む-"]
+
+[[discs]]
+catalog = "MAKURA-802-DR1"
+title = "「稟と雫と口と口」I"
+
+[[discs.tracks]]
+title = "Track 01"
+
+[[discs.tracks]]
+title = "Track 02"
+
+[[discs.tracks]]
+title = "Track 03"
+
+[[discs]]
+catalog = "MAKURA-802-DR2"
+title = "「稟と雫と口と口」II"
+
+[[discs.tracks]]
+title = "Track 01"
+
+[[discs.tracks]]
+title = "Track 02"
+
+[[discs.tracks]]
+title = "Track 03"
