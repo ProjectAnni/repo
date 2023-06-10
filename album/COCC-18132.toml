@@ -1,0 +1,26 @@
+[album]
+album_id = "6f18eb3d-5f61-4fb4-bfd1-680bb2012e78"
+title = "THE IDOLM@STER CINDERELLA MASTER 064 西園寺琴歌"
+artist = "西園寺琴歌（安齋由香里）"
+date = 2023-06-07
+type = "normal"
+catalog = "COCC-18132"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18132"
+
+[[discs.tracks]]
+title = "セレブレイト・スターレイル"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1!－西園寺琴歌編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "セレブレイト・スターレイル オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"
