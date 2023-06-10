@@ -1,0 +1,29 @@
+[album]
+album_id = "d20ee308-12ba-4d56-8a3d-589bfeecdb64"
+title = "THE IDOLM@STER MILLION THE@TER VARIETY 03"
+artist = "Various Artists"
+date = 2023-05-31
+type = "normal"
+catalog = "LACM-24385"
+tags = ["THE IDOLM@STER MILLION THE@TER VARIETY"]
+
+[[discs]]
+catalog = "LACM-24385"
+
+[[discs.tracks]]
+title = "春風満帆スターティング"
+artist = "萩原雪歩（浅倉杏美）、福田のり子（浜崎奈々）、菊地真（平田宏美）、最上静香（田所あずさ）、永吉昴（斉藤佑圭）"
+
+[[discs.tracks]]
+title = "リベレイシング／アロン -LiberaSing Along-"
+artist = "如月千早（今井麻美）、木下ひなた（田村奈央）、天空橋朋花（小岩井ことり）、徳川まつり（諏訪彩花）、馬場このみ（髙橋ミナミ）"
+
+[[discs.tracks]]
+title = "春風満帆スターティング (Off Vocal）"
+artist = "萩原雪歩（浅倉杏美）、福田のり子（浜崎奈々）、菊地真（平田宏美）、最上静香（田所あずさ）、永吉昴（斉藤佑圭）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "リベレイシング／アロン -LiberaSing Along- (Off Vocal）"
+artist = "如月千早（今井麻美）、木下ひなた（田村奈央）、天空橋朋花（小岩井ことり）、徳川まつり（諏訪彩花）、馬場このみ（髙橋ミナミ）"
+type = "instrumental"
