@@ -1,0 +1,867 @@
+[album]
+album_id = "38ed27e5-7edf-4dba-b440-1aeabb8fb433"
+title = "ゼルダの伝説 ブレス オブ ザ ワイルド オリジナルサウンドトラック"
+artist = "片岡真央、岩田恭明、若井淑"
+date = 2018-04-25
+type = "absolute"
+catalog = "COCX-40308~12"
+tags = ["ゼルダの伝説 ブレス オブ ザ ワイルド", "OST"]
+
+[[discs]]
+catalog = "COCX-40308"
+
+[[discs.tracks]]
+title = "メインテーマ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "オープニング"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "シーカータワー 出現"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "城に巣食う怪物"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "シーカータワー"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "謎の老人"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "祠の試練 開始"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "祠の試練"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "戦闘(祠): Original Soundtrack ver."
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "高地"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ガーディアンの視線"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "時の神殿跡"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "老人の正体"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "100年前の出来事"
+artist = "片岡真央、若井淑"
+
+[[discs.tracks]]
+title = "ハイラル王の願い"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "大地に降り立つ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "フィールド(昼)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "戦闘(フィールド): Original Soundtrack ver."
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "シーカータワー 起動"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "襲歩(昼)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "イワロック戦"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "カカリコ村"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "インパの語り"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "太古の伝承"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ハテノ村"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ハテノ古代研究所"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "大妖精 復活"
+artist = "片岡真央、若井淑"
+
+[[discs.tracks]]
+title = "大妖精の泉"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "フィールド(夜)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "カッシーワのテーマ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”古の詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "馬宿"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”伝承の詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "襲歩(夜)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "祝福の祠"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ヒノックス戦"
+artist = "若井淑"
+
+[[discs]]
+catalog = "COCX-40309"
+
+[[discs.tracks]]
+title = "水辺"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "花を踏まないで"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "シドとの出会い"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "シドのテーマ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゾーラの里"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "水の神獣 ヴァ・ルッタ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リンクの記憶「英傑 ミファー」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ルッタ戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "シドとの約束"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ルッタ(探索)"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "戦闘（神獣内部）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カースガノン出現"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "水のカースガノン戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ハートの器出現"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "再会 ミファー"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "英傑の加護"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "堂々たる神獣"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "ミファーと神獣"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "フィールド(極寒)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "洞窟"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "風の神獣 ヴァ・メドー"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リトの村"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リンクの記憶「英傑 リーバル」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "飛行訓練場"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "テバとの出会い"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ミニゲーム 飛行訓練"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・メドー戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "テバの激励"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・メドー(探索)"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "風のカースガノン戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "再会 リーバル"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リーバルと神獣"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "民家"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ミニゲーム 雪玉ボウル"
+artist = "片岡真央、岩田恭明"
+
+[[discs.tracks]]
+title = "ナンのさえずり"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "兄弟岩の唄"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "カッシーワのテーマ(勇者の詩ver.)"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リトの村(カッシーワと五姉妹ver.)"
+artist = "岩田恭明"
+
+[[discs]]
+catalog = "COCX-40310"
+
+[[discs.tracks]]
+title = "フィールド(灼熱)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "溶岩地帯"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "採掘場の鼻歌"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "炎の神獣 ヴァ・ルーダニア"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゴロンシティ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "北の廃坑"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ユン坊よの出会い"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リンクの記憶「英傑 ダルケル」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ルーダニア戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ユン坊にもらったチャンス"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ルーダニア(探索)"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "炎のカースガノン戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "再会 ダルケル"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ダルケルと神獣"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "フィールド(酷暑)"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "雷の神獣 ヴァ・ナボリス"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カラカラバザール"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ドレスアップ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ゲルドの街"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ルージュとの出会い"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "イーガ団のアジト"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "驕るコーガ様"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "コーガ様戦"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「英傑 ウルボザ」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "雷の神獣監視所"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ナボリス戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ルージュに託された"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "神獣 ヴァ・ナボリス(探索)"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "雷のカースガノン戦"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "再会 ウルボザ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ウルボザと神獣"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "レーススタート"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "ミニゲーム スナザラシラリー"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "無念なレース"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "新記録"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "スナザラシラリー表彰式"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "ミニゲーム ガマンくらべ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "モルドラジーク戦"
+artist = "若井淑"
+
+[[discs]]
+catalog = "COCX-40311"
+
+[[discs.tracks]]
+title = "廃墟"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "迷いの森"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "コログの森"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "デクの樹との出会い"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "マスターソートを我が手に"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "聖なる剣の記憶"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "マスターソード〜デクの樹の言葉"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "ボックリンダンス!"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "アッカレ古代研究所"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "憑りつかれたネルドラ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "聖なる泉の使い"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "赤き月の予兆"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "赤き月"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "甦る記憶"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「仮初めの儀式」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「決意と苦悩」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リンクの記憶「イーガ団の凶刃」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「予兆」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「姫しずか」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "リンクの記憶「父の娘」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「訪わぬ力」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「ラネール山へ」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "リンクの記憶「大厄災 復活」"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "リンクの記憶「絶望」"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "十二の記憶が揃う時"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "リンクの記憶「覚醒 ゼルダ」"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ゼルダの願い"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ハイラル城下町跡"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "ガーディアン戦"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ハイラル城 ガノン咆哮"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ハイラル城"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "厄災ガノン出現"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "発動! 英傑の力"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "厄災ガノン戦・第一形態"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "厄災ガノン戦・第二形態"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "魔獣ガノン出現"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "魔獣ガノン戦"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "覚えていますか?"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "スタッフロール"
+artist = "片岡真央、岩田恭明、若井淑"
+
+[[discs.tracks]]
+title = "エピローグ"
+artist = "岩田恭明"
+
+[[discs]]
+catalog = "COCX-40312"
+
+[[discs.tracks]]
+title = "ウオトリー村"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "キルトン"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "イチカラ村へ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "イチカラ村"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "イチカラ村の結婚式"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "荒地"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ミニゲーム 流鏑馬"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "マーロン復活"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "マーロンの泉"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "マーロンの舞"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "サトリ山のヌシ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ミニゲーム 鳥人間チャレンジ"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゲットファンファーレ（アイテム）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゲットファンファーレ（克服の証／貴重なアイテム）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゲットファンファーレ（大切なもの）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゲットファンファーレ（ハート／がんばりの器）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "シーカーストーン 強化"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "ゲットファンファーレ（シーカーストーン）"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "暇つぶし"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "宿泊（普通）"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "宿泊（高級）"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "料理失敗"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "料理成功"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "料理大成功"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "コログのお題達成"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "コログ登場"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "初めてのロケーション"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "染色"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "脱色"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "修理"
+artist = "安田拓朗"
+
+[[discs.tracks]]
+title = "サクラダ工務店の仕事"
+artist = "田村理遊"
+
+[[discs.tracks]]
+title = "謎解き正解音"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "ゲームオーバー"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "剣の試練 達成"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "マスターソード〜デクの樹の称賛"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "カッシーワ ”剣士の詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "石碑出現"
+artist = "阿部壮志"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑たちの詩”（第一段階）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "英傑の祠"
+artist = "阿部壮志"
+
+[[discs.tracks]]
+title = "ミファーとシド"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑ミファーの詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑たちの詩”（第ニ段階）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "孤高の戦士 リーバル"
+artist = "阿部壮志"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑リーバルの詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑たちの詩”（第三段階）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "豪傑 ダルケル"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "カッシーワ ”ダルケルの詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "カッシーワ ”英傑たちの詩”（第四段階）"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "華麗なるウルボザ"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "カッシーワ ”ウルボザの詩”"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "最終試練"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "導師 ミィズ・キョシア"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "甦る記憶（英傑たちの詩ver.）"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "聖なる姫と五人の英傑"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "英傑たちの詩 エンディング"
+artist = "岩田恭明、片岡真央"
+
+[[discs.tracks]]
+title = "写し絵を飾る"
+artist = "片岡真央"
+
+[[discs.tracks]]
+title = "英傑たちのバラッド"
+artist = "岩田恭明"
+
+[[discs.tracks]]
+title = "2014 E3 Trailer BGM"
+artist = "若井淑"
+
+[[discs.tracks]]
+title = "Nintendo Switch Presentation 2017 Trailer BGM"
+artist = "山下康介"
