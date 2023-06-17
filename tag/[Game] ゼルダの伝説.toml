@@ -1,0 +1,7 @@
+[[tag]]
+name = "ゼルダの伝説"
+names.zh-hans = "塞尔达传说"
+type = "series"
+includes = [
+    "game: ゼルダの伝説 ブレス オブ ザ ワイルド",
+]
