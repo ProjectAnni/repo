@@ -1,0 +1,26 @@
+[album]
+album_id = "1adaf083-20e2-453e-a4a2-a40b34f3540f"
+title = "THE IDOLM@STER CINDERELLA MASTER 065 八神マキノ"
+artist = "八神マキノ（二ノ宮ゆい）"
+date = 2023-06-07
+type = "normal"
+catalog = "COCC-18133"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18133"
+
+[[discs.tracks]]
+title = "ノーチラスソナー -Nautilus Sonar-"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1!－八神マキノ編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ノーチラスソナー -Nautilus Sonar- オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

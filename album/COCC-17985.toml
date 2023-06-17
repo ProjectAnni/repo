@@ -1,0 +1,36 @@
+[album]
+album_id = "273f9acd-235a-4968-87b3-375f5ca5c425"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 15 サマーサイダー"
+artist = "久川颯（長江里加）、乙倉悠貴（中島由貴）、片桐早苗（和氣あず未）、多田李衣菜（青木瑠璃子）、緒方智絵里（大空直美）"
+date = 2023-04-05
+type = "normal"
+catalog = "COCC-17985"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17985"
+
+[[discs.tracks]]
+title = "サマーサイダー（M@STER VERSION）"
+artist = "久川颯（長江里加）、乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "うまぴょい伝説"
+artist = "片桐早苗（和氣あず未）、多田李衣菜（青木瑠璃子）、緒方智絵里（大空直美）"
+
+[[discs.tracks]]
+title = "サマーサイダー（M@STER VERSION）オリジナル・カラオケ"
+artist = "久川颯（長江里加）、乙倉悠貴（中島由貴）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "サマーサイダー（M@STER VERSION）久川颯ソロ・リミックス"
+artist = "久川颯（長江里加）"
+
+[[discs.tracks]]
+title = "サマーサイダー（M@STER VERSION）乙倉悠貴ソロ・リミックス"
+artist = "乙倉悠貴（中島由貴）"
+
+[[discs.tracks]]
+title = "サマーサイダー（GAME VERSION）"
+artist = "久川颯（長江里加）、乙倉悠貴（中島由貴）"

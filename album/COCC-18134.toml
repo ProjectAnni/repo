@@ -1,0 +1,26 @@
+[album]
+album_id = "a4a4c681-9a83-4c7e-9ba6-7bb591e77ed3"
+title = "THE IDOLM@STER CINDERELLA MASTER 066 南条光"
+artist = "南条光（神谷早矢佳）"
+date = 2023-06-07
+type = "normal"
+catalog = "COCC-18134"
+tags = ["THE IDOLM@STER CINDERELLA MASTER (ソロCD)"]
+
+[[discs]]
+catalog = "COCC-18134"
+
+[[discs.tracks]]
+title = "サイン・オブ・ホープ"
+
+[[discs.tracks]]
+title = "ドラマ「もーっと目指せ！シンデレラNo.1!－南条光編－」"
+type = "drama"
+
+[[discs.tracks]]
+title = "サイン・オブ・ホープ オリジナル・カラオケ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ボーナス・トラック"
+type = "vocal"

@@ -1,0 +1,36 @@
+[album]
+album_id = "de8ff684-a3da-4cef-b895-3f0b7c8282a3"
+title = "人は夢を二度見る"
+edition = "初回仕様限定盤 Type-B"
+artist = "乃木坂46"
+date = 2023-06-12
+type = "normal"
+catalog = "SRCL-12482"
+tags = ["乃木坂46"]
+
+[[discs]]
+catalog = "SRCL-12482"
+
+[[discs.tracks]]
+title = "人は夢を二度見る"
+artist = "乃木坂46（佐藤璃果、金川紗耶、早川聖来、一ノ瀬美空、松尾美佑、五百城茉央、岩本蓮加、弓木奈於、柴田柚菜、菅原咲月、田村真佑、与田祐希、井上和、梅澤美波、筒井あやめ、川﨑桜、賀喜遥香、久保史緒里、山下美月、遠藤さくら）"
+
+[[discs.tracks]]
+title = "僕たちのサヨナラ"
+artist = "乃木坂46（秋元真夏、鈴木絢音、五百城茉央、池田瑛紗、一ノ瀬美空、井上和、岡本姫奈、小川彩、奥田いろは、川﨑桜、菅原咲月、冨里奈央、中西アルノ、遠藤さくら、賀喜遥香、金川紗耶、北川悠理、黒見明香、佐藤璃果、柴田柚菜、清宮レイ、田村真佑、筒井あやめ、早川聖来、林瑠奈、松尾美佑、矢久保美緒、弓木奈於、伊藤理々杏、岩本蓮加、梅澤美波、久保史緒里、阪口珠美、佐藤楓、中村麗乃、向井葉月、山下美月、吉田綾乃クリスティー、与田祐希）"
+
+[[discs.tracks]]
+title = "黄昏はいつも"
+artist = "乃木坂46（遠藤さくら、井上和）"
+
+[[discs.tracks]]
+title = "人は夢を二度見る ～off vocal ver.～"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "僕たちのサヨナラ ～off vocal ver.～"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "黄昏はいつも ～off vocal ver.～"
+type = "instrumental"

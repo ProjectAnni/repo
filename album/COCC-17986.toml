@@ -1,0 +1,52 @@
+[album]
+album_id = "88378626-5394-496a-bf81-63ee0578da1d"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R／LOCK ON! 16 ギョーてん！しーわーるど！"
+artist = "Various Artists"
+date = 2023-05-17
+type = "normal"
+catalog = "COCC-17986"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17986"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）"
+artist = "浅利七海（井上ほの花）、前川みく（高森奈津美）、市原仁奈（久野美咲）、棟方愛海（藤本彩花）、龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "徒然モノクローム"
+artist = "浅利七海（井上ほの花）"
+
+[[discs.tracks]]
+title = "ワニとシャンプー"
+artist = "大槻唯（山下七海）、藤本里奈（金子真由美）、城ヶ崎美嘉（佳村はるか）"
+
+[[discs.tracks]]
+title = "ギョーてん!しーわーるど! (M@STER VERSION) オリジナル・カラオケ"
+artist = "浅利七海（井上ほの花）、前川みく（高森奈津美）、市原仁奈（久野美咲）、棟方愛海（藤本彩花）、龍崎薫（春瀬なつみ）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）浅利七海ソロ・リミックス"
+artist = "浅利七海（井上ほの花）"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）前川みくソロ・リミックス"
+artist = "前川みく（高森奈津美）"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）市原仁奈ソロ・リミックス"
+artist = "市原仁奈（久野美咲）"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）棟方愛海ソロ・リミックス"
+artist = "棟方愛海（藤本彩花）"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（M@STER VERSION）龍崎薫ソロ・リミックス"
+artist = "龍崎薫（春瀬なつみ）"
+
+[[discs.tracks]]
+title = "ギョーてん！しーわーるど！（GAME VERSION）"
+artist = "浅利七海（井上ほの花）、前川みく（高森奈津美）、市原仁奈（久野美咲）、棟方愛海（藤本彩花）、龍崎薫（春瀬なつみ）"

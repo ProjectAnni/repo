@@ -1,0 +1,25 @@
+[album]
+album_id = "2c447d5e-f279-426c-9c1f-d653cdae7220"
+title = "華麗ワンターン／Follow You！"
+artist = "TrySail（麻倉もも、雨宮天、夏川椎菜）"
+date = 2023-05-31
+type = "normal"
+catalog = "VVCL-2226"
+tags = ["TrySail"]
+
+[[discs]]
+catalog = "VVCL-2226"
+
+[[discs.tracks]]
+title = "華麗ワンターン"
+
+[[discs.tracks]]
+title = "Follow You！"
+
+[[discs.tracks]]
+title = "華麗ワンターン -Instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Follow You！ -Instrumental-"
+type = "instrumental"

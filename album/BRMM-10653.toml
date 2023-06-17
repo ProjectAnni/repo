@@ -1,0 +1,25 @@
+[album]
+album_id = "fc30f8d6-b315-4c5d-9e9b-89f266956bb6"
+title = "ノマド／バグ"
+artist = "25時、、ナイトコードで。（宵崎奏（楠木ともり）、朝比奈まふゆ（田辺留依）、東雲絵名（鈴木みのり）、暁山瑞希（佐藤日向））、鏡音リン"
+date = 2023-06-07
+type = "normal"
+catalog = "BRMM-10653"
+tags = ["25時、ナイトコードで。"]
+
+[[discs]]
+catalog = "BRMM-10653"
+
+[[discs.tracks]]
+title = "ノマド"
+
+[[discs.tracks]]
+title = "バグ"
+
+[[discs.tracks]]
+title = "ノマド -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "バグ -instrumental-"
+type = "instrumental"

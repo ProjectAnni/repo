@@ -1,0 +1,25 @@
+[album]
+album_id = "dd5f3ed0-6b0d-48a8-927a-7fbc72c83652"
+title = "ユエニ"
+artist = "夏川椎菜"
+date = 2023-05-17
+type = "normal"
+catalog = "SMCL-816"
+tags = ["夏川椎菜"]
+
+[[discs]]
+catalog = "SMCL-816"
+
+[[discs.tracks]]
+title = "ユエニ"
+
+[[discs.tracks]]
+title = "だりむくり"
+
+[[discs.tracks]]
+title = "ユエニ (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "だりむくり (Instrumental)"
+type = "instrumental"
