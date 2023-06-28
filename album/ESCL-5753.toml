@@ -1,0 +1,18 @@
+[album]
+album_id = "e5cd8d18-d4ce-4037-8d07-8405bd06ba6e"
+title = "Without Love"
+artist = "LMYK"
+date = 2023-03-01
+type = "normal"
+catalog = "ESCL-5753"
+tags = ["ヴィンランド・サガ SEASON 2", "ED"]
+
+[[discs]]
+catalog = "ESCL-5753"
+
+[[discs.tracks]]
+title = "Without Love"
+
+[[discs.tracks]]
+title = "Without Love (Instrumental)"
+type = "instrumental"

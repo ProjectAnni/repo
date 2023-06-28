@@ -1,0 +1,7 @@
+[[tag]]
+name = "ヴィンランド・サガ"
+names.zh-hans = "冰海战记"
+type = "series"
+includes = [
+    "animation: ヴィンランド・サガ SEASON 2",
+]
