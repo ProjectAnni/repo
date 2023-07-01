@@ -1,0 +1,24 @@
+[album]
+album_id = "37047632-5f80-4e90-ad1c-c7fd06f65953"
+title = "River"
+artist = "Anonymouz"
+date = 2023-02-15
+type = "normal"
+catalog = "SECL-2841"
+tags = ["ヴィンランド・サガ SEASON 2", "OP"]
+
+[[discs]]
+catalog = "SECL-2841"
+
+[[discs.tracks]]
+title = "River"
+
+[[discs.tracks]]
+title = "River (Anime Version)"
+
+[[discs.tracks]]
+title = "River (Karaoke Version)"
+
+[[discs.tracks]]
+title = "River (Instrumental)"
+type = "instrumental"

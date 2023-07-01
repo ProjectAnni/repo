@@ -1,0 +1,30 @@
+[album]
+album_id = "da74bbe1-e60a-4ace-8fc1-407d7fa99940"
+title = "Ember"
+artist = "haju:harmonics"
+date = 2023-06-14
+type = "normal"
+catalog = "VVCL-2250"
+tags = ["ヴィンランド・サガ SEASON 2"]
+
+[[discs]]
+catalog = "VVCL-2250"
+
+[[discs.tracks]]
+title = "Ember"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "神様へ"
+
+[[discs.tracks]]
+title = "ビスポーク"
+
+[[discs.tracks]]
+title = "つみのうぶごえ"
+
+[[discs.tracks]]
+title = "月蝕"
+
+[[discs.tracks]]
+title = "≒"

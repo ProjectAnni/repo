@@ -1,0 +1,28 @@
+[album]
+album_id = "449095cf-7802-417d-8039-186fdf178801"
+title = "Paradox"
+artist = "Survive Said The Prophet"
+date = 2023-05-17
+type = "normal"
+edition = "期間生産限定盤"
+catalog = "SRCL-12478"
+tags = ["ヴィンランド・サガ SEASON 2"]
+
+[[discs]]
+catalog = "SRCL-12478"
+
+[[discs.tracks]]
+title = "Paradox"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Mukanjyo -Acoustic-"
+
+[[discs.tracks]]
+title = "Paradox –Instrumental-"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "Paradox -TV Edit-"
+tags = ["OP"]
