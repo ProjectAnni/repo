@@ -1231,6 +1231,10 @@ name = "王様ランキング 勇気の宝箱"
 names.zh-hans = "国王排名 勇气的宝箱"
 type = "animation"
 
+[[tag]]
+name = "Fate/strange Fake"
+type = "animation"
+
 ################################################################################
 # Game
 #

@@ -1,0 +1,59 @@
+[album]
+album_id = "e7a7b9d6-5914-4ddb-b1f1-c256186a24ee"
+title = "V"
+artist = "SawanoHiroyuki[nZk]"
+date = 2023-01-18
+type = "normal"
+catalog = "VVCL-2168"
+tags = ["Fate/strange Fake"]
+
+[[discs]]
+catalog = "VVCL-2168"
+
+[[discs.tracks]]
+title = "IiIiI"
+type = "absolute"
+
+[[discs.tracks]]
+title = "FAKEit"
+artist = "SawanoHiroyuki[nZk]、Laco"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "LEMONADE"
+artist = "SawanoHiroyuki[nZk]、XAI"
+
+[[discs.tracks]]
+title = "B∀LK"
+artist = "SawanoHiroyuki[nZk]、suis from ヨルシカ"
+
+[[discs.tracks]]
+title = "7th String"
+artist = "SawanoHiroyuki[nZk]、ReN"
+
+[[discs.tracks]]
+title = "OUTSIDERS"
+artist = "SawanoHiroyuki[nZk]、河野純喜、與那城奨"
+
+[[discs.tracks]]
+title = "Hands Up to the Sky"
+artist = "SawanoHiroyuki[nZk]、Laco"
+
+[[discs.tracks]]
+title = "LilaS"
+artist = "SawanoHiroyuki[nZk]、Honoka Takahashi"
+
+[[discs.tracks]]
+title = "Avid"
+artist = "SawanoHiroyuki[nZk]、mizuki"
+
+[[discs.tracks]]
+title = "COLORs"
+artist = "SawanoHiroyuki[nZk]、Hata Motohiro"
+
+[[discs.tracks]]
+title = "地球という名の都"
+artist = "SawanoHiroyuki[nZk]、ASKA"
+
+[[discs.tracks]]
+title = "V"
