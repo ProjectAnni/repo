@@ -1,0 +1,115 @@
+[album]
+album_id = "ff0e1e7e-00f1-4911-aaf5-e93fd6754691"
+title = "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～"
+artist = "Mitsukiyo、KARUT、Nor"
+date = 2023-01-23
+type = "absolute"
+catalog = "BACD-0007"
+tags = ["Blue Archive", "OST"]
+
+[[discs]]
+catalog = "BACD-0007"
+
+[[discs.tracks]]
+title = "Midnight Trip"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Romantic Smile"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Guruguru Usagi"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Hifumi Daisuki"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Coffee Cats"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Lovely Picnic"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Honey Jam"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Dolce Biblioteca"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Colorful Beach"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "After School Dessert"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "FEEEEVER TIME"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Walkthrough"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Aira"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Aoharu"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Glitch Street"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "NRG FielD"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Alkaline Tears"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Kyrie Eleison"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Kaphar"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Morose Dreamer"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Agnus Dei"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Blood Stained Faith"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Codex of Omen"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "RE Aoharu"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Moment"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Constant Moderato Piano Arrange"
+artist = "Mitsukiyo"
