@@ -1,0 +1,29 @@
+[album]
+album_id = "382b1097-fdfb-49c4-ab5b-d30c98627af6"
+title = "オーダーメイド／てらてら"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、巡音ルカ、初音ミク"
+date = 2023-07-05
+type = "normal"
+catalog = "BRMM-10655"
+tags = ["Leo/need"]
+
+[[discs]]
+catalog = "BRMM-10655"
+
+[[discs.tracks]]
+title = "オーダーメイド"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、巡音ルカ"
+
+[[discs.tracks]]
+title = "てらてら"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、初音ミク"
+
+[[discs.tracks]]
+title = "オーダーメイド -instrumental-"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、巡音ルカ"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "てらてら -instrumental-"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、初音ミク"
+type = "instrumental"
