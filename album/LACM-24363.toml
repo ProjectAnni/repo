@@ -1,0 +1,36 @@
+[album]
+album_id = "1704841c-c813-48e7-80e8-060e4bd63232"
+title = "THE IDOLM@STER SHINY COLORS “CANVAS” 03"
+artist = "放課後クライマックスガールズ（小宮果穂（河野ひより）、園田智代子（白石晴香）、西城樹里（永井真里子）、杜野凛世（丸岡和佳奈）、有栖川夏葉（涼本あきほ））"
+date = 2023-06-14
+type = "normal"
+catalog = "LACM-24363"
+tags = ["放課後クライマックスガールズ"]
+
+[[discs]]
+catalog = "LACM-24363"
+
+[[discs.tracks]]
+title = "ハナサカサイサイ"
+
+[[discs.tracks]]
+title = "全力アンサー"
+
+[[discs.tracks]]
+title = "ひめくりモザイク"
+
+[[discs.tracks]]
+title = "スペシャルオーディオドラマ「幸福の景色」"
+type = "drama"
+
+[[discs.tracks]]
+title = "ハナサカサイサイ (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "全力アンサー (Off Vocal)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ひめくりモザイク (Off Vocal)"
+type = "instrumental"
