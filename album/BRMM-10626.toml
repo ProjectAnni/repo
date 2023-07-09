@@ -1,0 +1,29 @@
+[album]
+album_id = "ef9c5422-df89-4cd5-ac48-615a4502085f"
+title = "STAGE OF SEKAI／Peaky Peaky"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、鏡音レン、KAITO"
+date = 2023-07-05
+type = "normal"
+catalog = "BRMM-10626"
+tags = ["Leo/need"]
+
+[[discs]]
+catalog = "BRMM-10626"
+
+[[discs.tracks]]
+title = "STAGE OF SEKAI"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、鏡音レン"
+
+[[discs.tracks]]
+title = "Peaky Peaky"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、KAITO"
+
+[[discs.tracks]]
+title = "STAGE OF SEKAI -instrumental-"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、鏡音レン"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Peaky Peaky -instrumental-"
+artist = "Leo/need（星乃一歌（野口瑠璃子）、天馬咲希（礒部花凛）、望月穂波（上田麗奈）、日野森志歩（中島由貴））、KAITO"
+type = "instrumental"

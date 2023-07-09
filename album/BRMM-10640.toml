@@ -1,0 +1,29 @@
+[album]
+album_id = "00fc5228-317e-41d2-82a6-1705ae768a77"
+title = "青春 To Be Continued"
+artist = "Poppin'Party（戸山香澄（愛美）、花園たえ（大塚紗英）、牛込りみ（西本りみ）、山吹沙綾（大橋彩香）、市ヶ谷有咲（伊藤彩沙））"
+date = 2023-05-31
+type = "normal"
+catalog = "BRMM-10640"
+tags = ["Poppin'Party"]
+
+[[discs]]
+catalog = "BRMM-10640"
+
+[[discs.tracks]]
+title = "青春 To Be Continued"
+
+[[discs.tracks]]
+title = "Future Place"
+
+[[discs.tracks]]
+title = "大好き！"
+
+[[discs.tracks]]
+title = "Five Letters"
+
+[[discs.tracks]]
+title = "最強☆ソング"
+
+[[discs.tracks]]
+title = "RiNG A BELL"
