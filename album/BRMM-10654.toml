@@ -1,0 +1,29 @@
+[album]
+album_id = "2e4b2f06-0ad9-4a2f-8a08-4c3e9ebc474d"
+title = "月光／街"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、MEIKO、鏡音リン"
+date = 2023-06-21
+type = "normal"
+catalog = "BRMM-10654"
+tags = ["Vivid BAD SQUAD"]
+
+[[discs]]
+catalog = "BRMM-10654"
+
+[[discs.tracks]]
+title = "月光"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、MEIKO"
+
+[[discs.tracks]]
+title = "街"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音リン"
+
+[[discs.tracks]]
+title = "月光 -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、MEIKO"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "街 -instrumental-"
+artist = "Vivid BAD SQUAD（小豆沢こはね（秋奈）、白石杏（鷲見友美ジェナ）、東雲彰人（今井文也）、青柳冬弥（伊東健人））、鏡音リン"
+type = "instrumental"

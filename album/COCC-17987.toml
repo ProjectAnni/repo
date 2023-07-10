@@ -1,0 +1,45 @@
+[album]
+album_id = "6fc7ea28-2534-4e20-86dd-324b09b6b497"
+title = "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 17 廻談詣り"
+artist = "Various Artists"
+date = 2023-06-14
+type = "normal"
+catalog = "COCC-17987"
+tags = ["THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON!"]
+
+[[discs]]
+catalog = "COCC-17987"
+
+[[discs.tracks]]
+title = "廻談詣り（M@STER VERSION）"
+artist = "依田芳乃（高田憂希）、白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "大阪タコちゃんラブちゃん"
+artist = "難波笑美（伊達朱里紗）"
+
+[[discs.tracks]]
+title = "フィクション"
+artist = "荒木比奈（田辺留依）"
+
+[[discs.tracks]]
+title = "廻談詣り（M@STER VERSION）オリジナル・カラオケ"
+artist = "依田芳乃（高田憂希）、白坂小梅（桜咲千依）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "大阪タコちゃんラブちゃん オリジナル・カラオケ"
+artist = "難波笑美（伊達朱里紗）"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "廻談詣り（M@STER VERSION）依田芳乃ソロ・リミックス"
+artist = "依田芳乃（高田憂希）"
+
+[[discs.tracks]]
+title = "廻談詣り（M@STER VERSION）白坂小梅ソロ・リミックス"
+artist = "白坂小梅（桜咲千依）"
+
+[[discs.tracks]]
+title = "廻談詣り（GAME VERSION）"
+artist = "依田芳乃（高田憂希）、白坂小梅（桜咲千依）"

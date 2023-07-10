@@ -1,0 +1,32 @@
+[album]
+album_id = "7e98f66e-5e4e-4fc7-9a66-de0263e61e8e"
+title = "音一会"
+artist = "MyGO!!!!!（高松燈（羊宮妃那）、千早愛音（立石凛）、要楽奈（青木陽菜）、長崎そよ（小日向美香）、椎名立希（林鼓子））"
+date = 2023-04-12
+type = "normal"
+catalog = "BRMM-10635"
+tags = ["MyGO!!!!!"]
+
+[[discs]]
+catalog = "BRMM-10635"
+
+[[discs.tracks]]
+title = "音一会"
+
+[[discs.tracks]]
+title = "潜在表明"
+
+[[discs.tracks]]
+title = "影色舞"
+
+[[discs.tracks]]
+title = "音一会 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "潜在表明 -instrumental-"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "影色舞 -instrumental-"
+type = "instrumental"
