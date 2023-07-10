@@ -5,7 +5,7 @@ artist = "Mitsukiyo、KARUT、Nor"
 date = 2022-03-24
 type = "absolute"
 catalog = "BACD-0001"
-tags = ["Blue Archive"]
+tags = ["Blue Archive", "OST"]
 
 [[discs]]
 catalog = "@BACD-0001-01"
