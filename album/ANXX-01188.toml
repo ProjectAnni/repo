@@ -1,0 +1,25 @@
+[album]
+album_id = "445b69d7-693c-44cc-b303-13d4dfd6e25b"
+title = "Fate/strange Fake -Whispers of Dawn- Original Soundtrack EP"
+artist = "澤野弘之"
+date = 2023-07-03
+type = "absolute"
+catalog = "ANXX-01188"
+tags = ["Fate/strange Fake -Whispers of Dawn-", "OST"]
+
+[[discs]]
+catalog = "ANXX-01188"
+
+[[discs.tracks]]
+title = "STRANGEFAKE"
+
+[[discs.tracks]]
+title = "gilGAMEsh"
+
+[[discs.tracks]]
+title = "THE COIL"
+type = "normal"
+
+[[discs.tracks]]
+title = "BITE DOWN"
+type = "normal"
