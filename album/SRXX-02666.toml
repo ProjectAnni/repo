@@ -1,6 +1,7 @@
 [album]
 album_id = "ae5f8f7f-4391-44b9-8097-a7ee447be50e"
-title = "シャンプーの匂いがした (Special Edition)"
+title = "シャンプーの匂いがした"
+edition = "Special Edition"
 artist = "22/7"
 date = 2018-04-11
 type = "normal"

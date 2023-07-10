@@ -1,6 +1,7 @@
 [album]
 album_id = "a782774c-2e83-4959-86f0-cff5f49faa4b"
-title = "ムズイ (Special Edition)"
+title = "ムズイ"
+edition = "Special Edition"
 artist = "22/7"
 date = 2020-02-26
 type = "normal"

@@ -1,6 +1,7 @@
 [album]
 album_id = "0602a4ba-5dc1-4136-87b2-f533a331037d"
-title = "Start over! (Special Edition)"
+title = "Start over!"
+edition = "Special Edition"
 artist = "櫻坂46"
 date = 2023-06-28
 type = "normal"
