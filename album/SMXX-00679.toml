@@ -1,0 +1,74 @@
+[album]
+album_id = "e8a8afe9-2976-419c-88f1-bf52c01e900a"
+title = "麻倉もも Live Tour 2022 “Piacere!”"
+artist = "麻倉もも"
+date = 2023-04-05
+type = "normal"
+catalog = "SMXX-00679"
+tags = ["麻倉もも"]
+
+[[discs]]
+catalog = "SMXX-00679"
+
+[[discs.tracks]]
+title = "ネムイケド (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "Good Job! (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "カラフル (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "シュークリーム (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "Love me, Choose me (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "ふたりシグナル (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "フラワーズ (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "eclatante (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "ユメシンデレラ (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "monologue (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "あしあと (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "明日は君と。 (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "Run for you (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "Shake it up! (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "Fanfare!! (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "満開スケジュール (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "ピンキーフック (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "プリンセスじゃなくても (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "恋のプレリュード (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "彩色硝子 (Live Tour 2022 “Piacere!”)"
+
+[[discs.tracks]]
+title = "ピンキーフック(W encore ver.) (Live Tour 2022 “Piacere!”)"
