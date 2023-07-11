@@ -5,11 +5,11 @@ edition = "Special Edition"
 artist = "ReoNa"
 date = 2021-05-12
 type = "normal"
-catalog = "VVXX00994B00Z"
+catalog = "VVXX-00994"
 tags = ["ReoNa"]
 
 [[discs]]
-catalog = "VVXX00994B00Z"
+catalog = "VVXX-00994"
 
 [[discs.tracks]]
 title = "ないない"
