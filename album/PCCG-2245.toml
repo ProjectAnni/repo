@@ -1,0 +1,31 @@
+[album]
+album_id = "eed68183-4dff-4a25-ae3a-159798d75c16"
+title = "にゃんぼりーdeモッフィー!!"
+artist = "DIALOGUE+（内山悠里菜、稗田寧々、守屋亨香、緒方佑奈、鷹村彩花、宮原颯希、飯塚麻結、村上まなつ）"
+date = 2023-06-21
+type = "normal"
+catalog = "PCCG-2245"
+tags = ["DIALOGUE+"]
+
+[[discs]]
+catalog = "PCCG-2245"
+
+[[discs.tracks]]
+title = "にゃんぼりーdeモッフィー!!"
+tags = ["カワイスギクライシス", "ED"]
+
+[[discs.tracks]]
+title = "来世なんて待ってらんない"
+
+[[discs.tracks]]
+title = "にゃんぼりーdeモッフィー!!（TV Size Ver.）"
+tags = ["カワイスギクライシス", "ED"]
+
+[[discs.tracks]]
+title = "にゃんぼりーdeモッフィー!!（Instrumental）"
+type = "instrumental"
+tags = ["カワイスギクライシス", "ED"]
+
+[[discs.tracks]]
+title = "来世なんて待ってらんない（Instrumental）"
+type = "instrumental"

@@ -1238,6 +1238,10 @@ type = "animation"
 [[tag]]
 name = "Fate/strange Fake -Whispers of Dawn-"
 names.zh-hans = "命运-奇异赝品 黎明低语"
+
+[[tag]]
+name = "カワイスギクライシス"
+names.zh-hans = "可爱过头大危机"
 type = "animation"
 
 ################################################################################

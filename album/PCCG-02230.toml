@@ -1,0 +1,146 @@
+[album]
+album_id = "86613b44-6870-4f16-ae84-1d51bb1f05d6"
+title = "RPB"
+artist = "三森すずこ"
+date = 2023-04-05
+type = "normal"
+catalog = "PCCG-02230"
+tags = ["三森すずこ"]
+
+[[discs]]
+catalog = "PCCG-02230-1"
+title = "Disc“Red”"
+
+[[discs.tracks]]
+title = "みんなでイエー☆オーッ！！"
+
+[[discs.tracks]]
+title = "純情DaDanDan"
+
+[[discs.tracks]]
+title = "ユニバーページ"
+
+[[discs.tracks]]
+title = "革命のマスカレード"
+
+[[discs.tracks]]
+title = "Light for Knight"
+
+[[discs.tracks]]
+title = "Xenotopia"
+
+[[discs.tracks]]
+title = "グローリー！"
+
+[[discs.tracks]]
+title = "チャンス！"
+
+[[discs.tracks]]
+title = "Heart Collection"
+
+[[discs.tracks]]
+title = "TINY TRAIN TOUR"
+
+[[discs.tracks]]
+title = "夢見る！信じる！未来叶えて！"
+
+[[discs.tracks]]
+title = "ミライスタート"
+
+[[discs.tracks]]
+title = "ね、そうでしょう！？"
+
+[[discs.tracks]]
+title = "Light for Knight（10th Anniversary Remix by PandaBoY）"
+
+[[discs]]
+catalog = "PCCG-02230-2"
+title = "Disc“Pink”"
+
+[[discs.tracks]]
+title = "Fantasic Funfair"
+
+[[discs.tracks]]
+title = "ドキドキトキドキトキメキス♡"
+
+[[discs.tracks]]
+title = "チュッタシュガリン"
+
+[[discs.tracks]]
+title = "FUTURE IS MINE"
+
+[[discs.tracks]]
+title = "Colorful Girl"
+
+[[discs.tracks]]
+title = "恋のキモチは5%"
+
+[[discs.tracks]]
+title = "シュガーレス・キッス"
+
+[[discs.tracks]]
+title = "恋はイリュージョン"
+
+[[discs.tracks]]
+title = "会いたいよ…会いたいよ！"
+
+[[discs.tracks]]
+title = "せいいっぱい、つたえたい！"
+
+[[discs.tracks]]
+title = "全部受けとって、強く抱きしめて。"
+
+[[discs.tracks]]
+title = "Wonderland Love"
+
+[[discs.tracks]]
+title = "大きな愛で君を抱きしめよう"
+
+[[discs.tracks]]
+title = "ドキドキトキドキトキメキス♡（10th Anniversary Remix by PandaBoY）"
+
+[[discs]]
+catalog = "PCCG-02230-3"
+title = "Disc“Blue”"
+
+[[discs.tracks]]
+title = "エガオノキミヘ"
+
+[[discs.tracks]]
+title = "サマーバケーション"
+
+[[discs.tracks]]
+title = "海と空のヒミツ"
+
+[[discs.tracks]]
+title = "ちいさな手と観覧車"
+
+[[discs.tracks]]
+title = "約束してよ？一緒だよ！"
+
+[[discs.tracks]]
+title = "WONDER FLIGHT"
+
+[[discs.tracks]]
+title = "ヒカリノメロディ"
+
+[[discs.tracks]]
+title = "スマイリウム"
+
+[[discs.tracks]]
+title = "サキワフハナ"
+
+[[discs.tracks]]
+title = "アレコレ"
+
+[[discs.tracks]]
+title = "My First Lesson"
+
+[[discs.tracks]]
+title = "星屑のカーテン"
+
+[[discs.tracks]]
+title = "鈴がなる日"
+
+[[discs.tracks]]
+title = "ちいさな手と観覧車（10th Anniversary Remix by PandaBoY）"
