@@ -1,0 +1,28 @@
+[album]
+album_id = "7ed10758-eb90-4fb0-878a-cdf9bf38a335"
+title = "花は誰のもの？"
+edition = "Special Edition"
+artist = "STU48"
+date = 2022-04-13
+type = "normal"
+catalog = "NOPA-3157"
+tags = ["STU48"]
+
+[[discs]]
+catalog = "NOPA-3157"
+
+[[discs.tracks]]
+title = "花は誰のもの？"
+artist = "STU48（石田千穂、石田みなみ、今村美月、岩田陽菜、沖 侑果、甲斐心愛、川又あん奈、小島愛子、高雄さやか、瀧野由美子、中村 舞、福田朱里、峯吉愛梨沙、吉崎凜子、吉田彩良、立仙百佳）"
+
+[[discs.tracks]]
+title = "船から降りた僕たちは・・・"
+artist = "STU48（池田裕楽、内海里音、尾崎世里花、川又優菜、工藤理子、迫 姫華、信濃宙花、清水紗良、鈴木彩夏、田中美帆、谷口茉妃菜、原田清花、兵頭 葵、宗雪里香、森下舞羽、矢野帆夏、渡辺菜月）"
+
+[[discs.tracks]]
+title = "ポニーテールをほどいた君を見た"
+artist = "STU48（石田みなみ、沖 侑果、瀧野由美子、中村 舞、福田朱里）"
+
+[[discs.tracks]]
+title = "Sure、じゃあね"
+artist = "STU48（石田千穂、岩田陽菜、甲斐心愛、立仙百佳）"

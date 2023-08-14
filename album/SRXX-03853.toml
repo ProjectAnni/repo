@@ -1,6 +1,7 @@
 [album]
 album_id = "991148e4-08d2-4256-b292-8595f65d9a99"
-title = "僕が持ってるものなら (Special Edition)"
+title = "僕が持ってるものなら"
+edition = "Special Edition"
 artist = "22/7"
 date = 2021-02-24
 type = "normal"

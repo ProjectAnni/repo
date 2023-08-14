@@ -1,0 +1,83 @@
+[album]
+album_id = "f4e42289-ad2c-4839-95e5-b4dedf1fc6c2"
+title = "STAY GLOW"
+artist = "Afterglow（美竹蘭（佐倉綾音）、青葉モカ（三澤紗千香）、上原ひまり（加藤英美里）、宇田川巴（日笠陽子）、羽沢つぐみ（金元寿子））"
+date = 2023-04-26
+type = "normal"
+catalog = "BRMM-10630"
+tags = ["Afterglow"]
+
+[[discs]]
+catalog = "@BRMM-10630-01"
+
+[[discs.tracks]]
+title = "Scarlet Sky"
+
+[[discs.tracks]]
+title = "Off we go."
+
+[[discs.tracks]]
+title = "いつも通りのBrand new days"
+
+[[discs.tracks]]
+title = "SWITCH ON NOW"
+
+[[discs.tracks]]
+title = "ランブリングメモリー"
+
+[[discs.tracks]]
+title = "COMIC PANIC!!!"
+
+[[discs.tracks]]
+title = "Trouble Joyful!!"
+
+[[discs.tracks]]
+title = "Jamboree！Journey！"
+
+[[discs.tracks]]
+title = "カナユメ"
+
+[[discs.tracks]]
+title = "独創収差"
+
+[[discs.tracks]]
+title = "極彩色"
+
+[[discs.tracks]]
+title = "サクラゼンセン"
+
+[[discs.tracks]]
+title = "True Color"
+
+[[discs]]
+catalog = "@BRMM-10630-02"
+
+[[discs.tracks]]
+title = "Crow Song"
+
+[[discs.tracks]]
+title = "カサブタ"
+
+[[discs.tracks]]
+title = "アイのシナリオ"
+
+[[discs.tracks]]
+title = "Northern lights"
+
+[[discs.tracks]]
+title = "トーキョーワンダー。"
+
+[[discs.tracks]]
+title = "Reach Out To The Truth"
+
+[[discs.tracks]]
+title = "Listen!!"
+
+[[discs.tracks]]
+title = "青い栞"
+
+[[discs.tracks]]
+title = "イマジネーション"
+
+[[discs.tracks]]
+title = "Butter-Fly"
