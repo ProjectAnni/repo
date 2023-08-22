@@ -1,0 +1,14 @@
+[album]
+album_id = "166c104b-e7ed-453f-88f0-94cc1b07a9e3"
+title = "Clover"
+artist = "大原ゆい子"
+date = 2023-07-03
+type = "normal"
+catalog = "@Mushoku-Tensei-02"
+tags = ["無職転生 ～異世界行ったら本気だす～ 第2期", "ED"]
+
+[[discs]]
+catalog = "@Mushoku-Tensei-02"
+
+[[discs.tracks]]
+title = "Clover"

@@ -1,0 +1,14 @@
+[album]
+album_id = "d4093a4e-3099-4f25-8fe6-7e54cd1ee1cf"
+title = "ムスビメ"
+artist = "大原ゆい子"
+date = 2023-07-17
+type = "normal"
+catalog = "@Mushoku-Tensei-03"
+tags = ["無職転生 ～異世界行ったら本気だす～ 第2期", "ED"]
+
+[[discs]]
+catalog = "@Mushoku-Tensei-03"
+
+[[discs.tracks]]
+title = "ムスビメ"

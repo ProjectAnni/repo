@@ -1249,6 +1249,11 @@ name = "カワイスギクライシス"
 names.zh-hans = "可爱过头大危机"
 type = "animation"
 
+[[tag]]
+name = "SYNDUALITY Noir"
+names.zh-hans = "奇异贤伴 黑色天使"
+type = "animation"
+
 ################################################################################
 # Game
 #
@@ -1486,7 +1491,7 @@ includes = [
 [[tag]]
 name = "無職転生 ～異世界行ったら本気だす～"
 type = "project"
-includes = ["animation: アニメ「無職転生 ～異世界行ったら本気だす～」"]
+includes = ["animation: アニメ「無職転生 ～異世界行ったら本気だす～」", "animation: 無職転生 ～異世界行ったら本気だす～ 第2期"]
 
 [[tag]]
 name = "STEINS;GATE"
