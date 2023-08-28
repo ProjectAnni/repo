@@ -1,0 +1,21 @@
+[album]
+album_id = "a321385d-c74e-44f5-8dd1-5a11327614b5"
+title = "ユリイカ"
+artist = "ARCANA PROJECT（桜野羽咲、花宮ハナ、相田詩音、空野青空、佐々木麻衣、天野ひかる）"
+date = 2023-08-23
+type = "normal"
+catalog = "LACM-24416"
+tags = ["ARCANA PROJECT"]
+
+[[discs]]
+catalog = "LACM-24416"
+
+[[discs.tracks]]
+title = "ユリイカ"
+tags = ["SYNDUALITY Noir", "ED"]
+
+[[discs.tracks]]
+title = "厭世的ストレングス"
+
+[[discs.tracks]]
+title = "ナニモノローグ"

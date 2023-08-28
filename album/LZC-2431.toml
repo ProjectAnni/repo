@@ -1,0 +1,14 @@
+[album]
+album_id = "32077774-3885-4d23-95c7-5f5615cc4bc8"
+title = "RAYTRACER"
+artist = "STEREO DIVE FOUNDATION"
+date = 2023-06-30
+type = "normal"
+catalog = "LZC-2431"
+tags = ["SYNDUALITY Noir", "OP"]
+
+[[discs]]
+catalog = "LZC-2431"
+
+[[discs.tracks]]
+title = "RAYTRACER"

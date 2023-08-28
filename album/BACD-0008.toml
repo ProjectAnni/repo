@@ -1,0 +1,126 @@
+[album]
+album_id = "5170c983-ff44-4f93-9c24-f9b55ad6fad7"
+title = "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～"
+artist = "ミツキヨ、KARUT、Nor"
+date = 2023-07-24
+type = "absolute"
+catalog = "BACD-0008"
+tags = ["Blue Archive", "OST"]
+
+[[discs]]
+catalog = "@BACD-0008-01"
+
+[[discs.tracks]]
+title = "Unwelcome School"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Funky Road"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Shady Girls"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Let me think about it"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "SAKURA PUNCH Hard Arrange"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Foolish Days"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Virtual Storm Hard Arrange"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Alert Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Tech N Tech Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Summer Bounce Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Summer Bounce"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Summertime Archive"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Blue New Battle"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Tasty New Year"
+artist = "Nor"
+
+[[discs]]
+catalog = "@BACD-0008-02"
+
+[[discs.tracks]]
+title = "Starting Pistol"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "NERINERI CHALLENGE"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Interface Hard Arrange"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Encroached Sky"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Kaiten Hurricane!!!"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Polyphonic"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Ark in the Blood Sky"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "System All Green"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Final Destination of Ark"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Step of Terror"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Responsibility"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Welcome School"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Aoharu Band Arrange"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Our New Story"
+artist = "ミツキヨ"

@@ -1,0 +1,14 @@
+[album]
+album_id = "468af224-2ef0-42d4-949c-10416f1c3fb4"
+title = "spiral"
+artist = "LONGMAN"
+date = 2023-07-10
+type = "normal"
+catalog = "@Mushoku-Tensei-01"
+tags = ["無職転生 ～異世界行ったら本気だす～ 第2期", "OP"]
+
+[[discs]]
+catalog = "@Mushoku-Tensei-01"
+
+[[discs.tracks]]
+title = "spiral"
