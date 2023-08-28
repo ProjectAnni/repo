@@ -5,14 +5,14 @@ artist = "ARCANA PROJECT（桜野羽咲、花宮ハナ、相田詩音、空野�
 date = 2023-08-23
 type = "normal"
 catalog = "LACM-24416"
-tags = ["SYNDUALITY Noir"]
+tags = ["ARCANA PROJECT"]
 
 [[discs]]
 catalog = "LACM-24416"
 
 [[discs.tracks]]
 title = "ユリイカ"
-tags = ["ED"]
+tags = ["SYNDUALITY Noir", "ED"]
 
 [[discs.tracks]]
 title = "厭世的ストレングス"
