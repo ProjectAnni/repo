@@ -1,0 +1,36 @@
+[album]
+album_id = "63d4f104-07ae-47d8-8008-50d81b980fd4"
+title = "壱雫空"
+artist = "MyGO!!!!!（高松燈（羊宮妃那）、千早愛音（立石凛）、要楽奈（青木陽菜）、長崎そよ（小日向美香）、椎名立希（林鼓子））"
+date = 2023-08-09
+type = "normal"
+catalog = "BRMM-10680"
+tags = ["MyGO!!!!!"]
+
+[[discs]]
+catalog = "BRMM-10680"
+
+[[discs.tracks]]
+title = "壱雫空"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "栞"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "焚音打"
+
+[[discs.tracks]]
+title = "壱雫空 -instrumental-"
+type = "instrumental"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "栞 -instrumental-"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "焚音打 -instrumental-"
+type = "instrumental"

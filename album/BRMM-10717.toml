@@ -1,0 +1,52 @@
+[album]
+album_id = "db370b8d-5f84-4900-b945-f1db01d0048b"
+title = "迷跡波"
+artist = "MyGO!!!!!（高松燈（羊宮妃那）、千早愛音（立石凛）、要楽奈（青木陽菜）、長崎そよ（小日向美香）、椎名立希（林鼓子））"
+date = 2023-11-01
+type = "normal"
+catalog = "BRMM-10717"
+tags = ["MyGO!!!!!"]
+
+[[discs]]
+catalog = "BRMM-10717"
+
+[[discs.tracks]]
+title = "迷星叫"
+
+[[discs.tracks]]
+title = "壱雫空"
+tags = ["OP"]
+
+[[discs.tracks]]
+title = "碧天伴走"
+
+[[discs.tracks]]
+title = "影色舞"
+
+[[discs.tracks]]
+title = "歌いましょう鳴らしましょう"
+
+[[discs.tracks]]
+title = "潜在表明"
+
+[[discs.tracks]]
+title = "音一会"
+
+[[discs.tracks]]
+title = "春日影 (MyGO!!!!! ver.)"
+
+[[discs.tracks]]
+title = "詩超絆"
+
+[[discs.tracks]]
+title = "迷路日々"
+
+[[discs.tracks]]
+title = "無路矢"
+
+[[discs.tracks]]
+title = "名無声"
+
+[[discs.tracks]]
+title = "栞"
+tags = ["ED"]
