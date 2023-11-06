@@ -12,7 +12,6 @@ catalog = "BRMM-10717"
 
 [[discs.tracks]]
 title = "迷星叫"
-tags = ["OST"]
 
 [[discs.tracks]]
 title = "壱雫空"
@@ -20,7 +19,6 @@ tags = ["OP"]
 
 [[discs.tracks]]
 title = "碧天伴走"
-tags = ["OST"]
 
 [[discs.tracks]]
 title = "影色舞"
@@ -36,7 +34,6 @@ title = "音一会"
 
 [[discs.tracks]]
 title = "春日影 (MyGO!!!!! ver.)"
-tags = ["OST"]
 
 [[discs.tracks]]
 title = "詩超絆"

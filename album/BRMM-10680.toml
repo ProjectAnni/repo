@@ -24,10 +24,12 @@ title = "焚音打"
 [[discs.tracks]]
 title = "壱雫空 -instrumental-"
 type = "instrumental"
+tags = ["OP"]
 
 [[discs.tracks]]
 title = "栞 -instrumental-"
 type = "instrumental"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "焚音打 -instrumental-"
