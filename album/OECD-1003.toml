@@ -1,0 +1,55 @@
+[album]
+album_id = "fb1342a4-b4b8-4491-b047-58ee0a417a69"
+title = "unformed"
+edition = "Limited Edition"
+artist = "doriko feat. 初音ミク（doriko、初音ミク）"
+date = 2009-03-25
+type = "normal"
+catalog = "OECD-1003"
+tags = ["初音ミク"]
+
+[[discs]]
+catalog = "OECD-1003"
+
+[[discs.tracks]]
+title = "Rainbow Outline"
+
+[[discs.tracks]]
+title = "夕日坂"
+
+[[discs.tracks]]
+title = "ぶちぬけ！2009！"
+
+[[discs.tracks]]
+title = "G-A-M-E"
+
+[[discs.tracks]]
+title = "Winter Alice"
+
+[[discs.tracks]]
+title = "通勤快速"
+
+[[discs.tracks]]
+title = "みっくりすます（from ジングルベル）"
+
+[[discs.tracks]]
+title = "Astraea (blue mix)"
+
+[[discs.tracks]]
+title = "歌に形はないけれど"
+
+[[discs.tracks]]
+title = "Alive"
+
+[[discs.tracks]]
+title = "モノクロアクト"
+
+[[discs.tracks]]
+title = "letter song"
+artist = "doriko"
+
+[[discs.tracks]]
+title = "歌に形はないけれど (Piano Re-arrange ver)"
+
+[[discs.tracks]]
+title = "さいたま・さいた"
