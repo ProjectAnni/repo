@@ -27,6 +27,8 @@ includes = [
   "group: CHiSPA",
   # MyGO!!!!!（高松燈（羊宮妃那）、千早愛音（立石凛）、要楽奈（青木陽菜）、長崎そよ（小日向美香）、椎名立希（林鼓子））
   "group: MyGO!!!!!",
+  # Ave Mujica（三角初華（佐々木李子）、若葉睦（渡瀬結月）、八幡海鈴（岡田夢以）、祐天寺にゃむ（米澤茜）、豊川祥子（高尾奏音））
+  "group: Ave Mujica",
   #
   # Animations
   "animation: TVアニメ「BanG Dream!」",

@@ -1,0 +1,29 @@
+[album]
+album_id = "b1c3e870-1f70-4322-8ebb-01fdf98d8c34"
+title = "Alea jacta est"
+artist = "Ave Mujica（三角初華（佐々木李子）、若葉睦（渡瀬結月）、八幡海鈴（岡田夢以）、祐天寺にゃむ（米澤茜）、豊川祥子（高尾奏音））"
+date = 2023-09-13
+type = "normal"
+catalog = "BRMM-10672"
+tags = ["Ave Mujica"]
+
+[[discs]]
+catalog = "BRMM-10672"
+
+[[discs.tracks]]
+title = "黒のバースデイ"
+
+[[discs.tracks]]
+title = "ふたつの月 ~Deep Into The Forest~"
+
+[[discs.tracks]]
+title = "Choir ‘S’ Choir"
+
+[[discs.tracks]]
+title = "神さま、バカ"
+
+[[discs.tracks]]
+title = "Mas?uerade Rhapsody Re?uest"
+
+[[discs.tracks]]
+title = "Ave Mujica"
