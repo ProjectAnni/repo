@@ -1,0 +1,353 @@
+[album]
+album_id = "b1283c75-1548-40e6-84b1-eb1ab0eaed7e"
+title = "十三機兵防衛圏 オリジナル・サウンドトラック"
+artist = "崎元仁、金田充弘、工藤吉三、渡邊里佳子、菊池幸範、東原一輝、千葉梓"
+date = 2020-02-27
+type = "absolute"
+catalog = "BSPE-1091~4"
+tags = ["十三機兵防衛圏", "OST"]
+
+[[discs]]
+catalog = "BSPE-1091"
+
+[[discs.tracks]]
+title = "Brat Overflow"
+artist = "Bratphonics"
+type = "normal"
+
+[[discs.tracks]]
+title = "KAIJU"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "(VALINE)-"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "In the Doldrums"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Sneaking Suspicions"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Impending Doom"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Lonely Struggle"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Mornin', Sunshine!"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Halcyon Days"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "LONER"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "-(LEUCINE)-"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Between the Lines"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "-(ISOLEUCINE)-"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Good Times"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Bad Omen"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "The Sector Theorem"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "Power of Destruction"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "-(LYSINE)-"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Taking It Easy"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "IMMINENT"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Will to Win"
+artist = "工藤吉三"
+
+[[discs]]
+catalog = "BSPE-1092"
+
+[[discs.tracks]]
+title = "Self Sacrifice"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "A Clause with Claws"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "-(PHENYLALANINE)-"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Now or Never"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "Seaside Vacation"
+artist = "伊藤フウ"
+
+[[discs.tracks]]
+title = "-(THREONINE)-"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "High Alert"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "-(METHIONINE)-"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Forty Winks"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Bright Days Ahead"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Just Because"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Staring Into the Void"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "BUDDIES"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Cognitive Dissonance"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "A Brave Gene"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "Ennui Vibes"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "UNPREDICTABLE"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Bleak Pressure"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Who D-Unit"
+artist = "工藤吉三"
+
+[[discs]]
+catalog = "BSPE-1093"
+
+[[discs.tracks]]
+title = "Voyage to Tomorrow"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "STAGNATION"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "The 13th Sense"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Emotional Storm"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Mutual Telepathy"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "Feeling at Ease"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "SEEKER"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Time Drain"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "The Chills"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "The Tower of Knowledge"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "Deafening Silence"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Go Sentinels, Go!"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Hack and Crash"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "The Plot Thickens"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Fancy Some Tea?"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Bittersweet Sorrow"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "Double Bind"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Metal Demon"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "466f756e64205521"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Hard Pill to Swallow"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Something's Fishy"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Head in the Clouds"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "A Cruel Thesis"
+artist = "工藤吉三"
+
+[[discs]]
+catalog = "BSPE-1094"
+
+[[discs.tracks]]
+title = "A F8ful Struggle"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "Track Down"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "The One"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "-(HISTIDINE)-"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "Beyond the Memories"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Heated Debate"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "Feeling Left Out"
+artist = "千葉梓"
+
+[[discs.tracks]]
+title = "-(TRYPTOPHAN)-"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "Living in the Moment"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "RESOLUTION"
+artist = "東原一輝"
+
+[[discs.tracks]]
+title = "Dawn of the Sentinels"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "-[RIBOSE]-"
+artist = "金田充弘"
+
+[[discs.tracks]]
+title = "A Bridge from the Past"
+artist = "渡邊里佳子"
+
+[[discs.tracks]]
+title = "To the Final Battle"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "-[DEOXYRIBOSE]-"
+artist = "工藤吉三"
+
+[[discs.tracks]]
+title = "Last Line of Defense"
+artist = "菊池幸範"
+
+[[discs.tracks]]
+title = "-{EDGE OF THE FUTURE}"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "The Ones Who Were Plugged In"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "Inherit Humanity"
+artist = "崎元仁"
+
+[[discs.tracks]]
+title = "The Only Neat Life to Live"
+artist = "崎元仁"
