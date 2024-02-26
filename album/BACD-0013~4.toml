@@ -1,0 +1,125 @@
+[album]
+album_id = "b5578d92-c0de-45f8-8dfa-47f62baa25ae"
+title = "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～"
+artist = "ミツキヨ、KARUT、Nor"
+date = 2024-01-21
+type = "normal"
+catalog = "BACD-0013~4"
+tags = [
+    "Blue Archive",
+    "OST",
+]
+
+[[discs]]
+catalog = "BACD-0013~4"
+
+[[discs.tracks]]
+title = "Han-nari"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Burning Love"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "TOMODACHI Summer"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Wave & Conquer"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Luxury Cool"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Hinagesi"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Illuminated Night"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Illuminated Night Hard Arrange"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Nichirin"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Getsurin"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Dancing Falsehood"
+artist = "Mitsukiyo"
+
+[[discs.tracks]]
+title = "Tsukikage"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "KIRISAME"
+artist = "Nor"
+
+[[discs]]
+catalog = "BACD-0013~4"
+
+[[discs.tracks]]
+title = "Poppin' Memories"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "IROHANI HOP"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "KARAKURhythm"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Cotton Candy Island"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "GIVE ME CHOCO♡"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Na Na Natsu!"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Dive into Summer"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "Raise the Huddle"
+artist = "Nor"
+
+[[discs.tracks]]
+title = "Shooting Athletes"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Goal Wo Nerae!"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Gestalt Angst"
+artist = "ミツキヨ"
+
+[[discs.tracks]]
+title = "! ⸮ WAS IT A CAT I SAW？!"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Dark Shadows"
+artist = "KARUT"
+
+[[discs.tracks]]
+title = "Fruitful Blossom"
+artist = "ミツキヨ"
