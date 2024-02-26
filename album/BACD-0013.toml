@@ -3,15 +3,15 @@ album_id = "b5578d92-c0de-45f8-8dfa-47f62baa25ae"
 title = "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～"
 artist = "ミツキヨ、KARUT、Nor"
 date = 2024-01-21
-type = "normal"
-catalog = "BACD-0013~4"
+type = "absolute"
+catalog = "@BACD-0013-1~2"
 tags = [
     "Blue Archive",
     "OST",
 ]
 
 [[discs]]
-catalog = "BACD-0013~4"
+catalog = "@BACD-0013-1"
 
 [[discs.tracks]]
 title = "Han-nari"
@@ -66,7 +66,7 @@ title = "KIRISAME"
 artist = "Nor"
 
 [[discs]]
-catalog = "BACD-0013~4"
+catalog = "@BACD-0013-2"
 
 [[discs.tracks]]
 title = "Poppin' Memories"
