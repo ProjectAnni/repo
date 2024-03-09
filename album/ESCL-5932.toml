@@ -12,6 +12,7 @@ catalog = "ESCL-5932"
 
 [[discs.tracks]]
 title = "Party!!"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Tap Tap Dance"
@@ -19,6 +20,7 @@ title = "Tap Tap Dance"
 [[discs.tracks]]
 title = "Party!! (instrumental)"
 type = "instrumental"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Tap Tap Dance (instrumental)"
