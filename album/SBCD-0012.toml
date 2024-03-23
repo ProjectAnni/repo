@@ -1,0 +1,43 @@
+[album]
+album_id = "3b753433-5930-4fab-b3f8-1dc2972b1726"
+title = "ネタミニティ"
+artist = "あやぽんず＊、あよ"
+date = 2018-08-10
+type = "normal"
+catalog = "SBCD-012"
+tags = ["森羅万象"]
+
+[[discs]]
+catalog = "SBCD-012"
+
+[[discs.tracks]]
+title = "ノット・グッド・ワールド"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "バイオラブリズム"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "深層トワイライト"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "テセウスの匣"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "運命線上のアリア"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "無間嫉妬劇場『666』"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "メイドノココロハ アヤツリドール"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "キャロルが終わる その前に"
+artist = "あやぽんず＊"

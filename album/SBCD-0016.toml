@@ -1,0 +1,51 @@
+[album]
+album_id = "5ad295df-43c2-4ec0-b756-f17b2b335dc8"
+title = "東方歌ってみた"
+artist = "あやぽんず＊、あよ"
+date = 2019-08-12
+type = "normal"
+catalog = "SBCD-016"
+tags = ["森羅万象"]
+
+[[discs]]
+catalog = "SBCD-016"
+
+[[discs.tracks]]
+title = "月に叢雲華に風 森羅万象Ver"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "Help me, ERINNNNNN!!森羅万象Ver"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "魔理沙は大変なものを盗んでいきました 森羅万象Ver"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "星空グランドスラム 森羅万象Ver"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "Witches' Night 森羅万象Ver"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "囲い無き世は一期の月影 森羅万象Ver"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "人間が大好きなこわれた妖怪の唄 森羅万象Ver"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "Paranoia(SBver1 Remix)"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "ってゐ!～森羅万象Ver"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "星を廻せ月より速く VerS"
+artist = "あやぽんず＊、あよ"

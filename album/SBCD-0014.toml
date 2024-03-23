@@ -1,0 +1,43 @@
+[album]
+album_id = "f0588f06-d48f-4479-a8c5-4f38cd229f1a"
+title = "エイセイパレード"
+artist = "あやぽんず＊、あよ"
+date = 2019-05-05
+type = "normal"
+catalog = "SBCD-014"
+tags = ["森羅万象"]
+
+[[discs]]
+catalog = "SBCD-014"
+
+[[discs.tracks]]
+title = "Ring Sky Core"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "ランシンゼンシン"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "コウフクアイロニー"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "タイムパラドックス"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "ふわ。"
+artist = "あやぽんず＊"
+
+[[discs.tracks]]
+title = "三妖精SAY YA!!!"
+artist = "あやぽんず＊、あよ"
+
+[[discs.tracks]]
+title = "贋作"
+artist = "あよ"
+
+[[discs.tracks]]
+title = "至極普通のアークライト"
+artist = "あよ"
