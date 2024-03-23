@@ -1,0 +1,15 @@
+[album]
+album_id = "50ff54a6-f946-482f-b538-2e3f61178509"
+title = "Sleep Walking Orchestra"
+artist = "BUMP OF CHICKEN"
+date = 2023-12-11
+type = "normal"
+catalog = "TFDS-00975"
+tags = ["ダンジョン飯"]
+
+[[discs]]
+catalog = "TFDS-00975"
+
+[[discs.tracks]]
+title = "Sleep Walking Orchestra"
+tags = ["OP"]

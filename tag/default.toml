@@ -1254,6 +1254,11 @@ name = "SYNDUALITY Noir"
 names.zh-hans = "奇异贤伴 黑色天使"
 type = "animation"
 
+[[tag]]
+name = "ダンジョン飯"
+names.zh-hans = "迷宫饭"
+type = "animation"
+
 ################################################################################
 # Game
 #

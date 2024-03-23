@@ -1,0 +1,27 @@
+[album]
+album_id = "3ef57d98-fe9f-4dc1-a2fe-9a11d6807ada"
+title = "Party!!"
+artist = "緑黄色社会"
+date = 2024-03-06
+type = "normal"
+catalog = "ESCL-5932"
+tags = ["ダンジョン飯"]
+
+[[discs]]
+catalog = "ESCL-5932"
+
+[[discs.tracks]]
+title = "Party!!"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Tap Tap Dance"
+
+[[discs.tracks]]
+title = "Party!! (instrumental)"
+type = "instrumental"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Tap Tap Dance (instrumental)"
+type = "instrumental"
