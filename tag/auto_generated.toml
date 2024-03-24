@@ -9,3 +9,7 @@ type = "group"
 [[tag]]
 name = "ラブライブ！スーパースター!!"
 type = "animation"
+
+[[tag]]
+name = "イロドリミドリ"
+type = "project"
