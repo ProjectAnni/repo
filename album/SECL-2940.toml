@@ -13,18 +13,20 @@ catalog = "SECL-2940"
 
 [[discs.tracks]]
 title = "Anytime Anywhere"
-tags = ["OP"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "bliss"
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Anytime Anywhere -TVサイズ 1stクール-"
-tags = ["OP"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "Anytime Anywhere -TVサイズ 2ndクール-"
-tags = ["OP"]
+tags = ["ED"]
 
 [[discs.tracks]]
 title = "bliss -TVサイズ-"
+tags = ["ED"]
