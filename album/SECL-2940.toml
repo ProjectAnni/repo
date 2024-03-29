@@ -1,0 +1,32 @@
+[album]
+album_id = "d32c1350-a44b-4091-99eb-2ac5168c2f1f"
+title = "Anytime Anywhere"
+edition = "期間生産限定盤"
+artist = "milet"
+date = 2024-01-31
+type = "normal"
+catalog = "SECL-2940"
+tags = ["葬送のフリーレン"]
+
+[[discs]]
+catalog = "SECL-2940"
+
+[[discs.tracks]]
+title = "Anytime Anywhere"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "bliss"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Anytime Anywhere -TVサイズ 1stクール-"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "Anytime Anywhere -TVサイズ 2ndクール-"
+tags = ["ED"]
+
+[[discs.tracks]]
+title = "bliss -TVサイズ-"
+tags = ["ED"]
