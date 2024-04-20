@@ -1,0 +1,18 @@
+[album]
+album_id = "6f80617c-e53d-4e71-a5d5-2a2a068e30fe"
+title = "音色の彼方"
+artist = "北宇治カルテット（黄前久美子（黒沢ともよ）、加藤葉月（朝井彩加）、川島緑輝（豊田萌絵）、高坂麗奈（安済知佳））"
+date = 2024-04-15
+type = "normal"
+catalog = "LAXX-24539"
+tags = ["響け！ユーフォニアム3", "OP"]
+
+[[discs]]
+catalog = "LAXX-24539"
+
+[[discs.tracks]]
+title = "音色の彼方"
+
+[[discs.tracks]]
+title = "音色の彼方 (OFF VOCAL)"
+type = "instrumental"
