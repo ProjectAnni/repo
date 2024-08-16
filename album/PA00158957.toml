@@ -1,0 +1,27 @@
+[album]
+album_id = "ff974d6f-73b1-4eac-b69f-5699c6dd85c7"
+title = "Wake up!!"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00158957"
+tags = []
+
+[[discs]]
+catalog = "PA00158957"
+artist = "初星学園、田中透真、葛城リーリヤ"
+
+[[discs.tracks]]
+title = "Wake up!!"
+
+[discs.tracks.artists]
+arranger = "アッシュ井上、田中透真"
+composer = "田中透真"
+
+[[discs.tracks]]
+title = "Wake up!! [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+arranger = "アッシュ井上、田中透真"
+composer = "田中透真"

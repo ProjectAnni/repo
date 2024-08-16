@@ -1,0 +1,27 @@
+[album]
+album_id = "9f82931b-7f64-4088-bbf4-f40e60ff3d22"
+title = "clumsy trick"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153105"
+tags = []
+
+[[discs]]
+catalog = "PA00153105"
+artist = "初星学園、渡辺 翔、姫崎莉波"
+
+[[discs.tracks]]
+title = "clumsy trick"
+
+[discs.tracks.artists]
+composer = "渡辺 翔"
+arranger = "奈須野 新平"
+
+[[discs.tracks]]
+title = "clumsy trick [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+composer = "渡辺 翔"
+arranger = "奈須野 新平"
