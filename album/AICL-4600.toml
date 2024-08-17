@@ -1,0 +1,25 @@
+[album]
+album_id = "78ecf4fd-334a-4cff-8a5c-adce588fd460"
+title = "つよがるガール"
+edition = "期間生産限定盤"
+artist = "ぼっちぼろまる（もっさ）"
+date = 2024-08-14
+type = "normal"
+catalog = "AICL-4600"
+tags = ["負けヒロインが多すぎる！"]
+
+[[discs]]
+catalog = "AICL-4600"
+
+[[discs.tracks]]
+title = "つよがるガール"
+
+[[discs.tracks]]
+title = "ダメニンゲンぱれーど"
+
+[[discs.tracks]]
+title = "つよがるガール (Anime Edit)"
+
+[[discs.tracks]]
+title = "つよがるガール (Instrumental)"
+type = "instrumental"
