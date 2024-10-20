@@ -4,14 +4,14 @@ title = "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious tim
 artist = "Mitsukiyo、KARUT、Nor"
 date = 2023-01-23
 type = "absolute"
-catalog = "@BACD-0007-1~2"
+catalog = "BACD-0007"
 tags = [
     "Blue Archive",
     "OST",
 ]
 
 [[discs]]
-catalog = "@BACD-0007-1"
+catalog = "@BACD-0007-01"
 
 [[discs.tracks]]
 title = "Midnight Trip"
@@ -66,7 +66,7 @@ title = "Aira"
 artist = "Mitsukiyo"
 
 [[discs]]
-catalog = "@BACD-0007-2"
+catalog = "@BACD-0007-02"
 
 [[discs.tracks]]
 title = "Aoharu"
