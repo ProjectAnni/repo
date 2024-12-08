@@ -1,0 +1,27 @@
+[album]
+album_id = "63695844-01ca-4195-8417-a156daba7432"
+title = "Tame-Lie-One-Step"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153101"
+tags = []
+
+[[discs]]
+catalog = "PA00153101"
+artist = "初星学園、紫雲清夏"
+
+[[discs.tracks]]
+title = "Tame-Lie-One-Step"
+
+[discs.tracks.artists]
+arranger = "東 優太"
+composer = "東 優太"
+
+[[discs.tracks]]
+title = "Tame-Lie-One-Step [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+arranger = "東 優太"
+composer = "東 優太"

@@ -1,0 +1,27 @@
+[album]
+album_id = "1b23d795-3aac-4cce-92f5-81531f3c1f44"
+title = "世界一可愛い私"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153104"
+tags = []
+
+[[discs]]
+catalog = "PA00153104"
+artist = "初星学園、HoneyWorks、藤田ことね"
+
+[[discs.tracks]]
+title = "世界一可愛い私"
+
+[discs.tracks.artists]
+composer = "HoneyWorks"
+arranger = "HoneyWorks"
+
+[[discs.tracks]]
+title = "世界一可愛い私 [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+composer = "HoneyWorks"
+arranger = "HoneyWorks"

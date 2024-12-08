@@ -1,0 +1,27 @@
+[album]
+album_id = "03853ccb-848e-42ac-a300-ad32e100ca60"
+title = "白線"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153100"
+tags = []
+
+[[discs]]
+catalog = "PA00153100"
+artist = "初星学園、葛城リーリヤ"
+
+[[discs.tracks]]
+title = "白線"
+
+[discs.tracks.artists]
+arranger = "ナユタン星人"
+composer = "ナユタン星人"
+
+[[discs.tracks]]
+title = "白線 [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+arranger = "ナユタン星人"
+composer = "ナユタン星人"

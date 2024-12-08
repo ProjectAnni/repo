@@ -1,0 +1,27 @@
+[album]
+album_id = "7e1f3ad6-8765-45e3-8675-9a5e92a01950"
+title = "Howling over the World(花海咲季・月村手毬・藤田ことね ver.)"
+artist = "初星学園"
+date = 2024-08-16
+type = "normal"
+catalog = "PA00160687"
+tags = []
+
+[[discs]]
+catalog = "PA00160687"
+artist = "初星学園、烏屋茶房、花海咲季、月村手毬、藤田ことね"
+
+[[discs.tracks]]
+title = "Howling over the World(花海咲季・月村手毬・藤田ことね ver.)"
+
+[discs.tracks.artists]
+arranger = "烏屋茶房"
+composer = "烏屋茶房"
+
+[[discs.tracks]]
+title = "Howling over the World [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+arranger = "烏屋茶房"
+composer = "烏屋茶房"

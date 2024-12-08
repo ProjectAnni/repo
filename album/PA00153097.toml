@@ -1,0 +1,27 @@
+[album]
+album_id = "8b62cc80-15ff-4782-8003-e483d3e5293f"
+title = "Luna say maybe"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153097"
+tags = []
+
+[[discs]]
+catalog = "PA00153097"
+artist = "初星学園、美波、月村手毬"
+
+[[discs.tracks]]
+title = "Luna say maybe"
+
+[discs.tracks.artists]
+arranger = "美波、真船勝博"
+composer = "美波"
+
+[[discs.tracks]]
+title = "Luna say maybe [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+arranger = "美波、真船勝博"
+composer = "美波"

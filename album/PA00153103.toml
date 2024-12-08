@@ -1,0 +1,27 @@
+[album]
+album_id = "af1c6cbf-259a-4628-9a50-fc7c125e795e"
+title = "Wonder Scale"
+artist = "初星学園"
+date = 2024-08-09
+type = "normal"
+catalog = "PA00153103"
+tags = []
+
+[[discs]]
+catalog = "PA00153103"
+artist = "初星学園、兼松 衆、倉本千奈"
+
+[[discs.tracks]]
+title = "Wonder Scale"
+
+[discs.tracks.artists]
+arranger = "兼松 衆"
+composer = "兼松 衆"
+
+[[discs.tracks]]
+title = "Wonder Scale [Instrumental]"
+type = "instrumental"
+
+[discs.tracks.artists]
+composer = "兼松 衆"
+arranger = "兼松 衆"
