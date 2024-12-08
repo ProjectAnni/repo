@@ -1,0 +1,14 @@
+[album]
+album_id = "548dc090-d69e-427b-be54-cd1c5fe0d374"
+title = "ReCoda"
+artist = "TRUE"
+date = 2024-04-14
+type = "normal"
+catalog = "LAXX-02723"
+tags = ["TRUE", "響け！ユーフォニアム3", "OP"]
+
+[[discs]]
+catalog = "LAXX-02723"
+
+[[discs.tracks]]
+title = "ReCoda"
