@@ -1,0 +1,85 @@
+[album]
+album_id = "39e0ccd5-d793-493a-8c3b-75fe9c06c22f"
+title = "Still"
+edition = "type-A"
+artist = "イロドリミドリ（天王洲なずな（山本彩乃）、小仏凪（佐倉薫）、御形アリシアナ（福原綾香）、明坂芹菜（新田恵海）、月鈴白奈（高野麻里佳）、月鈴那知（今村彩夏）、箱部なる（M・A・O））"
+date = 2017-08-23
+type = "normal"
+catalog = "WWCE-31387"
+tags = ["イロドリミドリ"]
+
+[[discs]]
+catalog = "WWCE-31387"
+
+[[discs.tracks]]
+title = "Still"
+
+[[discs.tracks]]
+title = "GO!GO!ラブリズム♥ ～あーりん書類審査通過記念 Ver.～"
+artist = "御形アリシアナ（福原綾香）、イロドリミドリ（天王洲なずな（山本彩乃）、小仏凪（佐倉薫）、御形アリシアナ（福原綾香）、明坂芹菜（新田恵海）、月鈴白奈（高野麻里佳）、月鈴那知（今村彩夏）、箱部なる（M・A・O））"
+
+[[discs.tracks]]
+title = "夢と夢～あの日のメロディ～"
+
+[[discs.tracks]]
+title = "Still (明坂芹菜 Ver.)"
+artist = "明坂芹菜（新田恵海）"
+
+[[discs.tracks]]
+title = "Still (御形アリシアナ Ver.)"
+artist = "御形アリシアナ（福原綾香）"
+
+[[discs.tracks]]
+title = "Still (天王洲なずな Ver.)"
+artist = "天王洲なずな（山本彩乃）"
+
+[[discs.tracks]]
+title = "Still (小仏凪 Ver.)"
+artist = "小仏凪（佐倉薫）"
+
+[[discs.tracks]]
+title = "Still (箱部なる Ver.)"
+artist = "箱部なる（M・A・O）"
+
+[[discs.tracks]]
+title = "Still (月鈴那知 Ver.)"
+artist = "月鈴那知（今村彩夏）"
+
+[[discs.tracks]]
+title = "Still (月鈴白奈 Ver.)"
+artist = "月鈴白奈（高野麻里佳）"
+
+[[discs.tracks]]
+title = "Still (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Guitar1])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Guitar2])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Drums])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Bass])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−KeyBoard])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Violin1])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (Instrumental[−Violin2])"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "Still (CHUNITHM size)"

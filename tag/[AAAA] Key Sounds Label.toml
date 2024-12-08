@@ -6,6 +6,7 @@ includes = [
     "game: Kud Wafter",
     "game: HEAVEN BURNS RED",
     "animation: 神様になった日",
+    "game: 終のステラ",
 ]
 
 [[tag]]
@@ -15,5 +16,5 @@ included-by = ["organization: Key Sounds Label"]
 includes = [
     "animation: TVアニメ「Rewrite」",
     "game: Rewrite Harvest festa!",
-    "series: ラジオRewrite 月刊テラ・風祭学院支局"
+    "series: ラジオRewrite 月刊テラ・風祭学院支局",
 ]

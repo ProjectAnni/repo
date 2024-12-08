@@ -1,0 +1,108 @@
+[album]
+album_id = "68c0a9a0-cce0-4e90-9820-4437e1efb5bb"
+title = "終のステラ Original Soundtrack"
+artist = "Various Artists"
+date = 2022-09-30
+type = "absolute"
+catalog = "KSLA-0194"
+tags = ["終のステラ", "OST"]
+
+[[discs]]
+catalog = "KSLA-0194"
+artist = "Key Sounds Label"
+
+[[discs.tracks]]
+title = "breath of stella"
+artist = "相宮零"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Beginning"
+
+[[discs.tracks]]
+title = "White Flower"
+
+[[discs.tracks]]
+title = "Vast Forests"
+
+[[discs.tracks]]
+title = "In the Sanctuary"
+
+[[discs.tracks]]
+title = "Journey"
+
+[[discs.tracks]]
+title = "Kittenish"
+
+[[discs.tracks]]
+title = "Everyday"
+
+[[discs.tracks]]
+title = "Zephyr"
+
+[[discs.tracks]]
+title = "Odyssey"
+
+[[discs.tracks]]
+title = "Unknown"
+
+[[discs.tracks]]
+title = "& Nightmares"
+
+[[discs.tracks]]
+title = "Xanadu he seeks"
+
+[[discs.tracks]]
+title = "Human Nature"
+
+[[discs.tracks]]
+title = "Tempest"
+
+[[discs.tracks]]
+title = "Shadow of the Almighty"
+
+[[discs.tracks]]
+title = "Almighty"
+
+[[discs.tracks]]
+title = "No Way Out"
+
+[[discs.tracks]]
+title = "Confrontation"
+
+[[discs.tracks]]
+title = "Grief"
+
+[[discs.tracks]]
+title = "終の祈り"
+artist = "rionos"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Reminiscence"
+
+[[discs.tracks]]
+title = "Maze in the Mist"
+
+[[discs.tracks]]
+title = "Fading Light"
+
+[[discs.tracks]]
+title = "Quietude"
+
+[[discs.tracks]]
+title = "Last Wish"
+
+[[discs.tracks]]
+title = "Dawn"
+
+[[discs.tracks]]
+title = "Yearning for my F/D"
+
+[[discs.tracks]]
+title = "Ortus"
+artist = "相宮零"
+type = "vocal"
+
+[[discs.tracks]]
+title = "Petals Dancing in the Wind"

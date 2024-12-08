@@ -1,0 +1,69 @@
+[album]
+album_id = "c96b13ca-78a1-42db-a5c7-1e63998997de"
+title = "単位"
+artist = "イロドリミドリ（天王洲なずな（山本彩乃）、小仏凪（佐倉薫）、御形アリシアナ（福原綾香）、明坂芹菜（新田恵海）、月鈴白奈（高野麻里佳）、月鈴那知（今村彩夏）、箱部なる（M・A・O））"
+date = 2016-10-19
+type = "normal"
+catalog = "WWCE-31383"
+tags = ["イロドリミドリ"]
+
+[[discs]]
+catalog = "WWCE-31383"
+
+[[discs.tracks]]
+title = "Change Our MIRAI!"
+
+[[discs.tracks]]
+title = "[ドラマ] 第1.1話「ウェルカム・トゥ・ザ・ジャングル!」"
+type = "drama"
+
+[[discs.tracks]]
+title = "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察"
+artist = "小仏凪（佐倉薫）"
+
+[[discs.tracks]]
+title = "DETARAME ROCK&ROLL THEORY"
+artist = "箱部なる（M・A・O）"
+
+[[discs.tracks]]
+title = "ハート・ビート"
+artist = "明坂芹菜（新田恵海）"
+
+[[discs.tracks]]
+title = "[ドラマ] 第2.5話「ブランニュー・ワールド」"
+type = "drama"
+
+[[discs.tracks]]
+title = "フォルテシモBELL"
+artist = "天王洲なずな（山本彩乃）"
+
+[[discs.tracks]]
+title = "brilliant better"
+artist = "御形アリシアナ（福原綾香）"
+
+[[discs.tracks]]
+title = "[ドラマ] 第4.2話「みんなのうた」"
+type = "drama"
+
+[[discs.tracks]]
+title = "無敵We are one!!"
+
+[[discs.tracks]]
+title = "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察 (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "DETARAME ROCK&ROLL THEORY (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "ハート・ビート (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "フォルテシモBELL (Instrumental)"
+type = "instrumental"
+
+[[discs.tracks]]
+title = "brilliant better (Instrumental)"
+type = "instrumental"
